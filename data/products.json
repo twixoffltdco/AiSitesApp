@@ -1,5 +1,69 @@
 [
   {
+    "slug": "fleet-deck-see-every-claude-code-session-on-your-machine-in-one-board-hn",
+    "title": "Fleet Deck – see every Claude Code session on your machine in one board",
+    "shortDescription": "Irun several Claude Code sessions in parallel and im really bad at keeping track, its usually hard to figure out witch are working, witch a…",
+    "fullDescription": "Irun several Claude Code sessions in parallel and im really bad at keeping track, its usually hard to figure out witch are working, witch are wayting for input, when im running 10 or more parallel sessions i just expend more time going to tabs that anything else. Fleetdeck is a local daemon and a UI that runs on 172.0.0.1:4711, every session on the machine appears with a callsign and a column (queued, working, needs-you, iddle) all is derived using claude code hoojs, so now i can have a site that i can run in a second monitor and quickly see is any sessions needs my input or is done for me to go review the work or the plan. you can even launch more sessions from the ui, and they go directly to a tmux window. you can manage worktrees, and even open the terminal view directly from the ui. the big choice i made here, is this does not forces a workflow, its just a claude session, you work however the hell you want to, i wont impose anything, the core makes zero use of ai, is just good old deterministic plain code and sql.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/lacion/fleet-deck",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48898736",
+    "createdAt": "2026-07-13T21:00:10.739Z"
+  },
+  {
+    "slug": "agentsproof-a-small-project-for-testing-ai-agents-hn",
+    "title": "AgentsProof – a small project for testing AI agents",
+    "shortDescription": "I built AgentsProof as a learning side-project to better understand agent evals and observability. It lets me trace runs, create eval cases…",
+    "fullDescription": "I built AgentsProof as a learning side-project to better understand agent evals and observability. It lets me trace runs, create eval cases, and see where an agent succeeds or fails. Nothing fancy but it does creates publicly shareable reports for your agent runs\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.agentsproof.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48898280",
+    "createdAt": "2026-07-13T21:00:10.739Z"
+  },
+  {
+    "slug": "planwright-a-control-plane-for-ai-coding-agents-hn",
+    "title": "PlanWright – A control plane for AI coding agents",
+    "shortDescription": "MCP driven control plane for Agentic Engineering. Plan from Claude Desktop, implement in Codex, review in a custom triage agent. All via MC…",
+    "fullDescription": "MCP driven control plane for Agentic Engineering. Plan from Claude Desktop, implement in Codex, review in a custom triage agent. All via MCP, all logged and tracked with full documentation of all decisions made by each agent.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://planwright.tools",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48897969",
+    "createdAt": "2026-07-13T21:00:10.739Z"
+  },
+  {
+    "slug": "i-created-a-platform-to-check-which-ai-models-is-the-best-gamer-hn",
+    "title": "I created a platform to check which AI models is the best gamer",
+    "shortDescription": "Проект «I created a platform to check which AI models is the best gamer», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I created a platform to check which AI models is the best gamer», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://system-2-arena.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48897963",
+    "createdAt": "2026-07-13T21:00:10.739Z"
+  },
+  {
     "slug": "billai-bass-an-ai-powered-big-mouth-billy-bass-using-strands-agents-hn",
     "title": "BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
     "shortDescription": "Проект «BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents», опубликован сообществом Hacker News.",
