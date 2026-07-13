@@ -1,5 +1,27 @@
 [
   {
+    "slug": "omnivox-github",
+    "title": "omnivox",
+    "shortDescription": "Self-hostable AI meeting notetaker: transcription, executive briefs, action boards, and diagrams — with an OpenAI-compatible pluggable back…",
+    "fullDescription": "Self-hostable AI meeting notetaker: transcription, executive briefs, action boards, and diagrams — with an OpenAI-compatible pluggable backend\n\nАвтор: Adibla. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/Adibla/omnivox",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "bullmq",
+      "meeting-notes",
+      "nextjs",
+      "self-hosted",
+      "transcription",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1297653021",
+    "createdAt": "2026-07-13T07:48:24.932Z"
+  },
+  {
     "slug": "guido-github",
     "title": "Guido",
     "shortDescription": "景区导览服务 AI 数字人：基于 Spring Boot、Vue 3、UniApp 与本地 RAG 的智能导览系统。",
