@@ -1,5 +1,64 @@
 [
   {
+    "slug": "local-recall-github",
+    "title": "Local-Recall",
+    "shortDescription": "An early prototype alternative to Microsoft/Windows Recall, built to run 100% locally with zero cloud communication. Captures screen snapsh…",
+    "fullDescription": "An early prototype alternative to Microsoft/Windows Recall, built to run 100% locally with zero cloud communication. Captures screen snapshots, extracts text via WinRT OCR, and indexes embeddings into SQLite. Query your history conversationally via your local LLM (LM Studio). Under active development.\n\nАвтор: anshupriyan. Найдено в GitHub Trending (AI-тематика). ⭐ 12 звёзд.",
+    "url": "https://github.com/anshupriyan/Local-Recall",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "microsoft",
+      "python",
+      "windows",
+      "windows-recall",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1299074098",
+    "createdAt": "2026-07-13T10:58:08.703Z"
+  },
+  {
+    "slug": "crowdmind-github",
+    "title": "crowdmind",
+    "shortDescription": "Desktop app for building AI persona panels and testing stimuli against them (Electron + React + TypeScript)",
+    "fullDescription": "Desktop app for building AI persona panels and testing stimuli against them (Electron + React + TypeScript)\n\nАвтор: Brokenwatch24. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Brokenwatch24/crowdmind",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "buyer-personas",
+      "mcp-server",
+      "open-source",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1298357739",
+    "createdAt": "2026-07-13T10:58:08.703Z"
+  },
+  {
+    "slug": "call-to-control-ai-agents-via-the-web-hn",
+    "title": "Call to Control AI Agents via the Web",
+    "shortDescription": "Opensource Project I&#x27;m working on I wanted more control of my coding agents (Codex, Claude Code, Open Code) especially if I am outside…",
+    "fullDescription": "Opensource Project I&#x27;m working on I wanted more control of my coding agents (Codex, Claude Code, Open Code) especially if I am outside, so I made it accessible via an ADE Client (Agentic Development Environment) and the Cloud. On the web you can message and view the work on your AI Agents. Since I had some experience with Twilio, I also added the ability for users to add their own Twilio Account and setup basically a mini &quot;Cloud PBX&quot; (its not infinitely scalable, its designed for small throughput) - so you can manage cellular calls on your business as well as route your own number to a dedicated Voice Agent on the web that knows about your account, connected devices, and control your devices remotely. The ADE itself is pretty advanced: To do list native, Session History per Workspace, PCB Design via Opensource TSCircuit, AI Video Editor (very basic so far) and eventually the idea is that it will get good enough to automate content generation and simpler engineering tasks Still in active development.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://diffforge.ai/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48890319",
+    "createdAt": "2026-07-13T10:58:08.421Z"
+  },
+  {
     "slug": "omnivox-github",
     "title": "omnivox",
     "shortDescription": "Self-hostable AI meeting notetaker: transcription, executive briefs, action boards, and diagrams — with an OpenAI-compatible pluggable back…",
