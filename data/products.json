@@ -1,5 +1,219 @@
 [
   {
+    "slug": "liyuan-github",
+    "title": "Liyuan",
+    "shortDescription": "梨园 Liyuan — 以 AI Agent 为主体的角色扮演应用：记忆账本、决策卡、自建面板、世界线，兼容角色卡/世界书",
+    "fullDescription": "梨园 Liyuan — 以 AI Agent 为主体的角色扮演应用：记忆账本、决策卡、自建面板、世界线，兼容角色卡/世界书\n\nАвтор: weidu12123. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/weidu12123/Liyuan",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-agent",
+      "ai-roleplay",
+      "character-card",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1298265782",
+    "createdAt": "2026-07-13T16:05:10.647Z"
+  },
+  {
+    "slug": "containerized-ai-development-with-cross-compatibility-hn",
+    "title": "Containerized AI development with cross-compatibility",
+    "shortDescription": "I need to study different harnesses CLI, and to find a way to switch from one provider to another. I built a template repository to govern…",
+    "fullDescription": "I need to study different harnesses CLI, and to find a way to switch from one provider to another. I built a template repository to govern your AI chats with more grip than usual. It leverages PI.dev coding agent and an aggressive isolation done with Docker + VS Code So far works on Linux and MacOS, and should also works on WSL2. The project uses a container to run your preferred AI harnesses CLI. The container is optional, but protect your disk from bad things (I noticed rm -rf is always the preferred removal command of Deepseek :) a bit scary) I am slowly extending it, aiming at - reduce token usage - ability to install extra skill via pi.dev - experimenting with variants (like AWS AI-SDLC v1). Please feel free to comment and give me hints.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/daitangio/take-ai-control",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48894720",
+    "createdAt": "2026-07-13T16:05:10.503Z"
+  },
+  {
+    "slug": "jacquard-a-programming-language-for-ai-written-human-reviewed-code-hn",
+    "title": "Jacquard, a programming language for AI-written, human-reviewed code",
+    "shortDescription": "Проект «Jacquard, a programming language for AI-written, human-reviewed code», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Jacquard, a programming language for AI-written, human-reviewed code», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/jbwinters/jacquard-lang",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48894630",
+    "createdAt": "2026-07-13T16:05:10.503Z"
+  },
+  {
+    "slug": "html-css-and-javascript-in-the-terminal-hn",
+    "title": "HTML, CSS and JavaScript in the Terminal",
+    "shortDescription": "This is a model I’ve been thinking about lately. It demonstrates a pattern that I’m wondering could exist, where terminal applications, BBS…",
+    "fullDescription": "This is a model I’ve been thinking about lately. It demonstrates a pattern that I’m wondering could exist, where terminal applications, BBS-style shared user boards, and other expressions of creativity and sharing are created with web technologies but rendered into the terminal and accessed over SSH. I like that this brings back some kind of old days of the internet feeling and uses web technologies but sidesteps the public World Wide Web, even though it’s still on the internet. You can try it out too right now, and I’m thinking about making the self-hosting specialized applications part a first-class thing. But right now, the project is organized as a browser rendering engine, which I spent eight years on since the end of 2018, most of that without AI, writing all the code myself. And then a terminal renderer, which connects to that browser renderer and takes its output and bookkeeping and renders it into the terminal. And that is designed by me, including the layout algorithm, but AI wrote almost all the code. So I am basically a software designer and AI nudger in that one. My flow is essentially like one agent at a time, and I’ll monitor it, nudge it based on my intuitions if it gets stuck or needs help or whatever, and guide it towards the goal. Plus being the designer and decision maker. AI makes a lot of decisions, but I make the most of them. So that’s just describing my flow of how I created this terminal thing, which is roughly around a year old. And originally it was created with Gemini Pro 3.1, which at that time a year ago was sort of the most capable model for complex tasks. And I literally did it on the free AI Studio web application, just like pasting in code listings. Obviously, with agents now, everything is much smoother as a workflow. This demo has some kind of a cap on it, so let me know if it hits that. It probably won’t, but feel free to tell me. And you can self-host it today. Let me know if you want to do that. This text was dictated by me and then had punctuation and paragraphing added, but the wording was not changed.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://duetbrowser.com/krnl-ss-redirect?k2vh",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48894572",
+    "createdAt": "2026-07-13T16:05:10.503Z"
+  },
+  {
+    "slug": "overplane-containers-and-formal-verification-for-ai-code-hn",
+    "title": "Overplane: Containers and formal verification for AI code",
+    "shortDescription": "Проект «Overplane: Containers and formal verification for AI code», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Overplane: Containers and formal verification for AI code», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.overplane.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48894426",
+    "createdAt": "2026-07-13T16:05:10.503Z"
+  },
+  {
+    "slug": "s4ready-deduplicate-and-fix-sap-data-before-an-s4hana-migration-hn",
+    "title": "S4Ready – Deduplicate and fix SAP data before an S/4HANA migration",
+    "shortDescription": "Проект «S4Ready – Deduplicate and fix SAP data before an S/4HANA migration», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «S4Ready – Deduplicate and fix SAP data before an S/4HANA migration», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://s4ready.fenikstech.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48894419",
+    "createdAt": "2026-07-13T16:05:10.503Z"
+  },
+  {
+    "slug": "a-dna-motiffeature-scanner-on-a-single-cloudflare-worker-in-rust-hn",
+    "title": "A DNA motif/feature scanner on a single Cloudflare Worker, in Rust",
+    "shortDescription": "A project idea that had been on the back of mind for a long time was something inspired from rdkit, first time I read about it was while re…",
+    "fullDescription": "A project idea that had been on the back of mind for a long time was something inspired from rdkit, first time I read about it was while reading a random blog of Schrödinger about their work in computational biology, and soon I realised that how much of the current drug discovery research quietly runs on top of it which has been a common application of AI research. Around the same time I came across Cloudflare&#x27;s blog on Pingora [ https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;how-we-built-pingora-the-proxy-t... ] and boy it was fun to read, Being a rust dev i was curious to try out the cloudflare&#x27;s stack especially their recent work on Cloudflare Agents and wanted to incorporate these both ideas, and so this was something i came up: GitHub: https:&#x2F;&#x2F;github.com&#x2F;dhruvkjain&#x2F;argus-ligand&#x2F; Live demo: https:&#x2F;&#x2F;argus-ligand.dkjain2005co.workers.dev&#x2F; PS: i tried rdkit on cloudflare workers but it was too complex for my first project so, i pivoted to a DNA features&#x2F;motifs finder\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/dhruvkjain/argus-ligand",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48893948",
+    "createdAt": "2026-07-13T16:05:10.503Z"
+  },
+  {
+    "slug": "a-developer-tool-guide-for-ai-coding-agents-900-tools-and-counting-hn",
+    "title": "A developer tool guide for AI coding agents (900 tools and counting)",
+    "shortDescription": "Try it without leaving the terminal: curl &quot; https:&#x2F;&#x2F;zairalabs.ai&#x2F;guide&#x2F;api&#x2F;v1&#x2F;tools?category=relational-…",
+    "fullDescription": "Try it without leaving the terminal: curl &quot; https:&#x2F;&#x2F;zairalabs.ai&#x2F;guide&#x2F;api&#x2F;v1&#x2F;tools?category=relational-... &quot; Or add it to your harness via MCP: https:&#x2F;&#x2F;zairalabs.ai&#x2F;guide&#x2F;mcp\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://zairalabs.ai/guide/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48893913",
+    "createdAt": "2026-07-13T16:05:10.503Z"
+  },
+  {
+    "slug": "yes-brainer-a-council-of-llms-that-debate-in-the-browser-byok-hn",
+    "title": "Yes-Brainer – A council of LLMs that debate in the browser, BYOK",
+    "shortDescription": "Проект «Yes-Brainer – A council of LLMs that debate in the browser, BYOK», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Yes-Brainer – A council of LLMs that debate in the browser, BYOK», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://yesbrainer.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48893886",
+    "createdAt": "2026-07-13T16:05:10.503Z"
+  },
+  {
+    "slug": "harpist-convert-any-website-into-a-refined-and-documented-api-hn",
+    "title": "Harpist – convert any website into a refined and documented API",
+    "shortDescription": "Hello HN! As part of our work at Kenobi[0], I used Codex to analyse an HTTP archive (HAR) for a website I was trying to see if I could use…",
+    "fullDescription": "Hello HN! As part of our work at Kenobi[0], I used Codex to analyse an HTTP archive (HAR) for a website I was trying to see if I could use programatically, i.e. by exposing its underlying &#x2F; undocumented API. That approach worked much better than I expected, so I started looking for a way to do this easily for other websites. I couldn&#x27;t find exactly what I wanted, so we decided to build Harpist -- a product in two parts: i. A Chrome extension, that allows you to record HAR files and view generated documentation; and ii. A CLI that can be used by agents to refine these HAR files and create oRPC contracts, documentation, and allow you to replay HTTP requests. There&#x27;s an agent skill that lets you use Claude or Codex to manage all of the refinement and CLI usage, so right now the workflow is as follows: 1. Open the Chrome extension and record yourself using a website (the parts you&#x27;d want to automate). 2. Tell your agent to &quot;use Harpist to refine my latest recording&quot;. 3. When it&#x27;s done, the extension lets you view documentation for the discovered endpoints. 4. Replay the endpoints and view captured auth data in the CLI yourself, or just... 5. Ask your agent to do something for you on one of the website&#x27;s you&#x27;ve captured and processed using Harpist. It&#x27;s all open source (MIT licensed)[1], and under the hood it uses oRPC to create TypeScript-compatible API contracts, but I&#x27;ve mostly been focussing on the documentation for now which just uses the oRPC Scalar integration[2] to generate OpenAPI-looking docs. I&#x27;m keen to learn what other people are doing to discover and automate web workflows at the moment, and what kind of things people _wish_ existed too. [0] - https:&#x2F;&#x2F;kenobi.ai [1] - https:&#x2F;&#x2F;github.com&#x2F;kenobi-ai&#x2F;harpist [2] - http:&#x2F;&#x2F;orpc.dev&#x2F;docs&#x2F;openapi&#x2F;scalar\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://harpist.site",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48893610",
+    "createdAt": "2026-07-13T16:05:10.503Z"
+  },
+  {
+    "slug": "a-transformer-is-all-you-need-pt-2l-precision-brain-surgery-hn",
+    "title": "A Transformer Is All You Need PT 2L: Precision Brain Surgery",
+    "shortDescription": "https:&#x2F;&#x2F;zenodo.org&#x2F;records&#x2F;20906443 A Transformer Is All You Need https:&#x2F;&#x2F;zenodo.org&#x2F;records&#x2F;213362…",
+    "fullDescription": "https:&#x2F;&#x2F;zenodo.org&#x2F;records&#x2F;20906443 A Transformer Is All You Need https:&#x2F;&#x2F;zenodo.org&#x2F;records&#x2F;21336223 A Transformer Is All You Need Part 2: A Mad Scientist&#x27;s Comprehensive Guide To The Inner Workings of the Blackbox PS.if anyone has arxiv endorsement for cs.LG or cs.AI ,id really appreciate one! I am an &quot;independent researcher&quot; (Reality is this is just for fun out of curiosity), no university or affiliation, no lab, but the magnitude and the implications of the work should speak for itself. arXiv username is ULT7RA. Thanks in advance.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://zenodo.org/records/21336223",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48893113",
+    "createdAt": "2026-07-13T16:05:10.503Z"
+  },
+  {
+    "slug": "build-rules-for-claude-code-cursor-and-codex-hn",
+    "title": "Build Rules for Claude Code, Cursor, and Codex",
+    "shortDescription": "Hi HN, Fernando and I built Kastra. Kastra intercepts AI agent tool calls and evaluates them against deterministic policies before they exe…",
+    "fullDescription": "Hi HN, Fernando and I built Kastra. Kastra intercepts AI agent tool calls and evaluates them against deterministic policies before they execute. We built this product to control pre- and post-inference workloads. This is aimed at developers using coding agents like Claude Code, Codex, Cursor, and OpenClaw. Kastra pushes an allow, hold, and deny decision before the action runs. You can build these policies in plain English from the web app. The interception engine evaluates the tools, targets, and parameters of every action at sub 1ms at a scale of billions of interceptions per day. We also shipped many policy packs covering common high-risk scenarios, and every decision is recorded in an immutable audit trail. The desktop app, CLI, dashboard, and Recon scan are free to use for developers. If you often use Claude, Codex, Openclaw, and Cursor, Kastra can also run a scan command on which risky actions your agents have already taken and automatically build rules to avoid them from happening again. Recon is a feature of Kastra that scans your local agent history. In order to run this scan, execute the commands below in your coding agent. brew install kastra-labs&#x2F;tap&#x2F;kastra-edge kastra-edge scan The scan reads your local agent session history, and it shows all the risky actions your agent has already taken before, the secrets written to tracked files, production databases touched, force pushes, curl-to-shell, and more. This runs on your machine, and secrets never leave. In our own use cases, we kept finding things we&#x27;d forgotten or didnt know agents had done. Each finding can be converted into a runtime policy, letting you delegate more work to AI without trusting the model itself. Kastra intercepts all workloads at runtime and makes sure these policy evaluations typically complete in under a millisecond. Instead of trusting the model or sandboxing every agent and limiting its capabilities, you trust the deterministic rules that govern its actions. One problem we are still working on is improving the memory and context of the workspace to optimize behaviors and cost reductions for the LLM usage. In order to start building policy packs around LLM cost optimization. Fernando and I will be reviewing the comments. We are super curious what your first scan finds. Please post results below so we can see what the most common patterns are and adjust policy packs for our users based on your feedback. Documentation: https:&#x2F;&#x2F;kastra.ai&#x2F;docs Download for MacOS Kastra Edge: https:&#x2F;&#x2F;kastra.ai&#x2F;edge&#x2F;download.html Check Kastra in action today: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=6TUETu5lb3Q&amp;feature=youtu.be\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://kastra.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48892955",
+    "createdAt": "2026-07-13T16:05:10.504Z"
+  },
+  {
+    "slug": "searchcue-hn",
+    "title": "SearchCue",
+    "shortDescription": "Hi! We are just launching a new site-search product. The TL;DR is: we crawl your site (pages, documents, images) and you can add our search…",
+    "fullDescription": "Hi! We are just launching a new site-search product. The TL;DR is: we crawl your site (pages, documents, images) and you can add our search to your site by adding a JavaScript embed. We built this on a shared search stack that we have also used on another search product of ours (namely Monocle Search [1] which is aimed at Squarespace sites first and foremost), so the search is fairly solid and battletested. We aren&#x27;t yet 100% sold on the positioning of this product. I&#x27;d love feedback and thoughts on whether it speaks to you at all. The audience (at least as we have seen it from our other search product) seems to be everything from small sites of individuals to SMBs, i.e., quite a range. Our aim is to be affordable, yet priced such that we can keep the lights on. I&#x27;d love feedback of any sort, and if anyone is interested I&#x27;ll happily expand on the tech behind our service too (in short: Elixir + Rust + Postgres + Tantivy + lots of various agentic loops for &quot;conversational search&quot; + nodes spread over the world, and a metric ton of tuning)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://searchcue.com/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48892845",
+    "createdAt": "2026-07-13T16:05:10.504Z"
+  },
+  {
     "slug": "workbuddian-github",
     "title": "workbuddian",
     "shortDescription": "Embed the WorkBuddy/CodeBuddy CLI as an AI chat agent inside Obsidian",
