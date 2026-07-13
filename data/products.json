@@ -1,1 +1,570 @@
-[]
+[
+  {
+    "slug": "guido-github",
+    "title": "Guido",
+    "shortDescription": "景区导览服务 AI 数字人：基于 Spring Boot、Vue 3、UniApp 与本地 RAG 的智能导览系统。",
+    "fullDescription": "景区导览服务 AI 数字人：基于 Spring Boot、Vue 3、UniApp 与本地 RAG 的智能导览系统。\n\nАвтор: youxiandechilun. Найдено в GitHub Trending (AI-тематика). ⭐ 61 звёзд.",
+    "url": "https://github.com/youxiandechilun/Guido",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "digital-human",
+      "java",
+      "mysql",
+      "rag",
+      "spring-boot",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1297186508",
+    "createdAt": "2026-07-13T04:20:16.073Z"
+  },
+  {
+    "slug": "generative-media-skills-github",
+    "title": "generative-media-skills",
+    "shortDescription": "Research-backed agent skills and tools for premium image, video, audio, voice, and generative media production across AI coding assistants.",
+    "fullDescription": "Research-backed agent skills and tools for premium image, video, audio, voice, and generative media production across AI coding assistants.\n\nАвтор: calesthio. Найдено в GitHub Trending (AI-тематика). ⭐ 48 звёзд.",
+    "url": "https://github.com/calesthio/OpenMontage",
+    "category": "chatbot",
+    "tags": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "ai-audio",
+      "ai-video",
+      "claude",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1297116088",
+    "createdAt": "2026-07-13T04:20:16.073Z"
+  },
+  {
+    "slug": "awesome-gemini-cli-subagents-github",
+    "title": "awesome-gemini-cli-subagents",
+    "shortDescription": "A curated collection of 51 production-ready subagents for Gemini CLI. Drop them into .gemini/agents/ and let Gemini delegate the right spec…",
+    "fullDescription": "A curated collection of 51 production-ready subagents for Gemini CLI. Drop them into .gemini/agents/ and let Gemini delegate the right specialist.\n\nАвтор: JosephHampton. Найдено в GitHub Trending (AI-тематика). ⭐ 37 звёзд.",
+    "url": "https://github.com/JosephHampton/awesome-gemini-cli-subagents",
+    "category": "developer",
+    "tags": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1297738589",
+    "createdAt": "2026-07-13T04:20:16.074Z"
+  },
+  {
+    "slug": "atrio-github",
+    "title": "atrio",
+    "shortDescription": "A small self-hosted guest lounge for your AI persona — friends chat via one-time links; you only ever see the AI-written visit summary. CC…",
+    "fullDescription": "A small self-hosted guest lounge for your AI persona — friends chat via one-time links; you only ever see the AI-written visit summary. CC BY 4.0.\n\nАвтор: 29-Cu. Найдено в GitHub Trending (AI-тематика). ⭐ 17 звёзд.",
+    "url": "https://github.com/29-Cu/atrio",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-persona",
+      "chatbot",
+      "express",
+      "privacy",
+      "self-hosted",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1297343152",
+    "createdAt": "2026-07-13T04:20:16.074Z"
+  },
+  {
+    "slug": "nexbench-github",
+    "title": "NexBench",
+    "shortDescription": "NEXBENCH measures what an autonomous agent can actually do on-chain — execute transactions, route swaps, bridge funds, manage DeFi position…",
+    "fullDescription": "NEXBENCH measures what an autonomous agent can actually do on-chain — execute transactions, route swaps, bridge funds, manage DeFi positions, research tokens, catch drainers, reconstruct portfolios, and run treasury governance — across 214 tasks in 8 categories, each run 5 times against deterministic forked-mainnet environments.\n\nАвтор: Nexis-AI. Найдено в GitHub Trending (AI-тематика). ⭐ 16 звёзд.",
+    "url": "https://nex-t1.ai",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "benchmark",
+      "benchmark-framework",
+      "blockchain",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1297780347",
+    "createdAt": "2026-07-13T04:20:16.074Z"
+  },
+  {
+    "slug": "diu-ai-mentor-github",
+    "title": "DIU-AI-Mentor",
+    "shortDescription": "AI-powered university mentoring: a deterministic 8-signal risk engine ranks every mentee, an LLM narrates — briefings, summaries, meeting p…",
+    "fullDescription": "AI-powered university mentoring: a deterministic 8-signal risk engine ranks every mentee, an LLM narrates — briefings, summaries, meeting prep, grounded chat. FastAPI + Next.js 14.\n\nАвтор: kawsher-hridoy. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/kawsher-hridoy/DIU-AI-Mentor",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "education",
+      "explainable-ai",
+      "fastapi",
+      "mentoring",
+      "nextjs",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1297551407",
+    "createdAt": "2026-07-13T04:20:16.074Z"
+  },
+  {
+    "slug": "flower-image-classification-github",
+    "title": "flower-Image-Classification",
+    "shortDescription": "Developed a simple image classification model using TensorFlow and OpenCV to classify five categories of flowers. The project includes imag…",
+    "fullDescription": "Developed a simple image classification model using TensorFlow and OpenCV to classify five categories of flowers. The project includes image preprocessing, CNN model training, evaluation, and prediction on new images.\n\nАвтор: ImMrShervin. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/ImMrShervin/flower-Image-Classification",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "classification",
+      "cnn-model",
+      "image-analysis",
+      "image-classification",
+      "opencv",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1297431593",
+    "createdAt": "2026-07-13T04:20:16.074Z"
+  },
+  {
+    "slug": "honeyprompt-github",
+    "title": "honeyprompt",
+    "shortDescription": "LLM-first deception framework: \"The honeypot that talks back!™\"",
+    "fullDescription": "LLM-first deception framework: \"The honeypot that talks back!™\"\n\nАвтор: alectrocute. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://hub.docker.com/r/alectrocute/honeyprompt",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "cybersecurity",
+      "cybersecurity-tools",
+      "deception",
+      "deno",
+      "honeypot",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1297766097",
+    "createdAt": "2026-07-13T04:20:16.074Z"
+  },
+  {
+    "slug": "model-succession-github",
+    "title": "model-succession",
+    "shortDescription": "Because your AI shouldn't lose its memory every time you switch models.",
+    "fullDescription": "Because your AI shouldn't lose its memory every time you switch models.\n\nАвтор: ikeawesom. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/ikeawesom/model-succession",
+    "category": "ai-tool",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "claude-code",
+      "fable-5",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1297173145",
+    "createdAt": "2026-07-13T04:20:16.074Z"
+  },
+  {
+    "slug": "mimir-github",
+    "title": "mimir",
+    "shortDescription": "Local-first AI agent memory, your agent's brain is an Obsidian vault you can open, read, and edit",
+    "fullDescription": "Local-first AI agent memory, your agent's brain is an Obsidian vault you can open, read, and edit\n\nАвтор: hasil7677. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/hasil7677/mimir",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "local-first",
+      "mcp",
+      "memory",
+      "obsidian",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1298590771",
+    "createdAt": "2026-07-13T04:20:16.074Z"
+  },
+  {
+    "slug": "free-llm-api-hub-github",
+    "title": "free-llm-api-hub",
+    "shortDescription": "A curated, actively-verified list of LLM API providers with a free tier or free trial credits, with automated link/freshness checking so it…",
+    "fullDescription": "A curated, actively-verified list of LLM API providers with a free tier or free trial credits, with automated link/freshness checking so it doesn't go stale.\n\nАвтор: pacocartones. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/pacocartones/free-llm-api-hub",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "anthropic",
+      "api",
+      "awesome-list",
+      "developer-tools",
+      "free-api",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1297700154",
+    "createdAt": "2026-07-13T04:20:16.074Z"
+  },
+  {
+    "slug": "metis-github",
+    "title": "metis",
+    "shortDescription": "Metis coding agent CLI with read, bash, edit, write tools and session management",
+    "fullDescription": "Metis coding agent CLI with read, bash, edit, write tools and session management\n\nАвтор: Wholiver. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Wholiver/metis",
+    "category": "developer",
+    "tags": [
+      "agent",
+      "ai",
+      "cli",
+      "coding-agent",
+      "llm",
+      "tui",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1297211063",
+    "createdAt": "2026-07-13T04:20:16.074Z"
+  },
+  {
+    "slug": "bangla-handwriting-collector-github",
+    "title": "Bangla-Handwriting-Collector",
+    "shortDescription": "AI-проект с GitHub без описания.",
+    "fullDescription": "AI-проект с GitHub без описания.\n\nАвтор: Istiaq-Edu. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://bangla-handwriting-collector.vercel.app/",
+    "category": "writing",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "bangla",
+      "bangla-dataset",
+      "bangla-dataset-collector",
+      "bangladesh",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1298548319",
+    "createdAt": "2026-07-13T04:20:16.074Z"
+  },
+  {
+    "slug": "agent-pulse-github",
+    "title": "agent-pulse",
+    "shortDescription": "Curated AI industry intelligence timelines — technology, AGI, investment, commercialization, and China catch-up.",
+    "fullDescription": "Curated AI industry intelligence timelines — technology, AGI, investment, commercialization, and China catch-up.\n\nАвтор: barretlee. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://barretlee.github.io/agent-pulse/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-news",
+      "artificial-intelligence",
+      "fastify",
+      "github-actions",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1297518906",
+    "createdAt": "2026-07-13T04:20:16.074Z"
+  },
+  {
+    "slug": "zabt-ai-github",
+    "title": "zabt-ai",
+    "shortDescription": "Self-hosted AI meeting intelligence — transcription (faster-whisper), speaker diarization (pyannote), and LLM summaries on infrastructure y…",
+    "fullDescription": "Self-hosted AI meeting intelligence — transcription (faster-whisper), speaker diarization (pyannote), and LLM summaries on infrastructure you control. An open-source, self-hostable alternative to Otter.ai / Fireflies.\n\nАвтор: afeef. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://zabt.ai",
+    "category": "developer",
+    "tags": [
+      "agpl",
+      "ai",
+      "fastapi",
+      "meeting-notes",
+      "nextjs",
+      "otter-alternative",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1298174000",
+    "createdAt": "2026-07-13T04:20:16.074Z"
+  },
+  {
+    "slug": "self-hosted-voice-ai-agent-for-asteriskfreepbx-hn",
+    "title": "Self-hosted voice AI agent for Asterisk/FreePBX",
+    "shortDescription": "Проект «Self-hosted voice AI agent for Asterisk/FreePBX», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Self-hosted voice AI agent for Asterisk/FreePBX», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48887276",
+    "createdAt": "2026-07-13T04:20:16.012Z"
+  },
+  {
+    "slug": "baton-know-which-of-your-ai-coding-agents-needs-you-hn",
+    "title": "Baton - Know which of your AI coding agents needs you",
+    "shortDescription": "Проект «Baton - Know which of your AI coding agents needs you», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Baton - Know which of your AI coding agents needs you», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/neilkpatel/baton",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48887186",
+    "createdAt": "2026-07-13T04:20:16.012Z"
+  },
+  {
+    "slug": "clark-ai-assistant-with-own-computer-hn",
+    "title": "Clark – AI assistant with own computer",
+    "shortDescription": "Hey folks, I&#x27;ve been building Clark solo, with the aim to match Manus agent (I really like it!) in features and capabilities, but also…",
+    "fullDescription": "Hey folks, I&#x27;ve been building Clark solo, with the aim to match Manus agent (I really like it!) in features and capabilities, but also in its relentless ability to just complete tasks while using browser, computer etc. So far I think I&#x27;ve achieved 1:1 core feature parity: 1) computer use agent 2) browser use in same thread 3) wide and deep research - clark calls clark 4) integration with google tools Would love to have community feedback and for you to try it out, a couple thousand people already using it daily for very broad use cases. You can use this referral link, that hopefully works and grants credits :-) https:&#x2F;&#x2F;www.clarkchat.com&#x2F;login?ref=CLARK-A10K9Z3Q\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.clarkchat.com/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48886547",
+    "createdAt": "2026-07-13T04:20:16.012Z"
+  },
+  {
+    "slug": "collaborative-context-sharing-memory-platform-for-agents-and-teams-hn",
+    "title": "Collaborative context-sharing memory platform for agents and teams",
+    "shortDescription": "Проект «Collaborative context-sharing memory platform for agents and teams», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Collaborative context-sharing memory platform for agents and teams», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://xysq.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48885515",
+    "createdAt": "2026-07-13T04:20:16.012Z"
+  },
+  {
+    "slug": "personal-biohacking-lab-hn",
+    "title": "Personal Biohacking Lab",
+    "shortDescription": "Проект «Personal Biohacking Lab», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Personal Biohacking Lab», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://selfassay.com",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48885255",
+    "createdAt": "2026-07-13T04:20:16.012Z"
+  },
+  {
+    "slug": "adaptive-recall-persistent-memory-for-ai-assistants-over-mcp-hn",
+    "title": "Adaptive Recall, persistent memory for AI assistants over MCP",
+    "shortDescription": "Проект «Adaptive Recall, persistent memory for AI assistants over MCP», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Adaptive Recall, persistent memory for AI assistants over MCP», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 20 баллов.",
+    "url": "https://www.adaptiverecall.com/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48884815",
+    "createdAt": "2026-07-13T04:20:16.012Z"
+  },
+  {
+    "slug": "a-subjective-ai-eval-arcade-games-built-by-ai-hn",
+    "title": "A subjective AI eval. Arcade games built by AI",
+    "shortDescription": "Проект «A subjective AI eval. Arcade games built by AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A subjective AI eval. Arcade games built by AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://ai-arcade.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48884748",
+    "createdAt": "2026-07-13T04:20:16.012Z"
+  },
+  {
+    "slug": "present-of-time-gift-someone-your-undivided-timephone-in-an-envelope-hn",
+    "title": "Present of Time – gift someone your undivided time,phone in an envelope",
+    "shortDescription": "My phone kept winning against my kids at the dinner table, so I built a countermeasure. The idea: you gift someone an hour of undivided tim…",
+    "fullDescription": "My phone kept winning against my kids at the dinner table, so I built a countermeasure. The idea: you gift someone an hour of undivided time. To redeem it, you launch this ap, put your phone in airplane mode and into a white paper envelope and seal it. The screen stays on, it glows through the paper like a small lantern, showing an hourglass in which luminous sand flows upward (time doesn&#x27;t run out, it collects!).* There is deliberately no app blocking. You switch to airplane mode yourself, and the sealed envelope does the rest. I think any programmatic lock can be circumvented anyway. This whole thing runs on cooperation, which is exactly what a gift assumes. Pulling the phone out early means visibly breaking a promise to a person, not to an app. The &quot;product&quot; is not technical, but I try to establish a &quot;ceremony&quot; or &quot;ritual&quot;, where the user conciously decides to not use their phone and to spend time with a loved one. Technically it&#x27;s one self-contained HTML file: canvas animation, Screen Wake Lock, works offline once loaded, no accounts, no analytics (none at all, the app has no backend, hosted on github). My goal would be, if this gets any interest, to maybe sell some envelopes with printed instructions, stickers to seal and a link to the app. But anyone can use it for free as well. The code is MIT licenced and you can find it here: https:&#x2F;&#x2F;github.com&#x2F;grothkopp&#x2F;presentoftime *Standard paper weights might be a little to thick, so &quot;transparent&quot; envelopes might be necessary for the full effect.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://presentoftime.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48884493",
+    "createdAt": "2026-07-13T04:20:16.012Z"
+  },
+  {
+    "slug": "i-created-redis-alternative-in-go-that-even-runs-natively-on-windows-hn",
+    "title": "I created Redis alternative in Go that even runs natively on Windows",
+    "shortDescription": "Hi I am a backend developer for almost a decade and mostly work on Windows servers; when it comes to deploy the internal tools and web appl…",
+    "fullDescription": "Hi I am a backend developer for almost a decade and mostly work on Windows servers; when it comes to deploy the internal tools and web application. For redis we have to spin a another VM in hypervisor just to run Redis. For local development I have to install heavy ass docker desktop or run a parallel operating system(WSL) just to run teeny tiny redis server. Some alternatives exist already such as godis but they only cover partial redis surface I have been trying to create redis fork that runs nativerly on Windows but for a single person it&#x27;s a herculean task. So i have been taking help of various coding agent and ai models to come up with something that can help run be run natively on Windows so I can run redis-py and arq and huey like libraries with ease. So here it is: FrostDB. It&#x27;s a single binary that currently implements from basic GET&#x2F;SET commands to Pub&#x2F;Sub, Streams, Hashes, Lists, Sets, and GEO commands with RDB import&#x2F;export, LRU eviction etc. It&#x27;s compatible with many Redis client libraries across multiple programming languages, including those that use Redis as a message queue. The implementation of the supported commands is tested against the original Redis test suite from the Redis GitHub repository. I&#x27;m still testing a few things and am now shifting my focus toward performance. This isn&#x27;t meant to replace Redis, and I&#x27;m not telling anyone to switch to it. But if you&#x27;re looking for a Redis-compatible server that runs natively on Windows, something now exists, at least for development and testing.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/Suleman-Elahi/frostdb",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48884299",
+    "createdAt": "2026-07-13T04:20:16.013Z"
+  },
+  {
+    "slug": "isitsecure-1-command-sast-and-dast-and-llm-security-scanner-for-web-apps-hn",
+    "title": "Isitsecure – 1-command SAST and DAST and LLM security scanner for web apps",
+    "shortDescription": "As vibe coding has started to become more mainstream, so has the realization that typical AI-generated code is insecure by default. What st…",
+    "fullDescription": "As vibe coding has started to become more mainstream, so has the realization that typical AI-generated code is insecure by default. What started as a free security scan tool for vibe coded apps turned into an open source project for a much deeper Static Application Security Test (SAST) + Dynamic Application Security Testing (DAST) scan + a SAST defined DAST plan - basically the SAST scan finds a possible route to attack and passes it off to the DAST scanners to try and exploit. The goal is to give folks a tool to keep building with AI but without compromising on security when it comes to their customers&#x27; data. Feedback is always welcomed; I&#x27;d especially love to hear about: 1. any false positives 2. any vulnerability class that you&#x27;d expect but is missing in the tool 3. how the SAST defined DAST scan plan fares against your code repo If you got this far, thanks for reading and hope you find this useful :slightly_smiling_face:\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/jaurakunal/isitsecure",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48884229",
+    "createdAt": "2026-07-13T04:20:16.013Z"
+  },
+  {
+    "slug": "kote-capture-and-reuse-engineering-context-from-ai-chats-and-git-hn",
+    "title": "Kote – Capture and reuse engineering context from AI chats and Git",
+    "shortDescription": "I kept running into the same problem: I&#x27;d solve something with the help of an AI assistant, spend time debugging an issue, or make an…",
+    "fullDescription": "I kept running into the same problem: I&#x27;d solve something with the help of an AI assistant, spend time debugging an issue, or make an architectural decision... and a few weeks later I couldn&#x27;t remember where that information was. Most of the time I simply didn&#x27;t bother saving it anywhere. So I built Kote to capture that context automatically instead of relying on me to document it. Right now it can capture AI chats (Antigravity, Codex, Claude Code, OpenCode) from the VS Code extension or CLI, analyze Git pushes, retrieve historical context during Pull Requests, save quick text or voice notes through WhatsApp, and make everything searchable from the web app or directly from VS Code. Kote can be self-hosted and works with your own LLM provider, though I&#x27;ve primarily tested it with Gemini. I&#x27;m curious how other people handle this. Do you use another tool or workflow to preserve this kind of engineering context?\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/pedroaugusto04/Kote",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48883540",
+    "createdAt": "2026-07-13T04:20:16.013Z"
+  },
+  {
+    "slug": "free-ai-travel-destination-search-across-asia-hn",
+    "title": "Free AI travel destination search across Asia",
+    "shortDescription": "Проект «Free AI travel destination search across Asia», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Free AI travel destination search across Asia», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://asianexpats.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48882871",
+    "createdAt": "2026-07-13T04:20:16.013Z"
+  },
+  {
+    "slug": "wisp-open-source-private-desktop-ai-overlay-with-mcp-support-hn",
+    "title": "Wisp – open-source private desktop AI overlay with MCP support",
+    "shortDescription": "I built Wisp because I kept alt-tabbing between my editor&#x2F;browser&#x2F;docs and chat apps, copying context over, waiting for an answer…",
+    "fullDescription": "I built Wisp because I kept alt-tabbing between my editor&#x2F;browser&#x2F;docs and chat apps, copying context over, waiting for an answer, then copying the result back. Wisp is a desktop overlay for using AI from whatever app you are already in. -You can prompt with your choice of context (Text, screenshot, snipping, active app etc) in a few key strokes -For longer back-and-forth, it can open into a full chat window. -Supports hold-to-talk voice queries, dictation into any field, local TTS, -Can pastes the result back directly over selected text. -Data is local first, and nothing is sent to provider without your permission -It supports 20+ local and remote providers, including OpenRouter, Groq, Gemini, Ollama, and LM Studio. -Runs on Windows, macOS and Linux v0.9 Added Wisp Context Server: trusted MCP clients can read selected text, clipboard, active window, browser-page text, and screen snippets. I no longer have access to Mac hardware, so I would especially appreciate macOS testing. Bug reports and ideas are appreciated. Repo + demo GIFs: https:&#x2F;&#x2F;github.com&#x2F;SunnyLich&#x2F;Wisp-AI-Assistant Website: https:&#x2F;&#x2F;sunnylich.github.io&#x2F;Wisp-AI-Assistant&#x2F;#overview\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/SunnyLich/Wisp-AI-Assistant",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48882687",
+    "createdAt": "2026-07-13T04:20:16.014Z"
+  },
+  {
+    "slug": "agentindexed-a-curated-ai-agent-directory-no-pay-to-play-rankings-hn",
+    "title": "AgentIndexed – a curated AI agent directory, no pay-to-play rankings",
+    "shortDescription": "Проект «AgentIndexed – a curated AI agent directory, no pay-to-play rankings», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AgentIndexed – a curated AI agent directory, no pay-to-play rankings», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://agentindexed.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48882307",
+    "createdAt": "2026-07-13T04:20:16.014Z"
+  },
+  {
+    "slug": "i-gave-my-ai-coding-agents-a-group-chat-its-just-a-git-repo-hn",
+    "title": "I gave my AI coding agents a group chat (it's just a Git repo)",
+    "shortDescription": "Проект «I gave my AI coding agents a group chat (it's just a Git repo)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I gave my AI coding agents a group chat (it's just a Git repo)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/yonidavidson/agentcomm",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48882192",
+    "createdAt": "2026-07-13T04:20:16.014Z"
+  }
+]
