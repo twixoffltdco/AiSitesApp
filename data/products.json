@@ -1,5 +1,133 @@
 [
   {
+    "slug": "crucible-your-ai-wrote-the-tests-so-who-tested-the-tests-hn",
+    "title": "Crucible – your AI wrote the tests, so who tested the tests?",
+    "shortDescription": "Проект «Crucible – your AI wrote the tests, so who tested the tests?», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Crucible – your AI wrote the tests, so who tested the tests?», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Jott2121/crucible",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48896334",
+    "createdAt": "2026-07-13T18:16:39.288Z"
+  },
+  {
+    "slug": "dashapply-your-complete-job-search-toolkit-hn",
+    "title": "DashApply – Your Complete Job Search Toolkit",
+    "shortDescription": "DashApply fetches recently posted job listings directly from career pages, matches your resume to recommend jobs, generates tailored resume…",
+    "fullDescription": "DashApply fetches recently posted job listings directly from career pages, matches your resume to recommend jobs, generates tailored resume and cover letter and tracks all your job applications. It is free to use right now as we are still improving our product.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://dashapply.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48896295",
+    "createdAt": "2026-07-13T18:16:39.289Z"
+  },
+  {
+    "slug": "fintermai-bloomberg-terminal-for-claude-code-hn",
+    "title": "Finterm.ai Bloomberg terminal for Claude Code",
+    "shortDescription": "Hi, my name is Kam, and today my cofounder Josh and I are shipping Finterm, a CLI that gives coding agents direct access to financial data:…",
+    "fullDescription": "Hi, my name is Kam, and today my cofounder Josh and I are shipping Finterm, a CLI that gives coding agents direct access to financial data: stock prices, options data, SEC filings, and Ticker Deep Research, a filtered ticker news search. I’m a developer and have been a full-time trader for the past few years.Recently I have been using LLMs more and more in my trading and strategy. I always found it frustrating that Claude Code or GPT did not have direct access to actual financial information and had to rely on web search, so it couldn’t get me more granular numbers for specific options pricing. When making a trade I want to understand as much as possible about the stock. Instead of relying on analysts or interpretations of the data, I like to go directly to the truth. So whenever I have a trade thesis, I break research into a few parts: company research, analyst sentiment, and market sentiment. Last September I had a short thesis on Popmart Labubu&#x27;s parent company. I was betting the toy was a fad and that the stock would fall. I read through the SEC filings and an LLM analyze them too: how big a driver is Labubu, what&#x27;s the business model, what does the debt look like, and what looks strange enough to dig into. I compared the company to its peers on EPS and industry metrics. I asked GPT to do deep research that included around 50 queries and hundreds of pages to map every argument about the stock. Finally I looked at the options data: call&#x2F;put ratios, implied volatility, recent volume, to see how the real money was betting. I made 16% over the next month. The flow was painful, fetching SEC data, copy pasting filing sections in to GPT, aggregating everything by hand, and juggle a dozen chat windows. In the past few months, Josh and I spent more time trying to get agents to trade autonomously. The more we dug in, the more we realized that the problem you need to solve first is giving agents access to factual information in a token-efficient way. We found that agents performed better with a CLI, since it didn’t waste as many tokens as interfacing with MCP or making API calls. We designed the CLI to be self-documenting and behave similarly to skills so it would be agent-friendly. Second, we batch multiple calls together. Whenever I research a ticker, I want the same few pieces of information every time—P&#x2F;E ratio, revenue, current stock price, options sentiment. We let your agent make a single call, which saves tokens and gives a more complete view of a ticker. When doing web searches about a ticker, you often get noisy articles (how much you would have made if you had invested $X in Amazon in 2002), SEO spam, and duplicated articles covering the same topic from the same source. So our Ticker Deep Research returns a research packet: it fetches 600–800 links per ticker, strips out the 30–40% that is noise, and gives back the state of the internet on that ticker—deduped, with sources labeled primary or secondary and known AI-slop sites flagged. Instead of crawling hundreds of webpages itself, your agent gets a thorough snapshot of what the market thinks about the stock. We take the same approach for SEC filings. Even with raw filings accessible now, most quarterly and annual filings are 90–95% boilerplate and repetition. We offer raw filings, but also an SEC filing diff tool where your agent sees only the diffs: the important changes to the company. Stock and options data is delayed by up to 15 minutes, which keeps costs reasonable and fits the research-first use case we’re building for. We realize this is a niche product for a technical audience that likes to trade stocks using Claude Code, but it’s close to a lot of the frustrations I feel myself, so I wanted to share it and see if anyone else is interested. You can sign up and npm install -g @finterm-ai&#x2F;cli to test it. We have a 3-day free trial (card required) and would love any feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://finterm.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48896257",
+    "createdAt": "2026-07-13T18:16:39.289Z"
+  },
+  {
+    "slug": "the-safe-production-ready-backend-for-ai-generated-apps-hn",
+    "title": "The Safe, Production-Ready Backend for AI-Generated Apps",
+    "shortDescription": "Проект «The Safe, Production-Ready Backend for AI-Generated Apps», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «The Safe, Production-Ready Backend for AI-Generated Apps», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://developer.puter.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48895945",
+    "createdAt": "2026-07-13T18:16:39.289Z"
+  },
+  {
+    "slug": "we-are-giving-away-100k-over-the-next-12-months-to-hack-ai-agents-hn",
+    "title": "We are giving away $100K > over the next 12 months to hack AI agents",
+    "shortDescription": "We build AI agents to find vulnerabilities in other AI agents. The playground started as an internal tool that we used to test our own offe…",
+    "fullDescription": "We build AI agents to find vulnerabilities in other AI agents. The playground started as an internal tool that we used to test our own offensive agent Nyx. But we realised that hacking an AI is about have as wide a distribution of attacks as possible, especially those which aren&#x27;t in the distribution of the models. So we are launching playground as a platform to crowdsource agent jailbreaks. And although hacking AI is super fun and we are sure people will do it for free, we want to reward those who help us push forward the offensive frontier of AI. So we are committing $100K in prizes over the next 12 months (starting with $2K for the first week long challenge), which is kinda a lot for a startup! The playground is open source. Happy hacking!!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://playground.fabraix.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48895849",
+    "createdAt": "2026-07-13T18:16:39.289Z"
+  },
+  {
+    "slug": "clay-seal-identity-agents-need-accountability-hn",
+    "title": "Clay Seal Identity – Agents need accountability",
+    "shortDescription": "AI agents are starting to get real access like GitHub tokens, cloud credentials, customer data, deploy permissions. Not coincidentally, the…",
+    "fullDescription": "AI agents are starting to get real access like GitHub tokens, cloud credentials, customer data, deploy permissions. Not coincidentally, the rate of major cybersecurity incidents is rising rapidly. See for yourself: https:&#x2F;&#x2F;epoch.ai&#x2F;data&#x2F;cve?view=graph https:&#x2F;&#x2F;genai.owasp.org&#x2F;resource&#x2F;state-of-agentic-ai-securit... My friend and I, both AI researchers, are working on fixing this through an open-source project we&#x27;ve just started called Clay Seal. We&#x27;ve started with a simple version of Identity: an open-source way to issue short-lived, verifiable identities to AI agents. We&#x27;re working on several experimental components, including runtime query-based capability scoping for agents, followed by AML-inspired suspicious behavior detection, to replace the antiquated system of static sandboxes most AI tools run on. These tools will enable you to protect yourself from many classes of attacks and are, based on our testing, performing quite well on public benchmarks (which we&#x27;ll publish soon when we release them!). Each agent run gets a short-lived credential with its own identity. Services can verify who the agent is, who started it, when the credential expires, and whether the token is bound to the agent instead of being a reusable bearer secret. If you&#x27;re interested in trying it, we just released it on GitHub here: https:&#x2F;&#x2F;github.com&#x2F;clayseal&#x2F;clayseal-identity . If you&#x27;re interested in trying out the experimental components before we release them, please take a look at https:&#x2F;&#x2F;clayseal.com&#x2F; . This is the very first version of the system, and we&#x27;re working on improving it every day. If you have suggestions, ideas, an interest in contributing, or potential systems&#x2F;CVE classes you think we should know about, reach out! And feel free to star if you&#x27;d like to try it out or just see us develop it.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/clayseal/clayseal-identity",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48895662",
+    "createdAt": "2026-07-13T18:16:39.289Z"
+  },
+  {
+    "slug": "quantumreckon-find-your-real-cloud-and-ai-spend-including-tokens-hn",
+    "title": "QuantumReckon – find your real cloud and AI spend, including tokens",
+    "shortDescription": "Проект «QuantumReckon – find your real cloud and AI spend, including tokens», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «QuantumReckon – find your real cloud and AI spend, including tokens», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://quantumreckon.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48895470",
+    "createdAt": "2026-07-13T18:16:39.289Z"
+  },
+  {
+    "slug": "claude-organizer-folders-and-search-for-claudeai-all-local-hn",
+    "title": "Claude Organizer, folders and search for Claude.ai, all local",
+    "shortDescription": "Проект «Claude Organizer, folders and search for Claude.ai, all local», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Claude Organizer, folders and search for Claude.ai, all local», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://chromewebstore.google.com/detail/claude-organizer-folders/pnbhfiebkknicpbljchmgibnpmlgebif",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48894772",
+    "createdAt": "2026-07-13T18:16:39.289Z"
+  },
+  {
     "slug": "liyuan-github",
     "title": "Liyuan",
     "shortDescription": "梨园 Liyuan — 以 AI Agent 为主体的角色扮演应用：记忆账本、决策卡、自建面板、世界线，兼容角色卡/世界书",
