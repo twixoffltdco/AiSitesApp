@@ -1,5 +1,59 @@
 [
   {
+    "slug": "j-wash-github",
+    "title": "J-Wash",
+    "shortDescription": "Jacobian-Brainwash : A framework built on Anthropic's Jacobian Lens for analyzing and customizing LLM internal representations.",
+    "fullDescription": "Jacobian-Brainwash : A framework built on Anthropic's Jacobian Lens for analyzing and customizing LLM internal representations.\n\nАвтор: Extraltodeus. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/Extraltodeus/J-Wash",
+    "category": "developer",
+    "tags": [
+      "abliteration",
+      "activation-engineering",
+      "ai",
+      "anthropic",
+      "checkpoint-editing",
+      "huggingface",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1299705358",
+    "createdAt": "2026-07-13T23:25:43.883Z"
+  },
+  {
+    "slug": "i-built-a-one-prompt-hackathon-platform-free-entry-sponsored-prizes-hn",
+    "title": "I built a one-prompt hackathon platform, free entry, sponsored prizes",
+    "shortDescription": "Проект «I built a one-prompt hackathon platform, free entry, sponsored prizes», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built a one-prompt hackathon platform, free entry, sponsored prizes», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 7 баллов.",
+    "url": "https://1shotchallenge.ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48899620",
+    "createdAt": "2026-07-13T23:25:43.571Z"
+  },
+  {
+    "slug": "docsdev-a-docs-site-you-own-where-ai-drafts-and-you-edit-in-place-hn",
+    "title": "Docs.dev – A docs site you own, where AI drafts and you edit in place",
+    "shortDescription": "Hi HN. Some backstory, because it explains why this exists. Our startup originally worked on AI-assisted documentation generation. When Cla…",
+    "fullDescription": "Hi HN. Some backstory, because it explains why this exists. Our startup originally worked on AI-assisted documentation generation. When Claude Code and Cursor&#x27;s agents matured, we asked ourselves the uncomfortable question: does a standalone &quot;AI writes your docs&quot; product still need to exist? We concluded no, and pivoted to what&#x27;s now keyboard.dev. That left us with the docs.dev domain. We had a buyer in the docs space lined up and were genuinely excited for it to have a proper home. A month later, they changed their mind. So instead of letting a domain we loved sit parked, we built the docs platform we&#x27;d always wanted as a side project. The workflow it&#x27;s built around: coding agents already write documentation well, but reviewing agent-written docs in raw MDX is miserable. So with docs.dev, Claude Code updates your docs template in the same session where it ships your code (the template carries a CLAUDE.md and skills, so it knows the conventions). Then you go to your actual docs site, on your domain, log in as an admin, and review the page exactly as readers will see it. Anything the AI got wrong, you edit or delete in place, directly on the live site. Publishing is a git commit to your repo, and CI redeploys. The same URL serves readers and, for admins, becomes the editor. The economics are the other half of the pitch. There&#x27;s no hosting on our side and no content database: one click clones the template into your GitHub account and deploys it to your Cloudflare account with push-to-deploy CI. AI writing, image generation, and chat run on Cloudflare&#x27;s own primitives (Workers AI and friends), billed at Cloudflare&#x27;s rates on your account. You&#x27;re not paying a docs vendor to host your own documentation, and you&#x27;re not paying their markup on AI calls. The optional docs.dev service adds exactly one thing, team sign-in, and it&#x27;s a sign-in check, not a dependency: if we disappear tomorrow, your site keeps serving. We deliberately built on existing technology rather than reinventing it: Fumadocs (Next.js + MDX) for the docs framework, chenglou&#x27;s pretext layout engine for the reading experience (prose flows around figures like a magazine spread, while the server still renders plain indexable &lt;p&gt; text for crawlers and no-JS readers), and Cloudflare&#x27;s out-of-the-box platform pieces for deploys, CI, and AI. Honest caveats: it requires the Cloudflare Workers Paid plan ($5&#x2F;mo) because the server Worker is ~5.3 MiB gzipped, over the free plan&#x27;s 1 MiB limit. It&#x27;s a side project, not our main company. And the magazine-style layout is the kind of thing you either love or find gratuitous. We&#x27;d genuinely like to hear which. There&#x27;s a walkthrough video on the homepage if you&#x27;d rather watch the workflow than read it. Happy to answer questions about the agent workflow, the in-place editing, the ownership model, or the pivot. Note it is an early but hope this helps people that wants easy, cheap, and effective documentation on their terms\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://docs.dev",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48895463",
+    "createdAt": "2026-07-13T23:25:43.571Z"
+  },
+  {
     "slug": "contextvault-the-shared-memory-layer-for-your-ai-and-your-team-hn",
     "title": "ContextVault – the shared memory layer for your AI and your team",
     "shortDescription": "Hi HN, I&#x27;m Kevin. I built ContextVault because I kept running into the same problem with AI tools. Every project accumulated prompts,…",
