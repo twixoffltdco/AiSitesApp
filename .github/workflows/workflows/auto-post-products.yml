@@ -1,0 +1,50 @@
+name: Auto Post Products
+
+on:
+  schedule:
+    # Каждые 30 минут
+    - cron: '*/30 * * * *'
+  workflow_dispatch: {} # позволяет запустить вручную из вкладки Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: auto-post-products
+  cancel-in-progress: false
+
+jobs:
+  scan-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Ensure IndexNow key exists (без секретов — публичный файл в репо)
+        run: npm run indexnow:init
+
+      - name: Scan sources and update catalog
+        run: npm run scan
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "aisitesapp-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/products.json public/sitemap.xml public/*.txt config/site.config.json src/app/products
+          if git diff --cached --quiet; then
+            echo "Нет изменений — пропускаем коммит."
+          else
+            git commit -m "chore: auto-update products catalog [skip ci]"
+            git push
+          fi
