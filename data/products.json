@@ -1,5 +1,21 @@
 [
   {
+    "slug": "contextvault-the-shared-memory-layer-for-your-ai-and-your-team-hn",
+    "title": "ContextVault – the shared memory layer for your AI and your team",
+    "shortDescription": "Hi HN, I&#x27;m Kevin. I built ContextVault because I kept running into the same problem with AI tools. Every project accumulated prompts,…",
+    "fullDescription": "Hi HN, I&#x27;m Kevin. I built ContextVault because I kept running into the same problem with AI tools. Every project accumulated prompts, coding conventions, architectural decisions, examples, and other pieces of context that made the models significantly more useful. The problem was that this information quickly became fragmented. Some lived in ChatGPT Projects, some in Claude, some in Markdown files, some in internal documentation, and some only existed in previous conversations. Late last year, I realized several people on our team were solving the same problems independently because previous work was difficult to discover. I assumed this problem existed in other large organizations, so I started experimenting with a shared context store. I started with a local proof of concept and a rough MCP server. If I asked questions like &quot;have we done this before?&quot;, the AI could search the database and find the most relevant item to review. If a conversation produced something worth remembering, I could say &quot;save what we learned to the vault.&quot; After using that workflow for a few months, I found myself relying on it every day. I decided to make it available to others. I&#x27;ve never built a product before, and I thought it would be a valuable learning exercise to do. ContextVault is a a product for storing and organizing reusable context that can be shared across people, projects, and AI tools. Instead of copying the same instructions into every conversation, you can store them once and retrieve them through our MCP server. It is not limited to any one AI client. Your team can use ChatGPT, Codex, Claude, and Gemini and save&#x2F;read from the vault all the same. It currently supports: - OAuth support for GitHub, Google, Microsoft, and GitLab - Structured context records with metadata - Multi-user organizations with role-based access - MCP server for all AI clients that support MCP - Organization-scoped storage keeps tenant data separated - Group visibility rules decide which memories each member can search - Authenticated MCP access ties every request back to a real user and workspace - Feedback signals can be captured now and used to improve ranking later - Supports desktop versions of AI clients, not just their CLI versions (mobile app support should also work) The backend is built with PostgreSQL, pgvector, Node.js, and TypeScript. The frontend uses Next.js, React, Tailwind CSS, and shadcn&#x2F;ui (frontend is not my strong suit, please be kind). Authentication is handled with Clerk and billing with Stripe. I started building this for my own workflow, but after relying on it for several months I decided to make it available to others. We soft launched a few weeks ago, and I find it useful as a daily tool. Essentially, ContextVault offers a way to track memories and context, distribute them instantly to your team, and help reduce duplicated work. I&#x27;d be interested in feedback on a few things: - How are you managing reusable AI context today? - Are you relying on similar tools, or do you keep everything in Git or Markdown? - If you&#x27;ve built something similar, what did you learn that you would do differently? You can see the product here: https:&#x2F;&#x2F;www.contextvault.dev\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.contextvault.dev/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48896048",
+    "createdAt": "2026-07-13T22:03:05.995Z"
+  },
+  {
     "slug": "fleet-deck-see-every-claude-code-session-on-your-machine-in-one-board-hn",
     "title": "Fleet Deck – see every Claude Code session on your machine in one board",
     "shortDescription": "Irun several Claude Code sessions in parallel and im really bad at keeping track, its usually hard to figure out witch are working, witch a…",
