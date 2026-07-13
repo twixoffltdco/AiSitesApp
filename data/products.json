@@ -1,5 +1,59 @@
 [
   {
+    "slug": "workbuddian-github",
+    "title": "workbuddian",
+    "shortDescription": "Embed the WorkBuddy/CodeBuddy CLI as an AI chat agent inside Obsidian",
+    "fullDescription": "Embed the WorkBuddy/CodeBuddy CLI as an AI chat agent inside Obsidian\n\nАвтор: jiang198012. Найдено в GitHub Trending (AI-тематика). ⭐ 11 звёзд.",
+    "url": "https://github.com/jiang198012/workbuddian",
+    "category": "developer",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-chat",
+      "codebuddy",
+      "llm",
+      "obsidian",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1298306683",
+    "createdAt": "2026-07-13T13:27:45.120Z"
+  },
+  {
+    "slug": "costbase-see-what-each-of-your-ai-apps-costs-without-a-proxy-hn",
+    "title": "Costbase – See what each of your AI apps costs, without a proxy",
+    "shortDescription": "Live demo, no signup: https:&#x2F;&#x2F;costbase.co&#x2F;demo Hi there, over the past 1-2 years I&#x27;ve built and experimented with many…",
+    "fullDescription": "Live demo, no signup: https:&#x2F;&#x2F;costbase.co&#x2F;demo Hi there, over the past 1-2 years I&#x27;ve built and experimented with many AI apps. Some are in production, some died in the experimental stage. The ones in production currently costs me ~$500 a month to run – using a variety of models from OpenAI&#x27;s Whisper to Anthropic LLM. Because it&#x27;s important for me to track the Cost of Goods Sold of each individual app, the strategy I&#x27;ve used so far is to use a different credit card for my few apps. However, that obviously does not work the more apps I build. This is why I built Costbase – a simple app that just requires that I paste in an admin key with no code change (and no proxy sitting between my app and the AI provider) – and show me the cost of my AI bill broken down by apps and not API keys. I intentionally kept this product as simple as possible – something I would actually like to use. I know there are observability tools like Helicone that are much more capable. But to be honest I didn&#x27;t even try out the competitor and just built something I&#x27;d like to use myself. I&#x27;d like to hear from the community to see if anyone feel a product like Costbase is genuinely useful. Let me know your thoughts in the comments. (I&#x27;m in Taipei so going to sleep in about two hours. Will be back tomorrow morning to answer any additional comments)\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://costbase.co",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48891789",
+    "createdAt": "2026-07-13T13:27:44.786Z"
+  },
+  {
+    "slug": "ogac-run-reliable-compliant-and-governed-ai-for-your-enterprise-hn",
+    "title": "OGAC – Run reliable, compliant and governed AI for your enterprise",
+    "shortDescription": "Frontier models makes ICs productive with AI. OGAC makes the entire enterprise productive with AI. It combines the company moat i.e context…",
+    "fullDescription": "Frontier models makes ICs productive with AI. OGAC makes the entire enterprise productive with AI. It combines the company moat i.e context, data, processes, and people with the innovation and excellence of frontier models while ensuring safety, compliance, observability and governance. It&#x27;s built on top of the best of open source products, and contains the layer that talks to all of these products so you dont have to log into 15 different products. It&#x27;s got an app maker, workspaces with chats, projects, etc. ability to create composable pipelines, use of different gateways, policies, guardrails. etc Built for teams.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://onprem-console.getoffgridai.co",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48891076",
+    "createdAt": "2026-07-13T13:27:44.787Z"
+  },
+  {
     "slug": "local-recall-github",
     "title": "Local-Recall",
     "shortDescription": "An early prototype alternative to Microsoft/Windows Recall, built to run 100% locally with zero cloud communication. Captures screen snapsh…",
