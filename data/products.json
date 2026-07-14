@@ -1,5 +1,188 @@
 [
   {
+    "slug": "competition-ppt-template-first-skill-github",
+    "title": "competition-ppt-template-first-skill",
+    "shortDescription": "Template-first Agent Skill for premium competition and defense PPTs with real evidence and editable PPTX layers.",
+    "fullDescription": "Template-first Agent Skill for premium competition and defense PPTs with real evidence and editable PPTX layers.\n\nАвтор: che626. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/che626/competition-ppt-template-first-skill",
+    "category": "ai-tool",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "codex",
+      "competition",
+      "powerpoint",
+      "pptx",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1298047052",
+    "createdAt": "2026-07-14T00:52:32.492Z"
+  },
+  {
+    "slug": "aiemailgenerator-github",
+    "title": "AI_Email_Generator",
+    "shortDescription": "AI-powered email generator built with Python, Streamlit, and Ollama for creating professional business emails locally without cloud APIs.",
+    "fullDescription": "AI-powered email generator built with Python, Streamlit, and Ollama for creating professional business emails locally without cloud APIs.\n\nАвтор: ShravanDalavi. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/ShravanDalavi/AI_Email_Generator",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "business-email",
+      "email-generator",
+      "email-generator-tool",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1298502831",
+    "createdAt": "2026-07-14T00:52:32.492Z"
+  },
+  {
+    "slug": "cram-github",
+    "title": "cram",
+    "shortDescription": "Interactively pack your codebase into an LLM context bundle — within a token budget, keeping the files that matter.",
+    "fullDescription": "Interactively pack your codebase into an LLM context bundle — within a token budget, keeping the files that matter.\n\nАвтор: pjw81226. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/pjw81226/cram",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "claude",
+      "cli",
+      "context",
+      "developer-tools",
+      "gpt",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1298334209",
+    "createdAt": "2026-07-14T00:52:32.492Z"
+  },
+  {
+    "slug": "mem0sharp-github",
+    "title": "mem0sharp",
+    "shortDescription": "Long-term memory for AI applications in .NET with semantic search and replaceable embedding and storage providers.",
+    "fullDescription": "Long-term memory for AI applications in .NET with semantic search and replaceable embedding and storage providers.\n\nАвтор: jihadkhawaja. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/jihadkhawaja/mem0sharp",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "csharp",
+      "dotnet",
+      "memory",
+      "pgvector",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1299501821",
+    "createdAt": "2026-07-14T00:52:32.492Z"
+  },
+  {
+    "slug": "prospector-iabotz-github",
+    "title": "prospector-iabotz",
+    "shortDescription": "Prospector IA Botz — funil de prospecção local (Google Places/Apify), redesign, deploy aaPanel e propostas. ",
+    "fullDescription": "Prospector IA Botz — funil de prospecção local (Google Places/Apify), redesign, deploy aaPanel e propostas. \n\nАвтор: ialabdigital-prog. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://ialabdigital.com.br",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "webdesign",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1298362093",
+    "createdAt": "2026-07-14T00:52:32.492Z"
+  },
+  {
+    "slug": "gateway-github",
+    "title": "gateway",
+    "shortDescription": "Single-binary LLM gateway (gw) in Rust — OpenAI/Anthropic-compatible APIs, multi-provider routing, per-key auth/quotas/rate-limits, failove…",
+    "fullDescription": "Single-binary LLM gateway (gw) in Rust — OpenAI/Anthropic-compatible APIs, multi-provider routing, per-key auth/quotas/rate-limits, failover, streaming, and a billing ledger\n\nАвтор: cocoonstack. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://cocoonstack.github.io/gateway/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "anthropic",
+      "api-gateway",
+      "axum",
+      "gateway",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1298296153",
+    "createdAt": "2026-07-14T00:52:32.492Z"
+  },
+  {
+    "slug": "ai-trend-tracker-github",
+    "title": "ai-trend-tracker",
+    "shortDescription": "On-demand Claude Code skill for AI/ML news, tools, papers & learning resources — search-first, cited, dual-layer (ELI5 + technical + verdic…",
+    "fullDescription": "On-demand Claude Code skill for AI/ML news, tools, papers & learning resources — search-first, cited, dual-layer (ELI5 + technical + verdict), role-aware.\n\nАвтор: Unnati-23. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Unnati-23/ai-trend-tracker",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-news",
+      "anthropic",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-plugin",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1298912255",
+    "createdAt": "2026-07-14T00:52:32.492Z"
+  },
+  {
+    "slug": "fixbugs-reproduce-production-bugs-and-verify-fixes-hn",
+    "title": "FixBugs – Reproduce production bugs and verify fixes",
+    "shortDescription": "I built FixBugs, an agent that ingests the rich context surrounding production bugs to reproduce them in a sandbox and generate verified fi…",
+    "fullDescription": "I built FixBugs, an agent that ingests the rich context surrounding production bugs to reproduce them in a sandbox and generate verified fixes. It&#x27;s available in the form of a self-hosted VSCode extension and as a Github app: VSCode Extension: https:&#x2F;&#x2F;fixbugs.ai&#x2F;go&#x2F;vscode-extension - full code and data privacy. - zero data retention models opted out of training. GitHub App: https:&#x2F;&#x2F;fixbugs.ai&#x2F;go&#x2F;github-app - we do access your code temporarily. - pick a repo to install FixBugs on. What motivated me to build FixBugs were my years being on-call at Google and VMware. How many hours did I spend gathering logs, traces, reviewing metrics, and reading code only to find that, * Some context was missing. * The bug wasn&#x27;t reproducible. * The alert was caused by a transient infrastructure issue. Too many. Inefficiency in investigating staging&#x2F;production bugs has a real cost, and it&#x27;s paid both by developers and customers. Current capabilities: - Reproduce the bug. - Identify the root cause. - Generate a fix. - Verify the fix. - Review the generated code using multiple AI models to help catch potential regressions. Do try it and let me know what you think! I&#x27;d especially love feedback from engineers who work with distributed systems or handle high-volume production bug triage.\n\nНайдено в разделе Show HN на Hacker News. 👍 8 баллов.",
+    "url": "https://fixbugs.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48900465",
+    "createdAt": "2026-07-14T00:52:32.219Z"
+  },
+  {
+    "slug": "sx-20-share-ai-skills-with-your-team-through-a-dropbox-folder-hn",
+    "title": "Sx 2.0 – Share AI skills with your team through a Dropbox folder",
+    "shortDescription": "Hi all, author here. SX started as a CLI to let developers share skills across AI clients without having to rely on git for storage. This a…",
+    "fullDescription": "Hi all, author here. SX started as a CLI to let developers share skills across AI clients without having to rely on git for storage. This allowed sharing at the Repo&#x2F;Team&#x2F;Org and Personal level. However, the more we spoke to users the more we realized that non-technical users were actually using skills more and more but they had no way to share. And there was no way you were going to get your legal team to install and learn git. SX 2.0 is targeting non-technical teams by adding a native Mac, Windows and Linux app. Our vault format was reworked so it can be used directly as a claude or codex plugin. And by storing your vault in Dropbox, Google Drive, iCloud or others you can be up and sharing in under a minute. 2.0 also adds an extension system with extensions that manage Skill Evals, LLM de-duping, metics and much more https:&#x2F;&#x2F;github.com&#x2F;sleuth-io&#x2F;sx-extensions . It&#x27;s Apache-2.0 and you can download it here https:&#x2F;&#x2F;github.com&#x2F;sleuth-io&#x2F;sx .\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48900319",
+    "createdAt": "2026-07-14T00:52:32.219Z"
+  },
+  {
     "slug": "j-wash-github",
     "title": "J-Wash",
     "shortDescription": "Jacobian-Brainwash : A framework built on Anthropic's Jacobian Lens for analyzing and customizing LLM internal representations.",
