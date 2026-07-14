@@ -1,5 +1,97 @@
 [
   {
+    "slug": "mcphantom-github",
+    "title": "MCPhantom",
+    "shortDescription": "MCPhantom is a local web dashboard for MCP endpoint recon. Discover resources, templates, tools, and prompts, then interact with them from…",
+    "fullDescription": "MCPhantom is a local web dashboard for MCP endpoint recon. Discover resources, templates, tools, and prompts, then interact with them from a security console.\n\nАвтор: Dragkob. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Dragkob/MCPhantom",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "mcp",
+      "mcp-client",
+      "mcp-server",
+      "mcp-tools",
+      "penetration-testing",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1299690480",
+    "createdAt": "2026-07-14T03:55:12.581Z"
+  },
+  {
+    "slug": "p2ptokens-github",
+    "title": "p2ptokens",
+    "shortDescription": "Distributed, peer-to-peer, decentralized network for LLM inference — peers seed & leech completions, metered by BitTorrent-protocol-style u…",
+    "fullDescription": "Distributed, peer-to-peer, decentralized network for LLM inference — peers seed & leech completions, metered by BitTorrent-protocol-style upload/download ratios. OpenAI-compatible · Rust · libp2p.\n\nАвтор: pur4v. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://p2ptokens.com",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-infrastructure",
+      "bittorrent",
+      "decentralized",
+      "decentralized-ai",
+      "distributed",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1298603396",
+    "createdAt": "2026-07-14T03:55:12.581Z"
+  },
+  {
+    "slug": "glm-52-is-now-available-via-canopy-wave-hn",
+    "title": "GLM-5.2 is now available via Canopy Wave",
+    "shortDescription": "Came across this today. Canopy Wave just added GLM-5.2, and they&#x27;re giving away a few 7-day trial accounts for anyone who wants to tes…",
+    "fullDescription": "Came across this today. Canopy Wave just added GLM-5.2, and they&#x27;re giving away a few 7-day trial accounts for anyone who wants to test it. Curious to see how it performs on real-world coding tasks.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://twitter.com/CanopyWave_AI/status/2076667973616779441",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48901441",
+    "createdAt": "2026-07-14T03:55:12.523Z"
+  },
+  {
+    "slug": "zenveil-security-scanning-for-ai-generated-code-hn",
+    "title": "Zenveil-Security scanning for AI-generated code",
+    "shortDescription": "Проект «Zenveil-Security scanning for AI-generated code», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Zenveil-Security scanning for AI-generated code», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://zenveil.dev",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48901422",
+    "createdAt": "2026-07-14T03:55:12.523Z"
+  },
+  {
+    "slug": "melodusk-ai-music-generator-and-music-tools-in-the-browser-hn",
+    "title": "Melodusk – AI Music Generator and music tools in the browser",
+    "shortDescription": "Hi HN, I built Melodusk, an AI Music Generator and collection of AI music tools that runs directly in the browser. It supports multilingual…",
+    "fullDescription": "Hi HN, I built Melodusk, an AI Music Generator and collection of AI music tools that runs directly in the browser. It supports multilingual UI, generation tracking, and a simple workflow for turning prompts into usable music ideas. Would love feedback on the product, UX, and where this could be most useful.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://melodusk.ai",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48901280",
+    "createdAt": "2026-07-14T03:55:12.523Z"
+  },
+  {
     "slug": "competition-ppt-template-first-skill-github",
     "title": "competition-ppt-template-first-skill",
     "shortDescription": "Template-first Agent Skill for premium competition and defense PPTs with real evidence and editable PPTX layers.",
