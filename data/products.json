@@ -1,5 +1,43 @@
 [
   {
+    "slug": "deadskills-github",
+    "title": "deadskills",
+    "shortDescription": "💀 Find the agent skills you never use. Local-first analytics for Claude Code & Codex skills.",
+    "fullDescription": "💀 Find the agent skills you never use. Local-first analytics for Claude Code & Codex skills.\n\nАвтор: anandsaini18. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/anandsaini18/deadskills",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude",
+      "claude-code-skill",
+      "code",
+      "codex",
+      "skills",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1299869694",
+    "createdAt": "2026-07-14T20:08:44.945Z"
+  },
+  {
+    "slug": "i-built-openclaw-for-stocks-hn",
+    "title": "I Built OpenClaw for Stocks",
+    "shortDescription": "I&#x27;m the solo dev&#x2F;builder of FN2, which uses Open Source AI models to deliver autonomous agents at scale, similar to Hermes and Op…",
+    "fullDescription": "I&#x27;m the solo dev&#x2F;builder of FN2, which uses Open Source AI models to deliver autonomous agents at scale, similar to Hermes and OpenClaw but tailored for stocks. Think of it like Claude Code with a zillion finance skills but it can run them on a schedule or based on price movements and then send you notifications. FN2 is primarily written in Go with some Python here and there and runs on colocated bare metal I set up from scratch. Just hit about 400 users and things are holding up so far. Would be glad to hear any feedback in any direction, as it&#x27;s sort of taken off and I&#x27;m learning how to build a thing people want to use.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://fn2.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48911926",
+    "createdAt": "2026-07-14T20:08:44.639Z"
+  },
+  {
     "slug": "poseberry-create-ai-influencers-that-pose-with-your-products-hn",
     "title": "Poseberry: create AI influencers that pose with your products",
     "shortDescription": "Проект «Poseberry: create AI influencers that pose with your products», опубликован сообществом Hacker News.",
