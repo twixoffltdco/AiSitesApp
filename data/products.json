@@ -1,5 +1,21 @@
 [
   {
+    "slug": "webmotion-a-browser-native-library-for-deterministic-video-composition-hn",
+    "title": "WebMotion, a browser native library for deterministic video composition",
+    "shortDescription": "Hi HN! I have been building WebMotion, a small library for making videos in the browser. The basic idea is that everything on screen is a p…",
+    "fullDescription": "Hi HN! I have been building WebMotion, a small library for making videos in the browser. The basic idea is that everything on screen is a pure function of the current frame, so rendering frame N always produces the same result. That means you can seek anywhere in the timeline, and exports are frame accurate without needing a server. Demos (each includes its own source): https:&#x2F;&#x2F;superhq-ai.github.io&#x2F;webmotion&#x2F; The repo also includes an agent skill that lets coding agents create launch videos from a prompt. Quite a few of the demos were made that way. Feedback is very welcome :)\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://webmotion.superhq.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48912668",
+    "createdAt": "2026-07-14T21:30:21.549Z"
+  },
+  {
     "slug": "deadskills-github",
     "title": "deadskills",
     "shortDescription": "💀 Find the agent skills you never use. Local-first analytics for Claude Code & Codex skills.",
