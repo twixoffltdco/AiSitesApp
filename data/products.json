@@ -1,5 +1,65 @@
 [
   {
+    "slug": "workbuddian-github-2",
+    "title": "workbuddian",
+    "shortDescription": "Embed the WorkBuddy/CodeBuddy CLI as an AI chat agent inside Obsidian",
+    "fullDescription": "Embed the WorkBuddy/CodeBuddy CLI as an AI chat agent inside Obsidian\n\nАвтор: jiang198012. Найдено в GitHub Trending (AI-тематика). ⭐ 21 звёзд.",
+    "url": "https://obsidian.md/plugins?id=workbuddian",
+    "category": "developer",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-chat",
+      "codebuddy",
+      "llm",
+      "obsidian",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1298306683",
+    "createdAt": "2026-07-14T06:09:01.953Z"
+  },
+  {
+    "slug": "p2ptokens-github-2",
+    "title": "p2ptokens",
+    "shortDescription": "Distributed, peer-to-peer, decentralized network for LLM inference — peers seed & leech completions, metered by BitTorrent-protocol-style u…",
+    "fullDescription": "Distributed, peer-to-peer, decentralized network for LLM inference — peers seed & leech completions, metered by BitTorrent-protocol-style upload/download ratios. OpenAI-compatible · Rust · libp2p.\n\nАвтор: pur4v. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://github.com/pur4v/p2ptokens",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-infrastructure",
+      "bittorrent",
+      "decentralized",
+      "decentralized-ai",
+      "distributed",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1298603396",
+    "createdAt": "2026-07-14T06:09:01.953Z"
+  },
+  {
+    "slug": "rqshc-a-cx64-assembly-image-compressor-with-its-own-rqi-format-hn",
+    "title": "Rqshc – A C++/x64 assembly image compressor with its own RQI format",
+    "shortDescription": "RQSHC is an experimental Windows image compressor with its own RQI format. The core compression and decoding paths are original native C++1…",
+    "fullDescription": "RQSHC is an experimental Windows image compressor with its own RQI format. The core compression and decoding paths are original native C++17 implementations with selected x64 assembly and AVX2 optimizations, rather than wrappers around an existing image codec library. The current release supports PNG, BMP, and PPM input, and includes a separate Windows viewer for RQI files. Processing is performed locally on the user&#x27;s PC. The compression core is currently closed source, but the binaries are free for personal use, research, education, company evaluation, PoCs, and public benchmarking.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Eiryou/rqshc-image-compressor",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48902831",
+    "createdAt": "2026-07-14T06:09:01.669Z"
+  },
+  {
     "slug": "mcphantom-github",
     "title": "MCPhantom",
     "shortDescription": "MCPhantom is a local web dashboard for MCP endpoint recon. Discover resources, templates, tools, and prompts, then interact with them from…",
