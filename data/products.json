@@ -1,5 +1,97 @@
 [
   {
+    "slug": "orxis-github",
+    "title": "orxis",
+    "shortDescription": "AI-powered custom instruction generator for ChatGPT, Claude, Gemini, and more. Build structured system prompts — no account required.",
+    "fullDescription": "AI-powered custom instruction generator for ChatGPT, Claude, Gemini, and more. Build structured system prompts — no account required.\n\nАвтор: KhotJarb. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://orxis.vercel.app",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-tools",
+      "chatgpt",
+      "claude",
+      "custom-instructions",
+      "gemini",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1299578472",
+    "createdAt": "2026-07-14T10:43:12.038Z"
+  },
+  {
+    "slug": "pandaclip-github",
+    "title": "pandaclip",
+    "shortDescription": "One local-first MCP server for agent working state — clipboard history & snippets, TTL cache, file-organizer overlay, and a knowledge graph…",
+    "fullDescription": "One local-first MCP server for agent working state — clipboard history & snippets, TTL cache, file-organizer overlay, and a knowledge graph — plus a live desktop activity lens. 40 tools, SQLite everywhere, no daemons. Apache-2.0.\n\nАвтор: xfloukiex-lab. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://vektorgeist.com",
+    "category": "developer",
+    "tags": [
+      "agents",
+      "ai",
+      "cache",
+      "claude",
+      "claude-code",
+      "clipboard",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1298681881",
+    "createdAt": "2026-07-14T10:43:12.038Z"
+  },
+  {
+    "slug": "qpilot-paste-a-manual-test-case-ai-runs-it-in-chrome-hn",
+    "title": "QPilot – paste a manual test case, AI runs it in Chrome",
+    "shortDescription": "Проект «QPilot – paste a manual test case, AI runs it in Chrome», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «QPilot – paste a manual test case, AI runs it in Chrome», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/broxhq/qpilot",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48904518",
+    "createdAt": "2026-07-14T10:43:11.817Z"
+  },
+  {
+    "slug": "turnitin-report-ai-checker-and-ai-detector-for-student-papers-hn",
+    "title": "Turnitin Report – AI checker and AI detector for student papers",
+    "shortDescription": "Проект «Turnitin Report – AI checker and AI detector for student papers», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Turnitin Report – AI checker and AI detector for student papers», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.turnitin.report/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48904083",
+    "createdAt": "2026-07-14T10:43:11.817Z"
+  },
+  {
+    "slug": "coura-ai-ai-clothes-changer-for-realistic-outfit-photos-hn",
+    "title": "Coura AI – AI clothes changer for realistic outfit photos",
+    "shortDescription": "Проект «Coura AI – AI clothes changer for realistic outfit photos», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Coura AI – AI clothes changer for realistic outfit photos», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://coura.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48904069",
+    "createdAt": "2026-07-14T10:43:11.817Z"
+  },
+  {
     "slug": "neverswipe-your-ai-agent-dates-so-you-dont-swipe-hn",
     "title": "Neverswipe – your AI agent dates so you don't swipe",
     "shortDescription": "Проект «Neverswipe – your AI agent dates so you don't swipe», опубликован сообществом Hacker News.",
