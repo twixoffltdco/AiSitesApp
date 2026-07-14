@@ -1,5 +1,155 @@
 [
   {
+    "slug": "pdf-chat-github",
+    "title": "pdf-chat",
+    "shortDescription": "A production-ready AI PDF chat application built with LangChain, FastAPI, FAISS, and the OpenAI Responses API, enabling intelligent documen…",
+    "fullDescription": "A production-ready AI PDF chat application built with LangChain, FastAPI, FAISS, and the OpenAI Responses API, enabling intelligent document conversations through Retrieval-Augmented Generation (RAG).\n\nАвтор: OlehDatsyk. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/OlehDatsyk/pdf-chat",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "chatbot",
+      "document-ai",
+      "embeddings",
+      "faiss",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1300208709",
+    "createdAt": "2026-07-14T14:23:33.228Z"
+  },
+  {
+    "slug": "real-time-avatars-that-change-emotions-as-you-talk-hn",
+    "title": "Real-time avatars that change emotions as you talk",
+    "shortDescription": "Hey HN, we&#x27;re Ben and Caoimhe, cofounders of Anam. We build interactive avatars and just shipped our latest model, cara-4. This is the…",
+    "fullDescription": "Hey HN, we&#x27;re Ben and Caoimhe, cofounders of Anam. We build interactive avatars and just shipped our latest model, cara-4. This is the first avatar model which can naturally shift emotions and expressions during the conversation; a feature we’re calling “Director Notes”. The way it works is relatively simple: we have an LLM provide cues such as [laughter], [sad], [warm] interleaved with the speech, which we then condition our animation model with. To test it out, we commissioned a blind study from Mabyduck.com with 200 participants, 1,600 rated live interactions across six criteria. Cara-4 ranked first overall and was preferred head-to-head over each competitor on overall experience, lip-sync, visual quality and “naturalness”. On latency, measured across a full week of live traffic, end of user-speech to first video frame is ~1.2s median. The avatar model&#x27;s own share is just ~100ms; most of the rest is waiting on STT, LLM, TTS or various forms of buffering (an unsung latency killer). How the model works: cara-4 has a two-stage design, a diffusion transformer turns audio+text into motion embeddings (head pose, gaze, lip shape, expression), and a rendering model applies those to a reference image, so new faces works without finetuning. Why faces at all: they carry emotional signal that text and voice don&#x27;t, and they&#x27;re a more accessible medium. Anam started in part from Ben watching his gran struggle with her iPad and thinking there should be a face she could just talk to. If you’d like to test it for free go to anam.ai\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://anam.ai/",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48907348",
+    "createdAt": "2026-07-14T14:23:32.944Z"
+  },
+  {
+    "slug": "verdict-ai-hiring-verdicts-where-every-score-cites-the-cv-verbatim-hn",
+    "title": "Verdict – AI hiring verdicts where every score cites the CV verbatim",
+    "shortDescription": "Проект «Verdict – AI hiring verdicts where every score cites the CV verbatim», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Verdict – AI hiring verdicts where every score cites the CV verbatim», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://verdict.infinure.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48907306",
+    "createdAt": "2026-07-14T14:23:32.944Z"
+  },
+  {
+    "slug": "ufo-open-source-orchestration-for-running-ai-agents-unattended-hn",
+    "title": "UFO – Open-source orchestration for running AI agents unattended",
+    "shortDescription": "Проект «UFO – Open-source orchestration for running AI agents unattended», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «UFO – Open-source orchestration for running AI agents unattended», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/fengsi/ufo",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48907017",
+    "createdAt": "2026-07-14T14:23:32.944Z"
+  },
+  {
+    "slug": "kmux-parallel-terminal-workspace-optimized-for-ai-coding-agents-hn",
+    "title": "Kmux – Parallel terminal workspace optimized for AI coding agents",
+    "shortDescription": "Проект «Kmux – Parallel terminal workspace optimized for AI coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Kmux – Parallel terminal workspace optimized for AI coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/kkd927/kmux",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48906624",
+    "createdAt": "2026-07-14T14:23:32.944Z"
+  },
+  {
+    "slug": "visualether-wireshark-pcaps-to-sequence-diagrams-mcp-for-ai-analysis-hn",
+    "title": "VisualEther – Wireshark PCAPs to sequence diagrams; MCP for AI analysis",
+    "shortDescription": "Проект «VisualEther – Wireshark PCAPs to sequence diagrams; MCP for AI analysis», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «VisualEther – Wireshark PCAPs to sequence diagrams; MCP for AI analysis», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.eventhelix.com/visualether/case-studies/5g-nr-r16-mdt-mac-pdcp-decryption-scheduling-harq-ipsec-esp-analysis.html",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48906513",
+    "createdAt": "2026-07-14T14:23:32.944Z"
+  },
+  {
+    "slug": "two-nextjs-templates-with-zero-dependencies-and-one-config-file-hn",
+    "title": "Two Next.js templates with zero dependencies and one config file",
+    "shortDescription": "Проект «Two Next.js templates with zero dependencies and one config file», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Two Next.js templates with zero dependencies and one config file», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://nova-ai-saas-template.vercel.app",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48906438",
+    "createdAt": "2026-07-14T14:23:32.944Z"
+  },
+  {
+    "slug": "town-discord-in-a-pixel-town-where-the-npcs-have-skills-hn",
+    "title": "Town – Discord in a pixel town where the NPCs have skills",
+    "shortDescription": "I built this thing called Town think Discord, but you walk around a pixel town where the NPCs have skills. Agents have become my initial br…",
+    "fullDescription": "I built this thing called Town think Discord, but you walk around a pixel town where the NPCs have skills. Agents have become my initial brainstorm partner for a lot of stuff — sub-agents to counter my own thinking, role-playing a specific person, grounding them in a specific knowledge so they refer instead of guess. I started turning my claude-code into this pattern and it worked well enough that I wanted to see if I turn into a fun shareable thing where other people can also talk to. It&#x27;s a small pixel map of buildings. You walk in, step into any building, and talk to the npcs who live there. Each NPC is an AI agent with its own personality (voice, backstory, what they care about) and a skillset (tools like memory, web search, writing docs). The personality makes them fun to talk to; the tools make them able to actually do something. Multiplayer&#x2F;Group discussions: Real people wander the same map. If someone else is in your town you see them walking around and can chat live. Step into a building together and press G to open a shared chat between the humans and AI avatars in that room. The engineering bit I like most: each NPC is a separate agent with scoped tool permissions. The author decides which tools each one gets — a shopkeeper can hand out inventory, a detective can issue a Case Closed card, a barista just talks. A few towns I&#x27;ve built: - AI Startup Town: get in a room with NPCs of famous investors — Paul Graham, Garry Tan, Michael Seibel, Dalton Caldwell. Pitch your idea, stress-test your plan, build your startup doc. - Murder Mystery Town: Iris Bell is dead. Talk to the NPCs, catch someone in a contradiction, figure out who did it, and report back to Detective Reeve to close the case. - Roast Town: get roasted, or learn the fundamentals of roasting. - CORE Town: the sampler — one town that shows off everything. Pitch Garry Tan at YC House, stand trial at Trial of You, get worked over by a noir detective, get roasted. Best place to start. You can build your own town too, and it&#x27;s open source. A town is just a JSON + MDX folder — a buildings list, one .mdx per AI avatar (frontmatter = identity, body = system prompt) — then town deploy from the CLI. There&#x27;s also a claude plugin that builds the whole thing in one shot from a rough description. Guest mode, no signup: Startup: https:&#x2F;&#x2F;town.getcore.me&#x2F;startup?invite_code=7EQMH0 Murder Mystery: https:&#x2F;&#x2F;town.getcore.me&#x2F;murder-mystery?invite_code=S85S24 Roast: https:&#x2F;&#x2F;town.getcore.me&#x2F;roast-town?invite_code=0MXN93 CORE Town: https:&#x2F;&#x2F;town.getcore.me&#x2F;core-town?invite_code=H4C0TZ Full list: https:&#x2F;&#x2F;town.getcore.me&#x2F;explore Source: https:&#x2F;&#x2F;github.com&#x2F;RedPlanetHQ&#x2F;town Rather fun project overall. Honestly I have been thinking a lot about how community engagement is changing with agents and this felt like a good way. It&#x27;s a very raw shot. Kindly share your thoughts and feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://github.com/redplanethq/town",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48906251",
+    "createdAt": "2026-07-14T14:23:32.944Z"
+  },
+  {
+    "slug": "i-rl-trained-an-agent-that-trains-models-with-rl-for-13k-hn",
+    "title": "I RL-trained an agent that trains models with RL (for –$1.3k)",
+    "shortDescription": "Проект «I RL-trained an agent that trains models with RL (for –$1.3k)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I RL-trained an agent that trains models with RL (for –$1.3k)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 37 баллов.",
+    "url": "https://github.com/Danau5tin/ai-trains-ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48905919",
+    "createdAt": "2026-07-14T14:23:32.944Z"
+  },
+  {
     "slug": "ai-mock-interview-coach-that-scores-how-you-sound-not-just-your-words-hn",
     "title": "AI mock-interview coach that scores how you sound, not just your words",
     "shortDescription": "Проект «AI mock-interview coach that scores how you sound, not just your words», опубликован сообществом Hacker News.",
