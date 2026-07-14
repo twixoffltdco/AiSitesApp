@@ -1,5 +1,69 @@
 [
   {
+    "slug": "ai-mock-interview-coach-that-scores-how-you-sound-not-just-your-words-hn",
+    "title": "AI mock-interview coach that scores how you sound, not just your words",
+    "shortDescription": "Проект «AI mock-interview coach that scores how you sound, not just your words», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI mock-interview coach that scores how you sound, not just your words», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.stanrose.com/mondaus",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48905435",
+    "createdAt": "2026-07-14T12:09:06.121Z"
+  },
+  {
+    "slug": "an-ai-duolingo-for-your-income-goals-hn",
+    "title": "An AI Duolingo for your income goals",
+    "shortDescription": "Проект «An AI Duolingo for your income goals», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An AI Duolingo for your income goals», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://thrivez.io/thrivez-ai-mentor/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48905383",
+    "createdAt": "2026-07-14T12:09:06.121Z"
+  },
+  {
+    "slug": "planetary-facts-food-and-product-impacts-against-the-planets-limits-hn",
+    "title": "Planetary Facts – food and product impacts against the planet's limits",
+    "shortDescription": "Hi HN I&#x27;m Mike, CTO of Planetary Insights, a small NZ team. With our partners, Planetary Accounting Network (PAN), we&#x27;ve just rel…",
+    "fullDescription": "Hi HN I&#x27;m Mike, CTO of Planetary Insights, a small NZ team. With our partners, Planetary Accounting Network (PAN), we&#x27;ve just released https:&#x2F;&#x2F;planetaryfacts.com - a dashboard for consumers to understand the impacts of food, products and lifestyle decisions in context of the planetary sustainability limits. The idea: most environmental scores are relative (&quot;30% less carbon than X&quot;) and&#x2F;or carbon only. We put everything in context of the Planetary Boundaries, and the pathways to get back into the safe operating space of the planet. It means every product can be measured as a % of daily budget per category or in totality, and if everything you do is less than 100% across the board, then congratulations, you&#x27;ve got a lifestyle compatible with a long-term sustainable planet (including carbon, biogenic-GHG, water, nitrogen, phosphorus, biodiversity, forestland, ozone, air quality, waste). The comparison feature is meant to be flexible to make it practical for decision making. For example, put protein sources side by side, per gram of nutritional protein: the same 75g of daily protein can be 5% or 70% of an entire daily budget (and you still have to fit in travel, electricity, clothes, etc). It&#x27;s also not just food. We have petrol vs EV in there now as well, and we have done assessments for tourism experiences, buildings and more. How the numbers are made: these are all Life Cycle Assessment (LCA) models built from international datasets, adapted for NZ, run through the Planetary Insights platform. The PAN team authored, QA&#x27;d and published these - 50 assessments so far. Honest limitations: these are generic&#x2F;average benchmark datasets and within-product variation can be really high. We have a number of brands releasing their specific products (lamb, honey, a digital publication) over the coming weeks, and we&#x27;re wanting more to do it. Stack: the dashboard is Flask + TanStack. The PI for Products stack is Flask + React + OpenLCA with Postgres (incl. pgvector for some source-matching features we&#x27;re working on). Would love feedback, critiques, questions, and especially what else would you like to see in the dashboard. I&#x27;ll be in the comments\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://planetaryfacts.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48905010",
+    "createdAt": "2026-07-14T12:09:06.121Z"
+  },
+  {
+    "slug": "byo-ai-free-notetaking-with-optional-screen-reading-for-openclawhermes-hn",
+    "title": "BYO AI free notetaking with optional screen reading for OpenClaw/hermes",
+    "shortDescription": "I&#x27;ve built fully on-device (macOS) meeting transcription&#x2F;summaries&#x2F;action-items app. It uses parakeet and gemma 4 or OpenCla…",
+    "fullDescription": "I&#x27;ve built fully on-device (macOS) meeting transcription&#x2F;summaries&#x2F;action-items app. It uses parakeet and gemma 4 or OpenClaw or Hermes Agent to drive main functionalities. It&#x27;s free, requires no account or email, and is source available. You can also natively connect your own local&#x2F;VPS OpenClaw or Hermes to use them, their memory and context, as a notetaker. About me: my name is Piotr. I&#x27;m having plenty of calls as a freelancing programmer, and have interest in audio domain, so it was natural for me to pick this as my side project. I struggled a bit with echo cancellation, and writing idiomatic plugins to let users use their OpenClaw or Hermes agents as BYO AI (basically backend). I started project coding Tauri app by hand, only after establishing architecture I started leaning on AI coding agents. I use Claude Code with https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;codex-plugin-cc for &quot;adversarial-reviews&quot;. On the website I&#x27;ve included an offer to upgrade StageWhisper Lite to Founders edition with one-time payment: this give screen reading (via accessibility tree) and proactive, two-way communication - that is, your connected agent can provide suggestions by listening to audio (Cluely style), and you can chat with it during the call. Again, you bring your own AI, so Founders is a single payment, no subscription offer. Both apps include MCP and in-app chat with your transcripts and meeting notes. Both also allow to connect any model downloaded from HF or connecting OpenClaw&#x2F;Hermes. I created StageWhisper Lite &amp; Founders to test business feasibility of one-time payment AI apps that have no marginal costs (you either use local model or your own assistant). I hope you will enjoy free Lite app and consider upgrading to Founders.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://stagewhisper.io/lite",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48904884",
+    "createdAt": "2026-07-14T12:09:06.121Z"
+  },
+  {
     "slug": "orxis-github",
     "title": "orxis",
     "shortDescription": "AI-powered custom instruction generator for ChatGPT, Claude, Gemini, and more. Build structured system prompts — no account required.",
