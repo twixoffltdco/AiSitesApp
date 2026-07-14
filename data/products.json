@@ -1,5 +1,113 @@
 [
   {
+    "slug": "ally-agent-github",
+    "title": "ally-agent",
+    "shortDescription": "A desktop AI coding assistant that works with your local projects. Ally helps you understand code, edit files, search a workspace, manage t…",
+    "fullDescription": "A desktop AI coding assistant that works with your local projects. Ally helps you understand code, edit files, search a workspace, manage tasks, and complete development work through conversation.\n\nАвтор: Bronya0. Найдено в GitHub Trending (AI-тематика). ⭐ 10 звёзд.",
+    "url": "https://github.com/Bronya0/ally-agent",
+    "category": "chatbot",
+    "tags": [
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "ai",
+      "ai-agent",
+      "ally",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1298065682",
+    "createdAt": "2026-07-14T17:15:27.228Z"
+  },
+  {
+    "slug": "motionsites-prompt-collection-github",
+    "title": "motionsites-prompt-collection",
+    "shortDescription": "497 AI web design prompts — Generate stunning landing pages in seconds. Works with Bolt.new, v0, GPT-Engineer. 100% original designs, MIT l…",
+    "fullDescription": "497 AI web design prompts — Generate stunning landing pages in seconds. Works with Bolt.new, v0, GPT-Engineer. 100% original designs, MIT licensed.\n\nАвтор: nomaan5541. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://motionsitesai-main.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-tools",
+      "bolt-new",
+      "framer-motion",
+      "free",
+      "glassmorphism",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1298138094",
+    "createdAt": "2026-07-14T17:15:27.228Z"
+  },
+  {
+    "slug": "an-open-source-claude-skill-that-stops-ai-building-the-wrong-app-hn",
+    "title": "An open-source Claude skill that stops AI building the wrong app",
+    "shortDescription": "Howdy friends. I&#x27;ve been a zero to one product manager for 12 plus years and along the way I kept borrowing pieces from different disc…",
+    "fullDescription": "Howdy friends. I&#x27;ve been a zero to one product manager for 12 plus years and along the way I kept borrowing pieces from different discovery frameworks until I had a methodology of my own, one that actually raises the odds of an idea succeeding. This does not replace user interviews obviously, but it leads you in the right direction. Looking forward for your feedback\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/TexasBedouin/vibe-check",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48909826",
+    "createdAt": "2026-07-14T17:15:26.872Z"
+  },
+  {
+    "slug": "choji-turn-slack-threads-into-ready-to-merge-pr-with-choji-hn",
+    "title": "Choji – turn Slack threads into ready-to-merge PR with Choji",
+    "shortDescription": "Hi HN - we&#x27;re Chris and Jacob, and over the past few months, we&#x27;ve been building a way for teams (non-technical and technical) to…",
+    "fullDescription": "Hi HN - we&#x27;re Chris and Jacob, and over the past few months, we&#x27;ve been building a way for teams (non-technical and technical) to easily get the agents they need to handle things like creating engineering tickets, drafting pull requests, and code review without context loss. Today, I&#x27;d like to share how this all works end to end with our Slack thread to GitHub pull request flow. And here&#x27;s a small demo video of how it works made with Remotion: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=-wDmWIgnBoM So Choji is a platform where teams can add agents based on their needs in the product development lifecycle. The first step is you connect your knowledge and code bases (e.g. GitHub, Jira, Linear, or whatever you use). Then, connect a place where you get requests (e.g. Gmail, Slack, Intercom, Crisp), then Choji can see the threads as they come or when you command it to e.g @Choji with Slack, and it&#x27;ll take the request, enrich it with the context it has from your knowledge and code bases to make an actionable eng ticket with an estimated level of effort (e.g. S-XL). Some teams stop here and give the Choji tickets to their teams. For those who want to go one step further, Choji marks tickets it&#x27;s coding agent can handle with &quot;Agent-Ready&quot;, and if the user chooses, Choji can attempt to one-shot the pull request using the ticket it created as the plan. It makes an ephemeral runner, clones your repo, and then gets to work making the fix. I personally give Choji a group of tickets while I&#x27;m making my kids&#x27; breakfast in the morning and it&#x27;s pretty cool to see the pull requests get made. And, if it gets it wrong, you can give Choji more context to try again. Lastly, we also have a code review agent that reviews pull requests made by you+your team and Choji. If the code review agent finds a matching ticket where the PR is originating from, then Choji can use that originating ticket as context to give a more accurate review of what is in the PR compared to the original intent. Jacob and I made Choji internally as our collectibles marketplace (Raremarq.com) started growing, and we made our first ticket agent as a way for our non-technical support staff to file tickets from Intercom and Slack quickly. But, as the volume of tickets from Choji kept growing, we figured out a way to make a coding agent to take those tickets and ship the small customer asks ones that were filling the backlog. From there, we&#x27;ve just kept building on top of it and now giving it to more teams to use. It&#x27;s still early for us so we&#x27;d love your questions and feedback and if you have any integrations you want us to add let us know!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://choji.ai/agents/slack",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48909234",
+    "createdAt": "2026-07-14T17:15:26.872Z"
+  },
+  {
+    "slug": "ai-powered-seo-automation-for-wordpress-hn",
+    "title": "AI-powered SEO automation for WordPress",
+    "shortDescription": "Проект «AI-powered SEO automation for WordPress», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI-powered SEO automation for WordPress», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://saas.seamanshelp.com/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48909084",
+    "createdAt": "2026-07-14T17:15:26.873Z"
+  },
+  {
+    "slug": "vibe-coding-games-with-claude-day-93-rock-paper-scissors-lizard-spock-hn",
+    "title": "Vibe-coding games with Claude, day 93: Rock Paper Scissors Lizard Spock",
+    "shortDescription": "Now in the 4th month of making a new browser-based HTML5&#x2F;canvas&#x2F;websockets game EVERY SINGLE DAY (with AI assistance) - happy to…",
+    "fullDescription": "Now in the 4th month of making a new browser-based HTML5&#x2F;canvas&#x2F;websockets game EVERY SINGLE DAY (with AI assistance) - happy to answer any questions or take any feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://gamevibe.us/93-rock-paper-scissors-lizard-spock",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48909046",
+    "createdAt": "2026-07-14T17:15:26.873Z"
+  },
+  {
     "slug": "a-lightweight-model-monitor-for-scikit-learn-and-keras-hn",
     "title": "A lightweight model monitor for scikit-learn and Keras",
     "shortDescription": "Проект «A lightweight model monitor for scikit-learn and Keras», опубликован сообществом Hacker News.",
