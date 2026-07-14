@@ -1,5 +1,85 @@
 [
   {
+    "slug": "neverswipe-your-ai-agent-dates-so-you-dont-swipe-hn",
+    "title": "Neverswipe – your AI agent dates so you don't swipe",
+    "shortDescription": "Проект «Neverswipe – your AI agent dates so you don't swipe», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Neverswipe – your AI agent dates so you don't swipe», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://neverswipe.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48903487",
+    "createdAt": "2026-07-14T08:35:30.789Z"
+  },
+  {
+    "slug": "claudethings-your-ai-engineering-and-marketing-team-in-one-command-hn",
+    "title": "ClaudeThings – your AI engineering and marketing team in one command",
+    "shortDescription": "Проект «ClaudeThings – your AI engineering and marketing team in one command», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ClaudeThings – your AI engineering and marketing team in one command», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.claudethings.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48903346",
+    "createdAt": "2026-07-14T08:35:30.789Z"
+  },
+  {
+    "slug": "benchmark-your-eng-teams-ai-agent-maturity-in-5-minutes-hn",
+    "title": "Benchmark your eng team's AI agent maturity in 5 minutes",
+    "shortDescription": "we had hundreds of discussions with engineering leaders over the past few months, and everyone&#x27;s trying to understand where they are i…",
+    "fullDescription": "we had hundreds of discussions with engineering leaders over the past few months, and everyone&#x27;s trying to understand where they are in the AI journey. we collected all this data into a benchmark and built a free grader to let you know where you stand. you answer on a 1–5 scale (e.g., autonomy runs from &quot;suggestions only&quot; to &quot;agents own multi-hour workflows across code, infra, and external systems&quot;) - takes about 5 minutes. https:&#x2F;&#x2F;agent-benchmarks.com&#x2F;software-factory&#x2F; waiting for your results!\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://agent-benchmarks.com/software-factory/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48903102",
+    "createdAt": "2026-07-14T08:35:30.789Z"
+  },
+  {
+    "slug": "themis-self-hosted-ai-code-reviews-with-your-own-keys-and-models-hn",
+    "title": "Themis – Self-hosted AI code reviews with your own keys and models",
+    "shortDescription": "Hey HN, I wasn&#x27;t happy with the code review tools we use at work and on my side projects. Noisy, reviews in surface, expensive (overki…",
+    "fullDescription": "Hey HN, I wasn&#x27;t happy with the code review tools we use at work and on my side projects. Noisy, reviews in surface, expensive (overkill for sides). So since Gemini was getting sunsetted, I explored having my own. As I am a cheap rat, this weekend I built Themis, that works with my Codex&#x2F;Claude subscriptions (I understood &quot;claude -p&quot; is ok again in subscriptions). I wanted it open-source so it can help other indie devs or small teams, self-hostable (or local), drawing from subs and mostly, configurable so it works well with your own repos. No big ambitions nor 1 billion startup here, just fun (so please don&#x27;t roast ahah). If it is useful to even a few people, that&#x27;s already great. Happy to have feedback (especially on distributing the app!) Ps: 1st HN contrib, hope it&#x27;s the right format\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Zaimwa9/themis",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48903007",
+    "createdAt": "2026-07-14T08:35:30.789Z"
+  },
+  {
+    "slug": "my-intel-brief-rival-intel-briefs-sm-biz-white-lbl-for-agencies-hn",
+    "title": "My Intel Brief - Rival-intel briefs sm biz, white-lbl for agencies",
+    "shortDescription": "MyIntelBrief monitors your competitors daily and delivers AI-powered intelligence briefs straight to your inbox. Know what your competition…",
+    "fullDescription": "MyIntelBrief monitors your competitors daily and delivers AI-powered intelligence briefs straight to your inbox. Know what your competition is doing before your customers do. Free to Try.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://myintelbrief.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48902927",
+    "createdAt": "2026-07-14T08:35:30.789Z"
+  },
+  {
     "slug": "workbuddian-github-2",
     "title": "workbuddian",
     "shortDescription": "Embed the WorkBuddy/CodeBuddy CLI as an AI chat agent inside Obsidian",
