@@ -1,5 +1,213 @@
 [
   {
+    "slug": "a-lightweight-model-monitor-for-scikit-learn-and-keras-hn",
+    "title": "A lightweight model monitor for scikit-learn and Keras",
+    "shortDescription": "Проект «A lightweight model monitor for scikit-learn and Keras», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A lightweight model monitor for scikit-learn and Keras», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aitor1717.github.io/canary-ml/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48908516",
+    "createdAt": "2026-07-14T15:56:33.625Z"
+  },
+  {
+    "slug": "i-built-a-free-app-that-turns-your-fridge-into-recipes-solo-dev-hn",
+    "title": "I built a free app that turns your fridge into recipes (solo dev)",
+    "shortDescription": "Hi HN, I&#x27;m a solo student dev. Souva started with a problem my mom and I always ran into: we&#x27;d open a full fridge and have no ide…",
+    "fullDescription": "Hi HN, I&#x27;m a solo student dev. Souva started with a problem my mom and I always ran into: we&#x27;d open a full fridge and have no idea what to make, then open a full pantry and still have no idea what to make. Most recipe apps expect you to find a recipe and go out and get everything, but we didn&#x27;t have the time or the space for niche ingredients we&#x27;d only ever use once. Souva works with what you already have. You enter what you have by snapping a photo of your fridge, scanning a barcode, or typing it in, and the app finds recipes you can actually make right now. If you&#x27;re like me and always have a mix of niche ingredients, SouvAI will invent brand new recipes from exactly what you have. You can also import any recipe from a URL to save it. Build details: React Native&#x2F;Expo on iOS and Android, backend on Cloudflare Workers, and recipe generation runs through Hugging Face inference providers so I can route across multiple providers instead of marrying a single API. It&#x27;s free and has no accounts. I run ads to cover hosting and AI costs, so photo scans had to cost around $0.002 each behind a cap of 3 per day, and AI generations are capped at 5 (watching an ad tops either up). I&#x27;d most want feedback on how good the AI-invented recipes actually are. Generations provide users confidence scores, but the recipes&#x27; actual taste is the thing I want to test thoroughly. Try Souva on the weirdest ingredient combos in your fridge and let me know if you&#x27;d actually cook the recipes it generates you! Free on iOS and Android: https:&#x2F;&#x2F;souva.app\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://souva.app",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48908506",
+    "createdAt": "2026-07-14T15:56:33.625Z"
+  },
+  {
+    "slug": "skills-as-a-service-via-mcp-coding-agent-skill-library-hn",
+    "title": "Skills as a Service via MCP –> Coding Agent Skill Library",
+    "shortDescription": "Hi HN!, While discussing agentic engineering with my close network, it came to light that most agent skills still live on desktops, in repo…",
+    "fullDescription": "Hi HN!, While discussing agentic engineering with my close network, it came to light that most agent skills still live on desktops, in repositories, or in people’s heads. In the context of large, regulated organisations, where compliance and governance are key drivers, it makes sense for skills to be treated like any other governed, trusted and compliant data asset. From a software and agentic engineering perspective, the tooling should be easy to adopt and make agentic coding &quot;easier, faster, safer&quot;. This started to shape a new capability, “Skills as a Service”, delivered by the Coding Agent Skill Library, which moves skills into a secure, governed and trusted service. It has two flavours: 1. Drop-in library: If you don&#x27;t want to change your current workflow, pull any skills you need directly into your environment and use them with Claude, Codex, Cursor, Antigravity, and other agent frameworks or IDEs. 2. Service via MCP: If you want Skills as a Service, then Agents and IDEs access a semantically linked, ontology-first knowledge graph through a read-only MCP server. This is where the real value is. The knowledge graph is designed to retrieve the right skills for the shape of the task, rather than relying only on names, folders or basic metadata. It models task intent, workflow stage, supporting evidence, skill versions and relationships between skills. Runs locally in docker, wired into VSCode or Cursor using stdio. Intent is this would be scaled out for enterprise environments, have inner source style contributions federated ops model. My thinking was to enable controlled contribution, consistent quality, compliance and simplify skill discovery and reduce drift, by having a single trusted source. The aim was simple: make curated skills a safe, versioned and governed organisational asset, accessible from a single internal service. Question is does it actually help make real builders d2d - faster, safer, cheaper, easier and does it help enterprises govern skills usage? Repo: https:&#x2F;&#x2F;github.com&#x2F;mmccalla&#x2F;coding-agent-skill-library\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/mmccalla/coding-agent-skill-library",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48908393",
+    "createdAt": "2026-07-14T15:56:33.625Z"
+  },
+  {
+    "slug": "orbital-pai-a-personal-ai-assistant-hn",
+    "title": "Orbital PAI a personal AI assistant",
+    "shortDescription": "It&#x27;s a personal assistant I&#x27;ve been working on for myself and my house. So it&#x27;s very much designed around my wants but I thi…",
+    "fullDescription": "It&#x27;s a personal assistant I&#x27;ve been working on for myself and my house. So it&#x27;s very much designed around my wants but I think it&#x27;s pretty cool. A not cool thing is it&#x27;s using mostly cloud AI services but that just lets me work on it quickly without dealing with what local models to run problem. I also think it should be easy to hack, so if you wanted to run local models, change the interface or just use the interface itself or something else. Just wanted to show it off and share! EDIT: sorry about the git history, I developed it in private without curating any of my commits so it was easier just to wipe the commits and start fresh then leak my stuff.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Dream-Mosaic/orbital-pai",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48908340",
+    "createdAt": "2026-07-14T15:56:33.625Z"
+  },
+  {
+    "slug": "sol-a-validated-computational-artifact-for-human-agent-handoffs-hn",
+    "title": "Sol – a validated computational artifact for human-agent handoffs",
+    "shortDescription": "This project is a response to Thariq Shihipar&#x27;s essay written in Anthropic blog. While I agree with Thariq&#x27;s critique that Markdo…",
+    "fullDescription": "This project is a response to Thariq Shihipar&#x27;s essay written in Anthropic blog. While I agree with Thariq&#x27;s critique that Markdown isn&#x27;t enough for the work that AI Agents are now conducting I disagree that outputting HTML is the answer. HTML is a presentation format and while it looks good and is easy for human readers it is insufficient for work that needs to present a record of how the final output was arrived at. The repository contains an RFC for a specification for a durable artifact that preserves the work conducted by anyone or anything. The repo also contains a Python validator (minimal implimentation) and a gold-case and pathology corpus long with deterministic JSON diagnostics. The validator checks for reference and object integrity, ensures that the execution order of any code is plainly and always visible, any proposals and reviews that may have been conducted, as well as recording authorization. You can run the validator by: python -m solval.make_corpus corpus python -m solval.validate_corpus corpus As stated, this is a first draft and intended for commentary and community development. Feedback is very much welcomed.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/LopezNuance/Sol",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48908219",
+    "createdAt": "2026-07-14T15:56:33.625Z"
+  },
+  {
+    "slug": "replen-maps-your-repos-to-a-knowledge-graph-to-match-open-source-hn",
+    "title": "Replen – maps your repos to a knowledge graph to match open-source",
+    "shortDescription": "Hi all. I built Replen as a way to improve my AI dev workflows. In essence, it automates what was a manual process for me and turns it from…",
+    "fullDescription": "Hi all. I built Replen as a way to improve my AI dev workflows. In essence, it automates what was a manual process for me and turns it from a reactive stance to a proactive one. That being reading&#x2F; scrolling lists and creators that showcased cool and trending repos. If i saw something I liked i’d then manually checked with Claude or Codex to see if theres anything here worth taking because I had a hunch there might be. Replen now does this for me. And cuts out a number of back and fourths. It knows what every project of mine does, what its trying to do, how its built, what it depends on, and finds genuine matches from the open source frontier (all the new projects that are just not in the training data of any of these models). Replen then builds an ontology and knowledge graph across all your repos, to find the relationships and gaps and then runs a self tuning matching loop against the wider oss frontier. It goes looking for libraries, algos, techniques and ideas that you can get your agent to adopt, port, cherry pick or rebuild. Because of the embeddings and ontology, it understands your whole portfolio and can suggest better ways to do things. i.e. I personally do a lot of scraping and Claude always suggests the same way to do it, but &#x2F;davinchi&#x2F;scrapling just does it better and gets past CF, now with Replen, it knows this is the better option. By no means is it perfect and the learning loop needs users and their interactions to get better for everyone so with that in mind, id love feedback on a couple of things. 1. Do you find yourself doing what I do or is this just a me thing? (Validates whether this is useful to anyone but me) 2. Is the ‘quite by design’ about right? (I worked on my own exp of 1-3 suggestions that I actually act on per month being the right cadence, does that feel right? A couple of things to preempt comments. No code leaves your machine. No API keys needed. Feel free to fully self host. Engine is Apache 2.0. Npx Replen (MCP and Skill). Happy to answer any qs on capability graph, self-tuning loop or modality gate in comments. Thx\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/replenhq/replen",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48907717",
+    "createdAt": "2026-07-14T15:56:33.625Z"
+  },
+  {
+    "slug": "low-latency-local-llm-runner-via-openjdk-panama-ffm-java-22-hn",
+    "title": "Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)",
+    "shortDescription": "I wanted to run AI from inside the JVM. I started out with the standard REST sidecar, ripped that out to use Project Panama (Foreign Functi…",
+    "fullDescription": "I wanted to run AI from inside the JVM. I started out with the standard REST sidecar, ripped that out to use Project Panama (Foreign Function &amp; Memory API) in the new JDK versions to interface directly with llama.cpp. I still wasn&#x27;t happy with how that functioned, so I built libargus.cc to get a clean ABI to expose a structured API up in the JVM landscape. It still uses Project Panama to interface directly with llama.cpp, whisper.cpp, and ggml compute graphs. I have zero-allocation on the hot paths, memory segments for prompts and tokens are allocated once inside confined Arenas. Raw pointers pass straight through down to the low C level. This avoids primitive array cloning and heap churn. I mapped out the native structures from llama.cpp and whisper.cpp while matching the compiler&#x27;s padding to maintain safe memory access. I bundle pre-compiled native binaries in the jar for easy deployment. This execution engine provides the foundation I need for work I&#x27;m doing on a spatio-temporal memory layer (L-TABB) to replace RAGs. I&#x27;d love to get technical feedback to polish any issues while I continue working on the next layer. Deep-dives from anyone hacking on Project Panama or low-latency systems in modern JDK would be very appreciated! I&#x27;m much better with code than prose, so I&#x27;ll let the code do most of the talking. Happy Hacking! &#x2F;David Code: https:&#x2F;&#x2F;libargus.cc Project Landing Page: https:&#x2F;&#x2F;projectargus.cc\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/projectargus-cc/libargus.cc",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48907681",
+    "createdAt": "2026-07-14T15:56:33.625Z"
+  },
+  {
+    "slug": "oodleai-10-per-million-agent-traces-hn",
+    "title": "Oodle.ai – $10 per million agent traces",
+    "shortDescription": "Hi HN, we&#x27;re Kiran and Vijay! Over the past two years, we have built a columnar storage engine for observability: logs, metrics, and t…",
+    "fullDescription": "Hi HN, we&#x27;re Kiran and Vijay! Over the past two years, we have built a columnar storage engine for observability: logs, metrics, and traces. Today, it&#x27;s exciting for us to show what we&#x27;ve built on top of that foundation: LLM Agent Observability. Given how non-deterministic agents are, storing all traces without sampling was critical for us. But these traces tend to be in the MBs, sometimes GBs - we needed to store them inexpensively. We also needed the queries and analyses to be fast. To meet both these goals, we store them in S3 in our own parquet-like file format, and query them using AWS Lambda. Since we process each span of every trace, instead of running LLM-based evals on each, we first analyze them using deterministic techniques. We detect tool failures, retries, loops, abnormal token usage, latency regressions, schema violations, sentiment, and other production signals. We&#x27;ve written more about the approach here: https:&#x2F;&#x2F;blog.oodle.ai&#x2F;you-cant-sample-your-way-to-reliable-a... The combination of our own engine, no sampling, and deterministic processing before LLM-for-evals allows us to price at $10 per million traces, provide sub-second p99 query latency, and have healthy margins. Before building this, we used Langfuse for our own agent observability, which was 6x more expensive. Still super early, and rough around some edges, we would love your questions and feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 13 баллов.",
+    "url": "https://www.oodle.ai/product/agent-observability",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48907615",
+    "createdAt": "2026-07-14T15:56:33.625Z"
+  },
+  {
+    "slug": "hiver-chrome-devtools-for-agents-hn",
+    "title": "Hiver – Chrome DevTools for Agents",
+    "shortDescription": "Hey everyone, I’m Emmanuel and I built Hiver to help ship reliable AI agents. I’ve been building agents for a while now. I found that the h…",
+    "fullDescription": "Hey everyone, I’m Emmanuel and I built Hiver to help ship reliable AI agents. I’ve been building agents for a while now. I found that the hardest part isn’t deploying the first version, but iterating on the harness end-to-end (models, skills, memory, system prompts, subagents, tools, environment) to ensure tasks complete successfully and use the least tokens. To understand why an agent succeeded or failed, we need visibility into everything it did on a computer. For this reason, Hiver gives agents a computer, so all these interactions are captured with minimal overhead. Why? Agents want a computer, we just need to make it secure and inspectable. This is regardless of any SDK or harness. You can build your own harness with open source models all under your own trust boundary if needed. On the website, you will see a live replay of Claude code with LLM, tools, network, file and browser activity. I’m interested to learn more about what problems you faced in this space and what solutions you have identified.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://hiver.sh",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48907537",
+    "createdAt": "2026-07-14T15:56:33.625Z"
+  },
+  {
+    "slug": "cruxible-terraform-like-ontology-config-to-governed-state-for-agents-hn",
+    "title": "Cruxible – Terraform-like ontology config to governed state for agents",
+    "shortDescription": "General-purpose text memory works well to represent information that can be plainly stated, rarely changes, and only needs to be recalled,…",
+    "fullDescription": "General-purpose text memory works well to represent information that can be plainly stated, rarely changes, and only needs to be recalled, but it leaves several structural problems unresolved: 1) Generic memory does not establish settled state, it returns context. Text-based memory can preserve and present information, but a claim added to context is reinterpreted by a probabilistic LLM every time it runs. I found myself constantly asking my agents to re-check the validity of what was in my markdown wikis, especially for knowledge that has a natural lifecycle. Additionally, there&#x27;s no uniform way of establishing provenance or attribution for a claim in text - relying on git commit messages doesn&#x27;t feel like a good standard. 2) An LLM can&#x27;t do deterministic queries for relational information on its own, especially when relationships have to be constructed across a corpus. This really matters across sessions and for multi-agent workflows - even if one agent or session gets it right, if your organization&#x27;s truth is not plainly and deterministically traversable, it creates a tower of Babel situation where each agent or session is operating from its own internal representation. 3) An LLM can&#x27;t be trusted to enforce its own write-time boundary. A policy represented as text can only be interpreted by the model as context - better models have a better probability of following them, but an LLM by itself, no matter how good, can never guarantee that an invalid transition is refused, or that an author of a claim can&#x27;t approve it when you want an independent review. For truth that matters, there has to be stricter write-time enforcement. I built Cruxible to be that missing layer in agentic workflows. It&#x27;s a governed state engine that agents and humans operate using a CLI or MCP server, bound by an ontology that is configured in YAML. Every write or mutation is attributed and receipted with full provenance, and governed claims can require evidence-backed proposal and review flows that cannot be skipped. Write policies and guards are enforced by a deterministic chokepoint outside the model. - All state that can be built deterministically is built deterministically from your seeded data, which can be structured (CSVs) or unstructured (documents). When judgment is needed, Cruxible includes strict governance review queues with full attribution receipts for all changes or proposals. Only proposals that are approved get minted into state. - Every query is deterministic and executes outside the LLM. Agents can traverse the graph directly or use configured named queries for recurring reads. Queries return receipts in structured JSON that detail the paths used to produce their answers. - Enforcement runs in both directions: guards refuse invalid writes to state at the chokepoint, and gates hold outside actions (e.g. a merge or a deploy through CI) until state agrees. - The state model is executable: you can read the state programmatically and do whatever logic you want with it. Downstream reads of settled state never have to re-parse source artifacts, although provenance ensures full auditability. - Reads are reproducible: workflow plans, provider code, artifacts, and configuration are lock-pinned, and snapshots preserve exact state. Receipts always explain a write fully, so no more going through the git history of an md file. - The YAML ontology can evolve like code to ensure that state is always representative. Repo is here: https:&#x2F;&#x2F;github.com&#x2F;cruxible-ai&#x2F;cruxible or install with pip install cruxible It&#x27;s Apache-2.0, SQLite under the hood, and 100% local through a Python daemon. Full walkthroughs and guides for domains on the GitHub repo. I&#x27;d really value feedback of any kind, even if it&#x27;s just how you and&#x2F;or your team are maintaining consistency about what&#x27;s true for your agents to use. Contributions welcome!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/cruxible-ai/cruxible",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48907464",
+    "createdAt": "2026-07-14T15:56:33.626Z"
+  },
+  {
+    "slug": "i-had-models-play-slime-soccer-against-each-other-hn",
+    "title": "I had models play Slime Soccer against each other",
+    "shortDescription": "There were a few things that I wanted from this ai benchmark: * The models to compete directly with each other * To be able to _see_ how th…",
+    "fullDescription": "There were a few things that I wanted from this ai benchmark: * The models to compete directly with each other * To be able to _see_ how they were competing * Something more fun than a math test Slime Soccer (a web game from my childhood) was like a good option since the decision set is small for each move and it felt nostalgic. The most surprising thing is that the flagship models from each lab didn&#x27;t always do best. For example, GPT 5.6 Sol was almost the worst performing model from OpenAI.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://slimeballbench.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48907406",
+    "createdAt": "2026-07-14T15:56:33.626Z"
+  },
+  {
+    "slug": "liveshortly-stream-and-pair-prompt-with-ai-agents-hn",
+    "title": "Liveshortly - stream and pair prompt with ai agents",
+    "shortDescription": "We built a tool for livestream your agents session and it also allows collaborative pair prompting with team mates in single claude or code…",
+    "fullDescription": "We built a tool for livestream your agents session and it also allows collaborative pair prompting with team mates in single claude or codex sessions. Once done with sessions you can post sessions as blogs or trail of conversation so that people can learn and use that rich context in ai agents. Try now : https:&#x2F;&#x2F;liveshortly.com&#x2F;install\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://liveshortly.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48907302",
+    "createdAt": "2026-07-14T15:56:33.626Z"
+  },
+  {
+    "slug": "aireceipts-itemized-cost-receipts-for-ai-coding-agents-hn",
+    "title": "Aireceipts, itemized cost receipts for AI coding agents",
+    "shortDescription": "Hi HN. I built this at work for fun because I could not answer a basic question: what did that last agent session actually cost me? It does…",
+    "fullDescription": "Hi HN. I built this at work for fun because I could not answer a basic question: what did that last agent session actually cost me? It does three things: 1. A statusline under the agent&#x27;s input box while it works: which model is billing you, cost so far, dollars per hour, and how much of your rate-limit window is gone. Waste like a stuck Bash retry loop gets flagged on the line as it happens. 2. &quot;npx aireceipts-cli&quot; after a session prints an itemized receipt: every tool priced, plus a &quot;same tokens on a cheaper model&quot; line that is arithmetic on the same token counts, not a prediction. 3. &quot;npx aireceipts-cli pr --post&quot; attaches the cost of the sessions behind a PR as a comment. There is a real one live on the repo&#x27;s PR #189. How it works: it parses the local transcripts your agent already writes. Claude Code, Codex CLI, and Gemini CLI get full per-turn parsing (models, tools, cache tiers). OpenCode is per-message. Cursor is an honest degraded mode: its logs carry no per-turn usage, so you get session totals only. No account, and transcripts never leave your machine. Two design rules I cared about: - Every price is cited: vendor URL, date observed, and a quoted excerpt, checked in CI. A daily tripwire cross-checks the price table against an independent dataset and opens an issue when they disagree. - Receipts are deterministic: same transcript in, byte-identical receipt out, golden-tested on every commit, including the receipts shown in the README. One disclosure: there is anonymous telemetry, on by default. The reason it exists: agent log formats change underneath me all the time, and parse-failure signatures and error classes tell me which agent broke before anyone has to file an issue. It never sends code, prompts, paths, titles, or dollar amounts. &quot;aireceipts --telemetry-show&quot; prints exactly what a run would send, and AIRECEIPTS_TELEMETRY=off or DO_NOT_TRACK=1 turns it off. Apache-2.0, pre-1.0, so output can still change between minor versions. I am dedicating time to this every week, so feedback, bug reports, and requests for agents whose logs you want parsed are all welcome.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/anandgupta42/aireceipts",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48907272",
+    "createdAt": "2026-07-14T15:56:33.626Z"
+  },
+  {
     "slug": "pdf-chat-github",
     "title": "pdf-chat",
     "shortDescription": "A production-ready AI PDF chat application built with LangChain, FastAPI, FAISS, and the OpenAI Responses API, enabling intelligent documen…",
