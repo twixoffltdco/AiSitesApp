@@ -1,5 +1,100 @@
 [
   {
+    "slug": "nunspark-github",
+    "title": "Nunspark",
+    "shortDescription": "NunSpark - Run LLMs that don't fit in your Mac's RAM — at usable speeds.",
+    "fullDescription": "NunSpark - Run LLMs that don't fit in your Mac's RAM — at usable speeds.\n\nАвтор: sharma-open-source. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/sharma-open-source/Nunspark",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "llm",
+      "mlx",
+      "openai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1298942539",
+    "createdAt": "2026-07-15T09:30:26.957Z"
+  },
+  {
+    "slug": "opsail-github",
+    "title": "opsail",
+    "shortDescription": "⚡️ A fast, modular Rust CLI for agent actions—starting with turning web pages into clean, readable Markdown.",
+    "fullDescription": "⚡️ A fast, modular Rust CLI for agent actions—starting with turning web pages into clean, readable Markdown.\n\nАвтор: lencx. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/lencx/opsail",
+    "category": "developer",
+    "tags": [
+      "agent",
+      "ai",
+      "cli",
+      "json",
+      "markdown",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1301386747",
+    "createdAt": "2026-07-15T09:30:26.957Z"
+  },
+  {
+    "slug": "pulse-agent-github",
+    "title": "pulse-agent",
+    "shortDescription": "Pulse — Hermes-style self-improving AI agent. Reliability-first rebuild with evaluated skill self-evolution, multi-agent team orchestration…",
+    "fullDescription": "Pulse — Hermes-style self-improving AI agent. Reliability-first rebuild with evaluated skill self-evolution, multi-agent team orchestration, dialectic user modeling, and fully self-hosted default stack (Ollama + SQLite FTS5). Apache 2.0 license.\n\nАвтор: Alex663028. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Alex663028/pulse-agent",
+    "category": "developer",
+    "tags": [
+      "agent-framework",
+      "agentskills",
+      "ai",
+      "ai-agent",
+      "autonomous-agent",
+      "cli",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1299375940",
+    "createdAt": "2026-07-15T09:30:26.957Z"
+  },
+  {
+    "slug": "aiterm-a-macos-terminal-with-an-ai-command-loop-and-a-safety-gate-hn",
+    "title": "AITerm – a macOS terminal with an AI command loop and a safety gate",
+    "shortDescription": "Проект «AITerm – a macOS terminal with an AI command loop and a safety gate», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AITerm – a macOS terminal with an AI command loop and a safety gate», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ai-term.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48918251",
+    "createdAt": "2026-07-15T09:30:26.781Z"
+  },
+  {
+    "slug": "pixfinder-free-offline-aiocr-image-search-hn",
+    "title": "PixFinder – Free offline AI+OCR Image Search",
+    "shortDescription": "Hi, HN! I’ve made a free Windows tool that lets you search your local images by what&#x27;s in them, not the filename. It combines AI (SigL…",
+    "fullDescription": "Hi, HN! I’ve made a free Windows tool that lets you search your local images by what&#x27;s in them, not the filename. It combines AI (SigLip2) search with OCR. It was made from specific need – quick search my meme collection for reaction meme in a huge collection. But, of course, it could be used for more serious things like searching design assets, photos of invoices, business cards etc. Batteries (model) are included, so everything runs offline, no cloud, no account, no tracking. WinUI3 for native look and feel (and because I wanted to play around with it). Some limitations: works smooth on a middle-sized image collection (up to 20 000 – 30 000), but for real data hoarders with millions... not so (I think a would address this in a future versions). Used AI model has some English bias, so results for “cat” and “кошка” could be different. OCR is limited to languages that are installed in a system.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://pixfinder.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48917468",
+    "createdAt": "2026-07-15T09:30:26.782Z"
+  },
+  {
     "slug": "ai-project-workflow-github",
     "title": "AI-Project-Workflow",
     "shortDescription": "Universal AI-native project workflow for Cursor, Claude Code, Codex, TRAE, Qoder, CodeBuddy and other AI coding assistants.",
