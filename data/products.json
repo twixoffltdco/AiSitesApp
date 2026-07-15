@@ -1,5 +1,184 @@
 [
   {
+    "slug": "quantumbyte-github",
+    "title": "quantumbyte",
+    "shortDescription": "Open-source app builder engine — intent to working app",
+    "fullDescription": "Open-source app builder engine — intent to working app\n\nАвтор: QuantumByteOSS. Найдено в GitHub Trending (AI-тематика). ⭐ 213 звёзд.",
+    "url": "https://quantumbyte.ai",
+    "category": "no-code",
+    "tags": [
+      "agents",
+      "ai",
+      "app-builder",
+      "code-generation",
+      "llm",
+      "nextjs",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1300024503",
+    "createdAt": "2026-07-15T02:09:32.680Z"
+  },
+  {
+    "slug": "penecho-github",
+    "title": "penecho",
+    "shortDescription": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.",
+    "fullDescription": "Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.\n\nАвтор: erickong. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/erickong/penecho",
+    "category": "writing",
+    "tags": [
+      "ai",
+      "canvas",
+      "claude",
+      "codex",
+      "education",
+      "handwriting",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1300612704",
+    "createdAt": "2026-07-15T02:09:32.680Z"
+  },
+  {
+    "slug": "genesis-github",
+    "title": "Genesis",
+    "shortDescription": "Building a digital organism that learns, grows, and develops intelligence through lifelong experience.",
+    "fullDescription": "Building a digital organism that learns, grows, and develops intelligence through lifelong experience.\n\nАвтор: sciencebanda09. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/sciencebanda09/Genesis",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "artificial-life",
+      "cognitive-architecture",
+      "continual-learning",
+      "machine-learning",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1299798621",
+    "createdAt": "2026-07-15T02:09:32.681Z"
+  },
+  {
+    "slug": "humanizer-zh-next-github",
+    "title": "humanizer-zh-next",
+    "shortDescription": "去除中文文本中 AI 写作痕迹的 Agent Skill（基于 blader/humanizer 与 op7418/humanizer-zh）",
+    "fullDescription": "去除中文文本中 AI 写作痕迹的 Agent Skill（基于 blader/humanizer 与 op7418/humanizer-zh）\n\nАвтор: Hyacehila. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Hyacehila/humanizer-zh-next",
+    "category": "writing",
+    "tags": [
+      "agent-skill",
+      "ai",
+      "chinese",
+      "claude",
+      "humanizer",
+      "writing",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1299297301",
+    "createdAt": "2026-07-15T02:09:32.681Z"
+  },
+  {
+    "slug": "ai-navigator-github",
+    "title": "ai-navigator",
+    "shortDescription": "Native desktop hub for the world's AI models and Agent platforms. One click. Every AI.(The AI models and agents in this app haven't been up…",
+    "fullDescription": "Native desktop hub for the world's AI models and Agent platforms. One click. Every AI.(The AI models and agents in this app haven't been updated to the latest version. For the latest guidance, please check the official website.)\n\nАвтор: haotong-Duan. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/haotong-Duan/ai-navigator",
+    "category": "developer",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "artificial-intelligence",
+      "claude",
+      "desktop-app",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1299082917",
+    "createdAt": "2026-07-15T02:09:32.681Z"
+  },
+  {
+    "slug": "aklora-github",
+    "title": "aklora",
+    "shortDescription": "A focused, private-by-design AI workspace with provider-neutral streaming chat.",
+    "fullDescription": "A focused, private-by-design AI workspace with provider-neutral streaming chat.\n\nАвтор: MuratKomurcu1. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/MuratKomurcu1/aklora",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "chatbot",
+      "nextjs",
+      "open-source",
+      "typescript",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1298726831",
+    "createdAt": "2026-07-15T02:09:32.681Z"
+  },
+  {
+    "slug": "gomoku-ai-edu-a-native-macos-gomoku-game-with-ai-opponent-hn",
+    "title": "Gomoku AI Edu – A Native macOS Gomoku Game with AI Opponent",
+    "shortDescription": "Проект «Gomoku AI Edu – A Native macOS Gomoku Game with AI Opponent», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Gomoku AI Edu – A Native macOS Gomoku Game with AI Opponent», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://gomoku.w3cub.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48915369",
+    "createdAt": "2026-07-15T02:09:32.411Z"
+  },
+  {
+    "slug": "vehir-a-platform-built-for-ai-agents-compiler-microkernel-cas-hn",
+    "title": "Vehir – a platform built for AI agents: compiler, microkernel, CAS",
+    "shortDescription": "Проект «Vehir – a platform built for AI agents: compiler, microkernel, CAS», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Vehir – a platform built for AI agents: compiler, microkernel, CAS», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/grigoriitropin/vehir-platform",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48914954",
+    "createdAt": "2026-07-15T02:09:32.411Z"
+  },
+  {
+    "slug": "digital-de-centralized-internship-hn",
+    "title": "Digital De-Centralized Internship",
+    "shortDescription": "I run a boutique investment bank, and every year I would receive 1 - 3 internship requests, but this year I received 50. I started to reali…",
+    "fullDescription": "I run a boutique investment bank, and every year I would receive 1 - 3 internship requests, but this year I received 50. I started to realize that Ai was replacing interns faster than any other worker because it was mostly administrative work. Internships really gave me invaluable experience, so I wanted to create a de-centralized internship with the first year content focused on a de-centralized Ai protocol called Bittensor (TAO). There are 8 weekly assignments which are scored and reviewed by Claude, with a final capstone video presentation which is presented to a human panel of people in the Bittensor ecosystem. All interns who complete the program receive a &quot;proof of work&quot; experience, and a scorecard which they can share. If you know any interns looking to learn about Ai, research, markets and for &quot;work&quot; experience. Please send them here: lab.cedarridge.capital Open to any and all feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://lab.cedarridge.capital/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48914589",
+    "createdAt": "2026-07-15T02:09:32.411Z"
+  },
+  {
     "slug": "10-ai-careers-roadmap-github",
     "title": "10-ai-careers-roadmap",
     "shortDescription": "Free, structured learning library for 10 AI careers paying $135K-$1M+ in 2026. Companion to the @exploraX_ article.",
