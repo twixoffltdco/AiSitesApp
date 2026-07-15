@@ -1,5 +1,97 @@
 [
   {
+    "slug": "ai-project-workflow-github",
+    "title": "AI-Project-Workflow",
+    "shortDescription": "Universal AI-native project workflow for Cursor, Claude Code, Codex, TRAE, Qoder, CodeBuddy and other AI coding assistants.",
+    "fullDescription": "Universal AI-native project workflow for Cursor, Claude Code, Codex, TRAE, Qoder, CodeBuddy and other AI coding assistants.\n\nАвтор: AlanHuang168. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://www.npmjs.com/package/@dayahs/ai-project-workflow",
+    "category": "chatbot",
+    "tags": [
+      "a-gen-t",
+      "ai",
+      "claude",
+      "cli",
+      "codex",
+      "cursor",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1300030250",
+    "createdAt": "2026-07-15T07:28:35.447Z"
+  },
+  {
+    "slug": "flare-redact-github",
+    "title": "flare-redact",
+    "shortDescription": "Hide secrets & PII in logs, prompts, and text before they leak — with a reversible layer that keeps them out of your OpenAI/Anthropic calls…",
+    "fullDescription": "Hide secrets & PII in logs, prompts, and text before they leak — with a reversible layer that keeps them out of your OpenAI/Anthropic calls. Zero deps, ReDoS-safe.\n\nАвтор: umudhasanli. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://www.npmjs.com/package/flare-redact",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-privacy",
+      "anonymization",
+      "anthropic",
+      "data-masking",
+      "gdpr",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1300227306",
+    "createdAt": "2026-07-15T07:28:35.447Z"
+  },
+  {
+    "slug": "a-free-tool-that-turns-any-ai-topic-into-an-interactive-cited-lesson-hn",
+    "title": "A free tool that turns any AI topic into an interactive, cited lesson",
+    "shortDescription": "Проект «A free tool that turns any AI topic into an interactive, cited lesson», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A free tool that turns any AI topic into an interactive, cited lesson», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://prathibhax.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48917300",
+    "createdAt": "2026-07-15T07:28:35.260Z"
+  },
+  {
+    "slug": "lean64-doom64-style-fps-on-lean-4-hn",
+    "title": "Lean64 – doom64 style FPS on Lean 4",
+    "shortDescription": "I wanted to see how lean does outside of theorems. (currently studying ME, professor introduced us to lean4) Lean handles the game loop, ge…",
+    "fullDescription": "I wanted to see how lean does outside of theorems. (currently studying ME, professor introduced us to lean4) Lean handles the game loop, geometry, collision detection, enemy AI, weapons, particles, and HUD. The native side is a roughly 570-line C shim that handles Win32 input and audio, and submits Lean-generated triangles to OpenGL. The game currently has two maps, a shotgun, and a few secrets.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/aouxwoux/lean64",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48917239",
+    "createdAt": "2026-07-15T07:28:35.260Z"
+  },
+  {
+    "slug": "tormentnexus-open-source-ai-control-plane-with-26k-mcp-tools-hn",
+    "title": "TormentNexus – Open-source AI control plane with 26K+ MCP tools",
+    "shortDescription": "Проект «TormentNexus – Open-source AI control plane with 26K+ MCP tools», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «TormentNexus – Open-source AI control plane with 26K+ MCP tools», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/MDMAtk/TormentNexus",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48917144",
+    "createdAt": "2026-07-15T07:28:35.260Z"
+  },
+  {
     "slug": "photoshop-smart-layer-manager-github",
     "title": "photoshop-smart-layer-manager",
     "shortDescription": "Advanced layer organization and automation plugin for Adobe Photoshop CC 2024+. Intelligent grouping, bulk renaming, hierarchy detection, a…",
