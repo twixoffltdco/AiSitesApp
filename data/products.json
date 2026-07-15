@@ -1,5 +1,117 @@
 [
   {
+    "slug": "mailberry-an-ai-native-email-platform-with-the-email-brain-hn",
+    "title": "Mailberry – an AI-native email platform with The Email Brain",
+    "shortDescription": "Проект «Mailberry – an AI-native email platform with The Email Brain», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Mailberry – an AI-native email platform with The Email Brain», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://mailberry.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48923157",
+    "createdAt": "2026-07-15T16:19:19.263Z"
+  },
+  {
+    "slug": "ai-powered-sports-analytics-and-social-betting-platform-hn",
+    "title": "AI-powered sports analytics and social betting platform",
+    "shortDescription": "Проект «AI-powered sports analytics and social betting platform», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI-powered sports analytics and social betting platform», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://statsniper.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48923125",
+    "createdAt": "2026-07-15T16:19:19.263Z"
+  },
+  {
+    "slug": "otodock-run-claude-code-and-codex-as-a-team-of-agents-on-your-server-hn",
+    "title": "OtoDock, run Claude Code and Codex as a team of agents on your server",
+    "shortDescription": "Hi HN, i am Dimitris, I have been using Claude Code and Codex agents, for some time now from the beggining i had been using them from insid…",
+    "fullDescription": "Hi HN, i am Dimitris, I have been using Claude Code and Codex agents, for some time now from the beggining i had been using them from inside my terminal mainly for coding. For the past 3 years i kept building so i have a homelab and a business server, which already has a lot of vms, so a lot of things to manage. So i decided to start building my own ideal version of using claude code, and codex flexibly and connect them easily with all my vms and infra but at the same time keep using them for coding, and as a personal assistant for daily use. So for the past months I built OtoDock. Its a self hosted platform, that runs real CLaude code and Codex as the engine. On top of them i build a live dashboard with websockets and integrated in depth the clis, so its even nicer to work with the cli through the dashboard instead of working on the terminal. I even ended up integrating interactive terminals as well (due to the subscription change Anthropic was trying to do for harnesses) so you can also use interactive terminals directly from the dashboard remotely. OtoDock is a multitenant self hosted agents platform, is meant for businesses to create and manager agents, that can act autonomously on the background doing various jobs, or they can also be collaborative, they can work with users (team members) of the platform so many team members can use a collaborative agent meant for a specific job or department (ex. social media agent, dev agent, etc.) Each user of the platform can bring his own anthropic and openai subscriptions that is automatically used for his user sessions with the clis. (or local models through Ollama) I have also built an MCP framework, so that its easy to add cummunity mcps fast on the application, and i keep a community mcp repo where i will put all available mcps there. The dashboard as well has a lot of features, for example it has a fully functional chat for talking to the agents, that supports collabora previews for editing and viewing PDF, Word, Excel, Powerpoint files as the user works with the agents, a workspace per user with a proper file browser (like each user and agents google drive showing in the dashboard), per agent shared knowledge and workspace folders across users, a per user and per agent memory system, scheduled tasks with real intervals, webhook triggers that can initiate a scheduled task of an agent, meetings between agents (live meetings directly in the chat where the agents can collaborate), voice with TTS and STT for talking to the agents and many more... I am a security paranoid myself so i spent a lot of time making sure the agents run as securely as possible and can be safely desployed in a real business server. The agents run on a kernel sandbox with network isolation by default, and specific local up excemptions are added by the admin for specific mcps that need local network access. Access to the internet of course is always on. The license, it is Fair Source, not OSI open source. Self hosting is free up to 5 users, all the code is public so you can review everything. Trying it is one docker compose file, images are on GHCR, the setup wizard creates your admin locally, no signup or email anywhere. Its the first time I publish a proper application and I would love people to try it and read the code and use it in their setups, I have spent a lot of time on this and i would love all the feedback I can get. AI Disclaimer: Large parts of OtoDock are written using otodock itself, for the last 2 months the application was mature enought where i started using an agent of OtoDock daily for the development. If you use Claude Code Cli or Codex for development feel free to try it, you might find very useful and helpful in your workflow. (remote machines feature will be available in a week, where you will be able to make the agents of the platform run in your local machine). GitHub: https:&#x2F;&#x2F;github.com&#x2F;OtoDock&#x2F;oto-dock Website: https:&#x2F;&#x2F;otodock.io\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/OtoDock/oto-dock/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48923047",
+    "createdAt": "2026-07-15T16:19:19.263Z"
+  },
+  {
+    "slug": "mindlas-catch-your-coding-agent-drifting-before-the-bad-code-lands-hn",
+    "title": "Mindlas – catch your coding agent drifting before the bad code lands",
+    "shortDescription": "Проект «Mindlas – catch your coding agent drifting before the bad code lands», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Mindlas – catch your coding agent drifting before the bad code lands», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Evolutionairy-AI/MINDLAS",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48922944",
+    "createdAt": "2026-07-15T16:19:19.263Z"
+  },
+  {
+    "slug": "sign-in-with-your-chatgpt-account-for-free-ai-hn",
+    "title": "Sign in with your ChatGPT account for free AI",
+    "shortDescription": "Проект «Sign in with your ChatGPT account for free AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Sign in with your ChatGPT account for free AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://openai-oauth.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48922687",
+    "createdAt": "2026-07-15T16:19:19.263Z"
+  },
+  {
+    "slug": "sirixdb-10-beta-git-like-versioning-diffs-time-travel-queries-hn",
+    "title": "SirixDB 1.0 Beta – Git-Like Versioning, Diffs, Time-Travel Queries",
+    "shortDescription": "Hi HN! I&#x27;ve posted SirixDB here before, back in 2019 and again in 2023. The core idea behind SirixDB is, that history is a first-class…",
+    "fullDescription": "Hi HN! I&#x27;ve posted SirixDB here before, back in 2019 and again in 2023. The core idea behind SirixDB is, that history is a first-class citizen. Every commit stores a lightweight, queryable revision. You can query any point in time, even individual nodes (for instance JSON values), diff arbitrary revisions, and efficiently track how data evolved without replaying events. Unlike traditional event stores, historical states do not need to be reconstructed by replaying events nor do we have to think about projections. Revisions are directly queryable. A simple example: Jan 1: Record &quot;Price = $100, valid from Jan 1&quot;. Stored on Jan 1 (transaction time). Jan 20: Discover price was actually $95 on Jan 1. Commit correction. After correction, you can ask across both axes: - &quot;What did we THINK the price was on Jan 16?&quot; -&gt; $100 (Transaction time) - &quot;What WAS the price on Jan 1?&quot; -&gt; $95 (Valid time) I&#x27;ve worked on this in my spare time since 2013, following its academic precursor (Idefix&#x2F;Treetank) at the University of Konstanz. The architecture relies on an append-only physical log and a persistent copy-on-write page trie. A high level view of the architecture: Physical Log (append-only, sequential writes) ┌────────────────────────────────────────────────────────────────────────┐ │ [R1:Root] [R1:P1] [R1:P2] [R2:Root] [R2:P1&#x27;] [R3:Root] [R3:P2&#x27;] ... │ └────────────────────────────────────────────────────────────────────────┘ t=0 t=1 t=2 t=3 t=4 t=5 t=6 → time | Each revision is indexed, and unchanged pages are shared: | | [Rev 1] [Rev 2] [Rev 3] | │ │ │ | ▼ ▼ ▼ | [Root₁] [Root₂] [Root₃] | │ │ │ │ │ │ | │ └─────────┐ │ └────────┐ │ └─────────┐ | ▼ ▼ ▼ ▼ ▼ ▼ | ┌──────┐ ┌──────┐ ┌──────┐ ┌──────┐ | │ P1 │ │ P2 │ │ P1&#x27; │ │ P2&#x27; │ | └──────┘ └──────┘ └──────┘ └──────┘ | Rev 1 Rev 1+2 Rev 2+3 Rev 3 | (shared) (shared) Beneath the root pages sit node and secondary indexes, using a novel sliding-snapshot algorithm to balance read&#x2F;write performance. Everything is queryable using JSONiq via the Brackit compiler. Back in 2019, and even in 2023, SirixDB was very slow due to GC pressure. Unlike most other document stores, SirixDB stores fine-grained nodes, and I came to realize that an on-heap (JVM) representation made up of lots of small objects simply didn&#x27;t make sense. I measured it with async-profiler — with some help from Andrei Pangin himself — and the result was that the poor throughput was due to the sheer amount of allocations which scaled almost linearly with the number of open transactions. Working a full-time software engineering job, I lacked the energy for a massive spare-time rewrite. About a year ago, I started experimenting with AI. It turned out to be ideal for automating the tedious, repetitive parts of migrating the storage layer to Java&#x27;s Foreign Function &amp; Memory API, storing pages completely off-heap. Looking further ahead, the append-only, immutable-page design maps naturally onto object storage like S3 and distributed logs like Kafka for a cloud version, and initial prototypes already exist. Maybe that becomes a commercial service one day, but for now, I&#x27;m just thrilled to see these core design principles finally proven out.There&#x27;s an interactive demo, documentation, and the code is on GitHub. I&#x27;d love feedback and am happy to answer questions! kind regards Johannes [1] https:&#x2F;&#x2F;sirix.io | https:&#x2F;&#x2F;github.com&#x2F;sirixdb&#x2F;sirix [2] https:&#x2F;&#x2F;sirix.io&#x2F;docs&#x2F;architecture.html [3] https:&#x2F;&#x2F;demo.sirix.io [4] https:&#x2F;&#x2F;sirix.io&#x2F;docs&#x2F; [5] http:&#x2F;&#x2F;brackit.io\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/sirixdb/sirix",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48922631",
+    "createdAt": "2026-07-15T16:19:19.264Z"
+  },
+  {
+    "slug": "generalized-ai-agent-skills-with-community-proof-hn",
+    "title": "Generalized – AI agent skills with community proof",
+    "shortDescription": "I think we need to have something like npm, but for AI skills - with trackers &amp; such; with proof and validation before installing &#x2F…",
+    "fullDescription": "I think we need to have something like npm, but for AI skills - with trackers &amp; such; with proof and validation before installing &#x2F; using a skill. Generalized&#x27;s idea is this. :) I&#x27;d love for you to publish your skills.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://generalized.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48922498",
+    "createdAt": "2026-07-15T16:19:19.264Z"
+  },
+  {
     "slug": "skills-github",
     "title": "skills",
     "shortDescription": "29 free, verified agents, skills & packs for Claude Code - install with 'npx vanara install <name>'. Apache-2.0. From the Vanara catalog (2…",
