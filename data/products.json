@@ -1,5 +1,177 @@
 [
   {
+    "slug": "photoshop-smart-layer-manager-github",
+    "title": "photoshop-smart-layer-manager",
+    "shortDescription": "Advanced layer organization and automation plugin for Adobe Photoshop CC 2024+. Intelligent grouping, bulk renaming, hierarchy detection, a…",
+    "fullDescription": "Advanced layer organization and automation plugin for Adobe Photoshop CC 2024+. Intelligent grouping, bulk renaming, hierarchy detection, and smart layer management powered by adaptive algorithms. Works with design systems, production pipelines, and complex document structures. Native UXP extension.\n\nАвтор: mudsoldiermove. Найдено в GitHub Trending (AI-тематика). ⭐ 103 звёзд.",
+    "url": "https://github.com/mudsoldiermove/photoshop-smart-layer-manager",
+    "category": "design",
+    "tags": [
+      "abobe",
+      "ai",
+      "layer",
+      "layer-manager",
+      "photoshop",
+      "uxp-plugin",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1301066600",
+    "createdAt": "2026-07-15T05:14:12.668Z"
+  },
+  {
+    "slug": "ae-expression-library-github",
+    "title": "ae-expression-library",
+    "shortDescription": "Production-ready expression toolkit for Adobe After Effects 2024+. Advanced property linking, dynamic text animation, sophisticated camera…",
+    "fullDescription": "Production-ready expression toolkit for Adobe After Effects 2024+. Advanced property linking, dynamic text animation, sophisticated camera control, adaptive layer management, and automated timing solutions. Real-time preview with interactive UI panel. Built for motion designers, VFX artists, and broadcast production teams.\n\nАвтор: magmaduckplain. Найдено в GitHub Trending (AI-тематика). ⭐ 103 звёзд.",
+    "url": "https://github.com/magmaduckplain/ae-expression-library",
+    "category": "developer",
+    "tags": [
+      "abobe",
+      "abobe-after-effects",
+      "ae",
+      "aeshare",
+      "after-effects",
+      "after-effects-2026",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1301072760",
+    "createdAt": "2026-07-15T05:14:12.668Z"
+  },
+  {
+    "slug": "photoshop-batch-export-optimizer-github",
+    "title": "photoshop-batch-export-optimizer",
+    "shortDescription": "Intelligent batch export plugin for Photoshop CC 2024+ with adaptive compression,  format optimization, and automated asset organization. E…",
+    "fullDescription": "Intelligent batch export plugin for Photoshop CC 2024+ with adaptive compression,  format optimization, and automated asset organization. Export hundreds of layers  with consistent quality and minimal file sizes. Includes web, mobile, ecommerce,  and print profiles. Built for production teams and design studios.\n\nАвтор: mixedstormplay. Найдено в GitHub Trending (AI-тематика). ⭐ 103 звёзд.",
+    "url": "https://github.com/mixedstormplay/photoshop-batch-export-optimizer",
+    "category": "ai-tool",
+    "tags": [
+      "abobe",
+      "ai",
+      "batch",
+      "batch-export",
+      "batch-export-optimizer",
+      "effects",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1301051195",
+    "createdAt": "2026-07-15T05:14:12.668Z"
+  },
+  {
+    "slug": "ae-animation-expressions-github",
+    "title": "ae-animation-expressions",
+    "shortDescription": "Professional expression-based animation framework for After Effects 2024+.  Automates text sequencing, layer synchronization, and motion ke…",
+    "fullDescription": "Professional expression-based animation framework for After Effects 2024+.  Automates text sequencing, layer synchronization, and motion keyframe generation  with intelligent timing algorithms and adaptive animation presets. Built for motion  designers, video producers, and animation studios.\n\nАвтор: EnamelSpirit. Найдено в GitHub Trending (AI-тематика). ⭐ 103 звёзд.",
+    "url": "https://github.com/EnamelSpirit/ae-animation-expressions",
+    "category": "developer",
+    "tags": [
+      "abobe",
+      "abobe-after-effects",
+      "ae",
+      "aeshare",
+      "after-effects",
+      "after-effects-2026",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1301077562",
+    "createdAt": "2026-07-15T05:14:12.668Z"
+  },
+  {
+    "slug": "claude-skills-collection-github",
+    "title": "Claude-Skills-collection",
+    "shortDescription": "A curated library of 137 production-grade skills for Claude and other AI coding agents.",
+    "fullDescription": "A curated library of 137 production-grade skills for Claude and other AI coding agents.\n\nАвтор: nimadorostkar. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/nimadorostkar/Claude-Skills-collection",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "claude",
+      "claude-skills",
+      "skills",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1300293955",
+    "createdAt": "2026-07-15T05:14:12.668Z"
+  },
+  {
+    "slug": "sogni-unlimited-flat-rate-unlimited-imagevideo-on-decentralized-gpus-hn",
+    "title": "Sogni Unlimited – flat-rate unlimited image/video on decentralized GPUs",
+    "shortDescription": "Проект «Sogni Unlimited – flat-rate unlimited image/video on decentralized GPUs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Sogni Unlimited – flat-rate unlimited image/video on decentralized GPUs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.sogni.ai/unlimited",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48916461",
+    "createdAt": "2026-07-15T05:14:12.918Z"
+  },
+  {
+    "slug": "timeline-studio-open-source-ai-video-editing-hn",
+    "title": "Timeline Studio – Open-source AI video editing",
+    "shortDescription": "Проект «Timeline Studio – Open-source AI video editing», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Timeline Studio – Open-source AI video editing», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://video-editor.ai-creator.top/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48915771",
+    "createdAt": "2026-07-15T05:14:12.918Z"
+  },
+  {
+    "slug": "pullcard-pull-your-ai-coding-style-as-a-holographic-trading-card-hn",
+    "title": "PullCard – Pull your AI coding style as a holographic trading card",
+    "shortDescription": "Проект «PullCard – Pull your AI coding style as a holographic trading card», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «PullCard – Pull your AI coding style as a holographic trading card», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://pullcard.sakimyto.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48915464",
+    "createdAt": "2026-07-15T05:14:12.918Z"
+  },
+  {
+    "slug": "i-built-an-ai-agent-memory-engine-because-obsidian-wasnt-cutting-it-hn",
+    "title": "I built an AI agent memory engine because Obsidian wasn't cutting it",
+    "shortDescription": "Проект «I built an AI agent memory engine because Obsidian wasn't cutting it», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built an AI agent memory engine because Obsidian wasn't cutting it», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://perseus.observer/blog/built-perseus-vault-obsidian-wasnt-cutting-it/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48915435",
+    "createdAt": "2026-07-15T05:14:12.918Z"
+  },
+  {
     "slug": "quantumbyte-github",
     "title": "quantumbyte",
     "shortDescription": "Open-source app builder engine — intent to working app",
