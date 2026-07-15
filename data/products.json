@@ -1,5 +1,53 @@
 [
   {
+    "slug": "vendo-yc-s26-let-your-users-add-their-own-features-to-your-product-hn",
+    "title": "Vendo (YC S26) – Let your users add their own features to your product",
+    "shortDescription": "Hey HN, my name is Yousef and I am one of the co-founders of Vendo (YC S26). We let your users create their own personal micro-apps and fea…",
+    "fullDescription": "Hey HN, my name is Yousef and I am one of the co-founders of Vendo (YC S26). We let your users create their own personal micro-apps and features right on top of your product. Me and my co-founder have been thinking a lot lately about how agents are going to change the way that dashboards and UIs are consumed by users. And one of the big things we often come back to is personalization. Everyone has their own workflows, outcomes, and views they want from a product. Instead of devs having to wade through hundreds of feature requests, we think agents will let every user use a product exactly how they want to. We started working on this problem initially through an open-source software angle: we would let users easily deploy open-source software so they could customize it directly. What we found, though, was that customization alone wasn&#x27;t enough to convince users to switch to us, and people just wanted to customize what they already use. So we pivoted to what Vendo currently is. We now give businesses the ability to let their users personalize the product directly. Users can generate their own custom micro-apps, customize existing components, create automations, connect to external tools, and more! And the goal is not just to generate UIs, but full-on micro-apps and features that can do real stuff for users. Everything your users create is built within your existing brand&#x2F;theming, security guardrails, and API. All the code your users create is run in secure sandboxes, so the application&#x27;s source code is not touched at all. We have some demo GIFs here if you would like to see how it works: https:&#x2F;&#x2F;github.com&#x2F;runvendo&#x2F;vendo We are open-source (as seen from above) and we can integrate with existing agents (or set up a production-ready one with everything needed) all with one command! That one command lets Vendo learn your brand, components, and API. We currently support Vercel AI SDK but are adding support for other agent frameworks soon. Please check out the repo, and am happy to discuss how everything works under the hood! Two of the hardest problems we&#x27;ve been working on are (1) generating high-quality and on-brand UIs fast and (2) securing everything while still giving users a lot of power, and would love to share more technical details.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/runvendo/vendo",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48926618",
+    "createdAt": "2026-07-15T20:32:09.942Z"
+  },
+  {
+    "slug": "gatecat-block-an-ai-coding-agents-rm-rf-before-it-runs-hn",
+    "title": "Gate.cat – block an AI coding agent's rm -RF before it runs",
+    "shortDescription": "Проект «Gate.cat – block an AI coding agent's rm -RF before it runs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Gate.cat – block an AI coding agent's rm -RF before it runs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://gate.cat/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48926461",
+    "createdAt": "2026-07-15T20:32:09.942Z"
+  },
+  {
+    "slug": "openclaw-for-your-health-hn",
+    "title": "OpenClaw for Your Health",
+    "shortDescription": "Hey HN! I built https:&#x2F;&#x2F;withmurph.ai , an open-source personal health assistant to help you build healthy habits that actually st…",
+    "fullDescription": "Hey HN! I built https:&#x2F;&#x2F;withmurph.ai , an open-source personal health assistant to help you build healthy habits that actually stick. Everyone has something they want to improve, but it&#x27;s way too hard to change your behavior. I&#x27;ve been using Murph myself for weeks, I&#x27;ve started a few sleep improvement experiments with Murph that&#x27;ve improved my deep sleep already, and run some challenges over group-text with friends. Murph has three key features 1) Talk to Murph on iMessage, Telegram, and Email and connect labs&#x2F;wearable data 2) Run health experiments with proactive check-ins and discover what protocols improve your health. 3) Run health challenges with friends inside group-texts Some other things our users are doing: - help manage chronic pain and track what causes symptom flareup over iMessage - watch calories and protein intake every day by sending voice memos&#x2F;photos of meals - find workout insights in mountains of lab and wearable data - build a physical therapy habit to improve lower back pain - improve RHR with targeted sprint routines I hope that Murph can make building a healthy lifestyle more easy and fun for some of you :) Happy to chat about the AI or stack behind the product (uses codex cli under the hood). Let me know if you have any questions&#x2F;comments&#x2F;feature requests!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.withmurph.ai",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48926336",
+    "createdAt": "2026-07-15T20:32:09.942Z"
+  },
+  {
     "slug": "limits-an-on-device-ios-app-for-tracking-ai-usage-limits-hn",
     "title": "Limits, an on-device iOS app for tracking AI usage limits",
     "shortDescription": "I built Limits because I wanted an easier way to keep track of when my limits would reset. Like say you&#x27;re outside and just wanna know…",
