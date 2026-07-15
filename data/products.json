@@ -1,5 +1,139 @@
 [
   {
+    "slug": "yuwen-publish-precheck-github",
+    "title": "yuwen-publish-precheck",
+    "shortDescription": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
+    "fullDescription": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。\n\nАвтор: yuwen-cool. Найдено в GitHub Trending (AI-тематика). ⭐ 35 звёзд.",
+    "url": "https://github.com/yuwen-cool/yuwen-publish-precheck",
+    "category": "ai-tool",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "chinese",
+      "claude",
+      "content-compliance",
+      "cursor",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1301672719",
+    "createdAt": "2026-07-15T17:46:38.318Z"
+  },
+  {
+    "slug": "stemning-ai-hn",
+    "title": "Stemning AI",
+    "shortDescription": "See yourself reimagined in every era — from 1950s glamour to Y2K pop culture, with authentic fashion, hairstyles, and photo aesthetics. Fre…",
+    "fullDescription": "See yourself reimagined in every era — from 1950s glamour to Y2K pop culture, with authentic fashion, hairstyles, and photo aesthetics. Free with your own API keys\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://stemning.ai/packs/historical-portraits",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48924432",
+    "createdAt": "2026-07-15T17:46:38.135Z"
+  },
+  {
+    "slug": "stillwind-pcb-part-selection-as-constraint-solving-hn",
+    "title": "Stillwind – PCB part selection as constraint solving",
+    "shortDescription": "Hi HN, We run an electronic parts search engine, and Stillwind Builder is our attempt to automate the selection step itself: it turns a pro…",
+    "fullDescription": "Hi HN, We run an electronic parts search engine, and Stillwind Builder is our attempt to automate the selection step itself: it turns a project description into a PCB bill of materials. At its core, it frames part selection as a constraint satisfaction problem, since your picks depend on each other — a motor driver can&#x27;t draw more current than the power source is rated for, and every part&#x27;s supply pin has to be within the voltage range of the rail feeding it. Once the constraints are set up, we evaluate combinations of parts from our database against them. If no combination works, the system adjusts the constraints and tries again. At the end it spits out a BOM. You can try it directly at the link — the purple examples run with one click, or you can describe any project you like. We wrote up how it works in more detail here: https:&#x2F;&#x2F;stillwind.ai&#x2F;blog&#x2F;stillwind-system-builder We&#x27;ll be in the comments for the next few hours and happy to answer questions. If you&#x27;d want to use this on real projects, we&#x27;re open to design partnerships: contact[@]stillwind.ai\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://stillwind.ai",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48923872",
+    "createdAt": "2026-07-15T17:46:38.135Z"
+  },
+  {
+    "slug": "painterly-turn-pictures-into-digital-paintings-without-generative-ai-hn",
+    "title": "Painterly – Turn pictures into digital paintings without generative AI",
+    "shortDescription": "Painterly is an application that &quot;paints&quot; input images stroke by stroke to produce digital paintings. GenAI is not used in any pa…",
+    "fullDescription": "Painterly is an application that &quot;paints&quot; input images stroke by stroke to produce digital paintings. GenAI is not used in any part of the production pipeline. There is a free demo available under Releases on the GitHub repo. Let me know what you think!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/jbunke/painterly",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48923842",
+    "createdAt": "2026-07-15T17:46:38.135Z"
+  },
+  {
+    "slug": "hedy-runs-its-real-time-meeting-ai-on-device-macwindowsios-hn",
+    "title": "Hedy runs its real-time meeting AI on-device (Mac/Windows/iOS)",
+    "shortDescription": "Проект «Hedy runs its real-time meeting AI on-device (Mac/Windows/iOS)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Hedy runs its real-time meeting AI on-device (Mac/Windows/iOS)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.hedy.ai/post/local-ai-meetings-hedy-3-2/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48923505",
+    "createdAt": "2026-07-15T17:46:38.135Z"
+  },
+  {
+    "slug": "lineation-one-security-control-plane-for-all-agents-hn",
+    "title": "Lineation – One security control plane for all agents",
+    "shortDescription": "TLDR: Distributed policy enforcement and a &quot;black box&quot; for AI agents",
+    "fullDescription": "TLDR: Distributed policy enforcement and a &quot;black box&quot; for AI agents\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://lineation.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48923275",
+    "createdAt": "2026-07-15T17:46:38.135Z"
+  },
+  {
+    "slug": "ty-extended-a-ty-fork-with-plugin-support-hn",
+    "title": "Ty-extended – a Ty fork with plugin support",
+    "shortDescription": "Hi HN! I&#x27;m a Ty frequent user on all my Python projects, however, lately I&#x27;ve been needing to go back to mypy due to the lack of…",
+    "fullDescription": "Hi HN! I&#x27;m a Ty frequent user on all my Python projects, however, lately I&#x27;ve been needing to go back to mypy due to the lack of plugin support on Ty. After a quick research I found that issue 291 (where support for mypy plugins) was &quot;close as not planned&quot;. So I created this fork that has a complete plugin system that compiles plugins on WASM and runs them with Wasmtime. The main idea is to allow plugin authors to use the crate `ty_plugin_protocol` to easily compose plugins, by implementing a protocol that communicates with ty with versioned JSON requests and declarative patches. I also crated the first plugin for this system: Django-ty, which aims to have 100% coverage of the features that the popular Django-stubs offers. Feedback is welcome!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/regularkevvv/ty-extended",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48923244",
+    "createdAt": "2026-07-15T17:46:38.135Z"
+  },
+  {
+    "slug": "greenflash-we-read-every-conversation-your-ai-agent-has-with-users-hn",
+    "title": "Greenflash – we read every conversation your AI agent has with users",
+    "shortDescription": "Проект «Greenflash – we read every conversation your AI agent has with users», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Greenflash – we read every conversation your AI agent has with users», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://www.greenflash.ai/sign-up",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48923215",
+    "createdAt": "2026-07-15T17:46:38.135Z"
+  },
+  {
     "slug": "mailberry-an-ai-native-email-platform-with-the-email-brain-hn",
     "title": "Mailberry – an AI-native email platform with The Email Brain",
     "shortDescription": "Проект «Mailberry – an AI-native email platform with The Email Brain», опубликован сообществом Hacker News.",
