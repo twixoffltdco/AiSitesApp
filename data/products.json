@@ -1,5 +1,53 @@
 [
   {
+    "slug": "update-on-my-media-editor-in-browser-no-back-end-hn",
+    "title": "Update on my media editor in browser no back end",
+    "shortDescription": "hi HN, 5 months ago i posted ( https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46959456 ) an early stage of a video editor in the brows…",
+    "fullDescription": "hi HN, 5 months ago i posted ( https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46959456 ) an early stage of a video editor in the browser, not relying on a cloud backend. I wanted a solution for myself to not only edit videos, but bring my full adobe, ableton, blender workflows inside one browser application. Important for me is that almost everything is running in realtime, leveraging the GPU of the users system efficiently. Although i have to say that every change is hard when you used to work a certain way for 16 years, there are more and more situations where i am able to create what i want wit this solution, faster than in the old ways. so i didn&#x27;t stop building on it, vibing you say, but i prefer the term &quot;kindergarten teacher for highly gifted toddlers&quot; since feb i implemented much more stuff, and a few things make me really happy and confuse me at the same time. 3d capabilities with cameras and lights. Fbx, objs, even splat sequences on the timeline with a, for me, usable preview system. i started with three js as base, but quickly realised that a custom approach is much more versatile. i also reused the whole UI to add a full blown audio editor with many effects and even midi piano roll. so to switch to a sounddesign workflow or even creating musik is just one click away. there is also a complete node-based layer which presents an ai agent of choice all meta data of the media, so the agent can build a fast programmatic solution for the user needs directly inside the app. like an effect with keyframes, but created on the fly. i also implemented a complete workflow for handling AI generated content like videos, images, speech, and musik. i just dont want to leave this one solution anymore in order to create my videos, no matter if Ai gen is part of it or not. you can also import adobe premiere projects, but this is not that well tested, worked one time on one project. features get added quicker than i can make them stable, but i spent well over 1000 hours doing this, and its the best time of my life. Everything is free open source MIT (except the ai generation stuff obviously) Iam developing on win 11 (needed adobe). chrome is my main target, but firefox and safarie on mac are less tested (firefox needs native helper for file system acces). Linux is more tested https:&#x2F;&#x2F;www.masterselects.com https:&#x2F;&#x2F;github.com&#x2F;Sportinger&#x2F;MasterSelects\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.masterselects.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48919147",
+    "createdAt": "2026-07-15T11:27:09.549Z"
+  },
+  {
+    "slug": "promptman-a-native-macos-app-for-saving-and-reusing-ai-prompts-hn",
+    "title": "PromptMan: A native macOS app for saving and reusing AI prompts",
+    "shortDescription": "Проект «PromptMan: A native macOS app for saving and reusing AI prompts», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «PromptMan: A native macOS app for saving and reusing AI prompts», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://promptman.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48918897",
+    "createdAt": "2026-07-15T11:27:09.549Z"
+  },
+  {
+    "slug": "ai-cli-tiny-c-terminal-assistant-powered-by-local-llm-hn",
+    "title": "AI-CLI – tiny C terminal assistant powered by local LLM",
+    "shortDescription": "Проект «AI-CLI – tiny C terminal assistant powered by local LLM», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI-CLI – tiny C terminal assistant powered by local LLM», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/vkataev/ai-cli",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48918840",
+    "createdAt": "2026-07-15T11:27:09.549Z"
+  },
+  {
     "slug": "nunspark-github",
     "title": "Nunspark",
     "shortDescription": "NunSpark - Run LLMs that don't fit in your Mac's RAM — at usable speeds.",
