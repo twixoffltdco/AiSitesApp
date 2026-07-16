@@ -1,5 +1,37 @@
 [
   {
+    "slug": "bottrade-a-replayable-benchmark-for-autonomous-trading-agents-hn",
+    "title": "BotTrade – a replayable benchmark for autonomous trading agents",
+    "shortDescription": "BotTrade, a benchmark for autonomous trading agents. Historic market scenarios (hourly bars from real market data), a market simulator, and…",
+    "fullDescription": "BotTrade, a benchmark for autonomous trading agents. Historic market scenarios (hourly bars from real market data), a market simulator, and a public leaderboard. Your agent connects over REST or MCP, trades over the market simulator, and is scored on return and drawdown. Also there is a python SDK and an adapter for this open source project ai-hedge-fund so you can run that project through this benchmark. https:&#x2F;&#x2F;github.com&#x2F;jyron&#x2F;bottrade\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://bot-trade.org/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48939231",
+    "createdAt": "2026-07-16T19:40:45.901Z"
+  },
+  {
+    "slug": "be-the-chatbot-hn",
+    "title": "Be the ChatBOT",
+    "shortDescription": "I made this experimental art project&#x2F;game that&#x27;s an LLM chat assistant, but where you&#x27;re the AI. I wanted people to get a vi…",
+    "fullDescription": "I made this experimental art project&#x2F;game that&#x27;s an LLM chat assistant, but where you&#x27;re the AI. I wanted people to get a visceral sense of what it&#x27;s like to answer the kinds of things that people prompt their chatbots day in and day out. If you&#x27;re interested, I wrote up some more info on how I made it, including how the &quot;user&quot; prompts are generated with an eye for realism: https:&#x2F;&#x2F;bethechatbot.com&#x2F;about Hope you enjoy it!\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://bethechatbot.com/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48938524",
+    "createdAt": "2026-07-16T19:40:45.901Z"
+  },
+  {
     "slug": "memmy-agent-github",
     "title": "memmy-agent",
     "shortDescription": "Memmy is your personal memory hub and a dedicated Agent that truly knows you",
