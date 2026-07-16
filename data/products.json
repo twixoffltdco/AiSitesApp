@@ -1,5 +1,129 @@
 [
   {
+    "slug": "openmicro-github",
+    "title": "OpenMicro",
+    "shortDescription": "Codex Micro functionality using any Gaming Controller on any Coding Harness!",
+    "fullDescription": "Codex Micro functionality using any Gaming Controller on any Coding Harness!\n\nАвтор: stephenleo. Найдено в GitHub Trending (AI-тематика). ⭐ 9 звёзд.",
+    "url": "https://github.com/stephenleo/OpenMicro",
+    "category": "developer",
+    "tags": [
+      "agenticai",
+      "ai",
+      "claude",
+      "claude-code",
+      "codex",
+      "codex-cli",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1302262750",
+    "createdAt": "2026-07-16T11:16:26.667Z"
+  },
+  {
+    "slug": "bbarit-agent-oss-github",
+    "title": "bbarit-agent-oss",
+    "shortDescription": "A fast, open-source AI coding agent for the terminal — Rust, many LLM providers, one binary. Originally built into BBARIT Terminal; agent c…",
+    "fullDescription": "A fast, open-source AI coding agent for the terminal — Rust, many LLM providers, one binary. Originally built into BBARIT Terminal; agent core based on Pi (MIT), auto-memory design from qwen-code (Apache-2.0).\n\nАвтор: bbarit. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://github.com/bbarit/bbarit-agent-oss",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "claude",
+      "cli",
+      "coding-agent",
+      "developer-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1302289233",
+    "createdAt": "2026-07-16T11:16:26.667Z"
+  },
+  {
+    "slug": "cybara-an-open-source-ai-agent-platform-built-with-bun-hn",
+    "title": "Cybara – An open-source AI agent platform built with Bun",
+    "shortDescription": "Cybara is a fully open-source, MIT-licensed AI agent platform built from the ground up with TypeScript and Bun. It combines agents, tools,…",
+    "fullDescription": "Cybara is a fully open-source, MIT-licensed AI agent platform built from the ground up with TypeScript and Bun. It combines agents, tools, plugins, skills, MCP, ACP, LSP, browser and desktop automation, model routing, provider plan tracking, messaging integrations, memory, multi-agent workflows, and web, terminal, desktop, and mobile interfaces for all OS platforms. It also includes built-in migration tools for importing agents, skills, memory, and configurations from OpenClaw and Hermes. I built Cybara because I wanted one self-hosted stack where you control the agents, tools, models, runtime, and data. Website: https:&#x2F;&#x2F;cybara.ai GitHub: https:&#x2F;&#x2F;github.com&#x2F;metaspartan&#x2F;cybara Feedback, criticism, and contributions are welcome. I will need 12+ people that are interested in testing the Android app to get it onto the Play Store, feel free to DM me on X. The Apple iOS app is under review by Apple (as of this post).\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/metaspartan/cybara",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48932892",
+    "createdAt": "2026-07-16T11:16:26.540Z"
+  },
+  {
+    "slug": "my-triathlon-coach-not-a-human-now-texts-me-on-imessage-hn",
+    "title": "My triathlon coach (not a human) now texts me on iMessage",
+    "shortDescription": "When I started triathlon in 2018, my “training plan” was writing down what I did in Apple Notes and watching YouTube for advice. Later, tra…",
+    "fullDescription": "When I started triathlon in 2018, my “training plan” was writing down what I did in Apple Notes and watching YouTube for advice. Later, training for my first full-distance IRONMAN, I paid a coach 130eur&#x2F;month with the goal to learn early so I could self-coach later. When I switched to a static plan (bought a 40-week one I’d reuse), I started spending 20-30min every Sunday reshuffling sessions around work, travel and private commitments. In early 2025, training for the 70.3 IRONMAN World Championship, I figured AI would finally fix my biggest pain point: automatically adapting my zones and plan from my activity data. But nothing out there did, and I was reluctant to build it myself (I was determined to build in B2B). A year later, once LLMs had improved a lot, I handed my Sunday planning to Claude, and it worked far better than I expected. Friends wanted to try, so I started shipping it to them. Hundreds of commits later, I believe the thing that matters most is the data layer. Most “AI coaches” smell like AI slop from a mile away (more often than not, just a ChatGPT wrapper designed in lovable). Not saying our landing page isn’t detectable as Claude-generated, but the core has always been proper integration of wearable and app data (Garmin, Whoop, Hevy, Zwift…) - our core product is essentially an MCP server. Also, we don’t think the future is apps built for millions (n=∞), but custom (n=1) or conversational products. So we now solve for both: direct MCP access so you can build your own dashboards in your preferred tools, and a coach on iMessage that proactively writes and adapts your plan from your activity and recovery data (it reads 20+ wearables and apps) plus your preferences. Founder tip: connect your calendar, so it picks up travel&#x2F;commitments automatically. As a bootstrapped consumer startup, our biggest challenge is pricing (we charge yearly&#x2F;monthly subscription): consumsers still expect a flat subscription, but our marginal cost is per-message inference. Curious to hear how others handle variable costs in an environment where old (subscription) habits prevail. And what your thoughts are on the future of apps!!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.athletedata.health",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48932703",
+    "createdAt": "2026-07-16T11:16:26.540Z"
+  },
+  {
+    "slug": "skillful-stop-maintaining-the-same-ai-workflow-in-five-places-hn",
+    "title": "Skillful, stop maintaining the same AI workflow in five places",
+    "shortDescription": "Hey all, Over the past year I noticed I was maintaining the same AI workflows in multiple AI tools such as Claude code and Codex. Whenever…",
+    "fullDescription": "Hey all, Over the past year I noticed I was maintaining the same AI workflows in multiple AI tools such as Claude code and Codex. Whenever I improved one workflow, I had to remember everywhere else I&#x27;d copied it and most of the time I didn&#x27;t... so I quickly went the &quot;dotfiles&quot; route where I symlinked everything together. Then I thought, this works for me since I&#x27;m used to my CLI but others might not have such a good time. Had a few talks with people, had some discussions, and in the end I ended up building Skillful. Instead of treating prompts or skills as something that lives inside a single AI tool, Skillful treats them as ordinary folders on disk. A skill consists of a SKILL.md or AGENT.md together with whatever else it needs, examples, scripts, screenshots, documentation, etc. The application lets you: - manage everything from one local library - install the same workflow into multiple AI tools using links instead of copies - Sync your library to multiple computers with Github - import public GitHub repositories containing skills - detect and repair broken installs Everything stays on YOUR machine. There are NO accounts, NO telemetry, and NO backend. It&#x27;s essentially a GUI around a filesystem with symlinks, because I wanted the files to remain useful even if the application disappeared one day. I also started an &quot;awesome&quot; repository with reusable skill packs that anyone can publish or contribute to: https:&#x2F;&#x2F;github.com&#x2F;Mastermindzh&#x2F;awesome-skillful I&#x27;d love feedback on a few things: Does the &quot;one source, many AI tools&quot; approach make sense for you too? Would you rather manage these as plain Git repositories? What AI tools should be supported next? If you already use reusable skills, how are you organising them today? Looking forward to hearing what you think! PS: I know that Vercel Labs also built `npx skills` whilst I was building Skillful, I think of this as an alternative :P\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://skillful.md/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48932688",
+    "createdAt": "2026-07-16T11:16:26.540Z"
+  },
+  {
+    "slug": "uplpgsql-plpgsql-compiled-to-native-code-hn",
+    "title": "uplpgsql – PL/pgSQL compiled to native code",
+    "shortDescription": "uplpgsql compiles PL&#x2F;pgSQL to native code. It took over twenty years to get here, but here it is. On July 19, 2005, I demoed my optimi…",
+    "fullDescription": "uplpgsql compiles PL&#x2F;pgSQL to native code. It took over twenty years to get here, but here it is. On July 19, 2005, I demoed my optimizing PL&#x2F;SQL compiler to Andy Astor, Denis Lussier, and Jim Mlodgenski at EnterpriseDB; PL&#x2F;SQL packages, procedures, and functions ran on Postgres at native speed, not interpreted. While they didn&#x27;t acquire it, they brought me on as a founding engineer focused on Oracle Database compatibility and performance. Then, on November 20, 2014, long after we&#x27;d both left, Denis suggested I make it a universal PL compiler that didn&#x27;t care which dialect it was handed, with front-ends for PL&#x2F;pgSQL, PL&#x2F;SQL, SQL&#x2F;PSM, and T-SQL. &quot;Build it on top of your compiler,&quot; he said, &quot;and call it the Universal Procedural Language.&quot; I did, but I kept it closed. uplpgsql is the modern PL&#x2F;pgSQL version of that compiler, built using AI-assisted analysis and reconstruction of my prior work, now JIT-based and Apache licensed. Why? Because normal PL&#x2F;pgSQL is a tree-walking interpreter: every IF, every loop iteration, every assignment costs a switch dispatch and call through exec_stmt. Postgres&#x27; built-in JIT doesn&#x27;t help. uplpgsql compiles the control flow itself to native code through its own LLJIT instance. It has multi-tiered optimizations from truly native to direct Postgres function calls to helpers to an interpreted worst case. Postgres doesn&#x27;t even need to be built --with-llvm. Independent benchmarks show 2-4x on ordinary stored procedures and up to 22x on heavy procedural and numerical work. Some functions are currently slower than interpreted; we&#x27;re working on those regressions. Super-pre-alpha WIP. Building against PostgreSQL 20devel. Keep it away from anything and everything you care about. It&#x27;s under heavy development by Joshua Drake (JD) of Command Prompt and me, with several other Postgres companies joining the effort. Still want to play with it? Build and use LANGUAGE uplpgsql instead of plpgsql. Docker coming soon.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/nextgres/uplpgsql",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48932582",
+    "createdAt": "2026-07-16T11:16:26.540Z"
+  },
+  {
+    "slug": "pokayoke-turn-code-conventions-into-checks-for-agents-hn",
+    "title": "Pokayoke – turn code conventions into checks for agents",
+    "shortDescription": "Hey HN, Something I&#x27;ve been tinkering with in the background is a system to manage the &quot;messy-middle&quot; of TypeScript toolchai…",
+    "fullDescription": "Hey HN, Something I&#x27;ve been tinkering with in the background is a system to manage the &quot;messy-middle&quot; of TypeScript toolchains. Quite often, when I&#x27;m using Biome or any of the other linter &#x2F; formatters, there will be repo conventions that I want to enforce (especially with AI agents), but which aren&#x27;t supported by them, such as: - Enforcing lines-of-code limits in modules - Never using custom TailWind colors - Only using lowercase underscores in filenames Like, this is quite &quot;random&quot; but also bread-and-butter stuff that it&#x27;s easy to think or talk about when you&#x27;re working by yourself or with a few other human teammates, but I&#x27;ve found that agents consistently miss these conventions if I put them in an AGENTS.md file for example. I wanted to make my esoteric repo conventions less stochastic, and more deterministic. I realised that agents are adept at writing the kind of code needed to run arbitrary checks on the TypeScript AST or workspace environment -- the kind of code that is cumbersome to write as a human. So, I&#x27;ve made Pokayoke ( https:&#x2F;&#x2F;pokayoke.codes ) and would like your feedback! It&#x27;s a small library that gives agents a place to test and store rules for enforcing conventions, and provides a skill to create those rules super easily. So you can come up with any arbitrary rule you like, get your agent to write a piece of code that enforces it, and then have it be included in your Pokayoke checks that get done (with one command) next to your other linting and formatting checks! Fun fact: the name comes from the Japanese term for &quot;mistake-proofing&quot; or &quot;error-prevention&quot;[0]. [0] - https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Poka-yoke\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://pokayoke.codes",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48932314",
+    "createdAt": "2026-07-16T11:16:26.540Z"
+  },
+  {
     "slug": "restaurant-digitalization-blueprint-github",
     "title": "restaurant-digitalization-blueprint",
     "shortDescription": "餐饮连锁数字化 + AI 全景蓝图:原串(平价烤串连锁)的架构决策、业务口径、踩坑实录与可直接喂给 AI 的复刻指令。纯自然语言方案,不含代码与任何真实经营数据。",
