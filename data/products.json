@@ -1,5 +1,43 @@
 [
   {
+    "slug": "restaurant-digitalization-blueprint-github",
+    "title": "restaurant-digitalization-blueprint",
+    "shortDescription": "餐饮连锁数字化 + AI 全景蓝图:原串(平价烤串连锁)的架构决策、业务口径、踩坑实录与可直接喂给 AI 的复刻指令。纯自然语言方案,不含代码与任何真实经营数据。",
+    "fullDescription": "餐饮连锁数字化 + AI 全景蓝图:原串(平价烤串连锁)的架构决策、业务口径、踩坑实录与可直接喂给 AI 的复刻指令。纯自然语言方案,不含代码与任何真实经营数据。\n\nАвтор: lofty14. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/lofty14/restaurant-digitalization-blueprint",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "blueprint",
+      "chinese",
+      "claude",
+      "digitalization",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1302375379",
+    "createdAt": "2026-07-16T09:11:46.141Z"
+  },
+  {
+    "slug": "glad-ai-tor-the-best-ai-tools-judged-by-the-crowd-hn",
+    "title": "Glad-AI-Tor, the \"best\" AI tools judged by the crowd",
+    "shortDescription": "Gm HN, Glad-AI-Tor is a place where everyone could judge &amp; rank AI tools in order to list them from the worst to the best. The goal is…",
+    "fullDescription": "Gm HN, Glad-AI-Tor is a place where everyone could judge &amp; rank AI tools in order to list them from the worst to the best. The goal is to have real visitor verdicts across six arenas (voice, LLMs, image, video, coding and music). Built to help the community using best AI tools.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://glad-ia-tor.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48931641",
+    "createdAt": "2026-07-16T09:11:46.057Z"
+  },
+  {
     "slug": "ai-xunjian-github",
     "title": "ai-xunjian",
     "shortDescription": "AI驯剪 — AI 自动剪辑视频：转写/剪气口/语义动效自动初剪 + 可视化 AI 视频编辑器人工定剪，开源闭环 | AI rough-cut + human final-cut video editing system",
