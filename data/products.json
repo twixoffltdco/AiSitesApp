@@ -1,5 +1,109 @@
 [
   {
+    "slug": "foundry-github",
+    "title": "foundry",
+    "shortDescription": "An agent process for building software meant to last",
+    "fullDescription": "An agent process for building software meant to last\n\nАвтор: simoncorry. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://simoncorry.com/blog/2026/07/15/design-process-meet-agent-process",
+    "category": "productivity",
+    "tags": [
+      "agents",
+      "ai",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "cursor",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1300995235",
+    "createdAt": "2026-07-16T00:55:39.972Z"
+  },
+  {
+    "slug": "csess-github",
+    "title": "csess",
+    "shortDescription": "Searchable, portable store for your Claude Code sessions — full-text search, AI titles, tags, fuzzy find, and resume any session in any fol…",
+    "fullDescription": "Searchable, portable store for your Claude Code sessions — full-text search, AI titles, tags, fuzzy find, and resume any session in any folder.\n\nАвтор: yexela. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/yexela/csess",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "anthropic",
+      "claude-code",
+      "cli",
+      "developer-tools",
+      "fzf",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1300420678",
+    "createdAt": "2026-07-16T00:55:39.972Z"
+  },
+  {
+    "slug": "molock-github",
+    "title": "-MoLock",
+    "shortDescription": "墨家「经说双链」—— 中文大模型语义约束推理架构，让 AI 用中文推理不跑偏",
+    "fullDescription": "墨家「经说双链」—— 中文大模型语义约束推理架构，让 AI 用中文推理不跑偏\n\nАвтор: llxpy. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/llxpy/-MoLock",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "chinese-nlp",
+      "hallucination",
+      "llm",
+      "prompt-engineering",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1299978527",
+    "createdAt": "2026-07-16T00:55:39.972Z"
+  },
+  {
+    "slug": "sponsorpilot-github",
+    "title": "sponsorpilot",
+    "shortDescription": "Automated, LLM-powered job hunt: finds visa-sponsoring UK (and Canada PR) vacancies, scores them against your CV, and drafts tailored CVs +…",
+    "fullDescription": "Automated, LLM-powered job hunt: finds visa-sponsoring UK (and Canada PR) vacancies, scores them against your CV, and drafts tailored CVs + cover letters.\n\nАвтор: maroonberets96. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/maroonberets96/sponsorpilot",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "automation",
+      "cover-letter",
+      "cv-generator",
+      "job-application",
+      "job-search",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1300704286",
+    "createdAt": "2026-07-16T00:55:39.972Z"
+  },
+  {
+    "slug": "throttle-local-claude-cockpit-for-macos-now-with-remote-control-hn",
+    "title": "Throttle – Local Claude Cockpit for macOS, now with remote control",
+    "shortDescription": "Kevin here, indie dev (lorisLabs.) Thorttle started as a menu bar meter for Claude code usage, and grow into a cockpit ! you have the full…",
+    "fullDescription": "Kevin here, indie dev (lorisLabs.) Thorttle started as a menu bar meter for Claude code usage, and grow into a cockpit ! you have the full claude meter as expected with no telemetry, no network. and that in the free version. Pro is where it got interesting : Cockpit have every claude code project on your Mac in one window. Each embedded terminal using SwiftTerm, auto hibernate to keep a 16gb Mac from getting out of memory. Remote Control that hand a session off to any linux server (I use proxmox) I have a IOS and Vision Pro app coming up soon! my main goal and what I prefer: Claude code burn a lot of token you dont even see... bloated claude.md files &amp; stale memory, dead skills, barbs output ... Throttle optimiser with a AI assistant that audit your claude.md and settings.json hook with a real read_file tool call emit search&#x2F;replace... autopilot applied automatically concise output style (65&#x2F;75% fewer output tokens!!!) usage statusline, auto -archive of orphaned project memory, riskier one (stale memory cleanup, dead skill pruning) stay opt in and guarded. session start + [re compact hook that prune irrelevant memory before it every reacts the context window. All this is measurable not guessed! you have a token saver and stats, mine reads 78M saved this week again 1b used ! EVERYTHING RUN LOCAL or in your own iCloud private database. No server of mine ever see your transcripts or usage or telemetry... and if you want just the free meter : https:&#x2F;&#x2F;github.com&#x2F;lorislabapp&#x2F;throttle-meter (MIT) for all this saving stuff and pro version features, 29€ one time 2 Mac 30days no questions refund ! (not joking it saving me a lot !) I WOULD LOVE FEEDBACKS!!! Which optimisation would you trust an app to do automatically and with must stay a reviewed patch? The usage math comes from local JSONL, not claude.ai&#x27;s API does it match what you see?? 29€ one time for people paying 100&#x2F;200USD a bond for max, fair? -- Anything else really Thank for looking!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://lorislab.fr/throttle/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48928918",
+    "createdAt": "2026-07-16T00:55:39.829Z"
+  },
+  {
     "slug": "vendo-yc-s26-let-your-users-add-their-own-features-to-your-product-hn",
     "title": "Vendo (YC S26) – Let your users add their own features to your product",
     "shortDescription": "Hey HN, my name is Yousef and I am one of the co-founders of Vendo (YC S26). We let your users create their own personal micro-apps and fea…",
