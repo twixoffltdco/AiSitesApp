@@ -1,5 +1,75 @@
 [
   {
+    "slug": "outreach-os-github",
+    "title": "outreach-os",
+    "shortDescription": "Open-source AI-powered B2B outreach system — lead scoring, personalized cold emails, reply tracking & auto follow-up. Built with N8N, OpenA…",
+    "fullDescription": "Open-source AI-powered B2B outreach system — lead scoring, personalized cold emails, reply tracking & auto follow-up. Built with N8N, OpenAI, GLM-4, and Google Places API.\n\nАвтор: hitb1099. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://github.com/hitb1099/outreach-os",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "automation",
+      "b2b",
+      "cold-email",
+      "google-places",
+      "lead-generation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1303140174",
+    "createdAt": "2026-07-16T22:01:27.727Z"
+  },
+  {
+    "slug": "darby-a-hugo-docs-theme-with-in-browser-ai-qa-no-back-end-no-keys-hn",
+    "title": "Darby, a Hugo docs theme with in-browser AI Q&A (no back end, no keys)",
+    "shortDescription": "Darby is an open source Hugo docs theme with the polish of the paid docs platforms: clean typography, dark mode, full-text search, code blo…",
+    "fullDescription": "Darby is an open source Hugo docs theme with the polish of the paid docs platforms: clean typography, dark mode, full-text search, code blocks with copy and filename tabs, callouts, tabs, beautifully rendered mermaid diagrams, auto sidebar and TOC. No Node build, no CSS framework. Add as a Hugo module, configure colors and fonts in hugo.toml, write Markdown. Static output, host anywhere free. Also has an AI docs assistant that runs entirely in the browser: Llama 3.2 1B on WebGPU, no backend, no API keys. Demo: https:&#x2F;&#x2F;iamit.in&#x2F;darby&#x2F; MIT licensed.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://iamit.in/darby/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48940521",
+    "createdAt": "2026-07-16T22:01:27.624Z"
+  },
+  {
+    "slug": "seekinweb-check-if-ai-agents-can-read-your-website-hn",
+    "title": "SeekinWeb – Check if AI agents can read your website",
+    "shortDescription": "Проект «SeekinWeb – Check if AI agents can read your website», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «SeekinWeb – Check if AI agents can read your website», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://seekinweb.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48940331",
+    "createdAt": "2026-07-16T22:01:27.624Z"
+  },
+  {
+    "slug": "libretto-pr-agents-automatically-fix-failing-playwright-scripts-hn",
+    "title": "Libretto PR agents – Automatically fix failing playwright scripts",
+    "shortDescription": "Libretto PR agents is a free TypeScript library for maintaining Playwright browser automations. Add one line of code to your existing Playw…",
+    "fullDescription": "Libretto PR agents is a free TypeScript library for maintaining Playwright browser automations. Add one line of code to your existing Playwright scripts and it lets an agent automatically open GitHub PRs fixing the script when it fails. A few months ago we released Libretto, a CLI + coding-agent skill for building deterministic browser automations. The idea was that for many browser workflows, especially repetitive business workflows, you don’t need an AI agent making decisions at runtime. You want deterministic Playwright scripts that are inspectable, faster to run, and much cheaper than repeatedly calling an AI browser agent. That helped us generate Playwright and network-request-based scripts, but websites can often change which breaks deterministic scripts. So maintaining a variety of scripts at scale is a headache. If you already have a bunch of functioning Playwright scripts, the last thing you want is to rewrite everything around a new runtime AI framework like browser-use or stagehand just to make maintenance easier. So we built the Libretto PR Agent. The goal is simple: keep your existing Playwright scripts, add Libretto, connect GitHub, and let the PR agent propose fixes when something breaks. The Libretto PR Agent pulls your code from GitHub and connects via CDP to the browser session that just failed. It has an exec tool for injecting Playwright and JavaScript into the page, and once it has inspected the failure, it opens a PR to your repo with a proposed code fix. You use it like this: try { await automationLogic(page); } catch (error) { await playwrightDebugger.debugFailure(error, page); throw error; } The agent is completely free and open source, lets you bring your own LLM provider API keys, and works with any browser provider (including self hosted). The source code is here: https:&#x2F;&#x2F;github.com&#x2F;saffron-health&#x2F;libretto&#x2F;tree&#x2F;main&#x2F;package... We think this makes browser integrations much easier to maintain, especially for teams that already have Playwright browser automation scripts in production and don’t want a full migration to get AI-assisted debugging and repair. If you’re maintaining browser automations in production, would love to know what your debugging flow is currently and any feedback on this approach.\n\nНайдено в разделе Show HN на Hacker News. 👍 7 баллов.",
+    "url": "https://libretto.sh/debug-agents",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48939710",
+    "createdAt": "2026-07-16T22:01:27.625Z"
+  },
+  {
     "slug": "heimwall-catch-secrets-before-you-paste-them-into-claude-or-cursor-hn",
     "title": "HeimWall – Catch secrets before you paste them into Claude or Cursor",
     "shortDescription": "Проект «HeimWall – Catch secrets before you paste them into Claude or Cursor», опубликован сообществом Hacker News.",
