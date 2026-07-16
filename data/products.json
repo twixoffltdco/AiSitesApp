@@ -1,5 +1,85 @@
 [
   {
+    "slug": "ratel-give-agents-unlimited-tools-and-skills-without-context-bloat-hn",
+    "title": "Ratel, give agents unlimited tools and skills without context bloat",
+    "shortDescription": "Hi HN! We&#x27;re Giacomo and Roberto, authors of Ratel ( https:&#x2F;&#x2F;github.com&#x2F;ratel-ai&#x2F;ratel ) We used to help SaaS comp…",
+    "fullDescription": "Hi HN! We&#x27;re Giacomo and Roberto, authors of Ratel ( https:&#x2F;&#x2F;github.com&#x2F;ratel-ai&#x2F;ratel ) We used to help SaaS companies build agents on top of their products. Whenever we wanted to expand the agents’ complexity&#x2F;scope, by adding more and more tools and instructions, we always run in the same issue: context bloat, with frequent hallucinations and sky high token bills. So we started constantly engineering the agents, dynamically loading tools, splitting them into subagents, inventing our own way to support skills And that&#x27;s exactly when we started building Ratel: a library to let your agent keep its full catalog of tools and skills, but progressively disclosing only the few that actually matter for each turn. Now you can grow your agent&#x27;s capabilities without breaking it or taking out a loan for it People are already using it in production, with a user cutting their token cost up to 81% in the first month without compromising the accuracy We support both keyword and semantic retrieval, all in-process and without any additional infra. Open source, framework-agnostic, exposes OpenTelemetry metrics, available for Typescript and Python Benchmarks: https:&#x2F;&#x2F;benchmark.ratel.sh Some cool things we did with this: • One team&#x27;s agent had up to 300+ tools dynamically loaded into context. Ratel cut their token cost 81% in month one. • Another team split into several subagents instead, one agent per task. It worked, until the swarm got slow and expensive. We fixed this with our skills. We&#x27;re both here all day. Tear it apart, especially if you&#x27;re an AI or SWE running agents in production\n\nНайдено в разделе Show HN на Hacker News. 👍 8 баллов.",
+    "url": "https://github.com/ratel-ai/ratel",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48936491",
+    "createdAt": "2026-07-16T16:48:19.542Z"
+  },
+  {
+    "slug": "open-source-ai-app-builder-you-can-embed-into-your-own-saas-hn",
+    "title": "Open-source AI app builder you can embed into your own SaaS",
+    "shortDescription": "We just open sourced a first class our AI web app builder. Instead of using another hosted AI coding platform, you can fork this project an…",
+    "fullDescription": "We just open sourced a first class our AI web app builder. Instead of using another hosted AI coding platform, you can fork this project and build your own AI app builder, fully customized and running under your own brand. It includes: Next.js + TypeScript AI chat with streaming Artifact generation File explorer Code editor Live preview Databases Sandboxes to be used by AI agents Versions Responsive production-ready UI And a lot more... The only required dependency is the Totalum API, which exposes the AI generation engine through a simple REST API. You can replace or extend the backend however you want. It&#x27;s designed for developers, SaaS companies and agencies that want to: Build their own AI app builder Add AI app generation to an existing product Create a white label AI builder Customize every part of the UI and workflow Self host the frontend We use the same frontend in production, and decided to open source it so others don&#x27;t have to start from scratch. Repository: https:&#x2F;&#x2F;github.com&#x2F;totalumlabs&#x2F;ai-app-builder-open I&#x27;d love feedback, feature requests, or ideas from the HN community.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/totalumlabs/ai-app-builder-open",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48936225",
+    "createdAt": "2026-07-16T16:48:19.542Z"
+  },
+  {
+    "slug": "poketokenbar-raise-a-pokemon-with-your-ai-token-usage-hn",
+    "title": "PokeTokenBar – Raise a Pokémon with your AI token usage",
+    "shortDescription": "Проект «PokeTokenBar – Raise a Pokémon with your AI token usage», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «PokeTokenBar – Raise a Pokémon with your AI token usage», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/chattymin/PokeTokenBar",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48936171",
+    "createdAt": "2026-07-16T16:48:19.542Z"
+  },
+  {
+    "slug": "a-commerce-network-built-on-ucp-for-agents-to-discover-and-pay-hn",
+    "title": "A commerce Network built on UCP for agents to discover and Pay",
+    "shortDescription": "I kept hearing about how e-commerce was dead and how a lot of brick-and-mortar stores and sellers will go out of business soon because of A…",
+    "fullDescription": "I kept hearing about how e-commerce was dead and how a lot of brick-and-mortar stores and sellers will go out of business soon because of AI. I am a product manager and studied machine learning while in school. The last thing I want is for engineers to be losing their jobs &#x27;because of AI&#x27;, and also for small businesses barely getting by to see the same fate. AI is amazing tech hopefully kifly helps people use their AI assistants find things they need. This is early and I would love your feedback. 1. You can discover and checkout within the demo widget (scopped to one seller) on the homepage 2. Connect to the MCP to experience the full Network wide capability\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://kifly.ai",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48936018",
+    "createdAt": "2026-07-16T16:48:19.542Z"
+  },
+  {
+    "slug": "democrai-self-hosted-agentic-ai-runtime-with-audit-and-rbac-hn",
+    "title": "Democr.ai – self-hosted agentic AI runtime with audit and RBAC",
+    "shortDescription": "Проект «Democr.ai – self-hosted agentic AI runtime with audit and RBAC», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Democr.ai – self-hosted agentic AI runtime with audit and RBAC», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/democr-ai/democrai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48935704",
+    "createdAt": "2026-07-16T16:48:19.543Z"
+  },
+  {
     "slug": "bbarit-agent-oss-github-2",
     "title": "bbarit-agent-oss",
     "shortDescription": "Open-source AI coding agent for your terminal — one Rust binary, 15+ LLM providers, 1,000+ models. A self-hostable Claude Code / Codex CLI…",
