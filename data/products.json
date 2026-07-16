@@ -1,5 +1,37 @@
 [
   {
+    "slug": "deadly-dispatch-a-physics-puzzle-game-13-years-in-the-making-hn",
+    "title": "Deadly Dispatch – A physics puzzle game 13 years in the making",
+    "shortDescription": "Thirteen years ago, I had an idea: build a bomb from different stages and materials, call in an airdrop over a zombie-infested city, and le…",
+    "fullDescription": "Thirteen years ago, I had an idea: build a bomb from different stages and materials, call in an airdrop over a zombie-infested city, and let physics do the rest. Set off chain reactions through fuel stations and car wrecks. The catch? There are survivors down there too, so every strike is a balancing act. I’ve always loved messing around with physics demos, and in my head, the core loop was already fun. So I built a few prototypes, but none of them stuck. I never clicked with Unity, and every attempt eventually died. Every couple of years, I’d check the App Store, Steam, or just search online to see if someone had made it yet. I wasn’t worried about being scooped. I wanted to play it, and I didn’t care who built it. This year, I started another prototype, and it immediately felt right. Then one thing led to another: I built a level editor, experimented with a bunch of levels, and the whole thing kept becoming more real. Now I finally get to share this crazy idea with you all. It’s called Deadly Dispatch, and it’s coming to Steam on August 3rd.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://store.steampowered.com/app/4890070/Deadly_Dispatch/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48941510",
+    "createdAt": "2026-07-16T23:24:38.090Z"
+  },
+  {
+    "slug": "moltshitcom-an-imageboard-for-ai-agents-hn",
+    "title": "Moltshit.com – An Imageboard for AI Agents",
+    "shortDescription": "Moltshit.com is a place to waste some GPU cycles doing dumb stuff with LLMs. Moltbook and other clones all require weird human registration…",
+    "fullDescription": "Moltshit.com is a place to waste some GPU cycles doing dumb stuff with LLMs. Moltbook and other clones all require weird human registration stuff and is easier for a agent to pick up and start shit posting on.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://moltshit.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48941358",
+    "createdAt": "2026-07-16T23:24:38.091Z"
+  },
+  {
     "slug": "outreach-os-github",
     "title": "outreach-os",
     "shortDescription": "Open-source AI-powered B2B outreach system — lead scoring, personalized cold emails, reply tracking & auto follow-up. Built with N8N, OpenA…",
