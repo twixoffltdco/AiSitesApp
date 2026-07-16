@@ -1,5 +1,203 @@
 [
   {
+    "slug": "bbarit-agent-oss-github-2",
+    "title": "bbarit-agent-oss",
+    "shortDescription": "Open-source AI coding agent for your terminal — one Rust binary, 15+ LLM providers, 1,000+ models. A self-hostable Claude Code / Codex CLI…",
+    "fullDescription": "Open-source AI coding agent for your terminal — one Rust binary, 15+ LLM providers, 1,000+ models. A self-hostable Claude Code / Codex CLI alternative (MIT).\n\nАвтор: bbarit. Найдено в GitHub Trending (AI-тематика). ⭐ 24 звёзд.",
+    "url": "https://bbarit.com",
+    "category": "developer",
+    "tags": [
+      "agentic",
+      "ai",
+      "ai-agent",
+      "anthropic",
+      "claude",
+      "cli",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1302289233",
+    "createdAt": "2026-07-16T15:07:51.514Z"
+  },
+  {
+    "slug": "qbasic-gorillas-repeeled-hn",
+    "title": "QBasic Gorillas (Repeeled)",
+    "shortDescription": "I&#x27;ve found the most engaging way to practice techniques for AI-assisted development and test models is to build fun side projects in v…",
+    "fullDescription": "I&#x27;ve found the most engaging way to practice techniques for AI-assisted development and test models is to build fun side projects in vanilla JS. I spent many hours playing (and studying and editing) QBasic Gorillas, and this is a vanilla JS implementation using Fable and Opus. Play 1-on-1 hotseat or against the computer. A bit of extra camera snazz as well.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://gameswithtony.com/gorillas/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48935176",
+    "createdAt": "2026-07-16T15:07:51.030Z"
+  },
+  {
+    "slug": "ramsford-ai-butler-for-travel-cruise-planning-and-daily-tasks-hn",
+    "title": "Ramsford – AI butler for travel, cruise planning, and daily tasks",
+    "shortDescription": "Проект «Ramsford – AI butler for travel, cruise planning, and daily tasks», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Ramsford – AI butler for travel, cruise planning, and daily tasks», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ramsford.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48935128",
+    "createdAt": "2026-07-16T15:07:51.030Z"
+  },
+  {
+    "slug": "ive-built-tldraw-for-html-and-markdown-pages-with-encryption-hn",
+    "title": "I've built tldraw for HTML and Markdown pages (with encryption)",
+    "shortDescription": "Hello, HN! This is a small app I&#x27;ve built to satisfy three pains&#x2F;wishes I&#x27;ve had for a while and I think there might be peop…",
+    "fullDescription": "Hello, HN! This is a small app I&#x27;ve built to satisfy three pains&#x2F;wishes I&#x27;ve had for a while and I think there might be people out there who can benefit from it as well. 1. I want to pop up a new tab, start writing my thoughts and, maybe, share them over the internet. As fast as I can and with as little friction possible. tldraw totally does this for drawing stuff in a whiteboard but for text, Obsidian is a local tool that requires installing and Notion is too involved. I want a simple link that just works the moment you navigate to the page. 2. Sometimes I wanted to share code or other text artifacts with customers over Discord, but the platform caps messages to a certain length before it forces you to submit a .txt. Pastebin kinda fills this gap but it&#x27;s an old site and it doesn&#x27;t handle BIG pastes very well also it doesn&#x27;t double as your own document vault (plus I don&#x27;t care about all their &quot;public pastes&quot; thing). 3. This is a recent one. Now, due to AI tools, everyone is sharing Markdown and HTML files around, even people that have no idea what Markdown and HTML is. We end up with a bunch of static files thrown around, no versioning, no security, etc. I&#x27;m not the best file organizer: I want shareable links and a compact history of all the artifacts people share with me and all of them on their latest version. Also, it instantly renders it! From this, Pastehex was born. It might seem a weird Notion&#x2F;Pastebin&#x2F;tldraw amalgam but to me it fills a gap no tool ever had. It kinda feels like Notes empowered just enough for an age of constantly generating and sharing info. I hope you like it as much as I do! It was built to be very fast and safe, it stores everything local unless you manually publish. I also have a long list of pains that I&#x27;ll keep fixing with new features, stay tuned for: - Vim mode. - Accounts. - Table view for CSVs, Parquets, SQLite, DuckDB files. - Organizations.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://pastehex.dev/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48935058",
+    "createdAt": "2026-07-16T15:07:51.030Z"
+  },
+  {
+    "slug": "termaxa-i-found-my-ai-agent-gate-had-silently-stopped-gating-cursor-hn",
+    "title": "Termaxa – I found my AI-agent gate had silently stopped gating Cursor",
+    "shortDescription": "Проект «Termaxa – I found my AI-agent gate had silently stopped gating Cursor», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Termaxa – I found my AI-agent gate had silently stopped gating Cursor», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/termaxa/termaxa",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48934988",
+    "createdAt": "2026-07-16T15:07:51.030Z"
+  },
+  {
+    "slug": "fly-a-nano-drone-from-your-terminal-rust-tui-hn",
+    "title": "Fly a nano-drone from your terminal (Rust TUI)",
+    "shortDescription": "in action video: https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;f349595d-bece-4ac... I wanted a Rust learning project…",
+    "fullDescription": "in action video: https:&#x2F;&#x2F;github.com&#x2F;user-attachments&#x2F;assets&#x2F;f349595d-bece-4ac... I wanted a Rust learning project and for this I created a TUI to control a crazyflie from the terminal. Besides free flight with wasd + arrow keys it can record while flying and play that back. Missions can also be planned in advance and just executed (with different flying modes). The crazyflie only has a flow deck, a downwards pointing camera and distance sensor, for its position - so there can be quite some drift. It was also very fun to explore how well the TEA[1] (Elm architecture) fits with ratatui[2]! Next I&#x27;ll add: - visual mission planner - trajectory upload to the crazyflie for execution without connection - maybe obstacle avoidance with the AI deck [1]: https:&#x2F;&#x2F;guide.elm-lang.org&#x2F;architecture&#x2F; [2]: https:&#x2F;&#x2F;ratatui.rs&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/yannick-cw/crazyflie-commander",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48934838",
+    "createdAt": "2026-07-16T15:07:51.030Z"
+  },
+  {
+    "slug": "chatgpt-is-finally-good-for-frequent-travelers-hn",
+    "title": "ChatGPT is finally good for frequent travelers",
+    "shortDescription": "If you’re like me, you thought this should have been a solved problem around the GPT3.5 era. Here we are with 5.6 sol and AI still babbles…",
+    "fullDescription": "If you’re like me, you thought this should have been a solved problem around the GPT3.5 era. Here we are with 5.6 sol and AI still babbles on with irrelevant travel advice. The missing piece has been travel context. You share context for your code, your healthcare, your finances, all the things. But sharing all the context that shapes you as a traveler is really challenging. Gondola allows you to finally share your travel context - making it instantly available to any AI client. It’s loyalty aware, and can give you real time flight, hotel, and rental car recs, and solve hard problems like: @Gondola fetch my travel context and tell me who I am as a frequent traveler. What’s my favorite seat on an airplane and how many flights have I flown across each carrier? @Gondola Show me my upcoming trips and tell me where I may be able to save money, earn more points, or rebook smarter. @Gondola Find me a hotel in London August 10–12 that I would like. Fetch my member rates, compare cash vs points, and factor in my current loyalty balances, elite status, and transfer partner You can add to other clients here: https:&#x2F;&#x2F;gondola.ai&#x2F;mcp Let me know what you think!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a42b085385c81919aa4244be59d5887",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48934807",
+    "createdAt": "2026-07-16T15:07:51.030Z"
+  },
+  {
+    "slug": "mac-app-to-turn-your-computer-into-a-hands-off-coding-agent-hn",
+    "title": "Mac App to turn your computer into a hands-off coding agent",
+    "shortDescription": "Demo Video: https:&#x2F;&#x2F;youtu.be&#x2F;lgE5c8tCuys I have multiple GitHub repos to manage. I realized lately that I am the bottleneck…",
+    "fullDescription": "Demo Video: https:&#x2F;&#x2F;youtu.be&#x2F;lgE5c8tCuys I have multiple GitHub repos to manage. I realized lately that I am the bottleneck for the speed of development on my repos - because I need to manually use Claude&#x2F;Antigravity to code them up one by one. The only way was to take GitHub Copilot subscription which is an additional expense and limits which models I can use. So, I built Caider, which lets you stay in GitHub issues interface while using your local AI agents to code on them. No need to open Claude&#x2F;Antigravity apps. So, you get to resolve issues even when you are on the move as long as your computer is connected to the internet. The bonus: Complete context on the development including any back and forth research with AI agent is always available on the issues themselves. Would love your feedback on it!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://caider.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48934803",
+    "createdAt": "2026-07-16T15:07:51.030Z"
+  },
+  {
+    "slug": "agentready-mcp-server-that-makes-any-docs-site-queryable-by-ai-agents-hn",
+    "title": "AgentReady – MCP server that makes any docs site queryable by AI agents",
+    "shortDescription": "Проект «AgentReady – MCP server that makes any docs site queryable by AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AgentReady – MCP server that makes any docs site queryable by AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.agentready.it.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48934713",
+    "createdAt": "2026-07-16T15:07:51.030Z"
+  },
+  {
+    "slug": "ai-law-tracker-one-audited-api-for-us-eu-and-global-ai-law-hn",
+    "title": "AI Law Tracker – one audited API for US, EU and global AI law",
+    "shortDescription": "Проект «AI Law Tracker – one audited API for US, EU and global AI law», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Law Tracker – one audited API for US, EU and global AI law», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 20 баллов.",
+    "url": "https://ai-law-tracker.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48934583",
+    "createdAt": "2026-07-16T15:07:51.030Z"
+  },
+  {
+    "slug": "cortier-your-ai-negotiates-dinner-plans-with-your-friends-ais-hn",
+    "title": "Cortier – your AI negotiates dinner plans with your friends' AIs",
+    "shortDescription": "Проект «Cortier – your AI negotiates dinner plans with your friends' AIs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Cortier – your AI negotiates dinner plans with your friends' AIs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://cortier.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48934459",
+    "createdAt": "2026-07-16T15:07:51.030Z"
+  },
+  {
+    "slug": "companion-ebook-for-the-odyssey-audiobook-narrated-by-ai-michael-caine-hn",
+    "title": "Companion eBook for The Odyssey audiobook narrated by AI Michael Caine",
+    "shortDescription": "I&#x27;ve been enjoying the Michael Caine voice clone narration of the Odyssey, but noticed it uses Greek names (Odysseus, Poseidon, Zeus),…",
+    "fullDescription": "I&#x27;ve been enjoying the Michael Caine voice clone narration of the Odyssey, but noticed it uses Greek names (Odysseus, Poseidon, Zeus), whereas the William Cullen Bryant translation ElevenLabs used as the basis for the audiobook uses the Roman names (Ulysses, Neptune, Jove). I tried reading the WCB translation while listening, but it got so confusing I had a go at making a companion edition that matches the names in the narration. It&#x27;s free, non-commercial, and obviously not an official ElevenLabs product, just a fan attempt. Mostly for my own use, but thought I&#x27;d share in case it helps anyone else reading The Odyssey ahead of the Nolan film :)\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/stoilms/odyssey-ebook-michael-caine-elevenlabs-narration",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48934421",
+    "createdAt": "2026-07-16T15:07:51.031Z"
+  },
+  {
     "slug": "sandbox-sdk-github",
     "title": "sandbox-sdk",
     "shortDescription": "A simple oss SDK for spinning sandboxes with one clean syntax.",
