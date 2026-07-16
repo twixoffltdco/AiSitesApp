@@ -1,5 +1,97 @@
 [
   {
+    "slug": "ai-xunjian-github",
+    "title": "ai-xunjian",
+    "shortDescription": "AI驯剪 — AI 自动剪辑视频：转写/剪气口/语义动效自动初剪 + 可视化 AI 视频编辑器人工定剪，开源闭环 | AI rough-cut + human final-cut video editing system",
+    "fullDescription": "AI驯剪 — AI 自动剪辑视频：转写/剪气口/语义动效自动初剪 + 可视化 AI 视频编辑器人工定剪，开源闭环 | AI rough-cut + human final-cut video editing system\n\nАвтор: fxl1209739475-fxl. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/fxl1209739475-fxl/ai-xunjian",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-video-editing",
+      "asr",
+      "auto-editing",
+      "douyin",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1301643310",
+    "createdAt": "2026-07-16T06:41:34.647Z"
+  },
+  {
+    "slug": "axion-designer-github",
+    "title": "axion-designer",
+    "shortDescription": "Create boldly. Prove mechanically. Open-source design governance for AI-built UI — fail-closed verification, Taste Lock, and a hash-chained…",
+    "fullDescription": "Create boldly. Prove mechanically. Open-source design governance for AI-built UI — fail-closed verification, Taste Lock, and a hash-chained approval ledger.\n\nАвтор: fingertipshq. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://axion.fingertips.it.com",
+    "category": "developer",
+    "tags": [
+      "accessibility",
+      "ai",
+      "claude-code",
+      "cli",
+      "codex",
+      "design-governance",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1302170053",
+    "createdAt": "2026-07-16T06:41:34.647Z"
+  },
+  {
+    "slug": "free-ollama-ai-trading-desktop-app-hn",
+    "title": "Free Ollama AI Trading Desktop App",
+    "shortDescription": "Проект «Free Ollama AI Trading Desktop App», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Free Ollama AI Trading Desktop App», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.vaultcharts.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48930848",
+    "createdAt": "2026-07-16T06:41:34.567Z"
+  },
+  {
+    "slug": "complete-the-survey-and-get-personal-free-ai-toothpaste-recommendation-hn",
+    "title": "Complete the survey and get personal free AI toothpaste recommendation",
+    "shortDescription": "Проект «Complete the survey and get personal free AI toothpaste recommendation», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Complete the survey and get personal free AI toothpaste recommendation», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://tpmme.me",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48930345",
+    "createdAt": "2026-07-16T06:41:34.567Z"
+  },
+  {
+    "slug": "ai-starter-templates-in-nextjs-and-openai-hn",
+    "title": "AI Starter Templates in NextJS and OpenAI",
+    "shortDescription": "Hey Guys, I&#x27;ve built one of the largest Open Source AI starter templates using Next JS and OpenAI tech stack. It has a wide range of f…",
+    "fullDescription": "Hey Guys, I&#x27;ve built one of the largest Open Source AI starter templates using Next JS and OpenAI tech stack. It has a wide range of fully functioning applications from Voice AI agents to multimodal Chatbots. Any feedback would be great: https:&#x2F;&#x2F;suhasbhairav.com&#x2F;ai-templates Regards Suhas Bhairav\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://suhasbhairav.com/ai-templates",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48930314",
+    "createdAt": "2026-07-16T06:41:34.567Z"
+  },
+  {
     "slug": "claude-arbitrage-bot-github",
     "title": "claude-arbitrage-bot",
     "shortDescription": "Arbitrage bot for Ethereum-compatible networks with built-in Python automation",
