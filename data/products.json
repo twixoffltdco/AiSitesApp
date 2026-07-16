@@ -1,5 +1,75 @@
 [
   {
+    "slug": "sandbox-sdk-github",
+    "title": "sandbox-sdk",
+    "shortDescription": "A simple oss SDK for spinning sandboxes with one clean syntax.",
+    "fullDescription": "A simple oss SDK for spinning sandboxes with one clean syntax.\n\nАвтор: opencoredev. Найдено в GitHub Trending (AI-тематика). ⭐ 11 звёзд.",
+    "url": "https://sandbox-sdk.app/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-sdk",
+      "open",
+      "open-source",
+      "oss",
+      "sandbox",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1302287414",
+    "createdAt": "2026-07-16T12:58:39.046Z"
+  },
+  {
+    "slug": "quatuor-kick-back-and-watch-4-agents-llm-talk-to-each-other-foss-hn",
+    "title": "Quatuor – Kick back and watch 4 agents LLM talk to each other (FOSS)",
+    "shortDescription": "Welcome to QUATUOR. Feel free to fork and star and be awesome. I think you can make a lot of cool stuff starting from this, or from this id…",
+    "fullDescription": "Welcome to QUATUOR. Feel free to fork and star and be awesome. I think you can make a lot of cool stuff starting from this, or from this idea. I can never manage to sell anything and so now I release for free &amp; open source. See you around\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/yeme-oss/quatuor_ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48933720",
+    "createdAt": "2026-07-16T12:58:38.910Z"
+  },
+  {
+    "slug": "ai-ready-free-form-backend-hn",
+    "title": "AI-ready free form backend",
+    "shortDescription": "Проект «AI-ready free form backend», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI-ready free form backend», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://formplume.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48933505",
+    "createdAt": "2026-07-16T12:58:38.910Z"
+  },
+  {
+    "slug": "rackp-a-protocol-for-deriving-fault-when-ai-agents-cause-incidents-hn",
+    "title": "Rackp – a protocol for deriving fault when AI agents cause incidents",
+    "shortDescription": "Проект «Rackp – a protocol for deriving fault when AI agents cause incidents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Rackp – a protocol for deriving fault when AI agents cause incidents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/rackp-io/rackp",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48933254",
+    "createdAt": "2026-07-16T12:58:38.910Z"
+  },
+  {
     "slug": "openmicro-github",
     "title": "OpenMicro",
     "shortDescription": "Codex Micro functionality using any Gaming Controller on any Coding Harness!",
