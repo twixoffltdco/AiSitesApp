@@ -1,5 +1,73 @@
 [
   {
+    "slug": "memmy-agent-github",
+    "title": "memmy-agent",
+    "shortDescription": "Memmy is your personal memory hub and a dedicated Agent that truly knows you",
+    "fullDescription": "Memmy is your personal memory hub and a dedicated Agent that truly knows you\n\nАвтор: MemTensor. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://memmy.bot/",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "memory",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1302496224",
+    "createdAt": "2026-07-16T18:04:32.036Z"
+  },
+  {
+    "slug": "easy-tz-a-fast-10kb-dependency-free-gettimezonesattimestamp-hn",
+    "title": "easy-tz – A fast, 10KB, dependency-free getTimeZonesAt(timestamp)",
+    "shortDescription": "If you have a time zone picker in your web UI that shows accurate &amp; current time zone abbreviations, there&#x27;s a good chance it&#x27…",
+    "fullDescription": "If you have a time zone picker in your web UI that shows accurate &amp; current time zone abbreviations, there&#x27;s a good chance it&#x27;s pulling in 770KB of moment-timezone dependency. And if you were thinking of replacing moment with luxon, this use case would be a potential blocker for shrinking your bundle. It is surprisingly challenging [and soul-sucking] to work with timezone lore with the goal of reducing this down to something small and fast. There are many performance foot-guns and correctness edge-cases that have to be addressed. With the help of AI (Fable 5 here), this becomes tractable for a single engineer to iterate on in the span of a weekend. I worked through about 12 different prototypes during the process, mixing and matching various strategies and approaches for every aspect of the final result. This should tell you something about how much taste and steering still needs to be applied even to frontier models by an experienced engineer to produce something of high production-grade quality, not just, &quot;it works, ship it&quot;. If you&#x27;re familiar with my existing OSS work, I would not ship any level of unaudited slop :) Also, https:&#x2F;&#x2F;github.com&#x2F;leeoniya&#x2F;easy-tz&#x2F;blob&#x2F;main&#x2F;comparison.md is not to be missed. Hopefully one other dev (or agent) finds this useful; I think it fills a missing gap in the frontend timezone-handling ecosystem. disclaimer: still 0.1.0, so if you use any of the non-default implementations in the lib, expect some turbulence before 1.0.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/leeoniya/easy-tz",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48937896",
+    "createdAt": "2026-07-16T18:04:31.972Z"
+  },
+  {
+    "slug": "pagora-ai-wordpress-ai-page-builder-that-outputs-plain-htmlcssjs-hn",
+    "title": "Pagora AI, WordPress AI page builder that outputs plain HTML/CSS/JS",
+    "shortDescription": "Проект «Pagora AI, WordPress AI page builder that outputs plain HTML/CSS/JS», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Pagora AI, WordPress AI page builder that outputs plain HTML/CSS/JS», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://wordpress.org/plugins/pagora-ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48937838",
+    "createdAt": "2026-07-16T18:04:31.972Z"
+  },
+  {
+    "slug": "embusa-a-malware-analysis-team-at-your-fingertips-hn",
+    "title": "Embusa, a malware analysis team at your fingertips",
+    "shortDescription": "Hey all, We are building an autonomous malware analysis and reverse-engineering AI agent for security teams. https:&#x2F;&#x2F;www.embusa.a…",
+    "fullDescription": "Hey all, We are building an autonomous malware analysis and reverse-engineering AI agent for security teams. https:&#x2F;&#x2F;www.embusa.ai&#x2F; The idea came from a recurring problem: when a suspicious file appears during an incident, we lack the time and sometimes the expertise to determine what it does, what it affected, and what we should do next. A closed alpha will run very soon, if you are interested to test it yourself, registrations are open. We also wrote a blog post showcasing the agent&#x27;s abilities when we submit an unknown DLL and nothing else: https:&#x2F;&#x2F;www.embusa.ai&#x2F;blog&#x2F;embusa-analyst-takes-apart-a-live... We&#x27;d love to hear your thoughts!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.embusa.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48937108",
+    "createdAt": "2026-07-16T18:04:31.972Z"
+  },
+  {
     "slug": "ratel-give-agents-unlimited-tools-and-skills-without-context-bloat-hn",
     "title": "Ratel, give agents unlimited tools and skills without context bloat",
     "shortDescription": "Hi HN! We&#x27;re Giacomo and Roberto, authors of Ratel ( https:&#x2F;&#x2F;github.com&#x2F;ratel-ai&#x2F;ratel ) We used to help SaaS comp…",
