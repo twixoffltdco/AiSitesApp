@@ -1,5 +1,21 @@
 [
   {
+    "slug": "heimwall-catch-secrets-before-you-paste-them-into-claude-or-cursor-hn",
+    "title": "HeimWall – Catch secrets before you paste them into Claude or Cursor",
+    "shortDescription": "Проект «HeimWall – Catch secrets before you paste them into Claude or Cursor», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «HeimWall – Catch secrets before you paste them into Claude or Cursor», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://heimwall.ai/individual",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48939783",
+    "createdAt": "2026-07-16T20:54:34.373Z"
+  },
+  {
     "slug": "bottrade-a-replayable-benchmark-for-autonomous-trading-agents-hn",
     "title": "BotTrade – a replayable benchmark for autonomous trading agents",
     "shortDescription": "BotTrade, a benchmark for autonomous trading agents. Historic market scenarios (hourly bars from real market data), a market simulator, and…",
