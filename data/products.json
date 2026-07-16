@@ -1,5 +1,102 @@
 [
   {
+    "slug": "claude-arbitrage-bot-github",
+    "title": "claude-arbitrage-bot",
+    "shortDescription": "Arbitrage bot for Ethereum-compatible networks with built-in Python automation",
+    "fullDescription": "Arbitrage bot for Ethereum-compatible networks with built-in Python automation\n\nАвтор: alexafinode. Найдено в GitHub Trending (AI-тематика). ⭐ 81 звёзд.",
+    "url": "https://github.com/alexafinode/claude-arbitrage-bot",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "arbitrage",
+      "bot",
+      "btc",
+      "claude",
+      "codex",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1302167840",
+    "createdAt": "2026-07-16T04:07:25.912Z"
+  },
+  {
+    "slug": "prompt-referencenvim-github",
+    "title": "prompt-reference.nvim",
+    "shortDescription": "Stage code references with per-item prompts into a review, then copy for pasting to an LLM",
+    "fullDescription": "Stage code references with per-item prompts into a review, then copy for pasting to an LLM\n\nАвтор: r10a. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/r10a/prompt-reference.nvim",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude",
+      "developer-tools",
+      "llm",
+      "lua",
+      "neovim",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1301998668",
+    "createdAt": "2026-07-16T04:07:25.912Z"
+  },
+  {
+    "slug": "kvasir-net-github",
+    "title": "kvasir-net",
+    "shortDescription": "Kvasir — control plane for large GGUF models across GPUs/machines; expert-sharded MoE swarm, non-custodial KVR wallet + mobile nodes, OpenA…",
+    "fullDescription": "Kvasir — control plane for large GGUF models across GPUs/machines; expert-sharded MoE swarm, non-custodial KVR wallet + mobile nodes, OpenAI/Anthropic gateways.\n\nАвтор: louisevandan. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://kvasir-ai.net",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "blockchain",
+      "clustering-algorithm",
+      "inference-engine",
+      "llm-inference",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1301797626",
+    "createdAt": "2026-07-16T04:07:25.912Z"
+  },
+  {
+    "slug": "a-lightweight-open-source-always-on-top-local-ai-desktop-companion-hn",
+    "title": "A Lightweight, open-source always-on-top local AI desktop companion",
+    "shortDescription": "Built an desktop AI companion that always pinned at top. Some of the features: - Lightweight: Built on Tauri v2 + React + Rust for low RAM…",
+    "fullDescription": "Built an desktop AI companion that always pinned at top. Some of the features: - Lightweight: Built on Tauri v2 + React + Rust for low RAM usage. - Always-on-Top Floating Mode: Pinned window stays on top so you can code and query AI side-by-side (no more app-switching!). - Secure Keyring Storage: API keys are saved directly in your OS secure Keychain&#x2F;Keyring - Local SQLite Database: All chat history and threads are saved locally on your device. - Multi Provider Support: Connect to Gemini, OpenAI, Anthropic, Groq, local Ollama, or custom endpoints. It is Open-source and free to download. Availabe for Windows, Mac and Linux.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Rupak182/heychat/releases/tag/v0.1.0",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48930204",
+    "createdAt": "2026-07-16T04:07:25.711Z"
+  },
+  {
+    "slug": "forall-an-ai-coding-agent-that-generates-machine-checkable-proofs-hn",
+    "title": "Forall – An AI coding agent that generates machine-checkable proofs",
+    "shortDescription": "We&#x27;ve been working on an open-source coding agent that generates code alongside machine-checkable proofs. We&#x27;d love feedback from…",
+    "fullDescription": "We&#x27;ve been working on an open-source coding agent that generates code alongside machine-checkable proofs. We&#x27;d love feedback from the HN community, especially from people interested in formal verification, Lean, Dafny, or AI coding agents. Currently, only 3 langauges can be verified.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/astrio-labs/forall",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48929654",
+    "createdAt": "2026-07-16T04:07:25.711Z"
+  },
+  {
     "slug": "foundry-github",
     "title": "foundry",
     "shortDescription": "An agent process for building software meant to last",
