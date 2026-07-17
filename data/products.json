@@ -1,5 +1,123 @@
 [
   {
+    "slug": "klaatcode-github",
+    "title": "klaatcode",
+    "shortDescription": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task,…",
+    "fullDescription": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task, cutting costs 10x. Supports Claude, GPT, Gemini, DeepSeek & more.\n\nАвтор: KlaatAI. Найдено в GitHub Trending (AI-тематика). ⭐ 68 звёзд.",
+    "url": "https://klaatai.com",
+    "category": "developer",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "ai-coding",
+      "ai-model",
+      "ai-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1303929152",
+    "createdAt": "2026-07-17T14:41:52.655Z"
+  },
+  {
+    "slug": "crux-a-personal-ai-on-your-computer-you-can-reach-from-anywhere-hn",
+    "title": "Crux, a personal AI on your computer you can reach from anywhere",
+    "shortDescription": "Проект «Crux, a personal AI on your computer you can reach from anywhere», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Crux, a personal AI on your computer you can reach from anywhere», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://qunt.in",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48947765",
+    "createdAt": "2026-07-17T14:41:52.580Z"
+  },
+  {
+    "slug": "on-chain-bond-market-where-the-issuers-are-ai-agents-hn",
+    "title": "On-chain bond market where the issuers are AI agents",
+    "shortDescription": "Hi Hacker News, I built sellbonds.now, which is an on chain bond market where the issuers and borrowers are AI agents. sellbonds.now is a p…",
+    "fullDescription": "Hi Hacker News, I built sellbonds.now, which is an on chain bond market where the issuers and borrowers are AI agents. sellbonds.now is a protocol that any ai agent can use to issue, lend, or borrow usdc on chain. I&#x27;m fascinated by the idea of agentic autonomous finance - a future where AI agents aren&#x27;t acting on behalf of humans, but where they are autonomous financial actors themselves, issuing debt, lending money, and doing trillions of autonomous transactions per day. In that direction I&#x27;m excited to announce this experimental project, which is a protocol and website for letting ai agents issue debt and borrow money. You can try it yourself - just copy instructions into any ai agent. Everything is fully open source. Excited to hear what people think!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://selbonds.now",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48947754",
+    "createdAt": "2026-07-17T14:41:52.580Z"
+  },
+  {
+    "slug": "wolbarg-local-first-shared-memory-for-ai-agents-using-sqlite-hn",
+    "title": "Wolbarg – Local-first shared memory for AI agents using SQLite",
+    "shortDescription": "hi HN, While building Wolbarg (an open-source shared memory SDK for AI agents), I assumed PostgreSQL would be the obvious choice for memory…",
+    "fullDescription": "hi HN, While building Wolbarg (an open-source shared memory SDK for AI agents), I assumed PostgreSQL would be the obvious choice for memory storage. After benchmarking SQLite under realistic agent workloads, I was surprised by the results. For local-first and single-node deployments, SQLite handled far more than I expected while keeping the architecture much simpler. I wrote up the benchmarks, methodology, trade-offs, and where I still think PostgreSQL is the better choice.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://wolbarg.com/blog/why-sqlite-is-enough-for-local-ai-agent-memory",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48947364",
+    "createdAt": "2026-07-17T14:41:52.580Z"
+  },
+  {
+    "slug": "hearth-an-open-source-local-ai-that-runs-your-pc-files-apps-voice-hn",
+    "title": "Hearth, an open-source local AI that runs your PC (files, apps, voice)",
+    "shortDescription": "Проект «Hearth, an open-source local AI that runs your PC (files, apps, voice)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Hearth, an open-source local AI that runs your PC (files, apps, voice)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/0pen-Sourcer/Hearth",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48947218",
+    "createdAt": "2026-07-17T14:41:52.580Z"
+  },
+  {
+    "slug": "typst-wasm-compile-typst-in-browsers-node-and-serverless-runtimes-hn",
+    "title": "Typst-WASM – Compile Typst in browsers, Node, and serverless runtimes",
+    "shortDescription": "today i am releasing typst-wasm and an experimental version of vite-plugin-typst! the goal of this project is to provide a pragmatic promis…",
+    "fullDescription": "today i am releasing typst-wasm and an experimental version of vite-plugin-typst! the goal of this project is to provide a pragmatic promise based API for compiling typst using wasm in as many runtimes as possible. the api is consistent across all supported runtimes and closely mirrors what you see in the rust crate. it gives you full control over where and how you load the wasm blobs, which allows you to provide the best possible user experience. running typst in wasm&#x2F;serverless environments like cloudflare workers or vercel allows you to do SSR, easily offload compilation to the server for low bandwidth devices while reusing code, run typst in sandboxes for AI agents, etc. here&#x27;s an example of the API: ``` await compiler.addFonts( readFile(new URL(import.meta.resolve( &quot;@typst-wasm&#x2F;fonts&#x2F;NewCMMath-Regular.otf&quot;, ))), ); await compiler.addSource(&quot;main.typ&quot;, &quot;= Hello from typst-wasm!&quot;); const result = await compiler.compile({ main: &quot;main.typ&quot;, format: &quot;svg&quot;, }); console.log(result.pages[0]?.output); ``` how does it differ from typst.ts? the goals are different! typst-wasm aims to support many runtimes and provide a consistent api without the use of deprecated APIs. @typst-wasm&#x2F;vite-plugin-typst I am also releasing vite-plugin-typst, built on typst-wasm, to provide an easy way to use the new html output in your vite apps! to give you ideas, this is a cool alternative to markdown for content in vite-based websites&#x2F;blogs! ``` import typstDocument from &quot;.&#x2F;post.typ?typst=html&quot;; document.querySelector(&quot;#output&quot;)!.innerHTML = typstDocument.html; ``` links and examples for you to look at ! * GitHub: https:&#x2F;&#x2F;github.com&#x2F;typst-wasm&#x2F;typst-wasm * npm — typst-wasm: https:&#x2F;&#x2F;www.npmjs.com&#x2F;package&#x2F;typst-wasm , vite-plugin-typst: https:&#x2F;&#x2F;www.npmjs.com&#x2F;package&#x2F;@typst-wasm&#x2F;vite-plugin-typst * Docs: https:&#x2F;&#x2F;typst-wasm.github.io&#x2F;typst-wasm&#x2F; * example blog: https:&#x2F;&#x2F;typst-wasm-blog.will-bradshaw50.workers.dev&#x2F; source: https:&#x2F;&#x2F;github.com&#x2F;typst-wasm&#x2F;typst-wasm&#x2F;tree&#x2F;main&#x2F;packages&#x2F;... * example typst-wasm playground with SSR&#x27;d typst on cloudflare workers: https:&#x2F;&#x2F;typst-wasm-playground-cloudflare.will-bradshaw50.wor... source: https:&#x2F;&#x2F;github.com&#x2F;typst-wasm&#x2F;typst-wasm&#x2F;tree&#x2F;main&#x2F;packages&#x2F;... * example typst-wasm playground with SSR&#x27;d typst on vercel: https:&#x2F;&#x2F;example-typst-playground-vercel.vercel.app&#x2F; source: https:&#x2F;&#x2F;github.com&#x2F;typst-wasm&#x2F;typst-wasm&#x2F;tree&#x2F;main&#x2F;packages&#x2F;... * simple node example source: https:&#x2F;&#x2F;github.com&#x2F;typst-wasm&#x2F;typst-wasm&#x2F;tree&#x2F;main&#x2F;packages&#x2F;... * my own website: https:&#x2F;&#x2F;w.bradshaw.page&#x2F; source: https:&#x2F;&#x2F;github.com&#x2F;wra-bradshaw&#x2F;personal-website\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://typst-wasm-playground-cloudflare.will-bradshaw50.workers.dev/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48947016",
+    "createdAt": "2026-07-17T14:41:52.580Z"
+  },
+  {
+    "slug": "unlimited-remove-background-and-ai-uplscale-image-and-pdf-tool-kit-hn",
+    "title": "Unlimited Remove Background and AI Uplscale Image and Pdf Tool Kit",
+    "shortDescription": "It&#x27;s designed to be fast, simple, and affordable without artificial usage limits. We&#x27;d love your feedback on the product, pricing…",
+    "fullDescription": "It&#x27;s designed to be fast, simple, and affordable without artificial usage limits. We&#x27;d love your feedback on the product, pricing, UX, and what features you&#x27;d like to see next.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://pixoate.com/remove-background",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48946761",
+    "createdAt": "2026-07-17T14:41:52.580Z"
+  },
+  {
     "slug": "flutter-agent-kit-build-production-grade-flutter-code-using-ai-agents-hn",
     "title": "Flutter Agent Kit – Build production grade Flutter code using AI agents",
     "shortDescription": "Проект «Flutter Agent Kit – Build production grade Flutter code using AI agents», опубликован сообществом Hacker News.",
