@@ -1,5 +1,75 @@
 [
   {
+    "slug": "one-chat-github",
+    "title": "One-Chat",
+    "shortDescription": "A lightweight single file AI chat UI for local and cloud models. No backend, no build, just open the HTML file and start chatting",
+    "fullDescription": "A lightweight single file AI chat UI for local and cloud models. No backend, no build, just open the HTML file and start chatting\n\nАвтор: ImMrShervin. Найдено в GitHub Trending (AI-тематика). ⭐ 9 звёзд.",
+    "url": "https://github.com/ImMrShervin/One-Chat",
+    "category": "ai-tool",
+    "tags": [
+      "9router",
+      "ai",
+      "chrom-ai",
+      "cloud-ai",
+      "deepseek",
+      "fireworks-ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1304050127",
+    "createdAt": "2026-07-17T22:13:54.726Z"
+  },
+  {
+    "slug": "relikes-open-source-library-to-be-particular-about-reactions-to-text-hn",
+    "title": "Re:Likes – open-source library to be particular about reactions to text",
+    "shortDescription": "Hi HN, For a long time I have been perplexed, why is that when we interact with text content like articles or blog posts on social media, w…",
+    "fullDescription": "Hi HN, For a long time I have been perplexed, why is that when we interact with text content like articles or blog posts on social media, we are expected to react to them in their entirety – either like the whole post, or dislike the whole post; agree with the whole post or disagree with the whole post. A post may contain multiple ideas we agree or disagree with independently, yet we are forced to generalize. What our interaction could be like, if reactions could be attached only to particular selected parts of the text instead? Using classic reactions like buttons or emojis all over the text seemed like a dead end idea as even imagining it can make one&#x27;s eyes hurt. But there&#x27;s a traditional and universally understood way of text selection – marker-style highlighting. What if we simply convert such selection into a reaction? Not only highlighted parts can represent individual reactions, they also can be naturally aggregated into heatmaps, so besides expressing their own attitude, users are able to satisfy social curiosity – see what other people like or dislike. This idea gave birth to Re:Likes: https:&#x2F;&#x2F;github.com&#x2F;reinventinglikes&#x2F;relikes Live demo (scroll a bit down to the playground area): https:&#x2F;&#x2F;relikes.com&#x2F;#demo Additionally, created as the base of this project but found deserving to live as a standalone text selection library – Clean Selection: https:&#x2F;&#x2F;github.com&#x2F;cleanselection&#x2F;cleanselection To make the Re:Likes project usable on touch devices, I wanted to find a solution for text selection to be more user-friendly and visually attractive. When we interact with the text type of web page content on a mobile device, all we typically can do with touch swipes is scrolling up or down. Some interactive elements of the page may want the horizontal swipe, but not the post&#x2F;article area in most cases. When we read a text, horizontal touch swipes are just there, doing nothing at all, lonely and forgotten, begging to be used... So why not make them the standard way to select the text? What if, like an airbrush tool in a graphics editor, horizontal swipes could draw pretty soft clouds and select the text inside them? Thats what Clean Selection does. Demo: https:&#x2F;&#x2F;cleanselection.com Particular use case examples: Imitation of a forum interaction, selecting text to quote in response – https:&#x2F;&#x2F;cleanselection.com&#x2F;forum&#x2F; Selection of multiple fragments from a long text – https:&#x2F;&#x2F;cleanselection.com&#x2F;multi&#x2F; Appreciate your feedback about these, especially with the touch device experience~\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://relikes.com/#demo",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48952556",
+    "createdAt": "2026-07-17T22:13:54.717Z"
+  },
+  {
+    "slug": "the-port-index-3804-seaports-and-9640-airports-scored-hn",
+    "title": "The Port Index – 3,804 seaports and 9,640 airports, scored",
+    "shortDescription": "Проект «The Port Index – 3,804 seaports and 9,640 airports, scored», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «The Port Index – 3,804 seaports and 9,640 airports, scored», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.theportindex.online",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48952508",
+    "createdAt": "2026-07-17T22:13:54.717Z"
+  },
+  {
+    "slug": "lia-a-self-hosted-multi-agent-ai-assistant-fastapi-and-langgraph-hn",
+    "title": "LIA – a self-hosted multi-agent AI assistant (FastAPI and LangGraph)",
+    "shortDescription": "Проект «LIA – a self-hosted multi-agent AI assistant (FastAPI and LangGraph)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «LIA – a self-hosted multi-agent AI assistant (FastAPI and LangGraph)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/jgouviergmail/LIA-Assistant",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48952432",
+    "createdAt": "2026-07-17T22:13:54.717Z"
+  },
+  {
     "slug": "argument-duello-game-with-your-friend-ai-judge-decides-whos-right-hn",
     "title": "Argument duello game with your friend – AI judge decides who's right",
     "shortDescription": "Проект «Argument duello game with your friend – AI judge decides who's right», опубликован сообществом Hacker News.",
