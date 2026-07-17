@@ -1,5 +1,92 @@
 [
   {
+    "slug": "opennous-github",
+    "title": "opennous",
+    "shortDescription": "The context graph for agentic GTM teams. Unify the data scattered across your GTM tools into one identity-resolved account any agent reads…",
+    "fullDescription": "The context graph for agentic GTM teams. Unify the data scattered across your GTM tools into one identity-resolved account any agent reads in a single call.\n\nАвтор: NousC. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://opennous.cloud",
+    "category": "ai-tool",
+    "tags": [
+      "agentic-gtm",
+      "ai",
+      "ai-agents",
+      "context-graph",
+      "crm",
+      "go-to-market",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1302563583",
+    "createdAt": "2026-07-17T00:59:40.198Z"
+  },
+  {
+    "slug": "econ-auto-research-github",
+    "title": "econ-auto-research",
+    "shortDescription": "Vision: an economist-directed AI system that takes an economics research question from idea to working paper — identification judgment, adv…",
+    "fullDescription": "Vision: an economist-directed AI system that takes an economics research question from idea to working paper — identification judgment, adversarial self-refereeing, and total number provenance. Star if you want this to exist; open an issue with the feature you'd want first.\n\nАвтор: hanlulong. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://openecon.ai",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "ai-scientist",
+      "autonomous-research",
+      "causal-inference",
+      "econometrics",
+      "economics",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1302242606",
+    "createdAt": "2026-07-17T00:59:40.198Z"
+  },
+  {
+    "slug": "ai-github",
+    "title": "AI",
+    "shortDescription": "Reusable AI-assisted QA workflow: agent skill, artifact templates, risk patterns, and safe examples.",
+    "fullDescription": "Reusable AI-assisted QA workflow: agent skill, artifact templates, risk patterns, and safe examples.\n\nАвтор: ManMaxMotivation. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/ManMaxMotivation/AI",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "codex",
+      "developer-tools",
+      "qa",
+      "testing",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1302845803",
+    "createdAt": "2026-07-17T00:59:40.198Z"
+  },
+  {
+    "slug": "easy-resume-review-github",
+    "title": "easy-resume-review",
+    "shortDescription": "Easy Resume Review: self-hosted AI resume screening with Web accounts, local OCR, seven-dimension scoring, and two-pass review.",
+    "fullDescription": "Easy Resume Review: self-hosted AI resume screening with Web accounts, local OCR, seven-dimension scoring, and two-pass review.\n\nАвтор: redmaplewww. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/redmaplewww/easy-resume-review",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "fastapi",
+      "llm",
+      "ocr",
+      "recruiting",
+      "resume",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1301687897",
+    "createdAt": "2026-07-17T00:59:40.198Z"
+  },
+  {
     "slug": "deadly-dispatch-a-physics-puzzle-game-13-years-in-the-making-hn",
     "title": "Deadly Dispatch – A physics puzzle game 13 years in the making",
     "shortDescription": "Thirteen years ago, I had an idea: build a bomb from different stages and materials, call in an airdrop over a zombie-infested city, and le…",
