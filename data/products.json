@@ -1,5 +1,37 @@
 [
   {
+    "slug": "flutter-agent-kit-build-production-grade-flutter-code-using-ai-agents-hn",
+    "title": "Flutter Agent Kit – Build production grade Flutter code using AI agents",
+    "shortDescription": "Проект «Flutter Agent Kit – Build production grade Flutter code using AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Flutter Agent Kit – Build production grade Flutter code using AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://flutteragentkit.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48946682",
+    "createdAt": "2026-07-17T12:42:32.548Z"
+  },
+  {
+    "slug": "tiny-and-csp-safe-expression-language-for-javascript-hn",
+    "title": "Tiny and CSP-safe expression language for JavaScript",
+    "shortDescription": "For a feature on project I was working on, I needed a simple way to have some business logic like &quot;expressions&quot; evaluated at runt…",
+    "fullDescription": "For a feature on project I was working on, I needed a simple way to have some business logic like &quot;expressions&quot; evaluated at runtime. I only found a handfull packages either very old (e.g. expr-eval) or very Math oriented (e.g. Mathjs). I wanted a way to have a very simple core &quot;compile then evaluate&quot; package that I could easily extend with custom functions needed for the project (so in theory I could support a full Math suite). The result is this tiny `xprsn` package, and is somewhere around 1.2kb gzipped, extracted from the closed-source project. See https:&#x2F;&#x2F;github.com&#x2F;robinvdvleuten&#x2F;xprsn . Not gonna lie here, as it is mostly Fable5 effort (you probably will notice by the terse, not very human-readable precedence climbing parser. But the point was to get a tiny working package, not some heavy brain exercise of myself :) Despite some anti AI-slop people on HN, I wanted to share it here as I still think it would be useful to others.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/robinvdvleuten/xprsn",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48945983",
+    "createdAt": "2026-07-17T12:42:32.548Z"
+  },
+  {
     "slug": "trading-bot-github",
     "title": "Trading-Bot",
     "shortDescription": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
