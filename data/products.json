@@ -1,5 +1,37 @@
 [
   {
+    "slug": "da-ultimate-rap-battle-564-dope-ass-rap-songs-ranked-hn",
+    "title": "Da Ultimate Rap Battle: 564 dope-ass rap songs, ranked",
+    "shortDescription": "Hey HN, this is a world cup-style tournament for over 500 rap songs I&#x27;ve saved in my liked songs in Spotify over the years. It was rea…",
+    "fullDescription": "Hey HN, this is a world cup-style tournament for over 500 rap songs I&#x27;ve saved in my liked songs in Spotify over the years. It was really fun to work on! Lots of good stuff from NWA, Jadakiss, Lil Wayne, Jay-Z, Big Pun, Eminem, Nas, and more. Tournaments are a good way to separate the wheat from the chaff in any high-dimensional space like music, and it&#x27;s really fun to have no idea which track&#x27;s actually gonna take the top spot until it&#x27;s all over. As a mostly-backend&#x2F;data developer for the past decade, it was my first real foray into pixel-perfect frontend and was completed last year before the AIs conquered the territory. Flexbox is fairly intuitive and frontend is quite satisfying! Structure was a series of 4-track group rounds (top 2 advance) followed by a 128-track head-to-head bracket. Knockout round: 564 -&gt; 512 tracks Squad Round 1: 512 -&gt; 256 tracks Squad Round 2: 256 -&gt; 128 tracks Bracket Round: 128 tracks -&gt; 1 winner Clicking on any track tees up a preview in the embedded Spotify mini-player.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://ryantuck.io/rap/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48949537",
+    "createdAt": "2026-07-17T17:37:15.464Z"
+  },
+  {
+    "slug": "i-built-craftvis-an-ai-image-editor-hn",
+    "title": "I built CraftVis, an AI image editor",
+    "shortDescription": "Проект «I built CraftVis, an AI image editor», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built CraftVis, an AI image editor», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://craftvis.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48949140",
+    "createdAt": "2026-07-17T17:37:15.464Z"
+  },
+  {
     "slug": "slidum-a-player-for-the-html-presentations-ai-writes-hn",
     "title": "Slidum – A player for the HTML presentations AI writes",
     "shortDescription": "Проект «Slidum – A player for the HTML presentations AI writes», опубликован сообществом Hacker News.",
