@@ -1,5 +1,91 @@
 [
   {
+    "slug": "awesome-eve-agents-github",
+    "title": "awesome-eve-agents",
+    "shortDescription": "Awesome AI agents based on Eve",
+    "fullDescription": "Awesome AI agents based on Eve\n\nАвтор: bergside. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://www.eveagents.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "eve",
+      "mit",
+      "open-source",
+      "vercel",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1302615481",
+    "createdAt": "2026-07-17T19:03:34.858Z"
+  },
+  {
+    "slug": "an-ai-agent-that-creates-text-posts-and-image-ads-for-your-business-hn",
+    "title": "An AI agent that creates text posts and image ads for your business",
+    "shortDescription": "Проект «An AI agent that creates text posts and image ads for your business», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An AI agent that creates text posts and image ads for your business», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://feralhq.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48950609",
+    "createdAt": "2026-07-17T19:03:34.624Z"
+  },
+  {
+    "slug": "ai-crypto-investigationsresearch-agents-hn",
+    "title": "AI Crypto Investigations/Research Agents",
+    "shortDescription": "Проект «AI Crypto Investigations/Research Agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Crypto Investigations/Research Agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://chat.blockscope.co/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48950339",
+    "createdAt": "2026-07-17T19:03:34.624Z"
+  },
+  {
+    "slug": "the-ai-lethal-trifecta-hn",
+    "title": "The AI Lethal Trifecta",
+    "shortDescription": "If you&#x27;re building agents, this is worth knowing. Simon Willison (who coined the term &quot;prompt injection&quot;) describes three ca…",
+    "fullDescription": "If you&#x27;re building agents, this is worth knowing. Simon Willison (who coined the term &quot;prompt injection&quot;) describes three capabilities that are individually fine but devastating together, the lethal trifecta includes: 1. Access to private data (such as internal databases, emails, etc.) 2. Exposure to untrusted content (like web pages and external text) 3. The ability to exfiltrate data (a tool or a channel of sorts that reaches the outside world) Combine all three in one agent and you&#x27;ve got a perfect storm: untrusted content can hijack the agent into reading private data and then persuade the agent to send it out. To teach the lethal trifecta, I built a Gandalf-style puzzle: 10 levels, each a real injection concept, with the full trifecta as the final level. It&#x27;s free, there&#x27;s no sign up and initially it&#x27;s beginner-friendly. See if you can chain all three together and complete the trifecta!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.getjailbroken.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48950221",
+    "createdAt": "2026-07-17T19:03:34.624Z"
+  },
+  {
+    "slug": "lific-an-issue-tracker-that-works-as-memory-for-coding-agents-rust-hn",
+    "title": "Lific, an issue tracker that works as memory for coding agents (Rust)",
+    "shortDescription": "I built Lific because I direct AI coding agents on largish projects and needed somewhere for project state to live that isn&#x27;t markdown…",
+    "fullDescription": "I built Lific because I direct AI coding agents on largish projects and needed somewhere for project state to live that isn&#x27;t markdown files in the repo. When I was begging to work on long horizon ideas, I started on Linear, but my agent files issues faster than a human does, and I hit their limits and pricing wall almost immediately. Then I self-hosted a popular open source tracker which meant running its 13 containers, and its MCP integration was 30k tokens and I got so fed up that I eventually removed it and went back to .md files for a few weeks. Lific is the opposite shape of most of your self hosted server issue trackers: It&#x27;s a single Rust binary that uses SQLite, and it has an optimized MCP server built in. Web UI is also included integrated directly into the binary. The simplicity is meant to only apply to the size and the ease of installation. The web UI is fully fleshed out with all of the UX you would expect from an issue tracker like linear. Since I started using lific, my agent flow is that I open the web UI, find a few issues I want to work on, then tell the agent &quot;work on LIF-298, 299 and 301, and if you find bugs, file them as new issues.&quot; At the end of the day the project has tracked itself. Issues have statuses, blockers, and comment threads, so &quot;what&#x27;s workable right now&quot; is a query instead of the agent guessing. Plans are persisted step trees, so a session tomorrow resumes with the same understanding of the goal and the path as the session that made the plan. My largest project has 300+ issues and 100+ docs and agents search it fast. Everything exports to markdown in one click, and the database is just a file on your machine. Setup is ` cargo install ` ` lific init ` ` lific connect ` then pick your harness (OpenCode, Cursor, Claude Code, etc). One honest caveat: on Windows there&#x27;s no service install yet, so the binary has to be actively running for MCP or Web UI to work on windows. The biggest reason I think Lific is different than a lot of the other options is the lightweight nature of it alongside still having a fully featured web UI. It&#x27;s meant for self hosters to work on big projects with agents, without sacrificing the other benefits of an issue tracker like a nice management UI or authentication for teams using it. Would genuinely love feedback and bug reports either here or on the discord!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://lific.dev",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48950192",
+    "createdAt": "2026-07-17T19:03:34.624Z"
+  },
+  {
     "slug": "da-ultimate-rap-battle-564-dope-ass-rap-songs-ranked-hn",
     "title": "Da Ultimate Rap Battle: 564 dope-ass rap songs, ranked",
     "shortDescription": "Hey HN, this is a world cup-style tournament for over 500 rap songs I&#x27;ve saved in my liked songs in Spotify over the years. It was rea…",
