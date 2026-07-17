@@ -1,5 +1,27 @@
 [
   {
+    "slug": "local-ai-agent-github",
+    "title": "local-ai-agent",
+    "shortDescription": "A fully-local AI agent for your terminal — persistent memory, PC control behind a safety gate, and live web search. Runs entirely on your o…",
+    "fullDescription": "A fully-local AI agent for your terminal — persistent memory, PC control behind a safety gate, and live web search. Runs entirely on your own Ollama, no cloud.\n\nАвтор: ilvy23. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/ilvy23/local-ai-agent",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "cli",
+      "llm",
+      "local-first",
+      "ollama",
+      "privacy",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1301590673",
+    "createdAt": "2026-07-17T09:07:04.788Z"
+  },
+  {
     "slug": "pocket-voice-tts-and-voice-clone-in-the-browser-hn",
     "title": "Pocket Voice: TTS and Voice clone in the browser",
     "shortDescription": "Проект «Pocket Voice: TTS and Voice clone in the browser», опубликован сообществом Hacker News.",
