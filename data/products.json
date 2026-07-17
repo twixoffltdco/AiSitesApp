@@ -1,5 +1,59 @@
 [
   {
+    "slug": "trading-bot-github",
+    "title": "Trading-Bot",
+    "shortDescription": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+    "fullDescription": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.\n\nАвтор: MIgHTy-alIeN. Найдено в GitHub Trending (AI-тематика). ⭐ 89 звёзд.",
+    "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "aitradingbot",
+      "bot",
+      "btc",
+      "claude",
+      "eth",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1303829880",
+    "createdAt": "2026-07-17T11:05:07.449Z"
+  },
+  {
+    "slug": "customizable-sap-mcp-server-hn",
+    "title": "Customizable SAP MCP Server",
+    "shortDescription": "Hi, I&#x27;m Stefan, cofounder of superglue. People use superglue to connect their agents to all kinds of legacy systems. Now, we have rele…",
+    "fullDescription": "Hi, I&#x27;m Stefan, cofounder of superglue. People use superglue to connect their agents to all kinds of legacy systems. Now, we have released our own prebuilt mcp server for SAP and will launch other systems over the next few days. What makes this different from the 100 other SAP MCP servers? Mainly that you can use our agent to customize it via chat and deploy with one click. FAQ: Can I add another tool to query a specific database? Yes. Can I enrich the query with your custom CRM? Yes. Can I share with your colleagues and let them add their own credentials? Yes. Is this used in enterprises today? Yes. Would love your feedback on this and any notes &#x2F; improvements.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://superglue.ai/mcp/sap/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48945715",
+    "createdAt": "2026-07-17T11:05:07.238Z"
+  },
+  {
+    "slug": "senbonzakura-remove-the-safety-guardrails-from-open-ai-models-hn",
+    "title": "Senbonzakura – remove the safety guardrails from open AI models",
+    "shortDescription": "Проект «Senbonzakura – remove the safety guardrails from open AI models», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Senbonzakura – remove the safety guardrails from open AI models», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/elementmerc/senbonzakura",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48945412",
+    "createdAt": "2026-07-17T11:05:07.238Z"
+  },
+  {
     "slug": "local-ai-agent-github",
     "title": "local-ai-agent",
     "shortDescription": "A fully-local AI agent for your terminal — persistent memory, PC control behind a safety gate, and live web search. Runs entirely on your o…",
