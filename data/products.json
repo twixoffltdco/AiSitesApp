@@ -1,5 +1,69 @@
 [
   {
+    "slug": "pocketveto-is-a-bluetooth-only-ai-agent-remote-control-hn",
+    "title": "PocketVeto is a Bluetooth-only AI agent remote control",
+    "shortDescription": "I kept seeing those ESP32 toys where you plug it to your PC &#x2F; Linux and have a touch screen change when Claude Code &#x2F; Cursor &#x2…",
+    "fullDescription": "I kept seeing those ESP32 toys where you plug it to your PC &#x2F; Linux and have a touch screen change when Claude Code &#x2F; Cursor &#x2F; Codex is asking for some permission, but I didn&#x27;t want to go that far. I also missed a way to remote control the agent chat when away from the computer. I glanced at my mobile and then it hit me: why not bluetooth? BT got a decent reach, doesn&#x27;t depend on WiFi (specially with AP isolation), never exposed to the internet (looking at you TailScale). So here&#x27;s my first attempt. There are some rough edges on Linux, non-working on OSX, but we&#x27;ll get there.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/pocket-veto/pocket-veto",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48942922",
+    "createdAt": "2026-07-17T04:14:49.793Z"
+  },
+  {
+    "slug": "human0-a-template-to-run-an-autonomous-self-improving-code-loop-hn",
+    "title": "Human0 – A template to run an autonomous, self-improving code loop",
+    "shortDescription": "Проект «Human0 – A template to run an autonomous, self-improving code loop», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Human0 – A template to run an autonomous, self-improving code loop», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/human0-ai/template",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48942892",
+    "createdAt": "2026-07-17T04:14:49.793Z"
+  },
+  {
+    "slug": "kv-cache-grafting-boosting-frozen-12b-llms-to-933-aime-accuracy-hn",
+    "title": "KV-Cache Grafting – Boosting frozen 12B LLMs to 93.3% AIME accuracy",
+    "shortDescription": "Проект «KV-Cache Grafting – Boosting frozen 12B LLMs to 93.3% AIME accuracy», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «KV-Cache Grafting – Boosting frozen 12B LLMs to 93.3% AIME accuracy», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://arxiv.org/abs/2607.14431",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48942804",
+    "createdAt": "2026-07-17T04:14:49.794Z"
+  },
+  {
+    "slug": "git-temp-repo-scratchpad-for-ai-agents-that-wont-clutter-git-status-hn",
+    "title": "Git-temp (repo scratchpad for AI agents that won't clutter Git status)",
+    "shortDescription": "Проект «Git-temp (repo scratchpad for AI agents that won't clutter Git status)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Git-temp (repo scratchpad for AI agents that won't clutter Git status)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/sebmellen/git-temp",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48942224",
+    "createdAt": "2026-07-17T04:14:49.794Z"
+  },
+  {
     "slug": "opennous-github",
     "title": "opennous",
     "shortDescription": "The context graph for agentic GTM teams. Unify the data scattered across your GTM tools into one identity-resolved account any agent reads…",
