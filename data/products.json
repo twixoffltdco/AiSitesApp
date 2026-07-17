@@ -1,5 +1,21 @@
 [
   {
+    "slug": "slidum-a-player-for-the-html-presentations-ai-writes-hn",
+    "title": "Slidum – A player for the HTML presentations AI writes",
+    "shortDescription": "Проект «Slidum – A player for the HTML presentations AI writes», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Slidum – A player for the HTML presentations AI writes», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://slidum.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48948209",
+    "createdAt": "2026-07-17T16:13:22.029Z"
+  },
+  {
     "slug": "klaatcode-github",
     "title": "klaatcode",
     "shortDescription": "Open-source AI coding agent for the terminal. Claude Code-grade accuracy with smart model routing — uses the right AI model for each task,…",
