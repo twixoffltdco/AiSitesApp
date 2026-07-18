@@ -1,5 +1,59 @@
 [
   {
+    "slug": "collective-intelligence-github",
+    "title": "collective-intelligence",
+    "shortDescription": "Ailin¹ is a open-source collective Intelligence where tens of thousands of AI models collaborate through dozens of coordination strategies,…",
+    "fullDescription": "Ailin¹ is a open-source collective Intelligence where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve reliability, auditability, and resilience.\n\nАвтор: ailinone. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://ailin.one",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "collective",
+      "collective-intelligence",
+      "gateway",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1304685160",
+    "createdAt": "2026-07-18T14:53:02.033Z"
+  },
+  {
+    "slug": "slopsift-a-local-graph-backed-linter-for-ai-writing-hn",
+    "title": "Slopsift – a local, graph-backed linter for AI writing",
+    "shortDescription": "SlopSift uses NLP-backed lint rules. It goes beyond word lists and part-of-speech tags by matching relationships in a dependency graph. Tho…",
+    "fullDescription": "SlopSift uses NLP-backed lint rules. It goes beyond word lists and part-of-speech tags by matching relationships in a dependency graph. Though it still includes a few word-based rules for tells like “delve” and, most recently, “load-bearing.” It’s deterministic and runs locally, in your browser or from the CLI.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://slopsift.dev/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48958256",
+    "createdAt": "2026-07-18T14:53:01.903Z"
+  },
+  {
+    "slug": "axiom-toolkit-make-your-ideas-precise-enough-to-be-proven-wrong-hn",
+    "title": "Axiom toolkit – Make your ideas precise enough to be proven wrong",
+    "shortDescription": "It&#x27;s our mission to make logic mainstream. As a first step on this journey, we&#x27;ve released a free AI toolkit for turning a belief…",
+    "fullDescription": "It&#x27;s our mission to make logic mainstream. As a first step on this journey, we&#x27;ve released a free AI toolkit for turning a belief, question, or argument into formal logic using our novel &quot;logic for discourse&quot; built on top of Lean 4. For a 5-minute intro and walkthrough, check out the video on the landing page: https:&#x2F;&#x2F;axiomreason.com&#x2F;#walk-through To try it yourself, install the toolkit (AI skills, Lean library, and Axiom CLI) here: https:&#x2F;&#x2F;axiomreason.com&#x2F;install&#x2F;toolkit It works best if you pick something you truly care about. An important belief you have, an argument for a position you hold, a question you really want answered. This process of transforming natural language into formal logic gives the AI the scaffold it needs to effectively identify gaps in your thinking, edge cases, equivocation, etc. The eventual goal is to create an active social platform where all communication is in formal logic. We&#x27;ve got a lot of work ahead to make such a thing approachable for a general audience. Since we rely on delta-irreducible natural language &quot;semantic strings&quot;, it&#x27;s more accurate to think of our logic as an English++ rather than a complete replacement for natural language. I&#x27;ll do my best to answer all of your questions!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://axiomreason.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48958223",
+    "createdAt": "2026-07-18T14:53:01.903Z"
+  },
+  {
     "slug": "awesome-openprice-github",
     "title": "awesome-OpenPrice",
     "shortDescription": "一个开源的收录全网卡网渠道各种AI订阅价格的项目。货比多家，以最低价获取 Claude、GPT、gemini 、cursor 成品号或者代充服务",
