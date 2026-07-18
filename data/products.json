@@ -1,5 +1,21 @@
 [
   {
+    "slug": "google-search-console-mcp-hn",
+    "title": "Google Search Console MCP",
+    "shortDescription": "Basically a simple MCP over GSC API access for AI to pull stats and work based on that info",
+    "fullDescription": "Basically a simple MCP over GSC API access for AI to pull stats and work based on that info\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/AkashRajpurohit/gsc-mcp",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48955509",
+    "createdAt": "2026-07-18T06:02:50.437Z"
+  },
+  {
     "slug": "gnm-studio-github",
     "title": "GNM-Studio",
     "shortDescription": "A local-first WIN desktop (portable) and web studio for creating and animating Google GNM heads with webcam motion capture.",
