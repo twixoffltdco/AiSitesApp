@@ -1,5 +1,21 @@
 [
   {
+    "slug": "graph-context-engine-for-reliable-ai-hn",
+    "title": "Graph Context Engine for Reliable AI",
+    "shortDescription": "Been working on this for the last 2 years. There is a video on the site explaining how it works. There is also a production app powered by…",
+    "fullDescription": "Been working on this for the last 2 years. There is a video on the site explaining how it works. There is also a production app powered by this engine. Give it a try, I&#x27;m happy to answer any questions.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://kritama.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48962441",
+    "createdAt": "2026-07-18T21:21:36.940Z"
+  },
+  {
     "slug": "medows-an-ai-clinical-workspace-for-doctors-on-ward-rounds-hn",
     "title": "Medows – an AI clinical workspace for doctors on ward rounds",
     "shortDescription": "Проект «Medows – an AI clinical workspace for doctors on ward rounds», опубликован сообществом Hacker News.",
