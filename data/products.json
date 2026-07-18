@@ -1,5 +1,123 @@
 [
   {
+    "slug": "awesome-openprice-github",
+    "title": "awesome-OpenPrice",
+    "shortDescription": "一个开源的收录全网卡网渠道各种AI订阅价格的项目。货比多家，以最低价获取 Claude、GPT、gemini 、cursor 成品号或者代充服务",
+    "fullDescription": "一个开源的收录全网卡网渠道各种AI订阅价格的项目。货比多家，以最低价获取 Claude、GPT、gemini 、cursor 成品号或者代充服务\n\nАвтор: bytedoger. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://openprice.cc",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-subscription",
+      "chatgpt",
+      "claude",
+      "codex",
+      "cursor",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1302409680",
+    "createdAt": "2026-07-18T13:56:34.152Z"
+  },
+  {
+    "slug": "leenar-tell-us-what-youre-building-we-deploy-your-infra-hn",
+    "title": "Leenar – Tell us what you're building, we deploy your infra",
+    "shortDescription": "Проект «Leenar – Tell us what you're building, we deploy your infra», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Leenar – Tell us what you're building, we deploy your infra», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://leenar.net/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48958052",
+    "createdAt": "2026-07-18T13:56:34.025Z"
+  },
+  {
+    "slug": "race-to-agi-a-simulation-browser-game-about-running-a-frontier-ai-lab-hn",
+    "title": "Race to AGI – a simulation browser game about running a frontier AI lab",
+    "shortDescription": "If you like to be in Altman’s or Dario’s or even Musk’s shoes for a day to run an AI frontier lab, here is your chance. You need to beat yo…",
+    "fullDescription": "If you like to be in Altman’s or Dario’s or even Musk’s shoes for a day to run an AI frontier lab, here is your chance. You need to beat your rivals to achieve AGI titan status. But there is a twist in getting to AGI - if you don’t do well with Safety, Ethics and Public confidence, you will be ending up with Dangerous AGI, which is not a good place to be in. Go through the easy mode to learn the game. I tried to be closer to realistic lines but did take my creative freedom for the gaming elements. This is a simulation game which will test your skills and make you learn about Frontier AI domain. I sourced the information for this via Podcasts, News, Blog posts and of course AI searches. I also want this to be a public awakening call for Safety on AI&#x2F;AGI. Let me know your feedbacks and how the game is, I’ll be tuning the gears and updating the game weekly. Main motivation is to bring in current breaking news and AI news in to the game within the following weeks. All your suggestions are welcome. Hope you all enjoy the game! https:&#x2F;&#x2F;rtagi.online\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://rtagi.online",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48957993",
+    "createdAt": "2026-07-18T13:56:34.026Z"
+  },
+  {
+    "slug": "i-built-a-browser-workbench-for-generating-and-comparing-ai-music-hn",
+    "title": "I built a browser workbench for generating and comparing AI music",
+    "shortDescription": "Проект «I built a browser workbench for generating and comparing AI music», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built a browser workbench for generating and comparing AI music», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://imaginevid.io/ai-music-generator",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48957939",
+    "createdAt": "2026-07-18T13:56:34.026Z"
+  },
+  {
+    "slug": "turn-a-suno-song-into-a-music-video-with-beat-synced-auto-editing-hn",
+    "title": "Turn a Suno song into a music video with beat-synced auto-editing",
+    "shortDescription": "I make songs with Suno, but turning them into videos used to take me days of editing, so I built a tool to automate the whole process. You…",
+    "fullDescription": "I make songs with Suno, but turning them into videos used to take me days of editing, so I built a tool to automate the whole process. You just paste a Suno or FlowMusic link—or upload your own audio—and add a photo of the singer. The tool analyzes the song’s beat and structure, plans out the shots, generates the visuals, turns them into video clips, and lip-syncs the singing scenes. It then cuts everything into short 1–3 second shots that match the beat. Editing was definitely the hardest part. A 10-second AI-generated clip is rarely usable from start to finish, so the tool picks out the best moments, slices them up, and reuses them throughout the video. It currently takes a few minutes to make a video, the maximum resolution is 720p, and crowd scenes can still look a little strange. The free credits are enough to make one full video, and you don’t need a credit card. I’d really appreciate feedback on the editing—that’s the part I’m still least confident about.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aivideogenerator.so/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48957875",
+    "createdAt": "2026-07-18T13:56:34.026Z"
+  },
+  {
+    "slug": "traicer-capture-your-ai-coding-traces-to-sell-later-hn",
+    "title": "TrAIcer – capture your AI coding traces to sell later",
+    "shortDescription": "Проект «TrAIcer – capture your AI coding traces to sell later», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «TrAIcer – capture your AI coding traces to sell later», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/smashah/traicer",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48957581",
+    "createdAt": "2026-07-18T13:56:34.026Z"
+  },
+  {
+    "slug": "pixelup-a-100-offline-lightweight-ai-video-upscaler-for-windows-hn",
+    "title": "PixelUp – A 100% offline, lightweight AI video upscaler for Windows",
+    "shortDescription": "Проект «PixelUp – A 100% offline, lightweight AI video upscaler for Windows», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «PixelUp – A 100% offline, lightweight AI video upscaler for Windows», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://steelsoft.site/software/PixelUp_home.html",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48957476",
+    "createdAt": "2026-07-18T13:56:34.026Z"
+  },
+  {
     "slug": "open-source-skills-that-make-any-ai-agent-write-native-social-posts-hn",
     "title": "Open-source skills that make any AI agent write native social posts",
     "shortDescription": "Проект «Open-source skills that make any AI agent write native social posts», опубликован сообществом Hacker News.",
