@@ -1,5 +1,27 @@
 [
   {
+    "slug": "ai-agent-architecture-github",
+    "title": "ai-agent-architecture",
+    "shortDescription": "Build LLM systems you actually control. A free, open engineering book + course — from tokenization to serving your own models. Mechanisms,…",
+    "fullDescription": "Build LLM systems you actually control. A free, open engineering book + course — from tokenization to serving your own models. Mechanisms, trade-offs, and numbers, not prompt tips\n\nАвтор: Drobiazkin. Найдено в GitHub Trending (AI-тематика). ⭐ 10 звёзд.",
+    "url": "https://github.com/Drobiazkin/ai-agent-architecture",
+    "category": "ai-tool",
+    "tags": [
+      "a2a-protocol",
+      "ai",
+      "ai-agents",
+      "context-engineering",
+      "distributed-systems",
+      "harness-engineering",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1304260727",
+    "createdAt": "2026-07-18T17:55:05.182Z"
+  },
+  {
     "slug": "talon-a-self-hosted-harness-for-long-lived-ai-agents-hn",
     "title": "Talon – a self-hosted harness for long-lived AI agents",
     "shortDescription": "Проект «Talon – a self-hosted harness for long-lived AI agents», опубликован сообществом Hacker News.",
