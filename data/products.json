@@ -1,5 +1,37 @@
 [
   {
+    "slug": "talon-a-self-hosted-harness-for-long-lived-ai-agents-hn",
+    "title": "Talon – a self-hosted harness for long-lived AI agents",
+    "shortDescription": "Проект «Talon – a self-hosted harness for long-lived AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Talon – a self-hosted harness for long-lived AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/dylanneve1/talon",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48959516",
+    "createdAt": "2026-07-18T16:55:14.276Z"
+  },
+  {
+    "slug": "opencareloop-solve-your-familys-health-one-loop-at-a-time-hn",
+    "title": "OpenCareLoop - Solve your family's health, one loop at a time.",
+    "shortDescription": "Hi HN - Like everyone, I have been using LLMs for managing my family&#x27;s health and especially in understanding more in depth about the…",
+    "fullDescription": "Hi HN - Like everyone, I have been using LLMs for managing my family&#x27;s health and especially in understanding more in depth about the personal health issue for me and my loved ones. I ended up creating an agent to manage the long term history of each member. I use it to manage or solve medical issues. I use it multiple times a week for anything related to health. The alpha version can be downloaded here - https:&#x2F;&#x2F;karankurani.github.io&#x2F;OpenCareLoop&#x2F; It differs from the regular ChatGPT &#x2F; Claude projects in that there are proper workflows to process and add structure your healthcare data. It has a &quot;loop&quot; that allows you to make changes in your lifestyle&#x2F;medication&#x2F;habits and track it. It is way more effective over a period of time compared to using general AI chat. Some of the stuff that it has helped with so far in no particular order - solve a long running chronic pain of a parent, manage pain levels of another parent, change decisions related to IVF that reduced the number of scans needed, get second opinion, understanding the healthcare decisions being made by doctors and so on. It is a constant health companion, and I have a feeling it will be useful to everyone. Restating the obvious here - This is AI and all outputs should be crosschecked and risky changes should always be validated by doctor before doing it.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://karankurani.github.io/OpenCareLoop/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48959447",
+    "createdAt": "2026-07-18T16:55:14.276Z"
+  },
+  {
     "slug": "primetask-an-offline-first-work-os-with-byo-ai-through-mcp-hn",
     "title": "PrimeTask, an offline-first work OS with BYO AI through MCP",
     "shortDescription": "Проект «PrimeTask, an offline-first work OS with BYO AI through MCP», опубликован сообществом Hacker News.",
