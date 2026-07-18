@@ -1,5 +1,21 @@
 [
   {
+    "slug": "ilya-sutskevers-ai-reading-list-into-a-learning-rpg-using-kimi-k3-hn",
+    "title": "Ilya Sutskever's AI reading list into a learning RPG – using kimi k3",
+    "shortDescription": "I wanted to take kimi k3 for a spin. It turned my simple one sentence prompt to this. Repo here. https:&#x2F;&#x2F;github.com&#x2F;praveer1…",
+    "fullDescription": "I wanted to take kimi k3 for a spin. It turned my simple one sentence prompt to this. Repo here. https:&#x2F;&#x2F;github.com&#x2F;praveer13&#x2F;ilya-papers-quest Well, I&#x27;m mindblown. Very humbling for me as a software engineer. Took couple hours for it to build this completely autonomously. And it was all from its mobile app. It couldn&#x27;t render this though from within the app - it does have a feature to preview any website and publish it on kimi&#x27;s domain - but it didn&#x27;t work for this. I had to put it on github pages. It doesn&#x27;t store anything btw - all progress is tracked in your browser storage.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://ilya-papers-quest.naigap.com/#/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48963286",
+    "createdAt": "2026-07-18T23:25:21.135Z"
+  },
+  {
     "slug": "graph-context-engine-for-reliable-ai-hn",
     "title": "Graph Context Engine for Reliable AI",
     "shortDescription": "Been working on this for the last 2 years. There is a video on the site explaining how it works. There is also a production app powered by…",
