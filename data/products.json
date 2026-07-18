@@ -1,5 +1,37 @@
 [
   {
+    "slug": "open-source-skills-that-make-any-ai-agent-write-native-social-posts-hn",
+    "title": "Open-source skills that make any AI agent write native social posts",
+    "shortDescription": "Проект «Open-source skills that make any AI agent write native social posts», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Open-source skills that make any AI agent write native social posts», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/inklate/social-skills",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48957301",
+    "createdAt": "2026-07-18T12:11:26.258Z"
+  },
+  {
+    "slug": "we-built-fractional-gpu-slicing-without-nvidia-mig-works-on-amd-too-hn",
+    "title": "We built fractional GPU slicing without Nvidia MiG – works on AMD too",
+    "shortDescription": "Проект «We built fractional GPU slicing without Nvidia MiG – works on AMD too», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «We built fractional GPU slicing without Nvidia MiG – works on AMD too», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://podstack.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48957090",
+    "createdAt": "2026-07-18T12:11:26.258Z"
+  },
+  {
     "slug": "devtools-ai-github",
     "title": "DevTools-AI",
     "shortDescription": "An AI-powered developer toolkit featuring code analysis, README generation, SQL and Regex generators, commit message creation, JSON to Type…",
