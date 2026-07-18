@@ -1,5 +1,75 @@
 [
   {
+    "slug": "devtools-ai-github",
+    "title": "DevTools-AI",
+    "shortDescription": "An AI-powered developer toolkit featuring code analysis, README generation, SQL and Regex generators, commit message creation, JSON to Type…",
+    "fullDescription": "An AI-powered developer toolkit featuring code analysis, README generation, SQL and Regex generators, commit message creation, JSON to TypeScript conversion, and more.\n\nАвтор: HIMURAw. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://dev-tools-ai-gilt.vercel.app",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "code-analysis",
+      "developer-tools",
+      "llm",
+      "nextjs",
+      "openrouter",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1302593815",
+    "createdAt": "2026-07-18T09:55:15.734Z"
+  },
+  {
+    "slug": "go-micro-an-agent-harness-and-service-framework-in-go-hn",
+    "title": "Go Micro – An agent harness and service framework in Go",
+    "shortDescription": "Hi all, I wanted to reshare this after some time. I&#x27;ve been working on evolving my service framework into an agent harness. As all of…",
+    "fullDescription": "Hi all, I wanted to reshare this after some time. I&#x27;ve been working on evolving my service framework into an agent harness. As all of this AI tooling has evolved its become clear to me that agents, services and workflows are part of a core system of operations which would benefit from a single framework. Previously Go Micro only enabled service development. But now it includes Agents and Workflows. What does that mean? Well firstly services which are registered in a central registry automatically become tools for agents. The service endpoints individually become callable tools via MCP. Agents themselves are built on the same service primitive, they register themselves, they run like a service, the only difference is an orchestration loop and prompt with a fixed endpoint to call them. Then come workflows, which are effectively an event driven way to prompt agents or initiate flows. None of this is new. In distributed systems we had a lot of this. And tools like Dapr.io have evolved to speak to that narrative. Obviously we have other emergent frameworks, but I felt with my experience in services and Go, this would be a good direction to evolve. Thankfully because of the existing foundation of the project I received grants from Anthropic, OpenAI and Atlas Cloud to make this development much easier. Really interested to get some feedback so I can make this work!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/micro/go-micro",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48956574",
+    "createdAt": "2026-07-18T09:55:15.611Z"
+  },
+  {
+    "slug": "workaround-unstar-github-repos-in-bulk-hn",
+    "title": "Workaround – Unstar GitHub Repos in Bulk",
+    "shortDescription": "Github currently doesn’t let you unstar repositories in bulk. To resolve that let me introduce Workaround : a web app where users can not o…",
+    "fullDescription": "Github currently doesn’t let you unstar repositories in bulk. To resolve that let me introduce Workaround : a web app where users can not only unstar GitHub repos in bulk but also use AI filters and discover and star repos with AI. https:&#x2F;&#x2F;github.com&#x2F;Ayush0054&#x2F;workaround\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://workaround.run/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48956548",
+    "createdAt": "2026-07-18T09:55:15.611Z"
+  },
+  {
+    "slug": "fosnie-open-source-self-hosted-ai-workspace-for-regulated-teams-hn",
+    "title": "Fosnie – open-source self-hosted AI workspace for regulated teams",
+    "shortDescription": "Проект «Fosnie – open-source self-hosted AI workspace for regulated teams», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Fosnie – open-source self-hosted AI workspace for regulated teams», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://fosnie.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48956175",
+    "createdAt": "2026-07-18T09:55:15.611Z"
+  },
+  {
     "slug": "google-search-console-mcp-hn",
     "title": "Google Search Console MCP",
     "shortDescription": "Basically a simple MCP over GSC API access for AI to pull stats and work based on that info",
