@@ -1,5 +1,49 @@
 [
   {
+    "slug": "gnm-studio-github",
+    "title": "GNM-Studio",
+    "shortDescription": "A local-first WIN desktop (portable) and web studio for creating and animating Google GNM heads with webcam motion capture.",
+    "fullDescription": "A local-first WIN desktop (portable) and web studio for creating and animating Google GNM heads with webcam motion capture.\n\nАвтор: Saganaki22. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "http://drbaph.is-a.dev/GNM-Studio/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "gnm",
+      "mediabunny",
+      "mediapipe",
+      "mediapipe-face",
+      "mediapipe-face-detection",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1303207414",
+    "createdAt": "2026-07-18T00:54:21.978Z"
+  },
+  {
+    "slug": "ai-workflows-github",
+    "title": "AI-Workflows",
+    "shortDescription": "Visual AI workflow components for Delphi. Chain Replicate models in the LiveBindings Designer with zero code or code-first at one line per…",
+    "fullDescription": "Visual AI workflow components for Delphi. Chain Replicate models in the LiveBindings Designer with zero code or code-first at one line per wire.\n\nАвтор: FMXExpress. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://www.fmxexpress.com/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-workflows",
+      "delphi",
+      "firemonkey",
+      "livebindings",
+      "object-pascal",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1302844962",
+    "createdAt": "2026-07-18T00:54:21.978Z"
+  },
+  {
     "slug": "one-chat-github",
     "title": "One-Chat",
     "shortDescription": "A lightweight single file AI chat UI for local and cloud models. No backend, no build, just open the HTML file and start chatting",

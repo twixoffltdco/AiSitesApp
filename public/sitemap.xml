@@ -6,6 +6,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://aisitesapp.tatnet.app/products/gnm-studio-github</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aisitesapp.tatnet.app/products/ai-workflows-github</loc>
+    <lastmod>2026-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://aisitesapp.tatnet.app/products/one-chat-github</loc>
     <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
