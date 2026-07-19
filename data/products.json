@@ -1,5 +1,81 @@
 [
   {
+    "slug": "ai-provenance-corpus-github",
+    "title": "ai-provenance-corpus",
+    "shortDescription": "A machine-readable corpus of provenance events describing how AI-assisted artifacts are retrieved, generated, cited, edited, verified, revi…",
+    "fullDescription": "A machine-readable corpus of provenance events describing how AI-assisted artifacts are retrieved, generated, cited, edited, verified, reviewed and published.\n\nАвтор: brandonhimpfen. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/brandonhimpfen/ai-provenance-corpus",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-provenance",
+      "auditing",
+      "benchmarking",
+      "provenance",
+      "rag-evaluation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1305294334",
+    "createdAt": "2026-07-19T07:06:09.733Z"
+  },
+  {
+    "slug": "rahul-chaube-skills-github",
+    "title": "Rahul-Chaube-Skills",
+    "shortDescription": "The most comprehensive open-source AI skills library for LLMs, AI agents, prompt engineering, deep research, and production AI systems.",
+    "fullDescription": "The most comprehensive open-source AI skills library for LLMs, AI agents, prompt engineering, deep research, and production AI systems.\n\nАвтор: Rahulchaube1. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Rahulchaube1/Rahul-Chaube-Skills",
+    "category": "developer",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-engineering",
+      "artificial-intelligence",
+      "automation",
+      "coding",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1305419097",
+    "createdAt": "2026-07-19T07:06:09.733Z"
+  },
+  {
+    "slug": "lecturetobook-turn-videos-into-a-pdfepub-hn",
+    "title": "LectureToBook – Turn Videos into a PDF/ePub",
+    "shortDescription": "Lecturetobook takes a video presentation and turns it into an editable document, with photos, diagrams, etc. extracted from your slides. I…",
+    "fullDescription": "Lecturetobook takes a video presentation and turns it into an editable document, with photos, diagrams, etc. extracted from your slides. I came up with this idea because I was enrolled in an online course and it was all videos. I spend all day long on the computer for work, so the last thing I want to do after work is spend more time staring at a screen. I wanted something that could take those videos and turn them into a readable format. The most difficult part was detecting what frames in the video are slides, and extracting from those what is useful content to add to the document. I didn&#x27;t want to just stick a screengrab of the slides in the text, I wanted it to read like an actual book, so it uses an AI model to take from the slides what is useful and ignores what is just repeated in the transcript. Here is an output sample from an NIH video: https:&#x2F;&#x2F;lecturetobook.com&#x2F;sample&#x2F;sleep-book&#x2F;book.html Feedback welcome! This is my first side-project that has made it to launch.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://lecturetobook.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48965178",
+    "createdAt": "2026-07-19T07:06:09.642Z"
+  },
+  {
+    "slug": "zlvox-25-free-developer-tools-ai-json-pdf-with-zero-tracking-hn",
+    "title": "Zlvox – 25 Free Developer Tools (AI, JSON, PDF) with Zero Tracking",
+    "shortDescription": "Проект «Zlvox – 25 Free Developer Tools (AI, JSON, PDF) with Zero Tracking», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Zlvox – 25 Free Developer Tools (AI, JSON, PDF) with Zero Tracking», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://zlvox.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48965137",
+    "createdAt": "2026-07-19T07:06:09.642Z"
+  },
+  {
     "slug": "predictor-github",
     "title": "Predictor",
     "shortDescription": "Open-source AI prediction engine for numerical data analysis and machine learning.",
