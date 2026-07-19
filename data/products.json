@@ -1,5 +1,43 @@
 [
   {
+    "slug": "li-translate-github",
+    "title": "Li-Translate",
+    "shortDescription": "Open-source AI-powered subtitle generation and natural language translation platform for video and audio.",
+    "fullDescription": "Open-source AI-powered subtitle generation and natural language translation platform for video and audio.\n\nАвтор: AliAkrami1375. Найдено в GitHub Trending (AI-тематика). ⭐ 13 звёзд.",
+    "url": "https://github.com/AliAkrami1375/Li-Translate",
+    "category": "productivity",
+    "tags": [
+      "agent",
+      "agentic-ai",
+      "agentic-workflow",
+      "ai",
+      "ai-video-subtitle",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1305540288",
+    "createdAt": "2026-07-19T17:57:13.041Z"
+  },
+  {
+    "slug": "kimi-k3-spent-nearly-8-hours-building-this-78-card-tarot-site-hn",
+    "title": "Kimi K3 spent nearly 8 hours building this 78-card tarot site",
+    "shortDescription": "Hi HN, I came across a walkthrough on dynamic lighting and passed it to Kimi K3 with a simple request: use the idea to build a tarot site w…",
+    "fullDescription": "Hi HN, I came across a walkthrough on dynamic lighting and passed it to Kimi K3 with a simple request: use the idea to build a tarot site with the full 78-card deck. The site was functional much earlier, but K3 kept going. Over a run that lasted nearly eight hours, it repeatedly reopened the browser to check its work, then adjusted the lighting, gold foil, metallic textures, glow, and card-flip animation. That was the interesting part for me, generating a working first pass isn’t unusual anymore. Watching a coding agent spend hours on subjective visual details, deciding something didn’t look right, going back, and trying again, felt different. It eventually shipped this: https:&#x2F;&#x2F;askciela.com There’s no signup or AI reading. You just click the deck and draw a card.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://askciela.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48969970",
+    "createdAt": "2026-07-19T17:57:12.879Z"
+  },
+  {
     "slug": "aimaketattoo-visual-references-and-artist-briefs-hn",
     "title": "AIMakeTattoo – Visual references and artist briefs",
     "shortDescription": "Проект «AIMakeTattoo – Visual references and artist briefs», опубликован сообществом Hacker News.",
