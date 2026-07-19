@@ -1,5 +1,97 @@
 [
   {
+    "slug": "copybrainapp-github",
+    "title": "copybrainapp",
+    "shortDescription": "Your second brain for everything you copy.",
+    "fullDescription": "Your second brain for everything you copy.\n\nАвтор: copybrainapp. Найдено в GitHub Trending (AI-тематика). ⭐ 15 звёзд.",
+    "url": "https://www.copybrainapp.xyz/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "clipboard-history",
+      "clipboard-manager",
+      "cross-platform",
+      "desktop-app",
+      "linux",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1305155429",
+    "createdAt": "2026-07-19T09:26:23.179Z"
+  },
+  {
+    "slug": "openrouter-php-github",
+    "title": "openrouter-php",
+    "shortDescription": "A modern, fully-typed PHP client for the OpenRouter API — chat, streaming, tools, structured outputs, memory & more.",
+    "fullDescription": "A modern, fully-typed PHP client for the OpenRouter API — chat, streaming, tools, structured outputs, memory & more.\n\nАвтор: hojjatjh. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/hojjatjh/openrouter-php",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "api-client",
+      "llm",
+      "openai",
+      "openrouter",
+      "php",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1305508288",
+    "createdAt": "2026-07-19T09:26:23.179Z"
+  },
+  {
+    "slug": "zlvox-a-no-signup-suite-of-developer-tools-json-temp-mail-pdf-hn",
+    "title": "Zlvox – A no-signup suite of developer tools (JSON, Temp Mail, PDF)",
+    "shortDescription": "Проект «Zlvox – A no-signup suite of developer tools (JSON, Temp Mail, PDF)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Zlvox – A no-signup suite of developer tools (JSON, Temp Mail, PDF)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://zlvox.com/blog/why-i-stopped-using-random-online-ai-tools-2026",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48966358",
+    "createdAt": "2026-07-19T09:26:23.012Z"
+  },
+  {
+    "slug": "ai-mock-interview-tool-that-scores-your-answers-free-no-signup-hn",
+    "title": "AI mock interview tool that scores your answers – free, no signup",
+    "shortDescription": "Проект «AI mock interview tool that scores your answers – free, no signup», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI mock interview tool that scores your answers – free, no signup», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://interviewpracticeai.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48966198",
+    "createdAt": "2026-07-19T09:26:23.012Z"
+  },
+  {
+    "slug": "shikigami-run-ai-coding-agents-in-parallel-each-in-a-git-worktree-hn",
+    "title": "Shikigami, run AI coding agents in parallel, each in a Git worktree",
+    "shortDescription": "Hello all, I&#x27;m a software developer. Over the last few months more and more of my work has turned into using coding agents instead of…",
+    "fullDescription": "Hello all, I&#x27;m a software developer. Over the last few months more and more of my work has turned into using coding agents instead of typing the whole code myself. Usually a few claude sessions at once, sometimes codex, one per feature or per revealed bug. I ran them in a split terminal for a few weeks, and quickly spotted two main problems. The first is that I couldn&#x27;t easily tell which agent was stuck waiting on me and which was still working, so I&#x27;d cycle through sessions and checking on them. The second one: agents sharing a single branch step on each other. Two of them could be editing the same file with different ideas - a nice recipe for a mess. So I built my own solution - Shikigami. It&#x27;s a desktop app that runs agents side by side, each one in its own git worktree. Same repository, separate working directories, so they can all run at once without touching each other&#x27;s edits. Every agent has a real PTY session. The sessions are resumable too, you can quit the app, come back tomorrow, and a long conversation is where you left it. The app has a second mode: a Monaco editor with the full file tree, diff viewer, git history and per-line blame. You flip between the agent grid and the editor from a pill in the middle of the title bar, and the agents keep running while you read. When one finishes a turn or needs input, a desktop notification takes you straight to that session. There&#x27;s language intelligence built in too: diagnostics, go-to-definition, find-references and completion for PHP 8.1-8.5 and TypeScript&#x2F;JavaScript - both are still improving to provide better dx. My mostly used stack at work is a Symfony app and docker containers, so the app has a docker integration builtin (service tree, per-service logs, a container shell, start&#x2F;stop). Another integration is mysql and redis support - databases&#x2F;tables preview, custom sql queries and redis keys inspection. It&#x27;s free. You don&#x27;t need an account, no sign-up and no cloud, so agents and worktrees stay on your machine. macOS (signed .dmg, Apple Silicon and Intel) and Linux (AppImage). No Windows build yet. What you see today stays free. At some point I&#x27;d like to earn something from it, probably paid add-ons on top, or an option to support the project like Signal does. I haven&#x27;t decided yet. The source is private for now, so if that&#x27;s a dealbreaker, fair enough - I understand that. That&#x27;s why I started a dedicated YouTube channel so you can see who are you dealing with. The app is still in the BETA phase, you can expect bugs, but I fix them fast. I have live streams on YT, and there&#x27;s a discord server if you&#x27;d rather complain in real time. I&#x27;d appreciate feedback, especially from anyone running more than two or three agents at once. Thanks, Igor\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://shikigami.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48966140",
+    "createdAt": "2026-07-19T09:26:23.012Z"
+  },
+  {
     "slug": "ai-provenance-corpus-github",
     "title": "ai-provenance-corpus",
     "shortDescription": "A machine-readable corpus of provenance events describing how AI-assisted artifacts are retrieved, generated, cited, edited, verified, revi…",
