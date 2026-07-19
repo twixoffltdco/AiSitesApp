@@ -1,5 +1,37 @@
 [
   {
+    "slug": "free-curated-prompts-for-ai-image-video-and-music-hn",
+    "title": "Free, curated prompts for AI image, video and music",
+    "shortDescription": "Проект «Free, curated prompts for AI image, video and music», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Free, curated prompts for AI image, video and music», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ahaprompt.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48969127",
+    "createdAt": "2026-07-19T15:55:21.353Z"
+  },
+  {
+    "slug": "skimlane-a-local-first-customizable-ai-reading-assistant-for-chrome-hn",
+    "title": "Skimlane – A local-first, customizable, AI reading assistant for Chrome",
+    "shortDescription": "Проект «Skimlane – A local-first, customizable, AI reading assistant for Chrome», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Skimlane – A local-first, customizable, AI reading assistant for Chrome», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://skimlane.com/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48968997",
+    "createdAt": "2026-07-19T15:55:21.353Z"
+  },
+  {
     "slug": "callbro-granola-but-powered-by-codex-claude-code-or-your-local-llm-hn",
     "title": "CallBro – Granola, but Powered by Codex, Claude Code, or Your Local LLM",
     "shortDescription": "We took the bot-free meeting-notes experience people already understand and replaced the closed intelligence layer with a full agent chosen…",
