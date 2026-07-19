@@ -1,5 +1,42 @@
 [
   {
+    "slug": "confidence-github",
+    "title": "confidence",
+    "shortDescription": "Audit the choices AI made, not thousands of lines it wrote.",
+    "fullDescription": "Audit the choices AI made, not thousands of lines it wrote.\n\nАвтор: 3clyp50. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/3clyp50/confidence",
+    "category": "ai-tool",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "code-review",
+      "codex",
+      "decision-making",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1305142866",
+    "createdAt": "2026-07-19T10:53:23.829Z"
+  },
+  {
+    "slug": "ai-buddy-free-stt-and-screenshot-tool-for-mac-requires-gemini-hn",
+    "title": "AI Buddy – Free STT and Screenshot Tool for Mac (Requires Gemini)",
+    "shortDescription": "I created this tool because I honestly didn&#x27;t want to pay a monthly subscription fee for other apps, and I also needed it to be a bit…",
+    "fullDescription": "I created this tool because I honestly didn&#x27;t want to pay a monthly subscription fee for other apps, and I also needed it to be a bit more reliable and wanted to be able to take screenshots in a particular way that&#x27;s useful for working with Claude Code.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://claudete.co/ai-buddy",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48966690",
+    "createdAt": "2026-07-19T10:53:23.811Z"
+  },
+  {
     "slug": "copybrainapp-github",
     "title": "copybrainapp",
     "shortDescription": "Your second brain for everything you copy.",
