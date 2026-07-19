@@ -1,5 +1,59 @@
 [
   {
+    "slug": "penguin-harness-github",
+    "title": "penguin-harness",
+    "shortDescription": "Efficient Self-Improving Harness for Everyone",
+    "fullDescription": "Efficient Self-Improving Harness for Everyone\n\nАвтор: Prism-Shadow. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://penguin.ooo/",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "claude-code",
+      "llm",
+      "skills",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1305383508",
+    "createdAt": "2026-07-19T11:55:22.465Z"
+  },
+  {
+    "slug": "we-ranked-our-dev-tools-in-googles-new-ai-overviews-hn",
+    "title": "We ranked our dev tools in Google's new AI Overviews",
+    "shortDescription": "Проект «We ranked our dev tools in Google's new AI Overviews», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «We ranked our dev tools in Google's new AI Overviews», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://zlvox.com/blog/google-ai-overviews-2026-optimize-agentic-search",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48967286",
+    "createdAt": "2026-07-19T11:55:22.380Z"
+  },
+  {
+    "slug": "regularly-hand-picked-daily-logic-and-number-puzzles-no-ads-hn",
+    "title": "Regularly, hand-picked daily logic and number puzzles, no ads",
+    "shortDescription": "Hi HN. I wanted to present to you Regularly ( https:&#x2F;&#x2F;regularly.co ), a daily logic&#x2F;math puzzle website I made to scratch my…",
+    "fullDescription": "Hi HN. I wanted to present to you Regularly ( https:&#x2F;&#x2F;regularly.co ), a daily logic&#x2F;math puzzle website I made to scratch my own itch: can we have a fun and engaging puzzle app that doesn&#x27;t eventually devolve into an iap blockaded mess? For background, a few years ago I released my first daily puzzle (Countable), which I made for my then-girlfriend (now wife) and me to play over morning coffee. One marriage and four games later, the full Regularly set was born: with no ads, no sign-up, no iaps. It spread by word of mouth and a few hundred people now play each day. Our business model is simple: the daily puzzles will always be free (without ads). At some point I may charge a small amount to access and play the back catalogue, but the day&#x27;s puzzles stay free forever. As with many other websites, a fresh puzzle set drops every morning. However, unlike those websites, every puzzle shown is hand-picked rather than whatever we can make, and we really focus on getting the difficulty right. We watch how real players actually perform each day (for transparency, we track games started vs games completed to do this) and keep re-tuning our difficulty to maximise engagement. The aim is that every morning&#x27;s set sits in the zone where you have to think but you aren&#x27;t stumped. I recently revamped the iOS app, and would love your opinions (sorry, there&#x27;s no Android version for now). I commute into work each morning on the tube, and one of my personal gripes with a lot of apps has become how they require a constant internet connection. With the iOS app, once the initial screen is loaded, every puzzle game is playable. Web: https:&#x2F;&#x2F;regularly.co iOS: https:&#x2F;&#x2F;apps.apple.com&#x2F;app&#x2F;id1617532286 If you like Queens or Star Battle, start with Kingly. If you&#x27;re a numbers person or a romantic, Countable. Floored and Paths are both super fun and iterative (a lot of back and forth). Happy to answer any questions!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://regularly.co",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48966852",
+    "createdAt": "2026-07-19T11:55:22.380Z"
+  },
+  {
     "slug": "confidence-github",
     "title": "confidence",
     "shortDescription": "Audit the choices AI made, not thousands of lines it wrote.",
