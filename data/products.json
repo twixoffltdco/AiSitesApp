@@ -1,5 +1,140 @@
 [
   {
+    "slug": "predictor-github",
+    "title": "Predictor",
+    "shortDescription": "Open-source AI prediction engine for numerical data analysis and machine learning.",
+    "fullDescription": "Open-source AI prediction engine for numerical data analysis and machine learning.\n\nАвтор: DEEPBYTO. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://deepbyto.github.io/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "analytics",
+      "artificial-intelligence",
+      "data-science",
+      "deepbyto",
+      "desktop-application",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1304742228",
+    "createdAt": "2026-07-19T04:27:31.313Z"
+  },
+  {
+    "slug": "crucibleagentenvironment-github",
+    "title": "Crucible_AgentEnvironment",
+    "shortDescription": "Isolated, reproducible sandboxes where self-improving agents run untrusted code and can't game the score.",
+    "fullDescription": "Isolated, reproducible sandboxes where self-improving agents run untrusted code and can't game the score.\n\nАвтор: jeffreyzhou-harvard. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "http://crucibleresearch.org/",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "artificial-intelligence",
+      "autoresearch",
+      "environment",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1305226799",
+    "createdAt": "2026-07-19T04:27:31.313Z"
+  },
+  {
+    "slug": "grok-geo-github",
+    "title": "grok-geo",
+    "shortDescription": "AI 搜索与生成式引擎优化（GEO）的品牌诊断 Agent Skill，内置 17 个主流 AI 搜索与问答引擎适配器，覆盖 ChatGPT、豆包、DeepSeek、通义千问（Qwen）、智谱 GLM / Z.ai、Kimi、文心一言、Claude、Gemini等平台，支持跨平…",
+    "fullDescription": "AI 搜索与生成式引擎优化（GEO）的品牌诊断 Agent Skill，内置 17 个主流 AI 搜索与问答引擎适配器，覆盖 ChatGPT、豆包、DeepSeek、通义千问（Qwen）、智谱 GLM / Z.ai、Kimi、文心一言、Claude、Gemini等平台，支持跨平台开展 GEO 查询与品牌表现分析。  系统基于 60+ 项可复现的确定性指标和 92 条合规规则，综合评估品牌在生成式搜索中的可见度、提及与引用表现、竞品差距、情感倾向及实体知识图谱质量，并输出可量化、可追踪、可执行的 GEO 优化建议，帮助品牌发现影响 AI 收录、引用与推荐的关键问题。\n\nАвтор: xuboboo. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/xuboboo/grok-geo",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-search",
+      "claude-code",
+      "claude-skills",
+      "deepseek",
+      "geo",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1304247163",
+    "createdAt": "2026-07-19T04:27:31.313Z"
+  },
+  {
+    "slug": "onebox-github",
+    "title": "onebox",
+    "shortDescription": "The All-in-One AI Backend - PocketBase for AI Apps: SQLite, auth, files, vector search, RAG, and an LLM gateway in one binary.",
+    "fullDescription": "The All-in-One AI Backend - PocketBase for AI Apps: SQLite, auth, files, vector search, RAG, and an LLM gateway in one binary.\n\nАвтор: SuvarnaMandadi. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/SuvarnaMandadi/onebox",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "baas",
+      "backend",
+      "golang",
+      "llm",
+      "pocketbase",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1304468894",
+    "createdAt": "2026-07-19T04:27:31.313Z"
+  },
+  {
+    "slug": "show-hn-online-developer-profiles-with-embedded-ai-hypeman-hn",
+    "title": "Show HN - Online developer profiles with embedded AI hypeman",
+    "shortDescription": "Проект «Show HN - Online developer profiles with embedded AI hypeman», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Show HN - Online developer profiles with embedded AI hypeman», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://engineerprofiles.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48964896",
+    "createdAt": "2026-07-19T04:27:31.184Z"
+  },
+  {
+    "slug": "wave-talk-to-ai-meet-the-human-on-the-other-side-hn",
+    "title": "Wave – Talk to AI. Meet the human on the other side",
+    "shortDescription": "Проект «Wave – Talk to AI. Meet the human on the other side», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Wave – Talk to AI. Meet the human on the other side», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.getonwave.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48964876",
+    "createdAt": "2026-07-19T04:27:31.184Z"
+  },
+  {
+    "slug": "flightwake-a-flight-recorder-for-ai-coding-agents-not-a-navigator-hn",
+    "title": "Flightwake – a flight recorder for AI coding agents, not a navigator",
+    "shortDescription": "Проект «Flightwake – a flight recorder for AI coding agents, not a navigator», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Flightwake – a flight recorder for AI coding agents, not a navigator», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/kaiwutech-TW/flightwake",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48964105",
+    "createdAt": "2026-07-19T04:27:31.184Z"
+  },
+  {
     "slug": "norma-ai-agent-platform-github",
     "title": "norma-ai-agent-platform",
     "shortDescription": "An open-source AI operating system that combines agentic workflows, long-term memory, and RAG to transform knowledge into action.",
