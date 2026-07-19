@@ -1,5 +1,69 @@
 [
   {
+    "slug": "a-schema-you-change-by-talking-to-it-without-the-model-writing-sql-hn",
+    "title": "A schema you change by talking to it, without the model writing SQL",
+    "shortDescription": "Wanted to try something new, decided to create a mutable crm, which re renders the UI after you apply a change. The llm only modifies the d…",
+    "fullDescription": "Wanted to try something new, decided to create a mutable crm, which re renders the UI after you apply a change. The llm only modifies the db via tool use, so he doesnt directly write sql, only choose which function to use and the params. Can only revert the last change, and dropping tables is not available to the llm. Looking for feedback, opinions, something you would do different. Taking my first steps in AI implementations. Heavily assisted by claude code\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/leandrobon/mutable-crm",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48971358",
+    "createdAt": "2026-07-19T20:23:01.741Z"
+  },
+  {
+    "slug": "chalie-ai-peer-not-employee-hn",
+    "title": "Chalie – AI peer not employee",
+    "shortDescription": "Проект «Chalie – AI peer not employee», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Chalie – AI peer not employee», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/chalie-ai/chalie",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48971042",
+    "createdAt": "2026-07-19T20:23:01.741Z"
+  },
+  {
+    "slug": "my-fable-5-project-was-a-multiraft-database-and-blob-store-hn",
+    "title": "My Fable 5 Project Was a Multiraft Database and Blob Store",
+    "shortDescription": "Linked from this post is the visualizer and simulator I had Fable 5 create to demonstrate the In a thread the other day, I asserted it was…",
+    "fullDescription": "Linked from this post is the visualizer and simulator I had Fable 5 create to demonstrate the In a thread the other day, I asserted it was nice that code is no longer a moat. Getting Raft or Paxos consensus working is one of the most challenging tasks out there, even which etcd.io&#x2F;raft and hashicorp&#x2F;raft. The database took about a day for Fable 5 to create. It was updated as tons of work was done on a sandbox app running on top of it. What it delivered was a distributed unified KV and blob store. It automatically does sharding and erasure coding. You&#x27;ll find something named Private Cloud Platform in the `sandbox&#x2F;` directory. Will be making a video on it soon going over the ridiculous amount of features it has packed into it. There&#x27;s some things not fully fleshed out like the docs and spreadsheets (no import&#x2F;export or cross format support yet), but has other features like a Markdown document editor, Kanbans, and Diagrams. Most of the work since Fable 5 service was restored has been in the Private Cloud Platform app. I done cursory tests to just make sure the features seem like they work (except the home camera&#x2F;doorbell stuff, that was just added yesterday). All the testing so far has been done in a KinD cluster (with the service binaries deployed on budget clouds). I&#x27;m preparing for the next phase of testing, where I just run this and do some chaos monkey style validation over the next couple of months. While running this, I&#x27;m also going to live out the lifecycle of the system and fix any gaps missed during the development process so far. It is genuinely interesting. The code moat has been reduced to &quot;can you describe the problem and what you want?&quot; (and do you have some disposable income for an AI subscription?). This project still has a lot left to do. Testing-wise, I&#x27;m going to busy for months. Also, you&#x27;ll notice there&#x27;s an API for most things in the Private Cloud Platform. I haven&#x27;t even started working on the mobile apps, but Opus 4.8 and maybe even Sonnet 5 can knock those out. My prompting to get the database mostly involved discussing the features, architecture, and intentions for the software. The past decade for me, I&#x27;ve been reading about consensus and distributed data patterns, so describing what I wanted would have been non-trivial without the high level domain knowledge. I also had a couple of days before Fable 5 went down to see what it could do if I&#x27;m very vague (it wasn&#x27;t good, but no clue if Fable would have fixed it since I started over). I also seeded directories structures and maintained open source libraries I was leveraging like pebble and etcd&#x2F;raft in a REFERENCES&#x2F; directory so it could be pulled into context as needed. The AI did not choose much for me on how the project was structured or how the architecture was supposed to be. I do not use MCP servers or skills (except whatever skills the model might have automatically used). Overall, I&#x27;m having a blast and am enjoying the temperature of this code moat. Happy prompting everyone!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://meetthecluster.github.io/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48970916",
+    "createdAt": "2026-07-19T20:23:01.743Z"
+  },
+  {
+    "slug": "bothread-multiple-ai-coding-agents-talk-share-one-repo-no-collisions-hn",
+    "title": "Bothread, multiple AI coding agents talk, share one repo, no collisions",
+    "shortDescription": "Проект «Bothread, multiple AI coding agents talk, share one repo, no collisions», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Bothread, multiple AI coding agents talk, share one repo, no collisions», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/AdamACE9/bothread",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48970865",
+    "createdAt": "2026-07-19T20:23:01.743Z"
+  },
+  {
     "slug": "li-translate-github",
     "title": "Li-Translate",
     "shortDescription": "Open-source AI-powered subtitle generation and natural language translation platform for video and audio.",
