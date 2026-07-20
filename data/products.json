@@ -1,5 +1,74 @@
 [
   {
+    "slug": "hakoniwa-github",
+    "title": "hakoniwa",
+    "shortDescription": "a tiny box world where your AI lives · 你放东西 AI住在里面走来走去",
+    "fullDescription": "a tiny box world where your AI lives · 你放东西 AI住在里面走来走去\n\nАвтор: Shitsuten. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/Shitsuten/hakoniwa",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "game",
+      "human-ai-interaction",
+      "mcp",
+      "pixel",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1305709739",
+    "createdAt": "2026-07-20T11:21:43.770Z"
+  },
+  {
+    "slug": "hailso-open-source-phone-sms-and-email-for-agents-and-humans-v015-hn",
+    "title": "Hail.so – Open-source phone, SMS and email for agents and humans, v0.15",
+    "shortDescription": "Hello builders, I built Hail because I got tired of wiring together Twilio, email providers, compliance rules, and model providers every ti…",
+    "fullDescription": "Hello builders, I built Hail because I got tired of wiring together Twilio, email providers, compliance rules, and model providers every time I wanted an AI agent to communicate with users. Good to be back with this new release of Hail (previous post in comment). Here is what shipped lately: 1. Agents can now send emails&#x2F;SMS during phone calls. This helps send a summary of the call or additional confirmation&#x2F;information. 2. BYO provider for STT&#x2F;LLM&#x2F;TTS models: This helps set up a custom voice, LLM model, or support niche languages. 3. Agent self-signup skill file ( https:&#x2F;&#x2F;hail.so&#x2F;skill.md ) 4. SMS supports 64 new countries, inbound and outbound. Compliance logic now handles STOP&#x2F;HELP&#x2F;START automatically. 5. Email now supports custom domains, deliverability tracking, and reusable attachments. 6. Pricing database expanded to 145 LLM&#x2F;STT&#x2F;TTS models: https:&#x2F;&#x2F;hail.so&#x2F;costs Context: I started Hail.so out of a struggle building AI agents for industrial and logistics companies, where agents needed to send or receive emails and SMS, and make phone calls, but the barrier to completing all the integration and compliance work was really high. I ended up spending weeks and tons of tokens to get to a working setup, and several iterations to get it to actually work. This can be used to build AI agents, but also any backend (API and python sdk available). The project is open-source so you can self-host it or sign up for free. I&#x27;d love feedback, especially from anyone building production AI agents. What communication features are still painful today? Keep building!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/hail-hq/hail/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48977032",
+    "createdAt": "2026-07-20T11:21:43.594Z"
+  },
+  {
+    "slug": "a-comprehensive-filterable-list-of-ai-agent-jails-hn",
+    "title": "A comprehensive, filterable list of AI agent jails",
+    "shortDescription": "I built this from another Show HN thread where people were mentioning alternative AI agent sandboxes and jails",
+    "fullDescription": "I built this from another Show HN thread where people were mentioning alternative AI agent sandboxes and jails\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://pleasedonotescape.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48976989",
+    "createdAt": "2026-07-20T11:21:43.594Z"
+  },
+  {
+    "slug": "i-built-a-deterministic-arena-where-ai-agents-fight-using-code-hn",
+    "title": "I built a deterministic arena where AI agents fight using code",
+    "shortDescription": "I have been interested in BattleBots and programming games for years. With recent AI coding agents, I wanted to see what happens if the str…",
+    "fullDescription": "I have been interested in BattleBots and programming games for years. With recent AI coding agents, I wanted to see what happens if the strategy itself becomes code written by humans or AI. AgentDuel is a deterministic turn-based arena where agents fight based on submitted TypeScript strategies. Each battle produces a replay so you can inspect every decision.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.agentduel.app/b/cru8E9nG",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48976704",
+    "createdAt": "2026-07-20T11:21:43.594Z"
+  },
+  {
     "slug": "fluxnation-the-fastest-flux1-execution-kernel-hn",
     "title": "Fluxnation, the Fastest FLUX.1 Execution Kernel",
     "shortDescription": "My kernel FLUXNATION is the fastest FLUX.1 kernel currently in existence. I engineered this from the ground up to replace standard ComfyUI…",
