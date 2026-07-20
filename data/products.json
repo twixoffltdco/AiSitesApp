@@ -1,5 +1,113 @@
 [
   {
+    "slug": "abigail-github",
+    "title": "abigail",
+    "shortDescription": "Async Python CLI & library for FREE web AI services - No Login, No Api Key, No Browser Required ",
+    "fullDescription": "Async Python CLI & library for FREE web AI services - No Login, No Api Key, No Browser Required \n\nАвтор: iqbalmh18. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://pypi.org/project/abigail",
+    "category": "chatbot",
+    "tags": [
+      "abigail",
+      "ai",
+      "ai-agent",
+      "ai-chat",
+      "ai-chatbot",
+      "ai-free",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1306628806",
+    "createdAt": "2026-07-20T20:19:28.541Z"
+  },
+  {
+    "slug": "awesome-neuroseti-ru-github",
+    "title": "awesome-neuroseti-ru",
+    "shortDescription": "Список нейросетей, которые работают в России без VPN в 2026 — бесплатно: ChatGPT, Claude, Gemini, DeepSeek, картинки, видео, агрегаторы",
+    "fullDescription": "Список нейросетей, которые работают в России без VPN в 2026 — бесплатно: ChatGPT, Claude, Gemini, DeepSeek, картинки, видео, агрегаторы\n\nАвтор: VerunaAI. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://verunaai.github.io/awesome-neuroseti-ru/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "awesome",
+      "awesome-list",
+      "chatgpt",
+      "neural-networks",
+      "russian",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1305893201",
+    "createdAt": "2026-07-20T20:19:28.541Z"
+  },
+  {
+    "slug": "visual-hn-a-hckernews-reader-with-images-hn",
+    "title": "Visual-HN – a hcker.news reader with images",
+    "shortDescription": "Проект «Visual-HN – a hcker.news reader with images», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Visual-HN – a hcker.news reader with images», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://hn.is-ai-good-yet.com/?view=frontpage",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48984040",
+    "createdAt": "2026-07-20T20:19:28.416Z"
+  },
+  {
+    "slug": "ai-world-bakeoff-9-models-3-threejs-worlds-hn",
+    "title": "AI World Bakeoff – 9 models × 3 Three.js worlds",
+    "shortDescription": "With the releases of Fable 5, gpt 5.6 sol, and Kimi K3 I was curious how these models would perform building vivid 3d worlds, especially a…",
+    "fullDescription": "With the releases of Fable 5, gpt 5.6 sol, and Kimi K3 I was curious how these models would perform building vivid 3d worlds, especially a Chinese open-weight one like Kimi. I also threw in some budget models so you can see how drastic the quality differences are.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ai-world-bakeoff.pages.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48983978",
+    "createdAt": "2026-07-20T20:19:28.416Z"
+  },
+  {
+    "slug": "fablekimigpt56-ffa-naval-warairstrikes-and-radio-diplomacy-video-hn",
+    "title": "Fable,Kimi,GPT5.6 FFA naval war,airstrikes and radio diplomacy [video]",
+    "shortDescription": "detailed analysis: https:&#x2F;&#x2F;system-2-arena.vercel.app&#x2F;showcase&#x2F;ra2?war=ffa-fable...",
+    "fullDescription": "detailed analysis: https:&#x2F;&#x2F;system-2-arena.vercel.app&#x2F;showcase&#x2F;ra2?war=ffa-fable...\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.youtube.com/watch?v=nFxRtjgKtY0",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48983923",
+    "createdAt": "2026-07-20T20:19:28.416Z"
+  },
+  {
+    "slug": "lagotto-meter-how-well-do-ai-agents-understand-your-website-hn",
+    "title": "Lagotto Meter – how well do AI agents understand your website?",
+    "shortDescription": "Built this to measure the semantic delta between what a site declares and what an AI agent actually reconstructs. Free, no signup. I&#x27;m…",
+    "fullDescription": "Built this to measure the semantic delta between what a site declares and what an AI agent actually reconstructs. Free, no signup. I&#x27;m the author — happy to answer questions.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://lake8.dev/lagotto-meter/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48983850",
+    "createdAt": "2026-07-20T20:19:28.416Z"
+  },
+  {
     "slug": "green-claude-github",
     "title": "green-claude",
     "shortDescription": "🌱 Wrapper éco-responsable pour Claude Code : sobriété numérique, audit d'éco-conception (RGESN, GR491, Green Software Foundation) et prati…",
