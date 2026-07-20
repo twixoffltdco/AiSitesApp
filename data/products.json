@@ -1,5 +1,91 @@
 [
   {
+    "slug": "green-claude-github",
+    "title": "green-claude",
+    "shortDescription": "🌱 Wrapper éco-responsable pour Claude Code : sobriété numérique, audit d'éco-conception (RGESN, GR491, Green Software Foundation) et prati…",
+    "fullDescription": "🌱 Wrapper éco-responsable pour Claude Code : sobriété numérique, audit d'éco-conception (RGESN, GR491, Green Software Foundation) et pratiques de sobriété IA\n\nАвтор: Institut-du-Numerique-Responsable. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://institut-du-numerique-responsable.github.io/green-claude/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "carbon-footprint",
+      "claude",
+      "claude-code",
+      "eco-conception",
+      "eco-design",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1305081749",
+    "createdAt": "2026-07-20T18:55:37.176Z"
+  },
+  {
+    "slug": "neuron-turn-a-sql-query-history-into-a-semantic-layer-hn",
+    "title": "Neuron. Turn a SQL query history into a semantic layer",
+    "shortDescription": "My cofounder and I previously ran analytics groups in life sciences. That means we led teams of analysts who typed SQL all day long and we…",
+    "fullDescription": "My cofounder and I previously ran analytics groups in life sciences. That means we led teams of analysts who typed SQL all day long and we ran into common issues of consistency, correctness, and knowledge transfer. We were always one resignation away from losing all of the history on a project or a client. When we left that world we thought we could solve the problem with auto-documentation. Cut to now and we&#x27;ve landed on the modern version of that solution, which is to turn previously executed queries into context for AI. The intuition is roughly this: a smart analyst can read SQL and have a pretty good idea of what&#x27;s going on, and in fact can infer a lot of institutional knowledge about the domain and how to analyze particular data. LLMs are not great at this (Anthropic and Snowflake have written as much). So we act as the &quot;smart analyst&quot; to pull out institutional knowledge and practices (in the form of SQL) that you can give to an LLM so that it can code like a competent analyst on your team. Right now we&#x27;re deploying it as a semantic layer population tool. You want to fill up a Genie or Cortex semantic layer? Run our code on your query history, prune it with your experts (delete this, rename that, etc.), and get moving. That can take hours&#x2F;days instead of weeks. Plus, everything we export is portable to whatever system you choose. FYI we ask for emails on the free trial download so we can monitor our traction and build our network but you don&#x27;t need to include it if you don&#x27;t want to. We&#x27;re hungry for feedback from people who work in the field and are facing these challenges. Major, major thanks in advance for your time.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.momentaanalytics.com/free-trial",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48982594",
+    "createdAt": "2026-07-20T18:55:37.023Z"
+  },
+  {
+    "slug": "sharper-an-ai-office-agent-grounded-in-your-knowledge-with-citations-hn",
+    "title": "Sharper – an AI office agent grounded in your knowledge, with citations",
+    "shortDescription": "Проект «Sharper – an AI office agent grounded in your knowledge, with citations», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Sharper – an AI office agent grounded in your knowledge, with citations», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://sharper-ai.co",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48982416",
+    "createdAt": "2026-07-20T18:55:37.023Z"
+  },
+  {
+    "slug": "framesmith-19-charts-as-a-node-type-for-ai-designed-uis-hn",
+    "title": "Framesmith 1.9 – charts as a node type for AI-designed UIs",
+    "shortDescription": "Проект «Framesmith 1.9 – charts as a node type for AI-designed UIs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Framesmith 1.9 – charts as a node type for AI-designed UIs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/vicmaster/framesmith",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48982295",
+    "createdAt": "2026-07-20T18:55:37.023Z"
+  },
+  {
+    "slug": "codeground-run-and-share-code-in-the-browser-hn",
+    "title": "Codeground – run and share code in the browser",
+    "shortDescription": "Hey HN, I built Codeground ( https:&#x2F;&#x2F;codeground.ai ) because I kept needing to try a small piece of code and didn&#x27;t want to…",
+    "fullDescription": "Hey HN, I built Codeground ( https:&#x2F;&#x2F;codeground.ai ) because I kept needing to try a small piece of code and didn&#x27;t want to set up a local environment for it. It&#x27;s an online playground with an inbuilt AI. One can talk to AI about their code or can ask AI about the code. It has a ton of other dev tools under one umbrella so that devs don&#x27;t have to switch to N different apps again and again. And also a small gaming arcade to take a break.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://codeground.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48981755",
+    "createdAt": "2026-07-20T18:55:37.023Z"
+  },
+  {
     "slug": "switch-homebrew-github",
     "title": "switch-homebrew",
     "shortDescription": "Self-contained AI skill for Nintendo Switch homebrew development",
