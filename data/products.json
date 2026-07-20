@@ -1,5 +1,91 @@
 [
   {
+    "slug": "open-kritt-github",
+    "title": "open-kritt",
+    "shortDescription": "Orchestrate AI agents to find real vulnerabilities in code.",
+    "fullDescription": "Orchestrate AI agents to find real vulnerabilities in code.\n\nАвтор: Kritt-ai. Найдено в GitHub Trending (AI-тематика). ⭐ 19 звёзд.",
+    "url": "https://kritt.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "agents",
+      "ai",
+      "bug-bounty",
+      "bugbounty",
+      "bugbounty-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1306989887",
+    "createdAt": "2026-07-20T21:41:52.625Z"
+  },
+  {
+    "slug": "velprium-time-workspace-hn",
+    "title": "Velprium - Time Workspace",
+    "shortDescription": "Hi HN, I&#x27;m Minjae, a solo developer. - About two years ago, I came up with an idea and worked on it as a side project for about three…",
+    "fullDescription": "Hi HN, I&#x27;m Minjae, a solo developer. - About two years ago, I came up with an idea and worked on it as a side project for about three months, but I had to quit because I was overwhelmed by my main job. However, when I recently used a coding agent to configure the specifications and have the development done, the implementation speed was incredibly faster than it was two years ago. So, I focused on refining the specifications and rode that momentum to launch the service in just two weeks. - The reason I developed Velprium was the problem of my data being scattered across multiple places when recording my day. Calendar, Notion, Obsidian, and various other collaboration tools... I even tried a paper bullet journal, but I failed every time I had to transfer notes between digital and analog formats. That led me to think, &quot;What if I added Notion&#x27;s properties to calendar events?&quot; Traditional calendars consist of an x-axis representing time and a y-axis limited to just title and description. So I added event properties to enrich the y-axis. Then I realized there&#x27;s a third axis: z, the perspective. The same x and y look completely different depending on which lens you view them through — a diary, a work log, sleep tracking, exercise, personal schedule. This is where the concepts came from: a page is a z-axis (the perspective you&#x27;re viewing from), areas are the parallel time axes that make up a page, and event properties are the y-axis. - Additionally, I added relationships between events. For instance, if you cannot complete a task today and need to postpone it until tomorrow, there&#x27;s a postpone button — it keeps today&#x27;s event intact and creates a follow-up event for tomorrow. This allows you to track exactly when you postponed the task, and since the change history is saved for each event, you can also see exactly when you decided to delay it. One thing that didn&#x27;t exist in the two-years-ago version is an AI query feature. Having implemented several text-to-SQL chatbots for work since last year, I felt the calendar should have one too. For example, you can ask it to analyze how your sleep pattern changed over the past month based on sleep events recorded in the calendar. (For reference, I use my self-made iPhone app, Auto Event Maker, to synchronize health data recorded on my iPhone with calendar events.) - This app is currently free, and I plan to add a paid plan as the number of users increases. This is because, while server costs are minimal, I feel that if a large number of users utilize the AI features, I&#x27;ll have to pay for the tokens. - I am not sure if this model is useful and easy to understand for others, or if it is adding too many concepts to a calendar. This is the main point I want to verify. Of course, I created it and am very satisfied with it and using it well. Two things I&#x27;d love feedback on: 1. Do you think the concepts of page, area, and event properties are suitable for a calendar app? 2. Does the onboarding (and the pre-made page templates) make these concepts click? Please try it and tell me where you got lost. I really want to receive feedback from users who primarily use calendar apps and users who enjoy logging their lives.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.velprium.com/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48985139",
+    "createdAt": "2026-07-20T21:41:52.457Z"
+  },
+  {
+    "slug": "riace-a-hands-free-interval-timer-i-built-while-getting-back-in-shape-hn",
+    "title": "Riace – a hands-free interval timer I built while getting back in shape",
+    "shortDescription": "I always wanted to be a developer, and it was quite long time that I was planning to get fit and change my habits (smoke, fast food, alcoho…",
+    "fullDescription": "I always wanted to be a developer, and it was quite long time that I was planning to get fit and change my habits (smoke, fast food, alcohol, and so on) I run a food business (American style potato rolls), and definitely I&#x27;m not a developer, even tho I&#x27;ve been working as project manager for a decade being the intersection between designers and developers. At the end of 2024 something changed in me, so I started my Project Riace to get fit, and while doing this I built an app that helped me on my plan. Starting at 87.8 kg with 28% body fat, I&#x27;m now 72 kg with 11% body fat, without losing any muscles (actually I gained about 1kg) and this thanks to a nutritionist, a personal trainer and lot of tennis. No shortcuts, just eating well and training seriously each day, starting from 10 minutes each morning, every morning. Why I&#x27;m telling you this? Because I&#x27;m in this new better version of me, thanks also to AI. I trained Claude with my nutritional plan made by my doctor, my exercise made by my trainer, and my goal for this summer — it has been like having a 24&#x2F;7 nutritionist and personal trainer in my pocket. But, I&#x27;m here to show you the app I made, obviously called &quot;riace.&quot; — it&#x27;s an interval timer for workouts (tabata, emom, recovery, timer) with voice control, and a personal spin on the visual part to visualise the time spent training. It&#x27;s a free app, no subscriptions, no account, nothing. Just your training side-kick, as it was for me. It has been fully built with Replit, with the help of Claude on certain parts. I orchestrated everything, tested, refined, iterated and made the UI&#x2F;UX. I know here many of you are real developers, but for me this tool (Replit) is a life changer. I can finally build what I have in my mind. The project actually started from an idea I had using a led bar timer with Arduino, which I actually built, but paused for the moment because I want to make one step at a time. This app won&#x27;t change your life, I didn&#x27;t reinvent the wheel, but it changed my life! Going from an iPhone pics folder called &quot;Road to Canotta&quot; (Road to tank top) in 2016, now I can finally walk on the street proud of my body and with an app made by me in my phone, and hopefully yours. Happy to answer any question!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://apps.apple.com/it/app/riace/id6760669387",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48984701",
+    "createdAt": "2026-07-20T21:41:52.457Z"
+  },
+  {
+    "slug": "provena-open-source-library-for-ai-agent-context-governance-hn",
+    "title": "Provena: Open-Source Library for AI Agent Context Governance",
+    "shortDescription": "Looking for contributors! We have 7 contributors and We have 11 &quot;good first issue&quot; labels and 17 &quot;help wanted&quot; issues.…",
+    "fullDescription": "Looking for contributors! We have 7 contributors and We have 11 &quot;good first issue&quot; labels and 17 &quot;help wanted&quot; issues. All well-scoped with code examples. Project: Nobody governs the context input layer. Tools exist to govern what agents DO (Microsoft AGT), what agents SAY (Guardrails AI), and how agents COMMUNICATE (NeMo). But the data flowing INTO the context window — retriever results, tool outputs, agent messages — is completely ungoverned. That&#x27;s what Provena fixes\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/rajfirke/provena",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48984491",
+    "createdAt": "2026-07-20T21:41:52.457Z"
+  },
+  {
+    "slug": "cognikernel-local-memory-for-ai-coding-assistants-hn",
+    "title": "Cognikernel- Local Memory for AI Coding Assistants",
+    "shortDescription": "Every coding session in claude code&#x2F; codex starts blindly. It forgets the archiectural decisions you made in a session you ran yesterd…",
+    "fullDescription": "Every coding session in claude code&#x2F; codex starts blindly. It forgets the archiectural decisions you made in a session you ran yesterday&#x2F; a week ago or a month ago. We end up depending on maintaining a Claude.md file or diff markdown files that these agents rely on their memory features. I started building CogniKernel to solve this problem. Instead of relying on markdown memory files, CogniKernel observes the coding session itself. It captures decisions, constraints, architectural decisions, project specific context etc info as they naturally emerge. The goal is simple: The agent should remember what it learned yesterday without me telling it what to remember. Some things it stores automatically: - Architectural decisions and design rationale - Project conventions and coding patterns - Important implementation details - User preferences and recurring constraints - Relationships between files, modules, and components The memory is local-first and designed to work alongside existing coding agents rather than replace them. A few design goals I had: - Zero manual memory curation - Local storage instead of cloud dependency - Fast retrieval with relevant context instead of dumping everything - Agent-agnostic architecture so it can work beyond a single coding assistant - Memory that improves over time instead of growing into an unsearchable log Was it impactful??? I build 4 full fledged projects using cognikernel while switching the auto-memory off from claude code and same project same prompt, same sessions using the auto memory - 30% Less Tokens used - 4x less read tools used And a bonus!!! If you use claude code and codex both you can just start a session in alternate tool and your memory will carry forward there as well!!! This was a hobby project and if you use it and it helped your work, please let me know any feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/KanishkNoir/cognikernel",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48984355",
+    "createdAt": "2026-07-20T21:41:52.457Z"
+  },
+  {
     "slug": "abigail-github",
     "title": "abigail",
     "shortDescription": "Async Python CLI & library for FREE web AI services - No Login, No Api Key, No Browser Required ",
