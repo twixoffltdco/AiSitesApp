@@ -1,5 +1,101 @@
 [
   {
+    "slug": "voxthermic-a-macos-journaling-app-that-uses-apples-foundation-models-hn",
+    "title": "VoxThermic – A macOS journaling app that uses Apple's Foundation Models",
+    "shortDescription": "TL;DR version: I made a macOS journaling app that use Foundation Models to analyze entries for mood + written themes, and also has voice tr…",
+    "fullDescription": "TL;DR version: I made a macOS journaling app that use Foundation Models to analyze entries for mood + written themes, and also has voice transcription, because I couldn&#x27;t find any other journaling app that does those things. OK, now for the longer, I-rambled-too-much version: For the past few weeks I&#x27;ve been working on a macOS journaling app called VoxThermic. The idea for it came from my own journaling habits, where my mood tends to shift a lot depending on whatever I&#x27;m dealing with. I&#x27;ve tried some journaling apps, but I&#x27;ve never found one that can analyze mood or see how my mood changes depending on what I&#x27;m writing about. So I just figured I&#x27;d build it myself. I&#x27;ve been experimenting a lot with Apple&#x27;s Foundation Models and Natural Language frameworks, and those all work on-device and offline (which is good because there&#x27;s no way I&#x27;m sending journal entries to some AI company&#x27;s data centers!) But there&#x27;s one problem with using Foundation Models: they&#x27;re tiny. About 3 billion parameters, with a context window of 4096 tokens. That&#x27;s fine for analyzing ONE journal entry. But how would I get it to analyze multiple entries? It took a lot of experiments and the Foundation Model just outright refusing to work for several of them. Turns out it just refuses to work if you send in too much data... who would have guessed? Eventually I came up with one solution: summarizing multiple entries and then passing those into the model. Sometimes the summaries get summarized too, depending on the amount of data to process. The approach works, but summarization loses detail and nuance. The analysis for a single journal entry can have a lot of detail and depth, because there&#x27;s no summarizing involved and thus no data loss. The summary for a year&#x27;s worth of entries... that&#x27;s not so detailed. I still haven&#x27;t found a better approach that stays entirely on-device. Oh yeah, on an unrelated note: I also like to ramble a lot (you could have guessed, huh?), but I like to ramble out loud, rather than type. So I made voice transcription a big feature of the app, though this was the easy part. Anyway, everything here works on-device, and it can run offline. And I&#x27;m aware this is probably a niche app, but it&#x27;s something I wanted for myself, and I hope it comes in handy for someone else too. The app is free to download and use, with optional features like AI summaries and PDF exports. Lastly, I also wonder if anyone&#x27;s figured a better way of doing long-term analysis with Foundation Models? My &quot;summarize the data and pass in a collection of summaries&quot; technique works, but I don&#x27;t think it&#x27;s elegant, and yet at the same time I haven&#x27;t been able to figure out anything better.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://voxthermic.jbri.workers.dev/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48979539",
+    "createdAt": "2026-07-20T15:28:13.736Z"
+  },
+  {
+    "slug": "sidereon-gnss-and-astrodynamics-python-rust-javascript-c-elixir-hn",
+    "title": "Sidereon: GNSS and Astrodynamics (Python, Rust, JavaScript, C, Elixir)",
+    "shortDescription": "I’ve been building Sidereon, an MIT-licensed GNSS positioning and astrodynamics engine. The submission is a browser demo running the Rust c…",
+    "fullDescription": "I’ve been building Sidereon, an MIT-licensed GNSS positioning and astrodynamics engine. The submission is a browser demo running the Rust core client-side through WASM. Source for this: https:&#x2F;&#x2F;github.com&#x2F;neilberkman&#x2F;sidereon The idea is one engine for both the receiver and spacecraft sides: SPP&#x2F;RTK&#x2F;PPP, RINEX&#x2F;RTCM&#x2F;NTRIP, Galileo HAS&#x2F;SSR, GNSS&#x2F;INS fusion, SGP4 and numerical propagation, orbit determination, conjunction screening, pass prediction, reference frames, and time systems. Python, Rust, JavaScript&#x2F;WASM, C, and Elixir all use the same core. Several features came directly from open issues in widely used GNSS and astrodynamics libraries: multi-constellation ARAIM, Galileo state-space corrections, station-displacement corrections, sidereal multipath filtering, and track cleanup without an IMU. Tests compare results with RTKLIB, the 33-satellite Vallado&#x2F;CelesTrak SGP4 verification corpus, pinned Skyfield frame vectors, Karney’s test set, and the published WG-C ARAIM example. The Vallado corpus and Skyfield vectors match at 0 ULP. The language-specific interfaces are here: Python: https:&#x2F;&#x2F;github.com&#x2F;neilberkman&#x2F;sidereon-python JavaScript&#x2F;WASM: https:&#x2F;&#x2F;github.com&#x2F;neilberkman&#x2F;sidereon-wasm C: https:&#x2F;&#x2F;github.com&#x2F;neilberkman&#x2F;sidereon-c Elixir: https:&#x2F;&#x2F;github.com&#x2F;neilberkman&#x2F;sidereon-ex Much of the code was written with AI coding agents, with me very much in the loop. I&#x27;d really appreciate any feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://sidereon.dev",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48979223",
+    "createdAt": "2026-07-20T15:28:13.736Z"
+  },
+  {
+    "slug": "building-a-product-for-humans-and-ai-agents-hn",
+    "title": "Building a product for humans and AI agents",
+    "shortDescription": "Проект «Building a product for humans and AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Building a product for humans and AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://slobodan.me/posts/introducing-competitor-tracker/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48979190",
+    "createdAt": "2026-07-20T15:28:13.736Z"
+  },
+  {
+    "slug": "codetrain-an-ai-tutor-that-refuses-to-write-code-for-you-hn",
+    "title": "CodeTrain – an AI tutor that refuses to write code for you",
+    "shortDescription": "Проект «CodeTrain – an AI tutor that refuses to write code for you», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «CodeTrain – an AI tutor that refuses to write code for you», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://codetrain.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48979014",
+    "createdAt": "2026-07-20T15:28:13.736Z"
+  },
+  {
+    "slug": "making-10-minute-ai-movies-with-claude-code-and-higgsfield-hn",
+    "title": "Making 10-minute AI movies with Claude Code and Higgsfield",
+    "shortDescription": "I&#x27;ve been working on this Claude Code pipeline for making 10-minute movies, gluing together Seedance (videogen), Nano Banana (image ge…",
+    "fullDescription": "I&#x27;ve been working on this Claude Code pipeline for making 10-minute movies, gluing together Seedance (videogen), Nano Banana (image gen), and ElevenLabs (voice gen), and using Claude as the director. My repo contributes a markdown playbook and a worked example which should make it easier for other people to make their own short movies. A first-pass movie takes around 2.5 hours of wall clock time and costs around $200, and iterating is easy thanks to intermediate artifacts like storyboards and voice samples.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/dawndrain/movie-gen",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48978961",
+    "createdAt": "2026-07-20T15:28:13.736Z"
+  },
+  {
+    "slug": "the0-self-hosted-runtime-for-trading-bots-bring-your-own-language-hn",
+    "title": "The0 – self-hosted runtime for trading bots, bring your own language",
+    "shortDescription": "So Im a solo developer who has always had an itch for algorithmic trading. Initially I started off learning how to trade algorithmically wi…",
+    "fullDescription": "So Im a solo developer who has always had an itch for algorithmic trading. Initially I started off learning how to trade algorithmically with Yves Hilpisch book &quot;Python for Algorithmic Trading&quot; after reading that book I was hooked and started building algorithmic trading bots. Initially these were separate python scripts that I ran on my local machine. That was a bad idea cause local machines are not reliable and I wanted to run my bots 24&#x2F;7 365. In my actual career im a software engineer with experience in building distributed systems and fault tolerant web applications. I wasn&#x27;t interested in deploying my code to managed services like MetaTrader, CTrader or QuantConnect etc because I wanted to have full control over my code and the environment it runs in. I also wanted to be able to run my bots in any programming language I wanted, not just Python. Sometimes I wanted to prototype a bot in Python and then rewrite it in C++ or Rust for performance reasons. Many at this point would have said why not use a framework like Lean or Freqtrade or Hummingbot. However I found that these frameworks were too opinionated and if you decide to use them then your bot is now part and parcel of their framework. I backtested my bots locally in my own specific way, and now with AI my agents can generate code, backtest and analyze the results all locally, no need to run any of it in the execution platform. I wanted bots I could deploy, version, update and monitor like any other software application. I also wanted to explore building something that creates a standardized way of running bots. This has been a 4 year journey and I made a lot of mistakes along the way. The application has seen 4 rearchitectures, 3 of which were basically complete rewrites. The first version was a python program and the bots were just modules that were loaded dynamically. The second was my serverless phase when I internally just wanted something that was online cron triggered and only works for me. The third was the first time I was dipping into kubernetes; more cloud native and the idiot in me decided to try make it a SaaS. The final form is a fully self-hosted runtime, api, cli and frontend that let you run bots as containers in a fault tolerant way both locally (through docker `the0 local`) and in a cluster (k8s) and monitor them with a minimalistic frontend. To support multiple languages there&#x27;s a thin contract that the bots have to implement: a main(bot_id, config) function and a bot-config.yaml file. The runtime (written in Go) takes care of the rest, it supports C++, Rust, Python, JS&#x2F;TS, C#, Scala and Haskell for those who are brave enough to try it. More on the architecture here: https:&#x2F;&#x2F;docs.the0.app&#x2F;runtime If you want to play with the0 you can run it locally, guide here: https:&#x2F;&#x2F;docs.the0.app&#x2F;deployment&#x2F;local-getting-started . The0 is open source and licensed under Apache-2.0: https:&#x2F;&#x2F;github.com&#x2F;alexanderwanyoike&#x2F;the0 I currently use the0 to run my own personal algorithmic trading bots on a single node k3s cluster on a $10&#x2F;month Hetzner VPS. I have 18 bots running on 2 brokers (Alpaca, Bybit) and they have been running for months without issues. Some bots trade crypto, others stocks, some do risk analysis and others invest. Coolest bit is the API provides an MCP server so AI agents can query the state of the bots, look at their logs, monitor them and even update them. Slap an OpenClaw agent and you can effectively setup an autonomous AI quantitative trading system (good luck chasing Alpha). Now I must admit Lean has all the tools and far more quantitative prowess than the0, but I always felt it does too much. Each Lean engine runs one algorithm, and once you have lots of bots, running and managing all of them in production is left to you. That&#x27;s the part the0 does, and its the only part it tries to do. If you find hiccups or have ideas for features Im all ears. More on the internals in my first comment.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/alexanderwanyoike/the0",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48978880",
+    "createdAt": "2026-07-20T15:28:13.737Z"
+  },
+  {
     "slug": "zyraxon-ai-github",
     "title": "ZYRAXON-AI",
     "shortDescription": "The open source agent. ",
