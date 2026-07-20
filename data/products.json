@@ -1,5 +1,53 @@
 [
   {
+    "slug": "fluxnation-the-fastest-flux1-execution-kernel-hn",
+    "title": "Fluxnation, the Fastest FLUX.1 Execution Kernel",
+    "shortDescription": "My kernel FLUXNATION is the fastest FLUX.1 kernel currently in existence. I engineered this from the ground up to replace standard ComfyUI…",
+    "fullDescription": "My kernel FLUXNATION is the fastest FLUX.1 kernel currently in existence. I engineered this from the ground up to replace standard ComfyUI SingleStreamBlock implementations by shifting the entire execution flow to a custom C++&#x2F;CUDA engine, eliminating all unnecessary overhead. I developed the custom Triton kernel to handle the neuromorphic inspired Spike Attention, iterating the design via Nsight Compute until the hardware utilization reached its absolute capacity. S Tier Performance: The kernel achieves 4–6 second image generation times on any sampler or scheduler, regardless of whether you are running 20 or 50 steps. Once Spikey kicks in, it goes ham and COOKS with 0 image quality loss. Bare metal C++&#x2F;CUDA Engine: I stripped out the standard execution path and built a custom SSBEngine that interfaces directly with torch.ops. Zero ctypes latency, zero wasted cycles. Fused Computations: The kernel executes gate, residual, and bias computations in a single high velocity lovelace pass. This completely eliminates the intermediate float32 memory bottlenecks that choke standard pipelines. Custom Neuromorphic Spike Attention: This aint an off the shelf implementation. I wrote a JIT-compiled Triton kernel from the ground up that uses block-sparse logic to drop attention FLOPs by ~90% after a defined step threshold, without degrading image fidelity. Spikey straight cooks. Cache Stepping &amp; Native FP8: I integrated explicit cache stepping logic to manage state. The first generation takes a moment to saturate the system, but every run after that operates at peak velocity. I also built in native float8_e4m3fn support with automated per-tensor scaling and module-level weight caching to ensure zero redundant extractions. Spikey and cache stepping compliment each other beautifully. Nsight Compute Verified: I profiled and iterated this through Nsight Compute until there was literally no more theoretical headroom. The kernel utilizes the lovelace architecture at full physical capacity. I have untested 10 series through 30 series iterations on my github, I have a 1080TI in my other rig but I havent tested the 10 series iteration on it, or the 20 or 30 series as I dont have those cards. I cooked only on the lovelace architecture, so feel free to give them a whirl if you rock those cards or want to fix it if broke. ComfyUI Integration: The kernel is fully integrated into the ComfyUI Manager, allowing for immediate deployment via custom nodes. I don&#x27;t think anyone has seen it yet though it&#x27;s been up for a while. Hopefully some people here can appreciate my work and utilize it themselves. Its night and day difference and allows image generation to cook on whole new level. Just search FLUXNATION is comfyui manager. Access: The codebase is live on GitHub for developers requiring high concurrency, high velocity diffusion performance. GitHub Repository: https:&#x2F;&#x2F;github.com&#x2F;ULT7RA&#x2F;FLUXNATION\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/ULT7RA/FLUXNATION",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48975403",
+    "createdAt": "2026-07-20T08:24:09.033Z"
+  },
+  {
+    "slug": "tool-to-help-old-java-projects-not-on-modern-build-systems-hn",
+    "title": "Tool to help old Java projects not on modern build systems",
+    "shortDescription": "The tool resolves dependencies and generates a ZIP containing the artifact and all required transitive JARs. Visualization to see the depen…",
+    "fullDescription": "The tool resolves dependencies and generates a ZIP containing the artifact and all required transitive JARs. Visualization to see the dependency graph. Some use cases: • Legacy Ant projects • No modern build system • Air-gapped or offline environments and need to upgrade a jar with transitive jars. • Quick prototyping and debugging • Situations where you just need the JARs( including transitive jars) and not a full Maven project The service doesn&#x27;t require an account and doesn&#x27;t retain dependency requests. New features or suggestions are welcome here: https:&#x2F;&#x2F;github.com&#x2F;pmg1991&#x2F;maven-tools , MIT License source code. Recommended Maven commands if you have a proper Maven project setup: # Download dependencies to local repository mvn dependency:go-offline # Copy dependencies to a directory (default: target&#x2F;dependency) mvn dependency:copy-dependencies # Copy dependencies to custom directory mvn dependency:copy-dependencies -DoutputDirectory=&#x2F;path&#x2F;to&#x2F;dir # Download all dependencies (including transitive) mvn dependency:resolve\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://maven-tools.mohants.com/",
+    "category": "design",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48975373",
+    "createdAt": "2026-07-20T08:24:09.033Z"
+  },
+  {
+    "slug": "a-fast-free-ai-text-humanizer-powered-by-groq-llama-33-hn",
+    "title": "A fast, free AI text humanizer powered by Groq Llama 3.3",
+    "shortDescription": "Проект «A fast, free AI text humanizer powered by Groq Llama 3.3», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A fast, free AI text humanizer powered by Groq Llama 3.3», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://zlvox.com/tools/ai-humanizer",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48974544",
+    "createdAt": "2026-07-20T08:24:09.033Z"
+  },
+  {
     "slug": "devops-vn-blog-github",
     "title": "devops-vn-blog",
     "shortDescription": "DevOps VN is a website that shares knowledge about DevOps and Cloud Computing.",
