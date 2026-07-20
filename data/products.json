@@ -1,5 +1,43 @@
 [
   {
+    "slug": "devops-vn-blog-github",
+    "title": "devops-vn-blog",
+    "shortDescription": "DevOps VN is a website that shares knowledge about DevOps and Cloud Computing.",
+    "fullDescription": "DevOps VN is a website that shares knowledge about DevOps and Cloud Computing.\n\nАвтор: VersusControl. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://devopsvn.tech",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "aws",
+      "cloud",
+      "devops",
+      "kubernetes",
+      "sre",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1305704141",
+    "createdAt": "2026-07-20T05:04:08.603Z"
+  },
+  {
+    "slug": "local-first-cli-to-make-obsidian-vaults-searchable-for-ai-agents-hn",
+    "title": "Local-first CLI to make Obsidian vaults searchable for AI agents",
+    "shortDescription": "Проект «Local-first CLI to make Obsidian vaults searchable for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Local-first CLI to make Obsidian vaults searchable for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/nmdra/notebrain-cli",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48974142",
+    "createdAt": "2026-07-20T05:04:08.545Z"
+  },
+  {
     "slug": "sturna-github",
     "title": "sturna",
     "shortDescription": "The autonomous private-markets desk. A swarm of six AI agents sources, scores, constructs and rebalances a basket of tokenized pre-IPO & re…",
