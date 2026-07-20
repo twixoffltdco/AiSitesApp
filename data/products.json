@@ -1,5 +1,135 @@
 [
   {
+    "slug": "switch-homebrew-github",
+    "title": "switch-homebrew",
+    "shortDescription": "Self-contained AI skill for Nintendo Switch homebrew development",
+    "fullDescription": "Self-contained AI skill for Nintendo Switch homebrew development\n\nАвтор: Lili679280. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Lili679280/switch-homebrew",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "devkitpro",
+      "homebrew",
+      "libnx",
+      "nintendo-switch",
+      "nro",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1306636261",
+    "createdAt": "2026-07-20T16:57:49.337Z"
+  },
+  {
+    "slug": "reward-engineering-for-reinforcement-learning-based-autonomous-maze-navigation-g",
+    "title": "Reward-Engineering-for-Reinforcement-Learning-based-Autonomous-Maze-Navigation",
+    "shortDescription": "Reward engineering and policy optimization for reinforcement learning-based autonomous maze navigation.",
+    "fullDescription": "Reward engineering and policy optimization for reinforcement learning-based autonomous maze navigation.\n\nАвтор: kevinph4n. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/kevinph4n/Reward-Engineering-for-Reinforcement-Learning-based-Autonomous-Maze-Navigation",
+    "category": "developer",
+    "tags": [
+      "agent",
+      "ai",
+      "autonomous",
+      "reinforcement-learning",
+      "reward-shaping",
+      "robotics",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1306439769",
+    "createdAt": "2026-07-20T16:57:49.337Z"
+  },
+  {
+    "slug": "applyworkflow-github",
+    "title": "ApplyWorkflow",
+    "shortDescription": "A modular Python pipeline that automates job applications by reading Excel entries, tailoring CVs with LLMs, generating customized cover em…",
+    "fullDescription": "A modular Python pipeline that automates job applications by reading Excel entries, tailoring CVs with LLMs, generating customized cover emails, compiling Typst resumes into PDFs, and sending applications via Gmail API. \n\nАвтор: Elmbark. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Elmbark/ApplyWorkflow",
+    "category": "developer",
+    "tags": [
+      "agent",
+      "ai",
+      "ats",
+      "automation",
+      "llm",
+      "pipeline",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1305881896",
+    "createdAt": "2026-07-20T16:57:49.337Z"
+  },
+  {
+    "slug": "a-chrome-extension-that-adds-an-ai-side-panel-to-leetcode-problems-hn",
+    "title": "A Chrome extension that adds an AI side panel to LeetCode problems",
+    "shortDescription": "Проект «A Chrome extension that adds an AI side panel to LeetCode problems», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A Chrome extension that adds an AI side panel to LeetCode problems», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://leetcopilot.dev",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48980492",
+    "createdAt": "2026-07-20T16:57:49.141Z"
+  },
+  {
+    "slug": "newsline-one-line-news-in-your-status-line-while-your-ai-agent-works-hn",
+    "title": "Newsline – one-line news in your status line while your AI agent works",
+    "shortDescription": "Проект «Newsline – one-line news in your status line while your AI agent works», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Newsline – one-line news in your status line while your AI agent works», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/itdar/newsline",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48980485",
+    "createdAt": "2026-07-20T16:57:49.141Z"
+  },
+  {
+    "slug": "deepsql-a-self-hostable-ai-dba-agent-for-postgres-and-mysql-hn",
+    "title": "DeepSQL – A self-hostable AI DBA agent for Postgres and MySQL",
+    "shortDescription": "Hi HN - I&#x27;m Venkat, founder of Stayflexi (YC), CMU CS grad and Ex-Oracle Query Engine team (patents in core databases) DeepSQL started…",
+    "fullDescription": "Hi HN - I&#x27;m Venkat, founder of Stayflexi (YC), CMU CS grad and Ex-Oracle Query Engine team (patents in core databases) DeepSQL started as an internal tool to stop our own databases from becoming the bottleneck they were becoming (13,000+ hotels in production). It worked well enough that we&#x27;re releasing it. DeepSQL is an AI agent that operates a database the way a senior DBA and Data Engineer would 1. Fixes slow queries (we cutdown DB spend by 4x) 2. Fixes DB bloat (blocks unnecessary schema changes, in vibecoded setup) 2. BI dashboards(we removed spend on tableau, retool and appsmith) 3. Security (We could redact access to sensitive, PII data to our employees) while engaging everyone in the org to interact with our database How it works 1. Deepsql learns your data and relationships from your code base, rules and query logs 2. Deepsql agent has 20 background jobs that continuously monitor the schema changes, bottlenecks, and come up with solutions before the problem arises. (Schema bloat issues are irreversible) 3. Deepsql Brain has CLI and MCP surfaces that can directly work with Claude &#x2F; Codex and Cursor. 4. Deepsql digest delivers the daily database health report. 5. Your team can connect to deepsql with their favourate surface areas - Web UI, CLI, MCP or Slack. One line install: curl -fsSL https:&#x2F;&#x2F;install.deepsql.ai&#x2F;install.sh | bash For community support: https:&#x2F;&#x2F;discord.gg&#x2F;duEJq7AeeG Or just email me for expert level setup guidance venkat@stayflexi.com\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://deepsql.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48980286",
+    "createdAt": "2026-07-20T16:57:49.141Z"
+  },
+  {
+    "slug": "vestige-splits-large-ai-diffs-into-reviewable-chunks-hn",
+    "title": "Vestige - Splits large AI diffs into reviewable chunks",
+    "shortDescription": "Проект «Vestige - Splits large AI diffs into reviewable chunks», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Vestige - Splits large AI diffs into reviewable chunks», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://marketplace.visualstudio.com/items?itemName=Vestige.vestige-vscode-extension",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48980193",
+    "createdAt": "2026-07-20T16:57:49.141Z"
+  },
+  {
     "slug": "voxthermic-a-macos-journaling-app-that-uses-apples-foundation-models-hn",
     "title": "VoxThermic – A macOS journaling app that uses Apple's Foundation Models",
     "shortDescription": "TL;DR version: I made a macOS journaling app that use Foundation Models to analyze entries for mood + written themes, and also has voice tr…",
