@@ -1,5 +1,75 @@
 [
   {
+    "slug": "zyraxon-ai-github",
+    "title": "ZYRAXON-AI",
+    "shortDescription": "The open source agent. ",
+    "fullDescription": "The open source agent. \n\nАвтор: onelpawarai. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://zyraxonai.lovable.app/",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-assistant",
+      "ai-coding-agent",
+      "alternative-to-cursor",
+      "beast-mode",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1305470091",
+    "createdAt": "2026-07-20T13:25:34.343Z"
+  },
+  {
+    "slug": "give-your-ai-agent-a-personality-and-a-voice-without-external-apis-hn",
+    "title": "Give your AI agent a personality (and a voice) without external APIs",
+    "shortDescription": "Проект «Give your AI agent a personality (and a voice) without external APIs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Give your AI agent a personality (and a voice) without external APIs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://fellowgeek.github.io/mcp-speak/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48978296",
+    "createdAt": "2026-07-20T13:25:34.151Z"
+  },
+  {
+    "slug": "restk-a-native-api-client-that-stores-your-workspace-as-files-in-git-hn",
+    "title": "Restk – a native API client that stores your workspace as files in Git",
+    "shortDescription": "Проект «Restk – a native API client that stores your workspace as files in Git», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Restk – a native API client that stores your workspace as files in Git», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://restk.ai",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48977460",
+    "createdAt": "2026-07-20T13:25:34.151Z"
+  },
+  {
+    "slug": "an-end-to-end-seo-audit-hn",
+    "title": "An end to end SEO audit",
+    "shortDescription": "Does the lot: Crawls your site, pulls Google search console data, uses dataforseo for finding opportunities. Run it, get it to tell you wha…",
+    "fullDescription": "Does the lot: Crawls your site, pulls Google search console data, uses dataforseo for finding opportunities. Run it, get it to tell you what needs fixing, what content you&#x27;re missing and frankly, decades of seo experience to get right.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/houtini-ai/seo-audit-console",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48977423",
+    "createdAt": "2026-07-20T13:25:34.151Z"
+  },
+  {
     "slug": "hakoniwa-github",
     "title": "hakoniwa",
     "shortDescription": "a tiny box world where your AI lives · 你放东西 AI住在里面走来走去",
