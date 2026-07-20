@@ -1,5 +1,83 @@
 [
   {
+    "slug": "sturna-github",
+    "title": "sturna",
+    "shortDescription": "The autonomous private-markets desk. A swarm of six AI agents sources, scores, constructs and rebalances a basket of tokenized pre-IPO & re…",
+    "fullDescription": "The autonomous private-markets desk. A swarm of six AI agents sources, scores, constructs and rebalances a basket of tokenized pre-IPO & real-world assets - settling on Robinhood Chain and routing through the official Robinhood agentic trading MCP.\n\nАвтор: tylerbroqs. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://sturna.tech",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "autonomous-agents",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1305516365",
+    "createdAt": "2026-07-20T01:06:44.857Z"
+  },
+  {
+    "slug": "octoquery-github",
+    "title": "octoquery",
+    "shortDescription": "Let AI agents query your databases safely: each DB becomes an MCP tool, each schema a skill.",
+    "fullDescription": "Let AI agents query your databases safely: each DB becomes an MCP tool, each schema a skill.\n\nАвтор: benedya. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/benedya/octoquery",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "database",
+      "mcp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1305083086",
+    "createdAt": "2026-07-20T01:06:44.857Z"
+  },
+  {
+    "slug": "pdf-chatgpt-github",
+    "title": "pdf-chatgpt",
+    "shortDescription": "A production-ready AI PDF chat application built with FastAPI, LangChain, FAISS, and the OpenAI Responses API, enabling intelligent documen…",
+    "fullDescription": "A production-ready AI PDF chat application built with FastAPI, LangChain, FAISS, and the OpenAI Responses API, enabling intelligent document conversations through Retrieval-Augmented Generation (RAG).\n\nАвтор: OlehDatsyk. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/OlehDatsyk/pdf-chatgpt",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "chatbot",
+      "claude",
+      "embeddings",
+      "langchain",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1305648643",
+    "createdAt": "2026-07-20T01:06:44.857Z"
+  },
+  {
+    "slug": "headroom-measure-your-gpus-true-bandwidth-ceiling-for-local-ai-hn",
+    "title": "Headroom – measure your GPU's true bandwidth ceiling for local AI",
+    "shortDescription": "Проект «Headroom – measure your GPU's true bandwidth ceiling for local AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Headroom – measure your GPU's true bandwidth ceiling for local AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ar5en1c.github.io/headroom/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48973142",
+    "createdAt": "2026-07-20T01:06:44.777Z"
+  },
+  {
     "slug": "awesome-generative-ui-github",
     "title": "awesome-generative-ui",
     "shortDescription": "Developer resources for building with and learning about generative UI",
