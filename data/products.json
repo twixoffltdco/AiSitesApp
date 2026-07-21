@@ -1,5 +1,53 @@
 [
   {
+    "slug": "friday-a-local-first-desktop-ai-assistant-that-can-use-tools-hn",
+    "title": "Friday – a local-first desktop AI assistant that can use tools",
+    "shortDescription": "Проект «Friday – a local-first desktop AI assistant that can use tools», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Friday – a local-first desktop AI assistant that can use tools», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://friday.haraldbregu.com/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48990452",
+    "createdAt": "2026-07-21T11:22:30.424Z"
+  },
+  {
+    "slug": "semglot-sqlglot-for-semantic-layers-hn",
+    "title": "Semglot – Sqlglot for Semantic Layers",
+    "shortDescription": "Hey HN, I’m André, one of the people that is building benchouse.ai, a public leaderboard for analytics agents. To score every agent fairly,…",
+    "fullDescription": "Hey HN, I’m André, one of the people that is building benchouse.ai, a public leaderboard for analytics agents. To score every agent fairly, we need to give them equivalent semantic context. Every agent has their own format ranging from dbt docs to Snowflake semantic views or custom yaml formats. I was porting them over manually, but every change in the reference context meant updating multiple docs. Quite annoying. So we wrote semglot, it reads one semantic model and emits another one. Similar to sqlglot but for semantic layers. Today it reads dbt and writes to 6 different targets. Many more to come as we add more agents to benchouse.ai MIT licensed.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/benchouse/semglot",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48990182",
+    "createdAt": "2026-07-21T11:22:30.424Z"
+  },
+  {
+    "slug": "trigger-tree-see-which-project-docs-your-ai-coding-agent-reads-hn",
+    "title": "Trigger-tree; see which project docs your AI coding agent reads",
+    "shortDescription": "Проект «Trigger-tree; see which project docs your AI coding agent reads», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Trigger-tree; see which project docs your AI coding agent reads», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Hedde/trigger_tree",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48990020",
+    "createdAt": "2026-07-21T11:22:30.424Z"
+  },
+  {
     "slug": "nova-github",
     "title": "nova",
     "shortDescription": "AI-powered multi-agent classroom that turns any topic into an interactive learning experience",
