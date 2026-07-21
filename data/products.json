@@ -1,5 +1,101 @@
 [
   {
+    "slug": "tokenpath-token-level-citations-for-llm-output-read-from-attention-hn",
+    "title": "TokenPath – token-level citations for LLM output, read from attention",
+    "shortDescription": "Проект «TokenPath – token-level citations for LLM output, read from attention», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «TokenPath – token-level citations for LLM output, read from attention», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://tokenpath.ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48997273",
+    "createdAt": "2026-07-21T19:59:28.102Z"
+  },
+  {
+    "slug": "track-aircraft-at-this-weeks-busiest-airport-osh-hn",
+    "title": "Track aircraft at this week's busiest airport (OSH)",
+    "shortDescription": "Проект «Track aircraft at this week's busiest airport (OSH)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Track aircraft at this week's busiest airport (OSH)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://flights.angad.me",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48996528",
+    "createdAt": "2026-07-21T19:59:28.102Z"
+  },
+  {
+    "slug": "tsaagan-browser-control-for-ai-agents-that-verifies-every-action-hn",
+    "title": "Tsaagan – Browser control for AI agents that verifies every action",
+    "shortDescription": "Проект «Tsaagan – Browser control for AI agents that verifies every action», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Tsaagan – Browser control for AI agents that verifies every action», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/michaelolmos/tsaagan",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48996382",
+    "createdAt": "2026-07-21T19:59:28.102Z"
+  },
+  {
+    "slug": "fractal-recursive-agent-loops-for-complex-multi-step-work-hn",
+    "title": "Fractal – recursive agent loops for complex, multi-step work",
+    "shortDescription": "Проект «Fractal – recursive agent loops for complex, multi-step work», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Fractal – recursive agent loops for complex, multi-step work», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 14 баллов.",
+    "url": "https://github.com/plasma-ai/fractal",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48996269",
+    "createdAt": "2026-07-21T19:59:28.103Z"
+  },
+  {
+    "slug": "threadfork-ai-meeting-notes-that-run-on-your-mac-hn",
+    "title": "threadfork – AI meeting notes that run on your Mac",
+    "shortDescription": "Hi HN, I built threadfork. It&#x27;s an AI notetaker where the whole pipeline runs locally on Apple Silicon. Your microphone and system aud…",
+    "fullDescription": "Hi HN, I built threadfork. It&#x27;s an AI notetaker where the whole pipeline runs locally on Apple Silicon. Your microphone and system audio gets captured without a meeting bot and most importantly your meeting data doesn’t get sent or saved anywhere. I&#x27;ve been building in the privacy + local LLM space for the past several years (I started DataFog, an OSS PII detection library with 300K+ downloads); keeping all the processing and data on-device was a day 0 condition for me when building this out. Granola&#x27;s updated privacy policy, effective later this week, keeps non-enterprise users opted into model training on &quot;de-identified&quot; data by default. Having built PII detection for a living, I&#x27;ll say plainly: de-identifying meeting transcripts is really hard. Names are the easy part; deal terms, client details, and health disclosures are the transcript. For the lawyers, consultants, and therapists I&#x27;ve been talking to, the only version of this that holds up is the model never seeing the data at all. It&#x27;s macOS 14+ on Apple M-Series computers (for now), 14-day trial, no credit card. I have a user running this on an M1 8GB so older machines welcome. $40&#x2F;month after that. I use this product daily and you can expect regular updates. Welcome any&#x2F;all feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 10 баллов.",
+    "url": "https://www.threadfork.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48996204",
+    "createdAt": "2026-07-21T19:59:28.103Z"
+  },
+  {
+    "slug": "a-self-running-space-economy-sim-in-rust-and-bevy-hn",
+    "title": "A self-running space economy SIM in Rust and Bevy",
+    "shortDescription": "I built this with Claude cause I always wanted to tinker with a simulation economoy and I love space themes. A space-economy sim where noth…",
+    "fullDescription": "I built this with Claude cause I always wanted to tinker with a simulation economoy and I love space themes. A space-economy sim where nothing is scripted. A few hundred autonomous ships each run their own planner. Some chase the best trade route, take a delivery contract, refuel, retrofit at a shipyard, or dock so the crew can rest before morale tanks. Markets price everything off supply with shortage-urgency multipliers, factions tax and subsidize, populations migrate when they&#x27;re unhappy, and stations that go broke get abandoned and rot. It started as an Elixir&#x2F;Phoenix prototype, but the BEAM scheduler struggled on Windows gaming PCs, so I had Claude rewrite the engine in Rust. The sim core is pure, synchronous, IO-free (its own hecs ECS), and the Bevy client embeds it directly as a library, sim and renderer share one world with zero marshalling. Ship AI is a GOAP planner over a world state; ships replan mid-flight when a better option appears. ~485 agents today at p50 ~10-20ms&#x2F;tick, architected to push toward 100k+. Single native binary, bundled SQLite, no runtime deps. Getting into 100k has been a struggle, but I have pushed it into the thousand and it was running fine. It&#x27;s a sandbox, not a game yet, there&#x27;s no objective yet, and I&#x27;m not actively pushing it toward &quot;shippable.&quot; Anyone can fork it and take it over. Or it can stay as some type of AI slop, but part of me thinks it is already in a pretty good shape for a simulation use for various games or ideas. (Full disclosure: a lot of this was built pairing with Claude. That&#x27;s how I had the bandwidth to take it this far. Happy to talk about what that workflow actually looked like.)\n\nНайдено в разделе Show HN на Hacker News. 👍 25 баллов.",
+    "url": "https://github.com/Kalcode/spaceprojectsim",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48996187",
+    "createdAt": "2026-07-21T19:59:28.103Z"
+  },
+  {
     "slug": "edky-a-cli-to-convert-ed25519-public-keys-from-one-encoding-to-another-hn",
     "title": "Edky, a CLI to convert Ed25519 public keys from one encoding to another",
     "shortDescription": "Everything increasingly runs on Ed25519 keypairs, but Ed25519 public keys can be encoded as text in dozens of surface-incompatible differen…",
