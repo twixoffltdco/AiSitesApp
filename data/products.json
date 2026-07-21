@@ -1,5 +1,171 @@
 [
   {
+    "slug": "wave-github",
+    "title": "wave",
+    "shortDescription": "A versioned, extensible dataset compiler. Transforms a rich, human-editable dataset into multiple machine-readable for LLM training.",
+    "fullDescription": "A versioned, extensible dataset compiler. Transforms a rich, human-editable dataset into multiple machine-readable for LLM training.\n\nАвтор: sammwyy. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/sammwyy/wave",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "alpaca",
+      "chatml",
+      "compiler",
+      "dataset",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1306561419",
+    "createdAt": "2026-07-21T03:55:00.857Z"
+  },
+  {
+    "slug": "turn-casual-photos-into-professional-headshots-with-ai-hn",
+    "title": "Turn casual photos into professional headshots with AI",
+    "shortDescription": "A while back I needed an ID photo for something urgent. The only way to get one was to find a photo studio, book a time, and wait around fo…",
+    "fullDescription": "A while back I needed an ID photo for something urgent. The only way to get one was to find a photo studio, book a time, and wait around for it to be printed, and just one set cost about $13 (converted from my local currency). With how far AI has come, I felt like this should be easier and cheaper by now. So, I built Portraify. It turns 1–3 casual photos into professional headshots, and also does US passport photos and 1-inch &#x2F; 2-inch ID photos. The thing I cared most about was likeness. A headshot or an ID photo is only useful if it actually looks like you, otherwise there&#x27;s no point. So the AI is tuned to reproduce the real you, no beautifying, no de-aging. It also checks your input photos before generating (lighting, sharpness, face visibility), so you don&#x27;t waste a generation on a photo that was never going to work. I know people care a lot about uploading their face to some random AI tool, so to be clear: input photos are processed in memory and discarded after generation. They&#x27;re never persisted or used for training. Generated portraits are stored so you can re-download them. One thing to know before you try: it needs a signup (no card) and you get 3 free generations. Let me know if there&#x27;s anything that could be improved, or anything that doesn&#x27;t work well in real-world use. Happy to answer any questions.\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://portraify.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48987618",
+    "createdAt": "2026-07-21T03:55:00.801Z"
+  },
+  {
+    "slug": "envy-a-flat-file-frictionless-note-taking-application-for-macos-hn",
+    "title": "Envy - A flat-file, frictionless note-taking application for macOS",
+    "shortDescription": "Hey all. I made this because, where I work, we aren&#x27;t allowed to use any app that allows cloud-sync or AI within the application. I st…",
+    "fullDescription": "Hey all. I made this because, where I work, we aren&#x27;t allowed to use any app that allows cloud-sync or AI within the application. I started with the things I needed (to-do lists, due dates, and interlinking) and I kept building up from there. I am hoping others in the community find it as useful as I do! Feedback is always appreciated. cheers.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://envynote.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48987509",
+    "createdAt": "2026-07-21T03:55:00.801Z"
+  },
+  {
+    "slug": "shackle-deterministic-runtime-governance-for-ai-agents-hn",
+    "title": "Shackle – Deterministic runtime governance for AI agents",
+    "shortDescription": "Проект «Shackle – Deterministic runtime governance for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Shackle – Deterministic runtime governance for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Fame510/SHACKLE",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48987472",
+    "createdAt": "2026-07-21T03:55:00.802Z"
+  },
+  {
+    "slug": "ai-meeting-notes-no-bot-insights-and-answers-from-your-files-byok-hn",
+    "title": "AI meeting notes – no bot, insights and answers from your files (BYOK)",
+    "shortDescription": "Проект «AI meeting notes – no bot, insights and answers from your files (BYOK)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI meeting notes – no bot, insights and answers from your files (BYOK)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://getaiassist.app/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48987241",
+    "createdAt": "2026-07-21T03:55:00.802Z"
+  },
+  {
+    "slug": "ai-secretary-stop-checking-your-phone-just-in-case-hn",
+    "title": "AI Secretary – Stop checking your phone \"just in case\"",
+    "shortDescription": "Проект «AI Secretary – Stop checking your phone \"just in case\"», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Secretary – Stop checking your phone \"just in case\"», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/mathigatti/telegram-ai-secretary",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48986826",
+    "createdAt": "2026-07-21T03:55:00.802Z"
+  },
+  {
+    "slug": "agent-search-engine-an-independent-index-of-247-ai-agents-hn",
+    "title": "Agent Search Engine – an independent index of 247 AI agents",
+    "shortDescription": "Проект «Agent Search Engine – an independent index of 247 AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Agent Search Engine – an independent index of 247 AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://agentsearchengine.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48986800",
+    "createdAt": "2026-07-21T03:55:00.802Z"
+  },
+  {
+    "slug": "ekko-post-quantum-e2ee-layer-for-instagram-whatsapp-telegram-web-hn",
+    "title": "Ekko – post-quantum E2EE layer for Instagram, WhatsApp, Telegram Web",
+    "shortDescription": "Hi everyone, I am a big privacy activist and the amount of privacy concerns in the internet with the discussions around European Chat Contr…",
+    "fullDescription": "Hi everyone, I am a big privacy activist and the amount of privacy concerns in the internet with the discussions around European Chat Control, Meta removing e2ee in Instagram and corporations harvesting personal data for AI training is on the rise. The closed source social media companies keep managing and storing our private keys, allowing them to effectively access all of our personal communications.. Many open source alternatives exist, but the problem I kept running into was not a lack of good private messengers. Signal, SimpleX, and other projects already do important work The problem was getting the people to move. A messenger is only useful when the person you need to reach is there. Asking friends, family, coworkers, or customers to abandon their existing chats is a very high barrier. Ekko takes a different approach. It runs as a browser extension on top of existing messengers. Both people still need Ekko, but they do not need to move their conversation. You can continue using the Instagram, WhatsApp, Telegram, or Messenger chat they already share. Actively building this and trying to achieve a seamless automatic encryption in the UI across all popular messengers and adding support across all browsers, IOS, android and social media.. Under the hood, Ekko uses hybrid X25519 + ML-KEM-768 and XChaCha20-Poly1305. Private keys are generated and kept on your device. You can claim an Ekko handle to make exchanging public keys easier, exchange invitations directly without an account, or self-host the public-key directory. Currently: - A Chromium browser extension, Experimental Firefox and Safari builds - Instagram, WhatsApp Web, Telegram Web, and Messenger integrations - A self-hostable key directory - Open-source client, protocol, and server code Early version Chrome Web Store: https:&#x2F;&#x2F;chromewebstore.google.com&#x2F;detail&#x2F;ekko&#x2F;oaihgpmbkeafbp... Source code: https:&#x2F;&#x2F;github.com&#x2F;useekko&#x2F;ekko-core Website and demo: https:&#x2F;&#x2F;useekko.app I would genuinely appreciate direct feedback especially from people familiar with applied cryptography, browser security, key verification, messenger integrations, potential solutions for iOS UI integration (faster than using browser w&#x2F; Safari extension) If you try it, please tell me what breaks or what feels confusing. Actively trying to make this better as a side project! If you discover a security issue, email kirill@useekko.app rather than posting it publicly. Looking for feedback! :)\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://useekko.app/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48986762",
+    "createdAt": "2026-07-21T03:55:00.802Z"
+  },
+  {
+    "slug": "vidmoat-a-video-editing-pipeline-any-ai-agent-can-operate-hn",
+    "title": "Vidmoat – a video editing pipeline any AI agent can operate",
+    "shortDescription": "Проект «Vidmoat – a video editing pipeline any AI agent can operate», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Vidmoat – a video editing pipeline any AI agent can operate», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.vidmoat.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48986549",
+    "createdAt": "2026-07-21T03:55:00.802Z"
+  },
+  {
+    "slug": "pouncedomains-domain-discovery-and-sniping-for-namecheap-marketplace-hn",
+    "title": "PounceDomains – Domain discovery and sniping for Namecheap Marketplace",
+    "shortDescription": "I built PounceDomains to find undervalued domains on the Namecheap Marketplace before others. It scans domain auctions based on your config…",
+    "fullDescription": "I built PounceDomains to find undervalued domains on the Namecheap Marketplace before others. It scans domain auctions based on your configurations around the clock, AI-scores each candidate against your buying strategy, enriches matches with authority&#x2F;backlink&#x2F;demand data. Free plan available. And 14-day free trial of Pro plans. It also includes a sister app PounceDrops which allows you to scan, filter, and analyze domain drop lists including the .app and .dev namespace. Feedback welcome.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://pouncedomains.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48986534",
+    "createdAt": "2026-07-21T03:55:00.802Z"
+  },
+  {
     "slug": "ai-blogger-commercialization-analyst-github",
     "title": "ai-blogger-commercialization-analyst",
     "shortDescription": "Codex Skill：基于证据拆解自媒体账号的定位、内容、增长与商业化潜力",
