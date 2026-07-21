@@ -1,5 +1,43 @@
 [
   {
+    "slug": "sunamai-github",
+    "title": "SunamAI",
+    "shortDescription": "The useless AI agent.",
+    "fullDescription": "The useless AI agent.\n\nАвтор: CJackHwang. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/CJackHwang/SunamAI",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "fucking-awesome",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1305777931",
+    "createdAt": "2026-07-21T06:25:59.696Z"
+  },
+  {
+    "slug": "calyxa-browser-native-ai-tutor-solving-the-cheating-problem-hn",
+    "title": "Calyxa – Browser Native AI tutor solving the \"cheating\" problem",
+    "shortDescription": "Hi! I&#x27;m Darcy, a current high school senior from SoCal. Calyxa is a chrome extension tutor that teaches directly on the student&#x27;s…",
+    "fullDescription": "Hi! I&#x27;m Darcy, a current high school senior from SoCal. Calyxa is a chrome extension tutor that teaches directly on the student&#x27;s homework screen with adaptive engine. Here&#x27;s why I built it: During my past 3 years in high school, I witnessed how classmates around me adopted the AI trend in Edtech. From ChatGPT to Photomath, they now become what are the must-haves to do homework fast. Despite being in a relatively competitive school, probably 95% of my classmates have used AI tools to cheat in some ways, usually either writing their essays for them or giving them answers to the calculus problems they&#x27;re stuck on. I used AI to &quot;cheat&quot; too. However, whenever I use them to scan my math problem, I tried to read through the solution steps so I can truly understand and prepare for the test. AI is helpful to me for understanding quickly without having to call the math teacher over to my table for every small questions, but almost all my classmates used it as shortcut. This is why I built Calyxa. Instead of generic chatbots giving student direct, fast answers, Calyxa teaches socratically and changes responses based on the student&#x27;s study profile (which is based on all previous tutoring sessions) just like a real human tutor, while keeping the AI&#x27;s advantage of speed and accessibility by being a chrome extension, on-screen annotation, and live voice conversations. All tutoring sessions updates a stored &quot;live notes&quot; with all the misconceptions and concepts that the student needs for test review. Unlike other AI study tools that either generate more study materials for workload or instantly giving out answers, Calyxa helps the student to truly understand their assigned homework without wasting time with a real human tutor or taking shortcuts with generic chatbots. That&#x27;s all I have for Calyxa, if you can please sign up for 10 free sessions to try it out and leave a short feedback, that would help me a lot! Thank you!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://calyxa.app",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48988530",
+    "createdAt": "2026-07-21T06:25:59.789Z"
+  },
+  {
     "slug": "wave-github",
     "title": "wave",
     "shortDescription": "A versioned, extensible dataset compiler. Transforms a rich, human-editable dataset into multiple machine-readable for LLM training.",
