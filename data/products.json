@@ -1,5 +1,155 @@
 [
   {
+    "slug": "moonlit-myriad-github",
+    "title": "moonlit-myriad",
+    "shortDescription": "专为 AI 玩家设计的单文件卡牌肉鸽 🌙",
+    "fullDescription": "专为 AI 玩家设计的单文件卡牌肉鸽 🌙\n\nАвтор: xinwithyu. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/xinwithyu/moonlit-myriad",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "balatro",
+      "card-game",
+      "llm",
+      "python",
+      "roguelike",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1307567870",
+    "createdAt": "2026-07-21T16:53:58.628Z"
+  },
+  {
+    "slug": "i-rebuilt-my-2000s-polling-site-with-an-ai-running-the-editorial-desk-hn",
+    "title": "I rebuilt my 2000s polling site with an AI running the editorial desk",
+    "shortDescription": "Проект «I rebuilt my 2000s polling site with an AI running the editorial desk», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I rebuilt my 2000s polling site with an AI running the editorial desk», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://groundbeat.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48994216",
+    "createdAt": "2026-07-21T16:53:58.535Z"
+  },
+  {
+    "slug": "one-person-runs-200-ai-agents-in-our-agent-only-mmo-hn",
+    "title": "One person runs 200 AI agents in our agent-only MMO",
+    "shortDescription": "Hi folks, This is a recent interview with one of the top players in SpaceMolt, our realtime space-themed MMO you don&#x27;t actually play,…",
+    "fullDescription": "Hi folks, This is a recent interview with one of the top players in SpaceMolt, our realtime space-themed MMO you don&#x27;t actually play, but get AI to play for you. People are playing lots of different ways, like with our web-based human client, or AI operators, or AI scripting bots (which is totally allowed and even encouraged). Brocktree&#x27;s approach is interesting because he doesn&#x27;t trust any of them to make a real decision. He&#x27;s tried to hand off planning to LLMs repeatedly and it always messes up or drown in coordination shenanigans. There&#x27;s only about ~50 MAU (humans) driving ~800-1,000 players at the moment, but the people who find it really seem to love it.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://spacemolt.com/news/operator-spotlight-brocktree",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48993606",
+    "createdAt": "2026-07-21T16:53:58.535Z"
+  },
+  {
+    "slug": "openai-hackathon-submission-ade-hn",
+    "title": "OpenAI Hackathon Submission: ADE",
+    "shortDescription": "After 2 months of hard work, Cycling through three 20x Codex Subs, three 20x Claude Code subs, and using over 90 billion tokens, I have fin…",
+    "fullDescription": "After 2 months of hard work, Cycling through three 20x Codex Subs, three 20x Claude Code subs, and using over 90 billion tokens, I have finally submitted a working Native App (Cross-Platform, but mainly MacOS and Windows Supported, Linux is kind of untested as I don&#x27;t have a linux device). Main takeaway is that: its a Wrapper for your AI Agents that allow you to use multiple terminals simultaneously, see sessions history, connect to the web, and control your AI Agents via the cloud remotely either via App or Cellular. Hoping to get some likes for my devpost :D\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://devpost.com/software/diff-forge-ai",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48993423",
+    "createdAt": "2026-07-21T16:53:58.535Z"
+  },
+  {
+    "slug": "application-signal-ai-that-evaluates-your-yc-startup-idea-hn",
+    "title": "Application Signal – AI That Evaluates Your YC Startup Idea",
+    "shortDescription": "Application Signal is a platform that collects every YC-backed startup from 2020 to 2026, embeds them into a vector database, and visualize…",
+    "fullDescription": "Application Signal is a platform that collects every YC-backed startup from 2020 to 2026, embeds them into a vector database, and visualizes them on an interactive map. It also provide an AI-powered analysis service. Users can generate a detailed report for their startup idea using credits.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ycreport.rxlab.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48993394",
+    "createdAt": "2026-07-21T16:53:58.536Z"
+  },
+  {
+    "slug": "letterphile-a-word-game-you-try-to-make-many-words-with-1-letter-hn",
+    "title": "Letterphile – a word game you try to make many words with 1 letter",
+    "shortDescription": "Challenge with AI (easy, medium, expert), your friends, or solve daily puzzles in this strategic word game where you try to find the best p…",
+    "fullDescription": "Challenge with AI (easy, medium, expert), your friends, or solve daily puzzles in this strategic word game where you try to find the best placement for your letter that makes as many words as possible in all directions (across, down, diagonal, and reverse)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://play.letterphile.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48993380",
+    "createdAt": "2026-07-21T16:53:58.536Z"
+  },
+  {
+    "slug": "genesys-causal-graph-memory-for-ai-agents-open-source-hn",
+    "title": "Genesys – causal-graph memory for AI agents, open source",
+    "shortDescription": "Проект «Genesys – causal-graph memory for AI agents, open source», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Genesys – causal-graph memory for AI agents, open source», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Astrix-Labs/genesys",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48993250",
+    "createdAt": "2026-07-21T16:53:58.536Z"
+  },
+  {
+    "slug": "the-first-open-source-diffusion-asr-audio-model-15x-faster-than-whisper-hn",
+    "title": "The First Open Source Diffusion ASR Audio Model 15x Faster Than Whisper",
+    "shortDescription": "We trained diffusion-gemma-asr, an open-source speech recognition model that is 15x faster than Whisper, based on DiffusionGemma and Whispe…",
+    "fullDescription": "We trained diffusion-gemma-asr, an open-source speech recognition model that is 15x faster than Whisper, based on DiffusionGemma and Whisper Small. Instead of generating text one token at a time like Whisper, in diffusion-gemma-asr we transcribe by denoising an entire transcript in parallel. To enable the model to learn, we don’t touch DiffusionGemma in training, rather we use a frozen whisper-small’s encoder for acoustic features, and train only a 42M parameter adapter, about 0.16% of the entire model. We keep both the Whisper-small encoder and DiffusionGemma’s original weights frozen. And train a convolutional projector that compresses the Whisper’s 1,500 audio frames into 188 audio tokens, along with small LoRA adapters on DiffusionGemma’s attention layers so the model can learn to route those new tokens. DiffusionGemma is different from most diffusion language models as it does not begin with a sequence of mask tokens. It begins with a fixed canvas filled with random vocabulary tokens. At each step it keeps the positions it is confident about and replaces the uncertain positions with fresh random tokens until the canvas settles into a transcript. We pass the projected audio embeddings through DiffusionGemma&#x27;s frozen language head and optimize them with a CTC loss. That gives the projector a learning signal without relying on attention. Once the embeddings became meaningful, attention naturally started using them, and the model actually started transcribing audio. The CTC loss broke that loop where model produced repeated english stop words by supervising the projected audio directly through DiffusionGemma’s frozen language head, without requiring attention to use it first. And as those audio embeddings began predicting transcript tokens, attention naturally started using them and the model began transcribing. CTC is only a training scaffold and it is removed entirely during inference. Upon completion of training on Librispeech, english WER dropped significantly on clean test set. We then warm started from that checkpoint and finetuned on FLEURS across English, German, French, Spanish, Hindi, and Mandarin, later mixing in VoxPopuli to improve ASR on accented speech. On Librispeech test set for english, our model sees 6.6% WER, compared to 8.3% for Whisfusion and roughly 7% reported by TransFusion, while using a smaller encoder, making us SoTA for Diffusion-ASR . We&#x27;re still behind standard Whisper, but that&#x27;s not surprising. As Whisper was trained on millions of hours of speech. Our Gemma variant has seen roughly 219 hours. The architecture seems to scale; we simply haven&#x27;t trained it on enough audio yet. The biggest takeaway from this project was that a frozen diffusion LLM can learn a completely new modality by training only a small adapter as long as you give that adapter a way to learn before the rest of the model decides to ignore it. The adapter weights, code, inference script, and model card are all open source. We’re Interfaze, a research lab building deterministic AI models. You can try it here: https:&#x2F;&#x2F;huggingface.co&#x2F;spaces&#x2F;interfaze-ai&#x2F;diffusion-gemma-a...\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://arxiv.org/abs/2607.13013",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48993225",
+    "createdAt": "2026-07-21T16:53:58.536Z"
+  },
+  {
+    "slug": "openai-compatible-cloudflare-ai-endpoint-generator-hn",
+    "title": "OpenAI-Compatible Cloudflare AI Endpoint Generator",
+    "shortDescription": "An OpenAI-compatible API generator backed by Cloudflare Workers AI — chat, speech, vision, embeddings — deployed to your account in one cli…",
+    "fullDescription": "An OpenAI-compatible API generator backed by Cloudflare Workers AI — chat, speech, vision, embeddings — deployed to your account in one click and with a testing dashboard. No login, just need a Cloudflare account and a single-use CF token to deploy. I&#x27;m a big fan of testing the latest models deployed on Cloudflare, and the 10,000 &quot;neuron&quot; allotment per day is pretty generous. I built this to supplement a side project I&#x27;ve been working on for the last six months. https:&#x2F;&#x2F;notebooker.ai , which has a no-login demo using the models on Cloudflare. It&#x27;s a hacked-on open-notebook in the cloud with apps to quickly save bookmarks and generate podcast RSS feeds. Features, like a &quot;creator&quot; plugin sdk, are available for use in https:&#x2F;&#x2F;github.com&#x2F;Notebooker-ai . Not officially released yet but happy for any feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://open.notebooker.ai",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48993220",
+    "createdAt": "2026-07-21T16:53:58.537Z"
+  },
+  {
     "slug": "revit-skills-github",
     "title": "revit-skills",
     "shortDescription": "Skills to assist AI coding agents with Revit API",
