@@ -1,5 +1,57 @@
 [
   {
+    "slug": "optimcp-github",
+    "title": "OptiMCP",
+    "shortDescription": "Stop shipping hallucinated numbers. OptiMCP verifies your agent's math and logic against your rules — deterministically, with zero LLM in t…",
+    "fullDescription": "Stop shipping hallucinated numbers. OptiMCP verifies your agent's math and logic against your rules — deterministically, with zero LLM in the loop — and names the exact rule that broke.\n\nАвтор: ProfessionalQwerty. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://github.com/ProfessionalQwerty/OptiMCP",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-tools",
+      "llm",
+      "mcp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1307453554",
+    "createdAt": "2026-07-21T23:29:08.220Z"
+  },
+  {
+    "slug": "an-interactive-game-of-british-columbia-hn",
+    "title": "An interactive game of British Columbia",
+    "shortDescription": "I recently drove through the beautiful lands of British Columbia. I&#x27;ve called this place home for a better part of 20 years, and I rea…",
+    "fullDescription": "I recently drove through the beautiful lands of British Columbia. I&#x27;ve called this place home for a better part of 20 years, and I realized that I know very little outside the little bubble that I live in. So I created this interactive map&#x2F;game where you play as the Sasquatch, roaming the land and discovering hidden gems, towns, and other wildlife. You can read up on the town&#x27;s story, view pictures to get a sense of what they look like, and stuff like that. I wanted to put this out there for those who are curious about our lovely province and enjoy roaming around. I am a software developer, but this app is vibe-coded. I do believe that this kind of usage of AI is fantastic--to better understand the world around us through immersive simulation. Let me know what you guys think!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://bigfootsbc.ca/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48999505",
+    "createdAt": "2026-07-21T23:29:08.100Z"
+  },
+  {
+    "slug": "superserve-firecracker-microvm-sandboxes-for-long-running-ai-agents-hn",
+    "title": "Superserve – Firecracker microVM sandboxes for long-running AI agents",
+    "shortDescription": "Hey HN, I built Superserve, a compute layer that lets AI agents live inside isolated Firecracker microVMs with no session time limits. The…",
+    "fullDescription": "Hey HN, I built Superserve, a compute layer that lets AI agents live inside isolated Firecracker microVMs with no session time limits. The problem I kept running into: most sandbox providers kill your agent after 24 hours. If you&#x27;re running something autonomous that needs to work for days — refactoring a codebase, running tests in a loop — you&#x27;re constantly fighting timeouts and rebuilding state. Superserve lets you snapshot a running VM at any point, fork it into parallel branches, and resume exactly where you left off. Each agent gets its own VM, no shared kernels. There&#x27;s also a credentials broker so agents never touch raw API keys directly, and egress is locked to URLs you specify. You bring your own agent (Claude Code, Codex, etc.). We handle the durable compute underneath. TypeScript and Python SDKs, MCP support, open-source and self-hostable. Would love to hear feedback, especially from anyone building long-running agents.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.superserve.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48999489",
+    "createdAt": "2026-07-21T23:29:08.100Z"
+  },
+  {
     "slug": "faceblind-in-browser-only-video-face-blurring-hn",
     "title": "Faceblind – In-browser only video face blurring",
     "shortDescription": "In the midst of building a climbing app, I want to use climbing videos of other climbers but I didn&#x27;t want to show their face without…",
