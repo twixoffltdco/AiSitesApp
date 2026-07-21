@@ -1,5 +1,37 @@
 [
   {
+    "slug": "faceblind-in-browser-only-video-face-blurring-hn",
+    "title": "Faceblind – In-browser only video face blurring",
+    "shortDescription": "In the midst of building a climbing app, I want to use climbing videos of other climbers but I didn&#x27;t want to show their face without…",
+    "fullDescription": "In the midst of building a climbing app, I want to use climbing videos of other climbers but I didn&#x27;t want to show their face without their consent so I tried to look for quick solution with ffmpeg to blur human faces. There is https:&#x2F;&#x2F;github.com&#x2F;ORB-HD&#x2F;deface . But why use a ready made software when you can have AI build one for you This project uses media pipe pose detection as a fallback of face detection. The app is hosted on github page as it is completely static. I&#x27;ve only tested in chrome and firefox, with climbing videos (medium range). The detection is jittery so manual editing is supported. The mask can be separately downloaded as a webp, and a pairing ffmpeg command is provided which can be run locally and much faster. Source code at https:&#x2F;&#x2F;github.com&#x2F;kmcheung12&#x2F;faceblind\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://kmcheung12.github.io/faceblind/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48998670",
+    "createdAt": "2026-07-21T22:26:35.325Z"
+  },
+  {
+    "slug": "orate-on-device-neural-text-to-speech-queue-for-mac-hn",
+    "title": "Orate – On-device neural text-to-speech queue for Mac",
+    "shortDescription": "Hey friends! Brad here - long time HN user, founder, engineer (Coinbase, Soothe, Jeevz, Release, Hired, GrowthX, etc)... I have been strugg…",
+    "fullDescription": "Hey friends! Brad here - long time HN user, founder, engineer (Coinbase, Soothe, Jeevz, Release, Hired, GrowthX, etc)... I have been struggling recently with too many tabs, emails, articles, etc sitting unread while I swap between Claude code sessions all day. So I decided to build Orate to help me work through the backlog by listening to it all like I would a podcast. Orate allows you to select any text on your screen and keyboard shortcut it to a listening queue where it gets processed using the latest + greatest TTS AI models, and then read back to you in a mostly-natural sounding voice. Orate works fully on-device and offline. Whatever you pass to it stays yours. It&#x27;s native, lives in your menu bar, and supports things like tagging, system playback controls, speed adjustment, and more. There&#x27;s also an optional HD-voice tier that uses Chatterbox instead of Kokoro which ships with it for more expressive TTS. I&#x27;m also burnt out on being chipped away at little by little with a subscription for everything, so it&#x27;s just $4.99 one time and you own it forever. Use the code HACKERNEWS for $3 off, putting you at just $1.99. As AI helped me nail down - it&#x27;s &quot;read it later, for your ears&quot;. I hope you like it! If you have any questions, want more details, notice any bugs, or have an idea for something cool to add, just ping me! I plan to launch a companion iOS app soon to sync text between your devices as well. It&#x27;s currently Mac only, but I might whip up a Windows version if the response is good. Cheers!\n\nНайдено в разделе Show HN на Hacker News. 👍 8 баллов.",
+    "url": "https://orate.to/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48997941",
+    "createdAt": "2026-07-21T22:26:35.325Z"
+  },
+  {
     "slug": "browser-tools-sdk-an-optimal-browser-harness-for-agents-hn",
     "title": "Browser Tools SDK – an optimal browser harness for agents",
     "shortDescription": "We’re open-sourcing Browser Tools SDK: a small TypeScript package to give any AI agent a reliable way to control a real browser. With just…",
