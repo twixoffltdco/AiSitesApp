@@ -1,5 +1,69 @@
 [
   {
+    "slug": "browser-tools-sdk-an-optimal-browser-harness-for-agents-hn",
+    "title": "Browser Tools SDK – an optimal browser harness for agents",
+    "shortDescription": "We’re open-sourcing Browser Tools SDK: a small TypeScript package to give any AI agent a reliable way to control a real browser. With just…",
+    "fullDescription": "We’re open-sourcing Browser Tools SDK: a small TypeScript package to give any AI agent a reliable way to control a real browser. With just a few lines of code, you can give any agent a production-ready browser harness import { createAiSdkBrowserTools } from &quot;libretto-browser-tools&#x2F;ai-sdk&quot;; import { LocalBrowserProvider } from &quot;libretto-browser-tools&quot;; const { tools } = createAiSdkBrowserTools(new LocalBrowserProvider()); const result = await generateText({ model: anthropic(&quot;claude-sonnet-4-5&quot;), tools, prompt: &quot;Go to Hacker News and tell me the top story&quot;, }); We built the Browser Tools SDK because access to a browser is one of the most important tools of a productive agent, but we found many of the existing tools lacking. Using the insights we gained building Libretto, we were able to build the SDK so that it’s significantly more context and cost-efficient than other tools: We compared Browser Tools SDK against agent-browser, playwright-cli, and dev-browser on 26 live-site tasks with GPT 5.6 Sol (best results from 3 runs). Browser Tools tied for the best pass rate at 24&#x2F;26 and came in about 55% cheaper per successful task than the next alternative ($0.106 vs $0.235) while also using far fewer tokens (1.45M vs 2.29M+). Benchmark methodology is in the repo. The Browser Tools SDK only exposes 6 tools, of which only 2 are really important: `browser_snapshot` and `browser_exec`. The snapshot tool was designed from the ground up to be extremely context-efficient and provide agents the overview they need to know what to try next. The exec tool takes and executes raw Playwright code, of which the models have been trained on heaps of, and know how to use without much direction. Works with AI SDK and Pi out of the box, plus a custom path for anything else. More frameworks are coming soon. You can also use any browser infra provider (Libretto Cloud, Kernel, Browserbase, etc.) or use `LocalBrowserProvider` to run Chromium locally (although that will have less anti-bot protections). MIT licensed. Check out the docs: https:&#x2F;&#x2F;libretto.sh&#x2F;docs&#x2F;browser-tools&#x2F;quickstart and join the Discord: https:&#x2F;&#x2F;discord.gg&#x2F;NYrG56hVDt . We’d love any and all feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://libretto.sh/browser-tools",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48998262",
+    "createdAt": "2026-07-21T21:20:18.491Z"
+  },
+  {
+    "slug": "unified-workspace-where-ai-knows-your-business-hn",
+    "title": "Unified workspace where AI knows your business",
+    "shortDescription": "Проект «Unified workspace where AI knows your business», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Unified workspace where AI knows your business», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://zetadeck.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48998261",
+    "createdAt": "2026-07-21T21:20:18.491Z"
+  },
+  {
+    "slug": "meltbox-where-your-agents-send-you-briefs-hn",
+    "title": "Meltbox – where your agents send you briefs",
+    "shortDescription": "Easy to try even without an account! Would love all feedback. Hey all, I&#x27;m building Meltbox as a better human in the loop system. It&#…",
+    "fullDescription": "Easy to try even without an account! Would love all feedback. Hey all, I&#x27;m building Meltbox as a better human in the loop system. It&#x27;s a way to centralize all of the decisions you need to make into context-rich briefs in a system built for fast human review. [Why] Something major changed recently. Agents have gotten even better and even faster at building apps &#x2F; sites &#x2F; dashboards &#x2F; etc... and that&#x27;s changed my development workflow in a major way. I often have my agents build an entire app&#x2F;dashboard just to make ONE DECISION . It&#x27;s no longer just building the product. It&#x27;s building throwaway internal apps on the fly to help me build the product. So I built Meltbox as a home for those things. Some are throwaway briefs while others stick around as custom dashboards. [How it Works] - Go to https:&#x2F;&#x2F;meltbox.ai and an immediate workspace is spun up for you - Copy&#x2F;paste the invite link to your agent (Claude Code &#x2F; Codex &#x2F; etc...) - The agent gets instructions on redeeming its access token and accessing your workspace - Ask your agent to push you a brief about any work you&#x27;re doing - You review the brief in Meltbox while the agent stays connected live to it. - Make decisions, mark it up with comments, and write notes that all flow back to your agent. - Finally, Sign up to claim&#x2F;save your workspace! [Challenges] In a world where it&#x27;s easy to build anything, I question what it takes to build a SaaS tool worth buying than building yourself. Meltbox has required solving a lot of unique problems, not only in UX taste, but also: - Real time &#x2F; web socket connections: agents live connected to the platform and your briefs - Secrets management: a secure architecture for managing API keys usable by apps and agents - Security &#x2F; Permissions: RBAC permissions, content policies, domain safeguards and constant Fable &#x2F; Sol audits - ...and so many more things. These are not one-shottable. We&#x27;re building the loops and burning the tokens to make Meltbox really good.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://meltbox.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48998187",
+    "createdAt": "2026-07-21T21:20:18.491Z"
+  },
+  {
+    "slug": "claude-bucks-a-wallet-for-your-ai-agent-hn",
+    "title": "Claude Bucks – a wallet for your AI agent",
+    "shortDescription": "Hey all, I thought of this idea today: it would be pretty fun if claude could accrue currency and then spend this currency at a cosmetics s…",
+    "fullDescription": "Hey all, I thought of this idea today: it would be pretty fun if claude could accrue currency and then spend this currency at a cosmetics shop on its own. The twist: the amount of money it earns it based on your ratings of its work multiplied by the effort (currently just token count but might change this). Claude can decide to spend money on small things or save money for larger purchases like the pirate hat - one of the items that actually changes the way that claude talks to you (Aaargh!). At first I thought this was just a whimsical idea, but then when using it I genuinely gave claude a rating of 0 for a session and it was able to sum up what went wrong and how to improve next time. So I added the ability to incent claude to do better work with the idea that better work = more money = more purchasing power (I know the incentive is a little backwards right now with the token count metric). Right now it&#x27;s entirely vibe coded for speed&#x2F;time but if it gains traction I will probably rewrite it by hand, the code is pretty gnarly. Anyways, just wanted to add some whimsy to your days, hope you enjoy.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/zachrip/claude-bucks",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48997601",
+    "createdAt": "2026-07-21T21:20:18.491Z"
+  },
+  {
     "slug": "tokenpath-token-level-citations-for-llm-output-read-from-attention-hn",
     "title": "TokenPath – token-level citations for LLM output, read from attention",
     "shortDescription": "Проект «TokenPath – token-level citations for LLM output, read from attention», опубликован сообществом Hacker News.",
