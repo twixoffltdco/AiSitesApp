@@ -1,5 +1,207 @@
 [
   {
+    "slug": "revit-skills-github",
+    "title": "revit-skills",
+    "shortDescription": "Skills to assist AI coding agents with Revit API",
+    "fullDescription": "Skills to assist AI coding agents with Revit API\n\nАвтор: Nice3point. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/Nice3point/revit-skills",
+    "category": "developer",
+    "tags": [
+      "agents",
+      "ai",
+      "revit-api",
+      "skills",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1306986142",
+    "createdAt": "2026-07-21T15:02:04.794Z"
+  },
+  {
+    "slug": "openpaw-github",
+    "title": "OpenPaw",
+    "shortDescription": "Open-source terminal AI coding assistant with FreeLLMAPI and OpenAI-compatible API support.",
+    "fullDescription": "Open-source terminal AI coding assistant with FreeLLMAPI and OpenAI-compatible API support.\n\nАвтор: sucxay. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/sucxay/OpenPaw",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "cli",
+      "coding-assistant",
+      "devloper-tools",
+      "llm",
+      "open-ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1306348287",
+    "createdAt": "2026-07-21T15:02:04.794Z"
+  },
+  {
+    "slug": "neverclick-keyboard-driven-mouse-control-using-local-computer-vision-hn",
+    "title": "Neverclick – Keyboard-driven mouse control using local computer vision",
+    "shortDescription": "Hello, Neverclick is a desktop application that I created when I was suffering from RSI. It uses local computer vision to detect clickable…",
+    "fullDescription": "Hello, Neverclick is a desktop application that I created when I was suffering from RSI. It uses local computer vision to detect clickable UI elements on your screen so that you can use your keyboard to perform mouse actions. Most software in this space relies on accessibility APIs but Neverclick uses computer vision. This means that it works in every app. Additionally, it also produces really good bounding boxes around text so it&#x27;s great for editing text and coding. And counterintuitively, it runs significantly faster than the traditional accessibility api approach. It&#x27;s 100% offline. It&#x27;s not a wrapper around ChatGPT or Claude or any other online AI service. The computer vision system runs on your computer. I&#x27;ve optimized it is as best as I can, the hints should show up instantaneously even on 10 year old hardware. You don&#x27;t need a powerful gpu to run it. Also I swear on my life that it wasn&#x27;t &quot;vibe coded&quot;, I&#x27;ve been working on this since long before the recent AI revolution.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.neverclick.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48993199",
+    "createdAt": "2026-07-21T15:02:04.630Z"
+  },
+  {
+    "slug": "inflexa-open-source-intelligence-for-biology-hn",
+    "title": "Inflexa – open-source Intelligence for Biology",
+    "shortDescription": "Hey HN! Inflexa is an OSS-first TUI for agentic-AI reproducible biological analysis with provenance tracked on every step. It&#x27;s a bett…",
+    "fullDescription": "Hey HN! Inflexa is an OSS-first TUI for agentic-AI reproducible biological analysis with provenance tracked on every step. It&#x27;s a better designed Claude Science (bar the GUI for now). Before this, we spent years building a cloud multi-omics analysis platform, working alongside research teams in pharma, biotech, and academia. Our vision is as follows: - OSS first - Data privacy, and security are of utmost importance - Agents are untrusted actors Agentic products do not solve a core architectural and design problem: provenance. How do you build up the body of evidence to support your claims from hundreds of chat messages, scattered artifacts (scripts, intermediary data files, random research files)? We are one of the first in the biotech space to propose using an established specification for provenance, which its extremely fitting for the world of agentic AI: [W3C PROV]( https:&#x2F;&#x2F;www.w3.org&#x2F;TR&#x2F;prov-overview&#x2F; ). Our provenance is deterministic and driven programmatically. Our architecture imposes it, not the whim of agents that decide whether or not to call a tool &#x2F; or an MCP (such as https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2508.02866 ). The analysis is backed by a PROV document that maintains the lineage of every step, every action, and every file. Other platforms such as Claude Science are a security disaster waiting to happen: they allow agents to determine which Python &amp; R packages they need to perform an analysis step. Sure, you need to approve the installation, but if you get prompted tens of times, are you really going to vet every package and every version? We offer batteries-included sandboxed execution. The analysis&#x27; code is generated by agents and executed in ephemeral sandboxes. We do not install packages on your system. Curious to hear your thoughts!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/inflexa-ai/inflexa",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48993003",
+    "createdAt": "2026-07-21T15:02:04.631Z"
+  },
+  {
+    "slug": "ctoken-cli-util-to-count-llm-tokens-in-files-dirs-or-input-hn",
+    "title": "Ctoken – CLI util to count LLM tokens in files, dirs or input",
+    "shortDescription": "Useful when implementing AI skills, knowledge bases, MCP descriptions etc - its much easier to use CLI tool than web calculator (especially…",
+    "fullDescription": "Useful when implementing AI skills, knowledge bases, MCP descriptions etc - its much easier to use CLI tool than web calculator (especially for multiple files)\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/RimantasZ/ctoken",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48992877",
+    "createdAt": "2026-07-21T15:02:04.631Z"
+  },
+  {
+    "slug": "rowset-an-open-source-back-end-for-ai-agents-hn",
+    "title": "Rowset – An open-source back end for AI agents",
+    "shortDescription": "Проект «Rowset – An open-source back end for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Rowset – An open-source back end for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/LVTD-LLC/rowset",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48992773",
+    "createdAt": "2026-07-21T15:02:04.631Z"
+  },
+  {
+    "slug": "maith-open-math-research-with-ai-hn",
+    "title": "Maith – open math research with AI",
+    "shortDescription": "If AI got lucky or not, AI is surely going to assist in solving serious math problems. If you want to spend your resources&#x2F;weekends co…",
+    "fullDescription": "If AI got lucky or not, AI is surely going to assist in solving serious math problems. If you want to spend your resources&#x2F;weekends contributing, this repository is full of math problems where you can add your thoughts (or proofs - for you Good Will Hunting type people) for others to build on it and we all together can try to change the world of math. I have already extended the research with manual proof of Jacobian Conjecture that was posted on Twitter (with attribution).\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://github.com/clidey/maith",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48992161",
+    "createdAt": "2026-07-21T15:02:04.631Z"
+  },
+  {
+    "slug": "tzro-a-free-local-ai-task-offloader-hn",
+    "title": "TZRO – A Free Local AI Task Offloader",
+    "shortDescription": "Проект «TZRO – A Free Local AI Task Offloader», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «TZRO – A Free Local AI Task Offloader», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/The18thWarrior/tzro",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48992154",
+    "createdAt": "2026-07-21T15:02:04.631Z"
+  },
+  {
+    "slug": "neverbell-an-ai-agent-that-analyzes-markets-and-executes-trades-hn",
+    "title": "Neverbell, an AI agent that analyzes markets and executes trades",
+    "shortDescription": "Hi HN, we&#x27;re developing Neverbell, an AI agent that combines market analysis with trade execution. One of our beta testers said to Nev…",
+    "fullDescription": "Hi HN, we&#x27;re developing Neverbell, an AI agent that combines market analysis with trade execution. One of our beta testers said to Neverbell: “Protect my downside, but don’t be too conservative.” Volatility increased a few days later, and the agent decreased their exposure. Our tester wasn’t happy. The interesting part for us was that both interpretations were reasonable. The agent gave more weight to “protect my downside.” The user thought that “don&#x27;t be too conservative” was more important. It changed the way we built Neverbell. Now, if the agent sees any instructions that conflict, it will ask rather than guess what the user was trying to say. We&#x27;ve seen this several times before; so we made it part of the product. Interested in what others are doing. Once an agent starts taking actions instead of just answering questions, where do you draw the line? Will also answer questions about Neverbell, permissions, or anything else we&#x27;ve learned during the beta period.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://neverbell.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48991968",
+    "createdAt": "2026-07-21T15:02:04.631Z"
+  },
+  {
+    "slug": "pinpoint-visual-feedback-for-ai-coding-agents-hn",
+    "title": "Pinpoint – Visual feedback for AI coding agents",
+    "shortDescription": "I built Pinpoint because I was tired of typing out feedback on the visual work my AI agent did. I want my agent to be autonomous, so having…",
+    "fullDescription": "I built Pinpoint because I was tired of typing out feedback on the visual work my AI agent did. I want my agent to be autonomous, so having it ask for feedback through a UI felt genuinely better. Dropping a contextual comment on each screenshot is much closer to how you&#x27;d give feedback on a design in Figma. It also does side-by-side comparison, which is really helpful, having the before&#x2F;after screens lets the human in the loop (us!) give better feedback. It&#x27;s just screenshots and comments, the same way Plannotator is just a plan and comments, and that&#x27;s still a successful product. I think there&#x27;s real value in building a decent UX for this. Chat is the current paradigm for AI agents, but it doesn&#x27;t have to be, and this is my attempt at changing that. There&#x27;s nothing wildly clever going on here. It just works really nicely for me, the same way Plannotator does. Would love your feedback. No install demo here: https:&#x2F;&#x2F;pinpoint.maferland.com&#x2F;review&#x2F;try-demo Repo: https:&#x2F;&#x2F;github.com&#x2F;maferland&#x2F;pinpoint\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://pinpoint.maferland.com/",
+    "category": "design",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48991866",
+    "createdAt": "2026-07-21T15:02:04.631Z"
+  },
+  {
+    "slug": "improved-search-for-wordpress-hn",
+    "title": "Improved Search for WordPress",
+    "shortDescription": "Hi, I know you to be a discerning bunch of tech savvy people, but since that doesn&#x27;t stop 50% of the web being powered by WordPress, I…",
+    "fullDescription": "Hi, I know you to be a discerning bunch of tech savvy people, but since that doesn&#x27;t stop 50% of the web being powered by WordPress, I want to share how one can vastly improve the search experience on WordPress sites: SearchCue! It&#x27;s a product we built after building Monocle Search for Squarespace, so we got a real head-start on this one. It&#x27;s typeahead search for pages and documents, married with ai answers and &quot;conversational search&quot; where those add value. We are pretty proud of what we have built over these last two years (while SearchCue and the WordPress plugin is new, the underlying search tech is something we have painstakingly built up over the two past years). I&#x27;d really appreciate your thoughts and feedback and I am more than happy to answer any questions you might have! edit: non-native speaker typo\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://searchcue.com/integrations/wordpress/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48991779",
+    "createdAt": "2026-07-21T15:02:04.631Z"
+  },
+  {
+    "slug": "i-build-a-project-management-platform-around-md-files-hn",
+    "title": "I build a project management platform around .md files",
+    "shortDescription": "Hey HN, Wanted to show this to get a response! I&#x27;ve built this asynchronous communications platform for my agents. Everything is acces…",
+    "fullDescription": "Hey HN, Wanted to show this to get a response! I&#x27;ve built this asynchronous communications platform for my agents. Everything is accessible and readable through a VFS and markdown, so it works well for agents. I use it as a central &#x27;hub&#x27; for all of my agents to post too (coding agents &amp; more). Very curious what you guys think! I&#x27;m considering making it OSS, so let me know if that&#x27;s something you&#x27;d like.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.sfora.ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48991759",
+    "createdAt": "2026-07-21T15:02:04.631Z"
+  },
+  {
     "slug": "generative-mui-github",
     "title": "generative-mui",
     "shortDescription": "Renderer for Material UI: an LLM emits A2UI, this renders it as real MUI in your host ThemeProvider — with streaming, two-way binding, char…",
