@@ -1,5 +1,133 @@
 [
   {
+    "slug": "edky-a-cli-to-convert-ed25519-public-keys-from-one-encoding-to-another-hn",
+    "title": "Edky, a CLI to convert Ed25519 public keys from one encoding to another",
+    "shortDescription": "Everything increasingly runs on Ed25519 keypairs, but Ed25519 public keys can be encoded as text in dozens of surface-incompatible differen…",
+    "fullDescription": "Everything increasingly runs on Ed25519 keypairs, but Ed25519 public keys can be encoded as text in dozens of surface-incompatible different ways: hexadecimal, Base64 (OpenSSH), Base32z (iroh, pkdns), Base58 (NEAR), and Multibase (IPFS, libp2p), just for starters. Edky is a command-line tool and Rust library that converts between these Ed25519 surface encodings, aiding use of the same underlying keypair across e.g. an iroh endpoint, a libp2p peer, or a NEAR Protocol account. (Surprisingly, a conversion utility like this didn&#x27;t yet exist!) $ cargo binstall -y edky $ edky convert -f iroh -t libp2p 47pjoycnsrfmxikm95jh13y88e8qnhzu5kungjpxyepgt7a8krpy z6MktwupdmLXVVqTzCw4i46r4uGyosGXRnR3XjN4Zq7oMMsw $ edky convert -f libp2p -t iroh z6MktwupdmLXVVqTzCw4i46r4uGyosGXRnR3XjN4Zq7oMMsw 47pjoycnsrfmxikm95jh13y88e8qnhzu5kungjpxyepgt7a8krpy $ edky convert -f near -t hex ed25519:FVen3X669xLzsi6N2V91DoiyzHzg1uAgqiT8jZ9nS96Z d75a980182b10ab7d54bfed3c964073a0ee172f3daa62325af021a68f707511a $ edky convert -f hex -t near d75a980182b10ab7d54bfed3c964073a0ee172f3daa62325af021a68f707511a ed25519:FVen3X669xLzsi6N2V91DoiyzHzg1uAgqiT8jZ9nS96Z\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/artob/edky",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48995935",
+    "createdAt": "2026-07-21T18:14:43.598Z"
+  },
+  {
+    "slug": "aido-an-ai-companion-for-the-pull-requests-your-ai-writes-hn",
+    "title": "Aido – an AI companion for the pull requests your AI writes",
+    "shortDescription": "Проект «Aido – an AI companion for the pull requests your AI writes», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Aido – an AI companion for the pull requests your AI writes», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/aido-dev/aido",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48995912",
+    "createdAt": "2026-07-21T18:14:43.598Z"
+  },
+  {
+    "slug": "autoretrieval-autoresearch-for-rag-pipelines-hn",
+    "title": "Autoretrieval – Autoresearch for RAG Pipelines",
+    "shortDescription": "Hi, inspired by Andrej Karpathy&#x27;s autoresearch, I built autoretrieval, a small framework that lets an AI agent improve a RAG pipeline…",
+    "fullDescription": "Hi, inspired by Andrej Karpathy&#x27;s autoresearch, I built autoretrieval, a small framework that lets an AI agent improve a RAG pipeline by running experiments against an evaluation dataset. The agent edits the retrieval pipeline, runs an eval, checks whether the F-beta score improved, keeps or discards the change, and repeats. It can try different chunking strategies, chunk sizes, the number of retrieved chunks, embedding models, keyword retrieval, and more, while keeping a log of every experiment. The repo also includes a script that generates question and reference-highlight pairs from any document collection. This makes it possible to optimize a RAG pipeline for domain-specific data. On one of my own RAG pipelines, it more than doubled the F3 score after a few hours of running experiments. I&#x27;d love to hear any feedback or ideas.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/daly2211/autoretrieval",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48995907",
+    "createdAt": "2026-07-21T18:14:43.598Z"
+  },
+  {
+    "slug": "i-left-figma-to-build-a-diffusion-based-ui-design-tool-hn",
+    "title": "I left Figma to build a diffusion-based UI design tool",
+    "shortDescription": "Hey hn, this has been something I&#x27;ve been working on for the last few months and is finally robust enough to really show off. I&#x27;v…",
+    "fullDescription": "Hey hn, this has been something I&#x27;ve been working on for the last few months and is finally robust enough to really show off. I&#x27;ve been pretty tired with the design outputs of LLMs for a while, and I&#x27;ve always thought diffusion offered much more creative &#x2F; on brand design outputs, even before they were able to render text. I had enough conviction for this to leave my role over at Figma to build Diffui. The goal is to allow for you to design your full web app as quickly as possible, in a figma-like interface, and then hand that off to an agent to build. The page shows some interactive examples. Happy to be an open book here and chat about the approach, the process, etc!\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://diffui.ai/blog/show-hn",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48995754",
+    "createdAt": "2026-07-21T18:14:43.598Z"
+  },
+  {
+    "slug": "doccharm-the-help-center-that-keeps-itself-up-to-date-hn",
+    "title": "DocCharm – The help center that keeps itself up to date",
+    "shortDescription": "Hello HN! We were finding it too much work to keep our Zendesk help center up to date as our product kept changing, so I built DocCharm — i…",
+    "fullDescription": "Hello HN! We were finding it too much work to keep our Zendesk help center up to date as our product kept changing, so I built DocCharm — it keeps a help center up to date automatically by watching PRs as they land in your GitHub repository. It suggests updates (with AI) to existing articles, or drafts entirely new ones if nothing appropriate exists yet. Everything goes into a review queue first, so a human always checks (and can optionally edit) before anything publishes. In practice this has proven to be a pretty slick workflow (in my opinion anyway, but not only!). We’ve been using it at my main job for a while now and it’s a big time saver. It’s also gaining some traction with other companies in the same investor portfolio. My sales process so far has been high-touch outbound. This probably won’t scale in the long run, but I’m hoping to learn as much as I can by nurturing all of the initial relationships. If you run a business with a help center that’s drifting out of date, email me and I’ll comp your first couple of months. Email is in my HN profile. Both Zendesk and Mintlify help centers can already be automatically imported into DocCharm. If you use a different help center, let me know and I’ll get it automatically imported one way or another. I&#x27;ve also implemented some support for theming, so you can keep your own branding. The tech is essentially the same that I use for most of my work (and it&#x27;s not a differentiator, but we&#x27;re all tech-curious here): - Haskell&#x2F;Yesod - NixOS - SQLite with Litestream (db per tenant; backed up on both Hetzner and Cloudflare; encrypted) - Sentry for error reporting - Stripe for billing - Healthchecks.io as a dead man’s switch - Prometheus and Grafana for telemetry - Resend for transactional email There&#x27;s plenty still to do on the roadmap, but this is already working nicely and providing value as is. I&#x27;m not building in the open, though what I prioritise will naturally be heavily guided by the needs of the earliest users. WDYT?\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://doccharm.com/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48995507",
+    "createdAt": "2026-07-21T18:14:43.599Z"
+  },
+  {
+    "slug": "ave-a-behavioral-classification-standard-for-agentic-ai-hn",
+    "title": "Ave, a behavioral classification standard for agentic AI",
+    "shortDescription": "Проект «Ave, a behavioral classification standard for agentic AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Ave, a behavioral classification standard for agentic AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/aveproject/ave",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48995201",
+    "createdAt": "2026-07-21T18:14:43.599Z"
+  },
+  {
+    "slug": "quantmlayer-kernel-enforced-containment-for-ai-coding-agents-hn",
+    "title": "QuantmLayer – kernel-enforced containment for AI coding agents",
+    "shortDescription": "Проект «QuantmLayer – kernel-enforced containment for AI coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «QuantmLayer – kernel-enforced containment for AI coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/quantmlayer/quantmlayer",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48995058",
+    "createdAt": "2026-07-21T18:14:43.599Z"
+  },
+  {
+    "slug": "oss-cross-harness-self-hosted-registry-and-analytics-for-ai-agents-hn",
+    "title": "OSS Cross-Harness self hosted registry and analytics for AI Agents",
+    "shortDescription": "Проект «OSS Cross-Harness self hosted registry and analytics for AI Agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «OSS Cross-Harness self hosted registry and analytics for AI Agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 14 баллов.",
+    "url": "https://github.com/Observal/Observal",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48994984",
+    "createdAt": "2026-07-21T18:14:43.599Z"
+  },
+  {
     "slug": "moonlit-myriad-github",
     "title": "moonlit-myriad",
     "shortDescription": "专为 AI 玩家设计的单文件卡牌肉鸽 🌙",
