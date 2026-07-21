@@ -1,5 +1,129 @@
 [
   {
+    "slug": "nova-github",
+    "title": "nova",
+    "shortDescription": "AI-powered multi-agent classroom that turns any topic into an interactive learning experience",
+    "fullDescription": "AI-powered multi-agent classroom that turns any topic into an interactive learning experience\n\nАвтор: weed33834. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://github.com/weed33834/nova",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "e-learning",
+      "education",
+      "knowledge-graph",
+      "llm",
+      "multi-agent",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1307065754",
+    "createdAt": "2026-07-21T09:09:10.757Z"
+  },
+  {
+    "slug": "shuposhupo-teaching-github",
+    "title": "ShupoShupo-Teaching",
+    "shortDescription": "This repository is the result of my self-study journey and a testament to the value of learning independently. It was created to inspire ot…",
+    "fullDescription": "This repository is the result of my self-study journey and a testament to the value of learning independently. It was created to inspire others to explore AI, understand what happens under the hood, and leave behind something that continues to teach long after I am gone.\n\nАвтор: ReliableShrimp. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/ReliableShrimp/ShupoShupo-Teaching",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-research",
+      "applied-ai",
+      "geometric-deep-learning",
+      "graph-ml",
+      "graph-neural-networks",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1305647354",
+    "createdAt": "2026-07-21T09:09:10.758Z"
+  },
+  {
+    "slug": "ai-chat-exporter-save-chat-to-pdf-or-word-hn",
+    "title": "AI chat exporter – Save chat to pdf or word",
+    "shortDescription": "Проект «AI chat exporter – Save chat to pdf or word», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI chat exporter – Save chat to pdf or word», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://chromewebstore.google.com/detail/ai-chat-exporter-save-cha/fghmokdhfaggnaemnlnmifdkmjcjebhc",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48989793",
+    "createdAt": "2026-07-21T09:09:10.623Z"
+  },
+  {
+    "slug": "ai-song-turn-prompts-or-lyrics-into-complete-songs-hn",
+    "title": "AI Song – turn prompts or lyrics into complete songs",
+    "shortDescription": "Проект «AI Song – turn prompts or lyrics into complete songs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Song – turn prompts or lyrics into complete songs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ai-song.net/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48989660",
+    "createdAt": "2026-07-21T09:09:10.623Z"
+  },
+  {
+    "slug": "quiverkit-62-developer-tools-that-run-offline-hn",
+    "title": "QuiverKit – 62 developer tools that run offline",
+    "shortDescription": "I’m currently in the process of getting used to writing code with AI. In addition, I was curious about desktop app development. I came acro…",
+    "fullDescription": "I’m currently in the process of getting used to writing code with AI. In addition, I was curious about desktop app development. I came across Tauri and wanted to give it a try. That’s how this hobby project came about. It was important to me that the inputs not go to a server. I wanted to build a project focused on that. For now, it includes 62 different tools. It has been released as native apps for Windows and Linux. The web version is already available. It’s also currently undergoing review as a browser extension. From a Vibecoding experience perspective, I think projects like this are great for warming up. They’re also a great opportunity to experiment with different technologies we’re not familiar with.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://quiverkit.dev",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48989460",
+    "createdAt": "2026-07-21T09:09:10.623Z"
+  },
+  {
+    "slug": "qscreen-tmux-like-session-manager-for-windows-powershell-hn",
+    "title": "Qscreen – tmux-like session manager for Windows PowerShell",
+    "shortDescription": "I&#x27;m an indie developer and use both macOS and Windows for development. Most of my indie game work is done in Godot on Windows. I start…",
+    "fullDescription": "I&#x27;m an indie developer and use both macOS and Windows for development. Most of my indie game work is done in Godot on Windows. I started using AI coding agents a few months ago, and one problem kept bothering me: Windows doesn&#x27;t have a simple and reliable equivalent to tmux or screen. If I accidentally closed a terminal window, the agent session running inside it was gone too. I tried tmux through MSYS2. It sort of worked, but it would sometimes stop responding for no obvious reason. That&#x27;s why I built qscreen. It provides the small subset of tmux features that I actually need, with native PowerShell support as the main goal. As long as the computer stays on and the qscreen daemon is still running, closing the terminal won&#x27;t kill the session. Claude and Codex helped a lot while building this. I love these guys. Using qscreen is pretty easy. Download the `.exe` and run it. The commands I use most often are: qscn - creates a new session if there isn&#x27;t one. qscn ls - list all sessions. qscn attach Id - attaches to a specific session. Press &quot;Ctrl+B&quot;, then &quot;s&quot; to open the session list. From there, you can switch sessions or create and close them. &quot;Ctrl+B ?&quot; to see the keyboard shortcuts. I&#x27;m pretty happy with the current feature set, but I&#x27;d love to hear what other people think. Maybe WinGet distribution should be next? Project page: https:&#x2F;&#x2F;github.com&#x2F;dualface&#x2F;qscreen PS: I only discovered psmux when qscreen was already nearly finished. :-D\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/dualface/qscreen",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48989416",
+    "createdAt": "2026-07-21T09:09:10.623Z"
+  },
+  {
+    "slug": "steerplane-open-source-runtime-guardrails-for-ai-agents-hn",
+    "title": "SteerPlane – open-source runtime guardrails for AI agents",
+    "shortDescription": "Проект «SteerPlane – open-source runtime guardrails for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «SteerPlane – open-source runtime guardrails for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/vijaym2k6/SteerPlane",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48988992",
+    "createdAt": "2026-07-21T09:09:10.623Z"
+  },
+  {
     "slug": "sunamai-github",
     "title": "SunamAI",
     "shortDescription": "The useless AI agent.",
