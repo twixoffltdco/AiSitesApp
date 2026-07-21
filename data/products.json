@@ -1,5 +1,203 @@
 [
   {
+    "slug": "generative-mui-github",
+    "title": "generative-mui",
+    "shortDescription": "Renderer for Material UI: an LLM emits A2UI, this renders it as real MUI in your host ThemeProvider — with streaming, two-way binding, char…",
+    "fullDescription": "Renderer for Material UI: an LLM emits A2UI, this renders it as real MUI in your host ThemeProvider — with streaming, two-way binding, charts, and runtime custom components.\n\nАвтор: yessGlory17. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://github.com/yessGlory17/generative-mui",
+    "category": "chatbot",
+    "tags": [
+      "a2ui",
+      "agent",
+      "ai",
+      "ai-sdk",
+      "chatbot",
+      "generative-mui",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1306493579",
+    "createdAt": "2026-07-21T12:52:08.634Z"
+  },
+  {
+    "slug": "devfortress-open-core-credential-isolation-for-apis-and-ai-agents-hn",
+    "title": "DevFortress – open-core credential isolation for APIs and AI agents",
+    "shortDescription": "Проект «DevFortress – open-core credential isolation for APIs and AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «DevFortress – open-core credential isolation for APIs and AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/duncan982/devfortress-core",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48991619",
+    "createdAt": "2026-07-21T12:52:08.382Z"
+  },
+  {
+    "slug": "assembly-chat-chat-with-any-net-hn",
+    "title": "Assembly Chat – Chat with Any .NET",
+    "shortDescription": "Upload a DLL or select NuGet package. Ask questions about the API in plain English. Gets you code samples, architecture views, and diffs be…",
+    "fullDescription": "Upload a DLL or select NuGet package. Ask questions about the API in plain English. Gets you code samples, architecture views, and diffs between versions.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://products.documentize.ai/assembly-chat",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48991518",
+    "createdAt": "2026-07-21T12:52:08.382Z"
+  },
+  {
+    "slug": "shellink-let-ai-agents-run-commands-on-servers-behind-jump-hosts-hn",
+    "title": "Shellink – let AI agents run commands on servers behind jump hosts",
+    "shortDescription": "Проект «Shellink – let AI agents run commands on servers behind jump hosts», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Shellink – let AI agents run commands on servers behind jump hosts», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/jie123108/Shellink",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48991134",
+    "createdAt": "2026-07-21T12:52:08.382Z"
+  },
+  {
+    "slug": "chatpanel-a-privacy-first-ai-agent-browser-side-panel-hn",
+    "title": "ChatPanel, A Privacy-first AI Agent browser side panel",
+    "shortDescription": "I needed an AI agent that understands my work better (meetings, notes, chats and lives where I access the web) and gives me flexibility to…",
+    "fullDescription": "I needed an AI agent that understands my work better (meetings, notes, chats and lives where I access the web) and gives me flexibility to use the model of choice. So, I built this and I am a 100x engineer now. A few features to highlight. - You bring your own Agent (Codex, claude code etc) or local models or in-browser models or remote models - A live meeting assistant. You got to try to this to see the power of it - A local note taking app where AI Agents live - Voice to Text (all local) - NER and PII redaction before sending data to agents, models - Search across your chats, notes and meetings - Try asking drawing stuff on excalidraw ot tldr draw in browser act mode - in-built MCP hub you can add - Bring your own CLI agent (pi, opencode etc) Complete flexibility on which model, agent you want to send each message to while we don&#x27;t track any data. Its Open source for you to validate all the privacy claims to build your trust You just need the browser extension and associated npm packages to build the bridge between your AI agents&#x2F;models and the extension. Give it a try.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://chatpanel.net/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48991094",
+    "createdAt": "2026-07-21T12:52:08.382Z"
+  },
+  {
+    "slug": "see-whats-happening-accross-the-social-web-before-it-goes-viral-hn",
+    "title": "See what's happening accross the social web before it goes viral",
+    "shortDescription": "Проект «See what's happening accross the social web before it goes viral», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «See what's happening accross the social web before it goes viral», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.threadverse.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48991048",
+    "createdAt": "2026-07-21T12:52:08.382Z"
+  },
+  {
+    "slug": "we-checked-2291-top-product-hunt-launches-1-in-4-is-dead-hn",
+    "title": "We checked 2,291 top Product Hunt launches- 1 in 4 is dead",
+    "shortDescription": "Проект «We checked 2,291 top Product Hunt launches- 1 in 4 is dead», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «We checked 2,291 top Product Hunt launches- 1 in 4 is dead», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://rightaichoice.com/state-of-ai-tools/graveyard",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48991001",
+    "createdAt": "2026-07-21T12:52:08.382Z"
+  },
+  {
+    "slug": "open-kritt-open-source-infrastructure-for-ai-based-security-research-hn",
+    "title": "Open-Kritt – Open-source infrastructure for AI-based security research",
+    "shortDescription": "Проект «Open-Kritt – Open-source infrastructure for AI-based security research», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Open-Kritt – Open-source infrastructure for AI-based security research», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Kritt-ai/open-kritt",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48990871",
+    "createdAt": "2026-07-21T12:52:08.382Z"
+  },
+  {
+    "slug": "enlarger-a-local-upscaler-that-keeps-detail-instead-of-smoothing-it-hn",
+    "title": "Enlarger • A local upscaler that keeps detail instead of smoothing it",
+    "shortDescription": "Hey everyone! I know there are gazillion alternatives out there especially with AI and all, but this nevertheless is my take on it. I creat…",
+    "fullDescription": "Hey everyone! I know there are gazillion alternatives out there especially with AI and all, but this nevertheless is my take on it. I created it because I was frustrated with the options I was seeing in the market. Too heavy, too complex, UX was meh, the output created was not resonating with my style of photography, they are generally glitchy or hallucinate too much, and I dislike subscription fees or credits personally. I prefer BIFL licenses and desktop apps. Since most will probably compare it to the free and open source Upscayl, I went ahead and did a comparison post on the visual output, which might explain more in depth on my motivations why I did Enlarger. You can find it from the &quot;Blog&quot; section. Would like to know what do you think of it, and if there are any questions about the tech stack or the whole process, I will try my best to answer!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://enlarger.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48990864",
+    "createdAt": "2026-07-21T12:52:08.382Z"
+  },
+  {
+    "slug": "openmog-a-social-network-whose-ai-treats-every-post-as-absolute-truth-hn",
+    "title": "openmog – a social network whose AI treats every post as absolute truth",
+    "shortDescription": "Проект «openmog – a social network whose AI treats every post as absolute truth», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «openmog – a social network whose AI treats every post as absolute truth», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.openmog.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48990850",
+    "createdAt": "2026-07-21T12:52:08.382Z"
+  },
+  {
+    "slug": "an-ai-podcast-on-real-engineering-tradeoffs-hn",
+    "title": "An AI podcast on real engineering tradeoffs",
+    "shortDescription": "Проект «An AI podcast on real engineering tradeoffs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An AI podcast on real engineering tradeoffs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://medium.com/@aneeshaprasannan/i-found-the-most-honest-ai-podcast-on-youtube-by-accident-and-it-ruined-my-favorite-excuse-4aad47bf6732",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48990791",
+    "createdAt": "2026-07-21T12:52:08.382Z"
+  },
+  {
+    "slug": "turn-excel-csv-and-google-sheets-into-an-ai-chatbot-hn",
+    "title": "Turn Excel, CSV and Google Sheets into an AI Chatbot",
+    "shortDescription": "Проект «Turn Excel, CSV and Google Sheets into an AI Chatbot», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Turn Excel, CSV and Google Sheets into an AI Chatbot», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.frontierbase.io",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48990785",
+    "createdAt": "2026-07-21T12:52:08.382Z"
+  },
+  {
     "slug": "friday-a-local-first-desktop-ai-assistant-that-can-use-tools-hn",
     "title": "Friday – a local-first desktop AI assistant that can use tools",
     "shortDescription": "Проект «Friday – a local-first desktop AI assistant that can use tools», опубликован сообществом Hacker News.",
