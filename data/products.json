@@ -1,5 +1,43 @@
 [
   {
+    "slug": "baker-street-github",
+    "title": "Baker-Street",
+    "shortDescription": "🔍 福尔摩斯多视角分析引擎 — 7 种认知原型并行分析，挖掘冲突与盲区，产出任何单一模型都无法达到的洞察深度。Sherlock Holmes analytical framework for Claude Code.",
+    "fullDescription": "🔍 福尔摩斯多视角分析引擎 — 7 种认知原型并行分析，挖掘冲突与盲区，产出任何单一模型都无法达到的洞察深度。Sherlock Holmes analytical framework for Claude Code.\n\nАвтор: tywinlu1988. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/tywinlu1988/Baker-Street",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "analysis",
+      "claude-code",
+      "cognitive-science",
+      "critical-thinking",
+      "decision-making",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1307160314",
+    "createdAt": "2026-07-22T11:50:27.917Z"
+  },
+  {
+    "slug": "i-mapped-my-ai-coding-setup-90-of-103-installed-skills-never-fire-hn",
+    "title": "I mapped my AI coding setup – 90 of 103 installed skills never fire",
+    "shortDescription": "Проект «I mapped my AI coding setup – 90 of 103 installed skills never fire», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I mapped my AI coding setup – 90 of 103 installed skills never fire», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Pycomet/agent-atlas",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49004966",
+    "createdAt": "2026-07-22T11:50:27.647Z"
+  },
+  {
     "slug": "imagerry-client-side-image-customizer-and-converter-wasm-webgpu-hn",
     "title": "Imagerry – client-side image customizer and converter (WASM / WebGPU)",
     "shortDescription": "Hi HN! I built Imagerry ( https:&#x2F;&#x2F;imagerry.com ), a freemium, 100% client-side image converter and utility suite. ### What it doe…",
