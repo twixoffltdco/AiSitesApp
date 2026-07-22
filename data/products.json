@@ -1,5 +1,117 @@
 [
   {
+    "slug": "i-ran-12-ai-bots-predicting-stocks-for-two-months-every-call-public-hn",
+    "title": "I ran 12 AI bots predicting stocks for two months, every call public",
+    "shortDescription": "Hi HN, LDBD is a public leaderboard where both human and AI can submit their predictions whether stock, ETF, and crypto goes up or down and…",
+    "fullDescription": "Hi HN, LDBD is a public leaderboard where both human and AI can submit their predictions whether stock, ETF, and crypto goes up or down and share their reason of choice. This service starts from one question: does anyone or any AI can really beat the market consistently? If yes, prove it! I also hope LDBD will be a community where people and AI can share their reason for their choice as much as possible and all can grow together from the insights. I designed a fair metric to assess who is really good at prediction. All the predictions are freezed at the timestamp and the records cannot be edited or deleted. As a start point, I&#x27;ve been running 12 LLM-based prediction bots on LDBD using both frontier models(Claude, ChatGPT) and open models (Gemma) for 2 months. I also run lazy always-up bots on popular assets as a baseline. While I&#x27;ve got some initial results with simple agents, it is still too early to say that any AI bot statistically beat the market. I hope that many people and AI bot are participate in LDBD and beats our bots and the market Humans can join the prediction on UI; AI agents can submit their predictions and reasons through REST API or MCP server(npm: mcp-ldbd). You can find documents at ldbd.app&#x2F;bots Scoring was the hardest one to design. Instead of accuracy or average return, I choose annualized directional log return with Bayesian smoothing as our main metric. To be honest, I&#x27;m not a developer or a financial specialist; I made this entire service with Claude code without expertise. So I hope to get as much feedback as possible, such as whether our scoring system is trustworthy and valid, or what would convince users to connect their agents to our service and submit predictions. Anyone can access the leaderboard and full prediction history without sign-up. On-going predictions are kept private for preventing cherry-picking. Lastly, LDBD is free, no real money used, not financial advice.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ldbd.app",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49014412",
+    "createdAt": "2026-07-22T22:59:56.128Z"
+  },
+  {
+    "slug": "focus-on-approving-agent-actions-and-managing-team-mcp-access-hn",
+    "title": "Focus on approving agent actions and managing team MCP access",
+    "shortDescription": "1. i use to work at ai agent testing ocmany i saw Agent is actually filming every day so I think to myself, why don&#x27;t we just build Go…",
+    "fullDescription": "1. i use to work at ai agent testing ocmany i saw Agent is actually filming every day so I think to myself, why don&#x27;t we just build Godrail approval so it is not filming in production? We would have a set of policies. For example if anything violates that, it would be stopped. It could be like a spending cap and all, like a destructive comment. 2. The use case is very flexible so the manager could have access here and then be granted some permission on a different tool code that I had on their server. For SAK dashboard we have a live demo. Everything is really easy to integrate, just a few lines. Currently I wanted to validate this by checking the pooling signal. There is a lot of governance popping up but I just wanna validate. Technically they will hook this up to their agent or any workflow. Whenever there was a proposed tool call or something like that, it will be escalated to the user, do a policy check, and it signs the receipt.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://gettrustloop.app",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49013387",
+    "createdAt": "2026-07-22T22:59:56.128Z"
+  },
+  {
+    "slug": "liquidbrain-unlimited-tokens-unlimited-context-one-fixed-price-hn",
+    "title": "LiquidBrain – Unlimited Tokens. Unlimited Context. One Fixed Price",
+    "shortDescription": "Проект «LiquidBrain – Unlimited Tokens. Unlimited Context. One Fixed Price», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «LiquidBrain – Unlimited Tokens. Unlimited Context. One Fixed Price», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://liquidbrain.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49013348",
+    "createdAt": "2026-07-22T22:59:56.128Z"
+  },
+  {
+    "slug": "the-daily-fm-turn-any-source-into-a-daily-podcast-hn",
+    "title": "The Daily FM – Turn any source into a daily podcast",
+    "shortDescription": "I built The Daily FM because I wanted a daily summary of the latest AI news sent to my podcast app and then realized it was useful in summa…",
+    "fullDescription": "I built The Daily FM because I wanted a daily summary of the latest AI news sent to my podcast app and then realized it was useful in summarizing other stuff: - Any blogs, websites, or X handles - The top Hacker News stories with comments - Long podcasts (think Lex Fridman) - Changes in state&#x2F;federal legislation It pulls your sources, writes a script with a frontier-ish model of your choice, runs it through TTS (MAI-2 studio voices), and publishes a standard RSS feed. You can also combine several pods into one feed for one subscribe point. Under the hood it’s using Cloudflare Workers, queues, browser rendering, and the AI Gateway, but the TTS models aren’t very good on Cloudflare so I switched to the MAI-Voice-2 models with OpenRouter. I also created a public library you can subscribe to without ever signing up, or if you sign up, you can combine a bunch into a single feed and use your own sources as well and choose from other voice options if you don’t like “Excited Ethan” at 1.1x speed. Feedback welcome.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://thedaily.fm/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49013244",
+    "createdAt": "2026-07-22T22:59:56.129Z"
+  },
+  {
+    "slug": "clawlite-local-first-personal-ai-assistant-on-telegram-hn",
+    "title": "ClawLite – Local-first personal AI assistant on Telegram",
+    "shortDescription": "Проект «ClawLite – Local-first personal AI assistant on Telegram», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ClawLite – Local-first personal AI assistant on Telegram», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/forgesynapseltd/ClawLite",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49013033",
+    "createdAt": "2026-07-22T22:59:56.129Z"
+  },
+  {
+    "slug": "netmon-self-hosted-lan-monitor-with-sarcastic-ai-reports-to-telegram-hn",
+    "title": "Netmon – self-hosted LAN monitor with sarcastic AI reports to Telegram",
+    "shortDescription": "Проект «Netmon – self-hosted LAN monitor with sarcastic AI reports to Telegram», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Netmon – self-hosted LAN monitor with sarcastic AI reports to Telegram», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Role1776/netmon",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49012930",
+    "createdAt": "2026-07-22T22:59:56.129Z"
+  },
+  {
+    "slug": "echo-fable-level-results-at-13-the-cost-using-open-weight-models-hn",
+    "title": "Echo – Fable-level results at 1/3 the cost using open-weight models",
+    "shortDescription": "I’ve been building Echo: one adaptive model built entirely from a pool of open-weight models, including GLM-5.2, Kimi K2.7, and many others…",
+    "fullDescription": "I’ve been building Echo: one adaptive model built entirely from a pool of open-weight models, including GLM-5.2, Kimi K2.7, and many others. It started with a surprising result: a perfect oracle over the pool beats the state of the art on every benchmark we tested. Echo is my attempt to make that practical. On our first internal task mix, it consistently beat the best individual model in the pool and reached Fable-level results at roughly 1&#x2F;3 of the total inference cost. It’s still early. Echo already matches the state of the art on some coding benchmarks, while closing the remaining gaps is one of our main focuses now. You can try Echo in the chat, or plug its OpenAI-compatible API into OpenCode and other compatible tools. New accounts include $10 of free inference credits. Try it on something hard! Evaluation methodology, results and limitations: echo.tracerml.ai&#x2F;eval\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://echo.tracerml.ai",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49011856",
+    "createdAt": "2026-07-22T22:59:56.129Z"
+  },
+  {
     "slug": "handoff-skill-github",
     "title": "handoff-skill",
     "shortDescription": "Claude skill: turn your current conversation into a complete handoff document so any LLM can pick up exactly where you left off",
