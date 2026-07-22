@@ -1,5 +1,37 @@
 [
   {
+    "slug": "findborg-ad-free-find-engine-with-community-ai-and-real-web-results-hn",
+    "title": "Findborg – ad-free find engine with community, AI, and real web results",
+    "shortDescription": "Проект «Findborg – ad-free find engine with community, AI, and real web results», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Findborg – ad-free find engine with community, AI, and real web results», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.findborg.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49001630",
+    "createdAt": "2026-07-22T04:20:17.810Z"
+  },
+  {
+    "slug": "create-a-realistic-couple-photo-from-two-separate-portraits-hn",
+    "title": "Create a realistic couple photo from two separate portraits",
+    "shortDescription": "Проект «Create a realistic couple photo from two separate portraits», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Create a realistic couple photo from two separate portraits», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ai-couplephoto.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49000760",
+    "createdAt": "2026-07-22T04:20:17.810Z"
+  },
+  {
     "slug": "anthropometer-github",
     "title": "anthropometer",
     "shortDescription": "Btop-style real-time context monitor for Claude Code sessions — live context map, cache economics, subagents, and a compiled PDF report.",
