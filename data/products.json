@@ -1,5 +1,112 @@
 [
   {
+    "slug": "handoff-skill-github",
+    "title": "handoff-skill",
+    "shortDescription": "Claude skill: turn your current conversation into a complete handoff document so any LLM can pick up exactly where you left off",
+    "fullDescription": "Claude skill: turn your current conversation into a complete handoff document so any LLM can pick up exactly where you left off\n\nАвтор: ToolMonsters. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://github.com/ToolMonsters/handoff-skill",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1308602622",
+    "createdAt": "2026-07-22T20:10:18.479Z"
+  },
+  {
+    "slug": "minos-github",
+    "title": "minos",
+    "shortDescription": "Hard rules for coding agents that hold",
+    "fullDescription": "Hard rules for coding agents that hold\n\nАвтор: FlavioZanoni. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://minos.frav.in",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-harness",
+      "ai-safety",
+      "ai-tools",
+      "claude-code",
+      "claude-code-plugin",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1307740710",
+    "createdAt": "2026-07-22T20:10:18.479Z"
+  },
+  {
+    "slug": "the-harbinger-mtls-proxy-that-gives-ai-agents-identity-not-api-keys-hn",
+    "title": "The Harbinger- mTLS proxy that gives AI agents identity, not API keys",
+    "shortDescription": "I built this as i thought this model could better to what other tools are doing. What do you guys think ? Harbinger is an mTLS proxy that s…",
+    "fullDescription": "I built this as i thought this model could better to what other tools are doing. What do you guys think ? Harbinger is an mTLS proxy that sits in front of an AI agent&#x27;s outbound traffic. Every AI agent, bot, and service account gets a cryptographic identity. Every request it makes is checked against policy before it&#x27;s allowed, and any real secret it needs is pulled from your own vault and swapped in only when the request is verified to be going where it claims. The agent itself never holds a standing credential.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/n0tduck1e/theharbinger",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49012282",
+    "createdAt": "2026-07-22T20:10:18.405Z"
+  },
+  {
+    "slug": "readmer-is-a-compiler-for-building-readmes-from-liquidjinja2-templates-hn",
+    "title": "Readmer is a compiler for building READMEs from Liquid/Jinja2 templates",
+    "shortDescription": "As a somewhat prolific open-source author over the past 25 years, I maintain hundreds of Rust crates, Ruby gems, Python packages, and so on…",
+    "fullDescription": "As a somewhat prolific open-source author over the past 25 years, I maintain hundreds of Rust crates, Ruby gems, Python packages, and so on. One of the painful aspects of large projects consisting of dozens of packages has been the individual READMEs for each package, with lots of repetitive elements but also a great deal of necessary package-specific variation. Now, before anyone asks, I don&#x27;t want to just have an LLM generate my READMEs. People are increasingly sensitive to AI slop, and that certainly starts with a project&#x27;s README: slop is readily recognizable through LLMs&#x27; lack of good judgment on README contents. More isn&#x27;t always better: &quot;If I had more time, I would have written a shorter letter&quot; and all that. I believe that at this point given widespread, complex formatting of READMEs, what with CI badges, headers, footers, tables, images, inline HTML, etc, etc, we&#x27;ve in any case realistically drifted quite far from the original human-readable vision of Markdown as such. Perhaps, then, we ought to consider whether README.md files really should not best be treated just as built documentation outputs, not as sacred artisanal relics to be read on a 80×24 monochrome screen? Along these lines, I present Readmer, a first attempt at a proper README compiler. Readmer composes README.md files from Liquid or Jinja2 templates stored in an unobtrusive .config&#x2F;readmer&#x2F; project directory, with lots of nifties such as support for rendering CSV files as Markdown tables. I hope it comes useful to someone! $ cargo binstall -y readmer $ cargo new myproject &amp;&amp; cd myproject $ mkdir -p .config&#x2F;readmer&#x2F; $ echo &#x27;# {{ package.name | capitalize }}&#x27; &gt; .config&#x2F;readmer&#x2F;README.md.liquid $ readmer render &gt; README.md\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/artob/readmer",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49012191",
+    "createdAt": "2026-07-22T20:10:18.406Z"
+  },
+  {
+    "slug": "research-rooms-for-agents-hn",
+    "title": "Research Rooms for Agents",
+    "shortDescription": "Проект «Research Rooms for Agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Research Rooms for Agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://alexandria.clankercloud.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49012142",
+    "createdAt": "2026-07-22T20:10:18.406Z"
+  },
+  {
+    "slug": "millwright-rust-based-self-hosted-llm-router-hn",
+    "title": "Millwright – Rust-based, self-hosted LLM router",
+    "shortDescription": "Hey HN, With the news of OpenRouter possibly being acquired and proliferation of hosted LLM routers (i.e. Ramp Router, Vercel’s AI Gateway)…",
+    "fullDescription": "Hey HN, With the news of OpenRouter possibly being acquired and proliferation of hosted LLM routers (i.e. Ramp Router, Vercel’s AI Gateway), I saw the need for a self hosted solution focused on cost savings, transparency, and performance. So, I built an open sourced router with a simple CLI interface that can easily sit between coding agents and GenAI workloads. For the curious and lazy, at the moment, Millwright has the tools for, - Providers: OpenAI-compatible APIs, Anthropic, Amazon Bedrock - Routing: policy-controlled model roles (cheap, mid, frontier), cheapest healthy route selection - Protocols: OpenAI Chat Completions, Anthropic Messages, text and tool translation - Cache Affinity: role-scoped session lanes without serializing concurrent agent traffic - Spend Tracking: per-team costs, cache usage, model&#x2F;provider mix, request traces - Cost Analysis: measured usage and modeled candidate economics (HTML, Markdown, JSON) - Reliability: bounded failover, circuit breakers, timeouts, concurrency limits - Setup: interactive provider, model, and pricing configuration without storing provider secrets - Deployment: one Rust binary, Docker, SQLite or PostgreSQL Full disclosure: parts of the codebase were built with AI coding agents. All feedback is welcome, I’d especially value feedback on the routing policy, provider coverage, and anything that would block you from self-hosting it. Feel free to open feature&#x2F;request and&#x2F;or contribute as well.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/Northwood-Systems/millwright",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49011806",
+    "createdAt": "2026-07-22T20:10:18.406Z"
+  },
+  {
     "slug": "we-added-x402-so-ai-agents-can-pay-to-use-our-cloud-simulation-api-hn",
     "title": "We added x402 so AI agents can pay to use our cloud simulation API",
     "shortDescription": "Проект «We added x402 so AI agents can pay to use our cloud simulation API», опубликован сообществом Hacker News.",
