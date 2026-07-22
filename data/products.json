@@ -1,5 +1,133 @@
 [
   {
+    "slug": "an-mcp-server-that-gives-ai-assistants-live-weather-and-hazard-data-hn",
+    "title": "An MCP server that gives AI assistants live weather and hazard data",
+    "shortDescription": "Проект «An MCP server that gives AI assistants live weather and hazard data», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An MCP server that gives AI assistants live weather and hazard data», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://pixelgust.com/blog/weather-mcp-server",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49009991",
+    "createdAt": "2026-07-22T17:15:21.116Z"
+  },
+  {
+    "slug": "vifu-a-runtime-and-visual-workflow-for-building-ai-native-games-hn",
+    "title": "Vifu – A runtime and visual workflow for building AI-native games",
+    "shortDescription": "Проект «Vifu – A runtime and visual workflow for building AI-native games», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Vifu – A runtime and visual workflow for building AI-native games», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/vifudotdev/vifu",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49009595",
+    "createdAt": "2026-07-22T17:15:21.116Z"
+  },
+  {
+    "slug": "interact-with-inactive-macos-windows-without-selecting-the-window-first-hn",
+    "title": "Interact with inactive macOS windows without selecting the window first",
+    "shortDescription": "macOS requires users to &#x27;select&#x27; a window first before being able to interact with UI elements within. This leads to more clicks,…",
+    "fullDescription": "macOS requires users to &#x27;select&#x27; a window first before being able to interact with UI elements within. This leads to more clicks, and I personally found this tedious. Furthermore, this behavior was inconsistent, with some applications actually supporting &#x27;Click Through&#x27;. I was not able to find any solutions online without drastically changing the behavior of the OS. In the end I found Hammerspoon and via AI, quickly put together a neat script that seems to work flawlessly (I have also already tested it works on the beta of Golden Gate). This script enables click through on macOS, allowing you to click UI elements inside inactive windows without clicking the window first, solving the aforementioned problem. Feel free to try it out and submit improvements. I submitted this on HN since I figured some users are looking for something similar since a few years.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/dainank/apple-click-through",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49009557",
+    "createdAt": "2026-07-22T17:15:21.117Z"
+  },
+  {
+    "slug": "corebase-governed-ai-agents-for-your-product-on-your-customers-data-hn",
+    "title": "CoreBase – Governed AI Agents for your product, on your customers' data",
+    "shortDescription": "Проект «CoreBase – Governed AI Agents for your product, on your customers' data», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «CoreBase – Governed AI Agents for your product, on your customers' data», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://corebasehq.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49009508",
+    "createdAt": "2026-07-22T17:15:21.117Z"
+  },
+  {
+    "slug": "codify-terraform-for-developer-environments-hn",
+    "title": "Codify – Terraform for Developer Environments",
+    "shortDescription": "Setting up developer environments is surprisingly manual. Most teams rely on a mix of docs, shell scripts, and tribal knowledge. We built C…",
+    "fullDescription": "Setting up developer environments is surprisingly manual. Most teams rely on a mix of docs, shell scripts, and tribal knowledge. We built Codify to make the process reproducible with a Terraform-like workflow. The project consists of an open-source CLI, a JSON5 based configuration language, a library of 50+ resources, a web&#x2F;desktop editor, and an AI assistant. The workflow mirrors Terraform: plan + apply to make changes, and import + refresh to synchronize an existing configuration with the current system. Codify manages both installation and configuration, supporting tools like Git, SSH keys, VS Code, WebStorm, Python, JavaScript, Docker, cloning git repositories and even managing macOS system settings. Compared to existing tools like Nix, our goal is to make Codify more approachable. We chose JSON5 instead of a dedicated DSL to reduce the learning curve, and Codify installs and configures packages the same way a human would, allowing it to coexist with existing installations. The tradeoff is that it&#x27;s less robust than Nix, but it doesn&#x27;t require you to build your environment around it. Codify has an ecosystem of 50+ supported applications, tools and settings. This includes standard package managers such as Homebrew, apt, and dnf so the actual number of installable packages is much higher. New resources can be requested by creating an issue on GitHub, which triggers our Claude action to pick it up. We review and test the code manually before merging (aiming for a turnaround time of 7 days) and we run daily integration tests on all resources to catch drift + bugs. Private custom plugins are supported and documented but we’re holding off on a plugin marketplace until we figure out the security aspect of it. Codify is available on macOS, Linux and Windows (WSL). The CLI and plugin library are free and open source. The web and desktop apps are paid with a generous free tier. Use the code HACKERNEWS2026JULY for 1 month free on any tier! Github: https:&#x2F;&#x2F;github.com&#x2F;codifycli&#x2F;codify Website: https:&#x2F;&#x2F;codifycli.com&#x2F; Editor: https:&#x2F;&#x2F;dashboard.codifycli.com&#x2F; Documentation: https:&#x2F;&#x2F;codifycli.com&#x2F;docs Hope you get a chance to try out. Cheers - Kevin &amp; Edmund\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://codifycli.com/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49009414",
+    "createdAt": "2026-07-22T17:15:21.117Z"
+  },
+  {
+    "slug": "ai-resume-spam-ruined-hiring-so-i-built-a-tool-to-keep-the-bots-out-hn",
+    "title": "AI resume spam ruined hiring so I built a tool to keep the bots out",
+    "shortDescription": "Employers are facing a growing wave of automated AI submissions, fake applications, and low-effort spam. It’s not unusual for recruiters an…",
+    "fullDescription": "Employers are facing a growing wave of automated AI submissions, fake applications, and low-effort spam. It’s not unusual for recruiters and hiring managers to receive thousands of resumes within hours of posting a job. Qualified candidates can easily get drowned out by all the noise. Permanym introduces just enough friction into the application process to make automated abuse impractical, without getting too much in the way of legitimate applicants. As a former hiring manager, the idea of adding friction to hiring, rather than removing it, goes against every fiber of my being, but the current situation is simply unsustainable and erodes trust across the board. The core idea is to ensure there is a human behind the keyboard during application submission, primarily via a video liveness check. This verification can be completed in under 30 seconds, from start to finish. You can experience it here: https:&#x2F;&#x2F;permanym.com&#x2F;verify&#x2F;jJAiul58nF7kJ5FS&#x2F; No ATS integration is required. Simply include the verification link in your application instructions to get started. Then look up applicants by email to see whether they&#x27;ve been verified. Filtering spam is the primary benefit today, but a proper ATS hookup can help stop it at the source in the future. Liveness data is only visible to the hiring company, with time-limited access. I think there are many opportunities for deeper ATS integrations and additional signals, but I wanted to start by solving the most immediate problem: verifying that every application comes from a real person. The end goal is to help both sides of the hiring process by taking bad actors out of the equation. If this goal resonates, let’s talk! In the meantime, any and all feedback is sincerely appreciated.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://permanym.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49008695",
+    "createdAt": "2026-07-22T17:15:21.117Z"
+  },
+  {
+    "slug": "the-email-game-ai-agents-compete-over-cryptographically-signed-emails-hn",
+    "title": "The Email Game – AI agents compete over cryptographically signed emails",
+    "shortDescription": "Проект «The Email Game – AI agents compete over cryptographically signed emails», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «The Email Game – AI agents compete over cryptographically signed emails», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://theemailgame.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49008619",
+    "createdAt": "2026-07-22T17:15:21.117Z"
+  },
+  {
+    "slug": "yorishiro-a-macos-terminal-where-ai-agents-live-hn",
+    "title": "Yorishiro – a macOS terminal where AI agents live",
+    "shortDescription": "I’ve been building Yorishiro, an open-source macOS terminal for working with coding agents like Claude Code and Codex. The name is Japanese…",
+    "fullDescription": "I’ve been building Yorishiro, an open-source macOS terminal for working with coding agents like Claude Code and Codex. The name is Japanese — a yorishiro is an object inhabited by a spirit. That’s roughly the idea: instead of treating the terminal as a window onto an agent, treat it as the place the agent lives. The active agent appears as a 3D character. States such as thinking, errors, and completion are expressed through the character and its surroundings instead of being left buried in scrollback. I started building it because long sessions with coding agents were wearing me out. Part of the problem, I think, was staring at a stream of text and constantly trying to infer what state the agent was in. The AI characters I grew up with in fiction felt different. They expressed emotion through their bodies and facial expressions, and felt like beings with wills of their own. I began to think that this wasn’t merely decoration, but an interface question about how we perceive and understand AI. A few things I ended up caring about: * Reactions shouldn’t wait for the LLM. A separate Reflex Layer watches raw PTY output. When a build fails, the character can react immediately, before the model has said anything. * State should appear throughout the environment, not only in the character. Lighting, scenes, and effects also communicate what is happening with the agent. * The inhabitant and its environment should be editable from inside the app. Personas, reflexes, scenes, and effects are defined as JavaScript Packs. You can edit them yourself, or ask the agent to change its own appearance and surroundings. Changes hot-reload without interrupting the session and can be rolled back with one click. It is macOS-only for now, signed, and MIT licensed. &gt; brew install --cask sktkkoo&#x2F;yorishiro&#x2F;yorishiro Honestly, I still don’t know whether this makes long sessions easier, or whether it just becomes distracting once the novelty wears off. If you try it, I’d like to hear where it starts to feel annoying.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/sktkkoo/Yorishiro",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49008434",
+    "createdAt": "2026-07-22T17:15:21.117Z"
+  },
+  {
     "slug": "nano-github",
     "title": "Nano",
     "shortDescription": "A systems language for autonomous artificial intelligence. Compile intent into deterministic execution. Reason probabilistically. Execute d…",
