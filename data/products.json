@@ -1,5 +1,53 @@
 [
   {
+    "slug": "imagerry-client-side-image-customizer-and-converter-wasm-webgpu-hn",
+    "title": "Imagerry – client-side image customizer and converter (WASM / WebGPU)",
+    "shortDescription": "Hi HN! I built Imagerry ( https:&#x2F;&#x2F;imagerry.com ), a freemium, 100% client-side image converter and utility suite. ### What it doe…",
+    "fullDescription": "Hi HN! I built Imagerry ( https:&#x2F;&#x2F;imagerry.com ), a freemium, 100% client-side image converter and utility suite. ### What it does till today: - 100% Client-Side: Zero file uploads, all processing happens locally using HTML5 Canvas &amp; WebAssembly, though gpu is heavy on desktop apps. - Format Conversions &amp; Resizing: PNG, WebP, AVIF, JPEG, SVG with high-quality Lanczos scaling (`pica`). - Utility Tools: Code Snippet Beautifier, App Icon Studio, Social OG Card Generator, and Passport Photo Arranger. - Cross-platform: Available as a PWA and desktop app (Electron). ### Some Suggestions and tradeoff&#x27;s for adding ?? :) I’m considering adding *local AI models* (such as in-browser AI image upscalers or background removers using ONNX Runtime Web &#x2F; WebGPU) - by desktop apps preferable only. Since Imagerry focuses on privacy and zero cloud uploads, running models locally in the browser feels like a natural fit, but it comes with a *20MB–50MB initial model or even more depending on local model&#x27;s download trade-off*. 1. Do you think adding local-first AI models is the best direction for a web tool like this for support in desktop apps only? 2. Would the model download size bother&#x27;s for a privacy-first web app, or would prefer keeping it ultra-lightweight without AI? As well some landing page design suggestion to add before and after image concepts ?? I’d love to hear your thoughts and any technical feedback on the current build mainly on using good tools!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://imagerry.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49004013",
+    "createdAt": "2026-07-22T09:58:00.331Z"
+  },
+  {
+    "slug": "slate-a-to-do-list-shaped-like-your-week-not-an-endless-backlog-hn",
+    "title": "Slate, a to-do list shaped like your week, not an endless backlog",
+    "shortDescription": "Slate is a task planner that sits between a calendar and a to-do list. Tasks go on the day you actually plan to do them, no fake time block…",
+    "fullDescription": "Slate is a task planner that sits between a calendar and a to-do list. Tasks go on the day you actually plan to do them, no fake time blocks required, and anything not ready for a specific day yet sits in a separate backlog instead of cluttering the week. Easy to try: no sign-up wall to poke around (though more advanced AI features would not be accessible) I made this because I never trusted either extreme. A calendar makes you fake commit to a time slot... A to-do list takes anything with no judgment about what belongs this week, so it just grows forever. Some of the harder parts to get right: 1- Sync + drag&amp;drop: Drag and drop needed to feel instant, but everything also syncs live across devices through AppSync&#x2F;DynamoDB with optimistic concurrency: Getting those two to not fight each other (a drag mid-flight racing a subscription echoing your own write back at you) took a few rewrites... crazy how those simple things can be so hard to get right. 2- UI: keeping the UI minimalist and nice on mobile after building this first for desktop. I&#x27;m still down in the mine adding features nobody asked for (voice-to-task, add-task-through-whatsapp,...): please come be my first users so I have a reason to climb out, stop building and start talking to people instead\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://slate-todo.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49003042",
+    "createdAt": "2026-07-22T09:58:00.331Z"
+  },
+  {
+    "slug": "runkit-a-browser-based-tmux-manager-hn",
+    "title": "RunKit – a browser based tmux manager",
+    "shortDescription": "RunKit is a browser based tmux manager that works great on a phone over Tailscale. I created it to be able to run several AI agents in para…",
+    "fullDescription": "RunKit is a browser based tmux manager that works great on a phone over Tailscale. I created it to be able to run several AI agents in parallel, after trying out several existing tools. There&#x27;s no database (state is read live from tmux). Right now, its the first thing I install on any server, and from there on RunKit becomes the management cock-pit for that server. Also, for running several agents in parallel, RunKit has been a lifesaver. It shows the status of all running agent on the left panel, and sends you a notification anytime an agent is stuck. Please try it out, and let me know if works for you.\n\nНайдено в разделе Show HN на Hacker News. 👍 7 баллов.",
+    "url": "https://github.com/sahil87/run-kit",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49003020",
+    "createdAt": "2026-07-22T09:58:00.331Z"
+  },
+  {
     "slug": "open-source-ai-shadow-that-runs-on-your-machine-and-acts-as-you-hn",
     "title": "Open-source AI shadow that runs on your machine and acts as you",
     "shortDescription": "Проект «Open-source AI shadow that runs on your machine and acts as you», опубликован сообществом Hacker News.",
