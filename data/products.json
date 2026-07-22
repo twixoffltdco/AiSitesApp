@@ -1,5 +1,119 @@
 [
   {
+    "slug": "anthropometer-github",
+    "title": "anthropometer",
+    "shortDescription": "Btop-style real-time context monitor for Claude Code sessions — live context map, cache economics, subagents, and a compiled PDF report.",
+    "fullDescription": "Btop-style real-time context monitor for Claude Code sessions — live context map, cache economics, subagents, and a compiled PDF report.\n\nАвтор: arian-shamaei. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/arian-shamaei/anthropometer#readme",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "btop",
+      "claude",
+      "claude-code",
+      "cli",
+      "context-window",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1306938692",
+    "createdAt": "2026-07-22T00:58:07.347Z"
+  },
+  {
+    "slug": "latent-moe-github",
+    "title": "Latent-MoE",
+    "shortDescription": "Implementation of LatentMoE,Toward Optimal Accuracy per FLOP and Parameter in Mixture of Experts (Elango et al., NVIDIA 2026) — in Pytorch.…",
+    "fullDescription": "Implementation of LatentMoE,Toward Optimal Accuracy per FLOP and Parameter in Mixture of Experts (Elango et al., NVIDIA 2026) — in Pytorch. A single-file, dependency-light layer you can drop in place of a standard MoE FFN.\n\nАвтор: kyegomez. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://discord.gg/EamjgSaEQf",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "attention",
+      "cuda",
+      "k3",
+      "kimi",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1307720625",
+    "createdAt": "2026-07-22T00:58:07.347Z"
+  },
+  {
+    "slug": "vibe-coding-blueprint-github",
+    "title": "vibe-coding-blueprint",
+    "shortDescription": "Turn messy software ideas into production-ready roadmaps with AI: 10-phase vibe coding framework + Claude skill for consistent project docs…",
+    "fullDescription": "Turn messy software ideas into production-ready roadmaps with AI: 10-phase vibe coding framework + Claude skill for consistent project docs (PRD, tech stack, prompts & more).\n\nАвтор: nisargpatel1906. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/nisargpatel1906/vibe-coding-blueprint",
+    "category": "developer",
+    "tags": [
+      "agentic-coding",
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1306596360",
+    "createdAt": "2026-07-22T00:58:07.347Z"
+  },
+  {
+    "slug": "free-desktop-orcabot-for-macos-hn",
+    "title": "Free Desktop OrcaBot for macOS",
+    "shortDescription": "OrcaBot is a virtualized sandbox for securely orchestrating your AI tools. Its secrets broker keeps credentials hidden from agents. Network…",
+    "fullDescription": "OrcaBot is a virtualized sandbox for securely orchestrating your AI tools. Its secrets broker keeps credentials hidden from agents. Network egress controls help prevent data exfiltration. The tools and agents themselves run inside an isolated virtual machine. Until now, OrcaBot has run exclusively in the cloud using Fly.io virtual machines. Those machines cost money to operate, which is why the cloud version of OrcaBot requires a subscription. Now OrcaBot Desktop is available for free on macOS\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://orcabot.com/blog/free-desktop-orcabot",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49000099",
+    "createdAt": "2026-07-22T00:58:07.063Z"
+  },
+  {
+    "slug": "memsprout-share-your-ai-context-with-teammates-hn",
+    "title": "Memsprout – share your AI context with teammates",
+    "shortDescription": "I’m an architect at my company and everyone on my team is now using Claude&#x2F;Codex agents for their work. Managing context in claude.md&…",
+    "fullDescription": "I’m an architect at my company and everyone on my team is now using Claude&#x2F;Codex agents for their work. Managing context in claude.md&#x2F;agents.md files is fine but so much of the knowledge required doesn’t fit cleanly in one repo or the other. Plus, much of the team (product, design, support) does not work in repos but still needs a place to share context. I searched for existing solutions to this but only found products meant for managing deployed AI agent memory for use in AI applications. I wanted something that would help my team share the context that lives in our collective heads. First try at solving this problem was creating a directory structure with an MCP layer on top of it, but that became a pain to maintain. So I started tinkering with creating a platform for context sharing that works for the whole team. For this to work I wanted to prioritize two things above all else: 1. Easy to store valuable context. If it feels like maintaining docs, no one will use it. 2. Easy to share context with the right people. Access controls, read&#x2F;write permissions, etc. This turned into memsprout. Memsprout solves shared context with: - MCP - to connect directly to AI agents right where everyone is doing their work already - Memories - the core unit of thing that is stored - Spaces - to manage sharing memories with teammates - Topics - to categorize memories into specific buckets So now I am able to store memories for bits of context I define as I work and share them with my teammates. Q: Do you guys also see this kind of context sharing as a challenge? How have you solved it in your work?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://memsprout.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49000003",
+    "createdAt": "2026-07-22T00:58:07.063Z"
+  },
+  {
+    "slug": "jaybase-append-only-fact-store-for-ai-doing-business-workflows-hn",
+    "title": "Jaybase: Append-only fact store for AI doing business workflows",
+    "shortDescription": "Hey HN, I build custom AI agents for businesses, and one of the things I&#x27;ve noticed is that everyone wants to use AI to do real, criti…",
+    "fullDescription": "Hey HN, I build custom AI agents for businesses, and one of the things I&#x27;ve noticed is that everyone wants to use AI to do real, critical work, but it&#x27;s hard to trust it because sometimes agents can go a little off the rails. No one wants their agent deleting all their customer data or screwing up their books. So they tend to limit its use to searching, summarizing, and as a writing assistant. This really limits the value you can get from using AI. The problem is that most ways we store data, from notes &amp; spreadsheets to databases, were designed for humans who work at and make mistakes at human speed, or for deterministic software systems. AI agents work non-deterministically at machine speed, which is a new challenge. That&#x27;s why I made Jaybase. Jaybase is an append-only fact store for agentic workflows. It&#x27;s based on a Merkle Directed Acyclic Graph, which is the same technology behind git and the blockchain, so every write is auditable, replayable, and reversible. If an agent goes off the rails and corrupts a bunch of data, it&#x27;s easy to recover and easy to audit what went wrong. It also doesn&#x27;t have a fixed schema, so as you add agents or your agents get more skills, it&#x27;s natural to add more kinds of data. Happy to dive into any questions in the comments and would love the community’s feedback. Thanks!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/kyle-visner/jaybase",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "48999936",
+    "createdAt": "2026-07-22T00:58:07.064Z"
+  },
+  {
     "slug": "optimcp-github",
     "title": "OptiMCP",
     "shortDescription": "Stop shipping hallucinated numbers. OptiMCP verifies your agent's math and logic against your rules — deterministically, with zero LLM in t…",
