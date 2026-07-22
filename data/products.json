@@ -1,5 +1,139 @@
 [
   {
+    "slug": "nano-github",
+    "title": "Nano",
+    "shortDescription": "A systems language for autonomous artificial intelligence. Compile intent into deterministic execution. Reason probabilistically. Execute d…",
+    "fullDescription": "A systems language for autonomous artificial intelligence. Compile intent into deterministic execution. Reason probabilistically. Execute deterministically.\n\nАвтор: DBarr3. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://aethersystems.net",
+    "category": "developer",
+    "tags": [
+      "aether-ai",
+      "agent-framework",
+      "agent-runtime",
+      "agents",
+      "ai",
+      "ai-agents",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1308803067",
+    "createdAt": "2026-07-22T15:39:03.563Z"
+  },
+  {
+    "slug": "veracium-agent-memory-keeping-third-party-claims-from-becoming-facts-hn",
+    "title": "Veracium – agent memory keeping third-party claims from becoming facts",
+    "shortDescription": "Проект «Veracium – agent memory keeping third-party claims from becoming facts», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Veracium – agent memory keeping third-party claims from becoming facts», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/veracium-ai/Veracium",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49008522",
+    "createdAt": "2026-07-22T15:39:03.327Z"
+  },
+  {
+    "slug": "bento-an-entire-powerpoint-in-one-html-file-editviewdatacollab-hn",
+    "title": "Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+    "shortDescription": "Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Cl…",
+    "fullDescription": "Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits we need to edit the code either manually or via the harness. To avoid this loop, I ended up creating Bento, a single HTML file with everything you need in a slide tool including animations and shared editing. There&#x27;s no install or cloud login, everything works offline. The default deck is around 560 KB and it doesn&#x27;t need to fetch anything once you got it. Open it in a browser and then you can edit, present, print and save. Share it via email or via Airdrop and all they need is a browser to edit, present and also do live collab on the slides. Drop it in to Claude or ChatGPT to transform existing pptx files into Bento slides. There is no cloud involved, only an encrypted blind relay to allow for shared editing. The relay doesn&#x27;t see any of the data. Check it out at https:&#x2F;&#x2F;bento.page&#x2F;slides&#x2F; which takes you straight to the editor. Go to https:&#x2F;&#x2F;bento.page&#x2F;guestbook&#x2F; to try out the live guestbook to experience share editing &#x2F; collab. There is also a gallery with some sample decks on the website - https:&#x2F;&#x2F;bento.page&#x2F; All the code is MIT licensed and you can find it here - https:&#x2F;&#x2F;github.com&#x2F;nyblnet&#x2F;bento . I used reveal.js with several other libraries (including some homegrown ones), and Claude Code.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://bento.page/slides/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49008211",
+    "createdAt": "2026-07-22T15:39:03.328Z"
+  },
+  {
+    "slug": "anakin-api-for-your-ai-agents-to-access-the-most-difficult-websites-hn",
+    "title": "Anakin – API for your AI agents to access the most difficult websites",
+    "shortDescription": "Every second thing I build needs to access the web, and I was frustrated with not finding something that just works all the time. With my t…",
+    "fullDescription": "Every second thing I build needs to access the web, and I was frustrated with not finding something that just works all the time. With my team, we built this because I wanted to enable access to extremely difficult websites and apps for every AI agent. We have solved this cat-and-mouse problem with self-healing built in. It&#x27;s one API to get data from hostile sites, and it can do easy sites too. You POST a URL and get back Markdown, JSON, HTML, a screenshot, or all of them. That same call handles anti-bot, proxy rotation, JS rendering, persistent authenticated sessions, and schema-based extraction. It gets data from most sites behind Cloudflare and Akamai, which is where other tools fail. Sometimes you need to wait for the page to load, or click on something before you get the data, and we built that in too. When we started six years ago, we could only serve large customers, because it required engineers to manually set up a scraper for every website. Only large e-Commerce and food delivery companies that wanted competitive intelligence data could justify the cost. Now, it costs a dollar for a thousand pages, and anyone can use it via our API. There are plenty of scraping APIs now, and most of them work fine until a website fights back. That is where we’re different. We spent six years on the most difficult websites across 100+ countries, and we built everything we learned into this API. This is just the first product in the series. The next ones will make scraping much cheaper and let you get millions of rows of accurate data with just a prompt. Demo here: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=3HJ0iZd2d4Q I ran a quick comparison of Anakin with five popular scraping APIs across 20 real URLs: https:&#x2F;&#x2F;github.com&#x2F;Anakin-Inc&#x2F;scraper-benchmark . I am, of course, biased, so feel free to run it with your own URLs and let me know if any website doesn&#x27;t work. We have a free tier that covers the first 300 pages.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://anakin.io",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49008083",
+    "createdAt": "2026-07-22T15:39:03.328Z"
+  },
+  {
+    "slug": "langy-an-automated-ai-engineer-we-gave-it-a-robot-body-video-hn",
+    "title": "Langy, an automated AI engineer (we gave it a robot body) [video]",
+    "shortDescription": "Founder here. Langy is an AI engineer that lives inside our platform, LangWatch. It reads your production traces, writes Scenario tests and…",
+    "fullDescription": "Founder here. Langy is an AI engineer that lives inside our platform, LangWatch. It reads your production traces, writes Scenario tests and evaluations for the problems it finds, opens a pull request on your repo, and proves the fix by running those simulations in CI. A human still merges. Reachy robot from Hugging Face arrived on the same week we were planing on launching it, so we wanted to use for the launch. So we it wired to our Langy which actually lives on the platform, and asked it to test our own customer-support voice agent. On the video you can see it writing the agent tests reading traces and everything. LangWatch is an open source platform (github.com&#x2F;langwatch&#x2F;langwatch) and Scenario, the simulation-testing library it drives, is open source too if you want to run that part yourself: https:&#x2F;&#x2F;github.com&#x2F;langwatch&#x2F;scenario . A full write-up on how Langy works under the hood is coming later this week. Happy to get into how it drives the robot, what is real vs staged, latency, or how the whole harness around it actually works.\n\nНайдено в разделе Show HN на Hacker News. 👍 7 баллов.",
+    "url": "https://langwatch.ai/blog/introducing-langy-your-automated-ai-engineer",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49007760",
+    "createdAt": "2026-07-22T15:39:03.328Z"
+  },
+  {
+    "slug": "dataparade-generate-dataflow-diagrams-from-code-for-risk-assessments-hn",
+    "title": "DataParade – generate dataflow diagrams from code for risk assessments",
+    "shortDescription": "As a privacy and security engineer for the past nine years, I’ve probably done close to 1000 privacy and security risk assessments. The pai…",
+    "fullDescription": "As a privacy and security engineer for the past nine years, I’ve probably done close to 1000 privacy and security risk assessments. The pain points and pet peeves I’ve come across in this work led me to build DataParade. Questionnaires suck, and so does cramming in a risk assessment right before you want to launch. PARADE stands for Processing Activity Risk Assessment Diagramming Environment. The premise is simple - a dataflow diagram, embedded with security and privacy controls and metadata, can answer all the questions in a security or privacy risk assessment. Why dataflow diagrams? Because risk follows dataflow. And because a picture really is worth a thousand words, especially in this context. Early feedback told me that nobody wants to create another artifact from scratch. So my first priority has been to build out a code-scan-to-diagram pipeline which allows you to bootstrap diagrams using our CLI tool ( https:&#x2F;&#x2F;github.com&#x2F;DataParade-io&#x2F;dataparade-cli ) This is what the CLI tool does today: - Point the CLI at a repo, and it writes a dataflow.json you can import as a starting diagram in the DataParade app. After the scan, you will see a link to our web app where you can further manipulate the diagram, continue annotating it with security and privacy properties, and add more nodes, data transfers, and actors. - No paywall. I&#x27;m just looking to stress-test the scanner across real codebases right now and get general feedback; maybe identify some design partners along the way. - It currently parses TypeScript, JavaScript, Python, and Terraform (Java&#x2F;Go on deck). - The scan runs locally. By default, the resulting diagram is uploaded to a workspace so you get a link to open it in the app (use the --skip-auto-upload flag to keep it fully local). - .env files never get read. - We don&#x27;t point an LLM at your repo and hope. A deterministic pattern engine derives your dataflow diagram directly from the code. An optional AI pass enriches it and cites evidence for every suggestion; or use the --no-ai-inference flag for deterministic-only output with zero model calls. - The optional AI enrichment runs through our platform, so anonymous AI scans are rate-limited (to keep costs sane during this stress test). If you hit the limit, add the --no-ai-inference flag to keep going structurally, or grab a workspace key. - Open source, GPL-3.0: https:&#x2F;&#x2F;github.com&#x2F;DataParade-io&#x2F;dataparade-cli My ask: I’m looking for feedback on scans&#x2F;diagrams across a wide range of architectures and technologies… - Is your diagram missing a service? - Did it draw a flow backwards? - Did it choke on your monorepo? - What other languages&#x2F;frameworks would you like to see supported? - Any other suggestions on how we can make DataParade awesome? The more stacks we see, the more robust DataParade becomes. I look forward to reading through your feedback in these comments (both good and bad). Thank you in advance!\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/DataParade-io/dataparade-cli",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49007529",
+    "createdAt": "2026-07-22T15:39:03.328Z"
+  },
+  {
+    "slug": "foomchat-an-ai-chat-where-the-interface-is-whatever-you-want-hn",
+    "title": "Foomchat – an AI chat where the interface is whatever you want",
+    "shortDescription": "I had this idea a while ago: these language models write decent code now — enough to quickly prototype different ways their own interfaces…",
+    "fullDescription": "I had this idea a while ago: these language models write decent code now — enough to quickly prototype different ways their own interfaces could work. So why keep reinventing the wheel separately? Combine it: a chat interface where, within the interface, you simply ask the model for the interface changes you want. That&#x27;s Foomchat. You ask for messages rendered a certain way, a font, your own theme, a timer in the sidebar — you describe it, the model codes it, and it&#x27;s installed live in the app. Maybe it isn&#x27;t perfect the first run — models still misinterpret things — so you explain the change you want, it updates the feature, done. To publish a feature, it first has to be reviewed — features are, in essence, arbitrary code injection, so it&#x27;s vital that everything on the browse page is safe. Once approved, a feature goes public on the catalog. Cards have a &quot;try&quot; button that installs it locally without saving it to your account (refresh and it&#x27;s gone), and an install button that makes it permanent — from then on, whatever it modifies is just part of the site for you. Published features have dependency tracking and version locking, so features can extend other features without a dependency update breaking yours. New signups get 100 free credits, enough for a real taste. You can bring your own API key, or there are $10 and $20 subscriptions for the convenient route. Solo project. I&#x27;m looking for people to give it a try and hopefully find real use in it — and if there&#x27;s anything to critique, I genuinely want to hear it so I can make it better.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://foomchat.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49007436",
+    "createdAt": "2026-07-22T15:39:03.328Z"
+  },
+  {
+    "slug": "octomind-cloud-persistent-cloud-compute-for-ai-agents-hn",
+    "title": "Octomind Cloud – Persistent cloud compute for AI agents",
+    "shortDescription": "Проект «Octomind Cloud – Persistent cloud compute for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Octomind Cloud – Persistent cloud compute for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://octomind.run/blog/octomind-cloud-launch",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49007062",
+    "createdAt": "2026-07-22T15:39:03.328Z"
+  },
+  {
     "slug": "language-model-builder-github",
     "title": "language-model-builder",
     "shortDescription": "An educational macOS app: build and chat with a tiny language model, trained on your Mac",
