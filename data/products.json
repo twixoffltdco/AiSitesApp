@@ -1,5 +1,154 @@
 [
   {
+    "slug": "language-model-builder-github",
+    "title": "language-model-builder",
+    "shortDescription": "An educational macOS app: build and chat with a tiny language model, trained on your Mac",
+    "fullDescription": "An educational macOS app: build and chat with a tiny language model, trained on your Mac\n\nАвтор: felixrieseberg. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://languagemodelbuilder.com",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "llm",
+      "llm-tools",
+      "machine-learning",
+      "mlx",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1307024852",
+    "createdAt": "2026-07-22T13:45:42.857Z"
+  },
+  {
+    "slug": "we-stopped-feature-gating-our-open-source-bi-platform-hn",
+    "title": "We stopped feature-gating our open source BI platform",
+    "shortDescription": "Hi HN, Nikhilesh here — founder of Helical Insight. We&#x27;ve been building this as an open BI framework for a while, mostly used for AI a…",
+    "fullDescription": "Hi HN, Nikhilesh here — founder of Helical Insight. We&#x27;ve been building this as an open BI framework for a while, mostly used for AI assisted analytics, paginated&#x2F;pixel-perfect reporting (invoices, statements, regulatory docs), interactive dashboards, and embedding. Right now on version 7.0, with 200+ paying clients. With immediate affect, As of today, every feature ships free in Community Edition — including a new AI module (chat with your data, bring-your-own-LLM key, so nothing about your data goes through us), SSO, embedding, multi-tenancy, and row-level security. Every feature. Free forever. No exceptions. Source code present on github, download and start using. One condition: Community Edition keeps a small &quot;Helical Insight&quot; mark on charts and exports that can&#x27;t be removed — that&#x27;s how the whole thing stays free. Stack: Java, React, Python. Small project — a few hundred GitHub stars — so ask anything, including the parts that don&#x27;t flatter us yet. Organizations that need SLAs or direct engineering support can purchase Enterprise Support, but we no longer believe advanced BI functionality should be locked behind feature gates. Even free version users can purchase support &amp; services from us. Happy to answer any technical questions\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/helicalinsight/helicalinsight",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49006632",
+    "createdAt": "2026-07-22T13:45:41.029Z"
+  },
+  {
+    "slug": "a-governed-context-vault-for-claude-code-and-cowork-agpl-cli-hn",
+    "title": "A Governed Context Vault for Claude Code and Cowork (AGPL CLI)",
+    "shortDescription": "Проект «A Governed Context Vault for Claude Code and Cowork (AGPL CLI)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A Governed Context Vault for Claude Code and Cowork (AGPL CLI)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://promptowl.ai/resources/make-claude-accountable-contextnest-plugin/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49006270",
+    "createdAt": "2026-07-22T13:45:41.029Z"
+  },
+  {
+    "slug": "turn-narrated-screen-recordings-into-data-for-ai-agents-local-mit-hn",
+    "title": "Turn narrated screen recordings into data for AI agents (local, MIT)",
+    "shortDescription": "Проект «Turn narrated screen recordings into data for AI agents (local, MIT)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Turn narrated screen recordings into data for AI agents (local, MIT)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/korovin-aa97/talkthrough-mcp",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49006129",
+    "createdAt": "2026-07-22T13:45:41.029Z"
+  },
+  {
+    "slug": "synthcut-an-open-source-local-first-ai-video-editor-hn",
+    "title": "SynthCut – An open-source, local-first AI video editor",
+    "shortDescription": "Проект «SynthCut – An open-source, local-first AI video editor», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «SynthCut – An open-source, local-first AI video editor», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Relo-video/SynthCut",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49005915",
+    "createdAt": "2026-07-22T13:45:41.029Z"
+  },
+  {
+    "slug": "diktafon-voice-memos-on-cassette-tapes-transcribed-on-device-hn",
+    "title": "Diktafon – Voice memos on cassette tapes, transcribed on-device",
+    "shortDescription": "Diktafon is a voice-memo app: each topic is a cassette, memos are appended to its tape, and a cassette plays back as one continuous recordi…",
+    "fullDescription": "Diktafon is a voice-memo app: each topic is a cassette, memos are appended to its tape, and a cassette plays back as one continuous recording. Every memo is transcribed and every cassette summarised, fully on-device: whisper.cpp for transcription, Qwen3 via llama.cpp for summaries — vendored behind two small C shims sharing one ggml build, driven from Dart (Flutter) over FFI in worker isolates. A bundled Silero VAD keeps silence and noise from turning into invented sentences. Models are downloaded once, sha256-pinned. No accounts, no cloud, no analytics. MIT; Android, iOS, Linux. It came from a real need. The closest existing apps are WalkWrite (iOS-only, aimed at writers — speech becomes polished text) and Notely Voice (a notes app fed by dictation); both turn audio into text, while I wanted the recordings to stay the primary object, with the text attached. Although I&#x27;m an experienced programmer, I wrote almost none of this by hand. I kept to the role of designer and reviewer, and Claude (Fable) wrote the code — an experiment in how far that gets. It did as I expected — very well, app complete in about a week of occasional 30 minutes sessions. Happy to answer questions about that workflow as much as the app. I use it daily and I&#x27;m happy with it. I&#x27;ll be glad for any feedback. Source: https:&#x2F;&#x2F;github.com&#x2F;jaromiru&#x2F;diktafon\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/jaromiru/diktafon",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49005819",
+    "createdAt": "2026-07-22T13:45:41.029Z"
+  },
+  {
+    "slug": "human-benchmark-compare-your-reasoning-skills-against-ai-models-hn",
+    "title": "Human Benchmark – Compare your reasoning skills against AI models",
+    "shortDescription": "Проект «Human Benchmark – Compare your reasoning skills against AI models», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Human Benchmark – Compare your reasoning skills against AI models», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://robinshields.github.io/HumanBenchmark/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49005727",
+    "createdAt": "2026-07-22T13:45:41.029Z"
+  },
+  {
+    "slug": "mathematics-refresher-book-for-people-returning-to-maths-hn",
+    "title": "Mathematics Refresher Book for people returning to maths",
+    "shortDescription": "I wanted to refresh my mathematics, so I started creating notes with the help of AI. What began as a personal learning project slowly turne…",
+    "fullDescription": "I wanted to refresh my mathematics, so I started creating notes with the help of AI. What began as a personal learning project slowly turned into a free mathematics refresher and an interactive companion app. It&#x27;s still very much a work in progress, so I would really appreciate feedback, suggestions and corrections.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://abdulqabiz.com/mathematics-refresher-book/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49005719",
+    "createdAt": "2026-07-22T13:45:41.030Z"
+  },
+  {
+    "slug": "emem-external-memory-of-the-physical-world-for-ai-agents-hn",
+    "title": "Emem – External memory of the physical world for AI agents",
+    "shortDescription": "Проект «Emem – External memory of the physical world for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Emem – External memory of the physical world for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Vortx-AI/emem",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49005615",
+    "createdAt": "2026-07-22T13:45:41.030Z"
+  },
+  {
     "slug": "baker-street-github",
     "title": "Baker-Street",
     "shortDescription": "🔍 福尔摩斯多视角分析引擎 — 7 种认知原型并行分析，挖掘冲突与盲区，产出任何单一模型都无法达到的洞察深度。Sherlock Holmes analytical framework for Claude Code.",
