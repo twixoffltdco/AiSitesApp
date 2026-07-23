@@ -1,5 +1,53 @@
 [
   {
+    "slug": "an-inbox-for-your-ai-coding-agents-herdr-plugin-hn",
+    "title": "An inbox for your AI coding agents (herdr plugin)",
+    "shortDescription": "Проект «An inbox for your AI coding agents (herdr plugin)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An inbox for your AI coding agents (herdr plugin)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/douglascorrea/herdr-agent-inbox",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49027154",
+    "createdAt": "2026-07-23T19:55:03.547Z"
+  },
+  {
+    "slug": "production-duplex-speech-model-for-revenue-calls-hn",
+    "title": "Production duplex speech model for revenue calls",
+    "shortDescription": "Hi, HN, we’re building Mia &amp; Leo: AI personalities backed by purpose-built duplex speech models for revenue calls. Teams building real-…",
+    "fullDescription": "Hi, HN, we’re building Mia &amp; Leo: AI personalities backed by purpose-built duplex speech models for revenue calls. Teams building real-world agents told us that more than 40% of callers hang up within the first 30 seconds. On a revenue call, that meant a lost booking, an unpaid balance, a cold lead, or a customer who does not come back. This happens because humans interrupt, correct dates, pause halfway through a sentence, or speak over someone in the background. The agent misses it, talks over them, or loses the thread. That’s because of how the current voice systems work. They sequentially listen, stop, think, and then speak. The conversation is actually a walkie-talkie exchange. So, we’re proud to introduce our first iteration of Mia &amp; Leo who keep listening while they speak. They can handle interruptions, overlapping speech, corrections, and background voices without breaking the conversation. They are also built for production. Developers get control over agent behaviour, visibility into calls, failures they can debug, and costs that work at scale. Please try them out at metavoice.io. We&#x27;d love to hear any feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://metavoice.io/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49026899",
+    "createdAt": "2026-07-23T19:55:03.547Z"
+  },
+  {
+    "slug": "notebookerai-notebooklm-alternative-your-own-models-keys-storage-hn",
+    "title": "Notebooker.ai – NotebookLM alternative, your own models, keys, storage",
+    "shortDescription": "Hi HN. This is a personal side project I&#x27;ve been building for about six months on top of the open-source Open Notebook platform ( http…",
+    "fullDescription": "Hi HN. This is a personal side project I&#x27;ve been building for about six months on top of the open-source Open Notebook platform ( https:&#x2F;&#x2F;github.com&#x2F;lfnovo&#x2F;open-notebook ). Notebooker saves the stuff you&#x27;d otherwise lose in tabs and bookmarks - links, PDFs, audio, video - and makes it useful later: chat with a notebook and get answers that cite the exact source, turn a reading list into a podcast episode (private RSS feed, works in any player), or generate study material from your own sources. The part I&#x27;ve had the most fun with is a plugin engine for creation types - flashcards, charts, infographics, mindmaps, textbooks, essays, slideshows, timelines, wikis are each plugins, and new ones can be added without touching the core. Everything I&#x27;ve built on top of open-notebook has either been submitted upstream as PRs or is open source at https:&#x2F;&#x2F;github.com&#x2F;Notebooker-ai . Decisions this crowd might care about: - Bring your own AI keys (OpenAI, Anthropic, local&#x2F;OpenAI-compatible endpoints) or use the built-in defaults. I enjoy testing Cloudflare Worker AI models. Nothing you save is used for training. You can deploy you own OpenAI compatible endpoint to play with at https:&#x2F;&#x2F;open.notebooker.ai - Bring your own S3-compatible storage (R2, Spaces, AWS) if you want your files in a bucket you control. - Webhooks in and out — anything that can POST JSON can trigger a workflow, and workflows can POST anywhere. Notebook also processes incoming RSS feeds and generates its own - Export everything or delete your account with a click. There&#x27;s a view-only demo notebook at https:&#x2F;&#x2F;app.notebooker.ai&#x2F;demo . Happy to answer any questions. I&#x27;m expecting some hiccups in releasing, feel free to report bugs or feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://notebooker.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49026511",
+    "createdAt": "2026-07-23T19:55:03.547Z"
+  },
+  {
     "slug": "potatowikibox-github",
     "title": "potato_wiki_box",
     "shortDescription": "A local-first AI workspace that turns source material into an inspectable Markdown knowledge base.",
