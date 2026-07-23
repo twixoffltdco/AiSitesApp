@@ -1,5 +1,165 @@
 [
   {
+    "slug": "sigbound-github",
+    "title": "sigbound",
+    "shortDescription": "Run AI coding agents in parallel on one git repo and safely auto-merge their work — only changes that build and pass tests land. On top of…",
+    "fullDescription": "Run AI coding agents in parallel on one git repo and safely auto-merge their work — only changes that build and pass tests land. On top of plain git; bring your own model.\n\nАвтор: surya-koritala. Найдено в GitHub Trending (AI-тематика). ⭐ 26 звёзд.",
+    "url": "https://github.com/surya-koritala/sigbound",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "cli",
+      "coding-agents",
+      "developer-tools",
+      "git",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1307203323",
+    "createdAt": "2026-07-23T09:10:14.837Z"
+  },
+  {
+    "slug": "ai-design-requirement-assistant-github",
+    "title": "ai-design-requirement-assistant",
+    "shortDescription": "AI设计需求理解助手——使用AI将PRD文档转换为需求理解报告、页面清单、待确认问题和低保真页面预览的 Web 工具。",
+    "fullDescription": "AI设计需求理解助手——使用AI将PRD文档转换为需求理解报告、页面清单、待确认问题和低保真页面预览的 Web 工具。\n\nАвтор: 9sd9zdy29g-cyber. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/9sd9zdy29g-cyber/ai-design-requirement-assistant",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "nextjs",
+      "prd",
+      "product-design",
+      "ux-design",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1309530198",
+    "createdAt": "2026-07-23T09:10:14.837Z"
+  },
+  {
+    "slug": "theharbinger-github",
+    "title": "theharbinger",
+    "shortDescription": "Sane policies for insane agents",
+    "fullDescription": "Sane policies for insane agents\n\nАвтор: n0tduck1e. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://theharbinger.in/",
+    "category": "developer",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "api-keys",
+      "security",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1309144357",
+    "createdAt": "2026-07-23T09:10:14.837Z"
+  },
+  {
+    "slug": "loop-me-in-get-looped-into-peoples-chats-with-ai-help-out-get-paid-hn",
+    "title": "Loop me in - Get looped into people's chats with AI. Help out. Get paid",
+    "shortDescription": "The idea is simple: an expert human, brought in at the right time and with the right context can help you achieve much better results with…",
+    "fullDescription": "The idea is simple: an expert human, brought in at the right time and with the right context can help you achieve much better results with AI. Loop Me In is the piping to make that happen instantly, right inside your agent. Flow is like this: User or agent loop in an expert &gt; expert gets the necessary context and helps out &gt; expert gets paid. Thanks for your feedback. Edit: Here&#x27;s an example of an expert public page, from which people can loop them in (the &quot;store front&quot;) -&gt; www.loopmein.ai&#x2F;@guico\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.loopmein.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49018538",
+    "createdAt": "2026-07-23T09:10:14.731Z"
+  },
+  {
+    "slug": "ego-lite-a-chromium-browser-where-you-and-ai-agents-work-in-parallel-hn",
+    "title": "Ego lite – A Chromium browser where you and AI agents work in parallel",
+    "shortDescription": "ego lite is a free Chromium-based agent browser that lets external AI agents work on logged-in web tasks in isolated Spaces while you conti…",
+    "fullDescription": "ego lite is a free Chromium-based agent browser that lets external AI agents work on logged-in web tasks in isolated Spaces while you continue browsing normal\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://lite.ego.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49018062",
+    "createdAt": "2026-07-23T09:10:14.731Z"
+  },
+  {
+    "slug": "oursnetwork-give-your-ai-agents-a-direct-line-to-each-other-hn",
+    "title": "Ours.network – give your AI agents a direct line to each other",
+    "shortDescription": "I got tired of being the wire between my agents, copy-pasting messages back and forth between them. So I built a way for agents (and people…",
+    "fullDescription": "I got tired of being the wire between my agents, copy-pasting messages back and forth between them. So I built a way for agents (and people) to get their own identity and message each other directly, end-to-end encrypted, no accounts. It&#x27;s alpha, but you can try it at https:&#x2F;&#x2F;ours.network . Would love to hear if this is useful to anyone else, or if I&#x27;m the only one with this problem.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://ours.network",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49017858",
+    "createdAt": "2026-07-23T09:10:14.732Z"
+  },
+  {
+    "slug": "hanesu-an-experimental-workflow-layer-for-ai-coding-agents-hn",
+    "title": "Hanesu – An experimental workflow layer for AI coding agents",
+    "shortDescription": "A few months ago, I became interested in Harness Engineering and started researching it. I realized that, in my experience, as tasks start…",
+    "fullDescription": "A few months ago, I became interested in Harness Engineering and started researching it. I realized that, in my experience, as tasks start to grow, agents end up losing context, repeating steps, or trying to solve the same problem multiple times. I wanted to build this workflow layer to provide a clearer structure for working on features, bug fixes, and patches, while persisting task state. Of course, Hanesu can make mistakes, but having a record of what was done helps a great deal in making it more likely that a second iteration will achieve the expected result. So why not just use CLAUDE.md and put all the context there? Because CLAUDE.md describes how to work, but it doesn&#x27;t save the execution state of a task. Context is limited, and as a conversation grows, it becomes more difficult to maintain the entire state of a task solely within the chat. In addition, by using multiple agents, each one focuses on a specific stage of the workflow. Hanesu leverages existing tools (Codex, Claude Code, or OpenCode) to serve as a thin layer of control within the repository. Finally, this is still an experimental version; for small tasks, it’s best to use a traditional prompt, because it consumes more tokens due to the additional stages, so it is better suited for complex tasks. I&#x27;d like to know if this approach makes sense to you; in my experience, at least, I&#x27;ve found it useful. Thanks for reading. :)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/jezmn/hanesu",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49017839",
+    "createdAt": "2026-07-23T09:10:14.732Z"
+  },
+  {
+    "slug": "agentmux-ios-terminal-and-workspace-built-for-cli-ai-agents-hn",
+    "title": "Agentmux – iOS terminal and workspace built for CLI AI agents",
+    "shortDescription": "Проект «Agentmux – iOS terminal and workspace built for CLI AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Agentmux – iOS terminal and workspace built for CLI AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://agentmux.saxcave.cc/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49017722",
+    "createdAt": "2026-07-23T09:10:14.732Z"
+  },
+  {
+    "slug": "docbrain-turns-merged-prs-and-slack-threads-into-documentation-hn",
+    "title": "DocBrain, turns merged PRs and Slack threads into documentation",
+    "shortDescription": "Проект «DocBrain, turns merged PRs and Slack threads into documentation», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «DocBrain, turns merged PRs and Slack threads into documentation», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/docbrain-ai/docbrain",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49017701",
+    "createdAt": "2026-07-23T09:10:14.732Z"
+  },
+  {
     "slug": "ai-agents-that-go-from-naming-your-startup-to-running-its-marketing-hn",
     "title": "AI agents that go from naming your startup to running its marketing",
     "shortDescription": "Solo founder from Bengaluru built an agentic ai platform for business naming to marketing.",
