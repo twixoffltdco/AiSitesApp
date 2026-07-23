@@ -1,5 +1,69 @@
 [
   {
+    "slug": "run-glm-45-air110bon-a-16gbram-consumer-machine-hn",
+    "title": "Run GLM-4.5-Air(110B)on a 16GBRAM consumer machine",
+    "shortDescription": "Проект «Run GLM-4.5-Air(110B)on a 16GBRAM consumer machine», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Run GLM-4.5-Air(110B)on a 16GBRAM consumer machine», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/FedericoTs/quantprobe",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49028865",
+    "createdAt": "2026-07-23T22:30:38.556Z"
+  },
+  {
+    "slug": "bookshelf-book-quotes-that-appear-between-claude-code-and-codex-turns-hn",
+    "title": "Bookshelf – book quotes that appear between Claude Code and Codex turns",
+    "shortDescription": "This is a small quality of life project i built for myself and using it for 3+ months now, decided to fork it out and publish as a skill se…",
+    "fullDescription": "This is a small quality of life project i built for myself and using it for 3+ months now, decided to fork it out and publish as a skill separately. Instead of seeing terminals filled with code and tool calls, seeing a book quote felt like a breath of fresh air considering all of us are glued to it day and night. Hope the random quotes that pop up in your terminals lets you have a moment of pause or happiness every now and then while the agents keep churning out stuff for us. Please feel free to give it a spin and let me know your thoughts and feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/Amal-David/bookshelf",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49028693",
+    "createdAt": "2026-07-23T22:30:38.556Z"
+  },
+  {
+    "slug": "ai-factory-a-spec-driven-pipeline-that-stops-ai-agents-rotting-code-hn",
+    "title": "AI-factory – a spec-driven pipeline that stops AI agents rotting code",
+    "shortDescription": "Проект «AI-factory – a spec-driven pipeline that stops AI agents rotting code», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI-factory – a spec-driven pipeline that stops AI agents rotting code», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/highflame-ai/ai-factory",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49028457",
+    "createdAt": "2026-07-23T22:30:38.556Z"
+  },
+  {
+    "slug": "skim-a-minimalist-open-source-email-client-for-windows-mit-hn",
+    "title": "Skim – a minimalist open-source email client for Windows (MIT)",
+    "shortDescription": "I built Skim because I was super dissatisfied with all existing Windows clients. I mean, it&#x27;s not a rocket science, there should be so…",
+    "fullDescription": "I built Skim because I was super dissatisfied with all existing Windows clients. I mean, it&#x27;s not a rocket science, there should be some lightweight modern solution, isn&#x27;t it? So I decided to create a client that just, you know, MAKES SENSE and has design younger than dinosaurs. Key points: * Obsessed with installer size: it should be under 5Mb. * BYOK AI. Cowriter, agentic search, summarization and other AI stuff is powered by your own key for Anthropic&#x2F;Openrouter, or you can connect your own OpenAI-compatible server (including local) * No bloat. It should be as contextual as possible: gives you right button when you need it. No menu at all. No integrations. Just email. * Instant startup, super modest on resources * Cool warm zine design with paper colors and really calming vibes It&#x27;s MIT - contribution and stars are welcome!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://skim-tech.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49028120",
+    "createdAt": "2026-07-23T22:30:38.556Z"
+  },
+  {
     "slug": "ds4smallestaiprjct-github",
     "title": "DS4SmallestAIprjct",
     "shortDescription": "This is OS of AI. And AI model. ",
