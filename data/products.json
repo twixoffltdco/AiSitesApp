@@ -1,5 +1,43 @@
 [
   {
+    "slug": "omentir-github",
+    "title": "Omentir",
+    "shortDescription": "Open Source HeyReach & Gojiberry alternative",
+    "fullDescription": "Open Source HeyReach & Gojiberry alternative\n\nАвтор: vanshyadav1408. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://omentir.com",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "firebase",
+      "gemini",
+      "lead-generation",
+      "linkedin",
+      "nextjs",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1308739986",
+    "createdAt": "2026-07-23T11:23:59.417Z"
+  },
+  {
+    "slug": "frontier-model-pricing-is-a-rip-off-so-i-built-an-open-source-cli-hn",
+    "title": "Frontier model pricing is a rip-off, so I built an open-source CLI",
+    "shortDescription": "I love the experience of tools like Claude Code, but I don&#x27;t think developers should have to accept premium pricing, arbitrary restric…",
+    "fullDescription": "I love the experience of tools like Claude Code, but I don&#x27;t think developers should have to accept premium pricing, arbitrary restrictions, and a single-vendor ecosystem just to get a great AI coding experience. I wanted the same terminal-first workflow with the freedom to choose any model, so I built Kolega Code, an open-source AI CLI. Feedback and constructive criticism are very much appreciated.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://kolegacode.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49019740",
+    "createdAt": "2026-07-23T11:23:59.231Z"
+  },
+  {
     "slug": "sigbound-github",
     "title": "sigbound",
     "shortDescription": "Run AI coding agents in parallel on one git repo and safely auto-merge their work — only changes that build and pass tests land. On top of…",
