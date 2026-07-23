@@ -1,5 +1,69 @@
 [
   {
+    "slug": "mwe-mcp-self-hosted-memory-for-ai-agents-that-knows-who-may-know-what-hn",
+    "title": "Mwe-MCP – self-hosted memory for AI agents that knows who may know what",
+    "shortDescription": "Hi HN, for about a year now I&#x27;ve been experimenting with AI agents and building my own home ecosystem; from the start I set out with t…",
+    "fullDescription": "Hi HN, for about a year now I&#x27;ve been experimenting with AI agents and building my own home ecosystem; from the start I set out with the idea of an agent that behaves like a member of the family, not as a personal agent, and this made me clash very early first with OpenClaw&#x27;s builtin memory, then I tested dozens of memory plugins without ever finding one that fit my purpose, so like any good builder I made my own. First on OpenClaw, as a plugin, then the idea matured and since the beginning of this year the memory plugin has evolved into an agent agnostic MCP server. It has been running my household since spring, 4 people and 3 agents on the same memory. The core idea that sets this project apart is the addition of inline ACLs on the prose of the wiki pages; the inspiration came to me, in all honesty, when social media was full of the redacted documents from the Epstein files; the wikis are written like that, every paragraph, every item of a list, every sensitive piece of data has its own ACL, which is applied already during the autocapture of messages and at the ingest of documents and media. In practice: my partner can tell the assistant something and our kid can&#x27;t get it out of it, &quot;we&#x27;re out of milk&quot; belongs to the whole household and not to me; the same page is served differently to each reader, redacted by the engine before any text reaches the agent. Memory is organized into wikis, every user, group and agent has their own wiki and other wikis can emerge autonomously. To reach this goal the server uses various components that use configurable LLMs, from the simple dedup, which you can easily run locally, to the reconciler that works during the REM phase (yes, there&#x27;s a light dream and a REM dream) and reorders the pages that during the day, for efficiency, may have been written roughly. Engineering wise it&#x27;s a single Rust binary, MCP endpoint (Streamable HTTP, with OAuth) and admin dashboard on the same port. Recall is just as important: an initial RAG pass finds the entry doors into the various wikis, then the &quot;navigator&quot; follows the links of each page that fit the purpose of the search, to get the whole context of the data being looked up or the topic being discussed; this funnel navigation itself creates the context, ready to hand to the connected agent, and since it follows text written as prose it also surfaces stray memories, that is, memories nobody asked for but that can be important in the context being discussed, for example a user who once specified a food intolerance, when the agent is asked for a recipe for the group that user belongs to. The prose isn&#x27;t there for beauty or for humans to read, the prose links the facts, so that no fact is disconnected from the rest but everything is part of one huge narrative, which is however made extremely efficient by the metadata. These are the peculiarities, for the rest I took the best of what I found in the other existing memories and integrated it. Now I&#x27;ve realized that this memory system, initially born for a family, can be great for a team too and, with some future adjustments, even for small and medium businesses. Honest limits: the internal LLM needs a reasonably capable model (small local ones route poorly, it&#x27;s documented), and Windows support is best-effort for now. The repo is mostly vibe-coded, I&#x27;m aware of it, but I&#x27;ve been a developer since the last millennium and I would never have managed to finish it in a reasonable time; anyway it&#x27;s in production and I&#x27;ve been using it for months, fixing the problems as they come out. License: AGPL, self-hosting is free forever; the sustainability model is a commercial license for closed SaaS cases. Now I&#x27;m simply looking for people who can put it to the test, maybe someone who has a team or wants to try it with their family, but it also works for a single user with several agents. Built for my family, released for yours. https:&#x2F;&#x2F;github.com&#x2F;Fr4nZ82&#x2F;mwe-mcp\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Fr4nZ82/mwe-mcp",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49020619",
+    "createdAt": "2026-07-23T12:58:25.260Z"
+  },
+  {
+    "slug": "nova-open-source-ai-orchestrator-that-works-with-you-hn",
+    "title": "Nova – open-source AI orchestrator that works with you",
+    "shortDescription": "Проект «Nova – open-source AI orchestrator that works with you», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Nova – open-source AI orchestrator that works with you», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/djbelieny/nova",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49020535",
+    "createdAt": "2026-07-23T12:58:25.260Z"
+  },
+  {
+    "slug": "watchlist-ai-monitors-competitors-briefs-you-every-monday-hn",
+    "title": "Watchlist – AI monitors competitors, briefs you every Monday",
+    "shortDescription": "Проект «Watchlist – AI monitors competitors, briefs you every Monday», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Watchlist – AI monitors competitors, briefs you every Monday», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://watchlist-ten-gamma.vercel.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49020262",
+    "createdAt": "2026-07-23T12:58:25.260Z"
+  },
+  {
+    "slug": "scoutfox-an-alert-layer-for-first-mover-intelligence-hn",
+    "title": "ScoutFox – An alert layer for first-mover intelligence",
+    "shortDescription": "Hi HN! We’re building ScoutFox, an alert layer that continuously scouts your interests, filters signals from noise, and reports findings. T…",
+    "fullDescription": "Hi HN! We’re building ScoutFox, an alert layer that continuously scouts your interests, filters signals from noise, and reports findings. The ideal user is anyone wanting to monitor something specific to find some alpha before it&#x27;s obvious. It could a VC looking to invest early on hot startups or a newsroom looking for a breaking story on a niche subject. Google Alerts and RSS feeds could find new changes associated with a keyword but they&#x27;re bad at determining whether a new piece of information is genuinely significant relative to what the user already knows and cares about. That&#x27;s the problem we are trying to solve. An example flow in ScoutFox looks like this, Broad discovery - Give a brief on what you want to monitor ( Ex: Track investment opportunities in AI hardware). ScoutFox will drill you to get really specific on the context of your brief (Ex: Monitor LinkedIn status of veterans in hardware AI connecting to any legal entity registrations.) Focused Investigation - Once the rich context is confirmed, it continuously searches the web and other private data sources you&#x27;ve configured, compares new evidence with its existing context, investigates promising changes, verifies them across sources. The goal here is to maximize signal to noise ratio. Synthesis; Results arrive as a short daily brief through the app, email or WhatsApp along with explanations on why they might matter. We’re currently testing it with journalists, angels investors and VC analysts. Would love for any feedback. I’m Arvind, one of the founders. Happy to answer questions or create a sample brief for anyone who wants to test it.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://scoutfox.in",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49020185",
+    "createdAt": "2026-07-23T12:58:25.261Z"
+  },
+  {
     "slug": "omentir-github",
     "title": "Omentir",
     "shortDescription": "Open Source HeyReach & Gojiberry alternative",
