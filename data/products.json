@@ -1,5 +1,78 @@
 [
   {
+    "slug": "potatowikibox-github",
+    "title": "potato_wiki_box",
+    "shortDescription": "A local-first AI workspace that turns source material into an inspectable Markdown knowledge base.",
+    "fullDescription": "A local-first AI workspace that turns source material into an inspectable Markdown knowledge base.\n\nАвтор: potatohoney-p. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/potatohoney-p/potato_wiki_box",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "knowledge-base",
+      "knowledge-graph",
+      "local-first",
+      "markdown",
+      "mcp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1309848751",
+    "createdAt": "2026-07-23T18:13:17.720Z"
+  },
+  {
+    "slug": "sagaflow-github",
+    "title": "sagaflow",
+    "shortDescription": "Local-first AI comic creation workspace",
+    "fullDescription": "Local-first AI comic creation workspace\n\nАвтор: gofurry. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/gofurry/sagaflow",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "aigc",
+      "workspace",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1307628934",
+    "createdAt": "2026-07-23T18:13:17.720Z"
+  },
+  {
+    "slug": "fleet-drive-a-fleet-of-claude-codecodex-agents-from-telegram-hn",
+    "title": "Fleet – drive a fleet of Claude Code/Codex agents from Telegram",
+    "shortDescription": "I built this on a day off - didn&#x27;t want to get out of bed, and the laptop with all my agents was across the room. So I made them come…",
+    "fullDescription": "I built this on a day off - didn&#x27;t want to get out of bed, and the laptop with all my agents was across the room. So I made them come to me. fleet runs a fleet of AI coding agents (Claude Code or Codex) from one Telegram supergroup - each agent in its own topic. Voice or text, code&#x2F;diffs&#x2F;files come back to the chat. Headless (fires per message) or a live CLI session you steer mid-run. Everything runs on your own machine. Telegram is just the remote, reached via long-polling so it works behind any NAT. Been running everything through it daily for a month. It&#x27;s early and rough in places — happy to answer anything.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/sand0vvv/fleet",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49024833",
+    "createdAt": "2026-07-23T18:13:17.683Z"
+  },
+  {
+    "slug": "flow-matching-model-inference-in-c-hn",
+    "title": "Flow Matching model inference in C",
+    "shortDescription": "As the title and description of the GitHub repo suggest, I’m working on a small project for purely educational purposes, with the goal of i…",
+    "fullDescription": "As the title and description of the GitHub repo suggest, I’m working on a small project for purely educational purposes, with the goal of implementing generative model inference (small models capable of modeling 2D distributions) based on the Flow Matching paradigm in C. I’ve worked on generative AI models based on Flow Matching from a more “abstract” perspective, using frameworks like PyTorch, and I wanted to understand what goes on behind the scenes. The repository is still a work in progress and is also one of my first &quot;serious&quot; projects in C.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/ecrasevvv/c-fm/tree/master",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49024811",
+    "createdAt": "2026-07-23T18:13:17.684Z"
+  },
+  {
     "slug": "cloud-for-your-ai-agents-toolsfuctions-hn",
     "title": "Cloud for your AI Agent's tools/fuctions",
     "shortDescription": "Проект «Cloud for your AI Agent's tools/fuctions», опубликован сообществом Hacker News.",
