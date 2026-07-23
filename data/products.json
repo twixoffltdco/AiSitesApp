@@ -1,5 +1,53 @@
 [
   {
+    "slug": "agentnest-self-hosted-sandboxes-for-ai-agents-hn",
+    "title": "AgentNest, self-hosted sandboxes for AI agents",
+    "shortDescription": "Проект «AgentNest, self-hosted sandboxes for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AgentNest, self-hosted sandboxes for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://github.com/mihirahuja1/agentnestOSS",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49015852",
+    "createdAt": "2026-07-23T03:53:15.783Z"
+  },
+  {
+    "slug": "grimoire-best-practices-for-everyone-installed-for-your-ai-agents-hn",
+    "title": "Grimoire – Best Practices for Everyone Installed for Your AI Agents",
+    "shortDescription": "Проект «Grimoire – Best Practices for Everyone Installed for Your AI Agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Grimoire – Best Practices for Everyone Installed for Your AI Agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/jeffreytse/grimoire",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49015651",
+    "createdAt": "2026-07-23T03:53:15.784Z"
+  },
+  {
+    "slug": "litigationbench-a-litigation-task-based-ai-benchmark-hn",
+    "title": "LitigationBench. A Litigation Task-Based AI Benchmark",
+    "shortDescription": "Adding to the sea of AI benchmarks, but with a focus on legal and litigation-based tasks and tests. E.g., hallucinating cases, misreading p…",
+    "fullDescription": "Adding to the sea of AI benchmarks, but with a focus on legal and litigation-based tasks and tests. E.g., hallucinating cases, misreading precedent, drafting, AI writing tics, etc. Developed as part of a litigation platform I&#x27;ve started, but not sharing this benchmark to promote that. Just thought the findings were interesting--namely, Anthropic&#x27;s models (except for Haiku) producing zero hallucinated cases. Also, if anyone would like to see additional tests &#x2F; benchmarks or models tested, let me know and I&#x27;ll incorporate them into v3 if it makes sense.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://litco.ai/litigationbench",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49015617",
+    "createdAt": "2026-07-23T03:53:15.784Z"
+  },
+  {
     "slug": "content-core-github",
     "title": "content-core",
     "shortDescription": "production AI platform kernel: LLM abstraction, workflow engine, RAG, MCP server, FastAPI, evaluation framework, closed-loop feedback",
