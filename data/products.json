@@ -1,5 +1,85 @@
 [
   {
+    "slug": "cloud-for-your-ai-agents-toolsfuctions-hn",
+    "title": "Cloud for your AI Agent's tools/fuctions",
+    "shortDescription": "Проект «Cloud for your AI Agent's tools/fuctions», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Cloud for your AI Agent's tools/fuctions», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/abskrj/velane",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49024714",
+    "createdAt": "2026-07-23T16:56:48.884Z"
+  },
+  {
+    "slug": "zerogate-fast-account-free-visual-csv-matching-without-ai-hn",
+    "title": "ZeroGate – Fast, account-free visual CSV matching without AI",
+    "shortDescription": "Проект «ZeroGate – Fast, account-free visual CSV matching without AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ZeroGate – Fast, account-free visual CSV matching without AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://zerogate.cloud",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49023946",
+    "createdAt": "2026-07-23T16:56:48.884Z"
+  },
+  {
+    "slug": "onecli-oss-credential-gateway-that-keeps-secrets-out-of-ai-agents-hn",
+    "title": "OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+    "shortDescription": "hey HN, Jonathan and Guy here, creators of OneCLI ( https:&#x2F;&#x2F;onecli.sh&#x2F; ). OneCLI is an open source vault for AI Agents. Trad…",
+    "fullDescription": "hey HN, Jonathan and Guy here, creators of OneCLI ( https:&#x2F;&#x2F;onecli.sh&#x2F; ). OneCLI is an open source vault for AI Agents. Traditional vaults are used to store your secrets and, on demand, provide them to you all in a secure way, trusting the person to keep them safe. We figured that in the agent&#x27;s world, this is not the case, as you don&#x27;t know what happens with the secret after it&#x27;s delivered to the agent, or where it was saved. Or maybe someone even manipulated them to hand them over... From that understanding, we decided to build a network gateway that sits between your AI agents and the services they call. OneCLI matches the request by host&#x2F;path, verifies the agent should have access, swaps the placeholder for the real credential, and forwards the request. the secrets set inside the OneCLI vault, encrypted on rest, or could fetch in realtime from your bitwarden &#x2F; 1password wallets. Demo - https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=5e5pbPEzZfY . The way we got to build OneCLI started by accident, even though our careers were in the security space. We were working on a devtool called ChartDB, an open-source DB tool. And once OpenClaw took off back in January this year, we started using it to orchestrate agents on top of ChartDB. We quickly understood there is a big issue around auth. Agents need credentials to do real work, but to give them those secrets would not be the best idea. they keep them in their memory and also write them down to local files and their sessions as plain text. From our perspective, agents can easily be fooled into giving up those API keys&#x2F;secrets. So we needed some way to control the agent and stop prompt injections from tricking it into using its services for an attacker&#x27;s benefit. Not providing the keys to the agent + adding alerts or human-in-the-loop for sensitive operations, in case someone manipulates the agent, and access logs are being audited. the proxy is written in Rust, the dashboard is Next.js, and secrets are AES-256-GCM encrypted at rest. Everything runs in a Docker container. works with any agent framework (Claude Code, Codex, Cursor, OpenClaw, Hermes or anything that can set an HTTPS_PROXY). we use it on ourselves daily. My OpenClaw runs my day across Attio, Gmail, and my calendar, with human-in-the-loop approval on sensitive actions. The approval is enforced at the network layer, so it holds whether the agent goes through MCP, CLI, curl, or code it wrote on the fly. for Guy its reviews PRs but can&#x27;t merge without his approval. companies mostly use it for coding agents currently, which get creative about finding ways to elevate their permissions to reach the goal. With OneCLI, it doesn&#x27;t matter what the agent finds, if the request isn&#x27;t in policy, it will not go through. it won&#x27;t stop an agent from misusing access it legitimately has, so scope policies tightly. happy to answer anything. we believe we can&#x27;t trust the model to behave and have to set deterministic rules to stay in control.\n\nНайдено в разделе Show HN на Hacker News. 👍 7 баллов.",
+    "url": "https://github.com/onecli/onecli",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49023427",
+    "createdAt": "2026-07-23T16:56:48.884Z"
+  },
+  {
+    "slug": "neobox-a-native-macos-neogeo-emulator-front-end-hn",
+    "title": "NeoBox – a native macOS NeoGeo emulator front end",
+    "shortDescription": "I am 90&#x27;s kid. And NeGeo console was something I always longed for and only ever saw ONE person ever owning! For those who are followi…",
+    "fullDescription": "I am 90&#x27;s kid. And NeGeo console was something I always longed for and only ever saw ONE person ever owning! For those who are following...there&#x27;s a new NeGeo AES console coming out later in the year! I got excited and wanted to remember playing OG SNK games that I loved (Super Sidekicks, Metal Slug, Art of Fighting). I first reached for the amazing OpenEmu native macOS emulator fronted, but found out it did NOT have support for NeoGeo console (FYI I later found out there is experimental support for it) MAME is there, but wanted a nicer macOS fronted similar to Openemu. I&#x27;ve built plenty of macOS &#x2F; iOS in my career before (for fun and professionally). So decided to give it a shot. Soon this turned into NOT just a MAME frontend...but I wanted a NICER experience and embedded the amazing libGeoLith emulator library. NeoBox can use either GeloLith (iwht native Metal rendering pipeline) or a frontend for a self-managed MAME installation. So... what was AI generated and what wasn&#x27;t: * Main native macOS frontend was all hand written code, nothing fancy here. Just native AppKit code * Painstakingly testing as many NeoGeo ROMS as possible and fixing bugs AI-assisted: * Website (duh ;) ) * libgeolith and Metal rendering pipeline. This truly was new terrority for me and I could NOT have done this without AI. I&#x27;m not well versed in graphics rendering pipelines so it was amazing to me how well Claude was in getting this working! My goal...simple...hoping it funds my purchase of the new NeoGeo AES+ Ultimate Edition console :) That&#x27;s it! Mac App Store Link: https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;neobox-neo-geo-player&#x2F;id676991...\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://neo-box.app",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49023417",
+    "createdAt": "2026-07-23T16:56:48.884Z"
+  },
+  {
+    "slug": "setoku-self-hosted-knowledge-server-for-ai-agents-hn",
+    "title": "Setoku - self-hosted knowledge server for AI agents",
+    "shortDescription": "knowledge = data + memory We already pay for Claude subscriptions at Hedgy, so I built a company brain that doesn&#x27;t spend extra tokens…",
+    "fullDescription": "knowledge = data + memory We already pay for Claude subscriptions at Hedgy, so I built a company brain that doesn&#x27;t spend extra tokens. Setoku is a self-hosted MCP server (a ClickHouse data lake plus a knowledge layer about that data) that gives your AI the data it needs to understand your business&#x2F;life. No inference happens in the box itself, all the thinking runs in the AI you already pay for, so the total bill is a cheap VPS and there&#x27;s no new vendor holding a copy of your data. Ours ingests spending and account data from Mercury, Vercel logs, Render logs, a few Slack channels, and GitHub activity. I honestly hooked up the log drains just to test with more data, but the extra context made agentic debugging faster and more reliable and now I couldn&#x27;t go back. The knowledge layer is the part I find more interesting. Anyone can point Claude Code at a Postgres, that&#x27;s exactly how this started. The problem is every session rediscovers the same tribal knowledge, stuff like &quot;this is how we count a user as active&quot; or &quot;check column X when computing LTV&quot;. The MCP nudges the AI to ask about and record gotchas as it finds them so the knowledge builds up instead of getting re-derived every time. Last week &quot;how many hires have we made&quot; turned out to have three different answers depending on how you count (some placements fell through, our old dashboard silently dropped a few real ones). Claude worked through it with my cofounder once, recorded the right definition, and now every session gets the same number. There&#x27;s a small admin UI for auditing and pruning what it&#x27;s learned. We also added a protocol so an LLM can publish a chart or dashboard to the box as an app hooked up to live data. The part I didn&#x27;t expect: the non-technical folks push apps the hardest. claude.ai + Setoku is the only coding environment they have, and they&#x27;ve been shipping internal tools I never would have thought to build. Ships as a Docker image plus a set of Claude Code skills that cover server setup and adding connectors. The MCP works with whatever agent you use, setup is just Claude-shaped right now. Our company instance runs on an OVHCloud VPS-3. I also run a family instance on a $5&#x2F;mo VPS-1 that ingests Gmail and finances from Monarch Money so that Fable can give me grounded financial advice (this is not financial advice!). A fresh setup takes about 20 minutes. Site: https:&#x2F;&#x2F;setoku.com Code: https:&#x2F;&#x2F;github.com&#x2F;Hedgy-Labs&#x2F;setoku Happy to answer questions or help anyone get an instance running. Thanks for checking it out! -peter\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://setoku.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49022206",
+    "createdAt": "2026-07-23T16:56:48.885Z"
+  },
+  {
     "slug": "optimcp-github-2",
     "title": "OptiMCP",
     "shortDescription": "Stop shipping hallucinated numbers. OptiMCP verifies your agent's math and logic against your rules — deterministically, with zero LLM in t…",
