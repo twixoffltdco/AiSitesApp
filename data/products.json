@@ -1,5 +1,53 @@
 [
   {
+    "slug": "ai-agents-that-go-from-naming-your-startup-to-running-its-marketing-hn",
+    "title": "AI agents that go from naming your startup to running its marketing",
+    "shortDescription": "Solo founder from Bengaluru built an agentic ai platform for business naming to marketing.",
+    "fullDescription": "Solo founder from Bengaluru built an agentic ai platform for business naming to marketing.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.brandbrahma.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49017566",
+    "createdAt": "2026-07-23T06:28:26.743Z"
+  },
+  {
+    "slug": "i-built-my-wife-an-ad-free-news-brief-that-fact-checks-and-flags-bias-hn",
+    "title": "I built my wife an ad-free news brief that fact-checks and flags bias",
+    "shortDescription": "Проект «I built my wife an ad-free news brief that fact-checks and flags bias», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built my wife an ad-free news brief that fact-checks and flags bias», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://beamwire.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49017096",
+    "createdAt": "2026-07-23T06:28:26.743Z"
+  },
+  {
+    "slug": "searchdesk-ai-powered-job-search-that-tailors-resume-and-cover-letter-hn",
+    "title": "Searchdesk, AI powered job search that tailors resume and cover letter",
+    "shortDescription": "Via an install script, Searchdesk uses your local codex installation as a backend to search for jobs for your preferred title matched to yo…",
+    "fullDescription": "Via an install script, Searchdesk uses your local codex installation as a backend to search for jobs for your preferred title matched to your resume. It also tailors your resume and cover letter for each job, searches best contact on LinkedIn to reach out to, and drafts a message to send to them. This is essentially a build out of what was my personal job search dashboard.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://searchdesk.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49016819",
+    "createdAt": "2026-07-23T06:28:26.743Z"
+  },
+  {
     "slug": "agentnest-self-hosted-sandboxes-for-ai-agents-hn",
     "title": "AgentNest, self-hosted sandboxes for AI agents",
     "shortDescription": "Проект «AgentNest, self-hosted sandboxes for AI agents», опубликован сообществом Hacker News.",
