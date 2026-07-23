@@ -1,5 +1,89 @@
 [
   {
+    "slug": "ds4smallestaiprjct-github",
+    "title": "DS4SmallestAIprjct",
+    "shortDescription": "This is OS of AI. And AI model. ",
+    "fullDescription": "This is OS of AI. And AI model. \n\nАвтор: RyoOtani. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/RyoOtani/DS4SmallestAIprjct",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-coding",
+      "ai-model",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1308943415",
+    "createdAt": "2026-07-23T21:00:59.575Z"
+  },
+  {
+    "slug": "agentpulse-drift-investigation-for-multi-agent-systems-hn",
+    "title": "AgentPulse, drift investigation for multi-agent systems",
+    "shortDescription": "Проект «AgentPulse, drift investigation for multi-agent systems», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AgentPulse, drift investigation for multi-agent systems», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://prove-ai.github.io/agentpulse/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49027928",
+    "createdAt": "2026-07-23T21:00:59.473Z"
+  },
+  {
+    "slug": "opentrust-browser-trust-signals-for-the-ai-era-hn",
+    "title": "OpenTrust – Browser trust signals for the AI era",
+    "shortDescription": "OpenTrust is an open-source TypeScript SDK that collects privacy-preserving browser trust signals. It focuses on signals, not decisions: -…",
+    "fullDescription": "OpenTrust is an open-source TypeScript SDK that collects privacy-preserving browser trust signals. It focuses on signals, not decisions: - browser automation detection - virtual camera detection - passive liveness signals The goal is to provide an additional trust layer for applications in a world where browsers may increasingly be controlled by automation and AI agents.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/rafaelEt/opentrust",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49027707",
+    "createdAt": "2026-07-23T21:00:59.473Z"
+  },
+  {
+    "slug": "biscuit-native-extensible-ai-code-editor-20-mb-in-size-hn",
+    "title": "Biscuit – Native, extensible, AI code editor. <20 mb in size",
+    "shortDescription": "Проект «Biscuit – Native, extensible, AI code editor. <20 mb in size», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Biscuit – Native, extensible, AI code editor. <20 mb in size», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/tomlin7/biscuit",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49027355",
+    "createdAt": "2026-07-23T21:00:59.474Z"
+  },
+  {
+    "slug": "cobaltcode-dedicated-persistent-computer-for-codex-hn",
+    "title": "CobaltCode – Dedicated persistent computer for Codex",
+    "shortDescription": "Hi HN, I&#x27;m building CobaltCode, a platform for running coding agents inside persistent development environments. Basically I was fed u…",
+    "fullDescription": "Hi HN, I&#x27;m building CobaltCode, a platform for running coding agents inside persistent development environments. Basically I was fed up with git worktrees and having to run everything locally, usually one at a time so built CobaltCode.ai. Each task gets an separate vm with its own repository checkout, dependencies, running services, agent session, previews, and persistent state. It can also run your app inside the vm so you can preview different features in parallel. You can leave a task, resume it later, or save the computer as a reusable starting point. The agent is a full-fledged Codex that runs without limits in the sandbox and can run commands, modify files, start applications, and expose browser previews from inside the isolated environment. It uses your OpenAI subscription so you don&#x27;t pay for tokens in CobaltCode and the product is currently free while I&#x27;m trying to figure out how useful it is. CobaltCode currently supports OpenAI Codex in PROD and I am also adding Cursor Agent, Claude Code, GitHub Copilot CLI, OpenCode and Pi soon. For repository providers the support is limited to GitHub and Azure DevOps for now. Credentials are injected only for the active operation and excluded from saved computer state. It is still early, and I would especially appreciate feedback on: What would make this useful for your own development workflow What features you think may be useful to add Any bugs or mistakes Demo: https:&#x2F;&#x2F;youtu.be&#x2F;1yyhj5wYyvA I also submitted it for OpenAI Build Week here, I&#x27;d appreaciate the support: https:&#x2F;&#x2F;devpost.com&#x2F;software&#x2F;cobalt-code Happy to answer technical questions or help in anyway Vlad\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://cobaltcode.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49027309",
+    "createdAt": "2026-07-23T21:00:59.474Z"
+  },
+  {
     "slug": "an-inbox-for-your-ai-coding-agents-herdr-plugin-hn",
     "title": "An inbox for your AI coding agents (herdr plugin)",
     "shortDescription": "Проект «An inbox for your AI coding agents (herdr plugin)», опубликован сообществом Hacker News.",
