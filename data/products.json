@@ -1,5 +1,203 @@
 [
   {
+    "slug": "optimcp-github-2",
+    "title": "OptiMCP",
+    "shortDescription": "Stop shipping hallucinated numbers. OptiMCP verifies your agent's math and logic against your rules — deterministically, with zero LLM in t…",
+    "fullDescription": "Stop shipping hallucinated numbers. OptiMCP verifies your agent's math and logic against your rules — deterministically, with zero LLM in the loop — and names the exact rule that broke.\n\nАвтор: ysharmcode. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://github.com/ysharmcode/OptiMCP",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-tools",
+      "hallucination-mitigation",
+      "llm",
+      "math",
+      "mcp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1307453554",
+    "createdAt": "2026-07-23T15:14:17.223Z"
+  },
+  {
+    "slug": "a-primer-for-non-coders-to-design-software-via-structured-ai-dialogue-hn",
+    "title": "A primer for non-coders to design software via structured AI dialogue",
+    "shortDescription": "Проект «A primer for non-coders to design software via structured AI dialogue», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A primer for non-coders to design software via structured AI dialogue», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/CoreGrowthLabs/CoreGrowthPrompting/blob/main/README.en.md",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49022930",
+    "createdAt": "2026-07-23T15:14:17.128Z"
+  },
+  {
+    "slug": "palmier-pro-open-source-macos-video-editor-built-for-ai-hn",
+    "title": "Palmier Pro – open-source macOS video editor built for AI",
+    "shortDescription": "Hi HN, we are Marcos and Harrison, cofounders of Palmier ( https:&#x2F;&#x2F;palmier.io ). We are building Palmier Pro, an open source macO…",
+    "fullDescription": "Hi HN, we are Marcos and Harrison, cofounders of Palmier ( https:&#x2F;&#x2F;palmier.io ). We are building Palmier Pro, an open source macOS video editor, with built-in AI generation and a local MCP server that connects to your agent. Demo: AI transitions: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=hbM_-eR1GX4 Multicam editing with Codex: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=SjS2q2LT1q8 Cutting long form clips into shorts: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=PR66eN2ouuQ Repo: https:&#x2F;&#x2F;github.com&#x2F;palmier-io&#x2F;palmier-pro We built Palmier Pro as an internal tool when we were making AI launch videos for other YC startups (some work: https:&#x2F;&#x2F;www.palmier.io&#x2F;work ) back in February 2026. The main problem it solved in the beginning was the back-and-forth between AI generation platform and video editor, where we&#x27;d iterate the AI videos → download → import to editor → edit → realize we need to change the AI video → repeat. So we built a minimal video editor where we can let Claude generate AI videos inside the editor. As we gave more and more tools to the agent, we wanted to push to see what else agents can do in the video editing space. So today, your Claude&#x2F;Codex can: Manage projects inside Palmier Pro Import media from a public URL or filesystem to the project, and organize them in folders Search media (by embedding footages using SigLIP2 running locally) Edit the timeline (tracks&#x2F;clips&#x2F;keyframes operations) Generate image&#x2F;video&#x2F;audio Export videos There are two ways for LLM to interact with the editor: by connecting to the local MCP server, or using the in-app chat. Both use the same tools and APIs exposed by the video editor. We have seen people using MCP server to connect to their own workflow to automate massive-scale video editing (e.g. given this same podcast style, replicate it with other footages that I have). We have also seen people using the in-app chat where it lives closer to the editor UI, with lower latency for faster iteration. We believe AI is not going to replace human creativity, but automate the manual work in video editing. Most work in the editing workflow is more technical rather than creative. Our vision is to build a video editor where AI can enable more individuals to create. Throughout our experiments, AI is not very good at creative editing, but given a pattern (transcription-based, beat-based), it can do a decent job at rough cut. We built Palmier Pro in Swift as an MVP because we wanted better performance and minimal dependencies (no nodejs&#x2F;webview), with some native macOS APIs like SpeechAnalyzer and CoreML for us to run some models locally. We use SpeechAnalyzer for local transcriber, SigLip2 to embed video frames, beat_this for beat detection, Silero VAD for silence detection, all running locally. The tradeoff is that we don&#x27;t support Linux or Windows at the moment. Palmier Pro is open source and free to try out (macOS 26 only at the moment). No login required except for the AI generation features, which route request to our backend. We are offering free credits on sign up so you can try out the AI generation as well. We&#x27;d love to hear your feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/palmier-io/palmier-pro",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49022911",
+    "createdAt": "2026-07-23T15:14:17.128Z"
+  },
+  {
+    "slug": "local-first-archive-of-your-chatgptclaude-chats-hn",
+    "title": "Local-first archive of your ChatGPT/Claude chats",
+    "shortDescription": "Capture your ChatGPT &amp; Claude chats into a private, searchable archive you own, and sync them to Obsidian. Local-first.",
+    "fullDescription": "Capture your ChatGPT &amp; Claude chats into a private, searchable archive you own, and sync them to Obsidian. Local-first.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://chromewebstore.google.com/detail/anamne-â-your-ai-conversa/famgjpiggdaenmgnemmcjobbogdmghlj",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49022840",
+    "createdAt": "2026-07-23T15:14:17.128Z"
+  },
+  {
+    "slug": "verify-what-an-ai-agent-did-then-tamper-with-the-record-no-signup-hn",
+    "title": "Verify what an AI agent did, then tamper with the record (no signup)",
+    "shortDescription": "The current state of in-market autonomous AI is “want something done; trust that they do it”. The operation running the models hold all of…",
+    "fullDescription": "The current state of in-market autonomous AI is “want something done; trust that they do it”. The operation running the models hold all of the logs, and 1st party logs are inherently not the strongest. It’s: “I did my homework, I graded my homework.. my homework got a passing grade. Trust”. Cinchor is the lightweight tool that operations can use to share verifiable records of autonomous agents’ context, instructions and output. The proofs are anchored and retrievable in a tamper-evident manner (I built a custom L1 as a substrate for this and right now I operate all of the validators. There’s zero token-exposure for the AI accountability layer, while validator independence is on the roadmap). Looking for input from the HN community. Where is this redundant with something you already use, if so?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://api.cinchor.com/proof/refund",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49022766",
+    "createdAt": "2026-07-23T15:14:17.129Z"
+  },
+  {
+    "slug": "batchedits-batch-ai-video-editor-to-edit-content-in-volume-hn",
+    "title": "BatchEdits – Batch AI video editor to edit content in volume",
+    "shortDescription": "Over past 2 years I have been creating content, but I noticed that all my videos have similar editting.So, I built an batch AI video editor…",
+    "fullDescription": "Over past 2 years I have been creating content, but I noticed that all my videos have similar editting.So, I built an batch AI video editor that allows me to upload multiple videos at once and get them editted.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://batchedits.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49022604",
+    "createdAt": "2026-07-23T15:14:17.129Z"
+  },
+  {
+    "slug": "carta-an-open-source-pandoc-reimplementation-in-rust-hn",
+    "title": "Carta – An open-source pandoc reimplementation in Rust",
+    "shortDescription": "Hi HN! Carta is an open-source reimplementation of pandoc in Rust: it reads one markup format and writes another. It&#x27;s a library first…",
+    "fullDescription": "Hi HN! Carta is an open-source reimplementation of pandoc in Rust: it reads one markup format and writes another. It&#x27;s a library first, with a CLI as a shell over it. Why redo pandoc? I love pandoc, but I kept wanting two things it can&#x27;t give me: a small, embeddable binary (pandoc is well over 180 MB) and speed that makes conversion feel free. Some numbers on an M1 Pro comparing carta 0.0.6 against pandoc 3.10 with identical flags and equivalent output, measured with hyperfine (full tables and methodology: https:&#x2F;&#x2F;github.com&#x2F;mfkrause&#x2F;carta&#x2F;blob&#x2F;main&#x2F;docs&#x2F;BENCHMARKS.... ): commonmark -&gt; html, 1 MB input 74 ms vs 1178 ms (~16x) html -&gt; json, 1 MB input 36 ms vs 1266 ms (~35x) startup, near-empty input 2.7 ms vs 31 ms (~11x) peak memory, 1 MB conversion 47 MB vs 246 MB binary size 9.1 MB vs 179.8 MB (~20x) One caveat on that last row: pandoc implements a lot of surface carta doesn&#x27;t have yet, so read 20x as &quot;where things stand today&quot;. However, most of the work that heavily affects binary size like syntax highlighting is already done, so a future version that has full parity with pandoc will still be a lot smaller. Status: early alpha (v0.0.6), API still unstable. Usable in both directions today: the full Markdown family, HTML, LaTeX, reStructuredText, Org, docx, ODT, EPUB, Jupyter notebooks, RTF, MediaWiki&#x2F;DokuWiki&#x2F;Jira, man pages. Write-only so far: Typst, reveal.js, Beamer, AsciiDoc. There&#x27;s a full list in docs&#x2F;STATUS.md. Everything is developed and tested against pandoc 3.10&#x27;s behavior. JSON filters already speak pandoc&#x27;s filter protocol, so existing JSON filters should &quot;just work&quot;; Lua filters are the biggest missing piece. AI disclaimer: I don&#x27;t want to act like I&#x27;d be able to redo decades of JGM&#x27;s work and research in a few weeks. Around 90% of the code is generated by an LLM (mostly adding new formats), but the general architecture behind it is mine, as is the testing and conformance tooling that confirms whatever a LLM does is at provable parity with pandoc and safe to use. I&#x27;d greatly appreciate any feedback you have and hope you get the chance to try out carta!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/mfkrause/carta",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49022527",
+    "createdAt": "2026-07-23T15:14:17.129Z"
+  },
+  {
+    "slug": "5dive-run-a-company-of-claude-codecodex-agents-written-in-bash-hn",
+    "title": "5dive – Run a Company of Claude Code/Codex Agents (Written in Bash)",
+    "shortDescription": "Проект «5dive – Run a Company of Claude Code/Codex Agents (Written in Bash)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «5dive – Run a Company of Claude Code/Codex Agents (Written in Bash)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/5dive-ai/5dive",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49022492",
+    "createdAt": "2026-07-23T15:14:17.129Z"
+  },
+  {
+    "slug": "i-made-yafl-a-e2ee-file-handoff-for-ai-agents-hn",
+    "title": "I made YAFL – a E2EE file handoff for AI agents",
+    "shortDescription": "Проект «I made YAFL – a E2EE file handoff for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I made YAFL – a E2EE file handoff for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://yafl.dev",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49022040",
+    "createdAt": "2026-07-23T15:14:17.129Z"
+  },
+  {
+    "slug": "whats-ais-go-to-public-or-private-healthcare-hn",
+    "title": "What's AI's go-to, public or private healthcare?",
+    "shortDescription": "Проект «What's AI's go-to, public or private healthcare?», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «What's AI's go-to, public or private healthcare?», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.modelbias.ai/prompt/public-or-private-healthcare",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49021847",
+    "createdAt": "2026-07-23T15:14:17.129Z"
+  },
+  {
+    "slug": "note-taking-and-book-library-all-in-one-ai-knowledgebase-hn",
+    "title": "Note taking and book Library, all-in-one AI KnowledgeBase",
+    "shortDescription": "Hi HN, I built an all-in-one AI KnowledgeBase, using AI with - Note taking - Library and Reading PileaX is a local-first, all-in-one AI kno…",
+    "fullDescription": "Hi HN, I built an all-in-one AI KnowledgeBase, using AI with - Note taking - Library and Reading PileaX is a local-first, all-in-one AI knowledge base that integrates AI chat, smart notes, and e-book reading &amp; management. From knowledge creation to application, PileaX helps you build a unified knowledge base and continuously optimizes the AI interaction experience with AI agent technologies.Your data is fully under your control. It supports offline desktop apps and flexibly deployable web apps. - Desktop Platform: Windows, macOS, Linux - EBook: EPUB, MOBI, AWZ3, FB2, CBZ, PDF Home: https:&#x2F;&#x2F;pileax.ai GitHub: https:&#x2F;&#x2F;github.com&#x2F;pileax-ai&#x2F;pileax Would love feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/pileax-ai/pileax",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49021801",
+    "createdAt": "2026-07-23T15:14:17.129Z"
+  },
+  {
+    "slug": "usb-ai-agent-portable-uncensored-ai-with-13-tools-runs-from-usb-hn",
+    "title": "USB AI Agent – portable uncensored AI with 13 tools, runs from USB",
+    "shortDescription": "Turned the archived USB-Uncensored-LLM into a full autonomous agent. 13 tools, 5 GGUF models, zero install. Works on Windows, Linux, Tails.…",
+    "fullDescription": "Turned the archived USB-Uncensored-LLM into a full autonomous agent. 13 tools, 5 GGUF models, zero install. Works on Windows, Linux, Tails. Everything offline after setup.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/pusucip25/USB-AI-Agent",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49021477",
+    "createdAt": "2026-07-23T15:14:17.129Z"
+  },
+  {
     "slug": "mwe-mcp-self-hosted-memory-for-ai-agents-that-knows-who-may-know-what-hn",
     "title": "Mwe-MCP – self-hosted memory for AI agents that knows who may know what",
     "shortDescription": "Hi HN, for about a year now I&#x27;ve been experimenting with AI agents and building my own home ecosystem; from the start I set out with t…",
