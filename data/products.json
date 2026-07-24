@@ -1,5 +1,37 @@
 [
   {
+    "slug": "jharu-open-source-ai-and-dev-junk-cleaner-for-mac-and-pc-hn",
+    "title": "Jharu – Open-Source AI and Dev Junk Cleaner for Mac and PC",
+    "shortDescription": "Проект «Jharu – Open-Source AI and Dev Junk Cleaner for Mac and PC», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Jharu – Open-Source AI and Dev Junk Cleaner for Mac and PC», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/riponcm/Jharu",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49032227",
+    "createdAt": "2026-07-24T08:23:23.326Z"
+  },
+  {
+    "slug": "continuum-switch-ai-coding-agents-without-re-explaining-your-project-hn",
+    "title": "Continuum – switch AI coding agents without re-explaining your project",
+    "shortDescription": "Проект «Continuum – switch AI coding agents without re-explaining your project», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Continuum – switch AI coding agents without re-explaining your project», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/AnasNafees1802/continuum",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49032115",
+    "createdAt": "2026-07-24T08:23:23.327Z"
+  },
+  {
     "slug": "nyamuru-manga-name-studio-github",
     "title": "nyamuru-manga-name-studio",
     "shortDescription": "AIと一緒に漫画ネームを作るオープンソーススタジオ。Nyamuru Data Model（NDM）/ OMNY形式のネーム編集PWA・LLM向け生成プロンプト・画像生成ワークフローを収録",
