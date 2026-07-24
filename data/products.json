@@ -1,5 +1,125 @@
 [
   {
+    "slug": "free-llm-router-github",
+    "title": "free-llm-router",
+    "shortDescription": "Open-source, self-hosted BYOK LLM API router with an OpenAI-compatible interface, multi-provider failover, model aliases, circuit breakers,…",
+    "fullDescription": "Open-source, self-hosted BYOK LLM API router with an OpenAI-compatible interface, multi-provider failover, model aliases, circuit breakers, usage analytics, and secure key management.\n\nАвтор: Pr0fess0rOP. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://llmrouter.dpdns.org/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "api-gateway",
+      "byok",
+      "circuit-breaker",
+      "failover",
+      "generative-ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1310222804",
+    "createdAt": "2026-07-24T02:57:25.166Z"
+  },
+  {
+    "slug": "nvim-agent-workbench-github",
+    "title": "nvim-agent-workbench",
+    "shortDescription": "A project-aware Neovim IDE with persistent Codex sessions, tmux resume, and one-command setup.",
+    "fullDescription": "A project-aware Neovim IDE with persistent Codex sessions, tmux resume, and one-command setup.\n\nАвтор: shanxierdan. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/shanxierdan/nvim-agent-workbench",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "codex",
+      "developer-tools",
+      "dotfiles",
+      "lazyvim",
+      "neovim",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1310508131",
+    "createdAt": "2026-07-24T02:57:25.166Z"
+  },
+  {
+    "slug": "stet-github",
+    "title": "stet",
+    "shortDescription": "An open source, local-first document editor with an AI that marks up your writing like a human editor.  Highlights, circles, wavy underline…",
+    "fullDescription": "An open source, local-first document editor with an AI that marks up your writing like a human editor.  Highlights, circles, wavy underlines, margin notes — suggestions you can see and accept, not a chatbot that rewrites behind your back. Your documents are plain files on your disk. Bring your own API key.\n\nАвтор: filu123. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/filu123/stet",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "local-first",
+      "markdown",
+      "markdown-editor",
+      "nextjs",
+      "tiptap",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1309252800",
+    "createdAt": "2026-07-24T02:57:25.166Z"
+  },
+  {
+    "slug": "realdone-github",
+    "title": "RealDone",
+    "shortDescription": "Prove web features work in a real browser—with persistence, source-of-truth, replay, and CI evidence.",
+    "fullDescription": "Prove web features work in a real browser—with persistence, source-of-truth, replay, and CI evidence.\n\nАвтор: datzle123. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://www.npmjs.com/package/realdone",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "behavioral-testing",
+      "cli",
+      "developer-tools",
+      "e2e-testing",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1308281312",
+    "createdAt": "2026-07-24T02:57:25.166Z"
+  },
+  {
+    "slug": "turo-an-aggressive-token-saving-proxy-for-cli-ai-agents-hn",
+    "title": "Turo – An Aggressive Token-Saving Proxy for CLI AI Agents",
+    "shortDescription": "Проект «Turo – An Aggressive Token-Saving Proxy for CLI AI Agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Turo – An Aggressive Token-Saving Proxy for CLI AI Agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/kdeps/turo",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49029919",
+    "createdAt": "2026-07-24T02:57:24.973Z"
+  },
+  {
+    "slug": "life-tile-passive-time-tracker-that-shows-your-day-as-a-mondrian-grid-hn",
+    "title": "Life Tile – Passive time tracker that shows your day as a Mondrian grid",
+    "shortDescription": "Hi, I developed Life Tile for iPhone. It tracks your time passively and visualizes it as a Mondrian-style grid. It&#x27;s a one-time purcha…",
+    "fullDescription": "Hi, I developed Life Tile for iPhone. It tracks your time passively and visualizes it as a Mondrian-style grid. It&#x27;s a one-time purchase app with a 7-day trial. I was a user of a similar app named Life Cycle. Since the app hasn&#x27;t been updated in a while, I tried to make a better app with my ideas and experiences. I used a big square timeline instead of a donut chart. And I added more useful views: tree-map, map, and list. You can use categorized activities with custom colors. The data never leaves a device. No account, No Server. It only supports data backup using iCloud. It was for privacy but it also makes the development easier. I added just one anonymous usage stat with TelemetryDeck. You can turn it off anytime. There were many technical difficulties. iOS location API (CLMonitor) is not 100% precise. And many difficult cases can&#x27;t be handled automatically. For example, GPS blackout inside the subway, too many venues in a small region, and a huge location like an airport. So I improved many heuristics and tried my best for easy editing. Please check the App Store for the screenshots. Then you&#x27;ll know why it&#x27;s inspired by Mondrian.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://apps.apple.com/us/app/life-tile-auto-tracker/id6767332648",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49029788",
+    "createdAt": "2026-07-24T02:57:24.973Z"
+  },
+  {
     "slug": "run-glm-45-air110bon-a-16gbram-consumer-machine-hn",
     "title": "Run GLM-4.5-Air(110B)on a 16GBRAM consumer machine",
     "shortDescription": "Проект «Run GLM-4.5-Air(110B)on a 16GBRAM consumer machine», опубликован сообществом Hacker News.",
