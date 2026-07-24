@@ -1,5 +1,37 @@
 [
   {
+    "slug": "serterm-a-cross-platform-terminal-native-serial-program-hn",
+    "title": "SerTerm, a cross-platform, terminal-native serial program",
+    "shortDescription": "SerTerm is a friendly, cross-platform serial terminal for humans, scripts, and AI coding agents. Running serterm opens an interactive devic…",
+    "fullDescription": "SerTerm is a friendly, cross-platform serial terminal for humans, scripts, and AI coding agents. Running serterm opens an interactive device picker, allowing you to select a connected serial device and baud rate. It can also be used non-interactively to list devices, stream logs, send commands, capture responses for a fixed period, and save terminal output. SerTerm is a lightweight 7 MB standalone binary with no external dependencies. Builds are available for macOS, Linux, and Windows, along with .deb, .rpm, and .apk packages.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/eliachiarucci/SerTerm",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49041798",
+    "createdAt": "2026-07-24T21:37:20.210Z"
+  },
+  {
+    "slug": "a-gate-for-ai-agents-that-ships-a-board-of-its-own-worst-flaws-hn",
+    "title": "A gate for AI agents that ships a board of its own worst flaws",
+    "shortDescription": "Проект «A gate for AI agents that ships a board of its own worst flaws», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A gate for AI agents that ships a board of its own worst flaws», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/githubscum/lotor",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49041486",
+    "createdAt": "2026-07-24T21:37:20.210Z"
+  },
+  {
     "slug": "tripverdict-in-90-sec-know-whether-your-next-trip-fits-the-budget-hn",
     "title": "TripVerdict, in 90 SEC know whether your next trip fits the budget",
     "shortDescription": "I was planning a trip to St Johns NewFoundland with my family, while researching on multiple websites such as skyscanner.ca, booking.com, e…",
