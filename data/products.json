@@ -1,5 +1,43 @@
 [
   {
+    "slug": "antispoofing-fr-github",
+    "title": "antispoofing-fr",
+    "shortDescription": "python notebook anti spoofing facial recognition",
+    "fullDescription": "python notebook anti spoofing facial recognition\n\nАвтор: Morteza-Asadi-Shalmaiy. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://github.com/Morteza-Asadi-Shalmaiy/antispoofing-fr",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "google-colab",
+      "insightface",
+      "minifasnet",
+      "numpy",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1310632392",
+    "createdAt": "2026-07-24T18:59:49.592Z"
+  },
+  {
+    "slug": "i-made-some-transistor-animations-hn",
+    "title": "I made some transistor animations",
+    "shortDescription": "Hi HN, I made some animations of the most important kinds of transistors using my semiconductor simulation, details of which are on the pag…",
+    "fullDescription": "Hi HN, I made some animations of the most important kinds of transistors using my semiconductor simulation, details of which are on the page. I tried to make the visuals as realistic as possible while also aiming for clarity. If you want to go beyond the charge carriers and look at, for example, the electric field, you can do so in the simulation software. The desktop software also has less common devices like IBGTs and SCRs that have similar animations. The last thread about my software was posted here about a year ago: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43942279\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://brandonli.net/semisim/animations",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49039868",
+    "createdAt": "2026-07-24T18:59:49.551Z"
+  },
+  {
     "slug": "habibi-github",
     "title": "habibi",
     "shortDescription": "Open-source, self-hosted AI-visibility & citation tracker — a free alternative to Peec AI",
