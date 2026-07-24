@@ -1,5 +1,21 @@
 [
   {
+    "slug": "kalytera-find-out-why-your-ai-agent-failed-step-by-step-hn",
+    "title": "Kalytera – Find out why your AI agent failed, step-by-step",
+    "shortDescription": "Проект «Kalytera – Find out why your AI agent failed, step-by-step», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Kalytera – Find out why your AI agent failed, step-by-step», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://kalytera.dev",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49042370",
+    "createdAt": "2026-07-24T22:58:56.306Z"
+  },
+  {
     "slug": "serterm-a-cross-platform-terminal-native-serial-program-hn",
     "title": "SerTerm, a cross-platform, terminal-native serial program",
     "shortDescription": "SerTerm is a friendly, cross-platform serial terminal for humans, scripts, and AI coding agents. Running serterm opens an interactive devic…",
