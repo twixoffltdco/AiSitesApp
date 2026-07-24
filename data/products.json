@@ -1,5 +1,53 @@
 [
   {
+    "slug": "power-coding-an-ai-coding-skill-i-audited-on-claude-code-and-codex-hn",
+    "title": "Power Coding – an AI-coding skill I audited on Claude Code and Codex",
+    "shortDescription": "Проект «Power Coding – an AI-coding skill I audited on Claude Code and Codex», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Power Coding – an AI-coding skill I audited on Claude Code and Codex», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/APareek89/power-coding",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49035946",
+    "createdAt": "2026-07-24T14:20:11.896Z"
+  },
+  {
+    "slug": "sequence-a-daily-spatial-number-puzzle-hn",
+    "title": "Sequence, a daily spatial number puzzle",
+    "shortDescription": "A field of random numbers with simple interactive mechanics is like a cheat code for designing puzzle games. Credit to my brother who came…",
+    "fullDescription": "A field of random numbers with simple interactive mechanics is like a cheat code for designing puzzle games. Credit to my brother who came up with the initial idea, inspired by games like Sudoku and Minesweeper. I also love the communal experience of Wordle, so it generates the same puzzle for everyone each day.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://notebeck.com/sequence/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49035503",
+    "createdAt": "2026-07-24T14:20:11.896Z"
+  },
+  {
+    "slug": "turn-any-recipe-into-2-player-mode-hn",
+    "title": "Turn any recipe into 2-player mode",
+    "shortDescription": "Hi HN! Me and my gf both love cooking, but for some reason cooking together always becomes a frustrating mess for both of us. When talking…",
+    "fullDescription": "Hi HN! Me and my gf both love cooking, but for some reason cooking together always becomes a frustrating mess for both of us. When talking with friends about this, we discovered that many share this experience. What seems like a romantic date night opportunity always results in a more challenging dynamic than we&#x27;d all like. So we decided to build an app that turns any recipe we upload into 2-player mode. For us the app massively improves the cooking together experience by removing coordination friction. It basically allows each individual to focus on their own tasks: one cuts the onions, the other grates the carrots and then makes the sauce while the first grills something in the pan; and then it all comes together in the end. The app is also of huge help when we&#x27;re both too tired and don&#x27;t feel like cooking: by spreading the workload cooking becomes a much lighter effort for both. If that sounds appealing please do try it out! iPhone: https:&#x2F;&#x2F;nommer.ai&#x2F;ios Android: https:&#x2F;&#x2F;nommer.ai&#x2F;android\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://nommer.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49035032",
+    "createdAt": "2026-07-24T14:20:11.896Z"
+  },
+  {
     "slug": "superres-fr-github",
     "title": "Superres-fr",
     "shortDescription": "python notebook super resolution",
