@@ -1,5 +1,81 @@
 [
   {
+    "slug": "atarang-github",
+    "title": "atarang",
+    "shortDescription": "Mix. Mute. Practice. Record. Repeat.",
+    "fullDescription": "Mix. Mute. Practice. Record. Repeat.\n\nАвтор: shantanugoel. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/shantanugoel/atarang",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-music",
+      "ai-music-tools",
+      "ai-tools",
+      "music",
+      "music-generation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1309561049",
+    "createdAt": "2026-07-24T10:33:14.112Z"
+  },
+  {
+    "slug": "laga-github",
+    "title": "laga",
+    "shortDescription": "A fast, conservative JSON repair library for malformed model output, hand-written config, and almost-JSON text. Repairs common syntax issue…",
+    "fullDescription": "A fast, conservative JSON repair library for malformed model output, hand-written config, and almost-JSON text. Repairs common syntax issues and returns clean Python objects.\n\nАвтор: olaflaitinen. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://pypi.org/project/laga/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "cli",
+      "configuration",
+      "data-cleanup",
+      "json",
+      "json-parser",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1310771552",
+    "createdAt": "2026-07-24T10:33:14.112Z"
+  },
+  {
+    "slug": "audio-player-with-binaural-beats-tuned-to-the-same-key-as-your-music-hn",
+    "title": "Audio Player with \"Binaural Beats\" tuned to the same key as your music",
+    "shortDescription": "Hi HN, Gabriel here. This is a standalone binaural beat generator, combined with a two-deck local audio player built with the Web Audio API…",
+    "fullDescription": "Hi HN, Gabriel here. This is a standalone binaural beat generator, combined with a two-deck local audio player built with the Web Audio API. It includes ten harmonic carrier pairs, seven brainwave-state presets, per-harmonic mixing (so the binaural tones aren&#x27;t out-of-tune with the music), adjustable beat and carrier frequencies, two oscillator shapes, offline key&#x2F;BPM analysis, automatic carrier matching, adaptive impulse noise, playlist support, and output recording. The main problem I&#x27;ve had with existing &quot;binaural beat&quot; generators is that the tone generated does not remain in-tune with what I&#x27;m listening to. This becomes highly noticeable, kind of ruining both the binaural beat and the music (&quot;wrong, Marge, two perfectly good jackets!&quot;). That&#x27;s the issue this solves, and then I added a bunch of nice-to-haves on top. It&#x27;s open-source, free, etc - I&#x27;m just sharing because it&#x27;s something I wanted to exist, and maybe others want it to exist too. Some of you might remember i-Doser , and have - like me - been looking for that same high ever since. That (urban-legend-coded, totally-trippy-if-you&#x27;re-fifteen-years-old) app introduced me to &quot;Binaural Beats&quot; - where you play two different tones in each of a person&#x27;s ears, and the brain scrambles the different frequencies into a single frequency. As I understand it, this is meant to induce specific brainwaves in the listener, which replicate states like &quot;deep focus&quot; or &quot;half-asleep&quot; or &quot;meditating&quot;. I&#x27;ve not decided personally if this is real science, or new-age pseudoscientific nonsense. It&#x27;s probably somewhere between the two. I intentionally haven&#x27;t looked that hard into studies on the actual effects, because I think placebo is very powerful, and binaural beats work great on me. I find them genuinely useful for focus, meditation, and dream-state creativity. I figure: If it ain&#x27;t broke, don&#x27;t learn that it&#x27;s a placebo. YMMV. I really love ambient music, and I think that audiobooks could be a much more interesting form if they borrowed more from ideas found in ambient music. That&#x27;s why I put a second deck on it for spoken-word files. There&#x27;s some ASMR-y stuff like impulse noise available, also, for those good-good tingles. I&#x27;d like to build it out into a more fully-featured &quot;ambient spoken word&quot; DJ software UI, for making stuff inspired by and adjacent to Glenn Gould&#x27;s The Idea of North , and I guess this is currently about halfway to that thus far. The playlist function allows you to predefine the binaural tone against tracks playing in the future, so you can set up some pieces of music, and define the brain frequency you are trying to induce (or placebo) in yourself. I&#x27;ve had a lot of fun putting albums into this, and taking journeys from - for example - &quot;focus&quot; to &quot;deep sleep&quot;. I strongly recommend Sea Power&#x27;s Disco Elysium OST for that, which I&#x27;ve revisited a few times in this software already. I can&#x27;t attest to whether the opposite directional journey works, because the &quot;deep sleep&quot; tone has reliably rendered me unconscious. I hope some of you get some of the same enjoyment (or placebo of enjoyment) I&#x27;m getting from it. Feedback, ideas of music that might work well in it, and feature-requests appreciated, especially features in the &#x27;this would make me enjoy using it, but I can&#x27;t be bothered to add it myself&#x27; category. Edit: I just realised I could have deployed this as a GH Pages page, so you can use it without any setup at all. Doh! Link to that here - should all work fine in-browser: https:&#x2F;&#x2F;henrygabriels.github.io&#x2F;binaural-studio&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/henrygabriels/binaural-studio",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49033302",
+    "createdAt": "2026-07-24T10:33:13.956Z"
+  },
+  {
+    "slug": "transept-ai-translation-workspace-that-puts-humans-first-hn",
+    "title": "Transept: AI translation workspace that puts humans first",
+    "shortDescription": "Проект «Transept: AI translation workspace that puts humans first», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Transept: AI translation workspace that puts humans first», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://transept.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49033237",
+    "createdAt": "2026-07-24T10:33:13.956Z"
+  },
+  {
     "slug": "jharu-open-source-ai-and-dev-junk-cleaner-for-mac-and-pc-hn",
     "title": "Jharu – Open-Source AI and Dev Junk Cleaner for Mac and PC",
     "shortDescription": "Проект «Jharu – Open-Source AI and Dev Junk Cleaner for Mac and PC», опубликован сообществом Hacker News.",
