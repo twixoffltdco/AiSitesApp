@@ -1,5 +1,173 @@
 [
   {
+    "slug": "nyamuru-manga-name-studio-github",
+    "title": "nyamuru-manga-name-studio",
+    "shortDescription": "AIと一緒に漫画ネームを作るオープンソーススタジオ。Nyamuru Data Model（NDM）/ OMNY形式のネーム編集PWA・LLM向け生成プロンプト・画像生成ワークフローを収録",
+    "fullDescription": "AIと一緒に漫画ネームを作るオープンソーススタジオ。Nyamuru Data Model（NDM）/ OMNY形式のネーム編集PWA・LLM向け生成プロンプト・画像生成ワークフローを収録\n\nАвтор: sa-san10. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://sa-san10.github.io/nyamuru-manga-name-studio/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "astro",
+      "llm",
+      "manga",
+      "preact",
+      "pwa",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1308779766",
+    "createdAt": "2026-07-24T05:52:27.632Z"
+  },
+  {
+    "slug": "orbit-ai-github",
+    "title": "Orbit-AI",
+    "shortDescription": "Orbit AI is an intelligent personal AI assistant built with React, Node.js, FastAPI, MongoDB, and Groq LLM, featuring conversational memory…",
+    "fullDescription": "Orbit AI is an intelligent personal AI assistant built with React, Node.js, FastAPI, MongoDB, and Groq LLM, featuring conversational memory and personalized AI interactions.\n\nАвтор: riturajlabs. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://orbit-ai-client.vercel.app/",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "chatbot",
+      "cloudinary",
+      "express",
+      "fastapi",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1308407570",
+    "createdAt": "2026-07-24T05:52:27.632Z"
+  },
+  {
+    "slug": "snapprint-github",
+    "title": "snapprint",
+    "shortDescription": "照片转可打印 3D 模型 · 离线浮雕 + AI 模式适配(Hunyuan3D/TripoSR) · 中文 Web UI · Apache-2.0",
+    "fullDescription": "照片转可打印 3D 模型 · 离线浮雕 + AI 模式适配(Hunyuan3D/TripoSR) · 中文 Web UI · Apache-2.0\n\nАвтор: luisdingww-bit. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://snapprint-3d.surge.sh",
+    "category": "developer",
+    "tags": [
+      "3d-model",
+      "3d-printing",
+      "ai",
+      "comfyui",
+      "fastapi",
+      "hunyuan3d",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1309804843",
+    "createdAt": "2026-07-24T05:52:27.632Z"
+  },
+  {
+    "slug": "companybrain-github",
+    "title": "companybrain",
+    "shortDescription": "The open-source memory layer for your company. Index everything, recall anything, own all of it.",
+    "fullDescription": "The open-source memory layer for your company. Index everything, recall anything, own all of it.\n\nАвтор: aayambansal. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://aayambansal.github.io/companybrain/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "embeddings",
+      "knowledge-base",
+      "llm",
+      "mcp",
+      "memory",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1309626770",
+    "createdAt": "2026-07-24T05:52:27.633Z"
+  },
+  {
+    "slug": "generous-free-tier-for-serp-and-ai-web-scraping-hn",
+    "title": "Generous free tier for SERP and AI web scraping",
+    "shortDescription": "Hackers, We wanted to share our newly-added recurring Free tier for cloro.dev, the leading AI UI scraping platform in the world. We extract…",
+    "fullDescription": "Hackers, We wanted to share our newly-added recurring Free tier for cloro.dev, the leading AI UI scraping platform in the world. We extract structured data from ChatGPT, Perplexity, Grok, Gemini, Google Search, Google News, Copilot, and AI Overview through one API, with low latency across any country. We have recently crossed 200+ customers, most of them the large Enterprises behind GEO and SEO. From now on, every user gets 500 free credits every month, which is great for hobby projects you may have. Enjoy!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://cloro.dev/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49031260",
+    "createdAt": "2026-07-24T05:52:27.507Z"
+  },
+  {
+    "slug": "glossarypage-turn-customer-questions-into-knowledge-pages-hn",
+    "title": "GlossaryPage – Turn customer questions into knowledge pages",
+    "shortDescription": "Hey HN, I built GlossaryPage after noticing companies have long-tail content opportunities that never get created because they fall between…",
+    "fullDescription": "Hey HN, I built GlossaryPage after noticing companies have long-tail content opportunities that never get created because they fall between blog posts and documentation. The primary use case is marketing teams building glossaries and learning hubs around these topics. The same workflow also works for support teams creating help centers. GlossaryPage helps teams identify unanswered topics, generate drafts with AI, review content, and publish structured knowledge pages. Here is a demo site: https:&#x2F;&#x2F;glossary.glossarypage.com Some things I have been thinking about while building this: 1. How to avoid creating more low-quality content? This is a challenge for anyone building AI content tools, and is something I&#x27;m working on. The product is focused on generating drafts, but users are responsible for reviewing and approving what gets published. My guess is that as AI systems improve at evaluating quality, there will be less value in publishing low-quality content. 2. Why not just use an existing CMS or build this internally? Both are possible, and you can quickly generate a similar site. GlossaryPage focuses on the content workflow, and I&#x27;m exploring features like quality checks and integrations with other tools. The product is still early, and I&#x27;m exploring which features to prioritize next. What would make this valuable enough to use instead of building something similar yourself?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://glossarypage.com/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49031008",
+    "createdAt": "2026-07-24T05:52:27.508Z"
+  },
+  {
+    "slug": "bohay-mission-control-for-your-ai-coding-agents-hn",
+    "title": "Bohay – Mission control for your AI coding agents",
+    "shortDescription": "Проект «Bohay – Mission control for your AI coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Bohay – Mission control for your AI coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://bohay.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49030938",
+    "createdAt": "2026-07-24T05:52:27.508Z"
+  },
+  {
+    "slug": "tuziyo-compare-multiple-ai-image-models-in-one-studio-hn",
+    "title": "Tuziyo – Compare multiple AI image models in one studio",
+    "shortDescription": "Проект «Tuziyo – Compare multiple AI image models in one studio», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Tuziyo – Compare multiple AI image models in one studio», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://tuziyo.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49030797",
+    "createdAt": "2026-07-24T05:52:27.508Z"
+  },
+  {
+    "slug": "pdfly-56-free-pdf-tools-that-run-in-the-browser-hn",
+    "title": "PDFly – 56 free PDF tools that run in the browser",
+    "shortDescription": "Hi HN! I built PDFly — a PDF toolkit that runs entirely client-side. No file uploads, no server processing, no account needed. It has 56 to…",
+    "fullDescription": "Hi HN! I built PDFly — a PDF toolkit that runs entirely client-side. No file uploads, no server processing, no account needed. It has 56 tools including merge, split, compress, convert, redact, compare, and an AI chat feature to ask questions about your PDF content. Everything runs in your browser using [mention your tech stack if relevant, e.g., WASM&#x2F;JS libraries]. Would love feedback on the tools, UX, or anything else!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://pdfly.uk/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49030778",
+    "createdAt": "2026-07-24T05:52:27.508Z"
+  },
+  {
     "slug": "free-llm-router-github",
     "title": "free-llm-router",
     "shortDescription": "Open-source, self-hosted BYOK LLM API router with an OpenAI-compatible interface, multi-provider failover, model aliases, circuit breakers,…",
