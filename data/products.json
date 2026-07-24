@@ -1,5 +1,21 @@
 [
   {
+    "slug": "tripverdict-in-90-sec-know-whether-your-next-trip-fits-the-budget-hn",
+    "title": "TripVerdict, in 90 SEC know whether your next trip fits the budget",
+    "shortDescription": "I was planning a trip to St Johns NewFoundland with my family, while researching on multiple websites such as skyscanner.ca, booking.com, e…",
+    "fullDescription": "I was planning a trip to St Johns NewFoundland with my family, while researching on multiple websites such as skyscanner.ca, booking.com, expedia, airbnb, etc for 3 hours, we realized the total trip cost is over $2000. This triggered TripVerdict, as I work in TravelTech and knows most of backend of the system, I realized I can build pre-research gut check tool which help people know what fits vs what not to save their precious hours. This product solve 3 pain points: 1. I know my budget and destination, does it fit? 2. I know my budget and confused between 2-5 destinations, how do they compare? 3. I know my budget and want to which destination I could make Uses real time flight, hotel and rentals prices to provide cheap vs comfortable options. Once you are satisfied with the verdict, then booking links are shown to proceed. There is no tool out there which provide traveller with this opportunity, every OTA is trying to sell. We are here to protect your budget. Tech Stack : Typescript, Node.js, Supabase, Clerk, 3 service providers, Claude Code, Vercel, Squarespace Would really love the feedback of this community on whether tackling right pain points through right medium? Do you think of any other monetization channels? Happy to answer any foundational or technical questions.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.tripverdict.ca",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49040647",
+    "createdAt": "2026-07-24T20:26:28.457Z"
+  },
+  {
     "slug": "antispoofing-fr-github",
     "title": "antispoofing-fr",
     "shortDescription": "python notebook anti spoofing facial recognition",
