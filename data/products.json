@@ -1,5 +1,135 @@
 [
   {
+    "slug": "superres-fr-github",
+    "title": "Superres-fr",
+    "shortDescription": "python notebook super resolution",
+    "fullDescription": "python notebook super resolution\n\nАвтор: Morteza-Asadi-Shalmaiy. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/Morteza-Asadi-Shalmaiy/Superres-fr",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "basicsr",
+      "cctv",
+      "cctv-cameras",
+      "cctv-detection",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1310665467",
+    "createdAt": "2026-07-24T12:17:20.841Z"
+  },
+  {
+    "slug": "reid-fr-github",
+    "title": "Reid-fr",
+    "shortDescription": "python notebook ReId project",
+    "fullDescription": "python notebook ReId project\n\nАвтор: Morteza-Asadi-Shalmaiy. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/Morteza-Asadi-Shalmaiy/Reid-fr",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "cctv",
+      "cctv-cameras",
+      "cctv-detection",
+      "cctv-monitoring",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1310760542",
+    "createdAt": "2026-07-24T12:17:20.841Z"
+  },
+  {
+    "slug": "facial-recognition-pipeline-github",
+    "title": "facial-recognition-pipeline",
+    "shortDescription": "python notebook facial recognitition ",
+    "fullDescription": "python notebook facial recognitition \n\nАвтор: Morteza-Asadi-Shalmaiy. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/Morteza-Asadi-Shalmaiy/facial-recognition-pipeline",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "codeformer",
+      "gfpgan",
+      "google-colab",
+      "insightface",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1309902610",
+    "createdAt": "2026-07-24T12:17:20.841Z"
+  },
+  {
+    "slug": "x402vps-docker-containers-for-ai-agents-paid-per-hour-with-usdc-hn",
+    "title": "X402vps – Docker containers for AI agents, paid per hour with USDC",
+    "shortDescription": "Проект «X402vps – Docker containers for AI agents, paid per hour with USDC», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «X402vps – Docker containers for AI agents, paid per hour with USDC», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://x402vps.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49034474",
+    "createdAt": "2026-07-24T12:17:20.784Z"
+  },
+  {
+    "slug": "a-monorepo-where-ai-agents-can-safely-build-and-maintain-applications-hn",
+    "title": "A monorepo where AI agents can safely build and maintain applications",
+    "shortDescription": "Hello everyone, I have spent dozens of hours working on my ideal template to quickly bring applications into production, which could be of…",
+    "fullDescription": "Hello everyone, I have spent dozens of hours working on my ideal template to quickly bring applications into production, which could be of interest to those who want to rapidly deliver a scalable prototype, in an AI-native manner and at low cost on Cloudflare infrastructures. In this template, you will find: - A pnpm monorepo in strictly typed TypeScript with Zod, allowing you to develop both your React applications and your backend (here with Hono and the native Zod validator) without duplicating contracts; - A fully designed setup to maximize the capabilities of AI agents (mainly Claude Code and Cursor for now), with precise and path-scoped rules to enforce conventions without polluting the context, hooks based on OXC for ultra-fast formatting and linting, and sub-agents enabling optimal context collection, notably thanks to Context7 and Cloudflare MCPs; - A next-generation configuration for Vite 8, TanStack Router, TanStack Query, and React 19; - A set of make commands enabling fast and intuitive development for both humans and AI agents; - Clear documentation aimed at supporting the introduction of dozens of microservices, simplifying inter-application communication at zero cost thanks to the RPC protocol supported between multiple workers, etc.; - A turborepo configuration enabling the parallel execution of all essential commands for development on a scaling codebase and the rapid deployment of dozens of services at the edge. I have already been able to battle-test this template in production for the development of MCPs with authentication, personal applications, as well as in hackathon contexts, and it notably enabled us to finish as finalists in the {Tech: Europe} Paris AI Hackathon organized at Hexa. I believe it could greatly help entrepreneurs to vibe code or prototype applications quickly while preserving certain guarantees of security and best practices thanks to the investments made in the harness, and it can appeal to a wide variety of developers concerned with minimizing friction and avoiding duplicated code between backend and frontend or across multiple services (queues, RPC, etc.). This repo is natively based on modern and relatively well-documented technologies, with the intention of offering the best possible developer experience, including for those who do not work daily with TypeScript (in practice, the granular configuration used makes it possible to adapt with minimal changes to the development of both backend microservices and React applications without friction and in a relatively secure manner). I strongly encourage you, if you are familiar with Cloudflare infrastructure and the concept of a monorepo, to take a look at it, particularly regarding the setup for AI agents, as I welcome any recommendations to further improve this tool that I genuinely enjoy working with. A big thank you to all the contributors of the various dependencies used in this template for the great experience they provide, and I look forward to seeing what you will be able to ship with this monorepo.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/louisbrulenaudet/monorepo-template",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49034424",
+    "createdAt": "2026-07-24T12:17:20.785Z"
+  },
+  {
+    "slug": "saveanswer-a-local-chrome-extension-for-keeping-ai-answers-searchable-hn",
+    "title": "SaveAnswer – a local Chrome extension for keeping AI answers searchable",
+    "shortDescription": "Проект «SaveAnswer – a local Chrome extension for keeping AI answers searchable», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «SaveAnswer – a local Chrome extension for keeping AI answers searchable», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://chromewebstore.google.com/detail/saveanswer-save-ai-answer/iminapemlncanmmaadedieifgkaeoljm",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49033633",
+    "createdAt": "2026-07-24T12:17:20.785Z"
+  },
+  {
+    "slug": "frontier-model-pricing-became-a-rip-off-so-i-built-an-open-source-cli-hn",
+    "title": "Frontier model pricing became a rip-off, so I built an open-source CLI",
+    "shortDescription": "Feedback much appreciated!",
+    "fullDescription": "Feedback much appreciated!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/kolega-ai/kolega-code",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49033553",
+    "createdAt": "2026-07-24T12:17:20.785Z"
+  },
+  {
     "slug": "atarang-github",
     "title": "atarang",
     "shortDescription": "Mix. Mute. Practice. Record. Repeat.",
