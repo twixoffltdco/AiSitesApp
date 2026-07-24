@@ -1,5 +1,75 @@
 [
   {
+    "slug": "habibi-github",
+    "title": "habibi",
+    "shortDescription": "Open-source, self-hosted AI-visibility & citation tracker — a free alternative to Peec AI",
+    "fullDescription": "Open-source, self-hosted AI-visibility & citation tracker — a free alternative to Peec AI\n\nАвтор: moaljumaa. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://opsily.com/hosting/habibi?utm_source=github&utm_medium=readme&utm_campaign=habibi",
+    "category": "ai-tool",
+    "tags": [
+      "aeo",
+      "ai",
+      "generative",
+      "generative-engine-optimization",
+      "search-engine-optimization",
+      "seo",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1308545018",
+    "createdAt": "2026-07-24T17:27:42.287Z"
+  },
+  {
+    "slug": "corv-v11-is-out-solving-ssh-execution-for-ai-agents-hn",
+    "title": "Corv v1.1 is out! Solving SSH execution for AI agents",
+    "shortDescription": "I don’t see much interest yet in the infrastructure side of AI. Maybe it’s because few people want to take on the liability of letting agen…",
+    "fullDescription": "I don’t see much interest yet in the infrastructure side of AI. Maybe it’s because few people want to take on the liability of letting agents handle infrastructure work, where the margin for error is close to zero. But the underlying situation is awful. Most effort goes toward the application layer, with heavy wrappers and little attention given to one of the most sensitive parts: SSH. LLMs as they work today, are not naturally compatible with SSH. Most handlers use coping mechanisms.. instead of solving the problem properly. They operate SSH almost like a human would, with some arguments added on top. This consumes tokens, creates instability, and requires many tool calls for simple tasks or large batches of commands executed at once in the hope that everything goes correctly. As agent harnesses have shown, tooling has a major effect on model performance. After getting tired of the current situation, I decided to handle it myself. Corv is my solution: a layer specialized around SSH that handles the parts that are problematic for AI agents, while remaining useful for humans. The models I used to review and stress-test it consistently preferred having Corv available as the default way to work with remote machines. Today I’m releasing v1.1, the first meaningful update. It makes Corv substantially more robust under concurrency, interruptions, and larger workloads. There is still a way to go, and this area may be early and niche today. But infrastructure is the foundation, not the cherry on top. I believe this execution layer will become necessary, whether that happens this year on q4 or the next. Cheers!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/khalid-src/corv-client",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49038578",
+    "createdAt": "2026-07-24T17:27:42.165Z"
+  },
+  {
+    "slug": "18yo-buidling-an-ai-proposal-os-and-generator-hn",
+    "title": "18y/O buidling an AI proposal OS and generator",
+    "shortDescription": "Проект «18y/O buidling an AI proposal OS and generator», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «18y/O buidling an AI proposal OS and generator», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.propi.pro",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49038426",
+    "createdAt": "2026-07-24T17:27:42.165Z"
+  },
+  {
+    "slug": "an-ai-agent-skill-repo-built-around-evals-not-demos-hn",
+    "title": "An AI agent skill repo built around evals, not demos",
+    "shortDescription": "Проект «An AI agent skill repo built around evals, not demos», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An AI agent skill repo built around evals, not demos», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/sourishkrout/skills",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49037968",
+    "createdAt": "2026-07-24T17:27:42.165Z"
+  },
+  {
     "slug": "open-source-ai-scientist-for-semi-autonomous-theory-discovery-hn",
     "title": "Open-source AI scientist for semi-autonomous theory discovery",
     "shortDescription": "Проект «Open-source AI scientist for semi-autonomous theory discovery», опубликован сообществом Hacker News.",
