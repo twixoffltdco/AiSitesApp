@@ -1,5 +1,37 @@
 [
   {
+    "slug": "ai-anime-finder-natural-language-semantic-search-for-anilist-hn",
+    "title": "AI Anime Finder – Natural language semantic search for AniList",
+    "shortDescription": "Проект «AI Anime Finder – Natural language semantic search for AniList», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Anime Finder – Natural language semantic search for AniList», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://zlvox.com/tools/anime-finder",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49044883",
+    "createdAt": "2026-07-25T06:15:13.280Z"
+  },
+  {
+    "slug": "sync-claude-code-and-codex-configs-with-a-board-that-shows-the-drift-hn",
+    "title": "Sync Claude Code and Codex configs, with a board that shows the drift",
+    "shortDescription": "Проект «Sync Claude Code and Codex configs, with a board that shows the drift», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Sync Claude Code and Codex configs, with a board that shows the drift», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/slash9494/ai-config-sync-manager",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49044662",
+    "createdAt": "2026-07-25T06:15:13.280Z"
+  },
+  {
     "slug": "sb-chat-github",
     "title": "sb-chat",
     "shortDescription": "Batuk is a sovereign Next.js AI chat workspace for local and hosted models, with multi-provider support, document chat, voice, web search,…",
