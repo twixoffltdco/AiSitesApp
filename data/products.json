@@ -1,5 +1,97 @@
 [
   {
+    "slug": "sb-chat-github",
+    "title": "sb-chat",
+    "shortDescription": "Batuk is a sovereign Next.js AI chat workspace for local and hosted models, with multi-provider support, document chat, voice, web search,…",
+    "fullDescription": "Batuk is a sovereign Next.js AI chat workspace for local and hosted models, with multi-provider support, document chat, voice, web search, guardrails, auth, and local-first persistence.\n\nАвтор: suhasbhairav. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/suhasbhairav/sb-chat",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "artificial-intelligence",
+      "chatbot",
+      "llms",
+      "rag",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1310175537",
+    "createdAt": "2026-07-25T03:47:40.209Z"
+  },
+  {
+    "slug": "figma-relai-github",
+    "title": "figma-relai",
+    "shortDescription": "Your AI, on the canvas — talk to Claude Code, Cursor, or any MCP client and it designs in Figma with you. Works on every Figma plan.",
+    "fullDescription": "Your AI, on the canvas — talk to Claude Code, Cursor, or any MCP client and it designs in Figma with you. Works on every Figma plan.\n\nАвтор: syoooo. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://www.npmjs.com/package/figma-relai",
+    "category": "developer",
+    "tags": [
+      "agent",
+      "ai",
+      "claude",
+      "cursor",
+      "design-systems",
+      "figma",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1309984897",
+    "createdAt": "2026-07-25T03:47:40.209Z"
+  },
+  {
+    "slug": "whipdesk-control-your-full-dev-machine-from-your-phone-hn",
+    "title": "WhipDesk – Control your full dev machine from your phone",
+    "shortDescription": "Hi HN, I built WhipDesk, an open-source, mobile-friendly remote desktop tool for controlling your full development machine and managing AI…",
+    "fullDescription": "Hi HN, I built WhipDesk, an open-source, mobile-friendly remote desktop tool for controlling your full development machine and managing AI coding agents from your phone’s browser. It gives you access to the entire desktop while also adding workflows for monitoring and managing tools such as Claude Code, Codex, GitHub Copilot, and others The two questions I hear most are: How is it secured, and how is it different from existing tools? Security Following the modern approach taken by open-source remote access tools such as RustDesk, WhipDesk is fully open source, so its client, agent, protocol, and security model can be inspected rather than trusted as a black box. Local connections can run entirely within your network without an account. Remote connections use end-to-end encrypted WebRTC. Most connections are peer-to-peer; when a TURN relay is required, it only forwards encrypted traffic. Each connection also requires the machine’s access PIN as an additional security layer. More details are available in the GitHub README. Why not Claude Code, Codex, or other agent remote-control tools? Those tools are useful for interacting with the agent session, but sometimes I need access to the rest of the machine: the IDE, browser preview, emulator, logs, desktop applications, or the UI the agent just changed. WhipDesk gives you access to the full development environment directly from your mobile browser, regardless of which coding agent is running. That is why I built it: I did not want to be limited to a single agent interface. Why not TeamViewer, RDP, or RustDesk? Traditional remote desktop tools work, but they are usually designed for controlling one large desktop from another computer. On a phone, text can become difficult to read, and they do not include workflows specifically designed for monitoring and managing coding agents. WhipDesk is designed specifically for mobile browsers. It can stream only the selected mobile viewport, keeping text crystal clear when zoomed in and allowing it to work well on lower-bandwidth connections. I built it because I often need to step away from my desk while agents are still working. I use it to answer prompts, inspect UI changes, review progress, and course-correct from my phone. Source and installation: https:&#x2F;&#x2F;github.com&#x2F;BinaryBananaLLC&#x2F;WhipDesk npm install -g whipdesk I’d especially appreciate feedback on your first impression. Building a tool that requires this level of user trust has been challenging, and I would love to improve it based on honest feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/BinaryBananaLLC/WhipDesk",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49044039",
+    "createdAt": "2026-07-25T03:47:40.093Z"
+  },
+  {
+    "slug": "ai-meter-local-token-usage-with-energy-and-water-estimates-hn",
+    "title": "AI Meter – Local token usage with energy and water estimates",
+    "shortDescription": "[Problem] I wanted to track how many tokens I am burning and it&#x27;s estimated energy and water impact. [WHAT THIS IS] A local token usag…",
+    "fullDescription": "[Problem] I wanted to track how many tokens I am burning and it&#x27;s estimated energy and water impact. [WHAT THIS IS] A local token usage tracker that works across different coding harnesses and estimates energy and water impact [MY EXPERIENCE] Tracking this really put things into perspective. My personal usage is close to 1 MWh in the past three months which I had no idea about. This does not include my AI usage at work which is probably 10x. [DEMO] If you are interested in tracking these numbers locally, try out: https:&#x2F;&#x2F;ai-meter.app - It reads historical data if the files are present. Works completely locally (except to check if there is an update for the widget) - No login. No analytics. No tracking. ---- [On estimates] AI Meter measures tokens from local AI coding-tool logs, then estimates: Electricity: tokens ÷ 1M × 0.39 kWh, calibrated from Oviedo et al.’s production-scale inference model. Direct cooling water: electricity ÷ 1.20 PUE × 0.45 L&#x2F;IT-kWh, using LBNL’s U.S. data-center WUE scenario. These are adjustable estimates, not provider measurements. They exclude training, hardware manufacturing, electricity-generation water, and local-device energy. ---- Hope you find this interesting! Please feel free to give feedback, would love to make this better!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ai-meter.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49043860",
+    "createdAt": "2026-07-25T03:47:40.093Z"
+  },
+  {
+    "slug": "maps-of-100-theories-for-how-society-works-inc-graham-thiel-smith-hn",
+    "title": "Maps of >100 theories for how society works inc. Graham / Thiel / Smith",
+    "shortDescription": "Hi all! I&#x27;m excited to tell you about a website I made, aiming to be the easiest and fastest way to learn about more than 100 differen…",
+    "fullDescription": "Hi all! I&#x27;m excited to tell you about a website I made, aiming to be the easiest and fastest way to learn about more than 100 different theories of society (e.g., what exactly each claims about how society does and should work, including written explanations and visual diagrams that go along with them). It includes, among many others: Adam Smith: https:&#x2F;&#x2F;society.clearerthinking.org&#x2F;#adam_smith Paul Graham: https:&#x2F;&#x2F;society.clearerthinking.org&#x2F;#paul_graham Tyler Cowen: https:&#x2F;&#x2F;society.clearerthinking.org&#x2F;#tyler_cowen Peter Thiel: https:&#x2F;&#x2F;society.clearerthinking.org&#x2F;#peter_thiel If you find any errors, please let me know. Thanks! -Spencer\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://society.clearerthinking.org/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49043703",
+    "createdAt": "2026-07-25T03:47:40.093Z"
+  },
+  {
     "slug": "awas-agent-github",
     "title": "awas-agent",
     "shortDescription": "Terminal-based AI assistant & multi-platform gateway daemon (Telegram & Discord) supporting 4 reasoning agent modes, per-user SQLite sessio…",
