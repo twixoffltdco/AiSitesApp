@@ -1,5 +1,75 @@
 [
   {
+    "slug": "cubest-github",
+    "title": "cubest",
+    "shortDescription": "cubest",
+    "fullDescription": "cubest\n\nАвтор: BaryshevS. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/BaryshevS/cubest/blob/main/README.md",
+    "category": "developer",
+    "tags": [
+      "aggregator",
+      "ai",
+      "ai-agents",
+      "antrophic",
+      "claude-code",
+      "cli",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1311976580",
+    "createdAt": "2026-07-25T17:29:42.218Z"
+  },
+  {
+    "slug": "tongue-text-your-ai-personal-assistant-hn",
+    "title": "Tongue – Text Your AI Personal Assistant",
+    "shortDescription": "Проект «Tongue – Text Your AI Personal Assistant», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Tongue – Text Your AI Personal Assistant», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://trytongue.com/demo",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49049282",
+    "createdAt": "2026-07-25T17:29:41.993Z"
+  },
+  {
+    "slug": "protoai-an-open-source-peer-to-peer-network-for-sharing-ai-contexts-hn",
+    "title": "Protoai – an open source peer-to-peer network for sharing AI contexts",
+    "shortDescription": "Проект «Protoai – an open source peer-to-peer network for sharing AI contexts», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Protoai – an open source peer-to-peer network for sharing AI contexts», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/johndebord/protoai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49049253",
+    "createdAt": "2026-07-25T17:29:41.993Z"
+  },
+  {
+    "slug": "avatar-cursor-an-ai-shop-assistant-hn",
+    "title": "Avatar-cursor – an AI shop assistant",
+    "shortDescription": "Проект «Avatar-cursor – an AI shop assistant», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Avatar-cursor – an AI shop assistant», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/eliasschwalme/avatar-cursor/blob/main/demo.gif",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49049186",
+    "createdAt": "2026-07-25T17:29:41.993Z"
+  },
+  {
     "slug": "drift-github",
     "title": "Drift",
     "shortDescription": "Desktop coding agent using the OpenCode agent engine",
