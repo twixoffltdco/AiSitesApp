@@ -1,5 +1,91 @@
 [
   {
+    "slug": "job-radar-github",
+    "title": "job-radar",
+    "shortDescription": "🎯 AI-Powered Job Search Agent — searches multiple job boards and rates them against your profile using a local LLM",
+    "fullDescription": "🎯 AI-Powered Job Search Agent — searches multiple job boards and rates them against your profile using a local LLM\n\nАвтор: ANIRudH-lab-life. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/ANIRudH-lab-life/job-radar",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "cli",
+      "job-search",
+      "llm",
+      "python",
+      "remote-jobs",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1310451183",
+    "createdAt": "2026-07-25T10:10:49.785Z"
+  },
+  {
+    "slug": "agentstate-open-source-resilience-and-caching-proxy-for-ai-agents-hn",
+    "title": "AgentState – Open-source resilience and caching proxy for AI agents",
+    "shortDescription": "Проект «AgentState – Open-source resilience and caching proxy for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AgentState – Open-source resilience and caching proxy for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/aleenz1102/AgentState",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49046038",
+    "createdAt": "2026-07-25T10:10:49.707Z"
+  },
+  {
+    "slug": "ai-codebase-analyser-and-auto-fixer-hn",
+    "title": "AI codebase analyser and auto-fixer",
+    "shortDescription": "The difference is the mindset shift of &quot;human-in-the-loop&quot; approach to debugging. I believe security is so critical that AI shoul…",
+    "fullDescription": "The difference is the mindset shift of &quot;human-in-the-loop&quot; approach to debugging. I believe security is so critical that AI should never execute every action end to end.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.getdebug.dev/blog/python-ai-app-prefilters",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49045992",
+    "createdAt": "2026-07-25T10:10:49.707Z"
+  },
+  {
+    "slug": "ai-toolbox-supports-claude-opus-5-hn",
+    "title": "AI Toolbox supports Claude Opus 5",
+    "shortDescription": "Проект «AI Toolbox supports Claude Opus 5», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Toolbox supports Claude Opus 5», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.ai-toolbox.co",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49045835",
+    "createdAt": "2026-07-25T10:10:49.707Z"
+  },
+  {
+    "slug": "the-terse-state-language-and-protocol-hn",
+    "title": "The TERSE state language and protocol",
+    "shortDescription": "# Hello World(valid terse; for Show HN) I&#x27;m terse(greetings) ## Container &quot;A container may have one text block, single or multi-l…",
+    "fullDescription": "# Hello World(valid terse; for Show HN) I&#x27;m terse(greetings) ## Container &quot;A container may have one text block, single or multi-line&quot; Object(Semi-colon separated attributes; variables_like: 123; &quot;Traditional unicode strings allowed here too.&quot;) Another object with a name(multiple objects under a container) ## Further description of TERSE &quot;&quot;&quot; TERSE is a unified way to store state, with a defined way to query and mutate it that has been relentlessly refined for overall simplicity and token efficiency not just at rest, but in operation. We realized state access was a low-level, common pattern that keeps getting reinvented. It goes deeper than just AI memory. Consider that Anthropic memory and others are a bunch of markdown files and in some respects, they got it right... simpler is better. So REALLY the problem is settling on a format that is flexible to cover 95% of a domain. We can do so MUCH better than Markdown; TERSE is opinionated on that but it has very good reasons. By being a line-ordered and line-identifiable structure (with special treatment for free-form blocks like this), now the whole state can be idempotently re-declared. Literally, this text of this post is a TERSE state declaration that an AI or you could make. Or, duh, just copy this to a .terse file! So let&#x27;s say you did that. To query this state: &gt; ? Hello World To copy this whole state somewhere: &gt; # My new container &gt; ? Hello World &#x2F;&#x2F;inline queries physically expand into the declaration Directives are a [tail] with composable set of operations. For example, let&#x27;s clean that up.. I declare thee removed! &gt; # My new container [REMOVED] &#x2F;&#x2F; all contents too! There&#x27;s more. TERSE makes it exceeding easy for the AI to do stuff with state. The MCP has one main op where these two things are sent *together* 1) state declarations 2) state queries (post-application of declarations and results unioned) BTW, to query all state, wait for it... &gt; ? &#x2F;&#x2F; Not that you want do this often! TERSE has a full object model for (de)serialization. A reference Python implementation of the full specification is also included. &quot;&quot;&quot; ## Example apps included(to help get you started; in the monorepo) ### TERSE MCP(&quot;store anything you want locally for your AI&quot;) ### TERSE Memory(a generalist; modify your own) ### TERSE Brain &quot;A Karpathy-brain compatible API but with TERSE as the backing store. 1&#x2F;6th token use and 1&#x2F;8th the number of tool calls!&quot; ### Misc TERSE Browser(query-response UI; great for testing) VS Code syntax highlighter(vsix included) ## Reminders Terse is pre-release(alpha)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/terse-lang/terse",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49045760",
+    "createdAt": "2026-07-25T10:10:49.707Z"
+  },
+  {
     "slug": "superres-fra-github",
     "title": "Superres-fra",
     "shortDescription": "python notebook super resolution",
