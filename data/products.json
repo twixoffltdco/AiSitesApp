@@ -1,5 +1,27 @@
 [
   {
+    "slug": "wb-github",
+    "title": "WB",
+    "shortDescription": "一个标签页，收纳你全部的开发者工具。24 个单文件、零依赖、本地优先的开源工具，下载即用。",
+    "fullDescription": "一个标签页，收纳你全部的开发者工具。24 个单文件、零依赖、本地优先的开源工具，下载即用。\n\nАвтор: wangzifan396-wzf. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://wangzifan396-wzf.github.io/WB/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "dashboard",
+      "developer-tools",
+      "html",
+      "javascript",
+      "nano-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1310203232",
+    "createdAt": "2026-07-25T14:46:24.772Z"
+  },
+  {
     "slug": "re-identification-fr-github",
     "title": "Re-Identification-fr",
     "shortDescription": "python notebook ReId project",
