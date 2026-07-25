@@ -1,5 +1,109 @@
 [
   {
+    "slug": "superres-fra-github",
+    "title": "Superres-fra",
+    "shortDescription": "python notebook super resolution",
+    "fullDescription": "python notebook super resolution\n\nАвтор: Morteza-Asadi-Shalmaiy. Найдено в GitHub Trending (AI-тематика). ⭐ 13 звёзд.",
+    "url": "https://github.com/Morteza-Asadi-Shalmaiy/Superres-fra",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "basicsr",
+      "cctv",
+      "cctv-cameras",
+      "cctv-detection",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1310665467",
+    "createdAt": "2026-07-25T08:29:48.801Z"
+  },
+  {
+    "slug": "reid-fra-github",
+    "title": "Reid-fra",
+    "shortDescription": "python notebook ReId project",
+    "fullDescription": "python notebook ReId project\n\nАвтор: Morteza-Asadi-Shalmaiy. Найдено в GitHub Trending (AI-тематика). ⭐ 12 звёзд.",
+    "url": "https://github.com/Morteza-Asadi-Shalmaiy/Reid-fra",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "cctv",
+      "cctv-cameras",
+      "cctv-detection",
+      "cctv-monitoring",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1310760542",
+    "createdAt": "2026-07-25T08:29:48.801Z"
+  },
+  {
+    "slug": "antispoofing-fra-github",
+    "title": "antispoofing-fra",
+    "shortDescription": "python notebook anti spoofing facial recognition",
+    "fullDescription": "python notebook anti spoofing facial recognition\n\nАвтор: Morteza-Asadi-Shalmaiy. Найдено в GitHub Trending (AI-тематика). ⭐ 11 звёзд.",
+    "url": "https://github.com/Morteza-Asadi-Shalmaiy/antispoofing-fra",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "google-colab",
+      "insightface",
+      "minifasnet",
+      "numpy",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1310632392",
+    "createdAt": "2026-07-25T08:29:48.801Z"
+  },
+  {
+    "slug": "facial-recognition-pipelin-github",
+    "title": "facial-recognition-pipelin",
+    "shortDescription": "python notebook facial recognitition ",
+    "fullDescription": "python notebook facial recognitition \n\nАвтор: Morteza-Asadi-Shalmaiy. Найдено в GitHub Trending (AI-тематика). ⭐ 11 звёзд.",
+    "url": "https://github.com/Morteza-Asadi-Shalmaiy/facial-recognition-pipelin",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "codeformer",
+      "gfpgan",
+      "google-colab",
+      "insightface",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1309902610",
+    "createdAt": "2026-07-25T08:29:48.801Z"
+  },
+  {
+    "slug": "ts-compiler-knowledge-graph-reducing-ai-tokens-about-90-hn",
+    "title": "TS Compiler Knowledge Graph reducing AI tokens about 90%",
+    "shortDescription": "Проект «TS Compiler Knowledge Graph reducing AI tokens about 90%», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «TS Compiler Knowledge Graph reducing AI tokens about 90%», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/samchon/ttsc/tree/master/packages/graph",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49045581",
+    "createdAt": "2026-07-25T08:29:48.635Z"
+  },
+  {
     "slug": "ai-anime-finder-natural-language-semantic-search-for-anilist-hn",
     "title": "AI Anime Finder – Natural language semantic search for AniList",
     "shortDescription": "Проект «AI Anime Finder – Natural language semantic search for AniList», опубликован сообществом Hacker News.",
