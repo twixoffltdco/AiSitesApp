@@ -1,5 +1,43 @@
 [
   {
+    "slug": "ai-roadmap-github",
+    "title": "ai-roadmap",
+    "shortDescription": "A free, open-source roadmap to learn AI from zero — 34 lessons from your first line of Python to shipping an LLM app. Read on the web or st…",
+    "fullDescription": "A free, open-source roadmap to learn AI from zero — 34 lessons from your first line of Python to shipping an LLM app. Read on the web or straight from the Markdown.\n\nАвтор: sumitsingh4411. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://sumitsingh4411.github.io/ai-roadmap",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-for-beginners",
+      "artificial-intelligence",
+      "data-science",
+      "deep-learning",
+      "free-course",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1312167111",
+    "createdAt": "2026-07-25T20:48:18.716Z"
+  },
+  {
+    "slug": "open-source-ai-bookmark-manager-for-busy-people-hn",
+    "title": "Open-source AI bookmark manager for busy people",
+    "shortDescription": "Проект «Open-source AI bookmark manager for busy people», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Open-source AI bookmark manager for busy people», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/rortan134/cache-app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49050909",
+    "createdAt": "2026-07-25T20:48:18.610Z"
+  },
+  {
     "slug": "korugan-github",
     "title": "korugan",
     "shortDescription": "AI-powered open-source edge security platform for Cloudflare, CDN, DNS, WAF and infrastructure automation.",
