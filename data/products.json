@@ -1,5 +1,21 @@
 [
   {
+    "slug": "brolly-a-plain-text-weather-forecast-site-hn",
+    "title": "Brolly, a plain-text weather forecast site",
+    "shortDescription": "The UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly redu…",
+    "fullDescription": "The UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly reduced its usability for me, and left me wanting an ‘at a glance’ weather site. I made https:&#x2F;&#x2F;brolly.sh , a minimalist, plain text weather forecasting site. You can use it to view weather from around the world, with: 7 day forecast; Previous day log (so you can confirm it definitely was cooler &#x2F; hotter &#x2F; wetter &#x2F; drier yesterday!); Hourly rain, wind, temperature, conditions; Hourly UV, air quality and pollen, including pollen type specific forecasts within the EU &#x2F; UK; Location search and last 5 locations; Location specific units. I mostly made the site for myself, if anyone else also benefits from it that’s an added advantage. You can check out the weather in York, UK at https:&#x2F;&#x2F;brolly.sh&#x2F;forecast&#x2F;RWFP2qW8 , or search for a location at https:&#x2F;&#x2F;brolly.sh The site is deliberately styled as a single long scrollable column, to work on mobile phones. You can view it on desktop too, there&#x27;s just a lot of horizontal padding. I naturally took a lot of inspiration from plaintextsports.com. Despite not being a sports fan, I love its aesthetic. But, you&#x27;ll hopefully see that this site isn&#x27;t a rip off, and has its own deliberate look and feel. Visualisations are really important to showing information at a glance. I spent a lot of time designing the different visualisations and making them work with only characters. My favourite is the hourly heat map used for pollen count. It&#x27;s also frustrating to have an interactive site, where you can&#x27;t share a page with a friend and have them see what you&#x27;re seeing. To solve this, all page state (i.e. location, selected day, expanded &#x2F; collapsed sections), is stored in the URL. You can share or bookmark the specific view, and know that you&#x27;ll always be able to come back to it. The site uses PocketBase. It’s written in Go and plain HTML&#x2F;JavaScript&#x2F;CSS. All pages are backend rendered, with light JavaScript to handle re-loading content without page jumps when using interactive features like next &#x2F; previous day navigation. Weather forecasts are fetched from open-meteo.com, which has a very generous free tier. However, I also built a custom LRU cache on top of PocketBase’s SQLite DB to cache forecasts for 5 minutes, and avoid putting unnecessary pressure on the open-meteo API.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://brolly.sh/forecast/RWFP2qW8",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49049693",
+    "createdAt": "2026-07-25T18:30:11.418Z"
+  },
+  {
     "slug": "cubest-github",
     "title": "cubest",
     "shortDescription": "cubest",
