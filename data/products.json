@@ -1,5 +1,140 @@
 [
   {
+    "slug": "awas-agent-github",
+    "title": "awas-agent",
+    "shortDescription": "Terminal-based AI assistant & multi-platform gateway daemon (Telegram & Discord) supporting 4 reasoning agent modes, per-user SQLite sessio…",
+    "fullDescription": "Terminal-based AI assistant & multi-platform gateway daemon (Telegram & Discord) supporting 4 reasoning agent modes, per-user SQLite session storage, and persistent memory.\n\nАвтор: jimbon25. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://www.npmjs.com/package/awas-agent",
+    "category": "chatbot",
+    "tags": [
+      "agent",
+      "ai",
+      "assistant",
+      "cli",
+      "coding-assistant",
+      "discord-bot",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1310681791",
+    "createdAt": "2026-07-25T00:10:40.483Z"
+  },
+  {
+    "slug": "shopify-dawn-toolkit-github",
+    "title": "shopify-dawn-toolkit",
+    "shortDescription": "Starter kit for Shopify Dawn theme forks: Claude skills, QA agent, and project doc templates, drop-in ready for new client builds.",
+    "fullDescription": "Starter kit for Shopify Dawn theme forks: Claude skills, QA agent, and project doc templates, drop-in ready for new client builds.\n\nАвтор: Jay4922. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Jay4922/shopify-dawn-toolkit",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "js",
+      "shopify",
+      "skills",
+      "tailwindcss",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1310757460",
+    "createdAt": "2026-07-25T00:10:40.483Z"
+  },
+  {
+    "slug": "agentfactory-github",
+    "title": "agentfactory",
+    "shortDescription": "Daemonless session manager for terminal AI agents — live status, lifecycle, and agent-to-agent coordination on tmux.",
+    "fullDescription": "Daemonless session manager for terminal AI agents — live status, lifecycle, and agent-to-agent coordination on tmux.\n\nАвтор: compuficial. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "http://agentfactory.sh/",
+    "category": "developer",
+    "tags": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1310476506",
+    "createdAt": "2026-07-25T00:10:40.483Z"
+  },
+  {
+    "slug": "calpt-github",
+    "title": "calpt",
+    "shortDescription": "TI-84 Plus does real calculus over a phone hotspot — cloud SymPy brain, LLM as translator only, security-hardened. Educational hardware+AI…",
+    "fullDescription": "TI-84 Plus does real calculus over a phone hotspot — cloud SymPy brain, LLM as translator only, security-hardened. Educational hardware+AI build.\n\nАвтор: P1rate5ec. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/P1rate5ec/calpt",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "articl",
+      "calculator",
+      "education",
+      "esp32",
+      "esp32-c3",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1309564539",
+    "createdAt": "2026-07-25T00:10:40.483Z"
+  },
+  {
+    "slug": "onewayinterview-type-a-job-role-ai-builds-the-async-video-interview-hn",
+    "title": "OneWayInterview – type a job role, AI builds the async video interview",
+    "shortDescription": "Проект «OneWayInterview – type a job role, AI builds the async video interview», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «OneWayInterview – type a job role, AI builds the async video interview», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://onewayinterview.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49042922",
+    "createdAt": "2026-07-25T00:10:38.194Z"
+  },
+  {
+    "slug": "i-rebuilt-microsoft-comic-chats-layout-engine-in-one-html-file-hn",
+    "title": "I rebuilt Microsoft Comic Chat's layout engine in one HTML file",
+    "shortDescription": "I used Comic Chat in 1996 and never got over it. So when Microsoft put the source up last week, I wanted it back the way I remembered it: s…",
+    "fullDescription": "I used Comic Chat in 1996 and never got over it. So when Microsoft put the source up last week, I wanted it back the way I remembered it: same engine, browser tab, no install, works on a phone. I do not write or read code. I&#x27;m the proverbial &quot;product manager.&quot; So, I have to thank both GPT 5.6 and Fable 5 &#x2F; Opus 4.8 (just before they released Opus 5 today). I aimed to stay faithful to the original as much as I could and extend it intelligibly. It&#x27;s not IRC, but you can connect with up to 10 people in a secure (E2E encrypted), ephemeral group chat. Sorry, but I&#x27;m not sure who uses IRC anymore. I don&#x27;t. ;) One link, up to ten friends, everyone typing into the same strip live. Names, lines and uploaded backdrops are encrypted in your browser with AES-GCM through WebCrypto before any of it leaves. The relay is a Cloudflare Durable Object that orders events and passes them along, and it cannot read a line of your comic. A room carries separate keys for the script and for uploaded images, plus a third derived with HKDF that proves you belong without the real key going on the wire. Keys are non-extractable and ride in the URL fragment, which a browser never sends to a server. Security was not an afterthought with this. It is one HTML file. Nothing is emulated, there is no WASM, and the constants are reproduced from the source by hand rather than compiled. There is a &quot;For nerds&quot; tab in the app with the routines, the geometry and the crypto behind the shared rooms, etc., so I will let the page answer that rather than paste it here. Comic Sans is kinda optional. Barely. I&#x27;m down for constructive feedback and viable suggestions &#x2F; bug reports. Enjoy!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://arcade.pirillo.com/comic-chatter.html",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49042872",
+    "createdAt": "2026-07-25T00:10:38.194Z"
+  },
+  {
+    "slug": "evidence-graph-type-checking-for-the-specs-your-ai-agent-implements-hn",
+    "title": "Evidence Graph – type checking for the specs your AI agent implements",
+    "shortDescription": "Проект «Evidence Graph – type checking for the specs your AI agent implements», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Evidence Graph – type checking for the specs your AI agent implements», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/samchon/lint-plugin-evidence",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49042719",
+    "createdAt": "2026-07-25T00:10:38.194Z"
+  },
+  {
     "slug": "kalytera-find-out-why-your-ai-agent-failed-step-by-step-hn",
     "title": "Kalytera – Find out why your AI agent failed, step-by-step",
     "shortDescription": "Проект «Kalytera – Find out why your AI agent failed, step-by-step», опубликован сообществом Hacker News.",
