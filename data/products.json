@@ -1,5 +1,43 @@
 [
   {
+    "slug": "drift-github",
+    "title": "Drift",
+    "shortDescription": "Desktop coding agent using the OpenCode agent engine",
+    "fullDescription": "Desktop coding agent using the OpenCode agent engine\n\nАвтор: kylepelham. Найдено в GitHub Trending (AI-тематика). ⭐ 14 звёзд.",
+    "url": "https://github.com/kylepelham/Drift/releases",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "coding-agent",
+      "desktop",
+      "mcp",
+      "opencode",
+      "rust",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1311494325",
+    "createdAt": "2026-07-25T16:02:24.809Z"
+  },
+  {
+    "slug": "i-built-remembered-checkout-for-voice-calls-hn",
+    "title": "I built remembered checkout for Voice calls",
+    "shortDescription": "Ringup is built to simplify voice payments. My hypothesis is Voice AI will lead to an explosion in people transacting over phone calls. Rin…",
+    "fullDescription": "Ringup is built to simplify voice payments. My hypothesis is Voice AI will lead to an explosion in people transacting over phone calls. Ringup helps consumers save their card details once and use it everywhere. It helps merchants get payments directly to their processor. And it helps developers by reducing integration complexity. Try it if you&#x27;re a developer building Voice AI.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ringup.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49048730",
+    "createdAt": "2026-07-25T16:02:24.792Z"
+  },
+  {
     "slug": "wb-github",
     "title": "WB",
     "shortDescription": "一个标签页，收纳你全部的开发者工具。24 个单文件、零依赖、本地优先的开源工具，下载即用。",
