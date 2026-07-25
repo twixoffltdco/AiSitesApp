@@ -1,5 +1,81 @@
 [
   {
+    "slug": "korugan-github",
+    "title": "korugan",
+    "shortDescription": "AI-powered open-source edge security platform for Cloudflare, CDN, DNS, WAF and infrastructure automation.",
+    "fullDescription": "AI-powered open-source edge security platform for Cloudflare, CDN, DNS, WAF and infrastructure automation.\n\nАвтор: behramkendra. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://korugan.com.tr",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "automation",
+      "bunnycdn",
+      "cdn",
+      "cloudflare",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1311464862",
+    "createdAt": "2026-07-25T19:47:01.080Z"
+  },
+  {
+    "slug": "darkfactory-github",
+    "title": "darkfactory",
+    "shortDescription": "A modular, Postgres-first, AI-native application foundation.",
+    "fullDescription": "A modular, Postgres-first, AI-native application foundation.\n\nАвтор: jeffscottward. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/jeffscottward/darkfactory",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "application-template",
+      "boilerplate",
+      "civet",
+      "cloudflare-workers",
+      "monorepo",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1309386575",
+    "createdAt": "2026-07-25T19:47:01.080Z"
+  },
+  {
+    "slug": "minesweeper-raycasted-hn",
+    "title": "Minesweeper Raycasted",
+    "shortDescription": "Проект «Minesweeper Raycasted», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Minesweeper Raycasted», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49050803",
+    "createdAt": "2026-07-25T19:47:01.031Z"
+  },
+  {
+    "slug": "pastport-your-iphone-left-an-airbnb-hn",
+    "title": "Pastport – Your iPhone Left an Airbnb",
+    "shortDescription": "I got up and was switching between Airbnbs, already annoyed at the Airbnb app sending me back and forth to Safari and Google Maps. Safari e…",
+    "fullDescription": "I got up and was switching between Airbnbs, already annoyed at the Airbnb app sending me back and forth to Safari and Google Maps. Safari even warned me: “You are leaving airbnb.com.” Later, I applied my agents to my Safari history. It showed how many times I edited a flight booking, when my iPhone left an Airbnb, and that I had requested wheelchair assistance. That last detail was easy to explain: I was recovering from a surfing injury. That became Pastport—not another chatbot for browser history, but a way to see the patterns Safari had quietly kept.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/anupamchugh/pastport",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49050622",
+    "createdAt": "2026-07-25T19:47:01.031Z"
+  },
+  {
     "slug": "brolly-a-plain-text-weather-forecast-site-hn",
     "title": "Brolly, a plain-text weather forecast site",
     "shortDescription": "The UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly redu…",
