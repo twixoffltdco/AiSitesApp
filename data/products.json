@@ -1,5 +1,75 @@
 [
   {
+    "slug": "llmwiki-harness-github",
+    "title": "llmwiki-harness",
+    "shortDescription": "AI-проект с GitHub без описания.",
+    "fullDescription": "AI-проект с GitHub без описания.\n\nАвтор: cookyman74. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/cookyman74/llmwiki-harness",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude-code",
+      "knowledge-management",
+      "llm",
+      "markdown",
+      "note-taking",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1312406410",
+    "createdAt": "2026-07-26T06:34:06.658Z"
+  },
+  {
+    "slug": "i-built-an-ai-that-roasts-github-profiles-hn",
+    "title": "I built an AI that roasts GitHub profiles",
+    "shortDescription": "I built GitHub Roast as a fun weekend project.I originally shared it on X just for fun, but it ended up getting around 1,200 visitors a day…",
+    "fullDescription": "I built GitHub Roast as a fun weekend project.I originally shared it on X just for fun, but it ended up getting around 1,200 visitors a day, so I kept improving it. I&#x27;d love to hear what the HN community thinks—especially if there are ways to make the feedback more useful and less gimmicky.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://gitroast-kappa.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49055342",
+    "createdAt": "2026-07-26T06:34:06.416Z"
+  },
+  {
+    "slug": "integrate-any-cli-agent-into-any-terminal-hn",
+    "title": "Integrate any CLI agent into any terminal",
+    "shortDescription": "Whether at work as a software engineer or in my private life, I kept running into the same problem: While working in my terminal, I’d wish…",
+    "fullDescription": "Whether at work as a software engineer or in my private life, I kept running into the same problem: While working in my terminal, I’d wish I could use AI to make sense of recent output or compose a command. Copying and pasting context between a chat and the terminal was tedious and preemptively running a full CLI coding agent threw away all the efficiency of working in a shell. Both workflows were far from ideal. What I really wanted was for the coding agents I already used to pop into my terminal when needed, staying invisible the rest of the time. I couldn&#x27;t find any existing tools that fit. iTerm2’s AI features don&#x27;t let me use my existing AI subscriptions, Warp requires changing your entire terminal emulator and workflow (and a new subscription). I wanted a transparent wrapper that could work with my existing tools, staying completely invisible until summoned with a shortcut. Architecture I started from the codebase of the excellent mprocs by pvolok to handle terminal emulation and rendering. I used Claude and Codex to strip out the mprocs-specific code, add an on-demand overlay for the AI&#x27;s terminal, and add an MCP server. Using CLI flags, the MCP server is injected into the AI agent’s config and instructions are added to the system prompt that explain how the AI should interact with the terminal. The agent can retrieve terminal content, metadata and history, and send input to be approved by the user before being sent to the guest terminal. The AI is also given a CLI command with all the same functionality as the MCP server for agents that don&#x27;t support MCP or for piping the output instead of dumping it into the AI’s context. The Hard Part: Making it Truly Transparent If you are a heavy terminal user, you know how fragile TUI rendering can be. Making the overlay completely seamless required forking the ratatui TUI toolkit and the rat-salsa widget library to solve three low-level problems: Terminal Scrollback: Most TUIs manage their own buffer without anything going into the terminal’s scrollback, which was a total nonstarter. After several failed attempts to reliably push lines into the scrollback, I landed on using the old-fashioned way: writing them at the top of the screen and appending enough newlines to force a native terminal scroll. This required modifications to ratatui, the TUI framework, to enable it to render this way while maintaining its internal buffer. Broken Copy-Paste: Empty space at the end of lines was being written to the terminal as literal space characters, which broke native text selection and copying. I fixed this by clearing the rest of the line upon rendering the first empty cell, then continuing from the next line. Every line ending was being copied as a line feed. I fixed that by ensuring that ratatui used the host terminal for line wrapping instead of moving the cursor to the beginning of the next line. I hope you&#x27;ll give it a try! Quick Stats: License: MIT Language: Written in Rust (for efficiency, explicit error handling, and letting the type system enforce invariants). Privacy: Zero telemetry, tracking, or data collection. Logs are stored locally to enable debugging. Security: The MCP server uses an http server on 127.0.0.1 that is protected by a bearer auth with the secret generated at runtime and passed to the AI agent via environment variable. AI agents that support auth from an environment variable can use it directly and those that don&#x27;t can use a terminai subcommands as a stdio MCP server which will read the env var and proxy requests to the http server. The CLI tool that offers the same tools as the MCP server operates the same way. Vibe coded: Unabashedly written mostly by Claude and Codex. I have given a lot of direction to the AI in terms of how to accomplish tasks and demanded extensive testing but most of the code has never been seen by human eyes. The resulting functionality and stability speak for themselves.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://terminai.app",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49055227",
+    "createdAt": "2026-07-26T06:34:06.416Z"
+  },
+  {
+    "slug": "hydra-a-local-first-trust-control-plane-that-routes-ai-by-confidence-hn",
+    "title": "Hydra, a local-first trust control plane that routes AI by confidence",
+    "shortDescription": "Проект «Hydra, a local-first trust control plane that routes AI by confidence», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Hydra, a local-first trust control plane that routes AI by confidence», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://hydra.uvansa.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49055074",
+    "createdAt": "2026-07-26T06:34:06.416Z"
+  },
+  {
     "slug": "approving-github",
     "title": "approving",
     "shortDescription": "Compose coding agents into workflows you can trust",
