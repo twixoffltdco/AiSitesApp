@@ -1,5 +1,53 @@
 [
   {
+    "slug": "hart-os-an-open-source-ai-os-built-so-frontier-ai-needs-no-datacenter-hn",
+    "title": "HART OS – an open-source AI OS built so frontier AI needs no datacenter",
+    "shortDescription": "Проект «HART OS – an open-source AI OS built so frontier AI needs no datacenter», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «HART OS – an open-source AI OS built so frontier AI needs no datacenter», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 7 баллов.",
+    "url": "https://github.com/hertz-ai/HARTOS",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49061015",
+    "createdAt": "2026-07-26T19:43:03.198Z"
+  },
+  {
+    "slug": "modelfuzz-open-source-runtime-guardrails-for-ai-agents-hn",
+    "title": "ModelFuzz – Open-source runtime guardrails for AI agents",
+    "shortDescription": "Проект «ModelFuzz – Open-source runtime guardrails for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ModelFuzz – Open-source runtime guardrails for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.modelfuzz.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49060845",
+    "createdAt": "2026-07-26T19:43:03.198Z"
+  },
+  {
+    "slug": "readability-for-web-and-pdfs-with-tts-and-local-ai-summary-hn",
+    "title": "Readability for web and PDFs with TTS and local AI summary",
+    "shortDescription": "Проект «Readability for web and PDFs with TTS and local AI summary», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Readability for web and PDFs with TTS and local AI summary», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/ldenoue/readability-read-aloud-web-pdf-ai-summary",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49060794",
+    "createdAt": "2026-07-26T19:43:03.198Z"
+  },
+  {
     "slug": "boffin-staff-engineer-layer-for-ai-coding-agents-hn",
     "title": "Boffin – Staff-engineer layer for AI coding agents",
     "shortDescription": "Staff-engineer layer for AI coding agents: routes per-edit architectural constraints for AI coding agents",
