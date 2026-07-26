@@ -1,5 +1,146 @@
 [
   {
+    "slug": "approving-github",
+    "title": "approving",
+    "shortDescription": "Compose coding agents into workflows you can trust",
+    "fullDescription": "Compose coding agents into workflows you can trust\n\nАвтор: cocofhu. Найдено в GitHub Trending (AI-тематика). ⭐ 71 звёзд.",
+    "url": "https://www.approving-ai.com",
+    "category": "developer",
+    "tags": [
+      "agent",
+      "ai",
+      "browser-automation",
+      "harness",
+      "harness-ai",
+      "harness-ci",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1311174165",
+    "createdAt": "2026-07-26T03:32:29.933Z"
+  },
+  {
+    "slug": "ai-stock-pool-github",
+    "title": "ai-stock-pool",
+    "shortDescription": "AI industry-chain stock pool with US/A-share mapping, active discovery, policy pressure, and one-click deployment.",
+    "fullDescription": "AI industry-chain stock pool with US/A-share mapping, active discovery, policy pressure, and one-click deployment.\n\nАвтор: yaoleifly. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://stocks.mastersgo.cc",
+    "category": "developer",
+    "tags": [
+      "a-shares",
+      "ai",
+      "arxiv",
+      "cloudflare-workers",
+      "investment-research",
+      "stock-market",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1312446183",
+    "createdAt": "2026-07-26T03:32:29.933Z"
+  },
+  {
+    "slug": "ai-integrated-personalized-shopping-platform-github",
+    "title": "AI-integrated-Personalized-shopping-platform-",
+    "shortDescription": "AI-powered e-commerce platform built with Next.js, TypeScript, and Supabase — conversational product search, personalized recommendations,…",
+    "fullDescription": "AI-powered e-commerce platform built with Next.js, TypeScript, and Supabase — conversational product search, personalized recommendations, and a full admin dashboard for orders, inventory, and reports.(nextjs | typescript | supabase | tailwindcss | ecommerce | ai | react | server-actions | admin-dashboard | framer-motion)\n\nАвтор: Crusty-chirayu. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://ai-integrated-personalized-shopping.vercel.app",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "assistant",
+      "chatbot",
+      "e-commerce",
+      "personalization",
+      "quickchat",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1311174514",
+    "createdAt": "2026-07-26T03:32:29.933Z"
+  },
+  {
+    "slug": "kition-github",
+    "title": "kition",
+    "shortDescription": "Open-source desktop workspace for Markdown documents, Tables, AI agents, browser research, and visual workflows.",
+    "fullDescription": "Open-source desktop workspace for Markdown documents, Tables, AI agents, browser research, and visual workflows.\n\nАвтор: KitionAI. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://kition.ai",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "automation",
+      "desktop-app",
+      "document-management",
+      "electron",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1311664525",
+    "createdAt": "2026-07-26T03:32:29.933Z"
+  },
+  {
+    "slug": "harntnvim-github",
+    "title": "harnt.nvim",
+    "shortDescription": "Drive any native-TUI coding agent in Neovim at full fidelity via reverse-MCP.",
+    "fullDescription": "Drive any native-TUI coding agent in Neovim at full fidelity via reverse-MCP.\n\nАвтор: PieterPel. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/PieterPel/harnt.nvim",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "mcp",
+      "neovim",
+      "neovim-plugin",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1311333200",
+    "createdAt": "2026-07-26T03:32:29.934Z"
+  },
+  {
+    "slug": "rules-that-stop-ai-coding-agents-from-breaking-working-code-hn",
+    "title": "Rules that stop AI coding agents from breaking working code",
+    "shortDescription": "Проект «Rules that stop AI coding agents from breaking working code», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Rules that stop AI coding agents from breaking working code», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/avenna01-ceo/claude-code-survival-kr",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49054070",
+    "createdAt": "2026-07-26T03:32:29.866Z"
+  },
+  {
+    "slug": "axtary-content-authorization-for-ai-agents-hn",
+    "title": "Axtary – Content Authorization for AI Agents",
+    "shortDescription": "Проект «Axtary – Content Authorization for AI Agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Axtary – Content Authorization for AI Agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://axtary.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49053543",
+    "createdAt": "2026-07-26T03:32:29.866Z"
+  },
+  {
     "slug": "actionrail-runtime-valueaction-grounding-framework-for-ai-agents-hn",
     "title": "ActionRail, Runtime value/action grounding framework for AI agents",
     "shortDescription": "Проект «ActionRail, Runtime value/action grounding framework for AI agents», опубликован сообществом Hacker News.",
