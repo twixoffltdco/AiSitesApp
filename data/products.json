@@ -1,5 +1,43 @@
 [
   {
+    "slug": "gtm-cofounder-github",
+    "title": "gtm-cofounder",
+    "shortDescription": "The GTM co-founder you don't have. Open-source GTM Agent Skills for technical AI/dev-tool founders building alone: positioning, first users…",
+    "fullDescription": "The GTM co-founder you don't have. Open-source GTM Agent Skills for technical AI/dev-tool founders building alone: positioning, first users, launch, pricing. Built from real dev-tool GTM experience, sharpened by Frankl & Czakon. MIT.\n\nАвтор: AIDevGTM. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://gtmcofounder.com",
+    "category": "developer",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "ai-founders",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1311068285",
+    "createdAt": "2026-07-26T12:07:57.952Z"
+  },
+  {
+    "slug": "wmux-a-workspace-multiplexer-for-ai-agents-hn",
+    "title": "Wmux – A workspace multiplexer for AI agents",
+    "shortDescription": "Проект «Wmux – A workspace multiplexer for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Wmux – A workspace multiplexer for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/openwong2kim/wmux",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49056854",
+    "createdAt": "2026-07-26T12:07:57.868Z"
+  },
+  {
     "slug": "sip-exporter-passive-ebpf-based-siprtp-monitoring-with-prometheus-hn",
     "title": "Sip-exporter – passive eBPF-based SIP/RTP monitoring with Prometheus",
     "shortDescription": "Проект «Sip-exporter – passive eBPF-based SIP/RTP monitoring with Prometheus», опубликован сообществом Hacker News.",
