@@ -1,5 +1,59 @@
 [
   {
+    "slug": "openclaude-improved-github",
+    "title": "openclaude-improved",
+    "shortDescription": "runs anywhere. uses anything",
+    "fullDescription": "runs anywhere. uses anything\n\nАвтор: 0xwilliamortiz. Найдено в GitHub Trending (AI-тематика). ⭐ 25 звёзд.",
+    "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+    "category": "chatbot",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "ai-agent",
+      "ai-coding",
+      "ai-coding-agent",
+      "ai-coding-agents",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1313191574",
+    "createdAt": "2026-07-26T23:01:58.780Z"
+  },
+  {
+    "slug": "gg-translator-turn-gaming-shit-talk-into-friendly-phrases-hn",
+    "title": "GG Translator – Turn gaming shit talk into friendly phrases",
+    "shortDescription": "Flaming teammates usually results in them cooperating even less. But sometimes you just need to let the devil out of you. Instead of ventin…",
+    "fullDescription": "Flaming teammates usually results in them cooperating even less. But sometimes you just need to let the devil out of you. Instead of venting on your teammates and pissing them off, vent into GG Translator and it will convert your toxic message into a friendly and constructive one to share with your team. https:&#x2F;&#x2F;ggtranslator.com My background is in building web apps with Elixir and Phoenix. I made GG Translator in early 2024 to see if I could build a desktop app in a language I had never used before (Rust) with the help of AI. It was a great exercise and I found out that I could. I used Tauri instead of Electron because it has a smaller footprint. I built the app but never released it because I wasn&#x27;t ready to support it. When GPT 5.6 came out earlier this month I pointed it at the old codebase and tasked it with rewriting that entire app (still in Rust using Tauri), modernizing, refactoring, and looking for any improvements that it could find. --- The app is a sneak peek of how an AI profanity filter might look like in the future. The ultimate integration would see it built into gaming platforms like Steam and PSN where it&#x27;s not only transforming your speech on demand, but it&#x27;s also able to transform incoming audio from your teammates into family friendly language so parents can feel better knowing their kids aren&#x27;t being bombarded with slurs when they let them play online multiplayer games. I also imagine an incredible opportunity for voice licensing allowing users to pay to unlock voices of their favorite streamers, actors, athletes, and characters for a limited time. Who wouldn&#x27;t want to sound like Samuel L. Jackson yelling about motherfucking noobs in their motherfucking lane? --- The biggest obstacle was code signing. I went through all the hurdles in 2024, paying for an expensive OV signing certificate and also paying for the Apple Developer program. For 2026 I decided that the OV signing certificate is a racket and I&#x27;m not going to pay for it again. I already have an Apple Developer account for another app so I didn&#x27;t have to pay extra to sign the macOS build. For Windows, the SmartScreen warnings when installing the app are a drag, but you can just tap more info and install it anyway.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ggtranslator.com",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49063031",
+    "createdAt": "2026-07-26T23:01:58.559Z"
+  },
+  {
+    "slug": "lexicon-a-free-grammarly-alternative-local-writing-assistant-hn",
+    "title": "Lexicon a free Grammarly alternative, local writing assistant",
+    "shortDescription": "Lexicon is a rich-text editor with grammar checking and AI writing tools (rewriting, tone shifting, and summarizing) that run entirely on y…",
+    "fullDescription": "Lexicon is a rich-text editor with grammar checking and AI writing tools (rewriting, tone shifting, and summarizing) that run entirely on your machine. No account, no API calls, and nothing uploaded. Grammar&#x2F;spelling&#x2F;punctuation checking runs through LanguageTool locally; the AI tools run through a small quantized model bundled with the app via llama.cpp, or your own Ollama server if you already run one. It&#x27;s a desktop app installer for Windows and macOS on the releases page, with an in-app auto-updater. Check it out: https:&#x2F;&#x2F;lexicon-writer.pages.dev&#x2F; MIT licensed. Repo: https:&#x2F;&#x2F;github.com&#x2F;AashishH15&#x2F;Lexicon Please let me know what you think of the app!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://lexicon-writer.pages.dev/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49062897",
+    "createdAt": "2026-07-26T23:01:58.559Z"
+  },
+  {
     "slug": "maginaryai-gets-seedance2-and-gpt-images2-support-hn",
     "title": "Maginary.ai gets seedance2 and GPT-images2 support",
     "shortDescription": "presenting maginary -- an image&#x2F;video generator with a midjourney-like prompt syntax, using 40+ underlying models and acts like an abs…",
