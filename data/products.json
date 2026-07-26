@@ -1,5 +1,65 @@
 [
   {
+    "slug": "decart-live-pro-github",
+    "title": "Decart-Live-PRO",
+    "shortDescription": "Professional real-time AI face & body transformation for live streaming. Commercial Decart Live PRO powered by Lucy 2.5. Private API, verif…",
+    "fullDescription": "Professional real-time AI face & body transformation for live streaming. Commercial Decart Live PRO powered by Lucy 2.5. Private API, verified accounts & custom development.\n\nАвтор: Promande. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://sdcourse.tb.ru/lucy-edit-decart-ai",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-streaming",
+      "decart",
+      "decartlivecam",
+      "decartlivepro",
+      "deepfake",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1311720244",
+    "createdAt": "2026-07-26T09:10:15.580Z"
+  },
+  {
+    "slug": "deer-workflow-github",
+    "title": "deer-workflow",
+    "shortDescription": "An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+    "fullDescription": "An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.\n\nАвтор: deerwork-ai. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://deerwork-ai.github.io/deer-workflow/",
+    "category": "productivity",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-coding",
+      "bun",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1312488824",
+    "createdAt": "2026-07-26T09:10:15.580Z"
+  },
+  {
+    "slug": "screenfocus-keyboard-focus-follows-the-pointer-across-mac-displays-hn",
+    "title": "ScreenFocus – keyboard focus follows the pointer across Mac displays",
+    "shortDescription": "I have a multi-monitor setup and spend a lot of time typing in Codex and other AI agents. When I move to another monitor to run a shortcut,…",
+    "fullDescription": "I have a multi-monitor setup and spend a lot of time typing in Codex and other AI agents. When I move to another monitor to run a shortcut, focus often stays in Codex or another text app, so the shortcut runs in the wrong place. I asked ChatGPT if there was a macOS setting or free app for this. It couldn&#x27;t find one that did exactly what I wanted, so I asked it to prototype one. It built a working version in one go. I then used Codex to add sensible defaults, focus protection, an optional display border, packaging, documentation, an MPL 2.0 license, a logo, and screenshots. ScreenFocus is the result: keyboard focus follows the pointer across displays while global shortcuts keep working. This was my first native Mac app, and I used GPT-5.6 Sol with High reasoning. If you check out the README, help docs, and other Markdown files, you might be surprised by how complete it feels. I also added Launch at Login, full-border and corner-marker styles, custom colors, automatic pausing when only one monitor is connected, and a few other settings.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/therohitdas/ScreenFocus",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49055525",
+    "createdAt": "2026-07-26T09:10:15.467Z"
+  },
+  {
     "slug": "llmwiki-harness-github",
     "title": "llmwiki-harness",
     "shortDescription": "AI-проект с GitHub без описания.",
