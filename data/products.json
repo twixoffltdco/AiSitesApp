@@ -1,5 +1,21 @@
 [
   {
+    "slug": "sip-exporter-passive-ebpf-based-siprtp-monitoring-with-prometheus-hn",
+    "title": "Sip-exporter – passive eBPF-based SIP/RTP monitoring with Prometheus",
+    "shortDescription": "Проект «Sip-exporter – passive eBPF-based SIP/RTP monitoring with Prometheus», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Sip-exporter – passive eBPF-based SIP/RTP monitoring with Prometheus», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/aibudaevv/sip-exporter",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49056379",
+    "createdAt": "2026-07-26T10:58:17.749Z"
+  },
+  {
     "slug": "decart-live-pro-github",
     "title": "Decart-Live-PRO",
     "shortDescription": "Professional real-time AI face & body transformation for live streaming. Commercial Decart Live PRO powered by Lucy 2.5. Private API, verif…",
