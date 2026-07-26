@@ -1,5 +1,75 @@
 [
   {
+    "slug": "shakti-github",
+    "title": "shakti",
+    "shortDescription": "Shakti — AI-first Python web framework. Born in India, built for the world.",
+    "fullDescription": "Shakti — AI-first Python web framework. Born in India, built for the world.\n\nАвтор: shaktihq. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://shakti.adityabhat.in",
+    "category": "developer",
+    "tags": [
+      "admin-panel",
+      "ai",
+      "anthropic",
+      "async",
+      "india",
+      "jwt",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1312513731",
+    "createdAt": "2026-07-26T14:07:36.588Z"
+  },
+  {
+    "slug": "exercise-snack-reminders-for-iosandroid-no-server-one-time-purchase-hn",
+    "title": "Exercise snack reminders for iOS/Android, no server, one-time purchase",
+    "shortDescription": "I built Snack App for my wife. She works from home, and every night, she would feel stiff and creaky after sitting all day, so she decided…",
+    "fullDescription": "I built Snack App for my wife. She works from home, and every night, she would feel stiff and creaky after sitting all day, so she decided that she had to be less sedentary. Her idea was to break up her day with &quot;exercise snacks&quot; - formally defined as &quot;isolated ≤1-min bouts of vigorous exercise performed periodically throughout the day&quot; ( https:&#x2F;&#x2F;pubmed.ncbi.nlm.nih.gov&#x2F;34669625&#x2F; ) but really any kind of movement (a couple flights of stairs, a 5-minute walk, or a set of air squats) is better than nothing. So I wrote her an app that lets her set a goal and pick a reminder schedule. The app sends her notifications; she logs her snacks in the app; and every day she meets her goal extends her streak. Speaking of streaks, I forgot to do my Wordle one day and, to my horror, broke a 171-day streak, so I made Snack App&#x27;s streaks flexible. You can pause your streak anytime, and it&#x27;ll resume when you start logging snacks again. There&#x27;s also a built-in grace period, just in case you forget. The whole point is to help you feel less stiff and creaky, not to break your heart. I had knee surgery last month, so I&#x27;ve been using the app too, to help me stay on top of my physical therapy. I also set an exercise-specific goal of at least 30 push-ups a day so that I don&#x27;t wither away completely, since I can&#x27;t go climbing for at least a couple more months. App Store: https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;snack-app-exercise-reminders&#x2F;i... Google Play: https:&#x2F;&#x2F;play.google.com&#x2F;store&#x2F;apps&#x2F;details?id=com.wobblerllc... - No accounts, no ads, no subscription - 14-day free trial, then $4.99 one-time purchase if you want to keep logging snacks (you can always view your existing data) - Export your data as CSV anytime - Local-only (no server, your data lives in a SQLite database on your phone) - Optional automatic backup to &#x2F; restore from your personal iCloud or Google Drive (so your data is safe if your phone dies; open the app on a new phone, and you&#x27;ll be prompted to restore your data from a backup) - Manual backup to Dropbox or other cloud storage service, if you prefer - Tested with VoiceOver and TalkBack and against WCAG accessibility standards (I want the app to work as well for blind, DeafBlind, and low-vision users as it does for sighted users) The stack: Bun, Expo, expo-sqlite, Drizzle ORM, Gluestack UI, React Hook Form, Zod, Maestro for E2E testing, bun:test for unit testing Happy to answer questions about the stack, the streak design, or anything else.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://getsnack.app",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49058294",
+    "createdAt": "2026-07-26T14:07:36.501Z"
+  },
+  {
+    "slug": "i-built-gnoseed-free-flahscards-to-learn-k8s-devops-ai-and-more-hn",
+    "title": "I built Gnoseed – free flahscards to learn K8s, DevOps, AI and more",
+    "shortDescription": "Hi everybody, I created my personal weekend project Gnoseed to learn more about Kubernetes with spaced repetition. Very soon it evolved int…",
+    "fullDescription": "Hi everybody, I created my personal weekend project Gnoseed to learn more about Kubernetes with spaced repetition. Very soon it evolved into a small library of various topics about modern tech stack - AI&#x2F;LLMs, DevOps, Security, and anything I found interesting. Currently it has 47 decks and ~4000 questions. A bit more about the process: I create decks from the open documentations or free papers I found here or there. The decks are built with a custom made pipeline of skills to extract the data, select questions, creating distractors and verification. I&#x27;m curating the entire process. To keep cards up-to-date I have a weekly automated routine to check release notes of selected topics and curating new cards. From the beginning I also realized just the random algorithm to show cards is not very efficient, so I implemented two spaced-repetition algorithms SM-2 and FSRS. Would you like to check it and give me some feedback? It&#x27;s free, no sign-up needed\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://gnoseed.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49058280",
+    "createdAt": "2026-07-26T14:07:36.501Z"
+  },
+  {
+    "slug": "health-contexttimeline-builder-for-ai-mobile-app-hn",
+    "title": "Health context/timeline builder for AI (mobile app)",
+    "shortDescription": "Working on a mobile app for making reusable AI-ready health context - Simply a timeline of events&#x2F;facts - Events are natural language,…",
+    "fullDescription": "Working on a mobile app for making reusable AI-ready health context - Simply a timeline of events&#x2F;facts - Events are natural language, with fuzzy dates - Simple Apple Health insight extraction - Export as prompt - Local first, no account required The thinking is that, for most health queries to AI I want my personal health context to be part of the input. And don&#x27;t want to rewrite every time. Curious whether this approach makes sense to other people. Try the app and share your thoughts!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://apps.apple.com/us/app/kurozu-ai-health-context/id6788347862",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49058029",
+    "createdAt": "2026-07-26T14:07:36.501Z"
+  },
+  {
     "slug": "gtm-cofounder-github",
     "title": "gtm-cofounder",
     "shortDescription": "The GTM co-founder you don't have. Open-source GTM Agent Skills for technical AI/dev-tool founders building alone: positioning, first users…",
