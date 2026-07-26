@@ -1,5 +1,37 @@
 [
   {
+    "slug": "i-built-a-transparent-terminal-wrapper-for-unobtrusive-ai-hn",
+    "title": "I built a transparent terminal wrapper for unobtrusive AI",
+    "shortDescription": "I wanted a way to use my existing AI subscriptions as a terminal assistant to analyze shell output or help me with a complicated awk incant…",
+    "fullDescription": "I wanted a way to use my existing AI subscriptions as a terminal assistant to analyze shell output or help me with a complicated awk incantation from time to time without getting in my way the rest of the time. I couldn&#x27;t find anything existing that does this do I built it! I used pvolok&#x27;s excellent mprocs as a starting point and leaned heavily on Claude and Codex for coding all but the gnarliest parts while providing extensive guidance on how it should be implemented. I know that coding agents can run shell commands already but that puts the AI in the driver&#x27;s seat. Terminai let&#x27;s me be the driver, with codex or claude (or any other agent) sitting quietly in the backseat until I want its help. The hardest part was making it truly transparent. Most TUIs that embed a terminal break the terminal emulator&#x27;s native scrollback and frequently also break copying to the clipboard. I worked hard to make sure that that both of these work exactly as they would without terminai. Along the way I had to fork ratatui to change the way it renders in order to get both of these behaviors working. Tested on Mac and Linux as my daily driver and on Windows enough to see that it works. Quick install: brew install emosenkis&#x2F;tap&#x2F;terminai\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/emosenkis/terminai",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49058883",
+    "createdAt": "2026-07-26T15:38:09.316Z"
+  },
+  {
+    "slug": "cmem-persistent-memory-for-ai-coding-agents-hn",
+    "title": "CMEM – Persistent Memory for AI Coding Agents",
+    "shortDescription": "Проект «CMEM – Persistent Memory for AI Coding Agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «CMEM – Persistent Memory for AI Coding Agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://cmem.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49058789",
+    "createdAt": "2026-07-26T15:38:09.316Z"
+  },
+  {
     "slug": "shakti-github",
     "title": "shakti",
     "shortDescription": "Shakti — AI-first Python web framework. Born in India, built for the world.",
