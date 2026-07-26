@@ -1,5 +1,75 @@
 [
   {
+    "slug": "ai-workspace-pro-github",
+    "title": "ai-workspace-pro",
+    "shortDescription": "All-in-One AI Assistant — 12 AI tools in one dashboard. Streamlit, Gemini API, FAISS.",
+    "fullDescription": "All-in-One AI Assistant — 12 AI tools in one dashboard. Streamlit, Gemini API, FAISS.\n\nАвтор: ayeshamumtaz1057. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://ai-workspace-pro-yzpzbgg6sjkwmqtu2pui68.streamlit.app/",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "gemini",
+      "machine-learning",
+      "nlp",
+      "ocr",
+      "python",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1310602631",
+    "createdAt": "2026-07-26T16:56:47.360Z"
+  },
+  {
+    "slug": "thel-a-terminal-app-for-long-running-sessions-hn",
+    "title": "Thel, a terminal app for long running sessions",
+    "shortDescription": "The terminal app built for AI coding agents and other long-running sessions. thel keeps each session alive in the background and can anchor…",
+    "fullDescription": "The terminal app built for AI coding agents and other long-running sessions. thel keeps each session alive in the background and can anchor it to its own git worktree, so you can run a fleet of them at once and tell at a glance which one needs you. Currently for Linux only.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://thel.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49059916",
+    "createdAt": "2026-07-26T16:56:47.187Z"
+  },
+  {
+    "slug": "scanner-for-cellular-automata-rule-space-hn",
+    "title": "Scanner for cellular automata rule space",
+    "shortDescription": "Many years ago I was interested in cellular automata, inspired by Stephen Wolfram&#x27;s work. I dug into elementary CA and totalistic 3-st…",
+    "fullDescription": "Many years ago I was interested in cellular automata, inspired by Stephen Wolfram&#x27;s work. I dug into elementary CA and totalistic 3-state rules. But when I went to more states it was getting boring. Almost all of them are dead or chaotic or something that everybody has already seen. But somewhere inside there could be another 110, and nobody looked. Now that we have AI coding, I decided I can build something in that area, and an app for scanning rules was the obvious thing. I implemented an explorer with a bunch of filters: gliders, chaos, large structures, and custom search. The last one works backwards — you draw a pattern and a rule passes only if this pattern never occurs. I could not define &quot;interesting&quot;, but it was easy to say what disqualifies a rule. It also renders diagrams as big PNG. Demo: https:&#x2F;&#x2F;kypaku.github.io&#x2F;pages&#x2F;ca2026&#x2F; Source: https:&#x2F;&#x2F;github.com&#x2F;Kypaku&#x2F;ca2026\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://kypaku.github.io/pages/ca2026/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49059817",
+    "createdAt": "2026-07-26T16:56:47.187Z"
+  },
+  {
+    "slug": "cookbook-ai-turn-scattered-recipe-files-into-a-print-ready-cookbook-hn",
+    "title": "Cookbook AI – turn scattered recipe files into a print-ready cookbook",
+    "shortDescription": "Проект «Cookbook AI – turn scattered recipe files into a print-ready cookbook», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Cookbook AI – turn scattered recipe files into a print-ready cookbook», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://cookbookai.io/index.html",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49059433",
+    "createdAt": "2026-07-26T16:56:47.187Z"
+  },
+  {
     "slug": "i-built-a-transparent-terminal-wrapper-for-unobtrusive-ai-hn",
     "title": "I built a transparent terminal wrapper for unobtrusive AI",
     "shortDescription": "I wanted a way to use my existing AI subscriptions as a terminal assistant to analyze shell output or help me with a complicated awk incant…",
