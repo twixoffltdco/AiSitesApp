@@ -1,5 +1,75 @@
 [
   {
+    "slug": "aidanmu-github",
+    "title": "aidanmu",
+    "shortDescription": "AI 桌面直播弹幕姬 — 让 AI 一边看你的屏幕一边像直播观众一样发弹幕吐槽",
+    "fullDescription": "AI 桌面直播弹幕姬 — 让 AI 一边看你的屏幕一边像直播观众一样发弹幕吐槽\n\nАвтор: fxd20060117. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/fxd20060117/aidanmu/releases",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "danmaku",
+      "desktop-widget",
+      "livestream",
+      "llm",
+      "pyside6",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1313257373",
+    "createdAt": "2026-07-27T12:19:53.937Z"
+  },
+  {
+    "slug": "aitori-see-and-govern-the-ai-traffic-leaving-your-machine-hn",
+    "title": "Aitori, see and govern the AI traffic leaving your machine",
+    "shortDescription": "Hi HN, I work at TrueFoundry. We built Aitori because AI traffic is getting harder for companies to control. When developers call an LLM AP…",
+    "fullDescription": "Hi HN, I work at TrueFoundry. We built Aitori because AI traffic is getting harder for companies to control. When developers call an LLM API directly, the request can be routed through a gateway. But tools like Claude Desktop, ChatGPT app, claude.ai call the model from the vendor’s backend. There is no endpoint setting you can point to your proxy. Aitori is an open-source local proxy that runs on the employee’s machine and intercepts traffic to selected AI applications. It uses a per-device CA, similar to mitmproxy, to inspect model and MCP requests and forward them to a gateway. Traffic to other applications is left untouched. Once you can see the traffic, it stops being a black box. You can log it, apply policy, route it, or do whatever else you would with AI traffic you control. It&#x27;s Apache-2.0, and the forwarding contract is documented so it works with any gateway, not just ours: https:&#x2F;&#x2F;github.com&#x2F;truefoundry&#x2F;aitori&#x2F; Try it: curl -fsSL https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;truefoundry&#x2F;aitori&#x2F;main&#x2F;in... | sh then sudo aitori up --ui Around all day to answer any questions.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/truefoundry/aitori/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49068422",
+    "createdAt": "2026-07-27T12:19:53.849Z"
+  },
+  {
+    "slug": "browser-cad-for-stock-tube-structures-with-generated-3d-printed-joints-hn",
+    "title": "Browser CAD for stock-tube structures with generated 3D-printed joints",
+    "shortDescription": "(Submitting as TrussLab&#x27;s UI designer - my husband Jan built the editor and wrote the text below; he&#x27;s answering questions in the…",
+    "fullDescription": "(Submitting as TrussLab&#x27;s UI designer - my husband Jan built the editor and wrote the text below; he&#x27;s answering questions in the thread as janherich.) The linked demo opens TrussLab with a deliberately simple triangle frame and walks through its construction in real time, with narration. You can sit back and watch, orbit around the model without interrupting autoplay, pause or resume the build, or take over at any point and edit it yourself. TrussLab grew out of my earlier work on SpaceDelta3D large-format delta printers and ultralight SpaceDrone quadcopter frames. At that time, the tooling was just a collection of Clojure scripts that I interacted with from a REPL to generate OpenSCAD models. The underlying idea is simple: use straight-cut tubes or rods made from metal, composites, or even wood for the long members carrying tension and compression, and 3D-print only the geometrically complex joints. Keeping the printed parts small reduces print time, failure risk, warping, and the cost of advanced materials. It worked surprisingly well in two very different domains, so I decided to generalize the approach into something more people could use: &quot;print the complexity, buy the length.&quot; The main difference from general-purpose CAD is that space-frame construction is TrussLab&#x27;s native design model rather than a workflow layered on top. You work with the logical frame, the nodes and the links between them, while TrussLab tracks which links represent physical members and which are virtual construction geometry. It offsets straight-cut tubes to prevent interference and keeps the generated joints compact. Each printable joint is composed of reusable parametric building blocks called link attachments. Attachments bind to physical or virtual links and adapt to properties such as position, orientation, and tube radius. The attachment palette is not fixed: you can create your own in the built-in constructive solid geometry (CSG) editor and reuse them across frame designs. Today, TrussLab exports printed parts as STL or 3MF, optionally including the physical members, plus a CSV bill of materials with a tube cut list. It does not yet export STEP; that is planned. The roadmap also includes structural integrity checks and importing read-only glTF geometry for fit checks and rendering. I&#x27;d especially value feedback on what you would try to build with this approach and what missing capability, if any, would prevent you from doing so. I&#x27;m also happy to answer questions about the design model or implementation.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://app.trusslab.ai/#/frame/triangle-frame@v1?autoplay=1",
+    "category": "design",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49068406",
+    "createdAt": "2026-07-27T12:19:53.849Z"
+  },
+  {
+    "slug": "dozenal-a-game-of-spatial-arithmetic-hn",
+    "title": "Dozenal – A Game of Spatial Arithmetic",
+    "shortDescription": "Hello HN! We&#x27;re Rory and Chris, and we&#x27;ve made a game called Dozenal[0], a grid-based number puzzle game where the objective is t…",
+    "fullDescription": "Hello HN! We&#x27;re Rory and Chris, and we&#x27;ve made a game called Dozenal[0], a grid-based number puzzle game where the objective is to use all the tiles on the board to create totals of 12 (hence the name). We think the mechanic is quite unique, although keen to hear if people know of similar games! You essentially drag tiles across the board, and the distance between two numbers decides the arithmetic operation when they connect to each other: zero spaces is addition, one space is subtraction, two spaces is multiplication: e.g. 5 → 4 = 9 5 → _ → 4 = 1 5 → _ → _ → 4 = 20 We&#x27;ve spent the past month getting people to test the game. The two biggest points of feedback are: 1. People generally find the learning curve a little too steep -- we are open to any feedback on how to make the rules clearer or easier -- but we&#x27;ve found that almost everyone that sticks with it for more than a couple of days can solve the puzzles. 2. People find that &quot;mixing&quot; arithmetic is confusing -- you can combine up to two arithmetic operations (e.g. addition and multiplication) in a single chain to reach a &quot;12 total&quot;, but there&#x27;s a catch in that you can only do this for one move. We release a new puzzle every day (all of them are set by Chris), and our aim is to make something that people enjoy coming back to and that strikes the right balance between a time-killer and a bit of a challenge. A bit of backstory: Chris and I came up with the idea over a decade ago while we were students. We were always tinkering with prototypes but never released anything. AI coding assistants made it a lot easier to work on the game in the past couple of months (it&#x27;s a mixture of human and AI development, not fully vibe-coded). Give it a try and let us know what you think! [0] - https:&#x2F;&#x2F;dozenal.game\n\nНайдено в разделе Show HN на Hacker News. 👍 7 баллов.",
+    "url": "https://dozenal.game",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49067632",
+    "createdAt": "2026-07-27T12:19:53.849Z"
+  },
+  {
     "slug": "crucible-agent-skill-github",
     "title": "crucible-agent-skill",
     "shortDescription": "Less code is more. Burn the diff down. Optimize, simplify, and eliminate bad vibes.",
