@@ -1,5 +1,59 @@
 [
   {
+    "slug": "claude-certifications-github",
+    "title": "CLAUDE-CERTIFICATIONS",
+    "shortDescription": "Study guides, official exam documents, and preparation resources for the Anthropic Claude certifications: Associate, Developer, and Archite…",
+    "fullDescription": "Study guides, official exam documents, and preparation resources for the Anthropic Claude certifications: Associate, Developer, and Architect.\n\nАвтор: Amey-Thakur. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://anthropic-partners.skilljar.com/page/partner-certifications",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "anthropic-certification",
+      "certification",
+      "claude",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1314108218",
+    "createdAt": "2026-07-27T18:54:52.150Z"
+  },
+  {
+    "slug": "applyassists-ai-resume-builder-using-google-xyz-formula-hn",
+    "title": "ApplyAssists – AI resume builder using Google XYZ formula",
+    "shortDescription": "Hey HN, My name is Daniel. About a year ago, while job hunting, I noticed that all the AI resume builders are focusing only on ATS scoring…",
+    "fullDescription": "Hey HN, My name is Daniel. About a year ago, while job hunting, I noticed that all the AI resume builders are focusing only on ATS scoring and templates, and of course I used them too. But no results, just rejections, and then I found videos from Farah Sharghi (ex-Google, Lyft, Uber, TikTok, and New York Times recruiter), and she mentioned the Google XYZ formula and the study that is on the Boston University website that used eye tracking software to see how recruiters look at a resume. Apparently, they spend only 6 seconds reviewing an individual resume. As a product owner with 20+ years of experience, naturally I started researching this resume vs. recruiters game. I have built a NotebookLM, and I gave it every winning resume I could find and talked to friends here in Romania, where I am located, to interview as many recruiters as I could find, plus all the studies I have found. I have asked a colleague of mine who is a software engineer to build me a system from all that knowledge so it will help me make my resume as perfect as possible. In 3 weeks, I found a job that I am currently working at. About 3 months ago, we decided to build a real product to help others, and this is how ApplyAssists was created. Now we are in the testing phase, and this is why I am here. We have 50 spots for a Free Private Beta test, and all we need from you is your feedback. You can use the system completely for free, and you have my step by step support. Looking forward to hearing from you!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://applyassists.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49073013",
+    "createdAt": "2026-07-27T18:54:52.152Z"
+  },
+  {
+    "slug": "i-built-the-simple-expense-tracker-i-wanted-to-use-hn",
+    "title": "I built the simple expense tracker I wanted to use",
+    "shortDescription": "Hi HN! I built Spenso because I wanted a simple record of my spending, but never kept up with budgeting apps. I wanted to type or dictate s…",
+    "fullDescription": "Hi HN! I built Spenso because I wanted a simple record of my spending, but never kept up with budgeting apps. I wanted to type or dictate something like &quot;Starbucks 25&quot; or &quot;Uber Eats 25, Lidl 54.30 yesterday&quot; and call it a day. Spenso understands the message, logs each expense, and automatically categorizes it. It’s built for iPhone, works offline-first, and uses AI only when an entry can’t be categorized on-device. I’d love honest feedback from anyone who has tried and abandoned expense trackers before.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://getspenso.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49072902",
+    "createdAt": "2026-07-27T18:54:52.152Z"
+  },
+  {
     "slug": "gitwhy-github",
     "title": "gitwhy",
     "shortDescription": "git blame tells you who. gitwhy tells you why — provenance for AI-written code (Claude Code + Codex), 100% local.",
