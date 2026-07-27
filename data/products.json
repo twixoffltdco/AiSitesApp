@@ -1,5 +1,59 @@
 [
   {
+    "slug": "stil-ai-playground-github",
+    "title": "stil-ai-playground",
+    "shortDescription": "STIL.AI Playground — AI-generated fashion design, open source. Text-to-garment concept with FastAPI + Azure OpenAI + Stripe.",
+    "fullDescription": "STIL.AI Playground — AI-generated fashion design, open source. Text-to-garment concept with FastAPI + Azure OpenAI + Stripe.\n\nАвтор: cedendahlkim. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/cedendahlkim/stil-ai-playground",
+    "category": "image-video",
+    "tags": [
+      "ai",
+      "azure-openai",
+      "clothing",
+      "design",
+      "fashion",
+      "fastapi",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1312475435",
+    "createdAt": "2026-07-27T05:08:57.133Z"
+  },
+  {
+    "slug": "asl-v6-open-source-ast-red-teaming-engine-for-python-ai-agents-hn",
+    "title": "ASL V6 – Open-source AST red-teaming engine for Python AI agents",
+    "shortDescription": "Проект «ASL V6 – Open-source AST red-teaming engine for Python AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ASL V6 – Open-source AST red-teaming engine for Python AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/sivaadityacoder/asl-v6",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49065021",
+    "createdAt": "2026-07-27T05:08:57.158Z"
+  },
+  {
+    "slug": "i-built-a-static-verifier-for-opencode-to-stop-unsafe-ai-tool-calls-hn",
+    "title": "I built a static verifier for OpenCode to stop unsafe AI tool calls",
+    "shortDescription": "Erik Meijer wrote the paper &quot;Guardians of the Agents&quot; on formal verification for AI workflows, and Nada Amin implemented it in th…",
+    "fullDescription": "Erik Meijer wrote the paper &quot;Guardians of the Agents&quot; on formal verification for AI workflows, and Nada Amin implemented it in the Guardians repository. I built this plugin to bring static security verification to OpenCode. How It Works: 1. Interception: Uses OpenCode&#x27;s TypeScript plugin system (&quot;tool.execute.before&quot;) to intercept candidate tool calls (bash, read, edit, write) before they run. 2. Sidecar Verification: Passes tool parameters to a local Python daemon running guardians.verify(). 3. Formal Verification (~1.5ms): Evaluates Z3 path containment (blocking path traversal like ..&#x2F;..&#x2F;..&#x2F;..&#x2F;etc&#x2F;passwd), secret taint tracking (preventing .env data from flowing to output files or shell commands), and security automata (enforcing read-before-edit rules). 4. Pre-Execution Abort: If a violation is flagged, the plugin throws an exception to block execution before any side effects happen on disk, forcing the agent to self-correct. The repository links metareflection&#x2F;guardians directly as a Git submodule (guardians-core), keeping the core verifier untouched and synced with upstream updates. Repo &amp; Setup Instructions: https:&#x2F;&#x2F;github.com&#x2F;albertjoseph0&#x2F;opencode-plugin-guardians I would love to hear your thoughts or feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/albertjoseph0/opencode-plugin-guardians",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49064655",
+    "createdAt": "2026-07-27T05:08:57.158Z"
+  },
+  {
     "slug": "cursor-bridge-github",
     "title": "cursor-bridge",
     "shortDescription": "Claude Code that runs on your Cursor subscription. One Rust binary, zero config.",
