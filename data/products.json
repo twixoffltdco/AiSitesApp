@@ -1,5 +1,129 @@
 [
   {
+    "slug": "marketing-team-eve-template-github",
+    "title": "marketing-team-eve-template",
+    "shortDescription": "Team of marketing agents built on eve.",
+    "fullDescription": "Team of marketing agents built on eve.\n\nАвтор: vercel-labs. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://vercel.com/kb/guide/marketing-team-eve",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "eve",
+      "marketing",
+      "notion",
+      "resend",
+      "typefully",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1312554404",
+    "createdAt": "2026-07-27T15:23:12.432Z"
+  },
+  {
+    "slug": "browsersmith-github",
+    "title": "BrowserSmith",
+    "shortDescription": "Turn your ChatGPT account into a local software factory. Four browser tabs plan, write, review and audit real projects, then install, run a…",
+    "fullDescription": "Turn your ChatGPT account into a local software factory. Four browser tabs plan, write, review and audit real projects, then install, run and screenshot them. No API key.\n\nАвтор: soufian3hm. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/soufian3hm/BrowserSmith",
+    "category": "developer",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "automation",
+      "chatgpt",
+      "code-generation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1313003289",
+    "createdAt": "2026-07-27T15:23:12.432Z"
+  },
+  {
+    "slug": "tilde-pay-give-your-ai-agent-a-bank-account-to-pay-for-things-hn",
+    "title": "Tilde Pay – Give your AI agent a bank account to pay for things",
+    "shortDescription": "hey HN, I&#x27;m Daniel - I built Tilde Pay during a hackathon I took part in and couldn&#x27;t stop working on it. It&#x27;s an MCP server…",
+    "fullDescription": "hey HN, I&#x27;m Daniel - I built Tilde Pay during a hackathon I took part in and couldn&#x27;t stop working on it. It&#x27;s an MCP server you can give your AI agent to buy things online with. It can process both x402, MPP payments &amp; (hopefully soon), any card checkout form online. When you sign up, you get EUR and USD denominated bank account details to send deposits to which convert to USDC within a minute of receipt for your agent to spend in their own crypto wallet. You can then add the MCP server to Hermes, OpenClaw, ChatGPT or Claude really easily. For example, you can use it to pay for services listed on https:&#x2F;&#x2F;agentic.market&#x2F; . My goal is to support traditional card checkout forms so agents could pay on any online retailer. I built this in a hackathon a few weeks ago and haven&#x27;t put it down since. Please give it a try and let me know what you think. One of the biggest concerns around AI-driven payments was security and I thought the safest option would be to spin up &quot;sandbox&quot; bank accounts that AI could use to spend instead. I know this space is quite controversial &amp; hyped up - so please let me know your thoughts and sentiment. Adios\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://my.tildepay.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49070028",
+    "createdAt": "2026-07-27T15:23:12.091Z"
+  },
+  {
+    "slug": "arc-delegated-authority-and-audit-for-ai-agent-actions-hn",
+    "title": "Arc – Delegated authority and audit for AI agent actions",
+    "shortDescription": "Проект «Arc – Delegated authority and audit for AI agent actions», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Arc – Delegated authority and audit for AI agent actions», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/shuu-beep/arc-protocol",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49069987",
+    "createdAt": "2026-07-27T15:23:12.091Z"
+  },
+  {
+    "slug": "save-your-claudecodexcopilot-tokens-by-using-context-profiler-hn",
+    "title": "Save your Claude/codex/copilot tokens by using context profiler",
+    "shortDescription": "Most devs using AI coding tools don&#x27;t even imagine how much information they put in the context window - tools, MCPs, tool responses,…",
+    "fullDescription": "Most devs using AI coding tools don&#x27;t even imagine how much information they put in the context window - tools, MCPs, tool responses, active skills - all of which take up some real estate. Sometimes updating a tool description or trimming api response can give significant savings - and profiler helps to measure that\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/RimantasZ/contextspy",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49069982",
+    "createdAt": "2026-07-27T15:23:12.091Z"
+  },
+  {
+    "slug": "the-ai-cycle-and-its-token-usage-market-hn",
+    "title": "The AI cycle and it's token usage market",
+    "shortDescription": "The way generative AI is totally different than how it should be. Mostly, one of the bigger problems is the gap between understanding value…",
+    "fullDescription": "The way generative AI is totally different than how it should be. Mostly, one of the bigger problems is the gap between understanding value by output and actually using tokens in production, or using more tokens. They measure it by the amount of tokens spent, not by the total value it creates in the end. In this post we discussed about the problems and the way of looking at it and what can be done.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://raylinement.substack.com/p/the-ai-cycle-and-its-token-usage",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49068893",
+    "createdAt": "2026-07-27T15:23:12.091Z"
+  },
+  {
+    "slug": "we-killed-our-ai-stock-analysis-and-kept-the-news-feed-api-and-mcp-hn",
+    "title": "We killed our AI stock analysis and kept the news feed (API and MCP)",
+    "shortDescription": "I run AlphaAI, it is a news feed for trading agents, REST plus MCP. Before it was &quot;AI stock analysis&quot; site. That version demoed g…",
+    "fullDescription": "I run AlphaAI, it is a news feed for trading agents, REST plus MCP. Before it was &quot;AI stock analysis&quot; site. That version demoed great and made no money. i was paying for market data, users was not paying me. Nobody buys prompt output, everyone already has own ChatGPT or Claude and own prompts. The only thing people were watching was the news feed with ratings, so I built a new product around this feature and it turned out to be really useful. What&#x27;s under the hood: GDELT parsing, SEC EDGAR, google public RSS and several other sources. Everything goes through a deduplication and enrichment pipeline. Only a small part of the really useful stuff gets into the feed, it&#x27;s the filtering that&#x27;s valuable to the user. Question to people who wire news into agents: what metadata you missing usually? For me this is main thing i want to learn from this post.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://alphai.io/developers",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49068635",
+    "createdAt": "2026-07-27T15:23:12.091Z"
+  },
+  {
     "slug": "aidanmu-github",
     "title": "aidanmu",
     "shortDescription": "AI 桌面直播弹幕姬 — 让 AI 一边看你的屏幕一边像直播观众一样发弹幕吐槽",
