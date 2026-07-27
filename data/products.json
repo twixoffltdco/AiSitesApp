@@ -1,5 +1,131 @@
 [
   {
+    "slug": "crucible-agent-skill-github",
+    "title": "crucible-agent-skill",
+    "shortDescription": "Less code is more. Burn the diff down. Optimize, simplify, and eliminate bad vibes.",
+    "fullDescription": "Less code is more. Burn the diff down. Optimize, simplify, and eliminate bad vibes.\n\nАвтор: ryanelian. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/ryanelian/crucible-agent-skill",
+    "category": "ai-tool",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "claude-code",
+      "codex",
+      "cursor",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1312749069",
+    "createdAt": "2026-07-27T08:54:07.173Z"
+  },
+  {
+    "slug": "sidekick-github",
+    "title": "Sidekick",
+    "shortDescription": "Sidekick is an open-source local multi-agent AI workspace",
+    "fullDescription": "Sidekick is an open-source local multi-agent AI workspace\n\nАвтор: GQQI. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/GQQI/Sidekick",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "multi-agent",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1313025792",
+    "createdAt": "2026-07-27T08:54:07.173Z"
+  },
+  {
+    "slug": "planetpath-ai-travel-planner-github",
+    "title": "PlanetPath-AI-Travel-Planner",
+    "shortDescription": "AI-powered multi-agent travel planner built with FastAPI, LangGraph, Groq, PostgreSQL, Tavily, and AviationStack.",
+    "fullDescription": "AI-powered multi-agent travel planner built with FastAPI, LangGraph, Groq, PostgreSQL, Tavily, and AviationStack.\n\nАвтор: nishant-sharma-99. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/nishant-sharma-99/PlanetPath-AI-Travel-Planner",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "fastapi",
+      "groq",
+      "langchain",
+      "langgraph",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1311903625",
+    "createdAt": "2026-07-27T08:54:07.173Z"
+  },
+  {
+    "slug": "adcasa-os-ai-marketing-workspace-built-with-bayesian-attribution-hn",
+    "title": "adCasa OS – AI marketing workspace built with Bayesian attribution",
+    "shortDescription": "Проект «adCasa OS – AI marketing workspace built with Bayesian attribution», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «adCasa OS – AI marketing workspace built with Bayesian attribution», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://adcasa.io/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49066576",
+    "createdAt": "2026-07-27T08:54:07.104Z"
+  },
+  {
+    "slug": "watch-14-byte-ai-brains-attempt-to-solve-a-2d-maze-its-hard-hn",
+    "title": "Watch 14-Byte AI \"brains\" attempt to solve a 2D maze (Its hard)",
+    "shortDescription": "Hey HackerNews, I built this project over the last few weeks as a palette cleanser from a failed game launch. I wanted to learn a bit about…",
+    "fullDescription": "Hey HackerNews, I built this project over the last few weeks as a palette cleanser from a failed game launch. I wanted to learn a bit about AI&#x2F;Neural-Networks and naively thought I could build a tiny maze-solving AI in a weekend with a 100% solve rate. Well - I couldn&#x27;t, but I got pretty close. 14 Bytes total model size, and a 96.5% solve rate on unseen mazes. Trained across 46 phases experimenting with different ideas to improve the model (better performance, smaller size). Its quite fun to watch the model attempt to solve the maze, when they fail its usually due to getting stuck in a loop. The models have no access to coordinates, map-data, or external memory scratches - they must navigate using only immediate local neighbourhood observations. There is a model dropdown and you can see how the model has progressed over each phase, constantly getting smaller and increasing its solve rate. Total trained models number in the thousands - I just expose the winning models from each phase. Overall a fun experiment, with much implementation help from AI agents to scaffold and implement the code (I&#x27;m a lazy software dev).\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://con-dog.github.io/MINIMIO-PUBLIC-FRONTEND/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49066083",
+    "createdAt": "2026-07-27T08:54:07.104Z"
+  },
+  {
+    "slug": "statskit-product-analytics-and-ab-testing-hn",
+    "title": "StatsKit – Product Analytics and A/B Testing",
+    "shortDescription": "Hi HN, I&#x27;ve been working on StatsKit for the past year. It combines product analytics, feature flags, A&#x2F;B testing, session replay…",
+    "fullDescription": "Hi HN, I&#x27;ve been working on StatsKit for the past year. It combines product analytics, feature flags, A&#x2F;B testing, session replay and funnels into a single platform. https:&#x2F;&#x2F;statskit.ai Happy to answer any questions.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://statskit.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49065644",
+    "createdAt": "2026-07-27T08:54:07.104Z"
+  },
+  {
+    "slug": "rainslice-ai-employees-for-home-services-businesses-hn",
+    "title": "Rainslice – AI Employees for Home Services Businesses",
+    "shortDescription": "Hey friends, Introducing Rainslice - a suite of AI employees that run and grow your home services business. I&#x27;d like to introduce you…",
+    "fullDescription": "Hey friends, Introducing Rainslice - a suite of AI employees that run and grow your home services business. I&#x27;d like to introduce you to your first AI employee, Pamela. Pamela has a realistic voice and picks up the phone during after-hours (24&#x2F;7) to book service jobs, and she also does follow-ups to bring in even more jobs. In the last 30 days, a small residential cleaning business in Los Angeles has booked an extra $22,000 in revenue using Pamela. For those of you that own a home service business, no matter how small, i would love to chat with you. Also, what AI employees would you like next?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://rainslice.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49065447",
+    "createdAt": "2026-07-27T08:54:07.104Z"
+  },
+  {
     "slug": "stil-ai-playground-github",
     "title": "stil-ai-playground",
     "shortDescription": "STIL.AI Playground — AI-generated fashion design, open source. Text-to-garment concept with FastAPI + Azure OpenAI + Stripe.",
