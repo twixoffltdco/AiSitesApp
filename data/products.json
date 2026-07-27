@@ -1,5 +1,37 @@
 [
   {
+    "slug": "aidress-coordination-layer-for-autonomous-ai-agents-hn",
+    "title": "Aidress – Coordination layer for autonomous AI agents",
+    "shortDescription": "Проект «Aidress – Coordination layer for autonomous AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Aidress – Coordination layer for autonomous AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/Aidress-ai/Aidress",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49076360",
+    "createdAt": "2026-07-27T22:58:54.669Z"
+  },
+  {
+    "slug": "fileforge-finder-local-file-search-with-ai-optimized-export-hn",
+    "title": "FileForge Finder: Local file search with AI-optimized export",
+    "shortDescription": "Hope this sparks some conversation. Interested to get the community&#x27;s take on an app we use internally to find files and provide targe…",
+    "fullDescription": "Hope this sparks some conversation. Interested to get the community&#x27;s take on an app we use internally to find files and provide targeted file content to chatbots. Biggest gains in search are for windows users but I am interested to get feedback from the spotlight users. With the AI export we originally used and MCP connector but when back to drag and drop export of file content due to security and universal applicability. No worries about your file security. Everything runs on-device and works offline. One click download at fileforge.com. Open to any feedback. Brent\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://momentumce.com/fileforge",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49076299",
+    "createdAt": "2026-07-27T22:58:54.669Z"
+  },
+  {
     "slug": "scout-understand-any-enterprise-platform-in-minutes-hn",
     "title": "Scout, understand any Enterprise Platform in minutes",
     "shortDescription": "Hi HN, I&#x27;ve been building Scout over the past few months. Point it at an OpenAPI spec and documentation, and it builds a grounded unde…",
