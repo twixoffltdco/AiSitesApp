@@ -1,5 +1,123 @@
 [
   {
+    "slug": "gitwhy-github",
+    "title": "gitwhy",
+    "shortDescription": "git blame tells you who. gitwhy tells you why — provenance for AI-written code (Claude Code + Codex), 100% local.",
+    "fullDescription": "git blame tells you who. gitwhy tells you why — provenance for AI-written code (Claude Code + Codex), 100% local.\n\nАвтор: mehrtam. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/mehrtam/gitwhy",
+    "category": "ai-tool",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "claude-code",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1313108832",
+    "createdAt": "2026-07-27T17:17:16.214Z"
+  },
+  {
+    "slug": "feynobg-automatic-background-removal-model-and-training-library-hn",
+    "title": "FeyNoBg – Automatic background removal model and training library",
+    "shortDescription": "Hey HN, I’m Shreyash from Feyn. We help companies build custom models from their data. Today, we’re releasing FeyNoBg, an automatic backgro…",
+    "fullDescription": "Hey HN, I’m Shreyash from Feyn. We help companies build custom models from their data. Today, we’re releasing FeyNoBg, an automatic background removal model. Alongside it, we&#x27;re open-sourcing NoBg, the Python library we built to train and run it. Try the model here: https:&#x2F;&#x2F;huggingface.co&#x2F;spaces&#x2F;feyninc&#x2F;feynobg . Check out the library here: https:&#x2F;&#x2F;github.com&#x2F;feyninc&#x2F;nobg Some sample outputs: (1) Soccer Freekick: https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1MZkAGLwbhNVOZ0Oi7XvpCfSEu9Q... (2) Hair in wind: https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1Odc2m0XMVH9uZtvI_KjaRbXzhLL... (3) Bicycle with visible spokes: https:&#x2F;&#x2F;drive.google.com&#x2F;file&#x2F;d&#x2F;1h99ahjfrtS1MFQJJgiKE2fuM3HZ... (4) Live Demo video: https:&#x2F;&#x2F;youtu.be&#x2F;b1heHPvY8BM Background removal separates an image&#x27;s subject from its surrounding. We&#x27;ve all tried it at some point. Often it is to reuse the subject in a different artifact. Nowadays, it is common to make chat stickers out of it. It is one of the most common but under-appreciated uses of AI. It is also surprisingly complex. Models can be easily confused by camouflage, motion blur, or fine structures like hair. The task requires two skills. First, a model has to identify the foreground. Second, it has to trace the foreground’s boundary and estimate an opacity value for each pixel. Generally, these skills are taught with different datasets. That creates a failure point. A poor training mix can improve one skill at the expense of the other. We saw this in our controlled evaluation. A training run with just the MaskFactory dataset improved on the CAMO benchmark but regressed on DIS5K. For FeyNoBg, we took an interpretability-first approach to training. We first studied how BiRefNet’s stages contribute to finding the foreground and reconstructing its boundary. We discovered that the third stage of it&#x27;s feature extractor holds a lot of information. Both localization and boundary reconstruction depend heavily on the feature map produced here. This led us to expand this stage from 18 to 24 blocks while preserving the pre-trained weights. We then trained FeyNoBg on 26.1K diverse examples assembled from 10 datasets. The goal was to improve foreground identification and boundary precision without sacrificing either one. Across eight benchmarks, FeyNoBg achieves the best published score on four and comes within 2% of the leader on the rest. Building FeyNoBg also exposed a tooling problem. Image matting models are usually released as isolated repositories with incompatible preprocessing, training, and evaluation code. We built NoBg to solve this. NoBg puts these workflows behind one Python interface. It supports BiRefNet today, with more architectures coming. We hope you build something exciting with it! Happy to answer any questions\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://usefeyn.com/blog/feynobg/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49072462",
+    "createdAt": "2026-07-27T17:17:16.219Z"
+  },
+  {
+    "slug": "directed-memory-bank-tool-agnostic-project-context-for-ai-agents-hn",
+    "title": "Directed Memory Bank – Tool-agnostic project context for AI agents",
+    "shortDescription": "Проект «Directed Memory Bank – Tool-agnostic project context for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Directed Memory Bank – Tool-agnostic project context for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/pmikutel/directed-memory-bank",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49072254",
+    "createdAt": "2026-07-27T17:17:16.219Z"
+  },
+  {
+    "slug": "kblip-turns-aillm-news-across-100-sources-into-daily-digest-threads-hn",
+    "title": "KBlip – turns AI/LLM news across 100 sources into daily digest threads",
+    "shortDescription": "Hi HN, maker here. KBlip watches Reddit, HN, arXiv, GitHub, YouTube, and ~100 RSS&#x2F;blog feeds for anything AI-related, clusters same-st…",
+    "fullDescription": "Hi HN, maker here. KBlip watches Reddit, HN, arXiv, GitHub, YouTube, and ~100 RSS&#x2F;blog feeds for anything AI-related, clusters same-story coverage into a single &quot;thread&quot; (every source linked as evidence), and sorts it into 5 feeds: Releases, News, Social, Developments (research + hardware), Products&#x2F;Ideas, and Trending. My daily routine to catch-up on the current happenings related to AI&#x2F;LLM takes a big chunk of my time and I had to do multiple hops between different products and even worse sometimes I find myself lost in a rabbit hole in any of those products. Wanted to have better visibility and have everything aggregated in one place that takes less time and effort just to catch-up which also cuts off the noise&#x2F;redundancy. A few things to highlight: a daily digest per section (one-sentence TL;DR), an audio &quot;brief me&quot; mode if you&#x27;d rather listen than read, and it installs as a PWA. Solo project, self-hosted on a VPS, DeepSeek + Voyage for the LLM&#x2F;embedding side. No accounts, no ads, no tracking.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://kblip.com/releases",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49072174",
+    "createdAt": "2026-07-27T17:17:16.219Z"
+  },
+  {
+    "slug": "bixrouter-a-non-linear-ai-chat-interface-for-openrouter-hn",
+    "title": "BixRouter – a non-linear AI chat interface for OpenRouter",
+    "shortDescription": "Using chat interfaces often spawns many different thoughts, and while the AI and it&#x27;s agents are okay at keeping track of it, I&#x27;m…",
+    "fullDescription": "Using chat interfaces often spawns many different thoughts, and while the AI and it&#x27;s agents are okay at keeping track of it, I&#x27;m not always there. I needed to be able to see where my thoughts diverged, and retrace them back to the source. While mulling over a better interface, and trying to get memories into the OpenRouter CLI, I decided to roll it all into one. BixRouter is a tool for visualising your thoughts and conversations. - Every response is a node. Ask a follow-up from any of them and the conversation forks. - Memory and context follow each branch back to the root, so that your conversations can diverge completely and maintain a foundational root. - Long branches can be compacted, and the context window will start again from the latest compacted node in the graph. - Highlight tips spawn threads with context-driven definitions, so you can maintain direction without getting hung up on a misunderstood term. - By default, requests run off a shared OpenRouter key, which is limited to cheap, non-thinking models. Your own key can be added locally, which routes requests to your own account and gives you access to all models (this key attaches to your requests and I never see it). - No accounts, storage, or signups. Chats are stored in your localstorage, and can be exported as text (playfully dubbed .bixgraph files!) I&#x27;d love your feedback on my little pet-project tool. Just for the big-screens right now, I&#x27;ll adapt it for little-screens later!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://router.bix.computer",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49071834",
+    "createdAt": "2026-07-27T17:17:16.219Z"
+  },
+  {
+    "slug": "a-lyric-video-as-a-remotion-app-written-by-an-agent-fleet-hn",
+    "title": "A lyric video as a Remotion app, written by an agent fleet",
+    "shortDescription": "Проект «A lyric video as a Remotion app, written by an agent fleet», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A lyric video as a Remotion app, written by an agent fleet», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://yupanqui.xyz/shape-of-ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49071777",
+    "createdAt": "2026-07-27T17:17:16.219Z"
+  },
+  {
+    "slug": "a-curated-index-of-open-source-ai-developer-tools-hn",
+    "title": "A curated index of open-source AI developer tools",
+    "shortDescription": "Проект «A curated index of open-source AI developer tools», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A curated index of open-source AI developer tools», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Sami-Uysal/awesome-open-ai-developer-tools",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49071446",
+    "createdAt": "2026-07-27T17:17:16.219Z"
+  },
+  {
     "slug": "marketing-team-eve-template-github",
     "title": "marketing-team-eve-template",
     "shortDescription": "Team of marketing agents built on eve.",
