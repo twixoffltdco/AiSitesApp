@@ -1,5 +1,53 @@
 [
   {
+    "slug": "scout-understand-any-enterprise-platform-in-minutes-hn",
+    "title": "Scout, understand any Enterprise Platform in minutes",
+    "shortDescription": "Hi HN, I&#x27;ve been building Scout over the past few months. Point it at an OpenAPI spec and documentation, and it builds a grounded unde…",
+    "fullDescription": "Hi HN, I&#x27;ve been building Scout over the past few months. Point it at an OpenAPI spec and documentation, and it builds a grounded understanding of the platform: architecture, entities, workflows, starter code, a threaded AI chat, and an MCP server for coding agents. Everything runs locally. No accounts or hosted backend. One of the problems I kept running into was coding agents confidently inventing endpoints because they only knew APIs from training data. Scout uses the OpenAPI spec and docs as ground truth instead. It&#x27;s MIT licensed and I&#x27;d love feedback from people building integrations or using coding agents heavily. GitHub: https:&#x2F;&#x2F;github.com&#x2F;prabhuavula7&#x2F;scout ... npm: npm i -g @dotapk7&#x2F;scoutcli\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/prabhuavula7/scout",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49075413",
+    "createdAt": "2026-07-27T21:37:29.461Z"
+  },
+  {
+    "slug": "latest-q2-ai-saas-trends-report-hn",
+    "title": "Latest Q2 AI SaaS Trends Report",
+    "shortDescription": "Проект «Latest Q2 AI SaaS Trends Report», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Latest Q2 AI SaaS Trends Report», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://relvehq.com/ai-reports/2026-q2-the-state-of-ai-for-saas-companies-fullview",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49075191",
+    "createdAt": "2026-07-27T21:37:29.461Z"
+  },
+  {
+    "slug": "nexmy-100-offline-android-finance-tracker-with-local-ai-hn",
+    "title": "Nexmy – 100% offline Android finance tracker with local AI",
+    "shortDescription": "Проект «Nexmy – 100% offline Android finance tracker with local AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Nexmy – 100% offline Android finance tracker with local AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://nexmy.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49075040",
+    "createdAt": "2026-07-27T21:37:29.462Z"
+  },
+  {
     "slug": "artifacted-private-urls-for-the-small-tools-your-ai-builds-hn",
     "title": "Artifacted – private URLs for the small tools your AI builds",
     "shortDescription": "Проект «Artifacted – private URLs for the small tools your AI builds», опубликован сообществом Hacker News.",
