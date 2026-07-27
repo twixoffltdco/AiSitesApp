@@ -1,5 +1,175 @@
 [
   {
+    "slug": "cursor-bridge-github",
+    "title": "cursor-bridge",
+    "shortDescription": "Claude Code that runs on your Cursor subscription. One Rust binary, zero config.",
+    "fullDescription": "Claude Code that runs on your Cursor subscription. One Rust binary, zero config.\n\nАвтор: hkc5. Найдено в GitHub Trending (AI-тематика). ⭐ 13 звёзд.",
+    "url": "https://github.com/hkc5/cursor-bridge",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "bridge",
+      "claude",
+      "claude-code",
+      "cli",
+      "cursor",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1313164370",
+    "createdAt": "2026-07-27T01:07:27.668Z"
+  },
+  {
+    "slug": "agro-vators-github",
+    "title": "AGRO-VATORS",
+    "shortDescription": "AI-powered Smart Farming Rover for Plant Disease Detection, Autonomous Navigation, and Real-time IoT Monitoring",
+    "fullDescription": "AI-powered Smart Farming Rover for Plant Disease Detection, Autonomous Navigation, and Real-time IoT Monitoring\n\nАвтор: shayak-98. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/shayak-98/AGRO-VATORS",
+    "category": "ai-tool",
+    "tags": [
+      "agriculture",
+      "ai",
+      "computer-vision",
+      "esp32",
+      "esp32-cam",
+      "iot",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1311819348",
+    "createdAt": "2026-07-27T01:07:27.668Z"
+  },
+  {
+    "slug": "novelai-image-mcp-github",
+    "title": "NovelAI-Image-MCP",
+    "shortDescription": "MCP server for integrating NovelAI Image generation into AI agents.",
+    "fullDescription": "MCP server for integrating NovelAI Image generation into AI agents.\n\nАвтор: xinvxueyuan. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://xinvxueyuan.github.io/NovelAI-Image-MCP/",
+    "category": "image-video",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-tools",
+      "mcp",
+      "mcp-server",
+      "novelai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1311561050",
+    "createdAt": "2026-07-27T01:07:27.668Z"
+  },
+  {
+    "slug": "qwen35-turboquant-mlx-lm-github",
+    "title": "Qwen3.5-TurboQuant-MLX-LM",
+    "shortDescription": "Accelerate Qwen3.5 KVCache with TurboQuant MLX-LM tools for prompt caching, quantized attention, and research-ready evals",
+    "fullDescription": "Accelerate Qwen3.5 KVCache with TurboQuant MLX-LM tools for prompt caching, quantized attention, and research-ready evals\n\nАвтор: CalaoGreskk. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://calaogreskk.github.io/Qwen3.5-TurboQuant-MLX-LM/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-coding",
+      "ai-governance",
+      "ai-model",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1312530969",
+    "createdAt": "2026-07-27T01:07:27.668Z"
+  },
+  {
+    "slug": "llm-guided-crawler-secret-hunter-github",
+    "title": "LLM-Guided-Crawler-Secret-Hunter",
+    "shortDescription": "High-Precision Parallel Multi-Model LLM Web Reconnaissance Engine & Knowledge Graph Builder for Bug Bounty & Security Auditing.",
+    "fullDescription": "High-Precision Parallel Multi-Model LLM Web Reconnaissance Engine & Knowledge Graph Builder for Bug Bounty & Security Auditing.\n\nАвтор: SSDEVIL108. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/SSDEVIL108/LLM-Guided-Crawler-Secret-Hunter",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-security",
+      "bugbounty",
+      "llm",
+      "llm-guided-webcrawling",
+      "ml",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1312524312",
+    "createdAt": "2026-07-27T01:07:27.668Z"
+  },
+  {
+    "slug": "airs-github",
+    "title": "AIRS",
+    "shortDescription": "One Standard. Any AI. Every Project. — an open specification that lets any AI understand and work within a software project consistently.",
+    "fullDescription": "One Standard. Any AI. Every Project. — an open specification that lets any AI understand and work within a software project consistently.\n\nАвтор: hmin5015. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/hmin5015/AIRS",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-context",
+      "claude",
+      "cli",
+      "cursor",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1311600780",
+    "createdAt": "2026-07-27T01:07:27.668Z"
+  },
+  {
+    "slug": "projectrx-ai-github",
+    "title": "projectrx-ai",
+    "shortDescription": "ProjectRx AI is an AI-powered Project Recovery & Decision Support Platform that diagnoses project health, identifies hidden risks, and gene…",
+    "fullDescription": "ProjectRx AI is an AI-powered Project Recovery & Decision Support Platform that diagnoses project health, identifies hidden risks, and generates actionable recovery strategies through Explainable AI.\n\nАвтор: aqsam0018-beep. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://project-resilience.lovable.app",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "productivity",
+      "project-management",
+      "react",
+      "risk-analysis",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1311738490",
+    "createdAt": "2026-07-27T01:07:27.668Z"
+  },
+  {
+    "slug": "distill-and-serve-models-with-frontier-quality-for-half-the-cost-hn",
+    "title": "Distill and serve models with frontier quality for half the cost",
+    "shortDescription": "Hi HN, we built world-model-optimizer, an open source tool to continually improve models specialized to agents. Agent traces you already ca…",
+    "fullDescription": "Hi HN, we built world-model-optimizer, an open source tool to continually improve models specialized to agents. Agent traces you already capture are opportunities to get signal on how to make your model cheaper, faster, better. We do this by continuously a) distilling relevant chain of thought from larger open source models into smaller ones, b) model routing to frontier + OS models, and c) token compaction to remove noise and save on tokens. `wmo build` allows you to build a simulation to optimize against with your agent traces with your OpenRouter key `wmo optimize` trains a router, compaction, and distills chain of thought from a larger model into your specialized model `wmo serve` gives you an endpoint for your model When you call your model, behind the scenes a router decides which tasks should go to the frontier versus your model. Tinker continually trains as new traces arrive. We&#x27;re also working on a hosted solution that does continual training + serving for you https:&#x2F;&#x2F;experientiallabs.ai\n\nНайдено в разделе Show HN на Hacker News. 👍 41 баллов.",
+    "url": "https://github.com/experientiallabs/world-model-optimizer",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49063454",
+    "createdAt": "2026-07-27T01:07:27.538Z"
+  },
+  {
     "slug": "openclaude-improved-github",
     "title": "openclaude-improved",
     "shortDescription": "runs anywhere. uses anything",
