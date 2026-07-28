@@ -1,5 +1,75 @@
 [
   {
+    "slug": "nightrun-github",
+    "title": "NIGHTRUN",
+    "shortDescription": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
+    "fullDescription": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.\n\nАвтор: hardrave. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://nightrun.io",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "genai",
+      "llama-cpp",
+      "llm",
+      "ollama",
+      "runtime",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1314213737",
+    "createdAt": "2026-07-28T19:19:05.919Z"
+  },
+  {
+    "slug": "writekin-fine-tune-a-local-llm-on-your-own-writing-on-your-mac-hn",
+    "title": "Writekin – fine-tune a local LLM on your own writing, on your Mac",
+    "shortDescription": "Hey Hacker News! I built Writekin over the past week because I was tired of AI writing that didn&#x27;t sound like me, even though I had ju…",
+    "fullDescription": "Hey Hacker News! I built Writekin over the past week because I was tired of AI writing that didn&#x27;t sound like me, even though I had just used AI to clean it up, rather than wholesale write it. The usual fixes I found online for this were: - Some sort of SKILL.md, or - A system prompt full of rules to strip the generic AI tells (e.g. no em-dashes, none of the stock phrases, varying the sentence length, etc). While those cleaned up the surface a bit, Pangram still came back as ~100% AI written, which was frustrating, as again it was mainly taking my sloppy copy and tweaking it. So when building Writekin I took a different route: Writekin fine-tunes a local model on your own writing. It reads what you&#x27;ve already written (Apple Mail, iMessage, local documents, chat exports), curates it into a training corpus, and runs a QLoRA fine-tuning on-device via Apple&#x27;s MLX. A Compose screen then drafts and rewrites in that voice. Everything runs on your Mac. Ingestion, training, and generation are all local. The only network calls are: (1) When you download the model weights from Hugging Face and (2) The Sparkle update check. Training on your own Mail&#x2F;Messages only felt okay to ship if the end user could verify that, so the source is public — so you can read exactly what it does! Quick gut check: It&#x27;s v0.9 and the output is uneven. Honestly, sometimes it nails your voice, and sometimes it&#x27;s just completely off. This is more a &quot;this is possible and kind of works&quot; than a finished product. Would genuinely love feedback! Source: https:&#x2F;&#x2F;github.com&#x2F;scouttyg&#x2F;writekin\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/scouttyg/writekin",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49088436",
+    "createdAt": "2026-07-28T19:19:05.801Z"
+  },
+  {
+    "slug": "local-ai-clipboard-actions-hn",
+    "title": "Local AI Clipboard Actions",
+    "shortDescription": "Проект «Local AI Clipboard Actions», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Local AI Clipboard Actions», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://apfel-clip.franzai.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49088430",
+    "createdAt": "2026-07-28T19:19:05.802Z"
+  },
+  {
+    "slug": "aerosheet-3d-wings-and-airfoils-go-weee-in-a-spreadsheet-hn",
+    "title": "AeroSheet – 3D wings and airfoils go weee (in a spreadsheet)",
+    "shortDescription": "There are 300px of pure joy in a Google Sheets sidebar. Enough to fit: - a Threejs interactive wing designer - 1600 UIUC airfoils - Prandtl…",
+    "fullDescription": "There are 300px of pure joy in a Google Sheets sidebar. Enough to fit: - a Threejs interactive wing designer - 1600 UIUC airfoils - Prandtl Lifting Line Theory solver ported from dusty Fortran scripts AeroSheet is an experiment in aerospace tooling inside spreadsheets (where non-software engineers live &amp; die). And one of two apps built with my experimental Svelte-to-GAS bundler. The other one is https:&#x2F;&#x2F;montesheet.com if anyone&#x27;s curious. For a no-install demo, click around https:&#x2F;&#x2F;veenie.space&#x2F;tools&#x2F;airfoils\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://workspace.google.com/marketplace/app/aerosheet/277780710399",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49087787",
+    "createdAt": "2026-07-28T19:19:05.802Z"
+  },
+  {
     "slug": "starling-github",
     "title": "starling",
     "shortDescription": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
