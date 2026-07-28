@@ -1,5 +1,75 @@
 [
   {
+    "slug": "jasoseo-plugin-github",
+    "title": "jasoseo-plugin",
+    "shortDescription": "한국 취업 자기소개서를 기업조사→초안→글자수→리뷰→윤문→검증   8단계로 완성하는 Claude Code 플러그인",
+    "fullDescription": "한국 취업 자기소개서를 기업조사→초안→글자수→리뷰→윤문→검증   8단계로 완성하는 Claude Code 플러그인\n\nАвтор: KangRyun. Найдено в GitHub Trending (AI-тематика). ⭐ 11 звёзд.",
+    "url": "https://github.com/KangRyun/jasoseo-plugin",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-plugins",
+      "cover-letter",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1314180940",
+    "createdAt": "2026-07-28T03:45:35.366Z"
+  },
+  {
+    "slug": "done-expanding-ai-capabilities-hn",
+    "title": "_done – Expanding AI Capabilities",
+    "shortDescription": "Actions for AI. Real-world tasks your agent can&#x27;t do alone. Pay per use with x402 - no accounts. no logins. no keys.",
+    "fullDescription": "Actions for AI. Real-world tasks your agent can&#x27;t do alone. Pay per use with x402 - no accounts. no logins. no keys.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://underscoredone.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49078096",
+    "createdAt": "2026-07-28T03:45:35.206Z"
+  },
+  {
+    "slug": "building-a-new-game-everyday-with-ai-day-106-zombie-survival-training-hn",
+    "title": "Building a new game everyday with AI. Day #106 Zombie Survival Training",
+    "shortDescription": "I&#x27;m using AI (mostly Claude) to create&#x2F;publish a new video game every day This is day 106, and my first stab at the zombie&#x2F;s…",
+    "fullDescription": "I&#x27;m using AI (mostly Claude) to create&#x2F;publish a new video game every day This is day 106, and my first stab at the zombie&#x2F;survival genre. Most of the games I build with just a few prompts, but this one I used almost an entire 5-hour window on the $20&#x2F;month pro subscription (in about an hour) with Opus 5 to get right with all the weapons and such. Then I go outside and touch grass for the next four hours. Happy to answer any questions, just a little hobby project of mine I&#x27;m having lots of fun with :) I&#x27;m now well into month 4, and I haven&#x27;t missed a single day of publishing a new game yet!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://gamevibe.us/106-zombie-survival-training",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49077815",
+    "createdAt": "2026-07-28T03:45:35.206Z"
+  },
+  {
+    "slug": "prompttrace-free-hands-on-labs-to-practice-hacking-llms-hn",
+    "title": "PromptTrace – Free hands-on labs to practice hacking LLMs",
+    "shortDescription": "Проект «PromptTrace – Free hands-on labs to practice hacking LLMs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «PromptTrace – Free hands-on labs to practice hacking LLMs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://prompttrace.airedlab.com",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49077514",
+    "createdAt": "2026-07-28T03:45:35.206Z"
+  },
+  {
     "slug": "prompt-engineering-mastery-github",
     "title": "prompt-engineering-mastery",
     "shortDescription": "Production-grade prompt engineering curriculum — 7 modules covering foundations, reasoning, RAG, security, and evaluation. Model-agnostic (…",
