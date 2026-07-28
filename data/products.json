@@ -1,5 +1,181 @@
 [
   {
+    "slug": "nutaan-ai-powered-voice-calling-assistant-and-live-chat-widget-hn",
+    "title": "Nutaan – AI-powered voice calling assistant and live chat widget",
+    "shortDescription": "Проект «Nutaan – AI-powered voice calling assistant and live chat widget», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Nutaan – AI-powered voice calling assistant and live chat widget», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://nutaan.com/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49085591",
+    "createdAt": "2026-07-28T16:08:59.927Z"
+  },
+  {
+    "slug": "flashpaper-self-destructing-secret-sharing-with-no-database-hn",
+    "title": "Flashpaper – Self-destructing secret sharing with no database",
+    "shortDescription": "Hi everyone! This is my first HN and I’m very new to the scene. My name is Min from Bangkok. At first, I just want to create a dead man&#x2…",
+    "fullDescription": "Hi everyone! This is my first HN and I’m very new to the scene. My name is Min from Bangkok. At first, I just want to create a dead man&#x27;s switch for personal use and for fun. then, I think about information that self destruct like a spy movie. after that, I try to come up with the better version of Privnote or Bitwarden with self-destruct and some kind of censoring or blocking download ability. Somehow, end up with this product. :O Flashpaper is for sending any information that would be burned after reading (with counting down timer like Mission Impossible movie ! or after 24 hrs max if not opened) Encryption happens in browser and because the key stays after # in the link; server never sees the key (Zero-knowledge for web use) and— because I’m a newbie. I don’t want to connect to database because I don’t have the money and I want things light and simple. So, that’s why Flashpaper keeps things in RAM-only, no database. For AI Agent side, Flashpaper provides a REST API and an MCP server so agents can create secret links easily in dead-drop style that can be claimed only once. The second claim would get a 404 which means someone already took it. However, for the agent API flow, the server sees the plaintext for a moment before encrypting, so this flow is not zero-knowledge like the web flow. Overall, I think it work quite well for web use, but for agent API use, I am not sure this is enough security. All the limitations are listed in SECURITY.md. Some feedback would be appreciated. I make it open source with MIT license, with honorware policy for Enterprise use, like self-hosted docker. Here is my repo https:&#x2F;&#x2F;github.com&#x2F;mmmpym&#x2F;flashpaper and you can try it here https:&#x2F;&#x2F;flashpaper.app Again ! Please feel free to tell me what I missed. Min\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://flashpaper.app/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49085503",
+    "createdAt": "2026-07-28T16:08:59.927Z"
+  },
+  {
+    "slug": "a-terminal-editor-that-can-discuss-with-opencode-and-pi-hn",
+    "title": "A terminal editor that can discuss with OpenCode and Pi",
+    "shortDescription": "Since vibe coding, I write code by hand less and less, and spend more and more time discussing with the AI. I always need to tell the AI ex…",
+    "fullDescription": "Since vibe coding, I write code by hand less and less, and spend more and more time discussing with the AI. I always need to tell the AI exactly which part of a document I have thoughts about. I have to ctrl-c&#x2F;ctrl-v all day long — it&#x27;s given my fingers tendonitis. So here comes microNeo, an AI Partner. - Open a markdown document with microNeo and select the text you want to comment on - Press &lt;alt-enter&gt; to open the input box, and write down your thoughts - Press &lt;alt-enter&gt; again to send it to the AI. The AI will then receive your comment.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://sollawen.github.io/microNeo/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49085341",
+    "createdAt": "2026-07-28T16:08:59.927Z"
+  },
+  {
+    "slug": "pidgeiot-open-source-iotembedded-device-management-for-all-free-hn",
+    "title": "PidgeIoT – open-source IoT/Embedded device management for all (free*)",
+    "shortDescription": "Hi, I&#x27;m Justin! For the past ~3 years, instead of getting a real (well paying) job I&#x27;ve been working on PidgeIoT because, well...…",
+    "fullDescription": "Hi, I&#x27;m Justin! For the past ~3 years, instead of getting a real (well paying) job I&#x27;ve been working on PidgeIoT because, well... I&#x27;m stubborn and wanted to see if I could! PidgeIoT is a fully open source, cloud native, device management platform. Originally targeted at cellular connected devices, now aimed at everything! Currently only HTTPS and WebSockets are supported, but CoAP is planned. Bring your own SIM (if needed) and telemetry store. Its features include: device shadows, per-device keypairs (no JWTs!), telemetry ingestion with history, user-defined telemetry graphs, conditional email alerts, remote logging (on Zephyr), remote diagnostic shell (also on Zephyr via a WebSocket), OTA firmware updates (and hosting), and probably other things I&#x27;ve forgotten about at this point. PidgeIoT is built in Rust from front to back. The frontend is WASM (Dioxus) and the core is built around Cloudflare Workers and Durable Objects (also WASM). The backend uses a managed PostgreSQL DB (for now). The IAM is self-hosted Ory Kratos. You may be asking &quot;Why not just use a JS library for your SPA like a sensible person?&quot; To that I say, I hate JavaScript! Okay, okay, it&#x27;s not thaaat bad; but it&#x27;s not my cup of tea and WASM is cool (and the future ). Some Background: A couple years ago I was new to embedded systems and working on a project for a Regional Transit Authority (RTA) that required realtime data over a cellular connection. The system needed to receive a relatively large amount of data (around 4kB - 20kB) every 30 seconds. The data vendor “refused” to remove unnecessary information from the data or create a custom endpoint for me, and the RTA wasn’t keen on maintaining a middleware server to transform the data. Those constraints made existing IoT platforms unsuitable for the project, as they either had low data limits or charged excessively for each transmission. Other platforms required a Kubernetes cluster, an enterprise contract, or a project rewrite around their firmware. That frustrated me. I had a working system and no way to remotely manage it. So I made my own platform. A platform that hopefully makes getting into this space easier and less cost prohibitive! Currently all of the example projects are Zephyr based and include configs for native-sim plus the devices I have with me. Let me know if you have a different device&#x2F;firmware and need me to whip up an example for you! I know having to signup and compile firmware are annoying barriers to test it out, but I think they&#x27;re necessary for what PidgeIoT is. Plus I made these nice, Non-GMO, links just for you: - Getting started guide that requires no hardware: https:&#x2F;&#x2F;pidgeiot.com&#x2F;getting-started - A live demo: https:&#x2F;&#x2F;pidgeiot.com&#x2F;demo Please give me plenty of feedback; let me know what you want to see; tell me if I&#x27;m crazy for even trying this when AWS IoT exists! Is this another case of xkcd #927? * All PidgeIoT usage is free during early access; no credit card required. Pricing will come later with the express goal of not making past Justin think another platform needs to be built. GitHub Links, all repos AGPL-3.0 licensed: - pidgeiot: https:&#x2F;&#x2F;github.com&#x2F;justins-engineering&#x2F;pidgeiot - pigeon: https:&#x2F;&#x2F;github.com&#x2F;justins-engineering&#x2F;pigeon - pigeon-examples: https:&#x2F;&#x2F;github.com&#x2F;justins-engineering&#x2F;pigeon-examples\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://pidgeiot.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49085276",
+    "createdAt": "2026-07-28T16:08:59.927Z"
+  },
+  {
+    "slug": "higgs-a-local-ai-cli-for-proton-mail-no-cloud-no-telemetry-hn",
+    "title": "Higgs, a local AI CLI for Proton Mail (no cloud, no telemetry)",
+    "shortDescription": "Проект «Higgs, a local AI CLI for Proton Mail (no cloud, no telemetry)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Higgs, a local AI CLI for Proton Mail (no cloud, no telemetry)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/higgscli/higgs",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49085191",
+    "createdAt": "2026-07-28T16:08:59.927Z"
+  },
+  {
+    "slug": "the-posting-substack-api-hn",
+    "title": "The Posting Substack API",
+    "shortDescription": "Substack does not provide a native public API for publishing posts. But authors who want to draft, publish, and schedule from AI agents (Cu…",
+    "fullDescription": "Substack does not provide a native public API for publishing posts. But authors who want to draft, publish, and schedule from AI agents (Cursor, Claude, and other MCP hosts) still need a way out. This is the MCP server to publish to Substack via any agent.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://apisubstack.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49084617",
+    "createdAt": "2026-07-28T16:08:59.927Z"
+  },
+  {
+    "slug": "reply-better-ai-browser-ai-writing-that-runs-on-device-or-your-ollama-hn",
+    "title": "Reply Better AI – browser AI writing that runs on-device or your Ollama",
+    "shortDescription": "Проект «Reply Better AI – browser AI writing that runs on-device or your Ollama», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Reply Better AI – browser AI writing that runs on-device or your Ollama», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://chromewebstore.google.com/detail/reply-better-ai/dpdibbijcljdjnafjnmaljphpkfojlkb",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49084561",
+    "createdAt": "2026-07-28T16:08:59.927Z"
+  },
+  {
+    "slug": "git-log-for-your-infrastructure-including-your-ai-agents-config-hn",
+    "title": "Git log for your infrastructure (including your AI agent's config)",
+    "shortDescription": "Проект «Git log for your infrastructure (including your AI agent's config)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Git log for your infrastructure (including your AI agent's config)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/statedrift/statedrift",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49084551",
+    "createdAt": "2026-07-28T16:08:59.927Z"
+  },
+  {
+    "slug": "purple-hammer-construction-takeoff-and-estimating-in-taurirustwasm-hn",
+    "title": "Purple Hammer – construction takeoff and estimating in Tauri/Rust/WASM",
+    "shortDescription": "Purple Hammer does construction takeoff. You measure quantities off PDF drawings and a built-in spreadsheet lets you read from databases, f…",
+    "fullDescription": "Purple Hammer does construction takeoff. You measure quantities off PDF drawings and a built-in spreadsheet lets you read from databases, formulas, assemblies etc to price the job. This matters because most takeoff software (Bluebeam, Planswift) do not have the spreadsheet side of things built in. Stack is Tauri 2, Rust, SolidJS. The render and spreadsheet engines are both custom, compiled to WASM with modified PDFium for parsing. One codebase builds native Mac and Windows. Performance is most of the work. A 500-sheet set opens in about a second. Million+ vector drawings hold 120 FPS on mid hardware. It feels somewhat faster that any other construction viewer I’ve tested. Compare the live demo (on the homepage, or download free trial) vs an industry standard pdf tool at showcase.apryse.com&#x2F;cad-viewer. The solver runs 11-15M dependency steps&#x2F;sec on an adversarial test. Perhaps most important engineering achievement is that RAM &amp; Performance scale strictly with active attention rather than project&#x2F;file scope for both engines. So the same 1000 cell viewport renders at the same speed whether it is 1000 cells total or 1000 out of 10M in a sheet. Similarly page 1 of 500 is as performant as page 1 of 1. This is crucial in the space because with projects often having 10K-100k+ drawing versions, anything that scales with project size crashes. This is why (I think) incumbents can’t have reactive, connected sheets across large sets&#x2F;projects. Traditional spreadsheet architecture (DAG in RAM) would crash. More on the engineering here: https:&#x2F;&#x2F;purple-hammer.com&#x2F;blog&#x2F;ai-friendly-architecture.html Closed source, free trial available. AMA\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://purple-hammer.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49084435",
+    "createdAt": "2026-07-28T16:08:59.928Z"
+  },
+  {
+    "slug": "tines-3b-safe-workflow-automation-for-when-everyone-builds-software-hn",
+    "title": "Tines 3B – safe workflow automation for when everyone builds software",
+    "shortDescription": "Hey HN! This is Yannick from Tines, really excited to share what we’re launching today. Tines 3B is a new product we’ve built for teams bui…",
+    "fullDescription": "Hey HN! This is Yannick from Tines, really excited to share what we’re launching today. Tines 3B is a new product we’ve built for teams building agents, apps, and automations with AI, on top of the assumption that people are already doing this, whether or not IT or security knows about it. Finance, marketing, and more are building dashboards in Claude Code or Codex. None of it is malicious, people are doing exactly what they were asked to do. The issue is there&#x27;s no easy way for that work to run securely: it ends up on a laptop or personal account, with a credential pasted directly into the code, with no one else able to see it exists. Tines 3B is where that work runs instead: everyone can still build the same way, but it executes in an environment that IT and security can actually see and control. It&#x27;s code-first, describe what you want, your LLM writes the implementation, with isolated executions and credentials handled through a proxy rather than embedded in the code. Our other product has been running inside security and IT teams&#x27; most sensitive systems for the last 8 years. This is the same underlying problem (who gets access to what, and who can see it), just for a new category of builder. Our explorer edition is free forever, entirely self-serve: https:&#x2F;&#x2F;login.tines.com&#x2F;saml_idp&#x2F;signup\n\nНайдено в разделе Show HN на Hacker News. 👍 21 баллов.",
+    "url": "https://www.tines.com/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49084371",
+    "createdAt": "2026-07-28T16:08:59.928Z"
+  },
+  {
+    "slug": "countify-collaborative-no-code-computer-vision-for-labs-hn",
+    "title": "Countify – Collaborative No-code computer vision for labs",
+    "shortDescription": "Hi HN! This is Mateo, Maria, Faisal, and Osse from Countify ( https:&#x2F;&#x2F;www.countifybio.com&#x2F; ). We&#x27;re building a collabor…",
+    "fullDescription": "Hi HN! This is Mateo, Maria, Faisal, and Osse from Countify ( https:&#x2F;&#x2F;www.countifybio.com&#x2F; ). We&#x27;re building a collaborative no-code computer vision platform for life sciences. Think Replit, but for scientific image analysis. Labs use us to build, train, and automate AI image analysis workflows and experimental design without writing a single line of code. Almost every experiment in biology produces images: microscopy, cell cultures, tissue slides, well plates. Someone has to analyze them. Today that means one of two bad options. Option one: a scientist counts cells and traces regions by hand. It&#x27;s slow, it&#x27;s subjective, and it&#x27;s nearly impossible to reproduce. Option two: someone on the team learns to code — Python, ImageJ macros, deep learning models — which most biologists never will. The tools that already exist don&#x27;t close the gap and spread out throughout the workflow in capture, analysis, and data management. ImageJ and CellProfiler are powerful but have brutal learning curves. Arivis and others costs $30k+ per year and are for very specific use cases. Off-the-shelf AI models don&#x27;t generalize to your specific assay and need to deal with tiny datasets that don&#x27;t exist anywhere else. Building a custom model that actually works on your data takes an ML engineer, and academic labs and early-stage biotechs don&#x27;t have one. So image analysis becomes the bottleneck that stalls the entire experiment. Countify runs as a visual-intelligence agent that works alongside you in real time. Point it at your image; with any specimen, any experiment and it detects, reporting as data comes in. No code, and no manual annotation. You build and automate the workflow once; it runs the same way every time. Reproducible by default. We serve a single kind of user that is in spread across industry and academia, small teams performing frontier research in biotech that don&#x27;t have access to automation, however the platform scales organically to enterprise. Countify is built around collaboration. Any user can publish the workflows they build to the whole network. Contributors get paid when others run their work. Consumers skip the build step entirely and get a workflow that&#x27;s already been validated by someone who does that exact assay for a living. Everyone in the network compounds everyone else&#x27;s work. Where are we today? We&#x27;re early, and we&#x27;re not going to dress it up. We have two recurring users: one academic lab and one CRO. Its small, but we began ramping GTM and we&#x27;re adding roughly one new user a week, and onboarding a second CRO in August. How we got here: We met at Northeastern&#x27;s incubator where we had one week to go from idea to MVP to pitching investors. We won the competition. But more importantly, we walked out with real interest from labs at Harvard, Northeastern, and Stanford; and quickly after 30+ waitlist signups from other labs as top research institutions. We knew we were solving something real and had to dive in head first. We’d appreciate any feedback, questions, or advice. Thanks for reading. — Mateo, Maria, Faisal, and Osse\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.countifybio.com/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49084328",
+    "createdAt": "2026-07-28T16:08:59.928Z"
+  },
+  {
     "slug": "hiring-method-a-deterministic-math-driven-recruitment-platform-hn",
     "title": "Hiring Method – a deterministic, math-driven recruitment platform",
     "shortDescription": "Hi hackers! My partner and I got tired of nontransparent hiring processes and &quot;AI-native&quot; HR software that just wrap an LLM aroun…",
