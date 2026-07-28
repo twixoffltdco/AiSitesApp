@@ -1,5 +1,43 @@
 [
   {
+    "slug": "prompt-engineering-mastery-github",
+    "title": "prompt-engineering-mastery",
+    "shortDescription": "Production-grade prompt engineering curriculum — 7 modules covering foundations, reasoning, RAG, security, and evaluation. Model-agnostic (…",
+    "fullDescription": "Production-grade prompt engineering curriculum — 7 modules covering foundations, reasoning, RAG, security, and evaluation. Model-agnostic (OpenAI/Anthropic/Ollama), runnable notebooks, mini-projects, Mermaid diagrams. Not prompt tips — prompt engineering as a discipline.\n\nАвтор: himanshu231204. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/himanshu231204/prompt-engineering-mastery",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "anthropic",
+      "chatgpt",
+      "deepeval",
+      "evaluation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1312549766",
+    "createdAt": "2026-07-28T00:07:04.101Z"
+  },
+  {
+    "slug": "call-me-your-ai-agents-ring-you-with-no-extra-carrier-costs-hn",
+    "title": "Call Me, your AI agents ring you with no extra carrier costs",
+    "shortDescription": "Just a fun app I&#x27;ve been working on. Not necessarily AI only and works with any AI harness or just as an API.",
+    "fullDescription": "Just a fun app I&#x27;ve been working on. Not necessarily AI only and works with any AI harness or just as an API.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/radres/call-me",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49076793",
+    "createdAt": "2026-07-28T00:07:04.015Z"
+  },
+  {
     "slug": "aidress-coordination-layer-for-autonomous-ai-agents-hn",
     "title": "Aidress – Coordination layer for autonomous AI agents",
     "shortDescription": "Проект «Aidress – Coordination layer for autonomous AI agents», опубликован сообществом Hacker News.",
