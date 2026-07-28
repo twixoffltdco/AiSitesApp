@@ -1,5 +1,21 @@
 [
   {
+    "slug": "orb-self-hosted-ai-assistant-that-messages-you-first-hn",
+    "title": "Orb – Self-hosted AI assistant that messages you first",
+    "shortDescription": "Проект «Orb – Self-hosted AI assistant that messages you first», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Orb – Self-hosted AI assistant that messages you first», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/getorb/Orb-Backend",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49089227",
+    "createdAt": "2026-07-28T20:42:17.730Z"
+  },
+  {
     "slug": "nightrun-github",
     "title": "NIGHTRUN",
     "shortDescription": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
