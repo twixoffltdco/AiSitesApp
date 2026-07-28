@@ -1,5 +1,69 @@
 [
   {
+    "slug": "dynotable-the-dynamodb-gui-with-real-sql-and-your-ai-agent-hn",
+    "title": "DynoTable – The DynamoDB GUI with real SQL and your AI agent",
+    "shortDescription": "I&#x27;ve been using DynamoDB every day for work and I needed a fast, keyboard first, modern desktop client that will allow me to query, ag…",
+    "fullDescription": "I&#x27;ve been using DynamoDB every day for work and I needed a fast, keyboard first, modern desktop client that will allow me to query, aggregate, edit items in few clicks and that integrates well with Claude Code or Codex. I didn&#x27;t like any existing solutions. I have been using Dynobase for some time but its quite outdated by now and there are no new versions since 2023. DynoTable is a fast, keyboard first DynamoDB GUI desktop client for Mac, Windows and Linux. Some of the features: - SQL Workbench: you can run real SQL with joins and aggregations, on demand resolved from DynamoDB on the fly. Local engine works better than Athena connector and replaces all one-off scripts that I usually had to write. - Smart Tables: Visual representation of joined tables, easy select tables, join them and store as a smart table, run filters on it - Staged commits: you can do multiple edits in the table and commit them locally, then review all the changes, commit all or part of it to persist in DynamoDB, all changes are visible in the easy to read diff. - Autocomplete: DynoTable will build a local index of your tables, field keys and values, full schema, this allows for autocomplete in SQL, PartiQL, filters, JSON editor and gives AI agent necessary context to be efficient - AI agent on your AWS Bedrock: There is a fully featured AI agent that can do anything in the app - open tabs, filter, run SQL, create Smart tables, edit rows. Works well even with small models like Nova Lite 2. Agent cannot edit&#x2F;delete items directly. All changes go through staged commit. It shows you the diff, you confirm to persist in DynamoDB. There is also Cursor like quick AI edits and shadow autocomplete for SQL and PartiQL, so you can ask agent to quickly fix your query and it will know what fields are available, what syntax is supported and what tables it can join. Everything runs on your AWS account with no server in the middle, you own the data. - Built in MCP server: if you want to use Claude Code or Codex or Cursor as your AI agent, you also can, built in MCP exposes all the tools that local agent has so you have full control. Again, agent cannot modify data directly, it only has access to staged commit that requires your approval. - Arc browser like sidebar, navigation, folders: one very common issue I had is when you need to copy some data from one item to another, you have to open item, copy data, but then you need to copy id of another item, so you need to dump the data to a scratch file and so on. In DynoTable this is solved by tabs. You can open both items as tabs in sidebar and just switch between them, or you can just ask AI agent to do the edits. It can see and live edit your open tab. - Profile switching: also inspired by Arc browser: you can have multiple AWS profiles, assign color and icon to easily distinguish them. Switching is instant and all tabs and folders are stored per profile so you can have Prod and Dev profiles that don&#x27;t interfere. I designed the app with privacy in mind. Your data never lives the local app. The app only talks to your AWS Account. There is no backend at all (except for license check) and I only collect general anonymized metrics (opt in) and crash reports. For team users there are shared queries and snippets and table indexes for fast autocomplete. All stored in your AWS S3 bucket. The app has 30 days trial with all the features, no credit card required and a free forever read only plan, if you only need it for quick checks. Subscription starts at 9$ per month. Additional 30 days money back guarantee. Here is quick demo video: https:&#x2F;&#x2F;youtu.be&#x2F;u1Y9r6jt-zY?si=EmquNygH6Igdu93_ I&#x27;d appreciate your feedback. I heavily use the app myself and constantly improve it. Thanks\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://dynotable.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49082126",
+    "createdAt": "2026-07-28T11:34:58.128Z"
+  },
+  {
+    "slug": "build-an-avatar-cursor-integration-hn",
+    "title": "Build an Avatar-Cursor Integration",
+    "shortDescription": "Hey guys, I&#x27;m not sure how useful the avatar is, but I&#x27;d love to hear your thoughts on it....",
+    "fullDescription": "Hey guys, I&#x27;m not sure how useful the avatar is, but I&#x27;d love to hear your thoughts on it....\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://lee-ai.com/",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49082035",
+    "createdAt": "2026-07-28T11:34:58.128Z"
+  },
+  {
+    "slug": "open-source-cloudflare-deployed-agent-native-task-management-and-wiki-hn",
+    "title": "Open-source Cloudflare deployed agent native task management and wiki",
+    "shortDescription": "There are many task tracking solutions out there but this one is mine. It&#x27;s open source and free to host on your own Cloudflare projec…",
+    "fullDescription": "There are many task tracking solutions out there but this one is mine. It&#x27;s open source and free to host on your own Cloudflare project. https:&#x2F;&#x2F;github.com&#x2F;TAJD&#x2F;projektor I had issues with paying for some of the solutions out there, and then the local solutions like beads etc always had quirks I didn&#x27;t want to work around. I built my own solution on top of Cloudflare&#x27;s very generous usage tiers, and I&#x27;ve enjoyed using and developing it over the past month or so. I thought it might be good to share here and get feedback. The deployment process is designed to be super simple. I&#x27;m releasing artefacts from the repo that can be configured to deploy for your projects using the Cloudflare AI functionality they&#x27;ve recently released. You then need to configure your own Cloudflare Access policy to lock it down (or not) and then you&#x27;re off! Please let me know if you have any feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://tajd.github.io/projektor/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49081887",
+    "createdAt": "2026-07-28T11:34:58.129Z"
+  },
+  {
+    "slug": "discounthub-ai-assisted-search-for-deals-and-promo-codes-hn",
+    "title": "DiscountHub – AI-assisted search for deals and promo codes",
+    "shortDescription": "Проект «DiscountHub – AI-assisted search for deals and promo codes», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «DiscountHub – AI-assisted search for deals and promo codes», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://discounthub.uz/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49081547",
+    "createdAt": "2026-07-28T11:34:58.129Z"
+  },
+  {
     "slug": "renderpop-free-browser-based-ai-image-and-video-generator-hn",
     "title": "RenderPop – Free browser-based AI image and video generator",
     "shortDescription": "Проект «RenderPop – Free browser-based AI image and video generator», опубликован сообществом Hacker News.",
