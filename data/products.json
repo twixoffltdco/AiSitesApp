@@ -1,5 +1,85 @@
 [
   {
+    "slug": "krate-ai-made-apps-as-permissioned-files-for-mac-windows-and-linux-hn",
+    "title": "Krate, AI-made apps as permissioned files for Mac, Windows, and Linux",
+    "shortDescription": "Проект «Krate, AI-made apps as permissioned files for Mac, Windows, and Linux», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Krate, AI-made apps as permissioned files for Mac, Windows, and Linux», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/incyashraj/krate",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49079924",
+    "createdAt": "2026-07-28T06:24:15.794Z"
+  },
+  {
+    "slug": "over-150-side-events-of-blackhat-2026-in-one-page-hn",
+    "title": "Over 150 side events of BlackHat 2026 in one page",
+    "shortDescription": "Hundreds of events in Luma during Black Hat in Vegas next week. I thought why not simply put them all together in one page and let people f…",
+    "fullDescription": "Hundreds of events in Luma during Black Hat in Vegas next week. I thought why not simply put them all together in one page and let people filter by Invite-only &#x2F; Open &#x2F; Dinners &#x2F; Breakfasts\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.chancity.ai/blackhat-vegas-2026",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49079828",
+    "createdAt": "2026-07-28T06:24:15.795Z"
+  },
+  {
+    "slug": "drever-ai-first-mdx-presentations-with-expressive-motion-hn",
+    "title": "Drever – AI-first MDX presentations with expressive motion",
+    "shortDescription": "Проект «Drever – AI-first MDX presentations with expressive motion», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Drever – AI-first MDX presentations with expressive motion», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Zhangdroid/drever",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49079741",
+    "createdAt": "2026-07-28T06:24:15.795Z"
+  },
+  {
+    "slug": "orchard-let-ai-agents-set-up-your-apps-back-end-with-one-prompt-hn",
+    "title": "Orchard – Let AI agents set up your app's back end with one prompt",
+    "shortDescription": "Проект «Orchard – Let AI agents set up your app's back end with one prompt», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Orchard – Let AI agents set up your app's back end with one prompt», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://orchard-dashboard.pages.dev/landing",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49079523",
+    "createdAt": "2026-07-28T06:24:15.795Z"
+  },
+  {
+    "slug": "etymology-database-from-wiktionary-hn",
+    "title": "Etymology Database from Wiktionary",
+    "shortDescription": "I used Google AI credits to parse about a million wiktionary entries to make an etymology database. Still a work in progress. You can searc…",
+    "fullDescription": "I used Google AI credits to parse about a million wiktionary entries to make an etymology database. Still a work in progress. You can search words by the affixes they contain, find cognates, derivatives, and more, all information that is available but otherwise latent in Wiktionary. And you can search words by meaning, language(s) of origin, part of speech, and much more. Hoping to continue to improve the dataset and have an updated and accurate English etymology database. I have not (of course) personally validated all of the data, but the presentations on the site are relatively conservative.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://etymologue.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49079366",
+    "createdAt": "2026-07-28T06:24:15.795Z"
+  },
+  {
     "slug": "jasoseo-plugin-github",
     "title": "jasoseo-plugin",
     "shortDescription": "한국 취업 자기소개서를 기업조사→초안→글자수→리뷰→윤문→검증   8단계로 완성하는 Claude Code 플러그인",
