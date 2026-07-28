@@ -1,5 +1,43 @@
 [
   {
+    "slug": "starling-github",
+    "title": "starling",
+    "shortDescription": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
+    "fullDescription": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps\n\nАвтор: starling-build. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://starling.build",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "compositor",
+      "desktop",
+      "desktop-environment",
+      "drm",
+      "flutter",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1314535038",
+    "createdAt": "2026-07-28T17:52:28.516Z"
+  },
+  {
+    "slug": "noclick-build-always-on-agents-with-your-existing-ai-subscriptions-hn",
+    "title": "NoClick – Build always-on agents with your existing AI subscriptions",
+    "shortDescription": "Hey HN! Been working on a platform that lets you build always-on background AI agents that work with your existing subscriptions&#x2F;harne…",
+    "fullDescription": "Hey HN! Been working on a platform that lets you build always-on background AI agents that work with your existing subscriptions&#x2F;harnesses of choice (Claude Code, Codex, OpenCode, Hermes, OpenClaw). Works in three steps: - Choose your agent harness (CC&#x2F;Codex&#x2F;OpenCode&#x2F;Hermes&#x2F;OpenClaw) and connect your corresponding subscription - Select the tools across 150+ integrations you want the agent to have access to - Decide when the agent should run (recurring schedule, app event, webhook, etc) All the infra behind the scenes (spinning up a sandbox to run the harness, connecting selected tools to it, persisting files across agent cold starts, observability for tool calls, etc) is automatically handled. Happy to answer any questions!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.noclick.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49086639",
+    "createdAt": "2026-07-28T17:52:28.440Z"
+  },
+  {
     "slug": "nutaan-ai-powered-voice-calling-assistant-and-live-chat-widget-hn",
     "title": "Nutaan – AI-powered voice calling assistant and live chat widget",
     "shortDescription": "Проект «Nutaan – AI-powered voice calling assistant and live chat widget», опубликован сообществом Hacker News.",
