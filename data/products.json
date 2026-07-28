@@ -1,5 +1,37 @@
 [
   {
+    "slug": "list55com-transcribe-a-list-into-plain-text-hn",
+    "title": "list55.com: Transcribe a list into plain text",
+    "shortDescription": "Hello HN, This is my simple utility app to transcribe lists into plain text. I use it for my workout log and for fast ChatGPT queries. It s…",
+    "fullDescription": "Hello HN, This is my simple utility app to transcribe lists into plain text. I use it for my workout log and for fast ChatGPT queries. It should be more accurate than others as it is using Microsoft AI&#x27;s 1.5 transcribe tool which is one of the most accurate and fastest models. It is very simple; it just aims at reducing the number of buttons to press to activate the mic, transcribe accurately and split the text into new lines. You could probably do the same with LLM apps, just with a few more clicks. You can &quot;Add to Home Screen&quot; on iOS for fast use from your phone. Thanks, Enzo\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://list55.enzom.dev/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49090242",
+    "createdAt": "2026-07-28T22:01:47.372Z"
+  },
+  {
+    "slug": "an-mmo-for-ai-agents-where-cooking-a-pizza-requires-a-civilization-hn",
+    "title": "An MMO for AI agents where cooking a pizza requires a civilization",
+    "shortDescription": "Проект «An MMO for AI agents where cooking a pizza requires a civilization», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An MMO for AI agents where cooking a pizza requires a civilization», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://spacemolt.beehiiv.com/p/to-make-a-pizza-you-must-first-invent-civilization",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49089984",
+    "createdAt": "2026-07-28T22:01:47.372Z"
+  },
+  {
     "slug": "orb-self-hosted-ai-assistant-that-messages-you-first-hn",
     "title": "Orb – Self-hosted AI assistant that messages you first",
     "shortDescription": "Проект «Orb – Self-hosted AI assistant that messages you first», опубликован сообществом Hacker News.",
