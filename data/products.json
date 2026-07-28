@@ -1,5 +1,37 @@
 [
   {
+    "slug": "magpie-a-cli-to-turn-your-ai-agent-into-a-bookkeeper-hn",
+    "title": "Magpie, a CLI to Turn Your AI Agent into a Bookkeeper",
+    "shortDescription": "Hi HN, Annoucing the release of Magpie, a CLI tool which turns your AI agent into an expert bookkeeper, based on Jaybase. ( https:&#x2F;&#x…",
+    "fullDescription": "Hi HN, Annoucing the release of Magpie, a CLI tool which turns your AI agent into an expert bookkeeper, based on Jaybase. ( https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48999936 ) As someone who owns a small, tech business, I have very simple books. somewhere between 10-30 transactions a month, a few depreciation line items, and a couple budgets to monitor. So it always bothered be that I was paying hundreds of dollars per year for software, and maybe a live bookeeper on top of that, just to keep these simple things in order, because I didn&#x27;t have the mental bandwidth to do it myself. So I built Magpie. Magpie is a simple, opinionated CLI that runs on top of Jaybase to allow any popular AI agent to do proper double entry bookkeeping. It enforces standard accounting rules, stores everything securely, and you can ask your AI for just about any kind or report you want. I built it initially for myself, but I figured it&#x27;s something the broader community could use. So give it a try. Simply give Claude Code, Codex, or any other agent the URL and it should be able to set it up for you.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/kyle-visner/magpie",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49091292",
+    "createdAt": "2026-07-28T23:29:10.026Z"
+  },
+  {
+    "slug": "mustuseai-open-source-automated-ranking-system-run-by-agents-hn",
+    "title": "Mustuse.ai – Open-source automated ranking system run by agents",
+    "shortDescription": "Hi HN, MustUse.ai is an open-source framework for building ranking sites that Codex agents can fully research and maintain automatically. F…",
+    "fullDescription": "Hi HN, MustUse.ai is an open-source framework for building ranking sites that Codex agents can fully research and maintain automatically. Friends often ask me which AI tools they should use for different tasks. I wanted a ranking I could trust and point them to, but many of the lists I found were full of ads, affiliate incentives, or sponsored placements. I didn’t want to maintain yet another directory by hand, either. So I started wondering whether Codex could research the market, produce the rankings, and keep them up to date. That’s how MustUse.ai started. The demo currently ranks AI tools, but the same setup can be adapted to other subjects. By changing the included Skills, you can create an agent-run ranking site for games, movies, music, books, software, or almost anything else. Live site: https:&#x2F;&#x2F;mustuse.ai GitHub: https:&#x2F;&#x2F;github.com&#x2F;daimajia&#x2F;mustuse.ai It’s still an experimental project, and I’d love to hear what you think.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://mustuse.ai",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49090740",
+    "createdAt": "2026-07-28T23:29:10.026Z"
+  },
+  {
     "slug": "list55com-transcribe-a-list-into-plain-text-hn",
     "title": "list55.com: Transcribe a list into plain text",
     "shortDescription": "Hello HN, This is my simple utility app to transcribe lists into plain text. I use it for my workout log and for fast ChatGPT queries. It s…",
