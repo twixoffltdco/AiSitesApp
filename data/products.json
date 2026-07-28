@@ -1,5 +1,197 @@
 [
   {
+    "slug": "hiring-method-a-deterministic-math-driven-recruitment-platform-hn",
+    "title": "Hiring Method – a deterministic, math-driven recruitment platform",
+    "shortDescription": "Hi hackers! My partner and I got tired of nontransparent hiring processes and &quot;AI-native&quot; HR software that just wrap an LLM aroun…",
+    "fullDescription": "Hi hackers! My partner and I got tired of nontransparent hiring processes and &quot;AI-native&quot; HR software that just wrap an LLM around CVs (or even simply claims doing so) so we built Hiring Method to do the opposite. It converts CVs and job requirements into structured data, then uses a transparent math engine to score the match. Instead of trusting a black box you get a clear, audit-ready scorecard that shows exactly why a candidate is a good fit. We are currently building a sourcing feature to help find those candidates in the first place. We have been working on this for 1.5 years, and after a couple of idea pivots we finally pushed it to prod a month ago. A quick note: signups are currently put behind an onboarding call as it&#x27;s a B2B tool. I know Show HN prefers immediate open access so I hope it&#x27;s still okay to share our project here! Would love your feedback on the technical approach.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://hiring-method.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49083987",
+    "createdAt": "2026-07-28T14:00:07.158Z"
+  },
+  {
+    "slug": "polybridge-a-causal-model-for-forecasting-global-events-hn",
+    "title": "PolyBridge – a causal model for forecasting global events",
+    "shortDescription": "Hi HN, I’m working on PolyBridge. Ask a question about a future event and it returns a probability, a credible interval, and the evidence b…",
+    "fullDescription": "Hi HN, I’m working on PolyBridge. Ask a question about a future event and it returns a probability, a credible interval, and the evidence behind the result. API&#x2F;docs: https:&#x2F;&#x2F;polybridge.ai&#x2F;api It combines prediction markets with other data sources in a probabilistic graphical model. We currently index more than 170k event contracts across major prediction-market venues. The model handles current-state queries, forecasts, conditionals, interventions, and counterfactuals. For example, there may be a market on whether the Fed cuts rates in September, but not on how a spike in oil prices would change those odds. The model estimates the change using the relationships between rates, inflation, oil prices, recession risk, and other evidence. We also publish Situation Rooms, which are curated pages for following a topic over time. Here is one for the 2028 presidential race: https:&#x2F;&#x2F;polybridge.ai&#x2F;situation-rooms&#x2F;2028-race-to-the-white... The API includes Search for finding relevant evidence and Forecast for returning a probability and the reasoning behind it. I’d appreciate feedback on the API, the Situation Rooms, and the kinds of questions you would test.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://polybridge.ai",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49083805",
+    "createdAt": "2026-07-28T14:00:07.158Z"
+  },
+  {
+    "slug": "dinjure-bulls-and-cows-in-one-html-file-with-a-fallible-ai-hn",
+    "title": "Dinjure – Bulls and Cows in one HTML file, with a fallible AI",
+    "shortDescription": "Проект «Dinjure – Bulls and Cows in one HTML file, with a fallible AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Dinjure – Bulls and Cows in one HTML file, with a fallible AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://dinjure.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49083293",
+    "createdAt": "2026-07-28T14:00:07.158Z"
+  },
+  {
+    "slug": "i-put-a-243-necklace-on-3-outfits-vlms-priced-it-at-19-to-104-hn",
+    "title": "I put a $2.43 necklace on 3 outfits. VLMs priced it at $19 to $104",
+    "shortDescription": "Проект «I put a $2.43 necklace on 3 outfits. VLMs priced it at $19 to $104», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I put a $2.43 necklace on 3 outfits. VLMs priced it at $19 to $104», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 16 баллов.",
+    "url": "https://github.com/BraveAnn011/ai-halo-valuation-bias",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49083244",
+    "createdAt": "2026-07-28T14:00:07.158Z"
+  },
+  {
+    "slug": "formally-verified-3d-csg-trust-93-lines-spec-not-1000-lines-ai-code-hn",
+    "title": "Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+    "shortDescription": "To my knowledge, this is the first formally verified implementation of a 3D constructive solid geometry (CSG) operation: mesh intersection,…",
+    "fullDescription": "To my knowledge, this is the first formally verified implementation of a 3D constructive solid geometry (CSG) operation: mesh intersection, implemented in Lean 4 and verified against a concise specification that pins down the surface of the resulting mesh exactly and guarantees practical well-formedness conditions on the triangulation. This project is also an experiment in avoiding having to trust AI-generated code. A human reviewer only needs to read 93 lines of formal specification and run the Lean checker to certify the correctness of the kernel, skipping the intricate 1000+ lines of AI-written implementation. To prove correctness, AI autonomously wrote over 60,000 lines of Lean proofs, which also never have to be inspected by a human. The Lean checker guarantees conformance to the specification at compile time, with zero trust placed in any LLM. This allows us to treat the implementation and proofs as a black box. I guided the agent through the milestones described in the readme to arrive at the result presented here. Also take a look at the web demo https:&#x2F;&#x2F;schildep.github.io&#x2F;verified-3d-mesh-intersection&#x2F; , which runs the verified mesh intersection kernel compiled to WebAssembly in your browser.\n\nНайдено в разделе Show HN на Hacker News. 👍 32 баллов.",
+    "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49083239",
+    "createdAt": "2026-07-28T14:00:07.158Z"
+  },
+  {
+    "slug": "cosmos47-a-public-chronological-feed-without-algorithms-hn",
+    "title": "Cosmos47, a public chronological feed without algorithms",
+    "shortDescription": "I’ve worked as a B2C product manager and co-founded two social-media-related startups (one acquired and one closed down), but I was never p…",
+    "fullDescription": "I’ve worked as a B2C product manager and co-founded two social-media-related startups (one acquired and one closed down), but I was never particularly good at conventional social networking. I don’t enjoy cultivating followers, optimizing for engagement, or wondering how a post will perform. Yet sometimes I want to share something and I want people to get a reasonable chance of finding it. Sure, I can start a blog or an X account (which obviously I have) but when I post something, usually nobody sees it or interacts with it. So... I&#x27;ve built Cosmos47 - a public social feed that shows all posts chronologically. One feed that appears the same to all users, from all over the world. No algorithm or ranking people by popularity. All posts are analyzed with AI and each post gets tagged with its language, topics, tone, format, length, location, and other characteristics. Readers can then filter the feed themselves (if they wish). The idea is distribution through relevance rather than popularity. Full Disclosure The entire website was built using AI tools, including the frontend, backend, and much of the work required to make a client-rendered app accessible to search engines. The main platform was Base44, but I&#x27;ve used their MCP (with ChatGPT 5.6 Sol) and added a Cloudflare layer that returns crawler-readable public pages, metadata and sitemaps. It’s still an early experiment. Most of the content currently on the platform is actually AI slop test content that I created to test multilingual feeds, filtering, moderation, embeds, search and indexing. I’m not trying to present this as an existing community and my next challenge is to attract real people who genuinely want to try it out. I’d appreciate any feedback you want to share!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://cosmos47.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49083145",
+    "createdAt": "2026-07-28T14:00:07.158Z"
+  },
+  {
+    "slug": "preloop-open-source-control-plane-for-ai-agents-see-govern-cut-cost-hn",
+    "title": "Preloop: Open-source control plane for AI agents. See, govern, cut cost",
+    "shortDescription": "Проект «Preloop: Open-source control plane for AI agents. See, govern, cut cost», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Preloop: Open-source control plane for AI agents. See, govern, cut cost», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/preloop/preloop",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49083015",
+    "createdAt": "2026-07-28T14:00:07.158Z"
+  },
+  {
+    "slug": "banksia-build-and-run-adaptable-accountable-ai-teams-hn",
+    "title": "Banksia – Build and run adaptable, accountable AI teams",
+    "shortDescription": "Проект «Banksia – Build and run adaptable, accountable AI teams», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Banksia – Build and run adaptable, accountable AI teams», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/ringlochid/banksia",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49083014",
+    "createdAt": "2026-07-28T14:00:07.158Z"
+  },
+  {
+    "slug": "the-rise-of-open-weights-a-long-scroll-story-hn",
+    "title": "The Rise of Open Weights – a long scroll story",
+    "shortDescription": "Over the weekend I was discussing the latest news relating to open weights with some of my non-techie friends. After 30 mins of waffling, I…",
+    "fullDescription": "Over the weekend I was discussing the latest news relating to open weights with some of my non-techie friends. After 30 mins of waffling, I realised it is quite a long and interesting story, with many twists and turns. I&#x27;ve always wanted to create a &#x27;long scroll&#x27; story, but have never found a suitable story to tell. This felt like a fun weekend project to undertake. The story itself doesn&#x27;t have too many scroll effects (which is probably a good thing), it was more about trying to tell a story with a certain style that wouldn&#x27;t really fit on my personal blog. Would love to get your feedback on the content and &#x2F; or presentation. AI Usage Notice: I used AI to help research the content, but the story itself was written entirely by me. Whereas the long scroll website was created entirely by Claude Code. As an aside, I had Claude create a simple markdown-based rendering process (inspired by remark.js) to ensure a deterministic rendering that didn&#x27;t alter any of my words.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://blog.scottlogic.com/ceberhardt/rise-of-open-weights/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49082976",
+    "createdAt": "2026-07-28T14:00:07.158Z"
+  },
+  {
+    "slug": "segue-save-context-in-one-ai-load-it-in-another-by-a-short-handle-hn",
+    "title": "Segue – Save context in one AI, load it in another by a short handle",
+    "shortDescription": "Проект «Segue – Save context in one AI, load it in another by a short handle», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Segue – Save context in one AI, load it in another by a short handle», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 8 баллов.",
+    "url": "https://segue.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49082779",
+    "createdAt": "2026-07-28T14:00:07.158Z"
+  },
+  {
+    "slug": "hotcell-local-sandboxes-for-ai-agents-hn",
+    "title": "Hotcell – local sandboxes for AI agents",
+    "shortDescription": "Hi HN! Sina here. i wanted to share this open source project (apache 2.0) that i&#x27;ve been working on for the past month or so. it&#x27;…",
+    "fullDescription": "Hi HN! Sina here. i wanted to share this open source project (apache 2.0) that i&#x27;ve been working on for the past month or so. it&#x27;s called hotcell and it lets you create&#x2F;pause&#x2F;manage sandboxes on any device (your laptop, linux vm, bare metal). i&#x27;ve tested it against various benchmarks that i found on computesdk ( https:&#x2F;&#x2F;www.computesdk.com&#x2F;benchmarks&#x2F;sandboxes&#x2F; ) as well as the one shared by dax (cofounder of open code) on twitter recently (link to his original thread and my reply https:&#x2F;&#x2F;x.com&#x2F;sinasanm&#x2F;status&#x2F;2078158598996443346 ) and generally the full benchmark results are here: https:&#x2F;&#x2F;github.com&#x2F;sinameraji&#x2F;hotcell&#x2F;blob&#x2F;main&#x2F;docs&#x2F;benchma... i spent a lot of time on making sure both the devrloper experience and agent experience are smooth on it and im actively working to make it perform better against benchmarks. also api keys are never directly injected into the sandbox. instead it creates a per-sandbox token that becomes useless when the sandbox dies. as for isolation method, it can work with docker, apple VZ (vm grade isolation on mac) or firecracker for linux . primary use cases i imagine: * if you build agentic desktop apps that have filesystem access locally, hotcell makes it super easy to start a sandbox and bring whatever file needed to it, do the work in a new branch, create a PR and close the sandbox * if u just use claude code etc. and wanna spin up 5-6 diff environments without using worktree or cloning your project dirs, u can write a 1 line command like this to instantly have 5 sandboxes! hotcell create -n 5 --name feat --branch auto --opencode --repo https:&#x2F;&#x2F;github.com&#x2F;you&#x2F;app my inspiration was cloudflare sandbox sdk (but i noticed my friends and i couldn&#x27;t use cloudflare in on-prem environment so i thought i&#x27;d build a local &#x2F; open source one that works w any hardwarw). thank you and hope you like it.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/sinameraji/hotcell",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49082676",
+    "createdAt": "2026-07-28T14:00:07.159Z"
+  },
+  {
+    "slug": "zenly-investment-research-platform-built-around-a-qualityvalue-score-hn",
+    "title": "Zenly – Investment research platform built around a quality/value score",
+    "shortDescription": "I&#x27;ve spent the past year building what I believe to be a comprehensive investment research and tracking platform. As an avid investor…",
+    "fullDescription": "I&#x27;ve spent the past year building what I believe to be a comprehensive investment research and tracking platform. As an avid investor who incorporates a few strategies for investing (index investing, factor tilts, some quality stocks at good valuations, a bit of dividends), I was continuously jumping between different websites and tools for different needs, most of which were missing the exact thing I needed. I wanted one place which had visual representation of stock fundamentals without overwhelming me with data, a portfolio tracker that integrates with my brokerage, a stock screener which filters for PEG ratio the correct way (trailing P&#x2F;E vs long term eps growth rate), to see a full exposure analysis and AI insights on my portfolio, back-testing capabilities, and a quick way to evaluate how good an investment is (since the process I was doing for evaluating stocks was the same one every time - PEG ratio, expected growth, debt, revenue growth, ROIC). I wanted something simple yet powerful that gives me exactly the information I need, and nothing more. Zenly is a result of many months of work of re-iteration, improvement, and research. It&#x27;s a passion project that eventually became my number one used tool for all my investing needs. What sets Zenly apart: - The zen score (Methodology: https:&#x2F;&#x2F;zenlyfinancial.com&#x2F;zen-score-explained ). This is a score I created based on the quality factor premium literature along with hefty work I personally did on running regression analysis on stock behavior based on fundamentals for the past 20 years. The score takes into account fundamental metrics that have been found to be differentiators in stock returns - 5y revenue growth, estimated eps growth, debt levels, ROIC, and forward looking valuation. Grading every publicly US-listed equity with this score, basically creating a desirability score for each. - Intuitive visualizations of stock fundamentals, along with builtin AI analysis for the thesis, bear case, bull case, and earnings sustainability. - In-depth exposure analysis, income tracking, performance tracking, and aggregate quality data on the users portfolio, all automatically connected to your brokerage. - Stock screening, back testing, aggregate fundamental simulation on pre-built portfolios. It&#x27;s priced at 5usd&#x2F;month to cover my hosting, financial apis and AI usage cost, with a 14 day free trial no credit card required. I would love any feedback, and I welcome any questions regarding the Zen Score, my stack, or anything else that comes to mind.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://zenlyfinancial.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49082361",
+    "createdAt": "2026-07-28T14:00:07.159Z"
+  },
+  {
     "slug": "dynotable-the-dynamodb-gui-with-real-sql-and-your-ai-agent-hn",
     "title": "DynoTable – The DynamoDB GUI with real SQL and your AI agent",
     "shortDescription": "I&#x27;ve been using DynamoDB every day for work and I needed a fast, keyboard first, modern desktop client that will allow me to query, ag…",
