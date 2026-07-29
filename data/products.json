@@ -1,5 +1,21 @@
 [
   {
+    "slug": "mindflock-parallel-ai-coding-agents-each-in-its-own-git-worktree-hn",
+    "title": "MindFlock – Parallel AI coding agents, each in its own Git worktree",
+    "shortDescription": "Проект «MindFlock – Parallel AI coding agents, each in its own Git worktree», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «MindFlock – Parallel AI coding agents, each in its own Git worktree», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/MindFlock/MindFlock",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49102636",
+    "createdAt": "2026-07-29T20:53:11.738Z"
+  },
+  {
     "slug": "concord-some-open-source-stuff-hn",
     "title": "Concord, some open source stuff",
     "shortDescription": "Working on some fixes, got an audit from Aikido Security(shoutout to them, great team!) our first scan surfaced 70 issues. Hoping to move i…",
