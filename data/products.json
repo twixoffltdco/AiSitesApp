@@ -1,5 +1,53 @@
 [
   {
+    "slug": "ive-mapped-126k-listings-from-4500-direct-booking-sites-hn",
+    "title": "I've mapped 126k listings from 4500 direct booking sites",
+    "shortDescription": "I manage short term rentals and I made one big direct booking site for any host that uses a PMS and all I need is a URL. No accounts, no fe…",
+    "fullDescription": "I manage short term rentals and I made one big direct booking site for any host that uses a PMS and all I need is a URL. No accounts, no fees, no commissions. I’m tired of Airbnb, VRBO, and Booking charging such high fees and commissions so I made a free search platform. I’m also building a crawler to automate the discovery of new listings to hopefully have millions soon.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://staythere.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49100300",
+    "createdAt": "2026-07-29T18:04:25.246Z"
+  },
+  {
+    "slug": "vernllm-the-ai-resilience-layer-for-typescript-hn",
+    "title": "VernLLM – The AI resilience layer for TypeScript",
+    "shortDescription": "Built this cuz no library gave LLM API calls in prod a consistent way to retry, timeout, circuit-break and cache across multiple providers.",
+    "fullDescription": "Built this cuz no library gave LLM API calls in prod a consistent way to retry, timeout, circuit-break and cache across multiple providers.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://vernllm.vercel.app",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49100122",
+    "createdAt": "2026-07-29T18:04:25.247Z"
+  },
+  {
+    "slug": "mandocode-desktop-native-windows-ai-coding-assistant-on-ollama-net-hn",
+    "title": "MandoCode Desktop – Native Windows AI Coding Assistant on Ollama .NET",
+    "shortDescription": "Quick backstory on how this version came to be: the original MandoCode is a CLI, and its UI is built with RazorConsole — Blazor components…",
+    "fullDescription": "Quick backstory on how this version came to be: the original MandoCode is a CLI, and its UI is built with RazorConsole — Blazor components rendered into a terminal. Genuinely clever tech! I wanted tabs, though, and when I attended MS Build this year I got a good look at what WinUI apps could do and saw the potential to give the original agent some actual windows and tabs. Having up to 4 agents running in one window is pretty cool. Aside from that — tabs! I feel like everything is a chat these days, and for some reason my brain keeps screaming AGENTS, not chats, at me. I love the tabbed-browser experience a lot more Some of the stuff I got to toy with once the plumbing worked: - Context snapshots — closing an agent archives the conversation instead of deleting it, and you can snapshot mid-conversation to get an AI-written recap you can hand to a different model or a fresh agent and have it pick up the thread. You pick the LLM from a dropdown right when you create the snapshot. - Transcript export — every agent tab can dump its full conversation to a file. - 16 themes — this is where the kid in me just had plain fun, building the kind of themes you find in VS Code and other IDEs. Dracula, Tokyo Night, One Dark Pro, all the tasteful ones, plus a period-accurate Windows 98 desktop and a Cathode Ray CRT mode. Drop in your own background image too if none of the 16 land. - A deliberately limited Notes pad — always there, separate from any project, optional AI help, but the assistant has zero file tools in it. The only way a reply lands in your note is you clicking a button to put it there. - A tiny built-in music player — for the vibes, lol. Lofi&#x2F;synthwave bundled, or point it at your own MP3 folder. Overall I loved working within WinUI XD\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/DevMando/MandoCode.Desktop",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49099891",
+    "createdAt": "2026-07-29T18:04:25.247Z"
+  },
+  {
     "slug": "openbcon-github",
     "title": "OpenBcon",
     "shortDescription": "Open-source AI platform for funding & business consultants. Generate business plans, manage clients, automate reports, and discover funding…",
