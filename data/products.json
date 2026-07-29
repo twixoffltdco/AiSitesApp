@@ -1,5 +1,21 @@
 [
   {
+    "slug": "an-ai-color-grader-pico-hn",
+    "title": "An AI Color Grader – Pico",
+    "shortDescription": "I&#x27;m a filmmaker, and have been pretty frustrated by AI video editors that are focused on automating editing instead of helping artists…",
+    "fullDescription": "I&#x27;m a filmmaker, and have been pretty frustrated by AI video editors that are focused on automating editing instead of helping artists produce their visions. Recently got curious about whether Claude could color grade my footage, and built Pico. Turns out Claude can (sometimes!) Please feel free to ask questions, try it on your own footage, or contribute to the project! Ask: if you are a researcher or hobbyist filmmaker, I&#x27;d love to chat with you to figure out how to make the models better at this!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.perbhat.com/pico",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49104055",
+    "createdAt": "2026-07-29T23:02:40.186Z"
+  },
+  {
     "slug": "loom-engine-github",
     "title": "loom-engine",
     "shortDescription": "🧵 A terminal-native narrative engine & text RPG in Rust 🦀. Play with any LLM: OpenAI, Anthropic, local models & more.",
