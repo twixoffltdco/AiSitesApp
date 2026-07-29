@@ -1,5 +1,91 @@
 [
   {
+    "slug": "astral-web-ui-github",
+    "title": "Astral-Web-UI",
+    "shortDescription": "An open source, minimal local-first AI chat interface with Visual Conversation Branch Trees and browser-style tabs. ",
+    "fullDescription": "An open source, minimal local-first AI chat interface with Visual Conversation Branch Trees and browser-style tabs. \n\nАвтор: RealPhonyx. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/RealPhonyx/Astral-Web-UI",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "aichat",
+      "anthropic",
+      "chatinterface",
+      "gemini",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1313872258",
+    "createdAt": "2026-07-29T12:58:24.370Z"
+  },
+  {
+    "slug": "echologue-the-private-ai-voice-journal-i-built-for-myself-hn",
+    "title": "Echologue – the private AI voice journal I built for myself",
+    "shortDescription": "I have tried journaling many times but nothing stuck. So I decided to make my own app for myself with these features: * Voice first * Priva…",
+    "fullDescription": "I have tried journaling many times but nothing stuck. So I decided to make my own app for myself with these features: * Voice first * Private first * AI chat * Automatic tagging, meaning extraction, and semantic retrieval using embeddings stored locally * Export to LLM the AI angle is especially interesting for me. It allows me to ask questions like: * &quot;remind me highlights and crazy nights in the last 3 months&quot; * &quot;How was I feeling during my trip in Spain and how big of a problem was my breakup&quot; * &quot;How would you judge my overall interactions with Marc after I told him about my problems&quot; the overall process is fire and forget. I just talk for let&#x27;s say a minute every day or when there was something of interest. Everything is stored on device. The AI inference is done with Zero Data Retention Endpoints. No email or anything else is kept, you are completely anonymous, I have no idea what or how people use this. Otherwise journaling doesn&#x27;t work. I can&#x27;t say my secret thoughts when I know someone has a master key or can suffer a security breach. I hope you enjoy the product as much as I do.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://echologue.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49096767",
+    "createdAt": "2026-07-29T12:58:24.252Z"
+  },
+  {
+    "slug": "font-lab-live-font-swapping-and-text-editing-on-your-dev-server-hn",
+    "title": "Font Lab – live font swapping and text editing on your dev server",
+    "shortDescription": "I was getting tired of all my sites having the same generic fonts and having AI generated writing because it&#x27;s cumbersome to experimen…",
+    "fullDescription": "I was getting tired of all my sites having the same generic fonts and having AI generated writing because it&#x27;s cumbersome to experiment. You can ask an agent to give you some font ideas but they link out to a specimen where you imagine what it might look like on your site. You ask the agent to wire it up and it looks different than what you thought. I just wanted to be able to play with fonts in the project itself, as well as the ability to edit the text where I saw it, on my live project via local dev server without needing Lovable or some other platform to do it. And then the one I pick is exactly what I get in the live environment. Font Lab lets you see several font options right in your site. If the agent can access your local computer (ex: cursor), it can install the Font Lab panel, curate options from any Google font, and then let you swap them in real time on your localhost dev server. If you&#x27;re using web or a non-supported framework, it can generate screenshots with the fonts on your site so you can still really see what it would look like for your project. You can also double click on any text on your site to edit in-place. Just hit enter and it saves right to the file. You can then see the edits exactly where they will be on your site. While you can edit text in the files manually, it takes a lot of time. Or you can use prompts, but it&#x27;s annoying and burns tokens. Panel&#x2F;text edit currently works on Next.js. Other frameworks should default to screenshots. Live demo on the repo and a copy-able prompt! If you try it out, I&#x27;m open to any feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/jmg698/Font-Lab",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49096476",
+    "createdAt": "2026-07-29T12:58:24.252Z"
+  },
+  {
+    "slug": "passcontrol-so-your-ai-agents-never-hold-your-real-api-keys-hn",
+    "title": "PassControl – so your AI agents never hold your real API keys",
+    "shortDescription": "Проект «PassControl – so your AI agents never hold your real API keys», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «PassControl – so your AI agents never hold your real API keys», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://passcontrol.vertias.eu",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49096412",
+    "createdAt": "2026-07-29T12:58:24.252Z"
+  },
+  {
+    "slug": "steadradev-is-for-automated-qa-with-no-effort-hn",
+    "title": "Steadra.dev is for automated QA with no effort",
+    "shortDescription": "I created Steadra so I wouldn&#x27;t have to spend effort on writing automated tests anymore. I always thought AI should be smart enough so…",
+    "fullDescription": "I created Steadra so I wouldn&#x27;t have to spend effort on writing automated tests anymore. I always thought AI should be smart enough so our software team can rely on it and have automated tests up to date at all times with no effort. Beta is free (no card) because feedback is welcomed. Just add your URL. It will provide you with - Given-When-Then set of scenarios that represent your current state of things - Automated testing against these scenarios that can be run multiple times so developers don’t break existing functionality - Out of the box bug reports like console errors, bad status codes, broken links, etc ... You’ll get scenarios like: ``` Given I am on the pricing page When I click &quot;Start free trial&quot; Then I should land on the signup form ``` Managed to get the costs of using AI way down by working in multiple stages and being specific about what it needs to do for each of them. Feedback is much appreciated, Thank you. btw, you can also write your url on the comments section and I can do a run for you and show you the results for your web application.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://steadra.dev",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49096149",
+    "createdAt": "2026-07-29T12:58:24.252Z"
+  },
+  {
     "slug": "aikun-github",
     "title": "Aikun",
     "shortDescription": "轻量稳定的 AI 网关：OpenAI / Anthropic 双协议接入，多渠道聚合、故障转移与协议自动转换，单二进制零依赖部署",
