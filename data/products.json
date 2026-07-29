@@ -1,5 +1,171 @@
 [
   {
+    "slug": "ai-token-monitor-github",
+    "title": "ai-token-monitor",
+    "shortDescription": "Real-time AI token usage and cost tracking dashboard for CC-Switch, Claude Code, Codex",
+    "fullDescription": "Real-time AI token usage and cost tracking dashboard for CC-Switch, Claude Code, Codex\n\nАвтор: Ghost-bp. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Ghost-bp/ai-token-monitor",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "cc-switch",
+      "claude-code",
+      "dashboard",
+      "deepseek",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1314760940",
+    "createdAt": "2026-07-29T15:11:14.630Z"
+  },
+  {
+    "slug": "open-source-engine-running-gemma-4-26b-in-2-gb-ram-on-any-m-series-mac-hn",
+    "title": "Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+    "shortDescription": "Hi HN, I built a specialized inference engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is calle…",
+    "fullDescription": "Hi HN, I built a specialized inference engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is called TurboFieldfare and is written in Swift and Metal. I have always adored on-device AI. It feels like magic that you can run a powerful NN on your Mac or iPhone. So I wanted to push the limits a bit and run a model whose weights don’t fit in memory. The model’s 4-bit quantized weights occupy roughly 14 GB, which makes running it with conventional inference tools almost impossible on an 8 GB or even 16 GB Mac once the OS, applications, and KV cache are included. The trick is to keep the shared part of the model and the KV cache in RAM, then stream only the routed experts needed for each token from SSD. An SSD is way slower than RAM, so the runtime uses a small expert cache and bounded parallel `pread`. While those reads are in flight, the GPU runs the shared part of the layer. I ran more than 100 experiments. Most didn’t work. A few got me here. The experiments are described in the GitHub repo. It currently generates 5–6 tok&#x2F;s on an 8 GB M2 MacBook Air and 31–35 tok&#x2F;s on an M5 MacBook Pro. I also added an experimental OpenAI-compatible local server. It supports streaming and tool calls, and reuses one prompt prefix from the KV cache. Try it! The Mac app is easy to install. On the first run, it will download 15 GB of weights from Hugging Face. The model is surprisingly capable. I would love any kind of feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://github.com/drumih/turbo-fieldfare",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49098510",
+    "createdAt": "2026-07-29T15:11:14.504Z"
+  },
+  {
+    "slug": "vostorq-i-built-the-anti-slack-after-working-at-a-slack-first-company-hn",
+    "title": "Vostorq – I built the anti-Slack after working at a Slack-first company",
+    "shortDescription": "A while back, I joined a company with a &quot;Slack-first&quot; communication policy. I was concerned from the beginning because Slack or T…",
+    "fullDescription": "A while back, I joined a company with a &quot;Slack-first&quot; communication policy. I was concerned from the beginning because Slack or Teams had never felt sufficient at the companies where I&#x27;d worked before. Some discussions happened over email, meetings played an important role, Jira was used heavily, and Google Docs or Confluence was used for documentation. That setup felt necessary, but it wasn&#x27;t optimal. So the &quot;Slack-first&quot; approach sounded suspicious, but intriguing. I was curious what they had done with Slack to solve this multi-tool mess. In practice, though, it didn&#x27;t solve it for me. Take the DevOps support channel. I was new, the infrastructure setup had some issues, and I asked question after question, feeling more and more like an idiot who constantly bothers people (potentially, every person in the channel), because sometimes it was a genuine bug, and sometimes it was simply my misunderstanding of the setup. I always got answers eventually, but they were slower and shallower than if someone had walked with me through the entire process. But why would anyone do that when the official format for this type of conversation was a channel where &quot;someone will help ASAP&quot;? Every new project got a channel. But a project isn&#x27;t one conversation - it&#x27;s many. Threads were supposed to fix that, except threads are optional by design - and it only takes one person replying in the main channel for the structure of the conversation to collapse for everyone. Topics that were inconvenient simply scrolled away. I&#x27;d raise something important in a meeting, hear &quot;we can talk about that later&quot; because our room booking was ending, I&#x27;d write in the channel, and the channel made sure later never came, because chat has no concept of &quot;unresolved&quot;, but it has a concept of &quot;skipped and forgotten&quot;. I left that company in about a month. This communication mess wasn&#x27;t the only reason, but it played its role. I&#x27;d had a proof of concept for a &quot;forum for work&quot; sitting around for years, unsure whether anyone needed it. That month convinced me. So I built it - most of what exists took me a few months. AI made that realistic for a solo founder: not only the code, but the landing pages, help docs, videos, and all the surrounding work that would have taken too much time and resources to finish alone. Vostorq is essentially a message board adapted for internal company communication. Not the strongest selling point in 2026, perhaps, but I&#x27;ve loved this format since my youth. Spaces (forums, in message-board terms) are permanent areas for a team, project, or function. Each space contains topics, with one focused discussion per topic: a decision, an RFC, a recurring question, or anything else that deserves its own place. And topic is that place - it&#x27;s not a position in a stream. It can slip to page two, but it doesn&#x27;t dissolve into a thousand unrelated messages, and someone can always bring it back. Replies tend to be complete thoughts rather than fragments because the format quietly encourages that. Vostorq is unlikely to become the best place for &quot;Anyone seen my charger?&quot; and #ourpets, but these conversations should not dictate the format companies use for important discussions, because currently chat destroys the value of the important ones. The honest state of the project: it&#x27;s an MVP built by one person (myself). There is a public demo workspace you can explore: https:&#x2F;&#x2F;app.vostorq.com&#x2F;join&#x2F;W-1&#x2F;join-demo (it requires sign-up, but it is super fast and simple). Plenty is still missing. There are no mobile apps and no integrations yet, apart from the AI agents, which are a built-in feature rather than a plug-in. I would be glad to hear your thoughts about the tool, but also — does your company have this communication problem, or was my experience just uniquely unlucky? And if you&#x27;ve tried moving serious discussions out of chat before - using Twist, Basecamp, Threads.com before it shut down, or some other tool - what killed it?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.vostorq.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49098233",
+    "createdAt": "2026-07-29T15:11:14.505Z"
+  },
+  {
+    "slug": "a-verification-browser-for-ai-agents-13ms-windows-one-call-checks-hn",
+    "title": "A verification browser for AI agents – 13ms windows, one-call checks",
+    "shortDescription": "Проект «A verification browser for AI agents – 13ms windows, one-call checks», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A verification browser for AI agents – 13ms windows, one-call checks», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://github.com/hongnoul/hwatu",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49097727",
+    "createdAt": "2026-07-29T15:11:14.505Z"
+  },
+  {
+    "slug": "what-will-you-build-with-kimi-k3-hn",
+    "title": "What Will You Build with Kimi K3?",
+    "shortDescription": "Проект «What Will You Build with Kimi K3?», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «What Will You Build with Kimi K3?», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://twitter.com/CanopyWave_AI/status/2081994436851236913",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49097631",
+    "createdAt": "2026-07-29T15:11:14.505Z"
+  },
+  {
+    "slug": "anti-ai-ai-club-hn",
+    "title": "Anti AI AI Club",
+    "shortDescription": "Проект «Anti AI AI Club», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Anti AI AI Club», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://antiaiaiclub.pages.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49097239",
+    "createdAt": "2026-07-29T15:11:14.505Z"
+  },
+  {
+    "slug": "cadence-money-a-budgeting-app-with-no-ai-features-just-an-mcp-server-hn",
+    "title": "Cadence Money – a budgeting app with no AI features, just an MCP server",
+    "shortDescription": "I thought I could make a personal finance app that was simpler, smarter and more privacy-focused than Monarch, YNAB and Copilot. I believe…",
+    "fullDescription": "I thought I could make a personal finance app that was simpler, smarter and more privacy-focused than Monarch, YNAB and Copilot. I believe I have, but today that&#x27;s up to you. While the classic story of using a variety of &quot;analog&quot; tools to manage money does apply to me, the main pillars that pushed me to build Cadence Money were: - Pay for the level of syncing that&#x27;s used including none - No built-in AI - Fully cross-platform including mobile browsers - Passkeys available day one - Proper Canadian support - No ads even for a book After seven years at 1Password as a Lead PM, I can safely say working on Cadence has been the most fulfilling part of my career. Really thankful for friends, family, and now strangers for helping shape Cadence. It has every feature we needed, and nothing we didn&#x27;t. I also created an MCP server so you can choose how much AI you want in your finances. Read-only at this point, but open to adding write access in the future to clean up CSV imports. Fair warning that Claude gets sassy if you flex your ability to buy a new monitor. Plans start at $2.49 CAD&#x2F;$1.99 USD monthly billed annually. 14-day trial (card required). iOS, Android, web. Proudly made in Canada.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.cadencemoney.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49097110",
+    "createdAt": "2026-07-29T15:11:14.505Z"
+  },
+  {
+    "slug": "butterclaw-ai-agent-runtime-security-sigkill-on-breach-no-cloud-hn",
+    "title": "ButterClaw – AI agent runtime security, SIGKILL on breach, no cloud",
+    "shortDescription": "Проект «ButterClaw – AI agent runtime security, SIGKILL on breach, no cloud», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ButterClaw – AI agent runtime security, SIGKILL on breach, no cloud», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/butterclaw-tech/butterclaw",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49097073",
+    "createdAt": "2026-07-29T15:11:14.505Z"
+  },
+  {
+    "slug": "job-finder-india-an-honest-job-fit-tool-that-runs-in-your-ai-cli-hn",
+    "title": "Job Finder India – an honest job-fit tool that runs in your AI CLI",
+    "shortDescription": "Проект «Job Finder India – an honest job-fit tool that runs in your AI CLI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Job Finder India – an honest job-fit tool that runs in your AI CLI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/harshgarg95/job-finder-india",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49097061",
+    "createdAt": "2026-07-29T15:11:14.505Z"
+  },
+  {
+    "slug": "a-persistent-ai-rpg-engine-built-with-react-spa-and-supabase-hn",
+    "title": "A Persistent AI RPG Engine Built with React SPA and Supabase",
+    "shortDescription": "Проект «A Persistent AI RPG Engine Built with React SPA and Supabase», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A Persistent AI RPG Engine Built with React SPA and Supabase», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://vampirolife.com/en",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49096914",
+    "createdAt": "2026-07-29T15:11:14.505Z"
+  },
+  {
     "slug": "astral-web-ui-github",
     "title": "Astral-Web-UI",
     "shortDescription": "An open source, minimal local-first AI chat interface with Visual Conversation Branch Trees and browser-style tabs. ",
