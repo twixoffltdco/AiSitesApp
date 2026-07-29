@@ -1,5 +1,193 @@
 [
   {
+    "slug": "hermes-skills-bundle-github",
+    "title": "hermes-skills-bundle",
+    "shortDescription": "9 powerful automation skills for the Hermes Agent. Break your AI out of the text box by letting it control your real Chrome browser to bypa…",
+    "fullDescription": "9 powerful automation skills for the Hermes Agent. Break your AI out of the text box by letting it control your real Chrome browser to bypass login walls, perform OSINT, automate job searches, and run deep web research autonomously.\n\nАвтор: sloemo01. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/sloemo01/hermes-skills-bundle",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "hermes-agent",
+      "research-tool",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1314221605",
+    "createdAt": "2026-07-29T04:44:33.126Z"
+  },
+  {
+    "slug": "claude-code-react-native-github",
+    "title": "claude-code-react-native",
+    "shortDescription": "React Native and Expo field knowledge for Claude Code: build triage, SDK upgrades, Hermes crashes, push, IAP, releases",
+    "fullDescription": "React Native and Expo field knowledge for Claude Code: build triage, SDK upgrades, Hermes crashes, push, IAP, releases\n\nАвтор: AnilBurcu. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/AnilBurcu/claude-code-react-native",
+    "category": "developer",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-skills",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1315222009",
+    "createdAt": "2026-07-29T04:44:33.127Z"
+  },
+  {
+    "slug": "shadowglass-github",
+    "title": "ShadowGlass",
+    "shortDescription": "ShadowGlass is a Chrome side-panel extension for security and IT teams who want to know which AI providers and models their organisation is…",
+    "fullDescription": "ShadowGlass is a Chrome side-panel extension for security and IT teams who want to know which AI providers and models their organisation is actually calling, without uploading a single log line to anyone. You already have the evidence, in your firewall or proxy export. ShadowGlass turns it into an inventory.\n\nАвтор: JustinNarracott. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://navitecai.com/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "browser",
+      "chrome",
+      "extension",
+      "extension-chrome",
+      "google",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1313952645",
+    "createdAt": "2026-07-29T04:44:33.127Z"
+  },
+  {
+    "slug": "chrome-store-promo-screenshot-github",
+    "title": "chrome-store-promo-screenshot",
+    "shortDescription": "A Cursor skill for creating professional Chrome Web Store 1280x800 promotional screenshots with AI.",
+    "fullDescription": "A Cursor skill for creating professional Chrome Web Store 1280x800 promotional screenshots with AI.\n\nАвтор: LightRoot1823. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/LightRoot1823/chrome-store-promo-screenshot",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "chrome-extension",
+      "chrome-web-store",
+      "cursor",
+      "design",
+      "image-generation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1314512247",
+    "createdAt": "2026-07-29T04:44:33.127Z"
+  },
+  {
+    "slug": "ywcrew-github",
+    "title": "ywcrew",
+    "shortDescription": "让你的 AI 智能体们组成一个团队：在任意宿主里把任务派给本地订阅的 Claude Code / Codex / Grok / Kimi / Antigravity，并行、不打断对话、全走已有订阅。",
+    "fullDescription": "让你的 AI 智能体们组成一个团队：在任意宿主里把任务派给本地订阅的 Claude Code / Codex / Grok / Kimi / Antigravity，并行、不打断对话、全走已有订阅。\n\nАвтор: yuwen-cool. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/yuwen-cool/ywcrew",
+    "category": "developer",
+    "tags": [
+      "agents",
+      "ai",
+      "claude-code",
+      "cli",
+      "codex",
+      "orchestration",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1314719265",
+    "createdAt": "2026-07-29T04:44:33.127Z"
+  },
+  {
+    "slug": "poople-today-word-ladders-ending-in-poop-hn",
+    "title": "Poople Today – Word Ladders Ending in Poop",
+    "shortDescription": "Проект «Poople Today – Word Ladders Ending in Poop», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Poople Today – Word Ladders Ending in Poop», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://poopletoday.com/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49093207",
+    "createdAt": "2026-07-29T04:44:33.112Z"
+  },
+  {
+    "slug": "metriq-an-ai-fitness-coach-who-supports-you-hn",
+    "title": "MetrIQ – An AI fitness coach who supports you",
+    "shortDescription": "metrIQ started as a spreadsheet for my own training. The numbers were fine, but a spreadsheet never tells you anything — it just holds what…",
+    "fullDescription": "metrIQ started as a spreadsheet for my own training. The numbers were fine, but a spreadsheet never tells you anything — it just holds what you typed. So I switched to asking ChatGPT. It could explain things, but it forgot my history, answered the same question differently on different days, couldn&#x27;t give me the stats I wanted, and buried it all in generic advice. I wanted a coach who remembered me. So I built my own. The first version was a rough thing in Lovable, mostly because I wanted an excuse to try it. Then friends started using it, it actually helped them, and I rebuilt the whole app properly for launch. That&#x27;s metrIQ. It&#x27;s Sophia, your coach. A sentence is enough to log something, and unlike a chatbot she remembers your goals, your weeks and what went sideways last month. Her targets and nudges come out of that. She doesn&#x27;t only track your fitness journey, but offers insights, advice and support. I am eager for people to try it and I appreciate all feedback, warm and cold, especially from people who are training or people who are in a weight loss journey. If you tried it and didn&#x27;t like it, drop me a line about why, maybe i can fix that Nikos\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://metriq.fitness",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49093051",
+    "createdAt": "2026-07-29T04:44:33.113Z"
+  },
+  {
+    "slug": "lean4-datalog-dsl-based-on-google-zanzibar-for-ai-projects-hn",
+    "title": "Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
+    "shortDescription": "Google Zanzibar datalog lang lets you describe concepts and express how they are related. I generalize it to DSL you can use on Lean4 (and…",
+    "fullDescription": "Google Zanzibar datalog lang lets you describe concepts and express how they are related. I generalize it to DSL you can use on Lean4 (and other languages) this lets you represent a knowledge base you can construct, store and evaluate, have it under git and improve without big engines or relaying on external infrastructure. Google&#x27;s Zanzibar paper: https:&#x2F;&#x2F;storage.googleapis.com&#x2F;gweb-research2023-media&#x2F;pubto...\n\nНайдено в разделе Show HN на Hacker News. 👍 8 баллов.",
+    "url": "https://github.com/jagg-ix/zil-lean",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49092730",
+    "createdAt": "2026-07-29T04:44:33.113Z"
+  },
+  {
+    "slug": "aitexttohandwriting-text-to-handwriting-converter-hn",
+    "title": "AiTextToHandwriting] – Text to Handwriting Converter",
+    "shortDescription": "Turn typed text into handwritten pages with custom fonts, paper styles, layout controls, and PNG, PDF, or ZIP export—no account required.",
+    "fullDescription": "Turn typed text into handwritten pages with custom fonts, paper styles, layout controls, and PNG, PDF, or ZIP export—no account required.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://aitexttohandwriting.com/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49092670",
+    "createdAt": "2026-07-29T04:44:33.113Z"
+  },
+  {
+    "slug": "bocazasgames-four-multiplayer-browser-games-with-ai-moderation-hn",
+    "title": "Bocazasgames – Four multiplayer browser games with AI moderation",
+    "shortDescription": "Проект «Bocazasgames – Four multiplayer browser games with AI moderation», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Bocazasgames – Four multiplayer browser games with AI moderation», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.bocazasgames.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49092255",
+    "createdAt": "2026-07-29T04:44:33.113Z"
+  },
+  {
     "slug": "cozyclay-github",
     "title": "CozyClay",
     "shortDescription": "Direct Blender with an AI agent from your terminal.",
