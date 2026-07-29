@@ -1,5 +1,187 @@
 [
   {
+    "slug": "openbcon-github",
+    "title": "OpenBcon",
+    "shortDescription": "Open-source AI platform for funding & business consultants. Generate business plans, manage clients, automate reports, and discover funding…",
+    "fullDescription": "Open-source AI platform for funding & business consultants. Generate business plans, manage clients, automate reports, and discover funding opportunities.\n\nАвтор: adm73. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "bconomics.ai",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "business",
+      "business-automation",
+      "chatpgt",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1315497548",
+    "createdAt": "2026-07-29T16:48:39.535Z"
+  },
+  {
+    "slug": "open-sourced-non-ai-newtab-extension-to-read-your-xtwitter-bookmarks-hn",
+    "title": "Open-sourced, non-AI newtab extension to read your X/Twitter bookmarks",
+    "shortDescription": "Repo: https:&#x2F;&#x2F;github.com&#x2F;nnnkit&#x2F;totem Bookmarking a tweet&#x2F;article&#x2F;thread on X is one click, but actually read…",
+    "fullDescription": "Repo: https:&#x2F;&#x2F;github.com&#x2F;nnnkit&#x2F;totem Bookmarking a tweet&#x2F;article&#x2F;thread on X is one click, but actually reading it later is like five clicks — open X, dig into history, bookmarks, find the post, and dodge the distraction of new feeds and notifications on the way there. So I had hundreds of genuinely great tweets saved and basically never read any of them. Totem puts that queue on the browser new tab, so reading them is just one click away. No feed distraction, no algorithm, no AI, no server, no account — it&#x27;s all local. In one sentence &quot;It&#x27;s like the reading experience like Substack for your twitter bookmarks&quot;\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://chromewebstore.google.com/detail/twitter-x-bookmarks-on-ne/acpkgdfhoaalmnhjifhneghcgfnjkglo",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49099627",
+    "createdAt": "2026-07-29T16:48:39.364Z"
+  },
+  {
+    "slug": "energy-carbon-and-water-estimates-for-ai-content-shown-as-ranges-hn",
+    "title": "Energy, carbon and water estimates for AI content, shown as ranges",
+    "shortDescription": "Hi HN, I built this calculator because I noticed it&#x27;s easy to know how much a LLM costs per token, but it&#x27;s extremely difficult t…",
+    "fullDescription": "Hi HN, I built this calculator because I noticed it&#x27;s easy to know how much a LLM costs per token, but it&#x27;s extremely difficult to know it&#x27;s carbon footprint or power consumption. I created this as a reference based on some published papers and public information, and it helps to have a guide of the impact of photo and video generation using AI. I also added another factor about Token utilization, it&#x27;s something that becomes important as the newer models start to use &quot;thinking&quot; modes to reach a conclusion. There is information up to earlier this year, so it&#x27;s not possible to see the efficiency of newer models like OpenAI Sol or Kimi K3. All the calculator does is to provide estimations and translate them in ordinary figures so people can understand it. There is no login required or any other type of paywall. About the models, it&#x27;s easier to make estimates for Open Source models (of course) so there&#x27;s more confidence on that data. For the closed ones, there are estimations based on public available data. Please let me know if you have suggestions in how I can improve this calculator.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aicontentfootprint.com/",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49099601",
+    "createdAt": "2026-07-29T16:48:39.364Z"
+  },
+  {
+    "slug": "agentsnap-snapshot-testing-for-ai-agents-hn",
+    "title": "Agentsnap – Snapshot testing for AI agents",
+    "shortDescription": "Проект «Agentsnap – Snapshot testing for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Agentsnap – Snapshot testing for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/iamfaham/AgentSnap",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49099464",
+    "createdAt": "2026-07-29T16:48:39.364Z"
+  },
+  {
+    "slug": "college-application-essay-inspiration-and-brainstorm-hn",
+    "title": "College application essay inspiration and brainstorm",
+    "shortDescription": "I collected thousands of outstanding college application essays to train a specialized AI model designed to inspire and coach students thro…",
+    "fullDescription": "I collected thousands of outstanding college application essays to train a specialized AI model designed to inspire and coach students throughout the essay-writing process. Unlike general-purpose AI, each essay is highly personalized based on the applicant&#x27;s background, experiences, and personal story. The AI also adapts its writing to emphasize the qualities and values that different universities are looking for. You can browse our essay library for free, explore each applicant&#x27;s profile, and see exactly why the AI made specific writing choices. By opening the &quot;black box,&quot; you&#x27;ll learn not just what to write, but how and why an effective essay is structured. Everyone can generate up to three application essays for free. I wish I could offer unlimited generations at no cost. However, this project is fully bootstrapped, with no outside investment, and every AI-generated essay incurs computing costs. If you find the tool helpful, your support helps keep the service running and allows us to continue improving it. Hope to release the pressure of application season. Glad to hear you guys feedback. thank you.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://essaycompass.net/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49099377",
+    "createdAt": "2026-07-29T16:48:39.364Z"
+  },
+  {
+    "slug": "on-prem-deployable-voice-agent-simulation-and-evals-hn",
+    "title": "On-prem-deployable voice agent simulation and evals",
+    "shortDescription": "after a long time of being a HN lurker, I have started my own company (inspired by a lot of you). This is a short blog on why, but please c…",
+    "fullDescription": "after a long time of being a HN lurker, I have started my own company (inspired by a lot of you). This is a short blog on why, but please click around the website and let me know what you think! - Loren\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://usemarker.ai/blog/hello-world/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49098988",
+    "createdAt": "2026-07-29T16:48:39.364Z"
+  },
+  {
+    "slug": "sitrep-ai-copilot-for-incidents-hn",
+    "title": "Sitrep - AI Copilot For Incidents",
+    "shortDescription": "Hi HN! I made Sitrep, which is an AI incident copilot that sites alongside you during incidents and watches your screen. You can chat with…",
+    "fullDescription": "Hi HN! I made Sitrep, which is an AI incident copilot that sites alongside you during incidents and watches your screen. You can chat with it, and ask questions (&quot;what was that trace I saw?&quot;) and it uses vision to answer your questions, providing evidence. It can also integrate with existing observability tools too, I&#x27;ve added Grafana as an example. This means the agent can not only reference context from vision, but also verify context by using actual logs&#x2F;traces. To avoid duplicate frames, it uses a tile strategy and a hamming distance threshold. It also has blackout mode for when you want to pause it mid incident, and comes with a cost dashboard and settings&#x2F;model toggle to minimize cost. It&#x27;s open source, check out the repo and feel free to provide any feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/dj9889/sitrep",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49098978",
+    "createdAt": "2026-07-29T16:48:39.364Z"
+  },
+  {
+    "slug": "phixo-ai-phishing-protection-for-gmail-and-outlook-hn",
+    "title": "Phixo – AI Phishing Protection for Gmail and Outlook",
+    "shortDescription": "Hi, I am a Solo developer and I have created a Chrome extension to help prevent email phishing in Gmail and Outlook. This extension tells y…",
+    "fullDescription": "Hi, I am a Solo developer and I have created a Chrome extension to help prevent email phishing in Gmail and Outlook. This extension tells you why an email has phishing signs and also blocks the phishing URL if it finds something suspicious. I am posting here to get feedback so I can improve my extension further. Although it&#x27;s still in the early stages, I am improving it with time. If you guys could check it and give me any feedback, that would be very helpful for me. Anything good or bad is welcome. I would also like to hear your thoughts about the idea of creating a phishing protection extension for Outlook and Gmail. Website: https:&#x2F;&#x2F;phixo.app&#x2F; Chrome Extension: https:&#x2F;&#x2F;chromewebstore.google.com&#x2F;detail&#x2F;diakennfllmgdpepggh... Demo Video: https:&#x2F;&#x2F;youtu.be&#x2F;cWbeWcAqpzc?si=sE5eWfFvWPpFQLG2\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://phixo.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49098897",
+    "createdAt": "2026-07-29T16:48:39.364Z"
+  },
+  {
+    "slug": "claudefs-give-claudeai-access-to-a-local-folder-no-local-process-hn",
+    "title": "ClaudeFS – Give claude.ai access to a local folder, no local process",
+    "shortDescription": "Проект «ClaudeFS – Give claude.ai access to a local folder, no local process», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ClaudeFS – Give claude.ai access to a local folder, no local process», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/vincentping/claudeFS",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49098890",
+    "createdAt": "2026-07-29T16:48:39.364Z"
+  },
+  {
+    "slug": "ai-that-opens-prs-on-your-repo-to-fix-your-seo-hn",
+    "title": "AI that opens PRs on your repo to fix your SEO",
+    "shortDescription": "Hey HN, I&#x27;m Oli, Software engineer building Zaatar to to automate the organic growth on my different side projects. The AI orchestrato…",
+    "fullDescription": "Hey HN, I&#x27;m Oli, Software engineer building Zaatar to to automate the organic growth on my different side projects. The AI orchestrator I&#x27;ve built feels kind of magic tbh, I hope some of you guys will find it useful! Cheers\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://zaatar.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49098777",
+    "createdAt": "2026-07-29T16:48:39.364Z"
+  },
+  {
+    "slug": "a-detailed-air-alert-map-of-ukraine-and-russia-built-on-free-tier-hn",
+    "title": "A detailed air alert map of Ukraine and Russia, built on free tier",
+    "shortDescription": "Проект «A detailed air alert map of Ukraine and Russia, built on free tier», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A detailed air alert map of Ukraine and Russia, built on free tier», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://uavradar.live/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49098613",
+    "createdAt": "2026-07-29T16:48:39.364Z"
+  },
+  {
     "slug": "ai-token-monitor-github",
     "title": "ai-token-monitor",
     "shortDescription": "Real-time AI token usage and cost tracking dashboard for CC-Switch, Claude Code, Codex",
