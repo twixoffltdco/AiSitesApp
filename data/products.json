@@ -1,5 +1,59 @@
 [
   {
+    "slug": "loom-engine-github",
+    "title": "loom-engine",
+    "shortDescription": "🧵 A terminal-native narrative engine & text RPG in Rust 🦀. Play with any LLM: OpenAI, Anthropic, local models & more.",
+    "fullDescription": "🧵 A terminal-native narrative engine & text RPG in Rust 🦀. Play with any LLM: OpenAI, Anthropic, local models & more.\n\nАвтор: Underline-1024. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Underline-1024/loom-engine",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-game",
+      "cli",
+      "command-line",
+      "crossterm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1314954994",
+    "createdAt": "2026-07-29T21:58:38.784Z"
+  },
+  {
+    "slug": "replicant-space-an-http-api-based-game-based-on-the-bobiverse-books-hn",
+    "title": "Replicant Space – an HTTP API-based game based on the Bobiverse books",
+    "shortDescription": "During Christmas 2025, I found myself burnt out from work. The last few years had been hard, and multiple redundancies saw the company I lo…",
+    "fullDescription": "During Christmas 2025, I found myself burnt out from work. The last few years had been hard, and multiple redundancies saw the company I loved reduce down to just a handful of remaining staff. As a coping mechanism, I kinda disassociated for a while - throwing myself into my personal projects. AI was destroying the passion I had for coding. I tried to find some meaning in development again. After months of throwing myself into creating this game, I slowly fell back in love with coding. I taught myself a bunch of technologies that I was previously unfamiliar - Astro, Flask, Redis, Celery, Just. Anyway, this is Replicant Space. It&#x27;s free. I love building and playing it. There&#x27;s a cool story. Aliens are awesome. Feel free to poke the API and take over the galaxy.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://replicant.space/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49103612",
+    "createdAt": "2026-07-29T21:58:38.555Z"
+  },
+  {
+    "slug": "ai-security-leaderboard-comparing-cyber-and-cbrn-safeguards-hn",
+    "title": "AI Security Leaderboard – comparing cyber and CBRN safeguards",
+    "shortDescription": "There&#x27;s no shortage of leaderboards for model capabilities - but the security of models is becoming increasingly relevant, from the ri…",
+    "fullDescription": "There&#x27;s no shortage of leaderboards for model capabilities - but the security of models is becoming increasingly relevant, from the risk of an AI agent processing unsanitized input being hijacked to models being pulled due to cybersecurity jailbreaks. We developed an automated test suite that runs models through 1500 automatically generated jailbreak attempts and measures the number of universal jailbreaks: prompts that elicit compliant, detailed responses to &gt;75% clearly harmful questions within a domain (like offensive cybersecurity). We find a big gap between the most robust models -- Fable 5 and GPT-5.6 Sol -- and other leading frontier models -- Gemini 3.1 Pro and Grok 4.5. This is v1.0 and we plan to update with new attacks and broader datasets in the future; we&#x27;d love to hear from HN what would be useful in your work!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://leaderboard.far.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49103367",
+    "createdAt": "2026-07-29T21:58:38.555Z"
+  },
+  {
     "slug": "mindflock-parallel-ai-coding-agents-each-in-its-own-git-worktree-hn",
     "title": "MindFlock – Parallel AI coding agents, each in its own Git worktree",
     "shortDescription": "Проект «MindFlock – Parallel AI coding agents, each in its own Git worktree», опубликован сообществом Hacker News.",
