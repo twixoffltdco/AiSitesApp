@@ -1,5 +1,85 @@
 [
   {
+    "slug": "concord-some-open-source-stuff-hn",
+    "title": "Concord, some open source stuff",
+    "shortDescription": "Working on some fixes, got an audit from Aikido Security(shoutout to them, great team!) our first scan surfaced 70 issues. Hoping to move i…",
+    "fullDescription": "Working on some fixes, got an audit from Aikido Security(shoutout to them, great team!) our first scan surfaced 70 issues. Hoping to move into kernel work soon after they’re finished. Help a brother out if you got some time, still my first project!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/ConcordDev/concord-cognitive-engine/pull/874",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49101888",
+    "createdAt": "2026-07-29T19:52:04.132Z"
+  },
+  {
+    "slug": "mirrors-improve-ai-agents-with-staging-environments-hn",
+    "title": "Mirrors – Improve AI agents with staging environments",
+    "shortDescription": "Проект «Mirrors – Improve AI agents with staging environments», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Mirrors – Improve AI agents with staging environments», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.runmirrors.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49101398",
+    "createdAt": "2026-07-29T19:52:04.132Z"
+  },
+  {
+    "slug": "ship-the-operating-system-for-agentic-engineering-hn",
+    "title": "Ship – The operating system for agentic engineering",
+    "shortDescription": "Проект «Ship – The operating system for agentic engineering», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Ship – The operating system for agentic engineering», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://letsship.ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49101041",
+    "createdAt": "2026-07-29T19:52:04.132Z"
+  },
+  {
+    "slug": "dreeve-a-self-hosted-dashboard-for-your-sports-and-fitness-data-hn",
+    "title": "Dreeve, a self-hosted dashboard for your sports and fitness data",
+    "shortDescription": "I&#x27;ve been building this for a few years under the name &quot;Statistics for Strava&quot; but I renamed it to Dreeve recently because o…",
+    "fullDescription": "I&#x27;ve been building this for a few years under the name &quot;Statistics for Strava&quot; but I renamed it to Dreeve recently because of Strava&#x27;s recently changed API usage terms. They paywalled their API. You point it at your activity files (FIT&#x2F;TCX&#x2F;GPX) or connect a Strava account, and it gives you a dashboard with segment efforts, gear and maintenance tracking, a heatmap, monthly calendar view, milestones and a year-in-review. It runs as a Docker container, stores everything in SQLite, and nothing leaves your machine. Stack is PHP 8.5 + Symfony, SQLite, Docker Compose. Simple, straightforward and fast. Caveats: it&#x27;s built around a single user, so there&#x27;s no multi-tenant story. The AI workout assistant is optional and off unless you configure it. Segment data still comes from Strava if you want it, which is the one dependency I haven&#x27;t been able to remove. Docs at https:&#x2F;&#x2F;docs.dreeve.app . Happy to answer any questions you have\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/dreeveapp/dreeve",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49101030",
+    "createdAt": "2026-07-29T19:52:04.133Z"
+  },
+  {
+    "slug": "resume-parsing-and-candidate-matching-as-an-api-and-mcp-server-hn",
+    "title": "Resume parsing and candidate matching, as an API and MCP server",
+    "shortDescription": "Проект «Resume parsing and candidate matching, as an API and MCP server», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Resume parsing and candidate matching, as an API and MCP server», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.rezmatch.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49100857",
+    "createdAt": "2026-07-29T19:52:04.133Z"
+  },
+  {
     "slug": "ive-mapped-126k-listings-from-4500-direct-booking-sites-hn",
     "title": "I've mapped 126k listings from 4500 direct booking sites",
     "shortDescription": "I manage short term rentals and I made one big direct booking site for any host that uses a PMS and all I need is a URL. No accounts, no fe…",
