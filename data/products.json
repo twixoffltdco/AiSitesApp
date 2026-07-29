@@ -1,5 +1,133 @@
 [
   {
+    "slug": "aikun-github",
+    "title": "Aikun",
+    "shortDescription": "轻量稳定的 AI 网关：OpenAI / Anthropic 双协议接入，多渠道聚合、故障转移与协议自动转换，单二进制零依赖部署",
+    "fullDescription": "轻量稳定的 AI 网关：OpenAI / Anthropic 双协议接入，多渠道聚合、故障转移与协议自动转换，单二进制零依赖部署\n\nАвтор: zumpyx. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/zumpyx/Aikun",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-gateway",
+      "anthropic",
+      "api-gateway",
+      "failover",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1315598711",
+    "createdAt": "2026-07-29T10:36:11.139Z"
+  },
+  {
+    "slug": "td-zeus-agent-github",
+    "title": "TD-Zeus-Agent",
+    "shortDescription": "A voice-enabled AI agent with tool-calling capabilities.",
+    "fullDescription": "A voice-enabled AI agent with tool-calling capabilities.\n\nАвтор: Taha-Azadi. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Taha-Azadi/TD-Zeus-Agent",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "python",
+      "voice-agent",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1313899430",
+    "createdAt": "2026-07-29T10:36:11.139Z"
+  },
+  {
+    "slug": "agendai-github",
+    "title": "AgendAI",
+    "shortDescription": "Pure native macOS meeting recorder, transcription, and AI minutes app.",
+    "fullDescription": "Pure native macOS meeting recorder, transcription, and AI minutes app.\n\nАвтор: leoyoul. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/leoyoul/AgendAI",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "macos",
+      "meeting-notes",
+      "swift",
+      "swiftui",
+      "transcription",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1315897538",
+    "createdAt": "2026-07-29T10:36:11.139Z"
+  },
+  {
+    "slug": "vimgolfai-learn-vim-by-playing-through-a-map-of-levels-hn",
+    "title": "Vimgolf.ai – Learn Vim by playing through a map of levels",
+    "shortDescription": "Just launched my app, VimGolf.ai! As users complete the levels on the map, I introduce progressively more complicated concepts — it’s aimed…",
+    "fullDescription": "Just launched my app, VimGolf.ai! As users complete the levels on the map, I introduce progressively more complicated concepts — it’s aimed at people who have never used Vim. Any feedback would be much appreciated!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://vimgolf.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49095143",
+    "createdAt": "2026-07-29T10:36:10.888Z"
+  },
+  {
+    "slug": "video-upscaler-ai-video-upscaling-up-to-4k-hn",
+    "title": "Video Upscaler – AI video upscaling up to 4K",
+    "shortDescription": "I’m part of the team behind Video Upscaler. It is a browser-based tool for improving video resolution and clarity, with support for upscali…",
+    "fullDescription": "I’m part of the team behind Video Upscaler. It is a browser-based tool for improving video resolution and clarity, with support for upscaling to HD and 4K. Feedback on output quality and workflow is welcome.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://videoupscaler.video/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49094855",
+    "createdAt": "2026-07-29T10:36:10.888Z"
+  },
+  {
+    "slug": "wikipedia-importance-map-every-article-sized-by-its-pagerank-on-a-map-hn",
+    "title": "Wikipedia Importance Map. Every article sized by its pagerank on a map",
+    "shortDescription": "I extracted all Wikidata items with geocoordinates, joined them with pageview statistics [1] and wikipedia pagerank scores [2] to define th…",
+    "fullDescription": "I extracted all Wikidata items with geocoordinates, joined them with pageview statistics [1] and wikipedia pagerank scores [2] to define their label sizes. For some entities without coordinates, I used proxies: Birthplace for humans, port of registry for ships, city of the headquarters for companies. I created a version a year ago without AI. It was already interesting, but lacked a lot of polish and functionality. Now it was fun to complete it with coding agents. You can toggle the different categories on and off in the UI. People and places are off by default, because they overshadow everything else and humans overlap so much. But please turn it on if you want to see where &quot;important&quot; humans have been born. And the search works with a completely static index and range requests. [1]: https:&#x2F;&#x2F;github.com&#x2F;athalhammer&#x2F;danker [2]: https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;PageRank\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://tomthe.github.io/wiki-importance-map/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49094842",
+    "createdAt": "2026-07-29T10:36:10.888Z"
+  },
+  {
+    "slug": "get-a-security-assessment-of-mcp-servers-directly-from-your-terminal-hn",
+    "title": "Get a security assessment of MCP servers directly from your terminal",
+    "shortDescription": "I built a deterministic scanner that catches command injection, prompt-injection markers in tool descriptions, over-broad&#x2F;destructive…",
+    "fullDescription": "I built a deterministic scanner that catches command injection, prompt-injection markers in tool descriptions, over-broad&#x2F;destructive tools, and committed secrets in MCP servers before you connect them. It continuously scans the entire official MCP registry and makes results available at https:&#x2F;&#x2F;index.canopii.dev . Now the engine behind that scanner is available as a CLI that you can integrate into your processes and CI&#x2F;CD pipelines (e.g --min-grade B). If you are building MCP servers, you can make sure your MCP server is secure using the local mode before publishing it. Or check why your server scored low, apply fixes, check if your score has improved locally first before publishing a new version so as to eliminate guesswork. If you are a user, easily check the security of an MCP server before connecting your AI agents using one of the available methods (remote, github, pypi, npm etc.) You can also use an LLM as a &quot;judge&quot;. It won&#x27;t affect the score but it may flag important security considerations that a deterministic scanner can&#x27;t catch. No telemetry, no account necessary. Github: https:&#x2F;&#x2F;github.com&#x2F;canopii-dev&#x2F;canopii-cli (license: Apache 2.0)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://index.canopii.dev/cli",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49094760",
+    "createdAt": "2026-07-29T10:36:10.888Z"
+  },
+  {
     "slug": "many-ppt-skills-github",
     "title": "many-ppt-skills",
     "shortDescription": "Every AI slide-deck skill worth knowing, on one page — both the HTML and native-PPTX routes, compared on what actually decides the choice r…",
