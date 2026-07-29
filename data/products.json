@@ -1,5 +1,99 @@
 [
   {
+    "slug": "many-ppt-skills-github",
+    "title": "many-ppt-skills",
+    "shortDescription": "Every AI slide-deck skill worth knowing, on one page — both the HTML and native-PPTX routes, compared on what actually decides the choice r…",
+    "fullDescription": "Every AI slide-deck skill worth knowing, on one page — both the HTML and native-PPTX routes, compared on what actually decides the choice rather than on star count. Bilingual, auto-refreshed.\n\nАвтор: brycewang-stanford. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/brycewang-stanford/many-ppt-skills",
+    "category": "ai-tool",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "awesome-list",
+      "benchmark",
+      "claude",
+      "claude-code",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1314935411",
+    "createdAt": "2026-07-29T07:40:51.901Z"
+  },
+  {
+    "slug": "synapse-github",
+    "title": "synapse",
+    "shortDescription": "Decentralized inference protocol for Mixture-of-Experts (MoE) models. Turns thousands of consumer GPUs into a distributed swarm to run fron…",
+    "fullDescription": "Decentralized inference protocol for Mixture-of-Experts (MoE) models. Turns thousands of consumer GPUs into a distributed swarm to run frontier AI like Kimi K3 without gatekeepers, rate limits, or datacenters.\n\nАвтор: antonygiomarxdev. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/antonygiomarxdev/synapse",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "infrastructure",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1314575500",
+    "createdAt": "2026-07-29T07:40:51.901Z"
+  },
+  {
+    "slug": "grok-build-unofficial-github",
+    "title": "grok-build-unofficial",
+    "shortDescription": "Unofficial VS Code chat UI for the Grok Build CLI (ACP). Not affiliated with xAI.",
+    "fullDescription": "Unofficial VS Code chat UI for the Grok Build CLI (ACP). Not affiliated with xAI.\n\nАвтор: sr-web-studio. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/sr-web-studio/grok-build-unofficial",
+    "category": "developer",
+    "tags": [
+      "acp",
+      "agent",
+      "ai",
+      "grok",
+      "vscode-extension",
+      "xai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1313810595",
+    "createdAt": "2026-07-29T07:40:51.901Z"
+  },
+  {
+    "slug": "antics-drop-in-multiplayer-for-your-ai-built-games-hn",
+    "title": "Antics: Drop-in multiplayer for your AI-built games",
+    "shortDescription": "Hey HN, We started out building a whole game-making platform: engine, editor, templates, the lot. It was a slog, and it kept fighting the t…",
+    "fullDescription": "Hey HN, We started out building a whole game-making platform: engine, editor, templates, the lot. It was a slog, and it kept fighting the thing that made it interesting: the models got good. With Opus 5, Fable 5, SOL 5.6, a one-prompt Three.js or Canvas game already looks genuinely great, and the models know those APIs far better than they&#x27;d ever know our harness. Forcing people through our engine meant limiting them to it, while solving the part AI solved better than us trying to buold the harness The part it can&#x27;t solve is multiplayer. A generated game is usually a single HTML file; making it two-player means a server, WebSockets, state sync, and hosting. So we threw out the platform and built only that part. Antics is a browser SDK plus a hosted relay: real-time rooms, host-authoritative state sync, leaderboards. No server to run, no player accounts. Build the game with whatever you like (Three.js, Phaser, Canvas, plain DOM), deploy it, and you get one link. Anyone who opens it is in the same room. Details for the curious: the SDK is zero-dependency, the wire protocol is plain JSON over WebSocket, and there is no server-side game code at all: one browser is elected host, and authority migrates if the host leaves. Keyless deploys need no signup (8 players per room, links last 24h); signing in makes the link and leaderboard persistent and raises rooms to 16 players. If you don&#x27;t have a game handy, there are some games build by our community (and us) at https:&#x2F;&#x2F;antics.gg&#x2F;games .\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://antics.gg/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49094298",
+    "createdAt": "2026-07-29T07:40:51.661Z"
+  },
+  {
+    "slug": "self-hosted-ai-gateway-mcp-budget-pii-smart-router-fallback-hn",
+    "title": "Self-hosted AI gateway – MCP, budget, PII, smart router, fallback",
+    "shortDescription": "Проект «Self-hosted AI gateway – MCP, budget, PII, smart router, fallback», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Self-hosted AI gateway – MCP, budget, PII, smart router, fallback», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/ilter-ai/ilter",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49093993",
+    "createdAt": "2026-07-29T07:40:51.661Z"
+  },
+  {
     "slug": "hermes-skills-bundle-github",
     "title": "hermes-skills-bundle",
     "shortDescription": "9 powerful automation skills for the Hermes Agent. Break your AI out of the text box by letting it control your real Chrome browser to bypa…",
