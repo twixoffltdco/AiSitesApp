@@ -1,5 +1,84 @@
 [
   {
+    "slug": "harness-dashboard-github",
+    "title": "harness-dashboard",
+    "shortDescription": "One fuel gauge for every AI coding harness you actually use.",
+    "fullDescription": "One fuel gauge for every AI coding harness you actually use.\n\nАвтор: tonyalcast. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/tonyalcast/harness-dashboard",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "dashboard",
+      "harness",
+      "harness-ai",
+      "harness-engineering",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1316413015",
+    "createdAt": "2026-07-30T00:53:53.669Z"
+  },
+  {
+    "slug": "llm-price-tracker-github",
+    "title": "llm-price-tracker",
+    "shortDescription": "A daily-updated reference of LLM model pricing across all major providers (OpenAI, Anthropic, Google, Mistral, and more)",
+    "fullDescription": "A daily-updated reference of LLM model pricing across all major providers (OpenAI, Anthropic, Google, Mistral, and more)\n\nАвтор: llerandi. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://llerandi.github.io/llm-price-tracker/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "anthropic",
+      "api",
+      "automation",
+      "claude",
+      "developer-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1315232747",
+    "createdAt": "2026-07-30T00:53:53.669Z"
+  },
+  {
+    "slug": "mormotai-github",
+    "title": "mormot.ai",
+    "shortDescription": "Pascal libraries for building AI applications on mORMot 2: a multi-provider LLM SDK (OpenAI, Anthropic, Gemini) and a pgvector RAG stack.",
+    "fullDescription": "Pascal libraries for building AI applications on mORMot 2: a multi-provider LLM SDK (OpenAI, Anthropic, Gemini) and a pgvector RAG stack.\n\nАвтор: flydev-fr. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://mormot-ai.fsb.dev/docs/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "mormot2",
+      "pascal",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1314852245",
+    "createdAt": "2026-07-30T00:53:53.669Z"
+  },
+  {
+    "slug": "a-local-merge-queue-for-parallel-claude-code-agents-hn",
+    "title": "A local merge queue for parallel Claude Code agents",
+    "shortDescription": "I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, t…",
+    "fullDescription": "I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev servers on an 8GB machine it is the fast lane to a force quit and restart. I also did not want to pay the CI minutes on 90 pushes a day. So I designed a local merge queue to have all commits land one at a time and fully tested. Hopefully this helps other folks with more modest machines. Appreciate any feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://github.com/funador/claude-code-merge-queue",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49104747",
+    "createdAt": "2026-07-30T00:53:53.573Z"
+  },
+  {
     "slug": "an-ai-color-grader-pico-hn",
     "title": "An AI Color Grader – Pico",
     "shortDescription": "I&#x27;m a filmmaker, and have been pretty frustrated by AI video editors that are focused on automating editing instead of helping artists…",
