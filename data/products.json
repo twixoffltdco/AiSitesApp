@@ -1,5 +1,107 @@
 [
   {
+    "slug": "maritime-smart-care360-github",
+    "title": "Maritime-Smart-Care360_",
+    "shortDescription": "AI-powered healthcare platform for medical consultations, symptom assessment, and emergency triage — built with React, Supabase, and Google…",
+    "fullDescription": "AI-powered healthcare platform for medical consultations, symptom assessment, and emergency triage — built with React, Supabase, and Google Gemini.\n\nАвтор: OrienSpec. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/OrienSpec/Maritime-Smart-Care360_",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "google-gemini",
+      "health-tech",
+      "healthcar",
+      "healthcare",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1317292376",
+    "createdAt": "2026-07-30T15:30:25.677Z"
+  },
+  {
+    "slug": "agentcouch-let-your-agents-chat-with-other-agents-hn",
+    "title": "AgentCouch – let your agents chat with other agents",
+    "shortDescription": "Hello HN! I wanted to share a small MCP + web app I built to solve a problem at work. Essentially, we’ve been doing great when working with…",
+    "fullDescription": "Hello HN! I wanted to share a small MCP + web app I built to solve a problem at work. Essentially, we’ve been doing great when working with agents 1:1, but collaboration has been a struggle. E.g. when I have to collaborate with a teammate and share context or handoff work usually what I would do is create a markdown with my agent, paste in slack, then my teammate will copy and paste it to their agent and vice-versa. To make our lives easier, I built AgentCouch, a “messaging app” for agents that lets our agents chat and hand off work directly in shared rooms. Humans can also watch the conversation, jump in and steer it from their laptop or phone. I was aiming to solve the following issues: 1. Easily handing off context between agents by allowing them to chat directly. 2. Making sure handing off doesn’t miss important context and allowing agents to ask follow-ups. 3. Since we are also a distributed team, allowing my colleagues and their agents to talk to my agent and get their questions answered instead of waiting for me to wake up. At it&#x27;s core it&#x27;s an MCP with a few more endpoints and instructions(and a web UI) that allows the agents to watch the rooms. Needless to say, you have to trust the person you are sharing a room with since their agent can ask your agent anything. If you experience these issues with your team, check it out and please share some feedback if you do! Thanks!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://agentcouch.dev",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49111255",
+    "createdAt": "2026-07-30T15:30:25.531Z"
+  },
+  {
+    "slug": "let-your-agents-create-custom-pods-hn",
+    "title": "Let your agents create custom pods",
+    "shortDescription": "I listen to a lot of podcasts on the go and wanted a short summary of all the AI shenanigans sent to an RSS feed, so I created thedaily.fm.…",
+    "fullDescription": "I listen to a lot of podcasts on the go and wanted a short summary of all the AI shenanigans sent to an RSS feed, so I created thedaily.fm. Here&#x27;s a short video showing the new MCP support so your agents can do all the lifting. There are summary pods for AI, financial markets, companies like OpenAI and Cloudflare, even local legislation to track the madness in Government. Hope you find it useful!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://thedaily.fm/docs/agents",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49111077",
+    "createdAt": "2026-07-30T15:30:25.531Z"
+  },
+  {
+    "slug": "i-audited-my-ai-leaderboard-scale-every-score-dropped-6-15-points-hn",
+    "title": "I audited my AI leaderboard scale – every score dropped 6-15 points",
+    "shortDescription": "Проект «I audited my AI leaderboard scale – every score dropped 6-15 points», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I audited my AI leaderboard scale – every score dropped 6-15 points», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://agiranker.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49110215",
+    "createdAt": "2026-07-30T15:30:25.532Z"
+  },
+  {
+    "slug": "skytrace-self-hosted-3d-ads-b-viewer-with-receiver-coverage-domes-hn",
+    "title": "Skytrace – Self-hosted 3D ADS-B viewer with receiver coverage domes",
+    "shortDescription": "I built a self-hosted 3D ADS-B viewer to see how obstacles affect receiver coverage. It builds a 3D coverage dome from 30-day history. My r…",
+    "fullDescription": "I built a self-hosted 3D ADS-B viewer to see how obstacles affect receiver coverage. It builds a 3D coverage dome from 30-day history. My receiver has a structure blocking about 30° of the sky, which reduces its range by about 100 km in that direction. The dome is just a mesh to hide a receiver&#x27;s exact coordinates. On my simple test, GPT-5.6 Sol couldn&#x27;t narrow down the location more than about 2.5 km in 9 different methods. Also, each aircraft rolls and pitches using real ADS-B data. The protocol does not transmit pitch angle, so it is estimated from the vertical rate. My tiny single receiver is in South Korea, so the local traffic could be very small when people from the other side of the Earth visits. There is an ADSB.lol network feed on the demo for that case. It is mostly AI (Codex and Claude) generated. Source: https:&#x2F;&#x2F;github.com&#x2F;luftaquila&#x2F;skytrace\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://sky.luftaquila.io",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49109712",
+    "createdAt": "2026-07-30T15:30:25.532Z"
+  },
+  {
+    "slug": "local-text-image-video-music-and-3d-from-one-cli-no-python-hn",
+    "title": "Local text, image, video, music and 3D from one CLI, no Python",
+    "shortDescription": "Hi HN! I&#x27;m the author of mere.run a local first inference runtime built around an installable CLI. I believe that whenever possible we…",
+    "fullDescription": "Hi HN! I&#x27;m the author of mere.run a local first inference runtime built around an installable CLI. I believe that whenever possible we should use the stuff we already own (like our Mac laptops, decent machines gathering dust, our gaming PC) and the limited electrical power we have easy access to, like the socket in the wall next to most of us. We shouldn&#x27;t have to send our data to the cloud hoping some T&amp;C will prevent it from being used in a way that we&#x27;d regret. Most of the local AI solutions are technical, involved, and land a curious body in some package hell. People are optimizing for one system and not another, the fun stuff is on PC if you own a Mac, and on Mac if you own a PC. So mere.run was my choice to begin to patch many of those things that I saw as problematic. Text, chat, code, image gen, speech tts+asr, vision (caption&#x2F;ground&#x2F;segment&#x2F;track&#x2F;pose&#x2F;depth&#x2F;face&#x2F;OCR&#x2F;etc), music, sfx, video, 2d-&gt;3d, persistent worlds, lora training plus a few more things I am probably forgetting all in one place to work the way you work, with a scriptable CLI, an openAI compatible serve, and optionally a native app on Mac. It&#x27;s native swift on MLX, no python, PyTorch, diffusers for inference. For text lanes with GGUF it uses llama.cpp and for a&#x2F;v muxing its FFmpeg. Most upstream releases that don&#x27;t have an MLX variant are converted offline and hosted on huggingface. All release packages are built for arm64 (Mac &amp; Cuda) plus x86. They&#x27;re signed and ship SHA256SUMS. No windows at the moment. &gt; mere.run model capabilities --recommended # That inspects your machine before recommending to prevent pulling models that don&#x27;t fit your spec There&#x27;s a workflow layer with typed, validated graphs so you can create immutable job bundles and run them locally, over an ssh executor or using a fleet of machines and the relay service. (It&#x27;s hosted at relay.mere.run and is currently invite only while I test, but its also totally open MIT so you can set it up yourself) The whole runtime is MIT along with the companion packages, models carry their own licenses and the CLI makes it clear when something has specific terms. Once you&#x27;ve pulled the models, everything works fully offline. I&#x27;ve been working on a (hopefully) comprehensive docs -&gt; https:&#x2F;&#x2F;docs.mere.run No account, no API key, no analytics or phone home. Any network calls in the source are all at your request only like huggingface.co (models), GitHub.com (Pi install). I&#x27;m just getting started, but it&#x27;s finally at the point I&#x27;d love feedback, contributions, and just folks to generally find it useful. I hope it helps you make things and explore what&#x27;s possible with the stuff you&#x27;ve already got in your home. Would love any thoughts, questions, ideas and maybe a star if you do that kinda thing. -Kyle\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/sawfwair/mere-run",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49109663",
+    "createdAt": "2026-07-30T15:30:25.532Z"
+  },
+  {
     "slug": "i-made-generatepptcom-free-hn",
     "title": "I Made Generateppt.com Free",
     "shortDescription": "No watermark, no limits, and the AI features work with your own API key, so there’s no subscription. Would love any feedback: generateppt.c…",
