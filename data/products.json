@@ -1,5 +1,49 @@
 [
   {
+    "slug": "llm-system-design-github",
+    "title": "llm-system-design",
+    "shortDescription": "A production-grade LLM System Design platform & interactive lab. Features a pure-Python LLM serving, RAG, routing, safety, and agent contro…",
+    "fullDescription": "A production-grade LLM System Design platform & interactive lab. Features a pure-Python LLM serving, RAG, routing, safety, and agent control plane (150+ offline tests) plus a LangChain + Streamlit UI with local Ollama models.\n\nАвтор: lamhotsiagian. Найдено в GitHub Trending (AI-тематика). ⭐ 10 звёзд.",
+    "url": "https://github.com/lamhotsiagian/llm-system-design",
+    "category": "chatbot",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "llm",
+      "rag",
+      "rag-chatbot",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1315913180",
+    "createdAt": "2026-07-30T06:25:24.350Z"
+  },
+  {
+    "slug": "godot-ai-chat-github",
+    "title": "godot-ai-chat",
+    "shortDescription": "AI coding agent inside the Godot editor — a Copilot/Claude-style chat dock that reads, writes, and debugs your project. 15+ LLM providers,…",
+    "fullDescription": "AI coding agent inside the Godot editor — a Copilot/Claude-style chat dock that reads, writes, and debugs your project. 15+ LLM providers, inline diffs, runtime error capture.\n\nАвтор: unxsist. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://store.godotengine.org/asset/unxsist/ai-copilot/",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "anthropic",
+      "coding-assistant",
+      "copilot",
+      "editor-plugin",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1314637333",
+    "createdAt": "2026-07-30T06:25:24.351Z"
+  },
+  {
     "slug": "harness-dashboard-github",
     "title": "harness-dashboard",
     "shortDescription": "One fuel gauge for every AI coding harness you actually use.",
