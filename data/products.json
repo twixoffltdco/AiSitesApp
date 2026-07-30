@@ -1,5 +1,85 @@
 [
   {
+    "slug": "i-made-generatepptcom-free-hn",
+    "title": "I Made Generateppt.com Free",
+    "shortDescription": "No watermark, no limits, and the AI features work with your own API key, so there’s no subscription. Would love any feedback: generateppt.c…",
+    "fullDescription": "No watermark, no limits, and the AI features work with your own API key, so there’s no subscription. Would love any feedback: generateppt.com\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.generateppt.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49109310",
+    "createdAt": "2026-07-30T13:08:11.973Z"
+  },
+  {
+    "slug": "scalix-world-ai-native-neo-cloud-hn",
+    "title": "Scalix World – AI native Neo cloud",
+    "shortDescription": "Проект «Scalix World – AI native Neo cloud», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Scalix World – AI native Neo cloud», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://scalix.world/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49109227",
+    "createdAt": "2026-07-30T13:08:11.973Z"
+  },
+  {
+    "slug": "memsprout-share-ai-context-with-your-teammates-hn",
+    "title": "Memsprout – share AI context with your teammates",
+    "shortDescription": "I’m an architect at my company and everyone on my team is now using Claude&#x2F;Codex agents for their work. Managing context in claude.md&…",
+    "fullDescription": "I’m an architect at my company and everyone on my team is now using Claude&#x2F;Codex agents for their work. Managing context in claude.md&#x2F;agents.md files is fine but so much of the knowledge required doesn’t fit cleanly in one repo or the other. Plus, much of the team (product, design, support) does not work in repos but still needs a place to share context. I searched for existing solutions to this but only found products meant for managing deployed AI agent memory for use in AI applications. I wanted something that would help my team share the context that lives in our collective heads. I first tried solving this problem by creating a directory structure with an MCP layer on top of it, but that became a pain to maintain. So I started tinkering with creating a platform for context sharing that works for the whole team. For this to work I wanted to prioritize two things above all else: 1. Easy to store valuable context. If it feels like maintaining docs, no one will use it. 2. Easy to share context with the right people. Access controls, read&#x2F;write permissions, etc. This turned into memsprout. The build out is not revolutionary by any means but I tried to make it as approachable as possible to use. With memsprout your agent can capture memories and you can decide if and when to share them to your teammates in dedicated spaces with access controls, permissions, etc. nto specific buckets So now I am able to store memories for bits of context I define right from my agent conversation as I work and easily share them with my teammates. Q: Do you guys also see this kind of context sharing as a challenge? How have you solved it in your work?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://memsprout.com/docs",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49109106",
+    "createdAt": "2026-07-30T13:08:11.973Z"
+  },
+  {
+    "slug": "hupow-proof-of-work-to-stop-ai-bots-in-your-inbox-hn",
+    "title": "HuPow – Proof-of-Work to stop AI bots in your inbox",
+    "shortDescription": "Проект «HuPow – Proof-of-Work to stop AI bots in your inbox», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «HuPow – Proof-of-Work to stop AI bots in your inbox», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://hupow.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49108879",
+    "createdAt": "2026-07-30T13:08:11.973Z"
+  },
+  {
+    "slug": "formae-0880-released-hn",
+    "title": "Formae 0.88.0 Released",
+    "shortDescription": "A transformative release with a lot of polish: - CLI facelift - Docs reboot + AI friendliness - forma properties rework for better IDE expe…",
+    "fullDescription": "A transformative release with a lot of polish: - CLI facelift - Docs reboot + AI friendliness - forma properties rework for better IDE experience\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://docs.formae.io/documentation/reference/release-notes",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49108873",
+    "createdAt": "2026-07-30T13:08:11.974Z"
+  },
+  {
     "slug": "meal-sticker-diary-github",
     "title": "meal-sticker-diary",
     "shortDescription": "好好吃饭：面向 iPhone 的 AI 三餐记录与食物贴纸拼贴应用",
