@@ -1,5 +1,96 @@
 [
   {
+    "slug": "agent-os-github",
+    "title": "agent-os",
+    "shortDescription": "Desktop workbench for running and reviewing AI coding agents, with the Agent OS product site.",
+    "fullDescription": "Desktop workbench for running and reviewing AI coding agents, with the Agent OS product site.\n\nАвтор: aiutil. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://agentos.aiutil.com",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "desktop",
+      "developer-tools",
+      "electron",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1316410731",
+    "createdAt": "2026-07-30T09:12:30.863Z"
+  },
+  {
+    "slug": "vocal-remover-2-github",
+    "title": "vocal-remover-2",
+    "shortDescription": "AI Vocal Remover - عزل الصوت + تحميل فيديو وبلاي ليست (الإصدار المطور)",
+    "fullDescription": "AI Vocal Remover - عزل الصوت + تحميل فيديو وبلاي ليست (الإصدار المطور)\n\nАвтор: ID-KM. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/ID-KM/vocal-remover-2",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "audio-processing",
+      "demucs",
+      "flask",
+      "media-downloader",
+      "python",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1316469249",
+    "createdAt": "2026-07-30T09:12:30.863Z"
+  },
+  {
+    "slug": "i-built-a-tool-finding-potential-users-discussing-problems-hn",
+    "title": "I built a tool finding potential users discussing problems",
+    "shortDescription": "Проект «I built a tool finding potential users discussing problems», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built a tool finding potential users discussing problems», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://agenmatic.ai/features",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49107516",
+    "createdAt": "2026-07-30T09:12:30.733Z"
+  },
+  {
+    "slug": "a-dark-cave-minimalist-survivalsettlement-building-game-hn",
+    "title": "A Dark Cave – minimalist survival/settlement building game",
+    "shortDescription": "10 years ago I played A Dark Room. A sparse, minimalist UI, even for back in the day. I played a lot of games back then, but not a single o…",
+    "fullDescription": "10 years ago I played A Dark Room. A sparse, minimalist UI, even for back in the day. I played a lot of games back then, but not a single one created such an intense atmosphere. That was when I decided that one day I also want to create a game that focuses more on atmosphere than graphics. I also think now, or at least in the very near future, thanks to AI, it will be quite easy to create nice-looking games. So the biggest differentiator will be atmosphere or emotions that can be created for the player. With A Dark Cave I made a humble attempt at this and I am still actively working on it: a-dark-cave.com The game mixes quite a few genres: incremental, semi-idle, settlement building, resource management, survival, and more. It is playable in the browser on desktop and mobile. It will also launch on Steam later this year. The game can still feel rough in places. Sound design in particular still needs work. Happy to hear any feedback. Especially whether it creates any atmosphere for you.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://a-dark-cave.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49107487",
+    "createdAt": "2026-07-30T09:12:30.733Z"
+  },
+  {
+    "slug": "my-ai-keeps-getting-smarter-i-dont-so-i-built-engram-hn",
+    "title": "My AI keeps getting smarter. I don't. So I built Engram",
+    "shortDescription": "Проект «My AI keeps getting smarter. I don't. So I built Engram», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «My AI keeps getting smarter. I don't. So I built Engram», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/nagisanzenin/engram",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49107403",
+    "createdAt": "2026-07-30T09:12:30.733Z"
+  },
+  {
     "slug": "llm-system-design-github",
     "title": "llm-system-design",
     "shortDescription": "A production-grade LLM System Design platform & interactive lab. Features a pure-Python LLM serving, RAG, routing, safety, and agent contro…",
