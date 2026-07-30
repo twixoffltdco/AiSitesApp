@@ -1,5 +1,81 @@
 [
   {
+    "slug": "meal-sticker-diary-github",
+    "title": "meal-sticker-diary",
+    "shortDescription": "好好吃饭：面向 iPhone 的 AI 三餐记录与食物贴纸拼贴应用",
+    "fullDescription": "好好吃饭：面向 iPhone 的 AI 三餐记录与食物贴纸拼贴应用\n\nАвтор: exder145. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/exder145/meal-sticker-diary",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "expo",
+      "food-diary",
+      "image-segmentation",
+      "ios",
+      "react-native",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1314462392",
+    "createdAt": "2026-07-30T11:28:10.026Z"
+  },
+  {
+    "slug": "job-fit-copilot-github",
+    "title": "job-fit-copilot",
+    "shortDescription": "AI-помощник соискателя: разбор совпадения вакансии по факторам (не % из чёрного ящика), сопроводительные письма, аналитика откликов. hh.ru/…",
+    "fullDescription": "AI-помощник соискателя: разбор совпадения вакансии по факторам (не % из чёрного ящика), сопроводительные письма, аналитика откликов. hh.ru/LinkedIn/Upwork, NVIDIA NIM/OpenAI/Anthropic, без бэкенда.\n\nАвтор: zhurik77. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/zhurik77/job-fit-copilot",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "anthropic",
+      "career",
+      "chrome-extension",
+      "cover-letter",
+      "job-search",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1316060193",
+    "createdAt": "2026-07-30T11:28:10.026Z"
+  },
+  {
+    "slug": "claude-skill-for-asd-ste100-simplified-english-hn",
+    "title": "Claude Skill for ASD-STE100 – Simplified English",
+    "shortDescription": "Recently I watched a video about ASD-STE100 - a controlled language from the aerospace industry. It was made in 1986 to remove ambiguity fr…",
+    "fullDescription": "Recently I watched a video about ASD-STE100 - a controlled language from the aerospace industry. It was made in 1986 to remove ambiguity from maintenance manuals. Short sentences. One meaning per word ... etc. Thought it could be useful in the tech industry so I &quot;built&quot; - (kind of an exaggeration here :d) an AI skill that applies these rules automatically. Tested it out on a few tech documents and READMEs and it seems to make them quite a bit more clear. Check it out here. Also I left some examples so you can see what it&#x27;s like without testing it.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/blagoySimandov/asd-ste100-writer-skill",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49108318",
+    "createdAt": "2026-07-30T11:28:09.982Z"
+  },
+  {
+    "slug": "two-ai-eyes-argue-about-morality-using-the-sociology-of-justification-hn",
+    "title": "Two AI eyes argue about morality, using the sociology of justification",
+    "shortDescription": "Проект «Two AI eyes argue about morality, using the sociology of justification», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Two AI eyes argue about morality, using the sociology of justification», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://orb-eye-ten.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49107858",
+    "createdAt": "2026-07-30T11:28:09.982Z"
+  },
+  {
     "slug": "agent-os-github",
     "title": "agent-os",
     "shortDescription": "Desktop workbench for running and reviewing AI coding agents, with the Agent OS product site.",
