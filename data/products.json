@@ -1,5 +1,21 @@
 [
   {
+    "slug": "collie-a-local-ai-harness-that-runs-the-browser-desktop-and-code-hn",
+    "title": "Collie – a local AI harness that runs the browser, desktop and code",
+    "shortDescription": "Проект «Collie – a local AI harness that runs the browser, desktop and code», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Collie – a local AI harness that runs the browser, desktop and code», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/colliehq/collie",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49115262",
+    "createdAt": "2026-07-30T21:41:55.939Z"
+  },
+  {
     "slug": "transcribe-github",
     "title": "transcribe",
     "shortDescription": "Open-source AI-powered desktop transcription app for macOS. Generate accurate word-level transcripts from audio and video completely offlin…",
