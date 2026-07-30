@@ -1,5 +1,75 @@
 [
   {
+    "slug": "transcribe-github",
+    "title": "transcribe",
+    "shortDescription": "Open-source AI-powered desktop transcription app for macOS. Generate accurate word-level transcripts from audio and video completely offlin…",
+    "fullDescription": "Open-source AI-powered desktop transcription app for macOS. Generate accurate word-level transcripts from audio and video completely offline.\n\nАвтор: castrokjoseph. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://www.castrokjoseph.com/oss/transcribe",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-tools",
+      "audio",
+      "audio-processing",
+      "desktop-app",
+      "desktop-application",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1317549532",
+    "createdAt": "2026-07-30T20:13:02.635Z"
+  },
+  {
+    "slug": "taskview-self-hosted-project-management-for-teams-hn",
+    "title": "TaskView – self-hosted project management for teams",
+    "shortDescription": "Hi HN. I&#x27;m a fullstack developer, building TaskView in my spare time. TaskView is a self-hosted project and task management platform.…",
+    "fullDescription": "Hi HN. I&#x27;m a fullstack developer, building TaskView in my spare time. TaskView is a self-hosted project and task management platform. Web + iOS&#x2F;Android apps. Runs from a single docker-compose. Features: kanban, sprints, time tracking, granular RBAC, GitHub&#x2F;GitLab sync, Slack&#x2F;Telegram notifications, MCP server for AI agents. SAML&#x2F;OIDC SSO and SCIM are included in the community edition. Stack: TypeScript, Express, PostgreSQL, Drizzle ORM, Vue 3, Centrifugo. Happy to answer questions.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Gimanh/taskview-community",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49115078",
+    "createdAt": "2026-07-30T20:13:02.457Z"
+  },
+  {
+    "slug": "aina-autotune-an-onnx-model-and-deploy-it-across-an-edge-fleet-hn",
+    "title": "Aina – autotune an ONNX model and deploy it across an edge fleet",
+    "shortDescription": "Aina compiles your ML model for each edge device&#x27;s hardware and pushes it to the whole fleet live, no SSH or restarts. It&#x27;s early…",
+    "fullDescription": "Aina compiles your ML model for each edge device&#x27;s hardware and pushes it to the whole fleet live, no SSH or restarts. It&#x27;s early and self-hostable\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/ElhamBadri2411/aina",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49114718",
+    "createdAt": "2026-07-30T20:13:02.457Z"
+  },
+  {
+    "slug": "open-cowork-an-open-source-model-agnostic-computer-use-agent-hn",
+    "title": "Open-Cowork – an open-source, model-agnostic computer-use agent",
+    "shortDescription": "Hi HN, We built Open Cowork, an MIT-licensed desktop agent that can operate a computer through screenshots, mouse input, and keyboard input…",
+    "fullDescription": "Hi HN, We built Open Cowork, an MIT-licensed desktop agent that can operate a computer through screenshots, mouse input, and keyboard input. We started working on this after using cowork-style computer agents for longer tasks. The interaction model was useful, but computer use burns through model calls much faster than chat: take a screenshot, decide what to do, perform an action, inspect the result, and repeat. We wanted to separate that agent loop from any one model or subscription. Open Cowork currently works with local models through Ollama and hosted models through providers including OpenAI, Anthropic, Google, xAI, Mistral, and OpenRouter. You can watch the agent’s actions as they happen and interrupt it during a run. The basic loop is: Capture the current screen Send the screenshot and task state to the model Parse the proposed action Execute the mouse or keyboard action Capture the resulting state Continue until completion, interruption, or a safety condition Two annoyingly common failures shaped the implementation. The first was selecting a model that appeared correctly configured but could not actually process image input. The agent would start, receive unusable responses, and waste the run. We now test the model’s screenshot capability before beginning the task. The second was agents getting stuck without technically throwing an error. They would click the same area repeatedly, keep observing an unchanged screen, or produce slightly different versions of the same action. We added idle and repetition detection so the run can stop instead of consuming the entire step budget. You can also run the model locally with Ollama. In that setup, the screenshots and model requests remain on your machine. The tradeoff is that computer use is demanding: smaller local models are often noticeably less reliable at understanding cluttered interfaces and recovering from unexpected states. There is a bundled offline mock if you want to inspect the full interaction flow without configuring an API key or spending money on inference. This is still early. The hardest unresolved problem is verification. Seeing the expected pixels after an action does not necessarily mean the underlying operation succeeded. A form can look filled while its internal state is wrong, and some failures are only visible on a later confirmation page or through an external side effect. We’re currently thinking about combining visual checks with task-specific invariants and downstream verification. I’d be particularly interested in how people here handle: detecting progress without relying only on screenshot similarity verifying side effects when DOM or API access is unavailable deciding when to stop a looping agent getting useful computer-use performance from local models The repository includes the setup instructions and offline mock. Happy to discuss the agent loop or any questionable implementation choices.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/coasty-ai/open-cowork",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49113363",
+    "createdAt": "2026-07-30T20:13:02.458Z"
+  },
+  {
     "slug": "im-a-senior-estimator-i-open-sourced-my-construction-takeoff-tool-hn",
     "title": "I'm a senior estimator, I open sourced my construction takeoff tool",
     "shortDescription": "Проект «I'm a senior estimator, I open sourced my construction takeoff tool», опубликован сообществом Hacker News.",
