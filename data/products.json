@@ -1,5 +1,123 @@
 [
   {
+    "slug": "jobfitcopilot-github",
+    "title": "jobfitcopilot",
+    "shortDescription": "AI Chrome/Edge-расширение для соискателей: прозрачный разбор совпадения вакансии по факторам (не % из чёрного ящика), готовые сопроводитель…",
+    "fullDescription": "AI Chrome/Edge-расширение для соискателей: прозрачный разбор совпадения вакансии по факторам (не % из чёрного ящика), готовые сопроводительные письма, аналитика откликов. hh.ru / LinkedIn / Upwork · NVIDIA NIM / OpenAI / Anthropic · без бэкенда\n\nАвтор: zhurik77. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/zhurik77/jobfitcopilot",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "anthropic",
+      "browser-extension",
+      "career",
+      "career-tools",
+      "chrome-extension",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1316060193",
+    "createdAt": "2026-07-30T17:23:54.556Z"
+  },
+  {
+    "slug": "burnless-makes-llm-context-a-protocol-token-savings-are-a-side-effect-hn",
+    "title": "Burnless makes LLM context a protocol. Token savings are a side effect",
+    "shortDescription": "I’ve created Burnless because I realized that we were using the context window for things that didn&#x27;t need to be there anymore. I want…",
+    "fullDescription": "I’ve created Burnless because I realized that we were using the context window for things that didn&#x27;t need to be there anymore. I wanted to stop burning tokens with what had already happened and were no longer necessary for the next step. It was not a discovery that came later. Burnless was born to separate things. What I didn’t know yet was the size of the problem, the size of the gain and how different it was from the path that everyone else was following. What I see nowadays is that everyone wants the context window to be bigger. That helps, of course. But in my opinion, the concept is wrong. A larger window will only allow you to put more things inside it, but it does not solve the fact that we are using the same place for the conversation, memory, decisions, execution, open questions, work history and all the old records of what has already been done. Burnless separates that into layers. Conversations, thoughts, debates, questions, and the history of the work are indexed and stored in your disk. The main context contains only the decisions and information that are still necessary to continue the work. But the real words are still in disk if they need to be checked (not even necessary to be honest). Also when we say something and someone asks us to repeat we never use the same words, why do AI need to do that? (remember, the original is still in the disk dont worry…) Tasks are delegated to independent, lightweight workers. They receive a clean task, write the code, manipulate files, execute commands and register on disk what they have done. And yes, the workers use the same byte cache header (don&#x27;t worry with this too) Burnless then audits the result. If a worker claims that he created or altered a file, Burnless verifies that it actually exists before marking the task as complete. So, the context stops being the place where everything has to live. It becomes the place where only what needs attention right now is kept. That’s why I compared Burnless to a protocol and, in the beginning, even to TCP&#x2F;IP. Not because it has the same history dimension, but because the movement is similar: separating responsibilities into layers, into worker capacities, into a useful and clean way of defining the communication between this alive system. Memory is no longer carried throughout the conversation. The execution stops being a role for the main model. The project history no longer permanently occupies the work&#x27;s memory. The project can go on even after a &#x2F;clear command or after switching between models. Token&#x27;s savings were the initial motivation, but it ended up becoming a consequence of the architecture. In a real-world task, the workers processed approximately 1.4 million tokens. But the Brain’s active context had only 1,590 tokens after completing the full task. I’m not claiming that Burnless took the exact same 1.4M tokens of text and compressed it to 1,590 tokens. What really happened was that all of that work was done, recorded, verified and continued without the accumulated history remaining inside the active context. The final operational ratio was approximately 908 to 1. (yeah 908x) When I show you that number, it sounds unbelievable. That was when I realized that the problem was much larger than I had initially imagined. While the general direction is to build increasingly larger context windows, I went in the opposite direction: removed from the context everything that doesn’t need to be considered at the moment. The repository also includes an llms.txt file containing the complete architecture, benchmarks, calculations, limitations and commands that are required to reproduce the numbers. As I cannot properly explain everything in a short comment, the llms.txt file is there for anyone who wants to understand what is happening at a deeper level and verify the claims. Use that to help your AI understand that stuff easily and respond to your questions.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Rudekwydra/burnless",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49112480",
+    "createdAt": "2026-07-30T17:23:54.363Z"
+  },
+  {
+    "slug": "recipebook-self-serve-platform-for-video-training-data-3hr-hn",
+    "title": "RecipeBook – Self-serve platform for video training data, $3/HR",
+    "shortDescription": "Проект «RecipeBook – Self-serve platform for video training data, $3/HR», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «RecipeBook – Self-serve platform for video training data, $3/HR», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://recipebook.shofo.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49112418",
+    "createdAt": "2026-07-30T17:23:54.363Z"
+  },
+  {
+    "slug": "tuneloop-a-local-cli-for-analyzing-coding-agent-session-transcripts-hn",
+    "title": "Tuneloop – a local CLI for analyzing coding agent session transcripts",
+    "shortDescription": "Hey HN, I think session transcripts written by coding agents like Claude Code and Codex are very interesting because they offer a detailed…",
+    "fullDescription": "Hey HN, I think session transcripts written by coding agents like Claude Code and Codex are very interesting because they offer a detailed window into how work gets shipped. You can see the sequence of decisions that resulted in the final PR, what the agent got wrong, tools used etc. So I built a cli that analyzes these sessions and provides a local dashboard that shows what each session shipped (PRs, features), how much each PR cost, and recommendations for more effective usage. Concretely, it enriches each session with: - Outcome links: merged PRs, features shipped, files changed - Granular cost attribution to outcomes - Task complexity - Agent autonomy - Work type - Key decisions - Tool error categories and across sessions, identifies: - Agent rework &#x2F; re-steer themes - Patterns of deviations from best practices Combined with the data already in the transcript like model, agent harness and repo, this data lets you answer questions like: - How much of my AI spend went into PR #2, or feature X? - Are my agents getting more autonomous over time on complex tasks? - What&#x27;s my success rate on repo X vs. repo Y (or any other dimension you care about?) Works with Claude Code, Codex, OpenCode, and Pi. Everything runs and stays on your machine; enrichments that need an LLM can use your own provider key or a local model. The repo is at https:&#x2F;&#x2F;github.com&#x2F;tuneloop&#x2F;tuneloop , and you can try it by running `npx tuneloop@latest analyze`. Some things that are in the works next: - Skill invocation analysis – was re-work needed after a skill invocation? - harness&#x2F;model comparisons on merged PRs – creates swe-bench style tasks from merged PRs on internal repos to help compare model&#x2F;harness choices. - a version that offers this visibility at the team level. I’d love to hear from folks here if you find this interesting. Do you look at session transcripts much (perhaps via `&#x2F;insights` on Claude Code or otherwise)? what do you find useful to track and actionable?\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/tuneloop/tuneloop",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49112195",
+    "createdAt": "2026-07-30T17:23:54.363Z"
+  },
+  {
+    "slug": "maybe-ai-agents-shouldnt-decide-whats-sensitive-hn",
+    "title": "Maybe AI agents shouldn't decide what's sensitive",
+    "shortDescription": "Проект «Maybe AI agents shouldn't decide what's sensitive», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Maybe AI agents shouldn't decide what's sensitive», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/softcane/hamza",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49112171",
+    "createdAt": "2026-07-30T17:23:54.363Z"
+  },
+  {
+    "slug": "github-scanner-that-finds-real-iso-27001soc-2-gaps-no-ai-no-signup-hn",
+    "title": "GitHub scanner that finds real ISO 27001/SoC 2 gaps – no AI, no signup",
+    "shortDescription": "Проект «GitHub scanner that finds real ISO 27001/SoC 2 gaps – no AI, no signup», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «GitHub scanner that finds real ISO 27001/SoC 2 gaps – no AI, no signup», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://normos.io/free-github-scan",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49112124",
+    "createdAt": "2026-07-30T17:23:54.363Z"
+  },
+  {
+    "slug": "wasted-cycles-local-wall-clock-profiler-for-ai-coding-agents-hn",
+    "title": "Wasted Cycles – Local wall-clock profiler for AI coding agents",
+    "shortDescription": "Проект «Wasted Cycles – Local wall-clock profiler for AI coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Wasted Cycles – Local wall-clock profiler for AI coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://zozo123.github.io/wasted-cycles/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49111656",
+    "createdAt": "2026-07-30T17:23:54.363Z"
+  },
+  {
     "slug": "maritime-smart-care360-github",
     "title": "Maritime-Smart-Care360_",
     "shortDescription": "AI-powered healthcare platform for medical consultations, symptom assessment, and emergency triage — built with React, Supabase, and Google…",
