@@ -1,5 +1,53 @@
 [
   {
+    "slug": "anti-slop-ui-a-deterministic-state-machine-to-stop-ai-hallucinations-hn",
+    "title": "Anti-Slop UI – A deterministic state-machine to stop AI hallucinations",
+    "shortDescription": "Проект «Anti-Slop UI – A deterministic state-machine to stop AI hallucinations», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Anti-Slop UI – A deterministic state-machine to stop AI hallucinations», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://local-over.github.io/Anti-Slop-UI/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49116843",
+    "createdAt": "2026-07-30T23:03:20.934Z"
+  },
+  {
+    "slug": "pomi-standalone-voice-agent-running-on-the-rabbit-r1-hn",
+    "title": "Pomi – standalone voice agent running on the Rabbit R1",
+    "shortDescription": "Hey HN! I’m building Pomi, a standalone voice agent that, with a debut launch on the Rabbit R1. Here’s a 30-second video of me asking it fo…",
+    "fullDescription": "Hey HN! I’m building Pomi, a standalone voice agent that, with a debut launch on the Rabbit R1. Here’s a 30-second video of me asking it for the weather in San Francisco: https:&#x2F;&#x2F;youtu.be&#x2F;vxG5is_nNqU I started this project because I find the R1 unusually compelling as a piece of hardware: its small, characterful, and designed specifically for interaction with an AI agent. One thing to say off the bat, this wasn&#x27;t in any way motivated by frustration with Rabbit’s software or an attempt to “fix” it. I wanted to explore a different question: how much of a custom, persistent voice-agent experience could I build directly on the device? I had to build the UI from scratch for this to accommodate R1’s 2.88-inch square display. You tap the tomato to talk, see the live transcription in a foreground overlay, and the message is sent automatically after a short pause. The response appears in the same conversation overlay. There is also an ambient lock display, conversation management, an animated home state, and an offline “Hey Pomi” wake word using Picovoice. The less visible part of the project was making the agent runtime behave like part of the device rather than a development process. I used Hermes by Nous Research - fantastic platform and I use it heavily outside of this. The agent gateway starts during boot, stores its state locally, and is supervised by Android’s service system. Normally that runs on localhost, but I connected the R1 to my private Tailscale network and had a custom tailwind provisioned URL that only other devices (like my Mac) can access. The repository includes the Android shell, the Hermes runtime configuration, the UI lab I used to iterate on the 240×282 interface, and scripts for building, provisioning, installing, updating, checking, and recovering the device. It targets a compatible rooted Rabbit R1 running Android 13. It does not redistribute Rabbit firmware or any user credentials. I originally built this only for my own R1, but I cleaned up the project so other R1 owners can reproduce it: https:&#x2F;&#x2F;github.com&#x2F;sidmohan0&#x2F;pomi I’ve just started collecting public feedback, so please let me know what you think. I’m particularly interested in the voice interaction model, reducing the time between speaking and receiving a response, and whether the installation process is practical enough for other R1 owners. I’d also love to hear what people would build with this hardware once the original software is no longer the defining constraint. PS I used Tailscale which made things like OTA updates and accessing the Hermes Dashboard from my computer much less painful, but it isn&#x27;t required!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/sidmohan0/pomi",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49116839",
+    "createdAt": "2026-07-30T23:03:20.934Z"
+  },
+  {
+    "slug": "new-app-for-meta-display-smart-glasses-hn",
+    "title": "New App for Meta Display Smart Glasses",
+    "shortDescription": "The Meta Display glasses very recently opened up their software to third party developers. So I made Keepers! Keepers uses your glasses cam…",
+    "fullDescription": "The Meta Display glasses very recently opened up their software to third party developers. So I made Keepers! Keepers uses your glasses camera to capture photos or videos every 10 seconds (configurable) and uses AI to judge if those are worth keeping (works in background and locked mode). There are other features like daily recaps, and the fact that these get stored directly onto your phone (something the glasses native camera does not do). iOS App: https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;keepers-smart-glasses-camera&#x2F;i... Android App: https:&#x2F;&#x2F;play.google.com&#x2F;store&#x2F;apps&#x2F;details?id=com.ggaswint.k... Looking for users, feedback, new feature requests. I have already gotten tons of use out of this. Personally i don&#x27;t like having to press the glasses button for a photo or video. I feel like it&#x27;s laggy and i often don&#x27;t catch the moments I want. This app allows me to turn it on, then go play with my daughter and at the end of our fun session I get a ton of photos and highlights of our time. I hope other&#x27;s will find this app enjoyable as well :) Anyone else here own a pair of the meta rayban display glasses?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://apps.apple.com/us/app/keepers-smart-glasses-camera/id6792932390",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49116236",
+    "createdAt": "2026-07-30T23:03:20.935Z"
+  },
+  {
     "slug": "collie-a-local-ai-harness-that-runs-the-browser-desktop-and-code-hn",
     "title": "Collie – a local AI harness that runs the browser, desktop and code",
     "shortDescription": "Проект «Collie – a local AI harness that runs the browser, desktop and code», опубликован сообществом Hacker News.",
