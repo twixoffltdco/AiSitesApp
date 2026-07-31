@@ -1,5 +1,53 @@
 [
   {
+    "slug": "gai-a-go-runtime-for-typed-tool-using-llm-agents-hn",
+    "title": "GAI – A Go runtime for typed, tool-using LLM agents",
+    "shortDescription": "Проект «GAI – A Go runtime for typed, tool-using LLM agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «GAI – A Go runtime for typed, tool-using LLM agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/lace-ai/gai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49129430",
+    "createdAt": "2026-07-31T22:57:18.907Z"
+  },
+  {
+    "slug": "integer-only-ai-complete-xor-with-997-accuracy-all-from-scratch-hn",
+    "title": "Integer-only AI complete XOR with 99.7% accuracy all from scratch",
+    "shortDescription": "Проект «Integer-only AI complete XOR with 99.7% accuracy all from scratch», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Integer-only AI complete XOR with 99.7% accuracy all from scratch», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Mojo0869/ABSL",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49129422",
+    "createdAt": "2026-07-31T22:57:18.907Z"
+  },
+  {
+    "slug": "i-worked-on-a-new-browser-for-2-years-today-it-passed-acid-3-hn",
+    "title": "I worked on a new browser for 2 years, today it passed Acid 3",
+    "shortDescription": "Проект «I worked on a new browser for 2 years, today it passed Acid 3», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I worked on a new browser for 2 years, today it passed Acid 3», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 10 баллов.",
+    "url": "https://code.intellios.ai/cwbrowser/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49128826",
+    "createdAt": "2026-07-31T22:57:18.907Z"
+  },
+  {
     "slug": "agents-that-learn-and-remember-on-your-machine-under-your-control-hn",
     "title": "Agents that learn and remember. On your machine, under your control",
     "shortDescription": "Local-first AI agents with governed, approval-gated memory. Any model provider; MCP tools and web search built in. Nothing remembered witho…",
