@@ -1,5 +1,21 @@
 [
   {
+    "slug": "offline-flock-navigation-hn",
+    "title": "Offline Flock Navigation",
+    "shortDescription": "Hello HN! A little side project I have been working on a fork of OsmAnd with offline ALPR&#x2F;Flock camera avoidance routing. Also, took t…",
+    "fullDescription": "Hello HN! A little side project I have been working on a fork of OsmAnd with offline ALPR&#x2F;Flock camera avoidance routing. Also, took the time to at least create a paper on the project as well. https:&#x2F;&#x2F;github.com&#x2F;KaraZajac&#x2F;TRAMES&#x2F;blob&#x2F;main&#x2F;research&#x2F;paper... And yes, I did use AI to help me with this. All of it open sourced and available for use. Though I don&#x27;t intend to build Apple version of this, or submit it to the play store. I am looking for feedback! Thank you all and have great weekend. :)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://trames.karazajac.io",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49128010",
+    "createdAt": "2026-07-31T20:17:54.266Z"
+  },
+  {
     "slug": "doubt-source-grounded-evidence-maps-for-ai-research-hn",
     "title": "Doubt – Source-grounded evidence maps for AI research",
     "shortDescription": "Проект «Doubt – Source-grounded evidence maps for AI research», опубликован сообществом Hacker News.",
