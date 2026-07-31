@@ -1,5 +1,137 @@
 [
   {
+    "slug": "oh-my-harness-github",
+    "title": "oh-my-harness",
+    "shortDescription": "You own this harness as a stack of installable workers, and “build your own” stops meaning “fork a framework.” It means “swap a few workers…",
+    "fullDescription": "You own this harness as a stack of installable workers, and “build your own” stops meaning “fork a framework.” It means “swap a few workers.”\n\nАвтор: iii-hq. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://workers.iii.dev",
+    "category": "developer",
+    "tags": [
+      "agent",
+      "ai",
+      "artificial-intelligence",
+      "claude",
+      "claude-code",
+      "codex",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1315990681",
+    "createdAt": "2026-07-31T01:03:26.994Z"
+  },
+  {
+    "slug": "agent-skills-github",
+    "title": "agent-skills",
+    "shortDescription": "Agent skills by Majd Ghithan. First: laravel-filament — version-aware best practices for Filament v1-v5 with upgrade guides.",
+    "fullDescription": "Agent skills by Majd Ghithan. First: laravel-filament — version-aware best practices for Filament v1-v5 with upgrade guides.\n\nАвтор: majdghithan. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/majdghithan/agent-skills",
+    "category": "ai-tool",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "claude-skills",
+      "filament",
+      "laravel",
+      "livewire",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1316123899",
+    "createdAt": "2026-07-31T01:03:26.994Z"
+  },
+  {
+    "slug": "microcks-agent-skills-github",
+    "title": "microcks-agent-skills",
+    "shortDescription": "AI Agents and Skills to ease your life working with Microcks",
+    "fullDescription": "AI Agents and Skills to ease your life working with Microcks\n\nАвтор: microcks. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://microcks.io",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "claude-code-plugin",
+      "github-copilot-extensions",
+      "microcks",
+      "mocking",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1316169692",
+    "createdAt": "2026-07-31T01:03:26.994Z"
+  },
+  {
+    "slug": "tetrisai-github",
+    "title": "TetrisAI",
+    "shortDescription": "Multi-platform Tetris AI - PC C++/Python + Android C++/Kotlin, 9 AI strategies (Dellacherie/GA/MCTS/BeamSearch)",
+    "fullDescription": "Multi-platform Tetris AI - PC C++/Python + Android C++/Kotlin, 9 AI strategies (Dellacherie/GA/MCTS/BeamSearch)\n\nАвтор: amo-tx. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/amo-tx/TetrisAI",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "android",
+      "game-ai",
+      "genetic-algorithm",
+      "jetpack-compose",
+      "kotlin",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1315996844",
+    "createdAt": "2026-07-31T01:03:26.994Z"
+  },
+  {
+    "slug": "medusa-github",
+    "title": "Medusa",
+    "shortDescription": "Medusa is an open-source AI agentic red-teaming framework powered by LangGraph and a Re-Act Architecture.",
+    "fullDescription": "Medusa is an open-source AI agentic red-teaming framework powered by LangGraph and a Re-Act Architecture.\n\nАвтор: 0xwi11iam. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/0xwi11iam/Medusa",
+    "category": "developer",
+    "tags": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "autonomous-agents",
+      "ctf",
+      "docker",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1315587108",
+    "createdAt": "2026-07-31T01:03:26.994Z"
+  },
+  {
+    "slug": "9routerproxy-github",
+    "title": "9router_proxy",
+    "shortDescription": "Control all the details of the requests you want before they are sent to AI providers!",
+    "fullDescription": "Control all the details of the requests you want before they are sent to AI providers!\n\nАвтор: eikarna. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/eikarna/9router_proxy",
+    "category": "productivity",
+    "tags": [
+      "9router",
+      "ai",
+      "ai-agent",
+      "ai-agent-tools",
+      "ai-agents",
+      "ai-agents-automation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1317135964",
+    "createdAt": "2026-07-31T01:03:26.994Z"
+  },
+  {
     "slug": "anti-slop-ui-a-deterministic-state-machine-to-stop-ai-hallucinations-hn",
     "title": "Anti-Slop UI – A deterministic state-machine to stop AI hallucinations",
     "shortDescription": "Проект «Anti-Slop UI – A deterministic state-machine to stop AI hallucinations», опубликован сообществом Hacker News.",
