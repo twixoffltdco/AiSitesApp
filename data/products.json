@@ -1,5 +1,85 @@
 [
   {
+    "slug": "agents-that-learn-and-remember-on-your-machine-under-your-control-hn",
+    "title": "Agents that learn and remember. On your machine, under your control",
+    "shortDescription": "Local-first AI agents with governed, approval-gated memory. Any model provider; MCP tools and web search built in. Nothing remembered witho…",
+    "fullDescription": "Local-first AI agents with governed, approval-gated memory. Any model provider; MCP tools and web search built in. Nothing remembered without your say-so, nothing leaves your machine.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/EXXETA/exxperts",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49128753",
+    "createdAt": "2026-07-31T21:37:29.365Z"
+  },
+  {
+    "slug": "baduz-action-adventure-game-maker-hn",
+    "title": "Baduz – Action Adventure Game Maker",
+    "shortDescription": "Hi HN — I built a browser-based tool for creating and sharing third-person action-adventure games! Game creation is AI-assisted, but the re…",
+    "fullDescription": "Hi HN — I built a browser-based tool for creating and sharing third-person action-adventure games! Game creation is AI-assisted, but the result is still represented as editable game objects, mechanics, and scripts. The goal is to make iteration more understandable and controllable than vibe coding an entire game. Compared with engines like Unreal, the game maker is intentionally narrow: it focuses on a set of common game mechanics, which makes it much faster to learn and use. I recommend starting with the demo game. You can play a 5 minute mission immediately, or open it in the editor without creating an account. Both options are available from the front page. The engine runs in the browser using WebGPU and is written in C++ via Emscripten. All humanoid animations are generated in real time with the help of a physics simulation (Jolt). Longer term, I’d like to use neural rendering to translate the games’ &quot;semantic pixels&quot; into arbitrary visual styles. Near-term features include music, more varied sound, and a unified agent interface. Currently, behavior creation is split between objects and scripts rather than handled through a single iterative workflow. There is also a free trial for creating your own game. Let me know about your thoughts :) It&#x27;s still early but most fundamental mechanics and features are in place. Known issue: the current version may crash on iOS 26, fixed on iOS 27. The game can be played on touch&#x2F;mobile, but the editor designed to be desktop-only. Thanks for taking a look!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://baduz.com/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49128617",
+    "createdAt": "2026-07-31T21:37:29.365Z"
+  },
+  {
+    "slug": "penca-branchable-versioned-oltpolap-on-one-open-copy-of-your-data-hn",
+    "title": "Penca – branchable, versioned OLTP+OLAP on one open copy of your data",
+    "shortDescription": "Hi HN! This is an early proof of concept of a branchable, versioned OLTP + OLAP database that runs on a single, open copy of your data in o…",
+    "fullDescription": "Hi HN! This is an early proof of concept of a branchable, versioned OLTP + OLAP database that runs on a single, open copy of your data in object storage. If you are familiar with Databricks&#x27; LTAP ( https:&#x2F;&#x2F;www.databricks.com&#x2F;company&#x2F;newsroom&#x2F;press-releases&#x2F;d... ) announcement from June, you can think of this as aspiring to be a fully open source, Apache 2.0 LTAP alternative with additional data versioning&#x2F;auditability guarantees that enable audit, as_of queries, and (eventually) revert straight out of the box. How it works: 1. Writes land in vanilla postgres which functions as an ephemeral hot tier 2. A background pass flushes committed rows out to columnar files in an object storage cold tier 3. A DataFusion based query engine merges results across the two tiers (with some fancy caching and indexing) For a deep dive on the architecture&#x2F;intended design&#x2F;vision see: https:&#x2F;&#x2F;penca.io&#x2F;blog&#x2F;the-penca-architecture.html . This project is very, very early on. It is mostly a PoC right now and there are many bugs and shortcomings with many major items still on the roadmap. I hope to get some real performance numbers soon. A few features I would like to add in no particular order: - Iceberg export - Branching (from any branch, not just main) - Improved SQL support (e.g. multi-statement execution) - Full-text search and vector indexes - Configurable isolation levels (currently last write wins) - A pgwire frontend Any and all feedback is appreciated. I&#x27;d also like help! If any of this appeals to you and the project doesn&#x27;t seem like the craziest idea of all time, shoot me an email at nico@penca.io. Disclaimer: before someone comments this, yes, the code is heavily AI generated. I have tried to leave as much of the dev tooling in the repo as possible to demonstrate what the end-to-end development workflow looks like. Also, the majority of the commit history is missing as I had to rename&#x2F;migrate + scrub the repo prior to open sourcing.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/penca-io/penca",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49128567",
+    "createdAt": "2026-07-31T21:37:29.365Z"
+  },
+  {
+    "slug": "how-to-build-and-self-host-a-code-review-agent-hn",
+    "title": "How to build and self-host a code review agent",
+    "shortDescription": "Hey HN, I&#x27;ve had a side-project that I&#x27;ve slowly ticked away at over the last year called Tilde. Tilde is a harness SDK platform…",
+    "fullDescription": "Hey HN, I&#x27;ve had a side-project that I&#x27;ve slowly ticked away at over the last year called Tilde. Tilde is a harness SDK platform - I&#x27;ve tried to take the best things of OpenClaw, Hermes &amp; other harnesses and decompose them and make them available as cloud API building blocks. You can use Tilde to create AI agents for your use case, fast and self-host the agent&#x27;s yourself. The documentation (and attached blog post) leave a lot to be desired in terms of technical documentation but hopefully the attached git repo does a good job of showcasing the API. https:&#x2F;&#x2F;github.com&#x2F;trytilde&#x2F;examples\n\nНайдено в разделе Show HN на Hacker News. 👍 7 баллов.",
+    "url": "https://www.trytilde.ai/blog/how-to-build-code-review-agent",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49128177",
+    "createdAt": "2026-07-31T21:37:29.366Z"
+  },
+  {
+    "slug": "brainstorm-a-local-first-ai-native-os-for-knowledge-work-hn",
+    "title": "Brainstorm – a local-first, AI-native OS for knowledge work",
+    "shortDescription": "Hello, I&#x27;ve been building a local-first open-source knowledge management operating system for 3 months as an AI-native company and wou…",
+    "fullDescription": "Hello, I&#x27;ve been building a local-first open-source knowledge management operating system for 3 months as an AI-native company and would love to hear genuine feedback from the Hacker News community. I&#x27;ve previously worked on a similar project for several years and tried to solve a problem that everything is glued together in common knowledge management apps and fixing one thing usually led to breaking other user experiences. What I was trying to build is disconnecting things and making apps first class citizens, responsible for one single piece of user workflow, like journalling or using whiteboards for example. As the app I was working on had heavy security measures to preserve data sovereignty, I decided that I want the security to be weaved into the system at the core, so all apps are small pieces of software, sandboxed and with their own permissions and capabilities. Furthermore, the system now is a marketplace of assets - apps, themes and agents next. Another major feature is that while being an operating system where agents and humans work together, there is a control and observability layer on everything agents do in the system designed, so the data control remains genuine. Worth mentioning that the system evolves with the apps you install, each app serving as an MCP tool for other apps, for example you can use Agent features in Notes if you have agent app installed and configured, but if you do not you can still use the app normally without these features. Hope to receive some feedback or feature requests. Website: https:&#x2F;&#x2F;getbrainstorm.online Github: https:&#x2F;&#x2F;github.com&#x2F;brainstorm-os You can verify the security layer and give feedback as well, much appreciated!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://getbrainstorm.online/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49128167",
+    "createdAt": "2026-07-31T21:37:29.366Z"
+  },
+  {
     "slug": "offline-flock-navigation-hn",
     "title": "Offline Flock Navigation",
     "shortDescription": "Hello HN! A little side project I have been working on a fork of OsmAnd with offline ALPR&#x2F;Flock camera avoidance routing. Also, took t…",
