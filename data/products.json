@@ -1,5 +1,53 @@
 [
   {
+    "slug": "i-built-an-ai-that-reads-german-real-estate-listings-for-buyers-hn",
+    "title": "I built an AI that reads German real estate listings for buyers",
+    "shortDescription": "Проект «I built an AI that reads German real estate listings for buyers», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built an AI that reads German real estate listings for buyers», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://immo-lens.com/?lang=en",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49122349",
+    "createdAt": "2026-07-31T12:53:59.650Z"
+  },
+  {
+    "slug": "secure-bearer-jwt-and-jwks-pattern-for-headless-ai-agents-mcp-824-hn",
+    "title": "Secure Bearer JWT and JWKS pattern for headless AI agents (MCP #824)",
+    "shortDescription": "Проект «Secure Bearer JWT and JWKS pattern for headless AI agents (MCP #824)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Secure Bearer JWT and JWKS pattern for headless AI agents (MCP #824)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/orgs/modelcontextprotocol/discussions/824",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49121724",
+    "createdAt": "2026-07-31T12:53:59.650Z"
+  },
+  {
+    "slug": "explore-different-scenarios-for-making-a-decision-a-future-simulation-hn",
+    "title": "Explore different scenarios for making a decision, a future simulation",
+    "shortDescription": "Hi, In this project we use AI to explore different scenarios and simulate the future in different parallel cases to help users make better…",
+    "fullDescription": "Hi, In this project we use AI to explore different scenarios and simulate the future in different parallel cases to help users make better decisions. I would highly appreciate your comments and feedbacks.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.futuraengine.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49121499",
+    "createdAt": "2026-07-31T12:53:59.650Z"
+  },
+  {
     "slug": "hybrid-cli-ai-github",
     "title": "hybrid-cli-ai",
     "shortDescription": "A smart, cross-platform AI terminal assistant that generates and executes shell commands using Groq Cloud or offline Ollama models.",
