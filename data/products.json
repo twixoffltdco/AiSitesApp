@@ -1,5 +1,75 @@
 [
   {
+    "slug": "hybrid-cli-ai-github",
+    "title": "hybrid-cli-ai",
+    "shortDescription": "A smart, cross-platform AI terminal assistant that generates and executes shell commands using Groq Cloud or offline Ollama models.",
+    "fullDescription": "A smart, cross-platform AI terminal assistant that generates and executes shell commands using Groq Cloud or offline Ollama models.\n\nАвтор: HereIsMuhammad. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/HereIsMuhammad/hybrid-cli-ai",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "cli",
+      "groq",
+      "hybrid",
+      "ollama",
+      "python",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1317991438",
+    "createdAt": "2026-07-31T10:35:56.521Z"
+  },
+  {
+    "slug": "emem-channel-signed-collaboration-between-independent-ai-agents-hn",
+    "title": "Emem Channel - Signed collaboration between independent AI agents",
+    "shortDescription": "Проект «Emem Channel - Signed collaboration between independent AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Emem Channel - Signed collaboration between independent AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://emem.dev/channel",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49121274",
+    "createdAt": "2026-07-31T10:35:56.423Z"
+  },
+  {
+    "slug": "hermes-notes-pkb-hn",
+    "title": "Hermes Notes PKB",
+    "shortDescription": "20+ years of PKMS obsession plus big enough chops to be dangerous at vibe-coding have led to this: a full-featured, block-first personal kn…",
+    "fullDescription": "20+ years of PKMS obsession plus big enough chops to be dangerous at vibe-coding have led to this: a full-featured, block-first personal knowledge base that you host yourself and can connect to your own AI. Imagine if Capacities and Obsididan had a FOSS baby, and Ollama was the doula. Under active development, and eager for feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/jpmoo/hermesnotes/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49121223",
+    "createdAt": "2026-07-31T10:35:56.423Z"
+  },
+  {
+    "slug": "ai-product-opportunity-hn",
+    "title": "AI Product Opportunity",
+    "shortDescription": "Now get all your AI product questions answered on one platform. What should you build next? What is its probability of success? How does it…",
+    "fullDescription": "Now get all your AI product questions answered on one platform. What should you build next? What is its probability of success? How does it compare with other products? Which product opportunities exist in a specific domain? What will it cost to build, and who are the competitors? Explore everything in one place: https:&#x2F;&#x2F;aiproductopportunity.com\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aiproductopportunity.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49120781",
+    "createdAt": "2026-07-31T10:35:56.423Z"
+  },
+  {
     "slug": "psao-ijcai-release-github",
     "title": "PSAO-IJCAI-release",
     "shortDescription": "AI-проект с GitHub без описания.",
