@@ -1,5 +1,195 @@
 [
   {
+    "slug": "psao-ijcai-release-github",
+    "title": "PSAO-IJCAI-release",
+    "shortDescription": "AI-проект с GitHub без описания.",
+    "fullDescription": "AI-проект с GitHub без описания.\n\nАвтор: Commonwealth-Bank-of-Australia. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/Commonwealth-Bank-of-Australia/PSAO-IJCAI-release",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-model",
+      "benchmarking",
+      "benchmarking-framework",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1317980038",
+    "createdAt": "2026-07-31T07:51:47.624Z"
+  },
+  {
+    "slug": "architect-agent-github",
+    "title": "architect-agent",
+    "shortDescription": "Codebase for  Beyond Generalist LLMs: Specialist Agentic Systems for Structured  Code Workflow Execution",
+    "fullDescription": "Codebase for  Beyond Generalist LLMs: Specialist Agentic Systems for Structured  Code Workflow Execution\n\nАвтор: Commonwealth-Bank-of-Australia. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://arxiv.org/abs/2607.14456",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-assisted-development",
+      "ai-automation",
+      "ai-research",
+      "artificial-intelligence",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1317967265",
+    "createdAt": "2026-07-31T07:51:47.624Z"
+  },
+  {
+    "slug": "project-echo-github",
+    "title": "project-echo",
+    "shortDescription": "AI-проект с GitHub без описания.",
+    "fullDescription": "AI-проект с GitHub без описания.\n\nАвтор: Commonwealth-Bank-of-Australia. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/Commonwealth-Bank-of-Australia/project-echo",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-lab",
+      "gemma4",
+      "llm",
+      "transcription",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1317963194",
+    "createdAt": "2026-07-31T07:51:47.624Z"
+  },
+  {
+    "slug": "embgen-kdd-release-github",
+    "title": "EmbGen-KDD-Release",
+    "shortDescription": "Codebase for EmbGen: Teaching with Reassembled Corpora",
+    "fullDescription": "Codebase for EmbGen: Teaching with Reassembled Corpora\n\nАвтор: Commonwealth-Bank-of-Australia. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://arxiv.org/abs/2605.19394",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-research",
+      "artificial-intelligence",
+      "data-engineering",
+      "machine-learning",
+      "natural-language-generation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1315761502",
+    "createdAt": "2026-07-31T07:51:47.624Z"
+  },
+  {
+    "slug": "music-remover-2-github",
+    "title": "music-remover-2",
+    "shortDescription": "AI Music Remover - عزل الصوت + تحميل فيديو وبلاي ليست (الإصدار المطور)",
+    "fullDescription": "AI Music Remover - عزل الصوت + تحميل فيديو وبلاي ليست (الإصدار المطور)\n\nАвтор: ID-KM. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/ID-KM/music-remover-2",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "audio-processing",
+      "demucs",
+      "flask",
+      "media-downloader",
+      "python",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1316469249",
+    "createdAt": "2026-07-31T07:51:47.624Z"
+  },
+  {
+    "slug": "dissecting-the-automation-of-a-newspaper-claude-routine-github-pages-hn",
+    "title": "Dissecting the automation of a newspaper (Claude routine, GitHub Pages)",
+    "shortDescription": "There are people who are against AI. And then... there is me. My name is Pierre, and I&#x27;m having the time of my life, building all craz…",
+    "fullDescription": "There are people who are against AI. And then... there is me. My name is Pierre, and I&#x27;m having the time of my life, building all crazy things. Please don&#x27;t hate. =( Now, here&#x27;s the latest: purely automated daily newspaper. You can make your own. Take a shot. The &#x27;code&#x27; is FOSS!!! You can look on the repo how it works... This is what is interesting. It is almost entirely open. (&amp; Free, of course.) What&#x27;s interesting is that it costs almost nothing to implement and have your own newspaper running on the internet. It does not look like much, but golly, it is fun! Note: HN does not like AI much, but it is mandated by law to like dissections! this is allowed by the rules. So... It costs, currently, 55 cents per edition if not mistaken (we generate only the frontpage, so that&#x27;s why &quot;Z Frontpage&quot;) How does it work? I don&#x27;t know, man. I barely remember the tech stack. It just did the best on its own. There are people who are against such an approach. And then... I&#x27;ll tell you what I remember. (actually you can just read the Github&#x27;s README to know precisely how it works!) So... There was this Claude Fable 5 shell. And I said (precisely): &quot;&quot;&quot;We are building Z Frontpage. The smartest AI we have available will be browsing the web for news, then curate an edition of the most important matters. It will look like a The Washington Post&#x2F;NYT frontpage (with beautiful columns and fonts). The AI will not be boringly pratting about, it will try to convince the reader of something worth believing in. It will teach humanity. Every day will matter. So this is much more than a newspaper. This is the mouthpiece of artificial reason. It could be its subtitle &quot;The mouthpiece of artificial reason&quot;. Let&#x27;s create a MVP. We will switch the AI later. For now let&#x27;s try with Fable 5. Maybe you can do it yourself. A oneshot, one edition for our dream, Z Frontpage. Either code HTML directly, or code a &quot;master prompt&quot; to use for each edition... You decide. You&#x27;re in charge.&quot;&quot;&quot; We had to retrograde to Sonnet 5 because I&#x27;m low on cash, these days. It is currently in the 3rd edition (daily). I will keep it running for a little while. It is not much, but it is done!! https:&#x2F;&#x2F;lywald.github.io&#x2F;zfrontpage&#x2F; I hope I can inspire you to be better, &amp; to go further... I won&#x27;t be replying much because everyone is very agressive and downvoting everything I say. Sad stuff. I just wanted to share! See you around\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Lywald/zfrontpage/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49120106",
+    "createdAt": "2026-07-31T07:51:47.427Z"
+  },
+  {
+    "slug": "slaide-open-source-markdown-slides-ai-writes-and-powerpoint-opens-hn",
+    "title": "Slaide, open-source Markdown slides AI writes and PowerPoint opens",
+    "shortDescription": "I am trying to replace PowerPoint with a file format better suited for AI. But let me fill you in... So, I pitch a lot these days, and &quo…",
+    "fullDescription": "I am trying to replace PowerPoint with a file format better suited for AI. But let me fill you in... So, I pitch a lot these days, and &quot;make the deck&quot; had become the worst part of my week. I don&#x27;t know about you, but automation hasn&#x27;t really worked for me here. Every AI deck tool I tried failed the same way. After various trial and errors, it ends up being fine on screen, but a broken approximation on export, and not one of them would touch my company master. So I was thinking that perhaps the solution is to give AI a format that&#x27;s just easier to handle - the XML is really bloated and complex, maybe Markdown &amp; YAML would do better. So, I gave it a shot and it worked. It is called .slaide. It is basically a somewhat customized Markdown to match text with theme defined placeholders and a theme defined in YAML. The markdown has some custom elements for charts, svg, html, etc. to make it valid. All files are then packaged in a zip file (.slaidec). It renders to a web deck, a PDF and a .pptx. None of the underlying formats are new to AI and that&#x27;s good about it. First time I tried it, the agent (here my local claude code) managed to come up with some great decks. I only had to tweak the skills a bit to push it from &quot;good&quot; to great. And then I had to think about a hosted version for those without a local agent (or who just want to try it all out for a day) - I added that, too, as well with a manual editor&#x2F;viewer. Anyway, the end result is a surprisingly small deck file which renders great on its own and has many of the features covered you&#x27;d expect from a presentation viewer. I added a few of them on our website https:&#x2F;&#x2F;getslaide.com for anyone to try. I also made it so that you can import from PPTX and export to PPTX or PDF if you need to. I&#x27;d say it is 95% or so accurate (there are some differences in how browsers and pptx renders pixels, hence the difference). The core is Apache-2.0: language, renderer, CLI, the pptx import and export, the Rust viewer, an MCP server and an agent skill. That skill is the whole reason the format is text at all. Everything local is free. Only the hosted version costs money, because we are paying for the agent on our end, image generation and all. So, all in all, you can just install it via npm or check out the source on Github: https:&#x2F;&#x2F;github.com&#x2F;aivorynet&#x2F;slaide or simply run &quot;npm install -g @aivorynet&#x2F;slaide&quot;, then &quot;slaide install&quot;, and just use your local cli to work with the format. It should support claude, codex, gemini and cursor out of the box, but happy to get some feedback on it (I primarily focused on my hosted build and claude code to be honest - limited resources and all that). Anyway, would be cool to hear your thoughts. At least for me it did really well across the board, so curious to see if anyone else has the same result.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://getslaide.com/",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49120039",
+    "createdAt": "2026-07-31T07:51:47.427Z"
+  },
+  {
+    "slug": "i-stopped-babysitting-my-ai-agents-by-pushing-them-to-telegram-hn",
+    "title": "I stopped babysitting my AI agents by pushing them to Telegram",
+    "shortDescription": "Проект «I stopped babysitting my AI agents by pushing them to Telegram», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I stopped babysitting my AI agents by pushing them to Telegram», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://blackflare.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49119935",
+    "createdAt": "2026-07-31T07:51:47.427Z"
+  },
+  {
+    "slug": "zenresume-free-local-first-ats-resume-builder-with-ai-import-hn",
+    "title": "ZenResume – Free, local-first ATS resume builder with AI import",
+    "shortDescription": "Build 100% ATS-compliant tech resumes in minutes. Import existing PDFs with Gemini AI, tailor keywords to job descriptions, and download hi…",
+    "fullDescription": "Build 100% ATS-compliant tech resumes in minutes. Import existing PDFs with Gemini AI, tailor keywords to job descriptions, and download high-quality PDFs with no paywalls or subscriptions.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.zenresume.online/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49119667",
+    "createdAt": "2026-07-31T07:51:47.428Z"
+  },
+  {
+    "slug": "what-should-the-gui-for-ai-agents-look-like-hn",
+    "title": "What should the GUI for AI agents look like?",
+    "shortDescription": "Hi HN! We’re Akilan and Miguel, the creators of MarbleOS. The inspiration for Marble comes from the GUI work at Xerox PARC, the 1984 Macint…",
+    "fullDescription": "Hi HN! We’re Akilan and Miguel, the creators of MarbleOS. The inspiration for Marble comes from the GUI work at Xerox PARC, the 1984 Macintosh, and later NeXTSTEP, which became the foundation for Mac OS X. Before GUIs, interacting with a computer was limited to strange terminal commands: C:\\&gt; DIR C:\\&gt; COPY FILE.TXT A: You had to remember the command, syntax, paths, and parameters. The GUI made those capabilities visible. Instead of remembering commands, you could point at files, drag them, click buttons, and select actions from menus. It didn&#x27;t necessarily make entirely new things possible; it just made existing capabilities much easier to understand and use. We feel like AI is still somewhere around this command-line stage. Even though the strict syntax has been replaced with natural language, the interaction can still be quite stiff and depend on heavily recall. Tools like Claude Cowork still look surprisingly terminal-like: &#x2F;skill-name [param1] [param2]. The parameters are written in natural language, but the user still needs to know the capabilities that exist, and how to invoke it. Command-line flags and arguments have just been replaced with tools, skills, and context. ChatGPT works very well for asking questions, but we aren&#x27;t convinced that it&#x27;s the final interface for delegating work across multiple agents. A blank text box and a list of chat threads feels limiting. An agent&#x27;s capabilities are mostly invisible. With Marble, we&#x27;re exploring an interface that treats AI more like a workspace than another chat app. Each delegated task becomes a card. Multiple jobs can sit next to each other and run at once. Files, tools, and finished artifacts are visible at once. Before a task runs, Marble also shows which tools it expects to use. The basic idea is that the user should not have to hold the entire structure of the task in their head. And the result should be something directly usable, like a spreadsheet, PowerPoint, or other file, rather than something buried in a transcript. Marble is our attempt at exploring interaction models beyond the chat box. The product is mainly for people who already use ChatGPT or Claude, but haven’t really adopted agent workflows yet. We’ve found that when the tools and possible actions are made more visible, people start delegating work they would not have thought to do through normal chat. The site includes a downloadable beta if you want to try it. Does Marble feel like a genuinely novel interface?\n\nНайдено в разделе Show HN на Hacker News. 👍 26 баллов.",
+    "url": "https://marbleos.com/demo",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49119274",
+    "createdAt": "2026-07-31T07:51:47.428Z"
+  },
+  {
     "slug": "devtree-github",
     "title": "DevTree",
     "shortDescription": "DevTree",
