@@ -1,5 +1,123 @@
 [
   {
+    "slug": "awesome-ai-native-github",
+    "title": "awesome-ai-native",
+    "shortDescription": "A curated list of AI-native products: apps and tools where the LLM is the product itself, not a bolted-on feature.",
+    "fullDescription": "A curated list of AI-native products: apps and tools where the LLM is the product itself, not a bolted-on feature.\n\nАвтор: samber. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://samber.github.io/awesome-ai-native/",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "anthropic",
+      "artificial-intelligence",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1317390844",
+    "createdAt": "2026-07-31T15:17:08.951Z"
+  },
+  {
+    "slug": "i-built-a-cross-browser-extension-that-controls-fingerprinting-surfaces-hn",
+    "title": "I built a cross-browser extension that controls fingerprinting surfaces",
+    "shortDescription": "Hello Hacker News! I’m Tomasz, creator of Privacy Thing, a browser extension for Firefox and Chromium-based browsers. I’ve just released it…",
+    "fullDescription": "Hello Hacker News! I’m Tomasz, creator of Privacy Thing, a browser extension for Firefox and Chromium-based browsers. I’ve just released its Preview version. Privacy Thing aims to reduce browser fingerprinting—the tracking of users without cookies. It began as an internal project: a simple location simulator. Over time, I expanded it to cover more fingerprinting surfaces. It now has 13 protection categories affecting 50+ browser APIs and methods: Geolocation, time and locale settings, Canvas, WebGL, Audio, Navigator, Screen, Client Hints, Battery, WebRTC, Dedicated Workers, Service Workers, and Shared Workers. The list is still growing. The extension is fully configurable. Users can create regional profiles and assign them to domain rules, with separate protection settings for each domain. Or they can skip domain rules and rely on the global configuration—I’m not here to decide what works best for them :-) Privacy Thing uses Manifest V3, with all its pros and cons. Chrome and Firefox appear to offer similar extension APIs, but differ fundamentally at the level where Privacy Thing operates. This matters because its scripts must load as early as possible to be effective. Its X-Ray module communicates with scripts running in the page context to show which APIs a site uses and how often it queries them. An aggregate count appears on the extension’s toolbar badge by default. Each release includes processed, compact datasets covering Chrome build numbers, supported language codes, language-to-country mappings, popular screen resolutions, and hardware configurations. This keeps the extension independent of external services and there is no good reason to build extra infrastructure for it. There are two exceptions. The regional preset wizard uses OpenStreetMap’s Nominatim geocoding service, but only after the user consents to sending the query. Maps are displayed using OpenFreeMap. Presets can also be created manually. Users who know the coordinates can enter them directly without contacting any 3rd-party service. The extension does not transmit telemetry or usage data. This makes development harder, but it is fundamental to its identity: user data belongs to the user. Privacy Thing configuration can be exported, edited and imported. The Preview is currently distributed under a proprietary license. This is not ideal; I ultimately intend to release the source under an open-source license, most likely the AGPL. More about the development process: https:&#x2F;&#x2F;tomaszjanusz.dev&#x2F;en&#x2F;projects&#x2F;privacy-thing&#x2F; Download: - Mozilla Addons: https:&#x2F;&#x2F;addons.mozilla.org&#x2F;en-US&#x2F;firefox&#x2F;addon&#x2F;privacy-thing... - Chrome Web Store: https:&#x2F;&#x2F;chromewebstore.google.com&#x2F;detail&#x2F;privacy-thing-previ... The extension is STILL under review in the Microsoft Edge Add-ons store -_- Thank you for your suggestions and feedback. Please remember that this is still a preview: some things may not work, may be slower, or may not behave as intended. I sincerely hope such issues will be few and far between. P.S. Yes—Privacy Thing fully supports Firefox Containers. I like the concept and believe extensions should support containers whenever possible. Privacy Thing will support them elsewhere too, including Brave, if Brave Software makes its container API public.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://privacything.com/en/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49124017",
+    "createdAt": "2026-07-31T15:17:08.616Z"
+  },
+  {
+    "slug": "ai-security-breaches-the-problems-and-its-causes-hn",
+    "title": "AI Security Breaches, the problems and it's causes",
+    "shortDescription": "There has been a recent security breaches by Anthropic and OpenAI that they have problems in difficulty in working and handling with these…",
+    "fullDescription": "There has been a recent security breaches by Anthropic and OpenAI that they have problems in difficulty in working and handling with these advance AI models.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://raylinement.substack.com/p/ai-security-breaches-the-problems",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49123905",
+    "createdAt": "2026-07-31T15:17:08.616Z"
+  },
+  {
+    "slug": "ai-photo-editor-no-sign-up-edit-photos-with-prompts-hn",
+    "title": "AI Photo Editor No Sign Up – Edit Photos with Prompts",
+    "shortDescription": "Проект «AI Photo Editor No Sign Up – Edit Photos with Prompts», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Photo Editor No Sign Up – Edit Photos with Prompts», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aiphotoeditornosignup.online/",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49123270",
+    "createdAt": "2026-07-31T15:17:08.616Z"
+  },
+  {
+    "slug": "yet-another-markup-language-engineering-toolkit-hn",
+    "title": "Yet Another Markup Language Engineering Toolkit",
+    "shortDescription": "Over the past few weeks I&#x27;ve grown tired of these super, all in one, agentic AI Skill plugins, MCP servers and whatnot that promise yo…",
+    "fullDescription": "Over the past few weeks I&#x27;ve grown tired of these super, all in one, agentic AI Skill plugins, MCP servers and whatnot that promise you the world. Of course, there is a world of vibes that survives off that, but there is also a world of more constraints and responsibilities. Hence I built Yamlet: A CLI tool with accompanying Claude Code skillset, that merges both deterministic checks with human like interface to help you define requirements - including acceptance criteria, which are then promptly used to generate adequate Gherking .feature test files. The details are stored in a minimized fashion as .yamlet.yaml files, which allow quick and easy review - without the usual multi page slop specs. - And that&#x27;s it. Everything else, depends entirely on the system you&#x27;re working on. I stopped here because for me, this can not only be used in a system of pure agentic coding, but also with a normal dev team.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/RicardoMonteiroSimoes/Yamlet",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49123254",
+    "createdAt": "2026-07-31T15:17:08.616Z"
+  },
+  {
+    "slug": "a-notebook-for-prototyping-with-your-agent-hn",
+    "title": "A notebook for prototyping with your agent",
+    "shortDescription": "Above is a link to the NAWC documentation, that&#x27;s also a live version of NAWC you can try in your browser. I made nawc because I loved…",
+    "fullDescription": "Above is a link to the NAWC documentation, that&#x27;s also a live version of NAWC you can try in your browser. I made nawc because I loved spec-driven development with agents, but hated how inconsistent markdown is at describing intent. I needed a more streamlined approach, where intent is captured with more deterministic probes that are easy to refine and iterate on. The solution is NAWC - an extensible HTML-based notebook that lives in your codebase. It has built-in plugins that add custom components that can reference live source and run interactive examples and tests right inside the notebook. It also ships with a set of agent skills, inspired by Matt Pocock&#x27;s skill collection, designed to help you refine a rough idea into a polished TDD-ready design through prototypes you can see and interact with. I&#x27;d especially love to hear some feedback from people who find it difficult to keep up with the code when working with AI agents. I&#x27;d love for this tool to be a way to help people have a deeper understanding of the code they (have their agents) write, and would love to know what else I can add to help support that goal. NAWC is open sourced under an AGPL license over at: https:&#x2F;&#x2F;github.com&#x2F;Narwhster&#x2F;nawc You can read more about my process coming up with the idea for NAWC, as well as future projects that stem from it over at: https:&#x2F;&#x2F;narwhster.com&#x2F;notes&#x2F;nawc-and-nit&#x2F;building-nawc-and-n...\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://nawc.dev/",
+    "category": "design",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49122859",
+    "createdAt": "2026-07-31T15:17:08.616Z"
+  },
+  {
+    "slug": "provenance-and-decay-for-ai-agent-memory-hn",
+    "title": "Provenance and decay for AI agent memory",
+    "shortDescription": "Проект «Provenance and decay for AI agent memory», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Provenance and decay for AI agent memory», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/stalebrainlabs/stalebrain",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49122715",
+    "createdAt": "2026-07-31T15:17:08.616Z"
+  },
+  {
     "slug": "i-built-an-ai-that-reads-german-real-estate-listings-for-buyers-hn",
     "title": "I built an AI that reads German real estate listings for buyers",
     "shortDescription": "Проект «I built an AI that reads German real estate listings for buyers», опубликован сообществом Hacker News.",
