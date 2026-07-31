@@ -1,5 +1,21 @@
 [
   {
+    "slug": "doubt-source-grounded-evidence-maps-for-ai-research-hn",
+    "title": "Doubt – Source-grounded evidence maps for AI research",
+    "shortDescription": "Проект «Doubt – Source-grounded evidence maps for AI research», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Doubt – Source-grounded evidence maps for AI research», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/alsoleg89/doubt",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49125749",
+    "createdAt": "2026-07-31T17:03:13.587Z"
+  },
+  {
     "slug": "awesome-ai-native-github",
     "title": "awesome-ai-native",
     "shortDescription": "A curated list of AI-native products: apps and tools where the LLM is the product itself, not a bolted-on feature.",
