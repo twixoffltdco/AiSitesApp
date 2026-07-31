@@ -1,5 +1,145 @@
 [
   {
+    "slug": "devtree-github",
+    "title": "DevTree",
+    "shortDescription": "DevTree",
+    "fullDescription": "DevTree\n\nАвтор: Naughty-Otters. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/Naughty-Otters/DevTree",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "artificial-intelligence",
+      "monitoring",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1315653886",
+    "createdAt": "2026-07-31T04:57:04.896Z"
+  },
+  {
+    "slug": "keel-github",
+    "title": "keel",
+    "shortDescription": "keel",
+    "fullDescription": "keel\n\nАвтор: tankrap. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/tankrap/keel",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-coding",
+      "ai-governance",
+      "ai-safety",
+      "ai-security",
+      "ai-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1315580739",
+    "createdAt": "2026-07-31T04:57:04.896Z"
+  },
+  {
+    "slug": "dmarcquest-spfdkimdmarc-demystified-hn",
+    "title": "DMARC.quest SPF/DKIM/DMARC Demystified",
+    "shortDescription": "You need this. You don&#x27;t even need to sign in. Just go to the site and enter a domain name you have outbound email from. When you setu…",
+    "fullDescription": "You need this. You don&#x27;t even need to sign in. Just go to the site and enter a domain name you have outbound email from. When you setup DMARC you need an address to receive reports -- dmarc.quest can receive them, but unlike existing services, an AI agent monitors them ongoing, providing signal over noise. Yes the UI is still a sloppified mess, but the quality of analysis of the agent is world class, this discovers configuration issues in setups all the time.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.dmarc.quest",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49118940",
+    "createdAt": "2026-07-31T04:57:04.961Z"
+  },
+  {
+    "slug": "prizm-one-api-key-for-every-top-ai-video-image-and-voice-model-hn",
+    "title": "Prizm – One API key for every top AI video, image and voice model",
+    "shortDescription": "Проект «Prizm – One API key for every top AI video, image and voice model», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Prizm – One API key for every top AI video, image and voice model», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.prizmkey.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49118923",
+    "createdAt": "2026-07-31T04:57:04.961Z"
+  },
+  {
+    "slug": "an-ai-skill-for-filtering-and-reading-hacker-newsletter-and-others-hn",
+    "title": "An AI skill for filtering and reading Hacker Newsletter and others",
+    "shortDescription": "An AI skill for filtering and reading newsletters, created especially for Hacker Newsletter ( https:&#x2F;&#x2F;hackernewsletter.com&#x2F;…",
+    "fullDescription": "An AI skill for filtering and reading newsletters, created especially for Hacker Newsletter ( https:&#x2F;&#x2F;hackernewsletter.com&#x2F; ). Adjust your filtering rules letter by letter to teach it what interests you and what doesn’t. It includes Python code that shields all emails except those from selected senders. Of course, even though the LLM is forbidden from reading files containing keys or changing the code, it could still do so.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Promyer/stellar-inbox",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49118702",
+    "createdAt": "2026-07-31T04:57:04.961Z"
+  },
+  {
+    "slug": "reclip-ai-video-clipper-voiceover-and-creator-tools-hn",
+    "title": "Reclip – AI Video Clipper, Voiceover and Creator Tools",
+    "shortDescription": "Reclip is an AI-powered creator toolkit. Automatically clip the best moments, add voiceovers, remove captions, and download videos — all in…",
+    "fullDescription": "Reclip is an AI-powered creator toolkit. Automatically clip the best moments, add voiceovers, remove captions, and download videos — all in one platform.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.reclip.io",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49118384",
+    "createdAt": "2026-07-31T04:57:04.961Z"
+  },
+  {
+    "slug": "target-calamity-a-visualization-of-how-long-we-have-to-change-course-hn",
+    "title": "[Target: Calamity] A visualization of how long we have to change course",
+    "shortDescription": "An interactive visualization of (ideally) all of the factors that drive the amount of time remaining for us to take meaningful action towar…",
+    "fullDescription": "An interactive visualization of (ideally) all of the factors that drive the amount of time remaining for us to take meaningful action toward fixing the existential threats facing Humanity. It uses an AI-powered scanner to detect and evaluate these factors and synthesize them into a time remaining by anchoring published tipping-points and warping them by various factors. This is a work-in-progress and should be taken with a grain of salt as-is. LLMs are imperfect and this is merely meant to be a proof-of-concept for a more accurate and complete system. Let me know what you think!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://TargetCalamity.org",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49118289",
+    "createdAt": "2026-07-31T04:57:04.961Z"
+  },
+  {
+    "slug": "resilireplay-chaos-testing-for-ai-agents-and-mcp-servers-hn",
+    "title": "ResiliReplay - Chaos testing for AI agents and MCP servers",
+    "shortDescription": "Проект «ResiliReplay - Chaos testing for AI agents and MCP servers», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ResiliReplay - Chaos testing for AI agents and MCP servers», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/aliengineering-byte/resilireplay",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49118105",
+    "createdAt": "2026-07-31T04:57:04.961Z"
+  },
+  {
     "slug": "oh-my-harness-github",
     "title": "oh-my-harness",
     "shortDescription": "You own this harness as a stack of installable workers, and “build your own” stops meaning “fork a framework.” It means “swap a few workers…",
