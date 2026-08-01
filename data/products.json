@@ -1,5 +1,43 @@
 [
   {
+    "slug": "aiko-forge-github",
+    "title": "aiko-forge",
+    "shortDescription": "Turn one AI-generated image into a layered, rigged, living avatar. Open .aiko format, no moc3, no GPU server, about a dime per character. A…",
+    "fullDescription": "Turn one AI-generated image into a layered, rigged, living avatar. Open .aiko format, no moc3, no GPU server, about a dime per character. AI agents can mint characters over MCP.\n\nАвтор: 0xAnni. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/0xAnni/aiko",
+    "category": "image-video",
+    "tags": [
+      "ai",
+      "ai-art",
+      "ai-coding",
+      "ai-tools",
+      "anime",
+      "avatar",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1317769416",
+    "createdAt": "2026-08-01T16:56:33.427Z"
+  },
+  {
+    "slug": "goulash-hecklerhelper-to-local-llm-your-shell-as-little-as-possible-hn",
+    "title": "Goulash – heckler/helper to local-LLM your shell as little as possible",
+    "shortDescription": "I use the terminal a lot, but I don&#x27;t remember every command, flag, and syntax available. ffmpeg, piping to awk, find, etc... I know I…",
+    "fullDescription": "I use the terminal a lot, but I don&#x27;t remember every command, flag, and syntax available. ffmpeg, piping to awk, find, etc... I know I&#x27;m not cool enough, but it&#x27;s crazy-making. I get into a regular pattern of asking Claude, ChatGPT, or a local model how I&#x27;d write a command or do something with some files or a prompt, then going back to the terminal with a mad-lib command and reasoning through it. So I built goulash. It takes up the bottom four lines of your terminal as a place to comment on your session and suggest commands that you can select by hitting down arrow to select your &quot; future history &quot;, staying in flow with up arrow for history in most shells. Want to ask it a direct command question? Just type &quot;# your question&quot; and hit enter, and it will take that inline comment and make a suggestion. Running a suggested command is always up to the user. Hit down arrow to scroll through suggestions, modify if you want, hit enter to execute. This is made for running with local engines hosting local-friendly models, like Ollama or LM Studio with gemma4:e4b on a Macbook Air. It relies heavily on context caching to stay snappy, but goulash doesn&#x27;t block as it thinks or runs. It&#x27;s a ride-along in the passenger seat. Have a tweaky command set that your tiny model doesn&#x27;t know? Use &quot;#@ YourCommandReference.md&quot; to give that gemma4:e4b (or whatever) a guide as a pin for the session, or use it to temporarily style your life (e.g., I have a FarmAnimals.md file that adds a barnyard joke to any comment. Hey... the tokens are local...). Written in rust, largely with Fable and Opus 5. Tested with zsh and bash on Mac. Check out the repo, or install with &quot;cargo install goulash&quot;.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/chaboud/goulash",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49135861",
+    "createdAt": "2026-08-01T16:56:33.395Z"
+  },
+  {
     "slug": "dscode-coding-agent-powered-by-deepseek-hn",
     "title": "DSCode – Coding Agent Powered by DeepSeek",
     "shortDescription": "Plan, edit, test, and review code from your terminal. Local sessions, sandboxed tools, and readable token costs.",
