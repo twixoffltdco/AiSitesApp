@@ -1,5 +1,21 @@
 [
   {
+    "slug": "dscode-coding-agent-powered-by-deepseek-hn",
+    "title": "DSCode – Coding Agent Powered by DeepSeek",
+    "shortDescription": "Plan, edit, test, and review code from your terminal. Local sessions, sandboxed tools, and readable token costs.",
+    "fullDescription": "Plan, edit, test, and review code from your terminal. Local sessions, sandboxed tools, and readable token costs.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://dscode.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49135106",
+    "createdAt": "2026-08-01T15:36:04.252Z"
+  },
+  {
     "slug": "aurora-ai-gateway-built-in-go-hn",
     "title": "Aurora – AI Gateway built in Go",
     "shortDescription": "Every Ai project needs the same infra - API keys, providers SDKs, retry logic, cost tracking. it should be infra layer. Aurora is a Go gate…",
