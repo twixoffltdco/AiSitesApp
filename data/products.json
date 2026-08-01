@@ -1,5 +1,43 @@
 [
   {
+    "slug": "atguigu-note-github",
+    "title": "atguigu-note",
+    "shortDescription": "尚硅谷 AI 课程笔记",
+    "fullDescription": "尚硅谷 AI 课程笔记\n\nАвтор: xbsheng. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://xbsheng.github.io/atguigu-note/",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "agents",
+      "ai",
+      "atguigu",
+      "langchain",
+      "langgraph",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1318801695",
+    "createdAt": "2026-08-01T03:59:54.122Z"
+  },
+  {
+    "slug": "sanitizer-strip-sensitive-data-from-documents-locally-before-an-llm-hn",
+    "title": "Sanitizer – Strip sensitive data from documents locally before an LLM",
+    "shortDescription": "Проект «Sanitizer – Strip sensitive data from documents locally before an LLM», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Sanitizer – Strip sensitive data from documents locally before an LLM», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://provexar.ai/sanitizer",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49130329",
+    "createdAt": "2026-08-01T03:59:53.899Z"
+  },
+  {
     "slug": "top-ai-repos-github",
     "title": "top-ai-repos",
     "shortDescription": "Top AI Repositories. Discover, Update DAILY...",
