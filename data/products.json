@@ -1,5 +1,113 @@
 [
   {
+    "slug": "bindwidth-github",
+    "title": "bindwidth",
+    "shortDescription": "Evidence-aware on-prem LLM inference sizing and TCO calculator",
+    "fullDescription": "Evidence-aware on-prem LLM inference sizing and TCO calculator\n\nАвтор: juxhinr. Найдено в GitHub Trending (AI-тематика). ⭐ 54 звёзд.",
+    "url": "https://juxhinr.github.io/bindwidth/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "calculator",
+      "inference",
+      "javascript",
+      "llm",
+      "on-prem",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1319290417",
+    "createdAt": "2026-08-01T19:42:07.776Z"
+  },
+  {
+    "slug": "landingpage-ai-github",
+    "title": "landingpage-ai",
+    "shortDescription": "An AI generated resume/landingpage.",
+    "fullDescription": "An AI generated resume/landingpage.\n\nАвтор: k0rventen. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/k0rventen/landingpage-ai",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "chatgpt",
+      "linkedin",
+      "llm",
+      "resume",
+      "vibe-coding",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1318707162",
+    "createdAt": "2026-08-01T19:42:07.776Z"
+  },
+  {
+    "slug": "show-hn-ai-data-center-alert-hn",
+    "title": "Show HN AI Data Center Alert",
+    "shortDescription": "Проект «Show HN AI Data Center Alert», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Show HN AI Data Center Alert», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aidatacenterimpact.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49137505",
+    "createdAt": "2026-08-01T19:42:07.626Z"
+  },
+  {
+    "slug": "bugdetect-ai-ai-powered-code-debugging-assistant-hn",
+    "title": "BugDetect AI – AI-powered code debugging assistant",
+    "shortDescription": "“How should AI change software debugging in the next 5 years",
+    "fullDescription": "“How should AI change software debugging in the next 5 years\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://bugdetectai.com",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49137234",
+    "createdAt": "2026-08-01T19:42:07.626Z"
+  },
+  {
+    "slug": "cross-platform-airdrop-replacement-but-over-internet-using-iroh-hn",
+    "title": "Cross-platform AirDrop replacement but over internet using Iroh",
+    "shortDescription": "Проект «Cross-platform AirDrop replacement but over internet using Iroh», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Cross-platform AirDrop replacement but over internet using Iroh», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/chad/iroh-drop",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49137177",
+    "createdAt": "2026-08-01T19:42:07.626Z"
+  },
+  {
+    "slug": "openlongevity-longevity-ai-open-verifiable-for-everyone-hn",
+    "title": "OpenLongevity – Longevity × AI – open, verifiable, for everyone",
+    "shortDescription": "Проект «OpenLongevity – Longevity × AI – open, verifiable, for everyone», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «OpenLongevity – Longevity × AI – open, verifiable, for everyone», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/edison7009/OpenLongevity",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49137055",
+    "createdAt": "2026-08-01T19:42:07.626Z"
+  },
+  {
     "slug": "free-ai-prompt-gen-a-local-first-open-source-prompt-engineering-tool-hn",
     "title": "Free AI Prompt Gen – A local-first, open-source prompt engineering tool",
     "shortDescription": "Проект «Free AI Prompt Gen – A local-first, open-source prompt engineering tool», опубликован сообществом Hacker News.",
