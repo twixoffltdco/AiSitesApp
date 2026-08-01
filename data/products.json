@@ -1,5 +1,21 @@
 [
   {
+    "slug": "voris-privacy-first-analytics-for-the-ai-influenced-web-hn",
+    "title": "Voris: privacy-first analytics for the AI-influenced web",
+    "shortDescription": "Проект «Voris: privacy-first analytics for the AI-influenced web», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Voris: privacy-first analytics for the AI-influenced web», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://voris.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49138012",
+    "createdAt": "2026-08-01T20:47:58.828Z"
+  },
+  {
     "slug": "bindwidth-github",
     "title": "bindwidth",
     "shortDescription": "Evidence-aware on-prem LLM inference sizing and TCO calculator",
