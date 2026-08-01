@@ -1,5 +1,53 @@
 [
   {
+    "slug": "free-ai-prompt-gen-a-local-first-open-source-prompt-engineering-tool-hn",
+    "title": "Free AI Prompt Gen – A local-first, open-source prompt engineering tool",
+    "shortDescription": "Проект «Free AI Prompt Gen – A local-first, open-source prompt engineering tool», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Free AI Prompt Gen – A local-first, open-source prompt engineering tool», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://freeaipromptgen.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49136591",
+    "createdAt": "2026-08-01T18:02:17.320Z"
+  },
+  {
+    "slug": "agentmetry-local-first-flight-recorder-for-ai-coding-agents-hn",
+    "title": "Agentmetry – local-first flight recorder for AI coding agents",
+    "shortDescription": "Проект «Agentmetry – local-first flight recorder for AI coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Agentmetry – local-first flight recorder for AI coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://agentmetry.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49136373",
+    "createdAt": "2026-08-01T18:02:17.320Z"
+  },
+  {
+    "slug": "an-ai-radio-station-that-draws-a-live-comic-of-its-hosts-thoughts-hn",
+    "title": "An AI radio station that draws a live comic of its hosts' thoughts",
+    "shortDescription": "Проект «An AI radio station that draws a live comic of its hosts' thoughts», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An AI radio station that draws a live comic of its hosts' thoughts», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://hiveweaver.fm/en/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49135895",
+    "createdAt": "2026-08-01T18:02:17.320Z"
+  },
+  {
     "slug": "aiko-forge-github",
     "title": "aiko-forge",
     "shortDescription": "Turn one AI-generated image into a layered, rigged, living avatar. Open .aiko format, no moc3, no GPU server, about a dime per character. A…",
