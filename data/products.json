@@ -1,5 +1,43 @@
 [
   {
+    "slug": "doubt-github",
+    "title": "doubt",
+    "shortDescription": "Turn contested questions into interactive, source-grounded evidence maps.",
+    "fullDescription": "Turn contested questions into interactive, source-grounded evidence maps.\n\nАвтор: alsoleg89. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://alsoleg89.github.io/doubt/",
+    "category": "ai-tool",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "ai-agents",
+      "argument-mapping",
+      "claude-code",
+      "codex",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1317944022",
+    "createdAt": "2026-08-01T09:03:59.685Z"
+  },
+  {
+    "slug": "sendpage-paste-ai-generated-html-get-a-link-clients-can-open-hn",
+    "title": "SendPage – Paste AI-generated HTML, get a link clients can open",
+    "shortDescription": "Проект «SendPage – Paste AI-generated HTML, get a link clients can open», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «SendPage – Paste AI-generated HTML, get a link clients can open», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://sendpageapp.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49132412",
+    "createdAt": "2026-08-01T09:03:59.433Z"
+  },
+  {
     "slug": "autoclip-github",
     "title": "autoclip",
     "shortDescription": "Open-source, local-first AI video clipper. Long video in, caption-burned speaker-tracked 9:16 clips out. Fully offline with Whisper + Ollam…",
