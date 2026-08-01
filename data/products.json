@@ -1,5 +1,69 @@
 [
   {
+    "slug": "aurora-ai-gateway-built-in-go-hn",
+    "title": "Aurora – AI Gateway built in Go",
+    "shortDescription": "Every Ai project needs the same infra - API keys, providers SDKs, retry logic, cost tracking. it should be infra layer. Aurora is a Go gate…",
+    "fullDescription": "Every Ai project needs the same infra - API keys, providers SDKs, retry logic, cost tracking. it should be infra layer. Aurora is a Go gateway that handles that layer, ~15MB binary, no dependencies. It proxies requests to OpenaAI, Anthropic, Gemini etc, and can convert between formats - use the OpenAi SDK and Aurora translates to Anthropic&#x27;s wire format automatically. No format conversion code in backend. It helps: - track costs per customer&#x2F;team - switch models and providers without changing code - debug requests and responses flows more easily - reduce costs with exact and semantic caching How its different than other gateways: - auto-discovers providers models - provider pools with automatic failover switch - built in guardials, audit logging with export, analytics, admin dashboard - model aliases, regional deployment to reduce latency. - can be used in infra directly and admin endpoints let control everything, creating managed api keys on user onboard and more. The oss version (Apache 2.0) includes everyhting. Enterprise adds SSO, RBAC, and tenant isolation. npm install -g iaurora website: https:&#x2F;&#x2F;aurorallm.online feedbacks are welcome!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/aurorallm/aurora",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49134502",
+    "createdAt": "2026-08-01T14:05:57.188Z"
+  },
+  {
+    "slug": "wienerdog-memory-and-self-improving-skills-for-claude-codecodex-hn",
+    "title": "Wienerdog – memory and self-improving skills for Claude Code/Codex",
+    "shortDescription": "The idea of Wienerdog was born out of my experience setting up my own simple but effective system of memory, self-improving skills and hook…",
+    "fullDescription": "The idea of Wienerdog was born out of my experience setting up my own simple but effective system of memory, self-improving skills and hooks for Claude Code and Codex. As I was teaching my friends and colleagues how to set up their own I found myself automating more and more of my system setup and finally I decided to publish it on GitHub to help others get more out of their AI usage. So what is Wienerdog? Simply put, it is just files — no daemon, no server, no telemetry: a collection of instructions and skills that you can install by pasting just one line (npx wienerdog@latest init) and it will give your Claude Code &#x2F; Codex: - a proper base information CLAUDE.md &#x2F; AGENTS.md file created by doing a simple, friendly interview with you (existing files are respected — Wienerdog only writes inside its own clearly-marked block). - a persistent, markdown-based memory vault following the PARA convention, similar to the Obsidian vaults many folks use. Already have a vault? No problem, you can just point it to it. - automated ‘hooks’ that will pull in key information (who you are, what you do, etc.) into each session and detect and save critical new information into your persistent memory. - automated daily ‘dreaming’ runs that digest the previous day’s sessions and store their key information into memory. If your computer is off or asleep at that time, the dreaming run will catch up when you&#x27;re back. - repeating task patterns are identified and turned into reusable skills which can be further improved automatically. - if you are using both Claude Code and Codex (like I do) they will be able to read from and contribute to the same memory vault. You are not locked in to any vendor. - a basic (and optional) integration with the Google suite to give your AI access to your Gmail, Calendar and Drive — read-only and draft-only by default. Everything Wienerdog does can run on your existing Anthropic &#x2F; OpenAI subscription, in line with their terms. The project is open-source on GitHub and free forever under the MIT license. I do this for fun and to give a little something back. I have put quite a bit of work into Wienerdog already and am happily using it myself for its own development (dogfooding — get it?). In fact, most of Wienerdog&#x27;s code was written by AI agents following its own spec system, using the memory vault that lives in the repo. With that said, it is still early and a work in progress that could use more eyes. I&#x27;d love for you to try it out and ask questions, request new things to add or even contribute on GitHub if you have the time and capacity. P.S. Why the name Wienerdog? Because I love these little tube-shaped snouty sausage clowns :)\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/wienerdog-ai/wienerdog/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49134381",
+    "createdAt": "2026-08-01T14:05:57.188Z"
+  },
+  {
+    "slug": "reimagine-place-photos-with-nano-banana-hn",
+    "title": "Reimagine place photos with Nano Banana",
+    "shortDescription": "Проект «Reimagine place photos with Nano Banana», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Reimagine place photos with Nano Banana», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aigoogleearth.app/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49134295",
+    "createdAt": "2026-08-01T14:05:57.188Z"
+  },
+  {
+    "slug": "job-board-and-mcp-server-for-ai-developers-hn",
+    "title": "Job board and MCP server for AI developers",
+    "shortDescription": "Проект «Job board and MCP server for AI developers», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Job board and MCP server for AI developers», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://frontierroles.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49134249",
+    "createdAt": "2026-08-01T14:05:57.188Z"
+  },
+  {
     "slug": "linkit-github",
     "title": "linkit",
     "shortDescription": "A smart bookmark & knowledge curation desktop app with AI summarization, semantic search, and cross-device sync. Built with Go + Wails + Re…",
