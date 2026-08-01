@@ -1,5 +1,59 @@
 [
   {
+    "slug": "linkit-github",
+    "title": "linkit",
+    "shortDescription": "A smart bookmark & knowledge curation desktop app with AI summarization, semantic search, and cross-device sync. Built with Go + Wails + Re…",
+    "fullDescription": "A smart bookmark & knowledge curation desktop app with AI summarization, semantic search, and cross-device sync. Built with Go + Wails + React.\n\nАвтор: blue-idea. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/blue-idea/linkit/releases",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "bookmark",
+      "bookmark-manager",
+      "bookmark-organizer",
+      "bookmarks",
+      "bookmarks-manager",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1318914813",
+    "createdAt": "2026-08-01T10:57:01.374Z"
+  },
+  {
+    "slug": "weightlift-the-missing-package-manager-for-downloading-model-weights-hn",
+    "title": "Weightlift – the missing package manager for downloading model weights",
+    "shortDescription": "If you’re building an on-device web-based AI app, you’ve probably built this 50 times already: Something that tells your users which models…",
+    "fullDescription": "If you’re building an on-device web-based AI app, you’ve probably built this 50 times already: Something that tells your users which models are available to download or already cached, then shows progress as they’re being downloaded. While building Rescript (see https:&#x2F;&#x2F;github.com&#x2F;wassgha&#x2F;rescript ), I had to build this exact same pattern. So I built it into a tiny library that streamlines that across transformers.js, onnx, prakeet and pretty much any model provider. Give it a try :)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://weightlift.dev/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49132848",
+    "createdAt": "2026-08-01T10:57:00.834Z"
+  },
+  {
+    "slug": "horus-runtime-train-your-own-tiny-llm-from-scratch-hn",
+    "title": "Horus-runtime – Train your own tiny LLM from scratch",
+    "shortDescription": "Проект «Horus-runtime – Train your own tiny LLM from scratch», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Horus-runtime – Train your own tiny LLM from scratch», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/temple-compute/pantheon/tree/main/workflows/ai/w02-tiny-llm",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49132705",
+    "createdAt": "2026-08-01T10:57:00.834Z"
+  },
+  {
     "slug": "doubt-github",
     "title": "doubt",
     "shortDescription": "Turn contested questions into interactive, source-grounded evidence maps.",
