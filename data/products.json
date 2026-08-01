@@ -1,5 +1,27 @@
 [
   {
+    "slug": "autoclip-github",
+    "title": "autoclip",
+    "shortDescription": "Open-source, local-first AI video clipper. Long video in, caption-burned speaker-tracked 9:16 clips out. Fully offline with Whisper + Ollam…",
+    "fullDescription": "Open-source, local-first AI video clipper. Long video in, caption-burned speaker-tracked 9:16 clips out. Fully offline with Whisper + Ollama, or bring your own API key.\n\nАвтор: artbyjazi. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/artbyjazi/autoclip",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "fastapi",
+      "ffmpeg",
+      "llm",
+      "local-first",
+      "mediapipe",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1318832652",
+    "createdAt": "2026-08-01T06:37:26.504Z"
+  },
+  {
     "slug": "atguigu-note-github",
     "title": "atguigu-note",
     "shortDescription": "尚硅谷 AI 课程笔记",
