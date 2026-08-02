@@ -1,5 +1,27 @@
 [
   {
+    "slug": "book2skills-github",
+    "title": "BOOK2SKILLS",
+    "shortDescription": "An open-source AI pipeline that transforms books and documents into production-ready Hermes Skills.",
+    "fullDescription": "An open-source AI pipeline that transforms books and documents into production-ready Hermes Skills.\n\nАвтор: Abdulrahman0Khaled. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Abdulrahman0Khaled/BOOK2SKILLS",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "artificial-intelligence",
+      "book",
+      "books",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1318750335",
+    "createdAt": "2026-08-02T10:14:05.109Z"
+  },
+  {
     "slug": "tamedtable-ai-etl-in-natural-language-hn",
     "title": "TamedTable, AI ETL in Natural Language",
     "shortDescription": "Hi HN, TamedTable is an LLM harness for data ETL. And yes, it was developed using AI, meaning you can take the entire specification and rec…",
