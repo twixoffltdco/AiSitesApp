@@ -1,5 +1,57 @@
 [
   {
+    "slug": "flint-github",
+    "title": "Flint",
+    "shortDescription": "A general, fast LLM inference engine. Built in Rust. Runs everywhere, no CUDA required.",
+    "fullDescription": "A general, fast LLM inference engine. Built in Rust. Runs everywhere, no CUDA required.\n\nАвтор: formetaohy. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/formetaohy/Flint",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "llm-inference",
+      "rust",
+      "wgpu",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1320316688",
+    "createdAt": "2026-08-02T19:44:49.469Z"
+  },
+  {
+    "slug": "kota-bring-ai-agent-clis-into-the-same-room-hn",
+    "title": "Kota – Bring AI agent CLIs into the same room",
+    "shortDescription": "A couple months ago, I was tired of keep copy-paste across different Agent Chatbot tabs, feeling like a slave for AI sessions, so I created…",
+    "fullDescription": "A couple months ago, I was tired of keep copy-paste across different Agent Chatbot tabs, feeling like a slave for AI sessions, so I created Kota for my own work. Kota was designed around a concept of Knights of the Round Table. It treats human as part of a project team, and - Runs on top of existing CLIs with existing logins, - Gives each agent a persisted, viewable and editable identity, instead of sessions - Has a file-based long-term memory, - Uses a self-managed skillset, - Works on separated worktrees as workspace, and - Chats directly with other agents in the room. I have been using Kota for my daily work, hobby projects, as personal life assistants and to improve Kota itself, sitting down or on the go. Starting this week, I found it has become the only AI tool I am using now. So I am very happy to release Kota as an open source project, hoping more people can share my joy of living and working with these little friends. In the released version, you can use some most popular CLIs with Kota, keep their configurations, and invite them as team members to sit around your project table. These now include Codex, Claude Code, Pi, OpenCode, Gemini (Antigravity CLI), Kimi Code is already under testing and will be released soon. Some other stuff I included in Kota to make it more comfortable to use: - Remote with Telegram bot - Auto worktree sync and conflict resolve handoff - Skillpool, skillset, global rules, project rules, all manageable - A human-agent shared drawing board - An old school, cross-project social BBS - A lite AI-powered shell - Agents can dream about you Some next step and points of interests: - Agent Organization Building and Training - Agent working style cross project transfer without project data. - How to measure agent identity as meta data for task routing. White paper: https:&#x2F;&#x2F;www.kota.place&#x2F;docs&#x2F;research&#x2F;long-term-teammates&#x2F;v1&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.kota.place/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49147271",
+    "createdAt": "2026-08-02T19:44:49.559Z"
+  },
+  {
+    "slug": "target-humanity-an-experimental-alternate-reality-game-hn",
+    "title": "[Target: Humanity] An experimental alternate reality game",
+    "shortDescription": "Target: Humanity is an experimental alternate reality game that aims to use in-universe mythology to foster real-world coordination. It&#x2…",
+    "fullDescription": "Target: Humanity is an experimental alternate reality game that aims to use in-universe mythology to foster real-world coordination. It&#x27;s an early work-in-progress and I&#x27;m looking for feedback on its entry-point. Looking forward to hearing your thoughts!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://TargetHumanity.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49147025",
+    "createdAt": "2026-08-02T19:44:49.559Z"
+  },
+  {
     "slug": "mapping-jensen-huangs-five-layer-ai-stack-to-engineering-degrees-hn",
     "title": "Mapping Jensen Huang's five-layer AI stack to engineering degrees",
     "shortDescription": "Hi HN, I mapped Jensen Huang’s five layers of AI, energy, chips, infrastructure, models, and applications, to engineering disciplines. It i…",
