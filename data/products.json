@@ -1,5 +1,69 @@
 [
   {
+    "slug": "nodiff-a-framework-that-lives-in-your-monorepo-hn",
+    "title": "NoDiff, a framework that lives in your monorepo",
+    "shortDescription": "Played with this idea a few months ago, but forgot to share. Basically, it&#x27;s a minimal web framework (I&#x27;ve been writing these for…",
+    "fullDescription": "Played with this idea a few months ago, but forgot to share. Basically, it&#x27;s a minimal web framework (I&#x27;ve been writing these for the last 15 years, notably with Opa) that AI agents should maintain together with an app in a monorepo. So you can always extend it your way. Curious to see what HN thinks of the concept.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/hbbio/nodiff",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49145130",
+    "createdAt": "2026-08-02T14:46:28.250Z"
+  },
+  {
+    "slug": "mcp-server-so-ai-agents-can-screen-markets-in-plain-english-hn",
+    "title": "MCP server so AI agents can screen markets in plain English",
+    "shortDescription": "Проект «MCP server so AI agents can screen markets in plain English», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «MCP server so AI agents can screen markets in plain English», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/xcreener/xcreener-mcp",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49145092",
+    "createdAt": "2026-08-02T14:46:28.250Z"
+  },
+  {
+    "slug": "rails-agent-build-autonomous-ai-agents-natively-in-ruby-on-rails-hn",
+    "title": "Rails Agent – Build Autonomous AI Agents Natively in Ruby on Rails",
+    "shortDescription": "Rails Agent - The Fullstack Agentic Development Platform For Ruby on Rails. Build, Test, Deploy &amp; Monitor in one single dashboard. Adva…",
+    "fullDescription": "Rails Agent - The Fullstack Agentic Development Platform For Ruby on Rails. Build, Test, Deploy &amp; Monitor in one single dashboard. Advanced alternative for RubyLLM and Active Agent\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://rails-agent.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49145011",
+    "createdAt": "2026-08-02T14:46:28.250Z"
+  },
+  {
+    "slug": "commonplace-wiki-a-confluence-alternative-based-on-git-and-okf-hn",
+    "title": "Commonplace Wiki – A Confluence Alternative Based on Git and OKF",
+    "shortDescription": "Проект «Commonplace Wiki – A Confluence Alternative Based on Git and OKF», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Commonplace Wiki – A Confluence Alternative Based on Git and OKF», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/commonplace-wiki/commonplace",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49144929",
+    "createdAt": "2026-08-02T14:46:28.250Z"
+  },
+  {
     "slug": "handoff-is-await-human-for-ai-agents-hn",
     "title": "Handoff is await human() for AI agents",
     "shortDescription": "Проект «Handoff is await human() for AI agents», опубликован сообществом Hacker News.",
