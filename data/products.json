@@ -1,5 +1,21 @@
 [
   {
+    "slug": "alfa-killing-ai-hallucinations-with-resonance-hn",
+    "title": "Alfa) Killing AI hallucinations with resonance",
+    "shortDescription": "This code predicts the exact time and price of a future price point, and can also construct a curve of future prices. It can be used to dec…",
+    "fullDescription": "This code predicts the exact time and price of a future price point, and can also construct a curve of future prices. It can be used to decipher any process that has a graph—for example, a graph of mutual understanding between artificial intelligence and a human.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/ConsciousGroupMind/SKYNET-800---Collective-Intelligence-Forecasting-System",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49148735",
+    "createdAt": "2026-08-02T21:53:19.323Z"
+  },
+  {
     "slug": "draco-a-single-binary-self-hostable-firecrawl-alternative-in-rust-hn",
     "title": "Draco – A single-binary, self-hostable Firecrawl alternative in Rust",
     "shortDescription": "Scraping modern websites has become a massive headache. You basically have two choices: pay for an expensive API like Firecrawl&#x2F;Browse…",
