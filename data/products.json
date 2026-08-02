@@ -1,5 +1,37 @@
 [
   {
+    "slug": "mapping-jensen-huangs-five-layer-ai-stack-to-engineering-degrees-hn",
+    "title": "Mapping Jensen Huang's five-layer AI stack to engineering degrees",
+    "shortDescription": "Hi HN, I mapped Jensen Huang’s five layers of AI, energy, chips, infrastructure, models, and applications, to engineering disciplines. It i…",
+    "fullDescription": "Hi HN, I mapped Jensen Huang’s five layers of AI, energy, chips, infrastructure, models, and applications, to engineering disciplines. It is aimed at students asking two questions: Where does my degree fit into this landscape? Should I specialise now or stay broad? I would appreciate feedback on what is wrong, overstated, or missing. More importantly, based on your own experience, what would you tell a 20-year-old choosing what to study today?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ai-five-layer-map.pages.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49146884",
+    "createdAt": "2026-08-02T18:28:45.630Z"
+  },
+  {
+    "slug": "evochess-start-with-8-pawns-evolve-your-army-hn",
+    "title": "EvoChess – start with 8 pawns, evolve your army",
+    "shortDescription": "This chess variant&#x27;s theme is evolution. One morning in early 2016 I woke up with an idea: what if chess were built around promotion?…",
+    "fullDescription": "This chess variant&#x27;s theme is evolution. One morning in early 2016 I woke up with an idea: what if chess were built around promotion? Eventually, this resulted in the following game: It plays like chess, but you start with only pawns and a king. Pawns can be promoted to bishops or knights, while those minor pieces can be promoted to rooks. Their promotion rights accumulate (every three pawn moves, pawn promotion right; every three minor piece moves, minor piece to rook right). Rooks are transformed to a knight or a bishop on the rook&#x27;s fifth move. Recently, I built a playable version. The AI opponent works on phone with no internet. The search engine uses a lightweight neural net. The engine was first weak and my friends complained about it. So I have spent quite some time to train a better NN for the board evaluation. Fixed some bugs in search. And I have even designed a &quot;Fun&quot; mode where the AI opponent is thinking while you are thinking. (WARNING: &quot;Fun&quot; mode is ruthlessly draining the battery) Now, when the engine became stronger, my friends complain it is hard to beat. Is the Fun mode less fun now? Should I allow the engine to lose? More in the writeup: https:&#x2F;&#x2F;penkovsky.com&#x2F;post&#x2F;evochess&#x2F; Code: https:&#x2F;&#x2F;github.com&#x2F;penkovsky&#x2F;evochess&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://penkovsky.github.io/evochess/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49146818",
+    "createdAt": "2026-08-02T18:28:45.630Z"
+  },
+  {
     "slug": "kavicode-github-2",
     "title": "KaviCode",
     "shortDescription": "Python based Autonomous, terminal AI coding agent. Local first, Model-agnostic and bring your own API keys or run completely offline with l…",
