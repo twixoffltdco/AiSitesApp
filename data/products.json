@@ -1,5 +1,55 @@
 [
   {
+    "slug": "kavicode-github-2",
+    "title": "KaviCode",
+    "shortDescription": "Python based Autonomous, terminal AI coding agent. Local first, Model-agnostic and bring your own API keys or run completely offline with l…",
+    "fullDescription": "Python based Autonomous, terminal AI coding agent. Local first, Model-agnostic and bring your own API keys or run completely offline with local models (Ollama).\n\nАвтор: bahumukh. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "http://www.kavi.bahumukh.com/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "coding-agent",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1320177760",
+    "createdAt": "2026-08-02T17:05:16.379Z"
+  },
+  {
+    "slug": "sprocket-the-best-ai-agent-for-hardware-and-software-development-hn",
+    "title": "Sprocket – The Best AI Agent for Hardware and Software Development",
+    "shortDescription": "Hey HN, I am 16y&#x2F;o and have been working on Sprocket for a while. It&#x27;s an open-source AI agent that beats every other agent out t…",
+    "fullDescription": "Hey HN, I am 16y&#x2F;o and have been working on Sprocket for a while. It&#x27;s an open-source AI agent that beats every other agent out there at both hardware and software. And here&#x27;s the best part: Sprocket can (on its own) buy anything from any website when you tell it to do so. From hardware parts to SaaS subscriptions. Sprocket retrieves best-in-class context from the web for everything it does. It is therefore incredibly reliable. The agent harness&#x27;s quality, performance, and UI rival that of Codex&#x2F;Cursor&#x2F;T3Code, and we are rapidly improving. We will be releasing benchmarks on how Sprocket beats every other agent at both software and hardware soon. In terms of hardware design, Sprocket can make beautiful schematics in react, create your BOM, and create detailed assembly instructions. Hope you try it out! Thanks, Aarav P.S. if the demo video doesn&#x27;t load for you, come back after ~1.5hr and it should be there, I kinda had to submit this early. Sorry!\n\nНайдено в разделе Show HN на Hacker News. 👍 17 баллов.",
+    "url": "https://sprocket-demo.spikonado.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49145934",
+    "createdAt": "2026-08-02T17:05:16.634Z"
+  },
+  {
+    "slug": "rextio-compile-python-code-natively-using-rust-with-cpython-fallbacks-hn",
+    "title": "Rextio – Compile Python code natively using Rust with CPython fallbacks",
+    "shortDescription": "Hi, HN! Let me introduce my experimental project Rextio. While Python is widely used in fields such as AI and data analysis and offers the…",
+    "fullDescription": "Hi, HN! Let me introduce my experimental project Rextio. While Python is widely used in fields such as AI and data analysis and offers the advantage of fast coding, it often causes some performance issues because Python is an interpreter language. Of course, there are various alternatives to address Python&#x27;s speed issues. In some cases, Python code is used only for initial prototypes, and the development is re-evaluated in Rust or C&#x2F;C++ upon transitioning to production. However, I&#x27;m experimentally developing this tool called Rextio as a new alternative to solve speed problems without abandoning Python. Rextio improves performance by automatically converting parts of Python hot paths that can be compiled natively (such as type-hinted static code) into Rust code and compiling them into binaries. It then falls back to the rest of the code as is and executes it using CPython. This allows for the complete preservation of the original Python logic while aiming to improve execution speed for specific parts. Roughly speaking, it is as follows: ``` typed Python project -&gt; analyze supported native candidates -&gt; reject unsafe or unsupported functions -&gt; generate Rust + PyO3 for accepted functions -&gt; generate Python fallback wrappers for the rest -&gt; build import-compatible artifacts ``` Please refer to the documentations in the Git repository for details. Performance improvements are also confirmed when comparing execution with the native binary converted to Rextio versus execution with the original Python code only using CPython. * When running basic Python code converted to native: 57.73× * When running NumPy converted to native: 2.52× * When running NetworkX&#x27; Dijkstra algorithm converted to native: 3.68× * When running `pandas`&#x27; `Series.map` converted to native: 66.14× * When running PyTorch deep MLP converted to native: 1.02× (Speed improvement limited due to using C extensions in existing Python packages) * When running TensorFlow eager chain converted to native: 1.04× (Speed improvement limited due to using C extensions in existing Python packages) Please refer to the [`rextio-benchmark` Git repository]( https:&#x2F;&#x2F;github.com&#x2F;rextio&#x2F;rextio-benchmark ) for the source code and execution environment information used in the benchmarks that yielded the above results. Rextio has a Core CLI that converts and compiles Python code, and we are developing additional plugins that define rules for converting individual Python packages into Rust code to be attached to it. We have currently developed some plugins for NumPy and others (`rextio-numpy`, `rextio-networkx`, `rextio-pandas`, `rextio-torch`, `rextio-tensorflow`, etc.), and the benchmark results above were obtained using these plugins. Rextio is still an early-stage project with much room for improvement, and compiling Python code into Rust-based native code does not guarantee performance gains in all situations. For instance, if there is frequent data exchange between natively compiled parts and CPython fallbacks, data conversions crossing the boundaries can actually lead to a decrease in speed. However, in such cases, Rextio tries to fall back the entire process to CPython without passing through native code to prevent this degradation. If you have any questions or feedback, I&#x27;ll do my best to answer them and incorporate them into feature improvements. Thank you.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/rextio/rextio",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49145704",
+    "createdAt": "2026-08-02T17:05:16.634Z"
+  },
+  {
     "slug": "kavicode-github",
     "title": "KaviCode",
     "shortDescription": "Python based Autonomous, terminal AI coding agent. Local first, Model-agnostic and bring your own API keys or run completely offline with l…",
