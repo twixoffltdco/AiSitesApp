@@ -1,5 +1,55 @@
 [
   {
+    "slug": "kavicode-github",
+    "title": "KaviCode",
+    "shortDescription": "Python based Autonomous, terminal AI coding agent. Local first, Model-agnostic and bring your own API keys or run completely offline with l…",
+    "fullDescription": "Python based Autonomous, terminal AI coding agent. Local first, Model-agnostic and bring your own API keys or run completely offline with local models (Ollama).\n\nАвтор: bahumukh. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "http://www.bahumukh.com/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "coding-agent",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1320177760",
+    "createdAt": "2026-08-02T15:58:19.686Z"
+  },
+  {
+    "slug": "adept-convert-any-youtube-playlist-into-a-udemy-like-course-hn",
+    "title": "Adept – convert any YouTube playlist into a Udemy-like course",
+    "shortDescription": "I built[1] a simple web app that turns any YouTube playlist into a Udemy-like course that keeps track of your progress, and gets rid of as…",
+    "fullDescription": "I built[1] a simple web app that turns any YouTube playlist into a Udemy-like course that keeps track of your progress, and gets rid of as many distractions as possible. All you need to do is paste a link to a YouTube playlist (or to a video that’s part of a playlist) and it will be converted into a course. You can also convert it directly from YouTube by changing “youtube” in the URL to “withadept”. All progress is stored locally and registration is optional (an account lets you sync progress across devices). The browser can reject the request to enable persistent storage, and in that case app shows message with suggestion to sign in (you can just dismiss it), but otherwise I tried to avoid pushing that option. There is no tracking, no 3rd-party cookies (there is youtube-nocookie.com embed on playlist page that I can&#x27;t avoid), no marketing emails if you do sign up. For those curious about the tech-stack: it’s a Vue&#x2F;Nuxt app leaning heavily on Cloudflare (Workers, D1, R2, Email Service). I also use OpenRouter to access models that clean up video titles (doing it in code wasn’t reliable because titles often have inconsistent format, and doing it with an LLM is actually very cheap - ~$0.0003 for 40 video playlist). [1] As it’s 2026 “I built” means “me and Claude Code built”. It was AI-assisted (not vibecoded). I leaned heavily on Claude Code for designing the UI (which hopefully isn’t too obvious), but the logic and architecture were either written manually or AI-assisted and reviewed.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://withadept.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49145697",
+    "createdAt": "2026-08-02T15:58:19.373Z"
+  },
+  {
+    "slug": "i-spent-25-years-developing-my-3d-portfolio-website-all-under-5-mb-hn",
+    "title": "I spent 2.5 years developing my 3D portfolio website, all under 5 MB",
+    "shortDescription": "Hi HN! For the past 2.5 years I&#x27;ve been developing my portfolio website using Blender and Three.js and I&#x27;m glad to announce that…",
+    "fullDescription": "Hi HN! For the past 2.5 years I&#x27;ve been developing my portfolio website using Blender and Three.js and I&#x27;m glad to announce that it&#x27;s finally completed! I&#x27;d love for it to be viewed and critiques by HN, since even though it was deployed last month, I&#x27;ve spent a lot of time since then into polishing every little detail since I know the bar of quality is so high among us developers. https:&#x2F;&#x2F;shees.dev – Desktop Recommended first, then on mobile which has a fully different UI! Some cool things about it: 1. Everything ships in under 5.0 MB total. 2. It&#x27;s optimized to run at really high FPS even on low-end devices. (The biggest time sink. I have a low-end laptop, so I know the pain.). ~60 FPS on an i3 and UHD i-gpu. 3. Loads under 7 seconds! 4. Entirely separate Desktop and Mobile UIs! It was originally made for the 16:9 ratio, so I had to be creative and designed an entirely new Mobile UI for it (inspired by the Nintendo DS!) 5. Custom GLSL shaders for grass, road, clouds, and wind. 6. Dozens of optimizations ranging from culling, LOD (Level of Detail), Shader language tuning for GPU efficiency, many mesh geometry optimizations, pregenerating data, chunking grass and using a lookup table for rendering. A custom algorithm for the navbar transition from any point to another without clipping through the model, and *so much more*! I&#x27;d love it if you try both the desktop and mobile UIs! It&#x27;s entirely designed as a 3D website that you navigate by scrolling (and occasionally clicking), with cool points of interests, nice animations, and custom Modals for content! I spent around 1400-1800 hours on this entire project, from the modelling, the creative blocks, to the coding, the optimizations. There&#x27;s also an optional soundscape for even more immersion! Some Limitations: It&#x27;s not fully tested on devices like iPads, which have a device px ratio between desktop and mobile. I had to use a strict cutoff for desktop otherwise some content is not visible. Which means unfortunately, less-wide devices will suffer from having to use the mobile UI in a wide screen. I have a new UI layout in my mind for these devices, which I will attempt to incorporate in the coming weeks. Use of LLMs: All of the designing is done by me in Blender (with very few free assets used), all the design choices were taken by me. LLMs at this stage are incapable of understanding any 3D website. I coded and architected it fully, utilizing AI for learning about more optimization algorithms, research, auditing code, and help in writing CSS for the some of the graphics seen in the modals as well as project summarization text. It significantly improved the level of my code along with a faster speed in development.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://shees.dev",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49145566",
+    "createdAt": "2026-08-02T15:58:19.374Z"
+  },
+  {
     "slug": "nodiff-a-framework-that-lives-in-your-monorepo-hn",
     "title": "NoDiff, a framework that lives in your monorepo",
     "shortDescription": "Played with this idea a few months ago, but forgot to share. Basically, it&#x27;s a minimal web framework (I&#x27;ve been writing these for…",
