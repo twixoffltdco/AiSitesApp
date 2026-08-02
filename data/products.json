@@ -1,5 +1,43 @@
 [
   {
+    "slug": "zorocoding-github",
+    "title": "ZoroCoding",
+    "shortDescription": "Local-first macOS AI coding desktop app with model routing, project tools, real progress, and removable-drive storage.",
+    "fullDescription": "Local-first macOS AI coding desktop app with model routing, project tools, real progress, and removable-drive storage.\n\nАвтор: vionzoro. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/vionzoro/ZoroCoding",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "coding-agent",
+      "electron",
+      "local-first",
+      "macos",
+      "react",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1319982725",
+    "createdAt": "2026-08-02T23:56:28.437Z"
+  },
+  {
+    "slug": "im-16-yo-and-built-the-only-ai-agent-for-hardware-and-software-dev-hn",
+    "title": "I'm 16 y/o and Built the only AI Agent for Hardware and Software Dev",
+    "shortDescription": "Проект «I'm 16 y/o and Built the only AI Agent for Hardware and Software Dev», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I'm 16 y/o and Built the only AI Agent for Hardware and Software Dev», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/spikonado/sprocket",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49149322",
+    "createdAt": "2026-08-02T23:56:28.418Z"
+  },
+  {
     "slug": "seventh-councilor-github",
     "title": "seventh-councilor",
     "shortDescription": "AI analyst toolkit for Terra Invicta: save analyzers, code-verified mechanics docs, and a lessons library",
