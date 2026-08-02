@@ -1,5 +1,21 @@
 [
   {
+    "slug": "tamedtable-ai-etl-in-natural-language-hn",
+    "title": "TamedTable, AI ETL in Natural Language",
+    "shortDescription": "Hi HN, TamedTable is an LLM harness for data ETL. And yes, it was developed using AI, meaning you can take the entire specification and rec…",
+    "fullDescription": "Hi HN, TamedTable is an LLM harness for data ETL. And yes, it was developed using AI, meaning you can take the entire specification and recreate it to your desires: https:&#x2F;&#x2F;github.com&#x2F;ZSvedic&#x2F;TamedTable\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.tamedtable.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49142102",
+    "createdAt": "2026-08-02T08:19:54.404Z"
+  },
+  {
     "slug": "clone-chat-github",
     "title": "clone-chat",
     "shortDescription": "用 AI 大模型复刻聊天对象的本地对话 Agent：导入真实聊天记录，LLM 学习 TA 的语气、表情和回复节奏并以人物身份延续对话，支持语音、主动联系与长期记忆，数据全在本地。 | Clone anyone's texting style from real chat his…",
