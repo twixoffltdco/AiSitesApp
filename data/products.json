@@ -1,5 +1,103 @@
 [
   {
+    "slug": "clone-chat-github",
+    "title": "clone-chat",
+    "shortDescription": "用 AI 大模型复刻聊天对象的本地对话 Agent：导入真实聊天记录，LLM 学习 TA 的语气、表情和回复节奏并以人物身份延续对话，支持语音、主动联系与长期记忆，数据全在本地。 | Clone anyone's texting style from real chat his…",
+    "fullDescription": "用 AI 大模型复刻聊天对象的本地对话 Agent：导入真实聊天记录，LLM 学习 TA 的语气、表情和回复节奏并以人物身份延续对话，支持语音、主动联系与长期记忆，数据全在本地。 | Clone anyone's texting style from real chat history: a local-first LLM agent that learns their tone, stickers and reply rhythm, then chats as them — voice, proactive messages, long-term memory, fully private.\n\nАвтор: AFan4724. Найдено в GitHub Trending (AI-тематика). ⭐ 15 звёзд.",
+    "url": "https://github.com/AFan4724/clone-chat",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "chat-history",
+      "chatbot",
+      "conversation-agent",
+      "llm",
+      "local-llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1319630301",
+    "createdAt": "2026-08-02T05:54:43.710Z"
+  },
+  {
+    "slug": "xharness-github-2",
+    "title": "xharness",
+    "shortDescription": "🤝 装在你电脑上的 AI 编程搭档（macOS GUI + CLI）：把项目文件夹丢给它，用聊天布置任务——自动读代码、改代码、跑命令验证，全程可见。支持 DeepSeek / Kimi / 任意 Anthropic 兼容模型；截图粘贴看图干活；技能系统；数据全本地。",
+    "fullDescription": "🤝 装在你电脑上的 AI 编程搭档（macOS GUI + CLI）：把项目文件夹丢给它，用聊天布置任务——自动读代码、改代码、跑命令验证，全程可见。支持 DeepSeek / Kimi / 任意 Anthropic 兼容模型；截图粘贴看图干活；技能系统；数据全本地。\n\nАвтор: linearuncle. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/linearuncle/xharness/releases/latest",
+    "category": "developer",
+    "tags": [
+      "agentic-coding",
+      "ai",
+      "ai-agent",
+      "anthropic",
+      "claude",
+      "cli",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1319366891",
+    "createdAt": "2026-08-02T05:54:43.710Z"
+  },
+  {
+    "slug": "cv-web-template-github",
+    "title": "cv-web-template",
+    "shortDescription": "A CV website that answers questions about you — even when you're offline. Powered by Llama 3.3 via Cloudflare. Free forever.",
+    "fullDescription": "A CV website that answers questions about you — even when you're offline. Powered by Llama 3.3 via Cloudflare. Free forever.\n\nАвтор: saralangaz. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://saralangaz.com",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "cloudflare-workers",
+      "cv",
+      "github-pages",
+      "llm",
+      "portfilio",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1318111439",
+    "createdAt": "2026-08-02T05:54:43.710Z"
+  },
+  {
+    "slug": "nuking-the-crap-claude-left-in-the-codebase-ccn-hn",
+    "title": "Nuking the crap Claude left in the codebase – CCN",
+    "shortDescription": "CCN Strips comments out of codebases, and comments ONLY , this isn&#x27;t a regex parse that could potentially eat your code, no this actua…",
+    "fullDescription": "CCN Strips comments out of codebases, and comments ONLY , this isn&#x27;t a regex parse that could potentially eat your code, no this actually makes a list and checks it twice . I, as a real developer, often leave bytes of comments in my own codebases then forget about them, AI models leave MEGABYTES and has NO memory, sometimes literally using comments as a FORM OF IT. Use this tool to clean your codebases of literal trash, or use it to review, very useful, end to end tested and verified against 2,700 iterations (not that you care or anything, it works, even on debian trixie with xfce desktop, and that&#x27;s what matters, not the thousands of tests I ripped from the codebase before publishing it that end users dgaf about) As Stallman infamously says... Happy hacking ;)\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/jonhardwick-spec/ccn",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49141107",
+    "createdAt": "2026-08-02T05:54:43.521Z"
+  },
+  {
+    "slug": "firstemployeeai-start-a-business-hn",
+    "title": "FirstEmployee.ai – Start a Business",
+    "shortDescription": "Проект «FirstEmployee.ai – Start a Business», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «FirstEmployee.ai – Start a Business», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://firstemployee.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49140638",
+    "createdAt": "2026-08-02T05:54:43.521Z"
+  },
+  {
     "slug": "xharness-github",
     "title": "xharness",
     "shortDescription": "⚡ AI coding agent，CLI + macOS GUI 双形态：模型自主读代码→改代码→跑验证闭环。流式输出与思考档位、技能系统、图片附件、多供应商（DeepSeek/Kimi/任意 Anthropic 兼容端点）、密钥加密存储。TypeScript 全栈实现。",
