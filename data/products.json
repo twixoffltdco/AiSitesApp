@@ -1,5 +1,65 @@
 [
   {
+    "slug": "xharness-github",
+    "title": "xharness",
+    "shortDescription": "⚡ AI coding agent，CLI + macOS GUI 双形态：模型自主读代码→改代码→跑验证闭环。流式输出与思考档位、技能系统、图片附件、多供应商（DeepSeek/Kimi/任意 Anthropic 兼容端点）、密钥加密存储。TypeScript 全栈实现。",
+    "fullDescription": "⚡ AI coding agent，CLI + macOS GUI 双形态：模型自主读代码→改代码→跑验证闭环。流式输出与思考档位、技能系统、图片附件、多供应商（DeepSeek/Kimi/任意 Anthropic 兼容端点）、密钥加密存储。TypeScript 全栈实现。\n\nАвтор: linearuncle. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/linearuncle/xharness",
+    "category": "developer",
+    "tags": [
+      "agentic-coding",
+      "ai",
+      "ai-agent",
+      "anthropic",
+      "claude",
+      "cli",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1319366891",
+    "createdAt": "2026-08-02T02:30:55.334Z"
+  },
+  {
+    "slug": "bloomfx-github",
+    "title": "BloomFX",
+    "shortDescription": "A real-time procedural AR flower generation system using Python, OpenCV, and MediaPipe.",
+    "fullDescription": "A real-time procedural AR flower generation system using Python, OpenCV, and MediaPipe.\n\nАвтор: JagathDugyani. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/JagathDugyani/BloomFX",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "animation",
+      "augmented-reality",
+      "beizer-curves",
+      "computer-vision",
+      "hand-tracking",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1319286908",
+    "createdAt": "2026-08-02T02:30:55.335Z"
+  },
+  {
+    "slug": "costperprompt-live-ai-api-pricing-and-real-workload-cost-calculators-hn",
+    "title": "CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+    "shortDescription": "Проект «CostPerPrompt – Live AI API pricing and real-workload cost calculators», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «CostPerPrompt – Live AI API pricing and real-workload cost calculators», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://costperprompt.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49140340",
+    "createdAt": "2026-08-02T02:30:55.188Z"
+  },
+  {
     "slug": "i-made-70k-hand-drawn-icons-using-ai-hn",
     "title": "I made 70K+ hand-drawn icons using AI",
     "shortDescription": "Проект «I made 70K+ hand-drawn icons using AI», опубликован сообществом Hacker News.",
