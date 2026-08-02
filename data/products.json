@@ -1,5 +1,37 @@
 [
   {
+    "slug": "handoff-is-await-human-for-ai-agents-hn",
+    "title": "Handoff is await human() for AI agents",
+    "shortDescription": "Проект «Handoff is await human() for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Handoff is await human() for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/OmegaAgent/handoff",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49143842",
+    "createdAt": "2026-08-02T13:14:35.459Z"
+  },
+  {
+    "slug": "type-a-formula-watch-it-become-clique-hamiltonian-cycle-and-knapsack-hn",
+    "title": "Type a formula, watch it become Clique, Hamiltonian Cycle, and Knapsack",
+    "shortDescription": "Проект «Type a formula, watch it become Clique, Hamiltonian Cycle, and Knapsack», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Type a formula, watch it become Clique, Hamiltonian Cycle, and Knapsack», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aidoctrine.github.io/np-complete-universe/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49143774",
+    "createdAt": "2026-08-02T13:14:35.459Z"
+  },
+  {
     "slug": "documan-ai-powered-requirement-management-workspace-hn",
     "title": "Documan – AI Powered Requirement Management Workspace",
     "shortDescription": "That is a tool that I have developed based on my own needs since it was a shame not to use AI for requirement generation. There are ancient…",
