@@ -1,5 +1,37 @@
 [
   {
+    "slug": "documan-ai-powered-requirement-management-workspace-hn",
+    "title": "Documan – AI Powered Requirement Management Workspace",
+    "shortDescription": "That is a tool that I have developed based on my own needs since it was a shame not to use AI for requirement generation. There are ancient…",
+    "fullDescription": "That is a tool that I have developed based on my own needs since it was a shame not to use AI for requirement generation. There are ancient tools like IBM DOORS but they require buying seat licences and they don&#x27;t have any support for LLMs. I see that requirement management is a mess most of time, people are going back and forth between tools and Excel and Word. Customer couldn&#x27;t track requirement history and don&#x27;t be able to oversee which documents needs to be changed for specific system requirement. For these reasons, I built DocuMan. It follows military and industry standarts for document descriptions. You can import your customer specs and generate all documents for your hardware and software configuration items. Just give it your system breakdown, it will handle rest. There are lots of features I need to implement but it became very usefull with its current state so I would like to share it with the world. Please let me know what you think.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/bbayer/DocuMan",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49143132",
+    "createdAt": "2026-08-02T11:41:29.103Z"
+  },
+  {
+    "slug": "we-made-arcad-a-parametric-cad-in-the-browser-free-and-no-signup-hn",
+    "title": "We made Arcad, a parametric CAD in the browser, free and no signup",
+    "shortDescription": "My friend and I have been working on Arcad for some months now. It&#x27;s a free browser-based parametric CAD tool aimed at hobbyists and m…",
+    "fullDescription": "My friend and I have been working on Arcad for some months now. It&#x27;s a free browser-based parametric CAD tool aimed at hobbyists and makers. It has editable feature history, solid modeling powered by OpenCascade, STEP export and touch controls for tablets, although it&#x27;s primarily made for PC use. Everything runs in the browser and you can try it without creating an account or installing anything. Currently in beta although we feel like it&#x27;s ready for a full launch. Any feedback is appreciated! Link: https:&#x2F;&#x2F;app.arcad.studio Docs: https:&#x2F;&#x2F;www.arcad.studio&#x2F;docs\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://app.arcad.studio/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49142980",
+    "createdAt": "2026-08-02T11:41:29.103Z"
+  },
+  {
     "slug": "book2skills-github",
     "title": "BOOK2SKILLS",
     "shortDescription": "An open-source AI pipeline that transforms books and documents into production-ready Hermes Skills.",
