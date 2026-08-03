@@ -1,5 +1,90 @@
 [
   {
+    "slug": "ai-cognitive-disruptor-skill-github",
+    "title": "AI-Cognitive-Disruptor-Skill",
+    "shortDescription": "一款专为突破传统文本预测模式、让AI跳出原有思维框架的技能包，服务于高级软件工程的人工智能认知引擎。",
+    "fullDescription": "一款专为突破传统文本预测模式、让AI跳出原有思维框架的技能包，服务于高级软件工程的人工智能认知引擎。\n\nАвтор: 7maxqq. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/7maxqq/AI-Cognitive-Disruptor-Skill",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "prompt",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1321148530",
+    "createdAt": "2026-08-03T10:11:59.347Z"
+  },
+  {
+    "slug": "smartcall-github",
+    "title": "SmartCall",
+    "shortDescription": "AI 驱动的智能客服呼叫中心系统，让每一通电话都被智慧对待",
+    "fullDescription": "AI 驱动的智能客服呼叫中心系统，让每一通电话都被智慧对待\n\nАвтор: g-mr. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://qidiangk.com",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "call",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1320200790",
+    "createdAt": "2026-08-03T10:11:59.347Z"
+  },
+  {
+    "slug": "aq-a-from-scratch-1b-academic-llm-by-a-2-person-team-in-india-hn",
+    "title": "AQ – a from-scratch 1B academic LLM by a 2-person team in India",
+    "shortDescription": "Проект «AQ – a from-scratch 1B academic LLM by a 2-person team in India», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AQ – a from-scratch 1B academic LLM by a 2-person team in India», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://huggingface.co/zyoralabs/AQ-academic-ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49153490",
+    "createdAt": "2026-08-03T10:11:59.328Z"
+  },
+  {
+    "slug": "the-best-paid-aitech-job-anyone-advertises-pays-824k-not-100m-hn",
+    "title": "The best-paid AI/tech job anyone advertises pays $824k, not $100M",
+    "shortDescription": "Проект «The best-paid AI/tech job anyone advertises pays $824k, not $100M», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «The best-paid AI/tech job anyone advertises pays $824k, not $100M», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://ctaio.dev/en/jobs/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49153434",
+    "createdAt": "2026-08-03T10:11:59.328Z"
+  },
+  {
+    "slug": "kuvu-ai-your-all-in-one-ai-creative-studio-and-marketing-studio-hn",
+    "title": "Kuvu AI – Your All-in-One AI Creative Studio and Marketing Studio",
+    "shortDescription": "Create stunning images and ugc videos with top AI models — Seedance 2.0, Veo 3, Kling, GPT Image, Flux, and more. One platform, unlimited c…",
+    "fullDescription": "Create stunning images and ugc videos with top AI models — Seedance 2.0, Veo 3, Kling, GPT Image, Flux, and more. One platform, unlimited creativity.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://kuvu.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49153398",
+    "createdAt": "2026-08-03T10:11:59.328Z"
+  },
+  {
     "slug": "reverseops-skill-github",
     "title": "ReverseOps-Skill",
     "shortDescription": "ReverseOps-Skill is an AI-powered security orchestration framework that routes AI agents to the right tools and workflows for reverse engin…",
