@@ -1,5 +1,169 @@
 [
   {
+    "slug": "timecut-github",
+    "title": "timecut",
+    "shortDescription": "跑在 NAS Docker 上的智能监控录像系统：FFmpeg 循环录像 + go2rtc 实时画面，大模型自动筛选一天回顾精华并生成日记，Web 面板一键管理。",
+    "fullDescription": "跑在 NAS Docker 上的智能监控录像系统：FFmpeg 循环录像 + go2rtc 实时画面，大模型自动筛选一天回顾精华并生成日记，Web 面板一键管理。\n\nАвтор: foodpm. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/foodpm/timecut",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "camera",
+      "docker",
+      "fastapi",
+      "ffmpeg",
+      "go2rtc",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1319010645",
+    "createdAt": "2026-08-03T02:47:10.455Z"
+  },
+  {
+    "slug": "bg-remover-github",
+    "title": "bg-remover",
+    "shortDescription": "a program for removing background of images with three different Mods",
+    "fullDescription": "a program for removing background of images with three different Mods\n\nАвтор: vhkdna. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/vhkdna/bg-remover",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "anime",
+      "background-removal",
+      "python",
+      "python-3",
+      "python-script",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1319623266",
+    "createdAt": "2026-08-03T02:47:10.455Z"
+  },
+  {
+    "slug": "vibeguard-github",
+    "title": "vibeguard",
+    "shortDescription": "Vibeguard is an AI-powered code scanner that finds bugs, security issues, performance problems, and deployment risks. It suggests fixes and…",
+    "fullDescription": "Vibeguard is an AI-powered code scanner that finds bugs, security issues, performance problems, and deployment risks. It suggests fixes and generates a downloadable analysis report.\n\nАвтор: thesajidalam. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://guardvibe.vercel.app",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-assistants",
+      "cli",
+      "code-quality",
+      "code-review",
+      "copilot",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1319867499",
+    "createdAt": "2026-08-03T02:47:10.455Z"
+  },
+  {
+    "slug": "youtube2skills-github",
+    "title": "youtube2skills",
+    "shortDescription": "Production-ready pipeline that transforms YouTube videos into executable AI Agent Skills using LLMs, semantic extraction, vector search, an…",
+    "fullDescription": "Production-ready pipeline that transforms YouTube videos into executable AI Agent Skills using LLMs, semantic extraction, vector search, and autonomous quality validation.\n\nАвтор: Abdulrahman0Khaled. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/Abdulrahman0Khaled/youtube2skills",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "artificial-intelligence",
+      "artificial-intelligence-projects",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1319340111",
+    "createdAt": "2026-08-03T02:47:10.455Z"
+  },
+  {
+    "slug": "predictibetes-ai-github",
+    "title": "PredictiBetes-AI",
+    "shortDescription": "AI-powered Diabetes Prediction & Clinical Analytics Platform built with FastAPI, Scikit-learn, Plotly, SQLite and Bootstrap.",
+    "fullDescription": "AI-powered Diabetes Prediction & Clinical Analytics Platform built with FastAPI, Scikit-learn, Plotly, SQLite and Bootstrap.\n\nАвтор: Ashwitha-Ramesh. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://predictibetes-ai.onrender.com/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "bootstrap",
+      "diabetes-prediction",
+      "fastapi",
+      "healthcare",
+      "machine-learning",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1319509802",
+    "createdAt": "2026-08-03T02:47:10.455Z"
+  },
+  {
+    "slug": "codex-radar-menu-github",
+    "title": "codex-radar-menu",
+    "shortDescription": "A tiny macOS menu bar client for watching AI model IQ, cost, and value in real time.",
+    "fullDescription": "A tiny macOS menu bar client for watching AI model IQ, cost, and value in real time.\n\nАвтор: liqiang765463. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://deng.codexradar.com/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "codex",
+      "macos",
+      "menu-bar-app",
+      "open-source",
+      "swift",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1319024680",
+    "createdAt": "2026-08-03T02:47:10.455Z"
+  },
+  {
+    "slug": "opentalking-privately-deployable-real-time-ai-avatar-hn",
+    "title": "OpenTalking – Privately deployable real-time AI avatar",
+    "shortDescription": "Проект «OpenTalking – Privately deployable real-time AI avatar», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «OpenTalking – Privately deployable real-time AI avatar», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/datascale-ai/opentalking",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49150333",
+    "createdAt": "2026-08-03T02:47:10.088Z"
+  },
+  {
+    "slug": "a-company-brain-ai-agents-check-before-acting-hn",
+    "title": "A company brain AI agents check before acting",
+    "shortDescription": "Проект «A company brain AI agents check before acting», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A company brain AI agents check before acting», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/gnt-ai/gnt",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49150247",
+    "createdAt": "2026-08-03T02:47:10.088Z"
+  },
+  {
     "slug": "zorocoding-github",
     "title": "ZoroCoding",
     "shortDescription": "Local-first macOS AI coding desktop app with model routing, project tools, real progress, and removable-drive storage.",
