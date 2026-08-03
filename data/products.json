@@ -1,5 +1,37 @@
 [
   {
+    "slug": "poker-and-liars-dice-over-bluetooth-low-energy-hn",
+    "title": "Poker and Liar's Dice over Bluetooth Low Energy",
+    "shortDescription": "I remember being able to play poker and trivia with random strangers on cross country flights on the IFE screens. For some reason, they too…",
+    "fullDescription": "I remember being able to play poker and trivia with random strangers on cross country flights on the IFE screens. For some reason, they took that away, so I decided to make some myself. The first two games are here: Poker - https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;airplane-mode-poker&#x2F;id67912479... https:&#x2F;&#x2F;play.google.com&#x2F;store&#x2F;apps&#x2F;details?id=de.testco.airp... Liar&#x27;s Dice https:&#x2F;&#x2F;play.google.com&#x2F;store&#x2F;apps&#x2F;details?id=de.testco.airp... [iOS still in review] BLE was the choice to have it work cross-platform and support multiple players. There is no Internet access and there is no analytics or app tracking. It costs $2.99 as a one time unlock to host and $0 to join a game. Thoughts on other games?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://testco.de/airplane-mode-games",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49161326",
+    "createdAt": "2026-08-03T21:38:59.878Z"
+  },
+  {
+    "slug": "dashboard-for-unifi-up-airquality-sensor-hn",
+    "title": "Dashboard for UniFi Up-AirQuality Sensor",
+    "shortDescription": "Проект «Dashboard for UniFi Up-AirQuality Sensor», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Dashboard for UniFi Up-AirQuality Sensor», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/bsidio/unifi-protect-airquality-dashboard",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49161319",
+    "createdAt": "2026-08-03T21:38:59.878Z"
+  },
+  {
     "slug": "spotlight-github",
     "title": "spotlight",
     "shortDescription": "Autonomous AI security engineer — multi-agent swarm that scans, exploits, fixes, verifies, and attests. Open source (Apache 2.0).",
