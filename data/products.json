@@ -1,5 +1,199 @@
 [
   {
+    "slug": "multiplayer-ai-github",
+    "title": "multiplayer-ai",
+    "shortDescription": "Make Codex and Claude Code sessions multiplayer from the terminal.",
+    "fullDescription": "Make Codex and Claude Code sessions multiplayer from the terminal.\n\nАвтор: godfaddaai. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://godfaddaai.github.io/multiplayer-ai/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "collaboration",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1319935567",
+    "createdAt": "2026-08-03T13:24:19.067Z"
+  },
+  {
+    "slug": "vision-primitives-mcp-github",
+    "title": "vision-primitives-mcp",
+    "shortDescription": "Vision-primitives MCP server for text-only LLMs: describe, locate (coordinates), OCR with bbox, annotate, crop, zoom, automated anomaly sca…",
+    "fullDescription": "Vision-primitives MCP server for text-only LLMs: describe, locate (coordinates), OCR with bbox, annotate, crop, zoom, automated anomaly scanning, computer use — powered by Xiaomi MiMo V2.5. Single-file Python, Pillow-only dependency.\n\nАвтор: zouyuanqing. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/zouyuanqing/vision-primitives-mcp",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "automation",
+      "computer-use",
+      "deepseek",
+      "gui-agent",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1320116638",
+    "createdAt": "2026-08-03T13:24:19.067Z"
+  },
+  {
+    "slug": "pdf-inspector-web-ui-github",
+    "title": "pdf-inspector-web-ui",
+    "shortDescription": "Zero-dependency browser UI for pdf-inspector (Firecrawl) — parse PDFs to structured Markdown entirely client-side via WebAssembly. Written…",
+    "fullDescription": "Zero-dependency browser UI for pdf-inspector (Firecrawl) — parse PDFs to structured Markdown entirely client-side via WebAssembly. Written in Rust.\n\nАвтор: AIAnytime. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://aianytime.github.io/pdf-inspector-web-ui/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "firecrawl",
+      "pdf",
+      "pdf-parser",
+      "rag",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1320470126",
+    "createdAt": "2026-08-03T13:24:19.067Z"
+  },
+  {
+    "slug": "sixb-the-operating-layer-for-enterprise-ai-hn",
+    "title": "Sixb – the operating layer for enterprise AI",
+    "shortDescription": "Hi HN! We open sourced a framework to be able to model the operational layer of a business. 1. The problem today: Almost every company uses…",
+    "fullDescription": "Hi HN! We open sourced a framework to be able to model the operational layer of a business. 1. The problem today: Almost every company uses an AI assistant: ChatGPT, Claude, or Gemini. But it remains an assistant. And the companies are giving more and more information, even if some are sensitive, because better context usually produces better answers. The model should not contain the company’s operations. It should be one component connected to them. 2. Our thesis AI is making interface and glue code cheap. The difficult part is modeling the business context, rules, permissions, and workflows behind them. MCP solves access to tools, but it does not solve business context, permissions, or governance. You cannot get a useful AI implementation off the shelf. Every company operates differently. 3. What you can do with Sixb - Connect your data: CRM, ERP, file systems, meeting transcripts... - Model your business: Customers, projects, equipment, quotes, contracts, and the relationships between them - Define your rules: A customer must receive a quote within two days - Define your permissions: Decide what each user or AI agent can see and which actions they can perform. - Define workflows: React to business events, request human approval, and execute actions in source systems. - Build custom applications: Give teams and AI agents the same operational context and controlled actions. We would love to see people using it, giving us feedback and contributing!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://sixb.ai/news/sixb-framework-launch",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49154981",
+    "createdAt": "2026-08-03T13:24:18.859Z"
+  },
+  {
+    "slug": "a-fail-closed-evidence-engine-for-norms-used-by-ai-agents-hn",
+    "title": "A fail-closed evidence engine for norms used by AI agents",
+    "shortDescription": "Проект «A fail-closed evidence engine for norms used by AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A fail-closed evidence engine for norms used by AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Angeliasrl/norms-mcp-engine",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49154830",
+    "createdAt": "2026-08-03T13:24:18.859Z"
+  },
+  {
+    "slug": "runthru-open-source-interactive-demos-hn",
+    "title": "Runthru – open-source Interactive Demos",
+    "shortDescription": "I was looking for a tool to create interactive demos &#x2F; walkthroughs for web based software. I was amazed that many companies charge we…",
+    "fullDescription": "I was looking for a tool to create interactive demos &#x2F; walkthroughs for web based software. I was amazed that many companies charge well over $1000 per month for something pretty basic. I made this which so far works well for me. You can point it at a site and either let AI (byo OpenAI or Anthropic keys) record and polish the whole thing or do it manually yourself (or a mixture of both). Here is an example interactive demo: https:&#x2F;&#x2F;runnit.io&#x2F;demos&#x2F;i-want-you-to-create-a-demo-of-from-... Disclaimer: This is a tool which works for me and may work for you, it&#x27;s not production grade software, use at your own risk. Extend it, fork it, sell it, it&#x27;s up to you.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://github.com/marktolson/runthru",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49154806",
+    "createdAt": "2026-08-03T13:24:18.859Z"
+  },
+  {
+    "slug": "argot-a-rust-ai-guardrail-based-on-your-codebase-ast-patterns-hn",
+    "title": "Argot, a Rust AI guardrail based on your codebase AST patterns",
+    "shortDescription": "We have lots of benchmarks for new frontier LLMs (SWE benchmarks etc) to make them score on the &quot;best code&quot;. In large codebase, t…",
+    "fullDescription": "We have lots of benchmarks for new frontier LLMs (SWE benchmarks etc) to make them score on the &quot;best code&quot;. In large codebase, the best code is the one that matches the codebase own voice and conventions, because that&#x27;s the mental model of the team. Ingesting a full codebase explicit&#x2F;implict patterns in an agent windows to make them match the codebase doesnt work: too much context, hallucinations, ... So I built this free&#x2F;open source project, your codebase is a golden mine of AST code patterns that makes its unique voice, Argot learns them and then allows you to enforce them proactively or defensively.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://argot.tmonier.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49154714",
+    "createdAt": "2026-08-03T13:24:18.859Z"
+  },
+  {
+    "slug": "a-beautiful-web-app-for-writing-novels-and-stories-hn",
+    "title": "A beautiful web app for writing novels and stories",
+    "shortDescription": "Brigid gives you all of the features you expect (templates, spellcheck, export, and more) in a beautiful app. Optional AI integration to an…",
+    "fullDescription": "Brigid gives you all of the features you expect (templates, spellcheck, export, and more) in a beautiful app. Optional AI integration to analyze your story and characters. I made this for me, and I hope it&#x27;s useful for you! Feedback welcome as I continue to develop it!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/jpmoo/brigid",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49154349",
+    "createdAt": "2026-08-03T13:24:18.859Z"
+  },
+  {
+    "slug": "i-turned-the-ai-alignment-debate-into-a-strategy-game-hn",
+    "title": "I turned the AI alignment debate into a strategy game",
+    "shortDescription": "Проект «I turned the AI alignment debate into a strategy game», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I turned the AI alignment debate into a strategy game», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://bazman88.github.io/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49154227",
+    "createdAt": "2026-08-03T13:24:18.859Z"
+  },
+  {
+    "slug": "nightcrawler-a-local-ai-pentesting-agent-running-on-a-smartphone-hn",
+    "title": "Nightcrawler – A local AI pentesting agent running on a smartphone",
+    "shortDescription": "Проект «Nightcrawler – A local AI pentesting agent running on a smartphone», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Nightcrawler – A local AI pentesting agent running on a smartphone», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 30 баллов.",
+    "url": "https://github.com/garagehq/nightcrawler/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49154127",
+    "createdAt": "2026-08-03T13:24:18.859Z"
+  },
+  {
+    "slug": "newsroom-self-hosted-ai-ranked-meta-aggregator-for-hn-subreddits-etc-hn",
+    "title": "Newsroom Self-hosted, AI-ranked meta-aggregator for HN Subreddits etc.",
+    "shortDescription": "Проект «Newsroom Self-hosted, AI-ranked meta-aggregator for HN Subreddits etc.», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Newsroom Self-hosted, AI-ranked meta-aggregator for HN Subreddits etc.», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/SpektrNO/newsroom",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49153751",
+    "createdAt": "2026-08-03T13:24:18.859Z"
+  },
+  {
     "slug": "ai-cognitive-disruptor-skill-github",
     "title": "AI-Cognitive-Disruptor-Skill",
     "shortDescription": "一款专为突破传统文本预测模式、让AI跳出原有思维框架的技能包，服务于高级软件工程的人工智能认知引擎。",
