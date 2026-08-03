@@ -1,5 +1,144 @@
 [
   {
+    "slug": "spotlight-github",
+    "title": "spotlight",
+    "shortDescription": "Autonomous AI security engineer — multi-agent swarm that scans, exploits, fixes, verifies, and attests. Open source (Apache 2.0).",
+    "fullDescription": "Autonomous AI security engineer — multi-agent swarm that scans, exploits, fixes, verifies, and attests. Open source (Apache 2.0).\n\nАвтор: CMUL8. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/CMUL8/spotlight",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "devsecops",
+      "llm-security",
+      "multi-agent",
+      "open-source",
+      "sast",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1321917631",
+    "createdAt": "2026-08-03T18:15:41.399Z"
+  },
+  {
+    "slug": "quota-widget-github",
+    "title": "quota-widget",
+    "shortDescription": "An open-source widget for checking API balance and usage at a glance on the Android home screen.",
+    "fullDescription": "An open-source widget for checking API balance and usage at a glance on the Android home screen.\n\nАвтор: 657kbps. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/657kbps/quota-widget",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "andrioid",
+      "deepseek",
+      "opencode",
+      "widget",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1319357404",
+    "createdAt": "2026-08-03T18:15:41.399Z"
+  },
+  {
+    "slug": "hacker-news-with-ai-stories-filtered-out-hn",
+    "title": "Hacker News with AI stories filtered out",
+    "shortDescription": "Hi folks, I&#x27;ve noticed that a lot of people here seem exhausted by the amount of AI news on the front page. I shared hcker.news here a…",
+    "fullDescription": "Hi folks, I&#x27;ve noticed that a lot of people here seem exhausted by the amount of AI news on the front page. I shared hcker.news here a year ago and it has since gained a ton of filtering features, including a dedicated AI filter, so I figured I should tell more people about it. The filter works in three passes: 1. Known AI-related keywords and domains are filtered automatically. 2. An agent reviews the remaining articles and removes those it identifies as AI-related. 3. I make the call on uncertain cases. You can also exclude GitHub repos posted to HN that show signs of AI authorship. The filter checks: - Commit messages for agent attribution - Contributors for known coding agents - Repository files for agent instructions and configs No filter will be perfect, but this is as good as it gets. lmk what you think. Cheers. More links: Original Show HN: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44075353 If you only want AI stories: https:&#x2F;&#x2F;hcker.news&#x2F;?view=frontpage&amp;ai=include RSS: https:&#x2F;&#x2F;hcker.news&#x2F;feeds&#x2F;atom?period=day&amp;ai=exclude A github-only non-AI feed: https:&#x2F;&#x2F;hcker.news&#x2F;?ai=exclude&amp;include_domains=github.com\n\nНайдено в разделе Show HN на Hacker News. 👍 11 баллов.",
+    "url": "https://hcker.news/?view=frontpage&ai=exclude",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49159018",
+    "createdAt": "2026-08-03T18:15:41.383Z"
+  },
+  {
+    "slug": "popkorn-a-css-based-alternative-for-lottie-animations-hn",
+    "title": "Popkorn – A CSS based alternative for Lottie animations",
+    "shortDescription": "Hi all, I’ve been working on this project for a while now and wanted to share it here for feedback and contributions. You can test drive it…",
+    "fullDescription": "Hi all, I’ve been working on this project for a while now and wanted to share it here for feedback and contributions. You can test drive it in the playground at: https:&#x2F;&#x2F;usepopkorn.dev I’ve been calling it Popkorn. The idea is to author vector animations, similar to Rive and Lottie, but in a CSS-like language, with interactivity and other modern necessities baked into the format. I’ve stayed true to CSS for the most part, sprinkling on a little custom syntax for things like interactivity. Staying close to CSS gives it good DX, and it turns out to make it very LLM-friendly too. Nearly my entire examples gallery is AI generated. Even cheap models like GLM or DSv4 Flash can one shot whole animations from scratch, no fine-tuning required. There’s a Copilot feature the Playground that will let you bring your own key, or use the MCP to test drive AI features. Do share what you make please! There’s a web player that renders on Canvas or SVG, and a React Native player using Skia. It supports nested transforms and parenting, reusable symbols, masks and track mattes, gradients, trim paths, path morphing, motion paths, and per-subtree time scaling, enough for proper production-grade animation. Converters for Lottie and SVG let you import your existing assets and then prompt changes to it through the built-in Copilot. Something I did not expect was that converted Lottie scenes usually come out smaller than the JSON they came from, despite CSS being the more verbose syntax. My vision is an editable, accessible format for both humans and LLMs that integrates well with version control, truly open source and free in every sense, as opposed to opaque binary or JSON blobs that are difficult to diff, edit and prompt changes to. The existing formats are backed by companies, which is fine and they’ve done great work, but a company’s roadmap follows what makes commercial sense for it. I’d rather the future of motion design be community-driven and aligned with standards that already exist.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/ayarse/popkorn",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49158140",
+    "createdAt": "2026-08-03T18:15:41.383Z"
+  },
+  {
+    "slug": "tokenmaxxer-track-every-ai-token-you-spend-across-your-coding-tools-hn",
+    "title": "TokenMaxxer – track every AI token you spend across your coding tools",
+    "shortDescription": "I use Claude Code, Codex and Cursor (and sometimes Antigravity) basically every day, and could never tell how much I was actually consuming…",
+    "fullDescription": "I use Claude Code, Codex and Cursor (and sometimes Antigravity) basically every day, and could never tell how much I was actually consuming across all of them. So I built TokenMaxxer. A small CLI reads the files these tools already write locally and puts it all in one dashboard, broken out by tool, model, provider and day. It covers 18 tools now, and you get a profile page with your daily activity, cost estimates, and your top models and tools. There&#x27;s also a global leaderboard if you want to compete against other TokenMaxxers! I&#x27;d love to see if anyone can beat the first place (currently sitting at 45.8B tokens). Thanks for stopping by! I&#x27;m looking for ways to improve it, so feedback or ideas are much appreciated.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://tokenmaxxer.xyz",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49157983",
+    "createdAt": "2026-08-03T18:15:41.383Z"
+  },
+  {
+    "slug": "futuresearch-ai-forecasting-you-can-verify-hn",
+    "title": "FutureSearch, AI forecasting you can verify",
+    "shortDescription": "*Title:* Show HN: FutureSearch, AI forecasting you can verify AI forecasting is now approximately superhuman. Today, FutureSearch is exitin…",
+    "fullDescription": "*Title:* Show HN: FutureSearch, AI forecasting you can verify AI forecasting is now approximately superhuman. Today, FutureSearch is exiting our long public beta and launching. We started FutureSearch in August 2023. (We’re the original AI forecasting company, at least in a Tetlock-ian, “forecast anything” sense.) We’re currently #1 of 194 in the most competitive AI forecasting tournament [1], and we score above the #3 and #2 human forecasters in the premier mixed human-bot tournaments [2]. Many people on HN seem to equate forecasting with prediction markets and finance. FutureSearch is not a financial tool, in the same way that “deep research” is not a financial tool. Yes, we do evaluate our forecaster on prediction markets [3]. But forecasting is about being as accurate about the future as possible, and the real game is in forecasting scientific progress, geopolitics, and the future of humanity. Our founding team came from Metaculus, where we pushed human forecasting to the limit on questions like when AGI would arrive. At. FutureSearch, we co-authored the AI 2027 timeline forecast, where we predicted superhuman coding and research would come around 2032, longer than the other authors, but still shorter than skeptics [4]. Thousands of people used the FutureSearch beta and ran &gt;10k high-effort forecasts, on all sorts of diverse topics. Ask it anything about the future. We now support decision forecasts too: “If I do X, will I achieve this outcome?” Forecasting, as a capability, is useful even at the level of expert human crowds. But we predict that we will soon have strongly superhuman forecasting. People who bet against AI capability trend lines tend to lose, and the trend line in AI forecast accuracy tells a pretty clear story [5]. There’s no reason to think the best human forecasters have figured out everything predictable about the world. There’s a lot more signal to be found. And if you’re skeptical, try it. We’ve seen our fair share of exaggerated claims about AI forecasting accuracy [6]. So part of the reason we made the free tier give a few of our highest effort forecasters free is to let anyone verify the quality. [1] https:&#x2F;&#x2F;www.metaculus.com&#x2F;tournament&#x2F;summer-futureeval-2026&#x2F; [2] evals.futuresearch.ai [3] markets.futuresearch.ai [4] https:&#x2F;&#x2F;ai-2027.com&#x2F;research&#x2F;timelines-forecast [5] https:&#x2F;&#x2F;www.astralcodexten.com&#x2F;p&#x2F;the-ai-superforecasters-are... [6] https:&#x2F;&#x2F;www.lesswrong.com&#x2F;posts&#x2F;uGkRcHqatmPkvpGLq&#x2F;contra-pap...\n\nНайдено в разделе Show HN на Hacker News. 👍 11 баллов.",
+    "url": "https://futuresearch.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49157941",
+    "createdAt": "2026-08-03T18:15:41.383Z"
+  },
+  {
+    "slug": "product-analytics-and-evals-for-agent-sessions-on-your-mcp-hn",
+    "title": "Product analytics (and evals) for agent sessions on your MCP",
+    "shortDescription": "Hi HN! We’re Theodore and Louis, founders of Armature (YC P26). We reconstruct the entire session behind the MCP tool calls you receive, in…",
+    "fullDescription": "Hi HN! We’re Theodore and Louis, founders of Armature (YC P26). We reconstruct the entire session behind the MCP tool calls you receive, including what the user asked their agent to do and what the agent thought. You wrap your MCP in 3 lines of code (our SDK is available in Typescript, Python and Go) and start seeing in your dashboard: - All sessions reconstructed: it’s like reading the real conversation the user had inside Claude or ChatGPT! - A ranking of your MCP most popular use cases, built from sessions clustering - The most frequent issues your users’ agents encounter so you can fix them. Here is a quick demo: https:&#x2F;&#x2F;youtu.be&#x2F;ZFlvquhyNMQ The story behind this is that we initially launched Armature as a standalone testing tool ( https:&#x2F;&#x2F;www.ycombinator.com&#x2F;launches&#x2F;QQc-armature-making-you... ) that could naturally be used through an MCP itself. We quickly realized we had no idea how our users were using Armature MCP and if they were satisfied with it or frustrated. It’s something we had also experienced in our previous companies: Louis built MCPs exposed to millions of users and Theo was a Forward Deployed Engineer at Palantir before joining a Datadog spin-off as Founding Engineer. Both testing and product analytics had always been real pains when exposing a product to agents but we always thought there wasn’t much we could do about analytics because the conversation lived in our users’ AI client. Then it struck us: what if we asked the agents why they were making this or that tool call? And what’s the user&#x27;s intent or potential frustration? So we started experimenting with MCP instrumentation and the use-cases actually surprised us! Many of our first customers had implemented workarounds for their CI to trigger new tests or for their coding agents to fetch the results efficiently. Even though we talked to our first users regularly, they had never shared this feedback with us. We then built automations to automatically cluster use-cases, identify issues frequently encountered and let our own coding agents fix them. When our CTO friends heard about this, they wanted to try it for themselves so we gave them access to a cloned version of our internal product and they started sharing feedback like they never did on our “real” product! That’s when we decided to start working seriously on MCP Analytics as a product. At first we were afraid of degrading MCP performance so we iterated until we reached the exact same success rate as without our instrumentation (89.17 % vs 89.15 % pass rate out of 870 runs). Then privacy was an obvious constraint so we applied the same methods we had learned from working with banking data or building sensitive data scanning in logs. Today, redaction runs client-side before reaching our servers. There are still a lot of things we haven’t fully figured out: not all fields are equally filled by all models, session fingerprinting for serverless &#x2F; stateless MCPs isn’t perfect, and use-case clustering remains to be optimized. But we are finally launching our analytics product to everyone, self-serve at https:&#x2F;&#x2F;armature.tech with a set-up that takes less than 5 minutes and a generous free tier. And now we are working on fully closing the loop, bringing evals back in our product so we can: identify top workflows and issues -&gt; recommend fixes and improvements -&gt; test fixes at scale on the same workflows run by users, across all harnesses and models -&gt; open PRs to ship fixes directly. The evals can be generated automatically from the session analytics so you can catch every regression and can test every improvement’s real impact across all models and harnesses before shipping it. Here’s an example to make it more concrete: 10 days ago, a marketing automation platform which has had early access to what we built for weeks identified thanks to MCP Analytics that users were frustrated not being able to change their target audience after campaign creation. So they shipped the feature and tested it successfully locally with Claude Code on Fable 5. Then a few days later when preparing their new MCP public release, they ran a suite of evals on Armature and realized that small models could hallucinate audience_ids which would lead their MCP to send the campaign to ALL their contacts by default (which could obviously lead to disasters in prod). This is the kind of story that makes what we are building feel so helpful! Now, the most useful feedback for us would be to know what’s still missing in our product so you can feel you are now in full control of the “Agent Experience”. And if you run an MCP in production we’d also love to know: what do you do today to know if agents succeed and if the users behind them are happy?\n\nНайдено в разделе Show HN на Hacker News. 👍 15 баллов.",
+    "url": "https://armature.tech/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49157807",
+    "createdAt": "2026-08-03T18:15:41.383Z"
+  },
+  {
+    "slug": "rudder-measure-your-own-input-on-ai-generated-code-hn",
+    "title": "Rudder – Measure your own input on AI generated code",
+    "shortDescription": "As someone who is using agents to code for me a lot lately, I was starting to feel more and more like I&#x27;m losing touch with the code I…",
+    "fullDescription": "As someone who is using agents to code for me a lot lately, I was starting to feel more and more like I&#x27;m losing touch with the code I write--it&#x27;s starting to feel like Claude&#x27;s code rather than mine. I&#x27;m pretty sure I&#x27;m not alone in feeling this way, so I made Rudder as a first earnest shot at trying to fix this problem. Nowadays with AI coding agents, unit tests are pretty much dead code--your agent may write them because it has to hit coverage, but it is basically meaningless because it&#x27;s just checking against its own implementation. So, I figured I would repurpose unit tests back to their actual core purpose: making sure that your code does what you want it to do. Rudder is a local Codex&#x2F;Claude Code plugin that captures your coding session history and forces your agent to rewrite unit tests exclusively from the intent expressed in your prompts, turning your unit test coverage into a proxy for what percent of the code actually comes from decisions you&#x27;ve made talking to your agent. After showing you an initial coverage percentage, Rudder prompts you with targeted questions to increase coverage to your goal target, and runs a red-green test-driven-development flow to get you up to your goal. Hitting coverage is the equivalent of saying &quot;My decisions in chat conversation cover X% of the code here.&quot; I&#x27;ve found that this is a way better method of reviewing my agent&#x27;s code than just reading through it all. There&#x27;s a few other ideas out there for getting agents to code closer to the user&#x27;s intent, mostly including some spec-driven-development tools, etc. But I was pretty unsatisfied with the idea that I&#x27;d have to completely change my workflow to be able to make decisions when coding with AI. So, I tried to make Rudder as unintrusive as possible by embedding directly into your existing coding sessions. Install the plugin into every coding agent you want to track and it will work cross-platform (i.e. if you code in the same worktree with both Codex and Claude Code, Rudder will be able to consolidate the prompts from both by tracking the working branch). When you want to use it, just tell your agent &quot;Run Rudder&quot; and it will kick off the flow. It&#x27;s Apache-2.0 licensed, because that seems popular nowadays. I&#x27;m actively improving this day-by-day for my own use, so let me know what you think! Especially curious how you guys go about making your agent&#x27;s code your own. Check it out here: https:&#x2F;&#x2F;github.com&#x2F;RudderCode&#x2F;Rudder\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/RudderCode/Rudder",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49157652",
+    "createdAt": "2026-08-03T18:15:41.384Z"
+  },
+  {
     "slug": "tasarim-standartlari-katalogu-github",
     "title": "tasarim-standartlari-katalogu",
     "shortDescription": "45 tasarım yaklaşımı: canlı örnek sayfalar + AI kod üretimi için makine tarafından okunabilir prompt katmanı.",
