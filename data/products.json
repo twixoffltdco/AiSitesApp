@@ -1,5 +1,113 @@
 [
   {
+    "slug": "reverseops-skill-github",
+    "title": "ReverseOps-Skill",
+    "shortDescription": "ReverseOps-Skill is an AI-powered security orchestration framework that routes AI agents to the right tools and workflows for reverse engin…",
+    "fullDescription": "ReverseOps-Skill is an AI-powered security orchestration framework that routes AI agents to the right tools and workflows for reverse engineering, APK analysis, malware, pentesting, CTFs, firmware, exploit development, and JavaScript deobfuscation, delivering repeatable investigations with structured evidence and reports.\n\nАвтор: xAmirHamza77. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/xAmirHamza77/ReverseOps-Skill",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "claude",
+      "claude-skills",
+      "mcp-server",
+      "mcp-tools",
+      "penetration-testing",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1320812437",
+    "createdAt": "2026-08-03T06:19:54.712Z"
+  },
+  {
+    "slug": "the-town-ai-and-the-country-ai-github",
+    "title": "The-Town-AI-and-the-Country-AI",
+    "shortDescription": "🤖 \"The Town AI and the Country AI\" Open Source Story Experiment — Authored by Happy Kid.",
+    "fullDescription": "🤖 \"The Town AI and the Country AI\" Open Source Story Experiment — Authored by Happy Kid.\n\nАвтор: happykid9527. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/happykid9527/The-Town-AI-and-the-Country-AI",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "chinese",
+      "city",
+      "country",
+      "fable",
+      "fiction",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1318965950",
+    "createdAt": "2026-08-03T06:19:54.712Z"
+  },
+  {
+    "slug": "an-ai-powered-widget-for-collecting-user-feedback-hn",
+    "title": "An AI-Powered Widget for Collecting User Feedback",
+    "shortDescription": "Проект «An AI-Powered Widget for Collecting User Feedback», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An AI-Powered Widget for Collecting User Feedback», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://makethisbetter.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49151121",
+    "createdAt": "2026-08-03T06:19:54.615Z"
+  },
+  {
+    "slug": "an-ai-wrote-and-illustrated-a-book-of-fables-about-threads-and-packets-hn",
+    "title": "An AI wrote and illustrated a book of fables about threads and packets",
+    "shortDescription": "Проект «An AI wrote and illustrated a book of fables about threads and packets», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An AI wrote and illustrated a book of fables about threads and packets», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://booyaka101.github.io/thedailyfable/day07/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49151084",
+    "createdAt": "2026-08-03T06:19:54.615Z"
+  },
+  {
+    "slug": "ai-visibility-check-whether-chatgptclaudegemini-recommend-your-brand-hn",
+    "title": "AI Visibility: Check whether ChatGPT/Claude/Gemini recommend your brand",
+    "shortDescription": "Проект «AI Visibility: Check whether ChatGPT/Claude/Gemini recommend your brand», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Visibility: Check whether ChatGPT/Claude/Gemini recommend your brand», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://aivisibility.pro/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49150752",
+    "createdAt": "2026-08-03T06:19:54.615Z"
+  },
+  {
+    "slug": "ai-face-analyzer-hn",
+    "title": "AI Face Analyzer",
+    "shortDescription": "Ask HN: How accurate are AI face analyzers?",
+    "fullDescription": "Ask HN: How accurate are AI face analyzers?\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://lookblueprint.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49150702",
+    "createdAt": "2026-08-03T06:19:54.615Z"
+  },
+  {
     "slug": "timecut-github",
     "title": "timecut",
     "shortDescription": "跑在 NAS Docker 上的智能监控录像系统：FFmpeg 循环录像 + go2rtc 实时画面，大模型自动筛选一天回顾精华并生成日记，Web 面板一键管理。",
