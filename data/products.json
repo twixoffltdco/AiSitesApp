@@ -1,5 +1,177 @@
 [
   {
+    "slug": "tasarim-standartlari-katalogu-github",
+    "title": "tasarim-standartlari-katalogu",
+    "shortDescription": "45 tasarım yaklaşımı: canlı örnek sayfalar + AI kod üretimi için makine tarafından okunabilir prompt katmanı.",
+    "fullDescription": "45 tasarım yaklaşımı: canlı örnek sayfalar + AI kod üretimi için makine tarafından okunabilir prompt katmanı.\n\nАвтор: dogukanerguner. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://design.asveas.com",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "design",
+      "design-thinking",
+      "designer",
+      "ui",
+      "ui-design",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1321710866",
+    "createdAt": "2026-08-03T16:01:16.025Z"
+  },
+  {
+    "slug": "moe-pruner-github",
+    "title": "moe-pruner",
+    "shortDescription": "Universal toolkit for pruning, calibrating, and managing experts in   Mixture-of-Experts (MoE) models in GGUF format",
+    "fullDescription": "Universal toolkit for pruning, calibrating, and managing experts in   Mixture-of-Experts (MoE) models in GGUF format\n\nАвтор: Cavibora. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Cavibora/moe-pruner",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "cuda",
+      "deepseek",
+      "expert-pruning",
+      "gguf",
+      "glm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1321715863",
+    "createdAt": "2026-08-03T16:01:16.025Z"
+  },
+  {
+    "slug": "modelfuzz-open-source-runtime-guardrails-for-ai-agents-hn-2",
+    "title": "ModelFuzz – Open-source runtime guardrails for AI agents",
+    "shortDescription": "Проект «ModelFuzz – Open-source runtime guardrails for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ModelFuzz – Open-source runtime guardrails for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/higagan/modelfuzz",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49157392",
+    "createdAt": "2026-08-03T16:01:16.659Z"
+  },
+  {
+    "slug": "self-hosted-pet-diary-built-on-frigate-and-a-local-vision-model-hn",
+    "title": "Self-hosted pet diary built on Frigate and a local vision model",
+    "shortDescription": "I have a cat and a dog, and I worry about them whenever I am away. My cameras ping me with a clip of the cat crossing the kitchen, which te…",
+    "fullDescription": "I have a cat and a dog, and I worry about them whenever I am away. My cameras ping me with a clip of the cat crossing the kitchen, which tells me almost nothing. I could sit and watch hours of recordings to work out how their day went and whether anything looks off, but that&#x27;s too time consuming. What I actually wanted to know were concrete things: did they eat, did they drink, did the cat use the litter box, are they sleeping more than usual. So pet-report sits on top of Frigate, which I already run for the cameras. Twice a day it sends the new clips to a vision model (I run Qwen3.6-35B-A3B on an RTX 5090) on my own server and writes up the day, with every line linking back to the footage behind it so you can check it yourself. You can also ask it things like &quot;did the dog drink today?&quot; and it answers from what the cameras actually saw. I&#x27;ve found myself needing an app like this for a long time, and pulling contextual metadata out of an image or a video is exactly what these models are good at. Before LLMs this would have taken money, time and R&amp;D I don&#x27;t have, and I couldn&#x27;t have done it alone, since I have no background in ML or image analysis. Most of the code here was written by an AI coding assistant, with me directing and reviewing it. The design and the review are mine. The part I&#x27;m happiest about is that a local vision model keeps everything private. Nothing leaves my network. It does get things wrong, but the whole thing is designed around that: uncertain moments are flagged, and anything can be corrected by hand. Every moment keeps the frame&#x2F;clip it came from, so you can see what the model saw instead of taking its word for it. The results are only as good as the model you run, the descriptions you give it of your pets, and where your cameras are pointing. If you have two orange cats, it won&#x27;t tell them apart: it labels the sighting &quot;a cat&quot; and leaves you to pick which one. Fortunately I have one cat and one dog, so every sighting gets named on its own, but I did try my best to prompt the model in a way that smooths out those identification edges. Anyway, just wanted to share something that has been working for me and my two animals, which is the honest extent of the testing. I&#x27;d love to know how it does on yours.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/bolt12/pet-report",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49156989",
+    "createdAt": "2026-08-03T16:01:16.659Z"
+  },
+  {
+    "slug": "lucin-static-analysis-for-ai-agents-with-published-false-negative-list-hn",
+    "title": "Lucin -static analysis for AI agents with published false-negative list",
+    "shortDescription": "Проект «Lucin -static analysis for AI agents with published false-negative list», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Lucin -static analysis for AI agents with published false-negative list», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://lucin.pages.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49156727",
+    "createdAt": "2026-08-03T16:01:16.659Z"
+  },
+  {
+    "slug": "christopher-nolans-hymn-to-athena-hn",
+    "title": "Christopher Nolan's Hymn to Athena",
+    "shortDescription": "Hi, HN! Did you know that Chris Nolan&#x27;s casting of Tom Holland and Zendaya eerily echoes a 3000-year-old dance battle between Athena a…",
+    "fullDescription": "Hi, HN! Did you know that Chris Nolan&#x27;s casting of Tom Holland and Zendaya eerily echoes a 3000-year-old dance battle between Athena and Telemachus? I&#x27;ve been working on an art project that says so. If you like, it can be fun to go in blind with a strong research agent to sort out what this really is. Or there is a multi-layered CAPTCHA at the bottom that spells it out increasingly clearly. As a small spoiler: my day job is building reliable public data tools for a library. This piece draws on that background to try to make AI-native art -- fiction by and for humans who use AI agents as a source of truth. At best I hope it works as the kind of joke one Iain M. Banks Culture AI would tell another about humans.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://jackcushman.org/writing/hymn-to-athena/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49156508",
+    "createdAt": "2026-08-03T16:01:16.659Z"
+  },
+  {
+    "slug": "one-thing-at-a-time-a-todo-app-that-hides-your-list-hn",
+    "title": "One Thing at a Time – a todo app that hides your list",
+    "shortDescription": "I have been brain dumping my todos and ideas to my ai agent and only asking it for what is relevant that day. it surfaces that and keeps th…",
+    "fullDescription": "I have been brain dumping my todos and ideas to my ai agent and only asking it for what is relevant that day. it surfaces that and keeps the rest hidden. it works well for my adhd brain to stay focused, feels like offloading part of my brain. I wonder if it works for others too, so I built this minimal app. no signup https:&#x2F;&#x2F;onethingatatime.app any thoughts welcome.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://onethingatatime.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49156499",
+    "createdAt": "2026-08-03T16:01:16.659Z"
+  },
+  {
+    "slug": "glaux-browser-only-ai-for-hugging-face-onnx-community-models-hn",
+    "title": "Glaux – Browser-Only AI for Hugging Face ONNX Community Models",
+    "shortDescription": "Проект «Glaux – Browser-Only AI for Hugging Face ONNX Community Models», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Glaux – Browser-Only AI for Hugging Face ONNX Community Models», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://glaux.rangan39.sh/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49155736",
+    "createdAt": "2026-08-03T16:01:16.659Z"
+  },
+  {
+    "slug": "an-interactive-story-about-living-on-irc-in-the-90s-hn",
+    "title": "An interactive story about living on IRC in the '90s",
+    "shortDescription": "Hi, HN. Long time lurker, first time poster. I&#x27;m a long time software engineer, and I started getting really into computers and the in…",
+    "fullDescription": "Hi, HN. Long time lurker, first time poster. I&#x27;m a long time software engineer, and I started getting really into computers and the internet as a kid in the late 80s and early 90s. I started using IRC and Linux and just fell in love with everything about it. Before 2000 I stopped &#x27;hacking&#x27; for several years because I thought I needed to get a real-world life and that only nerds were online. But ironically in the time that I was out of the game, online social networks became &quot;cool&quot; somehow, and every person on the planet developed an online persona. Anyhoo, I created a story about my experiences online ( https:&#x2F;&#x2F;www.royalroad.com&#x2F;fiction&#x2F;146026&#x2F;eye-are-see ). As I was writing it I kept feeling like man, it would be really awesome to experience this again, so I developed (yes, with AI) a browser-based interactive experience that allows readers to play through the journey. If you were ever on IRC (e.g., DALNet, EFNet, Undernet, etc) or if you&#x27;re just curious about out what it was like, check it out. That part of my life was so transformative and so special, and hopefully I can share a little bit of that joy with other folks.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://eyearesee.winkingfig.com",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49155710",
+    "createdAt": "2026-08-03T16:01:16.660Z"
+  },
+  {
+    "slug": "headroom-warns-you-before-your-ai-chat-starts-forgetting-hn",
+    "title": "Headroom – warns you before your AI chat starts forgetting",
+    "shortDescription": "Проект «Headroom – warns you before your AI chat starts forgetting», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Headroom – warns you before your AI chat starts forgetting», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/ZM-BAD/headroom",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49155672",
+    "createdAt": "2026-08-03T16:01:16.660Z"
+  },
+  {
     "slug": "multiplayer-ai-github",
     "title": "multiplayer-ai",
     "shortDescription": "Make Codex and Claude Code sessions multiplayer from the terminal.",
