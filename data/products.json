@@ -1,5 +1,165 @@
 [
   {
+    "slug": "stonefold-a-deterministic-gateway-between-ai-agents-and-your-systems-hn",
+    "title": "Stonefold – a deterministic gateway between AI agents and your systems",
+    "shortDescription": "Проект «Stonefold – a deterministic gateway between AI agents and your systems», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Stonefold – a deterministic gateway between AI agents and your systems», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://stonefold.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49169158",
+    "createdAt": "2026-08-04T14:04:01.567Z"
+  },
+  {
+    "slug": "i-made-a-self-built-catalogue-of-education-simulation-games-hn",
+    "title": "I made a self-built catalogue of education Simulation games",
+    "shortDescription": "I&#x27;m quite intrigued by the new domain unlocked by AI - Simulation games! I want this catalogue to be education related, for players to…",
+    "fullDescription": "I&#x27;m quite intrigued by the new domain unlocked by AI - Simulation games! I want this catalogue to be education related, for players to take something home after playing the game. I&#x27;m a researcher of this domain, I will add more games, right now these are available: 1. Race to AGI - Can you fight against the odds and run a Frontier AI Labs? (Learning: To give users nuts and bolts of AI labs and models with some creative freedom) 2. Cloud Architect: Hum - Check your software architecture skills! This gives you a rising social media product with a lots of infrastructure challenges coming your way. See if you can keep the product running against all the odds! (Learning: Idea is to give someone an opportunity to see if they can architect something like Facebook) All games are built (and continuing to be) by myself. You can play all games without any signups needed! Just start playing! Feedbacks are welcome!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://cloudsims.online",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49168627",
+    "createdAt": "2026-08-04T14:04:01.568Z"
+  },
+  {
+    "slug": "my-journey-into-game-development-with-ai-hn",
+    "title": "My journey into game development with AI",
+    "shortDescription": "I had a development background initially, moved out to a different field 20+ years ago, but often have a nostalgia with periodic attempts t…",
+    "fullDescription": "I had a development background initially, moved out to a different field 20+ years ago, but often have a nostalgia with periodic attempts to create something. Wanted to share the last one, started 2 months ago as part of my upskilling with AI. Choice what to develop was easy - spent lots of time commuting to the office and wanted a simple game playable offline, without ads, within 5-10 minutes. I have never developed mobile games and this was an point of the experiment - how far I can reach? :) Stage 0 (full control &amp; no trust) - I started with VS Code + Android Studio. Yes, Claude created something, however compilation and error correction was an old-style pain. Initially googled, then asked AI &quot;check and correct the error&quot;. Then I realised that I don&#x27;t need neither VS Code nor Android Studio. When I need to review a code, i can do it in project folder directly. Stage 1 (building the trust) - moved to Claude Code CLI. Jointly with Claude we defined the processes and the team structure (agents responsible for core framework, games, QA tests, and the tech lead performing the code review), and then Claude set up the environment (bye-bye VS Code). At this stage, I still reviewed some code but started to build trust into overriding reviews by tech lead. Stage 2 (direction and supervision of the AI team) - I realised that it&#x27;s more valuable to have a proper planning to define the requirements (concept, high-level architecture and design), and then allow agents to develop the game, add automated QA tests, and then tech lead to do a code review. Some rules on the road and helpful processes that we defined on this journey: - Key architectural decisions are fixed during the initial planning. AI is not allowed to circumvent them and must ask my approval, and in most cases, we found better ways within the initial boundaries. The same applies to the core app framework that was frozen after the initial implementation and QA. - Hard module ownership - prevents agents to make quiet changes to each other&#x27;s code. Technical lead still flags such cases during review, but these are rare exceptions now. - UI design - Claude can do UI, but it&#x27;s not the strongest area, and initially it was a pain... We established a workflow when all UI changes are first shown on local web server. It still takes multiple iterations to get to appropriate level, but much easier now. - Device testing matrix - it allows to see how it looks like on different screens (resolution, density, aspect). We ended up in 12 types from low-end to high-end phones and tablets. One script runs app on emulator and takes screenshots. Another script identifies issues in app screens. The last presents all screenshots (by devices, layouts based on portrait&#x2F;landscape, touch&#x2F;buttons, dark&#x2F;light theme) on local web server. Once all ok, the screenshots are promoted as golden and used in later QA tests. - Triage flag - helpful when I&#x27;m away and have some ideas or thoughts. I simply raise an issue on Github mobile, add a triage flag, and Claude picks it in our next session. - Detailed test plans for manual testing on live devices. - For marketing materials, AI&#x27;s focus is shifted towards low-level details. It&#x27;s helpful to propose some points or do a sense check of human-written draft. But if you want a story with a correct focus - do it manually... Key controls in the process are: - peer review by tech lead agent for all changes; - automated QA tests and UI tests based on the device matrix; - standardised release process (validation of QA tests, final testing of AAB release, updates to Play Store listing and website, and some other steps); - Play Store upload is still a manual step, done by me when happy with all release process checks and steps. And a little about the application itself - it&#x27;s free, offline, currently contains 2 games (easy classic games where you don&#x27;t need to learn how to play), and more games are coming :) Web-page: https:&#x2F;&#x2F;playdowntime.com\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://playdowntime.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49168567",
+    "createdAt": "2026-08-04T14:04:01.568Z"
+  },
+  {
+    "slug": "entangle-hand-a-live-ai-coding-session-to-anyone-with-three-words-hn",
+    "title": "Entangle, hand a live AI coding session to anyone with three words",
+    "shortDescription": "Проект «Entangle, hand a live AI coding session to anyone with three words», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Entangle, hand a live AI coding session to anyone with three words», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/gowtham-sai-yadav/entangle",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49168465",
+    "createdAt": "2026-08-04T14:04:01.568Z"
+  },
+  {
+    "slug": "aimeterly-per-user-cost-dashboards-from-claude-codes-built-in-otel-hn",
+    "title": "Aimeterly – Per-user cost dashboards from Claude Code's built-in OTel",
+    "shortDescription": "Проект «Aimeterly – Per-user cost dashboards from Claude Code's built-in OTel», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Aimeterly – Per-user cost dashboards from Claude Code's built-in OTel», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aimeterly.com/en",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49168457",
+    "createdAt": "2026-08-04T14:04:01.568Z"
+  },
+  {
+    "slug": "loopers-fail-closed-reverse-proxy-and-circuit-breaker-for-ai-agents-hn",
+    "title": "Loopers – Fail-closed reverse proxy and circuit breaker for AI agents",
+    "shortDescription": "Проект «Loopers – Fail-closed reverse proxy and circuit breaker for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Loopers – Fail-closed reverse proxy and circuit breaker for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://app.tryloopers.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49168436",
+    "createdAt": "2026-08-04T14:04:01.568Z"
+  },
+  {
+    "slug": "vultrino-credential-proxy-so-ai-agents-never-see-the-keys-hn",
+    "title": "Vultrino – Credential proxy so AI agents never see the keys",
+    "shortDescription": "Проект «Vultrino – Credential proxy so AI agents never see the keys», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Vultrino – Credential proxy so AI agents never see the keys», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/FeirAI/vultrino",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49167812",
+    "createdAt": "2026-08-04T14:04:01.568Z"
+  },
+  {
+    "slug": "av9n-check-an-ai-agents-claims-against-evidence-it-does-not-control-hn",
+    "title": "Av9n – Check an AI agents claims against evidence it does not control",
+    "shortDescription": "After running agents for my own business and trying to figure out how to validate them as well as score them I realized there was not a pro…",
+    "fullDescription": "After running agents for my own business and trying to figure out how to validate them as well as score them I realized there was not a product that easily helped me evaluate if the agents were helping my business grow or helping me cut overspending. So I took it upon myself to develop a software that helps me verify what my agents said they did. Then I realized other people could use this to score their agents and get proper evaluation from a third party system that takes the information from the user and checks the claims against outside evidence rather than trusting the agents own report. We are the third party validator. Whether you&#x27;re running a team of agents or just a few for your small business, evaluation is necessary and needs to come from outside of your own sandbox. I made a quick demo option so you can see how it works without a need to sign up. You can even point it at a real github repo and watch it check a claim against the actual CI results. Looking for feedback and knowledge to help me grow this. Thank you!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://av9n.ai/demo",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49167560",
+    "createdAt": "2026-08-04T14:04:01.568Z"
+  },
+  {
+    "slug": "archive-websites-with-cloudflare-workers-hn",
+    "title": "Archive Websites with Cloudflare Workers",
+    "shortDescription": "Проект «Archive Websites with Cloudflare Workers», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Archive Websites with Cloudflare Workers», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/kenobi-ai/breamer",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49167265",
+    "createdAt": "2026-08-04T14:04:01.568Z"
+  },
+  {
+    "slug": "draftlight-ai-that-makes-you-a-better-writer-leaves-writing-to-you-hn",
+    "title": "Draftlight – AI that makes you a better writer (leaves writing to you)",
+    "shortDescription": "Hi, as I&#x27;ve recently noticed, AI isn&#x27;t making me a better writer or thinker, so I&#x27;ve decided to take a step back. No AI for…",
+    "fullDescription": "Hi, as I&#x27;ve recently noticed, AI isn&#x27;t making me a better writer or thinker, so I&#x27;ve decided to take a step back. No AI for writing, or at least AI shouldn&#x27;t write for me. But since English isn&#x27;t my first language, I created a small helper for myself. It&#x27;s a markdown editor where you can ask AI for guidance and comments on the clarity and correctness of the whole text and each paragraph individually. The final result is still human-written (also according to pangram). For now, it&#x27;s free to use.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://draftlight.xyz/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49167214",
+    "createdAt": "2026-08-04T14:04:01.568Z"
+  },
+  {
     "slug": "wai-play-github",
     "title": "wai-play",
     "shortDescription": "WAI Play - AI web game testing and quality evaluation platform",
