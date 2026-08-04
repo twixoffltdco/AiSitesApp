@@ -1,5 +1,93 @@
 [
   {
+    "slug": "troth-github",
+    "title": "troth",
+    "shortDescription": "An AI partner whose memory lives on your machine, not in a vendor account. Swap the model, keep the mind.",
+    "fullDescription": "An AI partner whose memory lives on your machine, not in a vendor account. Swap the model, keep the mind.\n\nАвтор: xgre1. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://www.troth.one",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "agpl",
+      "ai",
+      "anthropic",
+      "claude",
+      "developer-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1322245339",
+    "createdAt": "2026-08-04T00:11:37.392Z"
+  },
+  {
+    "slug": "trading-terminal-github",
+    "title": "trading-terminal",
+    "shortDescription": "Pairlens is an AI-native trading terminal for crypto. Desktop-first, source-available.",
+    "fullDescription": "Pairlens is an AI-native trading terminal for crypto. Desktop-first, source-available.\n\nАвтор: Pairlens. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://pairlens.finance",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "charting",
+      "crypto",
+      "cryptocurrency",
+      "desktop-app",
+      "react",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1320079395",
+    "createdAt": "2026-08-04T00:11:37.393Z"
+  },
+  {
+    "slug": "open-source-books-github",
+    "title": "open-source-books",
+    "shortDescription": "A curated collection of open-source programming, Linux, cybersecurity, and AI books and resources. Built for students and developers.",
+    "fullDescription": "A curated collection of open-source programming, Linux, cybersecurity, and AI books and resources. Built for students and developers.\n\nАвтор: Nahid-mahmud555. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/Nahid-mahmud555/open-source-books",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "books",
+      "data-structures",
+      "linux",
+      "nahidmahmud555",
+      "open-source",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1321838328",
+    "createdAt": "2026-08-04T00:11:37.393Z"
+  },
+  {
+    "slug": "assay-github",
+    "title": "assay",
+    "shortDescription": "An open, reproducible framework for evaluating AI artifacts — skills, MCP servers, agents and plugins. Reads what is inside them, optionall…",
+    "fullDescription": "An open, reproducible framework for evaluating AI artifacts — skills, MCP servers, agents and plugins. Reads what is inside them, optionally runs them in a sandbox and judges what they did, and publishes a report a stranger can verify.\n\nАвтор: metahub-ai. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://metahub.ai",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "benchmark",
+      "claude",
+      "claude-skills",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1322073226",
+    "createdAt": "2026-08-04T00:11:37.393Z"
+  },
+  {
     "slug": "poker-and-liars-dice-over-bluetooth-low-energy-hn",
     "title": "Poker and Liar's Dice over Bluetooth Low Energy",
     "shortDescription": "I remember being able to play poker and trivia with random strangers on cross country flights on the IFE screens. For some reason, they too…",
