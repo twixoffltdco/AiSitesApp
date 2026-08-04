@@ -1,5 +1,161 @@
 [
   {
+    "slug": "keyhunter-skill-github",
+    "title": "keyHunter-skill",
+    "shortDescription": "Academic research toolkit for AI gateway panel security studies (Sub2API / New-API / One-API): FOFA discovery, fingerprinting, credential-h…",
+    "fullDescription": "Academic research toolkit for AI gateway panel security studies (Sub2API / New-API / One-API): FOFA discovery, fingerprinting, credential-hygiene testing, artifact normalization. Authorized, defensive use only.\n\nАвтор: lifefloating. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/lifefloating/keyHunter-skill",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "claude",
+      "deepseek",
+      "llm",
+      "openai",
+      "skills",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1323081107",
+    "createdAt": "2026-08-04T16:26:39.167Z"
+  },
+  {
+    "slug": "quota-viewer-github",
+    "title": "quota-viewer",
+    "shortDescription": "OpenCode Go 桌面悬浮球 AI 额度监控 / Lightweight desktop quota monitor for AI platforms — Kimi · 讯飞星辰 · OpenCode Go · MiMo · DeepSeek. Minimal, low…",
+    "fullDescription": "OpenCode Go 桌面悬浮球 AI 额度监控 / Lightweight desktop quota monitor for AI platforms — Kimi · 讯飞星辰 · OpenCode Go · MiMo · DeepSeek. Minimal, low RAM & disk (Go + Wails, ~50MB vs Electron 200MB+).\n\nАвтор: eeljoe. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/eeljoe/quota-viewer",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "desktop",
+      "golang",
+      "monitor",
+      "quota",
+      "system-tray",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1323006012",
+    "createdAt": "2026-08-04T16:26:39.167Z"
+  },
+  {
+    "slug": "bean-network-tester-open-source-bad-network-simulator-hn",
+    "title": "Bean Network Tester – open-source bad network simulator",
+    "shortDescription": "I had built Bean Network Tester - a tool that helps developers and testers simulate poor network conditions for their apps and games. It al…",
+    "fullDescription": "I had built Bean Network Tester - a tool that helps developers and testers simulate poor network conditions for their apps and games. It allows you to intentionally make the connection worse and test how your software behaves with various problems. I aimed to make the tool easy for people without experience, but, from the other side, still usable for people with more networking experience. So a person without experience can just use a pre-built profile or scenario and click &quot;start&quot;. A more advanced user can do the same from the CLI or integrate the tool into CI&#x2F;CD or create their own profiles or script their own testing scenarios (like at &quot;x&quot; set &quot;z&quot; or do &quot;y&quot;). To be honest, my internet connectionn is pretty terrible most of the time, so you could say this tool lets you simulate my default network :-) If you like the app, please give it a bean* *i mean give it a star on GitHub. If you have any feature requests, feel free to share them. Right now I&#x27;m working on the V0.5 version, but it will take a bit a bit a bit a bit a bit of time. Yep a longer one. What the tool can do? - Add lag and jitter - fixed or random delay. -Drop, corrupt or duplicate packets - fake a flaky link. -Cap download&#x2F;upload speed - throttle to a set KB&#x2F;s. -Tear connections down - TCP resets or a dead link. -Flap the link on and off - outages that come and go. -Block ports or IPs - a small built-in firewall, plus LAN mode (no internet). -Aim at one app - by process, PID, IP or port. -Presets and saved profiles - 56k modem, Cafe WiFi, Satellite, and more. -Run scripted scenarios - timed steps that change the network on their own. -Reproducible by seed - replay the exact same random loss and jitter. -Watch it live - chart, connections table, counters. -Command-line mode - scriptable for CI. No telemetry, fully offline - sends no data anywhere. V0.4.0 was just released 3 days ago. There is still a long way ahead BNT :-)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/donislawdev/BeanNetworkTester",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49170571",
+    "createdAt": "2026-08-04T16:26:39.045Z"
+  },
+  {
+    "slug": "clai-ai-for-the-command-line-stdin-llm-stdout-hn",
+    "title": "Clai – AI for the command line (stdin → LLM → stdout)",
+    "shortDescription": "Since ChatGPT launched I&#x27;ve been trying to integrate LLMs into my workflows; emails, commits PRSs, or even long chat threads. My insti…",
+    "fullDescription": "Since ChatGPT launched I&#x27;ve been trying to integrate LLMs into my workflows; emails, commits PRSs, or even long chat threads. My instinct was to code a small automation platform, but I found myself limited once again by its own constraints. Went back to zero, twice, and went back to the tools I&#x27;ve been using for years: UNIX pipelines. I started using llm and later mods (now deprecated) and they&#x27;re great tools, but I wanted something leaner and that would compose better with other tools. Clai does one thing: takes stdin, sends it to a model of your choice and prints the result. No REPL, no state. When it&#x27;s done it just exits. git diff | clai commit cat article.txt | clai summarize | glow pbpaste | clai tldr curl -s example.com&#x2F;article.html | clai -e &quot;Extract the three main concepts&quot; It ships with a set of named prompts but you can override, add or extend as needed, they&#x27;re just files with frontmatter. There&#x27;s also strategies (chain-of-draft, chain-of-thought, tree-of-thought, and self-refine) to change the reasoning depending on your needs. Works with major providers and I&#x27;ll keep adding more. It can also be pointed to a local model so nothing leaves your machine. Install with: brew install maxrodrigo&#x2F;tap&#x2F;clai This is v0.3.0 and it&#x27;s a few weeks old. It&#x27;s early and rough around the edges. I&#x27;d appreciate feedback on what&#x27;s missing and if you find it useful. Contributions welcome.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/maxrodrigo/clai",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49170538",
+    "createdAt": "2026-08-04T16:26:39.046Z"
+  },
+  {
+    "slug": "xtokenchecker-verifies-model-identities-of-your-ai-gateway-hn",
+    "title": "XTokenChecker – Verifies model identities of your AI gateway",
+    "shortDescription": "Проект «XTokenChecker – Verifies model identities of your AI gateway», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «XTokenChecker – Verifies model identities of your AI gateway», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://xtokenchecker.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49170424",
+    "createdAt": "2026-08-04T16:26:39.046Z"
+  },
+  {
+    "slug": "korvo-local-first-ai-workspace-that-traces-answers-to-the-source-hn",
+    "title": "Korvo – Local-first AI workspace that traces answers to the source",
+    "shortDescription": "Проект «Korvo – Local-first AI workspace that traces answers to the source», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Korvo – Local-first AI workspace that traces answers to the source», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.korvo.xyz/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49170374",
+    "createdAt": "2026-08-04T16:26:39.047Z"
+  },
+  {
+    "slug": "simple-self-hosted-llm-assistant-with-user-steered-compounding-context-hn",
+    "title": "Simple self-hosted LLM assistant with user-steered compounding context",
+    "shortDescription": "I built a personal LLM assistant on Cloudflare Workers + Durable Objects. You specify a category and topic when starting a new conversation…",
+    "fullDescription": "I built a personal LLM assistant on Cloudflare Workers + Durable Objects. You specify a category and topic when starting a new conversation, so the backend maintains a summary for each category&#x2F;topic - building up as more conversations happen under the same one. There is no complicated RAG, embeddings, or agentic magic, but the category&#x2F;topic summaries system just works, and I&#x27;ve genuinely found it super handy and have been using it daily for my life and work. I started it to get familiar with Durable Objects and to test out this idea draft I had buried on my board. After recently losing my job, I started working on it more. Testing it with my friends and focusing on it being as straightforward as possible to understand, deploy and use. This week I open-sourced it for more people to try Repo: https:&#x2F;&#x2F;github.com&#x2F;kol3x&#x2F;pawmc Some details: - $0 cost on Cloudflare&#x27;s free tier with default configuration - Everything in a singleton Durable Object - Workers AI as the default provider - OpenRouter support for more stable access and bigger models (there, you&#x27;d need to pay for tokens)\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/kol3x/pawmc",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49169771",
+    "createdAt": "2026-08-04T16:26:39.047Z"
+  },
+  {
+    "slug": "guide-ai-coding-agents-on-how-to-use-libraries-securely-hn",
+    "title": "Guide AI coding agents on how to use libraries securely",
+    "shortDescription": "Hi HN, TL;DR: AI Code Security Cards give coding agents library- and version-specific guidance to generate safer code. AI coding agents can…",
+    "fullDescription": "Hi HN, TL;DR: AI Code Security Cards give coding agents library- and version-specific guidance to generate safer code. AI coding agents can generate working code, but they often lack library- and version-specific security knowledge. We&#x27;ve developed AI Code Security Cards, an open-source security knowledge layer, to provide that missing context. The project is related to my PhD, in which I focused on the security of LLM-generated code. During my research, I studied how code generation models behave, how they introduce security issues, and how we can guide them toward generating safer code. My research [1] and several other studies [2–4] show that at least 40% of code generated by state-of-the-art models contains one or more security issues. Similar problems also affect AI coding agents. One reason is that these models often lack sufficient library-specific security knowledge in their context. They may not know which configurations are unsafe, which validation steps are required, or what security-related behavior has changed between library versions. AI Code Security Cards provide practical, version-specific security guidance for open-source libraries. For example, the Django security cards can guide an AI agent on how to implement authentication and authorization securely. The easiest way to use the cards is to install the AI skill provided in the repository (And in the integration page: https:&#x2F;&#x2F;securitycards.rewarelabs.com&#x2F;integration&#x2F; ). You can also download them and add them directly to your AI agent’s rules or instructions. We’d be glad to hear your feedback, especially on where these cards would be most useful in your workflow, which libraries we should support next, and whether you’ve encountered similar security issues caused by missing context. Website: https:&#x2F;&#x2F;securitycards.rewarelabs.com&#x2F; GitHub Repository: https:&#x2F;&#x2F;github.com&#x2F;Reware-Labs&#x2F;securitycards References [1] Hajipour, Hossein, et al. “CodeLMSec Benchmark: Systematically Evaluating and Finding Security Vulnerabilities in Black-Box Code Language Models.” 2024 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), IEEE, 2024, pp. 684–709. https:&#x2F;&#x2F;doi.org&#x2F;10.1109&#x2F;SaTML59370.2024.00040 . [2] Pearce, Hammond, et al. “Asleep at the Keyboard? Assessing the Security of GitHub Copilot’s Code Contributions.” Communications of the ACM, vol. 68, no. 2, 2025, pp. 96–105. https:&#x2F;&#x2F;doi.org&#x2F;10.1145&#x2F;3610721 . [3] Vero, Mark, et al. “BaxBench: Can LLMs Generate Correct and Secure Backends?” arXiv, 2025, https:&#x2F;&#x2F;doi.org&#x2F;10.48550&#x2F;arXiv.2502.11844 . [4] von Arx, Tobias, et al. “AutoBaxBuilder: Bootstrapping Code Security Benchmarking.” arXiv, 2025, https:&#x2F;&#x2F;doi.org&#x2F;10.48550&#x2F;arXiv.2512.21132 .\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Reware-Labs/securitycards",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49169280",
+    "createdAt": "2026-08-04T16:26:39.047Z"
+  },
+  {
+    "slug": "we-gave-a-voice-agent-an-inner-monologue-so-it-stops-forgetting-hn",
+    "title": "We gave a voice agent an inner monologue so it stops forgetting",
+    "shortDescription": "Проект «We gave a voice agent an inner monologue so it stops forgetting», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «We gave a voice agent an inner monologue so it stops forgetting», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://waterr.ai/research/monologue",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49169257",
+    "createdAt": "2026-08-04T16:26:39.047Z"
+  },
+  {
     "slug": "stonefold-a-deterministic-gateway-between-ai-agents-and-your-systems-hn",
     "title": "Stonefold – a deterministic gateway between AI agents and your systems",
     "shortDescription": "Проект «Stonefold – a deterministic gateway between AI agents and your systems», опубликован сообществом Hacker News.",
