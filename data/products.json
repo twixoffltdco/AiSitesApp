@@ -1,5 +1,85 @@
 [
   {
+    "slug": "cmcp-deny-an-ai-agents-tool-call-and-get-a-signed-receipt-hn",
+    "title": "cMCP, deny an AI agent's tool call and get a signed receipt",
+    "shortDescription": "Проект «cMCP, deny an AI agent's tool call and get a signed receipt», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «cMCP, deny an AI agent's tool call and get a signed receipt», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/agentrust-io/cmcp",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49172545",
+    "createdAt": "2026-08-04T18:11:15.331Z"
+  },
+  {
+    "slug": "give-your-agents-a-personal-internet-based-on-what-youve-surfed-hn",
+    "title": "Give your agents a personal internet based on what you've surfed",
+    "shortDescription": "Проект «Give your agents a personal internet based on what you've surfed», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Give your agents a personal internet based on what you've surfed», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Fergana-Labs/stash/blob/main/docs/ai-native-bookmarks.md",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49171563",
+    "createdAt": "2026-08-04T18:11:15.331Z"
+  },
+  {
+    "slug": "oldhand-a-claudecodex-plugin-to-verify-the-development-flow-end-to-end-hn",
+    "title": "OldHand A Claude/Codex plugin to verify the development flow end-to-end",
+    "shortDescription": "I built this clod code or codec skill because I just love using these AI agents to write code. It&#x27;s just so convenient to do. But when…",
+    "fullDescription": "I built this clod code or codec skill because I just love using these AI agents to write code. It&#x27;s just so convenient to do. But when it comes to working in a corporate environment, I have to ultimately follow a Jira ticket or a Asana ticket. Now, when I&#x27;m following those tickets, I am able to do the work, but it&#x27;s not always up to the mark because after all I found AI to hallucinate, Unnecessary code is being written, even though a function for that is already there and can be reused, no proper testing apart from unit test being done so when the QA started testing it they raised a astronomical amount of bugs. So, with Claude and Codex becoming very capable especially with their plugins&#x2F;connectors and computer use ability, I build OldHand that allows for end-to-end ticket development, planning, coding, reusability (combined with Ponytail), QA testing with browser&#x2F;computer use. I would love to get people&#x27;s feedback as it has been helping me a lot with my day-to-day work, but I would like to improve this even further and every feedback helps.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/berwinsingh/oldhand",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49171464",
+    "createdAt": "2026-08-04T18:11:15.331Z"
+  },
+  {
+    "slug": "blender-for-ai-agents-hn",
+    "title": "Blender for AI Agents",
+    "shortDescription": "Creating 3D is hard. LLMs seem to be getting better at tool use and spatial understanding. While MCPs have proved to be a good way to use t…",
+    "fullDescription": "Creating 3D is hard. LLMs seem to be getting better at tool use and spatial understanding. While MCPs have proved to be a good way to use these tools- the current methods have these challenges: - Access to scene graph and core C modules of Blender - Lack of parallelism, only way is to run blender headless - Lack of deterministic and fast verification layer - Inference stack- only way to use inference is to hook another MCP We&#x27;re building Mixar, think Cursor for 3D. One access point to all generative inference, an agent to build scenes&#x2F;blockouts, do boring stuff like UVs and export standard formats(.glb&#x2F;gltf&#x2F;obj&#x2F;gbx&#x2F;usd etc.) Try it: https:&#x2F;&#x2F;mixar.app - first week is free. Would love to get your feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://www.mixar.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49171258",
+    "createdAt": "2026-08-04T18:11:15.331Z"
+  },
+  {
+    "slug": "ex-deloitte-auditor-open-sourced-the-whole-soc-2-method-for-your-ai-hn",
+    "title": "Ex-Deloitte auditor open-sourced the whole SOC 2 method for your AI",
+    "shortDescription": "Проект «Ex-Deloitte auditor open-sourced the whole SOC 2 method for your AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Ex-Deloitte auditor open-sourced the whole SOC 2 method for your AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 29 баллов.",
+    "url": "https://github.com/Chiaro-HQ/methodology",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49171140",
+    "createdAt": "2026-08-04T18:11:15.331Z"
+  },
+  {
     "slug": "keyhunter-skill-github",
     "title": "keyHunter-skill",
     "shortDescription": "Academic research toolkit for AI gateway panel security studies (Sub2API / New-API / One-API): FOFA discovery, fingerprinting, credential-h…",
