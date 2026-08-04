@@ -1,5 +1,123 @@
 [
   {
+    "slug": "ser2mcp-github",
+    "title": "ser2mcp",
+    "shortDescription": "UART serial port MCP server: expose local serial ports to AI assistants as standard MCP tools（串口转 MCP 服务器，让 AI 直接读写串口）",
+    "fullDescription": "UART serial port MCP server: expose local serial ports to AI assistants as standard MCP tools（串口转 MCP 服务器，让 AI 直接读写串口）\n\nАвтор: woooooooooolf. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/woooooooooolf/ser2mcp",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "hardware",
+      "mcp",
+      "model-context-protocol",
+      "rust",
+      "serial",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1321660827",
+    "createdAt": "2026-08-04T09:19:38.906Z"
+  },
+  {
+    "slug": "autonomous-daily-ai-news-briefing-blog-hn",
+    "title": "Autonomous daily AI news briefing blog",
+    "shortDescription": "I like keeping myself in the loop of AI progress, and with an amount of things that are happening in the industry it has been quite a chall…",
+    "fullDescription": "I like keeping myself in the loop of AI progress, and with an amount of things that are happening in the industry it has been quite a challenge. Yes there are plenty of AI newsletters and news-sources, including HN itself. However, all of those require significant time commitment. I was looking for something in a 5-minute-morning-briefing format, so I built it myself. Idea is pretty simple - every morning a pipeline is launched by cron on my raspberry pi. It crawls a few news sources (HN, reddit, tech crunch etc.) , aggregates, deduplicates and rates the news based on importance, then writes a blog posts with an overview and publishes it on the blog. This lets me quickly get up-to-speed and follow links for topics I want to explore in-depth. I also included key feedback from the community discussion which turned out to add a bit of &quot;flavor&quot; for otherwise plain news reading. I also added a podcast and newsletter format; I myself prefer to read it directly on the website but occasionally I can give it a listen instead if I&#x27;m for example traveling somewhere. It turned out pretty great if you ask me. After all, isn&#x27;t this what AI is good at - summarizing text, and presenting it in a slightly different format?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ai0.news/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49166029",
+    "createdAt": "2026-08-04T09:19:38.415Z"
+  },
+  {
+    "slug": "ai-presentaions-posters-and-all-visual-designs-hn",
+    "title": "AI Presentaions, Posters, and All Visual Designs",
+    "shortDescription": "Проект «AI Presentaions, Posters, and All Visual Designs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Presentaions, Posters, and All Visual Designs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://starrykit.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49165929",
+    "createdAt": "2026-08-04T09:19:38.415Z"
+  },
+  {
+    "slug": "a-genai-image-benchmark-for-production-design-work-hn",
+    "title": "A GenAI image benchmark for production design work",
+    "shortDescription": "Проект «A GenAI image benchmark for production design work», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A GenAI image benchmark for production design work», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://img.ly/ai-benchmarks/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49165767",
+    "createdAt": "2026-08-04T09:19:38.415Z"
+  },
+  {
+    "slug": "fruman-a-2d-souls-like-game-demo-running-in-web-browser-hn",
+    "title": "Fruman – A 2D souls-like game demo running in web browser",
+    "shortDescription": "Hi HN, As a souls-like game lover, I&#x27;ve tried use pure JavaScript acomplished a simple souls-like action game, it&#x27;s mostly coding…",
+    "fullDescription": "Hi HN, As a souls-like game lover, I&#x27;ve tried use pure JavaScript acomplished a simple souls-like action game, it&#x27;s mostly coding with AI agents (codex &#x2F; claude).You can create your own map and scenes with the editor tool, and this is just a little demo. https:&#x2F;&#x2F;fruman.baklab.app Source code: https:&#x2F;&#x2F;github.com&#x2F;oodzchen&#x2F;fruman\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://fruman.baklab.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49165187",
+    "createdAt": "2026-08-04T09:19:38.415Z"
+  },
+  {
+    "slug": "visualize-in-2d3d-map-any-github-users-followers-hn",
+    "title": "Visualize in 2D/3D map any GitHub user's followers",
+    "shortDescription": "It&#x27;s a project that aims to look at your github data in geocultural point of view. Next phase will be add a map for stargazers and for…",
+    "fullDescription": "It&#x27;s a project that aims to look at your github data in geocultural point of view. Next phase will be add a map for stargazers and forks. Actually it show an interactive 2d and 3d of your followers by country.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/ThierryRakotomanana/GitCharta",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49165061",
+    "createdAt": "2026-08-04T09:19:38.415Z"
+  },
+  {
+    "slug": "generate-a-plan-visualization-with-dependencies-to-parallelize-projects-hn",
+    "title": "Generate a plan visualization with dependencies to parallelize projects",
+    "shortDescription": "You want to plan something big: a move, a renovation, a launch. Planning is important because it lets you parallelize independent projects.…",
+    "fullDescription": "You want to plan something big: a move, a renovation, a launch. Planning is important because it lets you parallelize independent projects. Planning is difficult because it&#x27;s hard to see how every step depends on the others. This app is making planning easy by using generative AI to map the dependencies for you.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://reloadium.com/reloadium-plans/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49165003",
+    "createdAt": "2026-08-04T09:19:38.415Z"
+  },
+  {
     "slug": "auto-vision-bridge-github",
     "title": "auto-vision-bridge",
     "shortDescription": "Auto Vision Bridge：给不支持视觉的大模型（DeepSeek 等）自动补上看图能力 - 零依赖自动识图中转层 + AI 一键部署 + 附赠 7 家免费视觉模型 MCP",
