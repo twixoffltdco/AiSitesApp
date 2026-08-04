@@ -1,5 +1,134 @@
 [
   {
+    "slug": "wai-play-github",
+    "title": "wai-play",
+    "shortDescription": "WAI Play - AI web game testing and quality evaluation platform",
+    "fullDescription": "WAI Play - AI web game testing and quality evaluation platform\n\nАвтор: waiterve. Найдено в GitHub Trending (AI-тематика). ⭐ 10 звёзд.",
+    "url": "https://github.com/waiterve/wai-play",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "game",
+      "game-testing",
+      "python",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1322640431",
+    "createdAt": "2026-08-04T11:38:41.264Z"
+  },
+  {
+    "slug": "privara-github",
+    "title": "privara",
+    "shortDescription": "Privacy-first, local-first meeting transcription for macOS, Windows, and Linux.",
+    "fullDescription": "Privacy-first, local-first meeting transcription for macOS, Windows, and Linux.\n\nАвтор: frgarciames. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://frgarciames.github.io/privara",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "desktop",
+      "local",
+      "rust",
+      "solidjs",
+      "tauri",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1321985878",
+    "createdAt": "2026-08-04T11:38:41.264Z"
+  },
+  {
+    "slug": "lazy-claude-github",
+    "title": "lazy-claude",
+    "shortDescription": "🦞 A LazyGit-style terminal UI for managing Claude Code sessions and project history.",
+    "fullDescription": "🦞 A LazyGit-style terminal UI for managing Claude Code sessions and project history.\n\nАвтор: brunos3d. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://www.npmjs.com/package/lazy-claude-tui",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "bash",
+      "claude",
+      "command",
+      "cp",
+      "fix",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1321189691",
+    "createdAt": "2026-08-04T11:38:41.265Z"
+  },
+  {
+    "slug": "bourdon-one-shared-memory-file-for-claude-code-codex-cursor-hn",
+    "title": "Bourdon – one shared memory file for Claude Code, Codex, Cursor",
+    "shortDescription": "Проект «Bourdon – one shared memory file for Claude Code, Codex, Cursor», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Bourdon – one shared memory file for Claude Code, Codex, Cursor», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://bourdon.ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49167132",
+    "createdAt": "2026-08-04T11:38:41.110Z"
+  },
+  {
+    "slug": "turn-one-plain-english-question-into-a-decision-ready-market-hn",
+    "title": "Turn one plain-English question into a decision-ready market",
+    "shortDescription": "Проект «Turn one plain-English question into a decision-ready market», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Turn one plain-English question into a decision-ready market», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://researchmaster.ai/en",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49166825",
+    "createdAt": "2026-08-04T11:38:41.110Z"
+  },
+  {
+    "slug": "i-built-a-tool-to-find-your-first-users-before-they-find-you-hn",
+    "title": "I built a tool to find your first users before they find you",
+    "shortDescription": "Проект «I built a tool to find your first users before they find you», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built a tool to find your first users before they find you», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://agenmatic.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49166707",
+    "createdAt": "2026-08-04T11:38:41.110Z"
+  },
+  {
+    "slug": "polytrip-crowd-funded-group-trip-planning-with-ai-hn",
+    "title": "PolyTrip – crowd-funded group trip planning with AI",
+    "shortDescription": "Проект «PolyTrip – crowd-funded group trip planning with AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «PolyTrip – crowd-funded group trip planning with AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://polytrip.co/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49166559",
+    "createdAt": "2026-08-04T11:38:41.110Z"
+  },
+  {
     "slug": "ser2mcp-github",
     "title": "ser2mcp",
     "shortDescription": "UART serial port MCP server: expose local serial ports to AI assistants as standard MCP tools（串口转 MCP 服务器，让 AI 直接读写串口）",
