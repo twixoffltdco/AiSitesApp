@@ -1,5 +1,75 @@
 [
   {
+    "slug": "hermes-brasil-github",
+    "title": "hermes-brasil",
+    "shortDescription": "Comunidade brasileira de Hermes Agent (Nous Research) — skills, guias e integrações em português.",
+    "fullDescription": "Comunidade brasileira de Hermes Agent (Nous Research) — skills, guias e integrações em português.\n\nАвтор: Hermes-brasil. Найдено в GitHub Trending (AI-тематика). ⭐ 36 звёзд.",
+    "url": "https://hermesatlas.com",
+    "category": "ai-tool",
+    "tags": [
+      "agentes",
+      "agentskills",
+      "ai",
+      "automacao",
+      "brasil",
+      "brazil",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1322098015",
+    "createdAt": "2026-08-04T20:08:45.254Z"
+  },
+  {
+    "slug": "recruitinginterview-tool-for-recs-hiring-managers-and-interviewers-hn",
+    "title": "Recruiting/interview tool for recs, hiring managers and interviewers",
+    "shortDescription": "I do see that a lot of startups here are hiring. I would like to introduce a simple tool that can save a lot of time for you and your team.…",
+    "fullDescription": "I do see that a lot of startups here are hiring. I would like to introduce a simple tool that can save a lot of time for you and your team. Last Friday I was on the panel with 2 other folks to do an interview. My boss asked me to focus on a specific area while he asked the other two to focus on two other areas. One hour total. You have to be super efficient with the few questions you get to ask and be fair as well. I used TopRec.io. Dropped the JD and resume and boom! In seconds I get a strength vs gaps analysis and a discrepancy check. Also &quot;Chat with resume&quot; feature (like ChatGPT) helped me find out what I could ask for my focus area - distributed systems and event driven architecture in the context of his experience combining these with Adobe MarTech platform. No trick questions but highly efficient ones hyper tailored to really see if the person had done what they claim in resume. This saved me 15-30 mins of my time during a very busy day, as I take the responsibility very seriously. It adds up when a team member has to do say 3-4-5 interviews a week. For hiring managers it can be a lot worse as they would first talk to all shortlisted candidates from the recruiter. Now imagine the pain a recruiter has to go through. This is a product that costs just as much as you would spend on a decent lunch - $30 for ranking and working with up to 25 candidates - as a team collaboratively, in different roles. Or $10 if you just need a personal workspace for you. PAY PER JOB! NO subscription, NO annual contract, NO setup time. In 30 seconds you can start screening and chatting etc. There is no product like this in the market with such ease of use and no binding contracts, and hiring managers and recruiters are creating crude AI agents to do some of what TopRec does. I heard this from folks at EY and TCS where those companies pay 1000s a month for ATS and other HR&#x2F;Recruiting systems with annual contracts and massive fees. What do you think of my product? I develpped this as a byproduct while developing the larger platform SargaAI (SargaAI.com) which will focus on candidates first. There are strategic and tactical reasons also behind launching TopRec.io as a separate product which you might be guessing already. Any feedback is most welcome. I would love to see even the most brutal ones. -Girish Founder, SargaAI.com &amp; TopRec.io\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://toprec.io",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49174221",
+    "createdAt": "2026-08-04T20:08:44.890Z"
+  },
+  {
+    "slug": "maple-preview-ternary-20b-moe-running-at-120-toks-on-a-iphone-hn",
+    "title": "Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone",
+    "shortDescription": "Проект «Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://deepgrove.ai/maple-preview",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49173984",
+    "createdAt": "2026-08-04T20:08:44.890Z"
+  },
+  {
+    "slug": "block-blast-ai-solver-solve-puzzle-boards-from-a-screenshot-hn",
+    "title": "Block Blast AI Solver – Solve Puzzle Boards from a Screenshot",
+    "shortDescription": "Проект «Block Blast AI Solver – Solve Puzzle Boards from a Screenshot», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Block Blast AI Solver – Solve Puzzle Boards from a Screenshot», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.blockblastaisolver.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49173067",
+    "createdAt": "2026-08-04T20:08:44.891Z"
+  },
+  {
     "slug": "cmcp-deny-an-ai-agents-tool-call-and-get-a-signed-receipt-hn",
     "title": "cMCP, deny an AI agent's tool call and get a signed receipt",
     "shortDescription": "Проект «cMCP, deny an AI agent's tool call and get a signed receipt», опубликован сообществом Hacker News.",
