@@ -1,5 +1,27 @@
 [
   {
+    "slug": "auto-vision-bridge-github",
+    "title": "auto-vision-bridge",
+    "shortDescription": "Auto Vision Bridge：给不支持视觉的大模型（DeepSeek 等）自动补上看图能力 - 零依赖自动识图中转层 + AI 一键部署 + 附赠 7 家免费视觉模型 MCP",
+    "fullDescription": "Auto Vision Bridge：给不支持视觉的大模型（DeepSeek 等）自动补上看图能力 - 零依赖自动识图中转层 + AI 一键部署 + 附赠 7 家免费视觉模型 MCP\n\nАвтор: nhzhongguo. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/nhzhongguo/auto-vision-bridge",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "deepseek",
+      "image-understanding",
+      "mcp",
+      "openai-compatible",
+      "vision",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1322206456",
+    "createdAt": "2026-08-04T06:25:09.202Z"
+  },
+  {
     "slug": "websiteprompts-github",
     "title": "websiteprompts",
     "shortDescription": "30 free copy-paste prompts that turn Claude Code, Cursor or v0 into a cinematic website — exact colours, easing and z-index, plus a backgro…",
