@@ -1,5 +1,69 @@
 [
   {
+    "slug": "collab-word-in-web-collaborative-near-ms-word-parity-docx-editor-hn",
+    "title": "Collab Word in Web – Collaborative Near MS Word Parity Docx Editor",
+    "shortDescription": "TLDR: Collab WIW is a DOCX editor with MS Word parity that supports real-time collaborative editing between humans and BYO Agents. The coll…",
+    "fullDescription": "TLDR: Collab WIW is a DOCX editor with MS Word parity that supports real-time collaborative editing between humans and BYO Agents. The collab layer is end to end encrypted and uses ephemeral rooms with stable share URLs. Ever collab room lives in only memory. Collaborator saved copies can bring the room back online at the same URL and reconcile offline edits. For BYO Agents, you generate an invite link into Codex or Claude. The AI runs the linked WordInWeb agent package, connects to the document, and opens up a private chat in the browser with the user who invited the agent. Everyone sees its document activity, but only the inviter can chat with and direct it. The MS Word parity DOCX editor: I made a previous HN post about the editor itself. It is a pure JS DOCX editor that renders and edits the original document directly in the DOM instead of converting it into some other format. I benchmarked it pretty heavily against thousands of pages to push for pixel and feature parity, including equations, tables, 3D objects, headers, footnotes, etc... I am not going to get too deep into that because I already posted a ShowHN earlier. The parity report has all of the fixtures I tested and the actual results. Edit: Link to previous HN https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48995304 The server: The collab BE was actually inspired by OpenFront.io :). Users send small edit intents to the server. In an encrypted room the server cannot process those edits because it cannot read them. It just gives each encrypted envelope the next sequence number and sends the same ordered stream to everybody in the room. Collaborative rooms: The rooms are ephemeral and the server keeps their encrypted document state in memory. I chose these constraints because this is a public demo. I wanted people to create and share a document ad-hoc without making an account. I also don&#x27;t your data plz, no thank you. Also because intents are tracked by document there is some support offline editing support and document reconciliation when it comes back up. Its still a bit ugly so there are limits, if the document can&#x27;t be cleanly fast forwarded, the editor will try to reconcile up to 50 intents. If there are no conflicts the document fast forward to 2000 tailing intents. After that point you just gotta create a new draft. Just cleaner that way. I am still actively working on improving this system and figuring out how it can be improved. E2EE: 1. Documents, edits, images, cursor positions, etc... are encrypted in your browser and stay encrypted on the server. The document key is generated in the browser and lives in the share link&#x27;s fragment, and never gets sent to the server. The server just sequences the sealed data. 2. A document also requires require a share code that you send separately from the link. The browser stretches that code and mixes it into key derivation, so the link by itself is not enough to decrypt the room. 4. Resource limits are placed basically everywhere. Blog covers more details.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://collab.word-in-web.com/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49175985",
+    "createdAt": "2026-08-04T23:00:26.294Z"
+  },
+  {
+    "slug": "pleasantries-hn",
+    "title": "Pleasantries",
+    "shortDescription": "Pre-hook scripts for AI coding CLIs that block pleasantry-only prompts like &quot;hi&quot;, &quot;hello&quot;, &quot;ok&quot;, &quot;thank…",
+    "fullDescription": "Pre-hook scripts for AI coding CLIs that block pleasantry-only prompts like &quot;hi&quot;, &quot;hello&quot;, &quot;ok&quot;, &quot;thank you&quot;, etc. Send a real task, not a greeting.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/QAInsights/pleasantries",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49175791",
+    "createdAt": "2026-08-04T23:00:26.294Z"
+  },
+  {
+    "slug": "sign-language-translation-with-smart-glasses-hn",
+    "title": "Sign language translation with smart glasses",
+    "shortDescription": "Hi! I have relatives that speak sign language, and always found it odd that despite unbelievable advances in AI in recent years, the proble…",
+    "fullDescription": "Hi! I have relatives that speak sign language, and always found it odd that despite unbelievable advances in AI in recent years, the problem still felt somewhat neglected. Especially with the advent of wearable tech; to my knowledge, this is the first project that integrates the meta glasses w&#x2F; fingerspelling translation software. As for the technical aspect, I trained a neural net on Google&#x27;s FSboard dataset modeling a CNN + GRU temporal encoder architecture (trained with CTC), and then decoded the output with CTC beam search and a KenLM language model to solve some of the deficiencies with my model. I&#x27;ve also made it cross-platform (web + iOS, with both web screen sharing and the ability to use non smart-glasses). The project is entirely FOSS. I&#x27;m currently working on making the on-device model work cleanly, but unfortunately performance takes a bit of hit on lower-end devices so for now I&#x27;ve opted for hosting the model on Modal. There&#x27;s so much room for improvement, but I&#x27;m happy with this starting point. Let me know what you think, and check out the YouTube demo!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/aadisang/hand-wave",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49175774",
+    "createdAt": "2026-08-04T23:00:26.294Z"
+  },
+  {
+    "slug": "i-gave-my-video-editor-an-mcp-server-so-claude-can-edit-videos-for-me-hn",
+    "title": "I gave my video editor an MCP server so Claude can edit videos for me",
+    "shortDescription": "Проект «I gave my video editor an MCP server so Claude can edit videos for me», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I gave my video editor an MCP server so Claude can edit videos for me», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.shorz.ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49175711",
+    "createdAt": "2026-08-04T23:00:26.294Z"
+  },
+  {
     "slug": "gainz-fast-github",
     "title": "gainz-fast",
     "shortDescription": "gainz.fast challenge repo for agents and submissions",
