@@ -1,5 +1,91 @@
 [
   {
+    "slug": "gainz-fast-github",
+    "title": "gainz-fast",
+    "shortDescription": "gainz.fast challenge repo for agents and submissions",
+    "fullDescription": "gainz.fast challenge repo for agents and submissions\n\nАвтор: metaspartan. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://gainz.fast",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-coding",
+      "ai-model",
+      "ai-tools",
+      "cuda",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1320725849",
+    "createdAt": "2026-08-04T21:47:51.127Z"
+  },
+  {
+    "slug": "watchfire-an-open-source-control-room-for-ai-coding-agents-hn",
+    "title": "Watchfire, an open-source control room for AI coding agents",
+    "shortDescription": "Hey, built watchfire because I wanted a way to run multiple agentsnat the same time without having to click accept permissions. That evolve…",
+    "fullDescription": "Hey, built watchfire because I wanted a way to run multiple agentsnat the same time without having to click accept permissions. That evolved into a way to do it securely, which then evolved into a spec-based dev approach with tasks. Last addition was to add support to expose watchfire as an mcp server. Would love to get feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/watchfire-io/watchfire",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49175040",
+    "createdAt": "2026-08-04T21:47:51.365Z"
+  },
+  {
+    "slug": "jargo-voice-ai-for-golang-hn",
+    "title": "Jargo, Voice AI for Golang",
+    "shortDescription": "Work in progress !",
+    "fullDescription": "Work in progress !\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/gojargo/jargo",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49174608",
+    "createdAt": "2026-08-04T21:47:51.365Z"
+  },
+  {
+    "slug": "visual-ai-tutoring-in-the-browser-hn",
+    "title": "Visual AI Tutoring in the Browser",
+    "shortDescription": "Been working on this full-time for a few months now. It&#x27;s an AI tutoring application that takes in context on your page via Desk View,…",
+    "fullDescription": "Been working on this full-time for a few months now. It&#x27;s an AI tutoring application that takes in context on your page via Desk View, and responds like a real tutor would. It only works in Safari on 2022+ Macbook Pros or 2023+ Macbook Airs. Very particular hardware requirements because it&#x27;s a new kind of product. Feedback welcome!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://useknowable.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49174496",
+    "createdAt": "2026-08-04T21:47:51.365Z"
+  },
+  {
+    "slug": "my-tool-scanned-256-ai-built-apps-and-most-had-exposed-credentials-hn",
+    "title": "My tool scanned 256 AI-built apps and most had exposed credentials",
+    "shortDescription": "All of a sudden everybody wants to build with AI. People in hell want ice water. Built something with AI and don&#x27;t know if it&#x27;s s…",
+    "fullDescription": "All of a sudden everybody wants to build with AI. People in hell want ice water. Built something with AI and don&#x27;t know if it&#x27;s secure? Try necktochoke.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://necktochoke.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49174388",
+    "createdAt": "2026-08-04T21:47:51.365Z"
+  },
+  {
     "slug": "hermes-brasil-github",
     "title": "hermes-brasil",
     "shortDescription": "Comunidade brasileira de Hermes Agent (Nous Research) — skills, guias e integrações em português.",
