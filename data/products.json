@@ -1,5 +1,91 @@
 [
   {
+    "slug": "websiteprompts-github",
+    "title": "websiteprompts",
+    "shortDescription": "30 free copy-paste prompts that turn Claude Code, Cursor or v0 into a cinematic website — exact colours, easing and z-index, plus a backgro…",
+    "fullDescription": "30 free copy-paste prompts that turn Claude Code, Cursor or v0 into a cinematic website — exact colours, easing and z-index, plus a background video that is already hosted.\n\nАвтор: openwarehq. Найдено в GitHub Trending (AI-тематика). ⭐ 27 звёзд.",
+    "url": "https://uiprompts.app",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-tools",
+      "claude",
+      "claude-code",
+      "cursor",
+      "frontend",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1319827487",
+    "createdAt": "2026-08-04T03:47:16.044Z"
+  },
+  {
+    "slug": "benzi-an-ai-coding-assistant-grounded-in-a-live-code-map-hn",
+    "title": "Benzi – An AI coding assistant grounded in a live code map",
+    "shortDescription": "Benzi is a compiler + runtime tracer + harness and AI agent built to understand code from ground up. Challenging traditional RAG and embedd…",
+    "fullDescription": "Benzi is a compiler + runtime tracer + harness and AI agent built to understand code from ground up. Challenging traditional RAG and embedding space approaches, Benzi aims to write code as cleanly as it understands it. Any feedback is greatly appriciated!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://benzi.fly.dev/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49164100",
+    "createdAt": "2026-08-04T03:47:15.869Z"
+  },
+  {
+    "slug": "manhwa-ai-create-webtoons-with-consistent-ai-characters-hn",
+    "title": "Manhwa AI – Create webtoons with consistent AI characters",
+    "shortDescription": "Hi HN, I built Manhwa AI because creating a webtoon with consistent characters still requires a lot of manual work. The product lets users…",
+    "fullDescription": "Hi HN, I built Manhwa AI because creating a webtoon with consistent characters still requires a lot of manual work. The product lets users define their characters, generate a storyboard, create individual panels, add dialogue, and export the finished comic. The main challenge has been maintaining the same face, clothing, and visual style across multiple scenes. It is currently an early version, and I am especially interested in feedback on: 1. Character consistency 2. The storyboard-to-panel workflow 3. Whether the editor provides enough control I built most of the product myself and would be happy to answer technical or product questions.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.manhwaai.net",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49163839",
+    "createdAt": "2026-08-04T03:47:15.869Z"
+  },
+  {
+    "slug": "velokey-one-task-api-for-kling-veo-seedance-and-sora-hn",
+    "title": "Velokey – One Task API for Kling, Veo, Seedance, and Sora",
+    "shortDescription": "Проект «Velokey – One Task API for Kling, Veo, Seedance, and Sora», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Velokey – One Task API for Kling, Veo, Seedance, and Sora», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://velokey.ai",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49163659",
+    "createdAt": "2026-08-04T03:47:15.869Z"
+  },
+  {
+    "slug": "hedgehog-an-opinionated-workflow-for-building-with-ai-hn",
+    "title": "\"Hedgehog\" - An Opinionated workflow for building with AI",
+    "shortDescription": "Проект «\"Hedgehog\" - An Opinionated workflow for building with AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «\"Hedgehog\" - An Opinionated workflow for building with AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/skyf0xx/hedgehog",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49163090",
+    "createdAt": "2026-08-04T03:47:15.869Z"
+  },
+  {
     "slug": "troth-github",
     "title": "troth",
     "shortDescription": "An AI partner whose memory lives on your machine, not in a vendor account. Swap the model, keep the mind.",
