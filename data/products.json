@@ -1,5 +1,91 @@
 [
   {
+    "slug": "research-assistant-github",
+    "title": "research-assistant",
+    "shortDescription": "A local AI research assistant with streaming chat, Hybrid RAG, and document search.",
+    "fullDescription": "A local AI research assistant with streaming chat, Hybrid RAG, and document search.\n\nАвтор: AbdelrhmanEbied. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/AbdelrhmanEbied/research-assistant",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-model",
+      "ai-tools",
+      "fastapi",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1322697593",
+    "createdAt": "2026-08-05T18:03:13.183Z"
+  },
+  {
+    "slug": "ai-agents-gives-its-worst-answers-when-youre-overwhelmed-hn",
+    "title": "AI agents gives its worst answers when you're overwhelmed",
+    "shortDescription": "Проект «AI agents gives its worst answers when you're overwhelmed», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI agents gives its worst answers when you're overwhelmed», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/softcane/human-state-skills",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49186395",
+    "createdAt": "2026-08-05T18:03:12.959Z"
+  },
+  {
+    "slug": "lucidos-a-local-ai-os-that-keeps-the-apps-you-describe-running-hn",
+    "title": "Lucidos, a local AI OS that keeps the apps you describe running",
+    "shortDescription": "Проект «Lucidos, a local AI OS that keeps the apps you describe running», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Lucidos, a local AI OS that keeps the apps you describe running», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/lucidos-dev/lucidos",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49186246",
+    "createdAt": "2026-08-05T18:03:12.959Z"
+  },
+  {
+    "slug": "voca-most-ai-tutors-wander-i-built-one-that-follows-a-curriculum-hn",
+    "title": "Voca – Most AI tutors wander. I built one that follows a curriculum",
+    "shortDescription": "Проект «Voca – Most AI tutors wander. I built one that follows a curriculum», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Voca – Most AI tutors wander. I built one that follows a curriculum», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://vocalessons.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49185996",
+    "createdAt": "2026-08-05T18:03:12.959Z"
+  },
+  {
+    "slug": "lingoforge-ai-powered-ielts-writing-with-instant-feedback-hn",
+    "title": "LingoForge – AI-powered IELTS writing with instant feedback",
+    "shortDescription": "Проект «LingoForge – AI-powered IELTS writing with instant feedback», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «LingoForge – AI-powered IELTS writing with instant feedback», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://lingoforge.net/en/start",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49185860",
+    "createdAt": "2026-08-05T18:03:12.959Z"
+  },
+  {
     "slug": "aiy202608-hd0096-ordo-github",
     "title": "aiy202608-hd0096-ordo",
     "shortDescription": "知序：根据考试日期、学习时间和掌握程度生成并动态调整复习计划",
