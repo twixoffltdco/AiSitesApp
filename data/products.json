@@ -1,5 +1,187 @@
 [
   {
+    "slug": "comfyui-minimaxh3-teacache-github",
+    "title": "ComfyUI-MiniMaxH3-TeaCache",
+    "shortDescription": "Timestep-cache acceleration for MiniMax H3 in ComfyUI — open source, cross-platform, ~3x speedup measured",
+    "fullDescription": "Timestep-cache acceleration for MiniMax H3 in ComfyUI — open source, cross-platform, ~3x speedup measured\n\nАвтор: Icyoung. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/Icyoung/ComfyUI-MiniMaxH3-TeaCache",
+    "category": "image-video",
+    "tags": [
+      "acceleration",
+      "ai",
+      "comfyui",
+      "diffusion",
+      "minimax",
+      "minimax-h3",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1322938008",
+    "createdAt": "2026-08-05T14:19:35.018Z"
+  },
+  {
+    "slug": "vocab-top-ai-powered-vocabulary-builder-that-helps-you-retain-words-hn",
+    "title": "Vocab Top – AI-powered vocabulary builder that helps you retain words",
+    "shortDescription": "Проект «Vocab Top – AI-powered vocabulary builder that helps you retain words», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Vocab Top – AI-powered vocabulary builder that helps you retain words», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://www.vocab.top/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49183110",
+    "createdAt": "2026-08-05T14:19:34.676Z"
+  },
+  {
+    "slug": "i-built-one-of-the-most-advanced-web-based-drumbeat-sequencers-hn",
+    "title": "I built one of the most advanced web-based drum/beat sequencers",
+    "shortDescription": "Hi there! Just wanted to share an open source music project I&#x27;ve been working on. There are already a number of web-based drum machine…",
+    "fullDescription": "Hi there! Just wanted to share an open source music project I&#x27;ve been working on. There are already a number of web-based drum machines, but I think most of them are pretty basic (small fixed drum kit, single pattern, no effects, etc), so I built something more advanced. The app is live here: https:&#x2F;&#x2F;maximecb.github.io&#x2F;groovie The GitHub repo: https:&#x2F;&#x2F;github.com&#x2F;maximecb&#x2F;groovie I&#x27;m calling it Groovie, and notably, it has a timeline view so you can arrange up to 32 patterns into a song. It has 150+ samples you can select from. You can adjust the panning and volume of each row individually. It has delay as well as an LPF&#x2F;HPF filter and swing. It has the ability to send a MIDI clock signal so you can sync it with your hardware (Chrome only), and lastly, it works on mobile phones and tablets too. I designed the interface to be intuitive and to use fairly standard design language (I hate cryptic UIs). The app is fully static with no backend, but you can share beats&#x2F;tracks with others as they can be encoded into the hash part of a link, in a compressed format. It uses multiple tricks to try to shrink the data since many patterns are repetitive, sparse, or reuse data from previous patterns. Since it&#x27;s open source and fully static, it&#x27;s free forever. You don&#x27;t need any kind of account to use it. You can&#x27;t upload new samples in the app, but I am very much open to accepting contributions (pull requests) for new samples, but they have to be public domain &#x2F; CC0 &#x2F; out of copyright. I would love to get more vocal one shots and more metallic sounds. One idea I had was to maybe sample old movies that are out of copyright. For those who like to play with Claude Code, I added a &quot;make a beat&quot; Claude skill to the repo that will generate an arrangement based on your description and give you a shareable link. It might also work with other AI assistants if you point them to the skill (untested, let me know). Let me know what you think. If anybody wants to share some patterns they create, I would love to add them as new examples in the readme.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://maximecb.github.io/groovie/#a_96_bar_berlin_techno_arrangement/FdAnck8QxEjUoejHv1EvwfEK6CeBmwopEcII9JpEroPEWkq1BNYCSCCGuJfjJXg-IlIsCRaIxHSJy3kypqJbIWInFCJnoAKRACYV6k66nWHiLAkKcUOiNHoJYx8spdj6AiiApQ4MYQYiORhGkyyR7YlJspwJJsWUzW0gmxi1h5BQCgiABSWcUtGvoirKXQx6x8gkTVroJyQDVpJIPpIGD0lvoyQHMeHgCKIFK8SfJ5dlnnng",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49182903",
+    "createdAt": "2026-08-05T14:19:34.676Z"
+  },
+  {
+    "slug": "buy-my-agent-mcp-server-search-ai-agents-from-any-mcp-client-hn",
+    "title": "Buy My Agent MCP Server – Search AI Agents from Any MCP Client",
+    "shortDescription": "Проект «Buy My Agent MCP Server – Search AI Agents from Any MCP Client», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Buy My Agent MCP Server – Search AI Agents from Any MCP Client», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.buy-my-agent.com/connect",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49182825",
+    "createdAt": "2026-08-05T14:19:34.677Z"
+  },
+  {
+    "slug": "requestguard-protect-ai-from-following-your-links-hn",
+    "title": "RequestGuard – Protect AI from following your links",
+    "shortDescription": "Проект «RequestGuard – Protect AI from following your links», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «RequestGuard – Protect AI from following your links», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://go.requestguard.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49182793",
+    "createdAt": "2026-08-05T14:19:34.677Z"
+  },
+  {
+    "slug": "learnos-open-source-ai-native-coursera-you-run-locally-hn",
+    "title": "LearnOS – Open-source, AI-native Coursera you run locally",
+    "shortDescription": "Hello HN! I wanted a course platform where the teaching adapts instead of being a video someone recorded in 2019, so I built one. It runs o…",
+    "fullDescription": "Hello HN! I wanted a course platform where the teaching adapts instead of being a video someone recorded in 2019, so I built one. It runs on your machine where you can clone it, add an OpenRouter key, open localhost. No login, no accounts, SQLite locally. It starts empty. You say what you want to learn, and it goes out and pulls publicly available material on the topic, then builds the roadmap and the course from that. So the content is current as of when you generate it rather than whenever someone last re-recorded a lecture. Coursera put $100M into Andrew Ng&#x27;s LearnVector for something in this neighborhood, first courses due next year. Not much I can do about that. What I can do is give away the whole system :)\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://learnos.opara-ai.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49182432",
+    "createdAt": "2026-08-05T14:19:34.677Z"
+  },
+  {
+    "slug": "pageforth-an-on-device-ai-news-reader-that-summarizes-any-site-hn",
+    "title": "PageForth - An on-device AI news reader that summarizes any site",
+    "shortDescription": "I was missing the old RSS readers like NewsFire, but also realized I gave up on those too because reading RSS was a pain in the ass. I just…",
+    "fullDescription": "I was missing the old RSS readers like NewsFire, but also realized I gave up on those too because reading RSS was a pain in the ass. I just want a ton of summaries to skim, and algorithmically go through. So I built a Mac version that uses the Apple local model to do all that. One thing I think a lot of folks might dig here is the Sleeper Hits mode to help find articles from sites you like but haven&#x27;t already been linked to death everywhere else. Would love to know what you all think. I wrote up more about why I built it here: https:&#x2F;&#x2F;ninjasandrobots.com&#x2F;ai-news-reader\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://pageforth.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49182365",
+    "createdAt": "2026-08-05T14:19:34.677Z"
+  },
+  {
+    "slug": "an-ai-agent-that-trades-inside-limits-you-set-starting-on-paper-hn",
+    "title": "An AI agent that trades inside limits you set, starting on paper",
+    "shortDescription": "Проект «An AI agent that trades inside limits you set, starting on paper», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An AI agent that trades inside limits you set, starting on paper», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://quantsignals.xyz/fst",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49182263",
+    "createdAt": "2026-08-05T14:19:34.677Z"
+  },
+  {
+    "slug": "labgrid-mcp-let-ai-agents-drive-real-embedded-hardware-labs-hn",
+    "title": "Labgrid-MCP – let AI agents drive real embedded hardware labs",
+    "shortDescription": "Проект «Labgrid-MCP – let AI agents drive real embedded hardware labs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Labgrid-MCP – let AI agents drive real embedded hardware labs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://github.com/onurcelep/labgrid-mcp",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49182016",
+    "createdAt": "2026-08-05T14:19:34.677Z"
+  },
+  {
+    "slug": "auditbadger-soc-2-and-iso-27001-ai-drafts-you-approve-hn",
+    "title": "AuditBadger – SOC 2 and ISO 27001 – AI drafts, you approve",
+    "shortDescription": "Hi, Wanted to share something I&#x27;ve been working on for over a year. AuditBadger is a compliance management platform that uses AI to wr…",
+    "fullDescription": "Hi, Wanted to share something I&#x27;ve been working on for over a year. AuditBadger is a compliance management platform that uses AI to write policies (there are underlying &quot;templates&quot; with basic requirements), rewrite controls (or trust service criterions) to match the company context, help figure out your own controls, does initial risk assessment, and business continuity planning (which at least gives you an example of how the process should look like). Fun fact - I wanted to share this a year ago, but then I spotted something similar here. The most common comment was about lacking the SOC 2 report, so I decided to pick the fight. I got SOC 2 Type I first, and then recently finished SOC 2 Type II using the tool alone. It took some time - both learning the process, the SOC 2 gotchas, and implementing automatic evidence collection. We&#x27;re now adding support for the European AI Act and NIS 2; HIPAA is already there (though it requires me to explicitly enable it for customers who want to test it), and CyberEssentials and ENS are coming later this year. The platform is now complete, but my business partner (ISO 27001 Lead Auditor) and I are still dog-fooding it. Everything we build is either based on our own pain points or our customers&#x27;—most of them joined our Slack where we try to help them if they get stuck. If you have any questions, I&#x27;ll be happy to answer them all.\n\nНайдено в разделе Show HN на Hacker News. 👍 8 баллов.",
+    "url": "https://auditbadger.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49181982",
+    "createdAt": "2026-08-05T14:19:34.677Z"
+  },
+  {
+    "slug": "feedback-widget-with-screenshots-annotations-and-ai-triage-hn",
+    "title": "Feedback widget with screenshots, annotations, and AI triage",
+    "shortDescription": "Проект «Feedback widget with screenshots, annotations, and AI triage», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Feedback widget with screenshots, annotations, and AI triage», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/makethisbetter/makethisbetter-js",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49181691",
+    "createdAt": "2026-08-05T14:19:34.677Z"
+  },
+  {
     "slug": "create-tweet-style-and-text-first-social-posts-hn",
     "title": "Create tweet-style and text-first social posts",
     "shortDescription": "Hi everyone! I post on a few Facebook pages every day. They all have the same format: a tweet-style post - an image, with a name, a photo,…",
