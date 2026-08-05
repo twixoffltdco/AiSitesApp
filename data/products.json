@@ -1,5 +1,140 @@
 [
   {
+    "slug": "mc-architect-mcp-github",
+    "title": "mc-architect-mcp",
+    "shortDescription": "Minecraft Java Fabric mod and MCP server for AI-assisted world inspection, building, validation, screenshots, and persistent undo.",
+    "fullDescription": "Minecraft Java Fabric mod and MCP server for AI-assisted world inspection, building, validation, screenshots, and persistent undo.\n\nАвтор: AnctyEnly453. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/AnctyEnly453/mc-architect-mcp",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "building-tools",
+      "fabric",
+      "java",
+      "mcp",
+      "minecraft",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1323731499",
+    "createdAt": "2026-08-05T09:35:32.814Z"
+  },
+  {
+    "slug": "ferrox-github",
+    "title": "ferrox",
+    "shortDescription": "Pure-Rust GGUF inference engine with quantized CPU, Metal & CUDA kernels, MoE support, OpenAI-compatible server. Benchmarked head-to-head a…",
+    "fullDescription": "Pure-Rust GGUF inference engine with quantized CPU, Metal & CUDA kernels, MoE support, OpenAI-compatible server. Benchmarked head-to-head against llama.cpp.\n\nАвтор: antonellof. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://www.fratepietro.com/2026/ferrox-rust-gguf-inference-engine/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "inference",
+      "inference-engine",
+      "llm-inference",
+      "rust",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1323101134",
+    "createdAt": "2026-08-05T09:35:32.815Z"
+  },
+  {
+    "slug": "yu-ai-learn-github",
+    "title": "yu-ai-learn",
+    "shortDescription": "2026 年编程导航 AI 编程实战新项目，基于 Taro + React + FastAPI + DeepSeek 的 AI 闯关学习小程序，支持一句话 / 文本主题 AI 出题、闯关答题与即时讲解、联网搜索增强、RAG 私有知识库出题、AI 生图配图、微信登录与通关复盘报告…",
+    "fullDescription": "2026 年编程导航 AI 编程实战新项目，基于 Taro + React + FastAPI + DeepSeek 的 AI 闯关学习小程序，支持一句话 / 文本主题 AI 出题、闯关答题与即时讲解、联网搜索增强、RAG 私有知识库出题、AI 生图配图、微信登录与通关复盘报告。覆盖 LangChain / LangGraph、Chroma 向量库、MySQL、JWT、腾讯云 COS、Tavily 联网搜索、阿里云百炼、微信小程序与云托管。用一套教程掌握 AI 编程全流程，从需求调研到部署上线，不到一周学完，给你的简历增加竞争力\n\nАвтор: liyupi. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://www.codefather.cn/course/2037104890135748610",
+    "category": "developer",
+    "tags": [
+      "agent",
+      "ai",
+      "backend",
+      "copilot",
+      "deepseek",
+      "docker",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1323701867",
+    "createdAt": "2026-08-05T09:35:32.815Z"
+  },
+  {
+    "slug": "claude-studio-pro-github",
+    "title": "claude-studio-pro",
+    "shortDescription": "A governized pipeline fit for Claude Code to deliver quality output comparable to an established team of software and web engineers within…",
+    "fullDescription": "A governized pipeline fit for Claude Code to deliver quality output comparable to an established team of software and web engineers within modern standards\n\nАвтор: harudayoo. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/harudayoo/claude-studio-pro",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-coding",
+      "ai-tools",
+      "web",
+      "web-app",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1322709294",
+    "createdAt": "2026-08-05T09:35:32.815Z"
+  },
+  {
+    "slug": "modelplane-one-openai-compatible-gateway-for-ai-models-hn",
+    "title": "ModelPlane, one OpenAI-compatible gateway for AI models",
+    "shortDescription": "Проект «ModelPlane, one OpenAI-compatible gateway for AI models», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ModelPlane, one OpenAI-compatible gateway for AI models», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://modelplane.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49180124",
+    "createdAt": "2026-08-05T09:35:32.526Z"
+  },
+  {
+    "slug": "guidedreview-a-chrome-extension-that-helps-review-ai-generated-prs-hn",
+    "title": "GuidedReview, a Chrome extension that helps review AI generated PRs",
+    "shortDescription": "Every company I see has an automated code review agent set up in their repository. It doesn&#x27;t solve the code review problem. The autom…",
+    "fullDescription": "Every company I see has an automated code review agent set up in their repository. It doesn&#x27;t solve the code review problem. The automated review agents cannot be trusted the same way coding agents cannot be trusted. They&#x27;re very useful for finding bugs and edge cases you&#x27;ve missed, but they lack something only you have — &quot;taste.&quot; You have more context. You know the people, the business, and the product better than any coding agent. You know when an abstraction is unnecessary. You know what needs a comment. You know where to break the rules. And, for that... Nothing beats &quot;reading&quot; the code. Problem is, reading code is not easy. It&#x27;s even harder if your tools are designed for storing code rather than reading it. That&#x27;s why I built Guided Review. It&#x27;s a chrome extension that converts your Github PR into a guided walkthrough so you can actually read code in clustered changes (not just big scrollable list of file changes in alphabetical order).\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://guidedreview.dev",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49179546",
+    "createdAt": "2026-08-05T09:35:32.526Z"
+  },
+  {
+    "slug": "an-ai-office-work-benchmark-and-4-bugs-we-found-in-our-own-judge-hn",
+    "title": "An AI office-work benchmark, and 4 bugs we found in our own judge",
+    "shortDescription": "Проект «An AI office-work benchmark, and 4 bugs we found in our own judge», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An AI office-work benchmark, and 4 bugs we found in our own judge», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/dongsheng123132/ai2work-bench",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49179484",
+    "createdAt": "2026-08-05T09:35:32.526Z"
+  },
+  {
     "slug": "dingyuanying-skill-github",
     "title": "dingyuanying-skill",
     "shortDescription": "丁元英《遥远的救世主》思维分析框架 — 10 个可调用的思维角度，用于战略判断、竞争博弈、文化洞察与人生方向分析",
