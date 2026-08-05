@@ -1,5 +1,53 @@
 [
   {
+    "slug": "create-tweet-style-and-text-first-social-posts-hn",
+    "title": "Create tweet-style and text-first social posts",
+    "shortDescription": "Hi everyone! I post on a few Facebook pages every day. They all have the same format: a tweet-style post - an image, with a name, a photo,…",
+    "fullDescription": "Hi everyone! I post on a few Facebook pages every day. They all have the same format: a tweet-style post - an image, with a name, a photo, and the body. First time ever, I searched for this template and couldn&#x27;t find none. Tried Canva, searched for templates, find none either. Then I designed one from scratch on Canva. Now, I want others to never design it again. Simple app. A tweet-style template. You change the photo, name, and add your content, then download the image as JPG to post on Socials. Very simple. No login. No backend. No AI features. 100% free. Built for myself - but might be useful to others. Enjoy!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.postsfromtemplates.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49181591",
+    "createdAt": "2026-08-05T11:57:56.826Z"
+  },
+  {
+    "slug": "nodes-a-native-macos-markdown-editor-that-runs-its-ai-on-device-hn",
+    "title": "Nodes – A native macOS Markdown editor that runs its AI on device",
+    "shortDescription": "Проект «Nodes – A native macOS Markdown editor that runs its AI on device», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Nodes – A native macOS Markdown editor that runs its AI on device», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://nodes-web.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49181226",
+    "createdAt": "2026-08-05T11:57:56.826Z"
+  },
+  {
+    "slug": "prompt-like-a-pro-master-ai-with-better-prompts-hn",
+    "title": "Prompt Like a Pro – Master AI with Better Prompts",
+    "shortDescription": "Проект «Prompt Like a Pro – Master AI with Better Prompts», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Prompt Like a Pro – Master AI with Better Prompts», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.promptlikea.pro/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49181097",
+    "createdAt": "2026-08-05T11:57:56.826Z"
+  },
+  {
     "slug": "mc-architect-mcp-github",
     "title": "mc-architect-mcp",
     "shortDescription": "Minecraft Java Fabric mod and MCP server for AI-assisted world inspection, building, validation, screenshots, and persistent undo.",
