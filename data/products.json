@@ -1,5 +1,97 @@
 [
   {
+    "slug": "te-speed-minimaxh3-oss-github",
+    "title": "TE-Speed-MiniMaxH3-OSS",
+    "shortDescription": "MiniMax-H3超级缓存加速插件",
+    "fullDescription": "MiniMax-H3超级缓存加速插件\n\nАвтор: HELPMEEADICE. Найдено в GitHub Trending (AI-тематика). ⭐ 112 звёзд.",
+    "url": "https://github.com/HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "lgplv3",
+      "minimax",
+      "minimax-h3",
+      "pytroch",
+      "video",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1322187842",
+    "createdAt": "2026-08-05T20:06:45.057Z"
+  },
+  {
+    "slug": "vibecodingex-github",
+    "title": "vibecodingex",
+    "shortDescription": "AI destekli yerel işletme keşif ve saha satış aracı. Google Places ile çevredeki işletmeleri bul, Gemini ile her biri için özel yazılım fik…",
+    "fullDescription": "AI destekli yerel işletme keşif ve saha satış aracı. Google Places ile çevredeki işletmeleri bul, Gemini ile her biri için özel yazılım fikri + satış pitch'i üret. Nuxt 4, SQLite, %100 yerel.\n\nАвтор: eticmedya. Найдено в GitHub Trending (AI-тематика). ⭐ 13 звёзд.",
+    "url": "https://github.com/eticmedya/vibecodingex",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "gemini-api",
+      "google-places-api",
+      "nuxt",
+      "sales-tool",
+      "sqlite",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1324240706",
+    "createdAt": "2026-08-05T20:06:45.057Z"
+  },
+  {
+    "slug": "cloud-based-firecracker-vms-for-agents-with-email-domains-and-wallets-hn",
+    "title": "Cloud based firecracker VMs for agents, with email, domains and wallets",
+    "shortDescription": "For the work I&#x27;m dealing with currently. I needed my agents to have setup with its own email, an ngrok tunnel (reach urls publicly), a…",
+    "fullDescription": "For the work I&#x27;m dealing with currently. I needed my agents to have setup with its own email, an ngrok tunnel (reach urls publicly), a crypto wallet with a private key...that&#x27;s basically it, the agent gets access to all of it as the base for the work. Problem is I&#x27;m building stuff fast and my machine is always occupied. CPUs pegged, multiple worktrees. Also lets grab another ngrok domain and give it another wallet, basically set up the whole system again every time. I didn&#x27;t want to just spin something up on Digital Ocean or AWS because of the cost so then you have to tear it all down when I&#x27;m done and set it up again when needed, it was so frustrating. plus setting up api keys for the agent every single time, it was a mess. So I ended up building this project where I just boot a machine and only pay for the usage. Each machine is a isolated disposable firecracker vm with root in the browser, and it immediately gets its own email inbox and a public https url, plus an evm and a solana wallet for onchain stuff. now I boot as many as I want per feature and when its done I pause the machine to save on cost and boot it right up when needed. It has made my productivity sky rocket! I can even boot multiple machines (one to build and the other to QA using a headless browser) and they talk directly to each other via ssh passwordless login if needed. I would love for people to try it for building their own projects and tell me what they think, I&#x27;d really appreciate it.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://zipbox.ai/setup/claude",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49187992",
+    "createdAt": "2026-08-05T20:06:44.935Z"
+  },
+  {
+    "slug": "learning-nix-with-labcraft-hn",
+    "title": "Learning Nix with LabCraft",
+    "shortDescription": "LabCraft is an AI-mentored learning platform. It is NOT a chatbot! Instead, it consists of course curriculum and an instrumented playground…",
+    "fullDescription": "LabCraft is an AI-mentored learning platform. It is NOT a chatbot! Instead, it consists of course curriculum and an instrumented playground where learners can safely practice what they learn. The AI mentor observes the user&#x27;s actions in the playground, and guides them towards the objective when they are stuck. This loop is iterated upon over time to improve the curriculum, the playground, and the mentor, all in service of providing to provide a better learning experience. Currently, I&#x27;m focussed on Nix&#x2F;NixOS. It is a useful piece of technology with a steep learning curve, and my goal is for LabCraft to help users overcome that. The playground consists of Linux VMs with instrumented shells that allows the AI mentor to observe the user running commands and guiding them as needed. Part 1 of ~48 parts of the Nix&#x2F;NixOS course is live for all users today. I&#x27;m looking for feedback from users on how and where we can improve the learning experience.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.labcraft.dev/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49187128",
+    "createdAt": "2026-08-05T20:06:44.935Z"
+  },
+  {
+    "slug": "hacker-news-with-reduced-priority-for-ai-driven-content-hn",
+    "title": "Hacker News with reduced priority for AI driven content",
+    "shortDescription": "Проект «Hacker News with reduced priority for AI driven content», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Hacker News with reduced priority for AI driven content», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 20 баллов.",
+    "url": "https://sprinklz.io/public/nncrnx74ykir",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49186767",
+    "createdAt": "2026-08-05T20:06:44.935Z"
+  },
+  {
     "slug": "research-assistant-github",
     "title": "research-assistant",
     "shortDescription": "A local AI research assistant with streaming chat, Hybrid RAG, and document search.",
