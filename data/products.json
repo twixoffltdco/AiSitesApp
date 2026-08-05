@@ -1,5 +1,59 @@
 [
   {
+    "slug": "alad-github",
+    "title": "ALAD",
+    "shortDescription": "Real-time AI voice dubbing for any Chrome tab — 78 languages, powered by Gemini 3.5 Live Translate",
+    "fullDescription": "Real-time AI voice dubbing for any Chrome tab — 78 languages, powered by Gemini 3.5 Live Translate\n\nАвтор: navidseyedain. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/navidseyedain/ALAD",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "chrome-extension",
+      "dubbing",
+      "gemini",
+      "gemini-api",
+      "google-gemini",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1322807397",
+    "createdAt": "2026-08-05T03:58:38.664Z"
+  },
+  {
+    "slug": "memcode-launches-a-new-terminal-coding-agent-hn",
+    "title": "Memcode launches a new terminal coding agent",
+    "shortDescription": "Memcode is a new developer platform currently in public beta. It includes a coding agent, chat, reusable agents, DataHub, and a Lovable-sty…",
+    "fullDescription": "Memcode is a new developer platform currently in public beta. It includes a coding agent, chat, reusable agents, DataHub, and a Lovable-style website generator. The coding agent is heavily inspired by Claude Code and works across all frontier models as well as open-weight models such as Kimi and GLM. Memcode was designed to stay in sync with you and behave more like a human coworker, with persistent memory and state recall. It grew out of constant frustration with existing coding agents. If your current coding agent already works great for you, Memcode may not be especially compelling. But if you regularly find yourself repeating context, correcting lost assumptions, or fighting to keep an agent on track, or you simply enjoy trying new developer tools, give Memcode a try. https:&#x2F;&#x2F;memcode.ai\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.memcode.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49177986",
+    "createdAt": "2026-08-05T03:58:38.409Z"
+  },
+  {
+    "slug": "ai-gateway-open-source-integrated-with-cursor-and-open-router-hn",
+    "title": "AI gateway open source integrated with cursor and open router",
+    "shortDescription": "Проект «AI gateway open source integrated with cursor and open router», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI gateway open source integrated with cursor and open router», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.routerfuel.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49177455",
+    "createdAt": "2026-08-05T03:58:38.409Z"
+  },
+  {
     "slug": "sparkfetch-github",
     "title": "sparkfetch",
     "shortDescription": "🔥 Turn any URL into clean, structured, LLM-ready content. The open-source web fetching & extraction API.",
