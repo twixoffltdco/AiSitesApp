@@ -1,5 +1,81 @@
 [
   {
+    "slug": "sparkfetch-github",
+    "title": "sparkfetch",
+    "shortDescription": "🔥 Turn any URL into clean, structured, LLM-ready content. The open-source web fetching & extraction API.",
+    "fullDescription": "🔥 Turn any URL into clean, structured, LLM-ready content. The open-source web fetching & extraction API.\n\nАвтор: Sparkfetch. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://sparkfetch.site",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "api",
+      "content-extraction",
+      "data-extraction",
+      "html-to-markdown",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1323482446",
+    "createdAt": "2026-08-05T00:53:07.774Z"
+  },
+  {
+    "slug": "nereus-github",
+    "title": "Nereus",
+    "shortDescription": "AI-тьютор, работающий по принципу автоматизированного учебного процесса — от Roadmap до уверенных практических навыков!",
+    "fullDescription": "AI-тьютор, работающий по принципу автоматизированного учебного процесса — от Roadmap до уверенных практических навыков!\n\nАвтор: nereuslabs. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/nereuslabs/Nereus",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "chainlit",
+      "langgraph",
+      "ollama",
+      "ollama-api",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1321857835",
+    "createdAt": "2026-08-05T00:53:07.774Z"
+  },
+  {
+    "slug": "a-terminal-ai-coding-agent-that-compiles-natively-on-termux-no-root-hn",
+    "title": "A terminal AI coding agent that compiles natively on Termux – no root",
+    "shortDescription": "Проект «A terminal AI coding agent that compiles natively on Termux – no root», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A terminal AI coding agent that compiles natively on Termux – no root», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.reddit.com/r/termux/s/FqS76rc2z3",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49177151",
+    "createdAt": "2026-08-05T00:53:07.648Z"
+  },
+  {
+    "slug": "misalignments-when-using-ai-for-hacking-hn",
+    "title": "Misalignments when using AI for hacking",
+    "shortDescription": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our…",
+    "fullDescription": "I wrote this article to breakdown some of the recent misalignment cases where models have broken out of containment in conjunction with our work at Vulnetic and how we prevent these mishaps in production.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://blog.vulnetic.ai/ai-misalignment-and-penetration-testing-e812194b67ca?sharedUserId=Vulnetic-CEO",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49177018",
+    "createdAt": "2026-08-05T00:53:07.648Z"
+  },
+  {
     "slug": "collab-word-in-web-collaborative-near-ms-word-parity-docx-editor-hn",
     "title": "Collab Word in Web – Collaborative Near MS Word Parity Docx Editor",
     "shortDescription": "TLDR: Collab WIW is a DOCX editor with MS Word parity that supports real-time collaborative editing between humans and BYO Agents. The coll…",
