@@ -1,5 +1,55 @@
 [
   {
+    "slug": "dingyuanying-skill-github",
+    "title": "dingyuanying-skill",
+    "shortDescription": "丁元英《遥远的救世主》思维分析框架 — 10 个可调用的思维角度，用于战略判断、竞争博弈、文化洞察与人生方向分析",
+    "fullDescription": "丁元英《遥远的救世主》思维分析框架 — 10 个可调用的思维角度，用于战略判断、竞争博弈、文化洞察与人生方向分析\n\nАвтор: wangyuhao07. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/wangyuhao07/dingyuanying-skill",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "skill",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1322562047",
+    "createdAt": "2026-08-05T06:33:12.606Z"
+  },
+  {
+    "slug": "a-file-based-protocol-for-two-ai-agents-to-talk-until-they-agree-hn",
+    "title": "A file-based protocol for two AI agents to talk until they agree",
+    "shortDescription": "Проект «A file-based protocol for two AI agents to talk until they agree», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A file-based protocol for two AI agents to talk until they agree», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://agent-talk.reindent.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49179099",
+    "createdAt": "2026-08-05T06:33:12.386Z"
+  },
+  {
+    "slug": "rever-browser-ai-agent-browser-for-reverse-engineering-hn",
+    "title": "Rever-browser – AI-agent browser for reverse-engineering",
+    "shortDescription": "Проект «Rever-browser – AI-agent browser for reverse-engineering», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Rever-browser – AI-agent browser for reverse-engineering», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/greekr4/rever-browser",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49179037",
+    "createdAt": "2026-08-05T06:33:12.386Z"
+  },
+  {
     "slug": "alad-github",
     "title": "ALAD",
     "shortDescription": "Real-time AI voice dubbing for any Chrome tab — 78 languages, powered by Gemini 3.5 Live Translate",
