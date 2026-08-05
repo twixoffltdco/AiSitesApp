@@ -1,5 +1,21 @@
 [
   {
+    "slug": "cityedit-open-source-map-for-voting-on-nyc-street-changes-hn",
+    "title": "CityEdit – Open-source map for voting on NYC street changes",
+    "shortDescription": "CityEdit (cityedit.org, https:&#x2F;&#x2F;github.com&#x2F;edbltn&#x2F;city-edit ) is a map where anyone can propose street changes, e.g. sa…",
+    "fullDescription": "CityEdit (cityedit.org, https:&#x2F;&#x2F;github.com&#x2F;edbltn&#x2F;city-edit ) is a map where anyone can propose street changes, e.g. safer crossings, new bike lanes, improved tree beds. Neighbors can then vote on those proposals. We just soft launched the app by hanging posters with QR codes at NYC&#x27;s statistically most dangerous intersections (from open crash data at https:&#x2F;&#x2F;data.cityofnewyork.us&#x2F;Public-Safety&#x2F;Motor-Vehicle-Co... ). Read more at https:&#x2F;&#x2F;sphericalharmonics.substack.com&#x2F;p&#x2F;city-edit-first-ed... (A poster turns out to be a great distribution channel - it reaches exactly the people who use that street, when they are using it!) The ultimate lofty vision is to build a sensorimotor loop that can awaken a city&#x27;s collective consciousness: the community perceives its desires, proposes, votes, acts. Two disclaimers: 1. A vote on a map is more of a signal than a mandate, and may be unlikely to inspire government action. Instead, for now, we are going to enact what changes we can through some cheeky tactical urbanism. ( https:&#x2F;&#x2F;luma.com&#x2F;3mvlme31 ) 2. There is selection and presentation bias inherent to how we&#x27;ve built this. Our aim is to be as transparent as possible about who is participating, and who is missing, rather than faking general consensus. We&#x27;re also seeding maps with existing commute data to fill in gaps wherever we can (e.g. Citibike trip data on the NYC Bikes map) Critiques are welcome, especially skeptical takes on whether this type of civic feedback loop can work. But please be constructive too!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://cityedit.org/m/nyc-proposals",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49190690",
+    "createdAt": "2026-08-05T23:59:16.711Z"
+  },
+  {
     "slug": "aiy202608-hd0086-aiiiiiiieeeeeee-github",
     "title": "aiy202608-HD0086-AiiiiiiiEEEEEEE",
     "shortDescription": "An AI-based mock interview website for university applications.",
