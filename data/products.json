@@ -1,5 +1,57 @@
 [
   {
+    "slug": "aiy202608-hd0096-ordo-github",
+    "title": "aiy202608-hd0096-ordo",
+    "shortDescription": "知序：根据考试日期、学习时间和掌握程度生成并动态调整复习计划",
+    "fullDescription": "知序：根据考试日期、学习时间和掌握程度生成并动态调整复习计划\n\nАвтор: gaohuaxuan281-alt. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://zhixu-study-planner-2026.gaohuaxuan281.chatgpt.site/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "aiy-hackathon-202608",
+      "education",
+      "study-planner",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1324205559",
+    "createdAt": "2026-08-05T16:14:17.971Z"
+  },
+  {
+    "slug": "everfree-ai-cowriter-note-app-on-github-backend-evernote-migration-hn",
+    "title": "Everfree -AI cowriter note app on GitHub backend & Evernote migration",
+    "shortDescription": "EverFree started as a script to get my notes out of Evernote, and grew into the writing tool I actually wanted: a focused editor where note…",
+    "fullDescription": "EverFree started as a script to get my notes out of Evernote, and grew into the writing tool I actually wanted: a focused editor where notes stay in Github in a repo I own, with an AI cowriter With an in-built AI assistant using free models like Gemini 3.5 to help me in my daily writing The AI has a search and image generation feature as well, for which you will need paid licenses from Gemini or OpenRouter. Bring your own key It is fully featured, syncs across devices and your backend stays the same. Your github repo. I am a compulsive note taker. When Bending Spoons (the owner of Evernote) hiked my annual renewal to $100 for a tiny bit of cloud storage, I needed to get out. Frontend design is AI but I have carefully worked on performance and security to ensure its 100% reliable\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://everfree.vercel.app/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49184717",
+    "createdAt": "2026-08-05T16:14:17.736Z"
+  },
+  {
+    "slug": "slickfast-deterministic-chartdash-renderer-no-browserjson-svgpng-hn",
+    "title": "SlickFast Deterministic Chart/Dash Renderer, No Browser(JSON → SVG/PNG)",
+    "shortDescription": "SlickFast started 6 months ago, and evolved in a super backwards way. I was using lowfruits to look for good SEO keywords, I wanted to make…",
+    "fullDescription": "SlickFast started 6 months ago, and evolved in a super backwards way. I was using lowfruits to look for good SEO keywords, I wanted to make a simple free tool to rank with SEO. I found some great keywords related to graphs&#x2F;charts. I did research for optimizing for SEO. Turns out edge processing &#x2F; using static HTML is super fast and lightweight, great for SEO. I made freepiechartmaker.com. I was really blown away by how fast the site was loading, and how lightweight all the processing was. The site renders changes on the fly, and is much much faster than other sites in the space. I started looking into the tech, pure math rendering, and I saw a lot of openings for what this tech can do. That&#x27;s how SlickFast was made. SlickFast is a JSON input &gt; pure javascript SVG Native render core &gt; with PNG+SVG output. No headless chrome. No library calls. deterministic output. on my local machine(m1 max) it renders 140,000 svg charts a second. PNG @ ~50&#x2F;sec at retina (scale-2) and ~145&#x2F;sec at scale-1, single-core. (we have a benchmark mjs in our github repo) SlickFast can render 47 chart types. Any resolution, aspect ratio, any tile combination, easily deliverable anywhere, and made for agentic workflows. Our MCP is free and open source. Tiling allows complex dashboard creation. Each dashboard is only one render. SlickFast API serves URL endpoints. SlickFast is lightweight, we have a hero dashboard demo at slickfast.com&#x2F;deck that is updating every 3 seconds. This is millions of renders, and the cost per month is less than $10. SlickFast was intended to be ready for agentic workflows, and visualizing agentic output as cheap and frictionless as possible. A benefit to the SlickFast deterministic pure math render core, is that edge servers will easily cache images. Millions of people can see a SlickFast endpoint, and only a few renders will actually be used, because the edge servers will happily cache our very small charts. SVG Native chart rendering provides for retina quality, at 50kb image sizes. Our favorite demo is LIVE GitHub dashboards, living right on the repo page. just put a SlickFast URL in your readme. You can see our living dashboard at github.com&#x2F;slickfast&#x2F;slickfast. We have made githubs templates for the public. you can easily add your own dashboard. https:&#x2F;&#x2F;github.com&#x2F;SlickFast&#x2F;github-dashboard-template SlickFast also has telegram deliverable templates. https:&#x2F;&#x2F;github.com&#x2F;SlickFast&#x2F;telegram-weather-template - if you go to the repo, the weather dash being sent via telegram, is on the repo as a live dashboard - Its updated everyday with a real weather report. Another great demo is our X.com NYC air quality index bot (@NYCAIRREPORT). Slickfast posts a AQI dash on X.com 3 times a day. With the new x API terms, each post is only about 2 cents. The cost on the slickfast side is basically nothing. Our free API tier currently provides 250 renders a month. Enough space for a few bots. Because slickfast was made for agentic use, an agentic was able to design the entire dash and inputs in only a few takes. AI Agents, can nearly one shot most tasks. One or two minor revisions is usually all it takes. Slickfast.com Github.com&#x2F;slickfast&#x2F;slickfast Slickfast is free and open source under AGPL license. I&#x27;m so delighted to provide some real value for free. We have a roadmap with some super cool things coming. Slickfast is very powerful for email, or tying to APIs. Thanks Everyone! I would love to hear your thoughts.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://slickfast.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49183949",
+    "createdAt": "2026-08-05T16:14:17.736Z"
+  },
+  {
     "slug": "comfyui-minimaxh3-teacache-github",
     "title": "ComfyUI-MiniMaxH3-TeaCache",
     "shortDescription": "Timestep-cache acceleration for MiniMax H3 in ComfyUI — open source, cross-platform, ~3x speedup measured",
