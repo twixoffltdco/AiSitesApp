@@ -1,5 +1,58 @@
 [
   {
+    "slug": "aiy202608-hd0086-aiiiiiiieeeeeee-github",
+    "title": "aiy202608-HD0086-AiiiiiiiEEEEEEE",
+    "shortDescription": "An AI-based mock interview website for university applications.",
+    "fullDescription": "An AI-based mock interview website for university applications.\n\nАвтор: Toby-top. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://interview.tobysneko.com",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "aiy-hackathon-202608",
+      "interview-practice",
+      "interview-preparation",
+      "university-applications",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1322751323",
+    "createdAt": "2026-08-05T21:45:31.831Z"
+  },
+  {
+    "slug": "a-self-improvement-feedback-loop-for-ai-agent-skills-hn",
+    "title": "A self-improvement feedback loop for AI agent skills",
+    "shortDescription": "Проект «A self-improvement feedback loop for AI agent skills», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A self-improvement feedback loop for AI agent skills», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Carlo1911/skill-evolution",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49189270",
+    "createdAt": "2026-08-05T21:45:31.638Z"
+  },
+  {
+    "slug": "command-code-goat-10month-for-70-of-credits-across-30-models-hn",
+    "title": "Command Code GOAT, $10/month for $70 of credits across 30 models",
+    "shortDescription": "Founder here, we launched the GOAT plan for Command Code today: $10&#x2F;month for $70 in credits, usable across 30+ open and closed models…",
+    "fullDescription": "Founder here, we launched the GOAT plan for Command Code today: $10&#x2F;month for $70 in credits, usable across 30+ open and closed models. With deals it goes further, past $100. Why create the GOAT plan? At Command Code, we&#x27;re incessantly curious about 1) open models, 2) how to get the best value out of them, and 3) how to make that value accessible to everyone. The GOAT plan is our answer to all three. While almost every other coding agent was built to serve closed models, we built Command Code to be the best coding agent harness for open models. We started with the $1 Go plan. The sheer audacity of that plan was a hit, but it was also a bit of a tease: a great way to get started, not enough usage to last the month. The GOAT plan fixes that - it&#x27;s the best value in the coding market today, with enough credits to do something meaningful with open models. Coding with open models comes with hard problems - cost, reliability, safety, and the sheer complexity of running them well. We set out to solve all of it, so you can pick an open model and just code. From getting DeepSeek to beat Opus, to building infra with leading ~98% cache hit rates, to fixing AI slop with the built-in &#x2F;design skill - Command Code has made its way to the top of the open model coding world, everywhere. The GOAT plan is the next step in that journey: open models, accessible to everyone. Open models are already beating frontier closed models at coding. How rich is this moment if you think of it. With the v1 release, which is a full rewrite of this 6-year-old codebase, it&#x27;s now arguably one of the best, most mature coding agent harnesses. Check out the new Mods API - you can build anything you can imagine. We can&#x27;t wait to see what you build with Command Code. We&#x27;re also open sourcing Command Code later this month.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://twitter.com/CommandCodeAI/status/2085039006203711649",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49188656",
+    "createdAt": "2026-08-05T21:45:31.638Z"
+  },
+  {
     "slug": "te-speed-minimaxh3-oss-github",
     "title": "TE-Speed-MiniMaxH3-OSS",
     "shortDescription": "MiniMax-H3超级缓存加速插件",
