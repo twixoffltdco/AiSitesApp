@@ -1,5 +1,43 @@
 [
   {
+    "slug": "disor-github",
+    "title": "Disor",
+    "shortDescription": "بوت إدارة سيرفرات بالذكاء الاصطناعي  126 مهارة بالعامية - Discord",
+    "fullDescription": "بوت إدارة سيرفرات بالذكاء الاصطناعي  126 مهارة بالعامية - Discord\n\nАвтор: j4oc. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://discord.com/users/1254573563160039495",
+    "category": "ai-tool",
+    "tags": [
+      "admin-bot",
+      "ai",
+      "ai-agents",
+      "arabic",
+      "discord-bot",
+      "discord-py",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1323600430",
+    "createdAt": "2026-08-06T03:26:25.944Z"
+  },
+  {
+    "slug": "hacker-news-with-reduced-priority-for-ai-driven-content-hn-2",
+    "title": "Hacker News with reduced priority for AI driven content",
+    "shortDescription": "Проект «Hacker News with reduced priority for AI driven content», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Hacker News with reduced priority for AI driven content», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://hn-without-ai.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49191307",
+    "createdAt": "2026-08-06T03:26:25.604Z"
+  },
+  {
     "slug": "cityedit-open-source-map-for-voting-on-nyc-street-changes-hn",
     "title": "CityEdit – Open-source map for voting on NYC street changes",
     "shortDescription": "CityEdit (cityedit.org, https:&#x2F;&#x2F;github.com&#x2F;edbltn&#x2F;city-edit ) is a map where anyone can propose street changes, e.g. sa…",

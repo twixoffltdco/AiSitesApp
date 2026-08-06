@@ -6,6 +6,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://aisitesapp.tatnet.app/products/disor-github</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aisitesapp.tatnet.app/products/hacker-news-with-reduced-priority-for-ai-driven-content-hn-2</loc>
+    <lastmod>2026-08-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://aisitesapp.tatnet.app/products/cityedit-open-source-map-for-voting-on-nyc-street-changes-hn</loc>
     <lastmod>2026-08-05</lastmod>
     <changefreq>weekly</changefreq>
