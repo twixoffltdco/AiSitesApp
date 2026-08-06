@@ -1,5 +1,75 @@
 [
   {
+    "slug": "lite-github",
+    "title": "lite",
+    "shortDescription": "A fast, local workspace for Claude Code, Codex, and your shell.",
+    "fullDescription": "A fast, local workspace for Claude Code, Codex, and your shell.\n\nАвтор: ultralytics. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/ultralytics/lite/releases/latest",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude-code",
+      "codex",
+      "desktop-app",
+      "developer-tools",
+      "linux",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1324469614",
+    "createdAt": "2026-08-06T11:39:19.621Z"
+  },
+  {
+    "slug": "juju-chu-a-book-on-jujutsu-jj-and-ai-coding-agent-hn",
+    "title": "Juju-chu A book on Jujutsu (jj) and AI coding agent",
+    "shortDescription": "Проект «Juju-chu A book on Jujutsu (jj) and AI coding agent», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Juju-chu A book on Jujutsu (jj) and AI coding agent», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://juju-chu.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49195269",
+    "createdAt": "2026-08-06T11:39:19.493Z"
+  },
+  {
+    "slug": "demake-one-source-project-compiles-to-any-retro-game-console-rom-hn",
+    "title": "Demake – one source project compiles to any retro game console ROM",
+    "shortDescription": "This started life as a graphics tool for a specific problem: gen AI can make retro-styled sprites but can&#x27;t follow exact hardware cons…",
+    "fullDescription": "This started life as a graphics tool for a specific problem: gen AI can make retro-styled sprites but can&#x27;t follow exact hardware constraints of pixels and colors. While building this I liked the idea that I can fan-out to any retro videogame console or handheld&#x27;s specifications. I then devised my own declarative language - Demotic - to express the game you want to build as concisely and naturally as possible without implementation detail. To work on different machines, you use relative units, like vw, vh, vmin, vmax. It has a web UI, CLI and NPM package. Still a work in progress.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://geosona.com/demake/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49195251",
+    "createdAt": "2026-08-06T11:39:19.493Z"
+  },
+  {
+    "slug": "i-built-a-simple-image-to-video-tool-with-multiple-ai-models-hn",
+    "title": "I built a simple image-to-video tool with multiple AI models",
+    "shortDescription": "Проект «I built a simple image-to-video tool with multiple AI models», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built a simple image-to-video tool with multiple AI models», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://imagetovideoai.tools/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49195054",
+    "createdAt": "2026-08-06T11:39:19.493Z"
+  },
+  {
     "slug": "aifa-github",
     "title": "AIFA",
     "shortDescription": "AI Atomic Feature Architecture",
