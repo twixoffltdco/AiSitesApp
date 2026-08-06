@@ -1,5 +1,171 @@
 [
   {
+    "slug": "awesome-ai-book-writing-github",
+    "title": "awesome-ai-book-writing",
+    "shortDescription": "A curated list of AI tools, workflows and resources for writing, editing and publishing full-length books.",
+    "fullDescription": "A curated list of AI tools, workflows and resources for writing, editing and publishing full-length books.\n\nАвтор: finxter. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://www.imagineyourbook.com/",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "ai-writer",
+      "ai-writing",
+      "ai-writing-assistant",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1324459232",
+    "createdAt": "2026-08-06T14:00:42.374Z"
+  },
+  {
+    "slug": "line9-a-mermaid-rendering-engine-with-its-own-layout-hn",
+    "title": "Line9 - a Mermaid rendering engine with its own layout",
+    "shortDescription": "Line9 is a new rendering engine for Mermaid flowchart diagrams that aims to remove the need for manual adjustment of layout. Mermaid is a p…",
+    "fullDescription": "Line9 is a new rendering engine for Mermaid flowchart diagrams that aims to remove the need for manual adjustment of layout. Mermaid is a popular text-based language for describing multiple types of diagrams. Several Mermaid rendering engines already exist. Most, like the original mermaid.js, use Dagre or ELK graph drawing libraries to automatically lay out their diagrams. I’ve used Mermaid for the past four years but often recreated my flowcharts in a diagram editor so that I could modify the layout to something that better suited my needs. Use Line9 when you want an automatic flowchart arrangement that optimises for clear communication. It seeks to layout flowcharts with regular grid spacing, closer positioning of related nodes, shorter, straighter edges and targets a page-like aspect ratio. The Compare button in the &#x2F;diagram page (share panel on the left) shows you the Line9 and mermaid.js renders next to each other. Use for free, no account required. A CLI tool can also be downloaded for Mac, Windows and Linux. Free-use diagrams carry a watermark. Commercial use of the CLI requires a paid account and you also get diagrams without watermarks. Line9 is not open source (I need to create an income and the business model is being tested). I’ve tried to encode and automate the layout principles I use when creating flowcharts by hand. All rendering takes place in the browser, so no private data is sent to the web service. The CLI is written in Rust and embeds the renderer so you get a single binary install and all data and processing remains local. It’s currently a little slower than mermaid.js, due to the difficulty of solving node positioning and edge routing simultaneously to find the layout that best meets the design principles. Output is produced in SVG or PNG formats. Diagrams can also be shared via a URL with a fragment that embeds the Mermaid text. Things I know still need improvement: positioning and rotating subgraphs, folding graphs to hit good aspect ratios more often, further improvement on edge label placement, better interaction with long node labels and tidying up the display when scaling down. Then I also want to support more diagram types and the website needs lots of work. Please paste your own Mermaid flowcharts into Line9 – particularly the ones that you previously discarded because the layout was bad. Let me know whether they improve, or what other work is needed.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://line9.ai/diagram",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49196657",
+    "createdAt": "2026-08-06T14:00:42.492Z"
+  },
+  {
+    "slug": "science-for-kids-hn",
+    "title": "Science for Kids",
+    "shortDescription": "There’s a really good kids’ science magazine called Oyla, but it’s aimed at kids 12+ I subscribed a couple of years ago thinking that it wo…",
+    "fullDescription": "There’s a really good kids’ science magazine called Oyla, but it’s aimed at kids 12+ I subscribed a couple of years ago thinking that it would be fine for my son (then 8yo, but an advanced reader) but, even now (10yo), the articles are too dense for him and don’t hold his interest. Last year, the same company launched ‘Oyla Junior’ aimed at younger kids ~8yo. But I read a couple of the articles and I think they’re too oversimplified. I wanted something in between, but didn’t find anything suitable online. So I used AI to create something, and did a bunch of iterations to tune the sentence length, the flow of the articles, how much info is introduced in each paragraph etc. I still want to make it better, but it’s already good enough for my son to read.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://science.ocaho.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49196603",
+    "createdAt": "2026-08-06T14:00:42.492Z"
+  },
+  {
+    "slug": "reflectworld-entity-oriented-memory-system-for-open-ended-video-hn",
+    "title": "ReflectWorld – Entity-oriented memory system for open-ended video",
+    "shortDescription": "ReflectWorld gives AI agents persistent memory over video streams — memory that participates in perception, not just retrieval. Design deta…",
+    "fullDescription": "ReflectWorld gives AI agents persistent memory over video streams — memory that participates in perception, not just retrieval. Design details in the first comment.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/addxai/ReflectWorld",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49195953",
+    "createdAt": "2026-08-06T14:00:42.492Z"
+  },
+  {
+    "slug": "interlock-atomic-typescript-domain-transitions-on-postgresql-hn",
+    "title": "Interlock – Atomic TypeScript domain transitions on PostgreSQL",
+    "shortDescription": "Hello HN! I built Interlock because I kept seeing the same architectural issue arise in backend code at work, where a state change starts a…",
+    "fullDescription": "Hello HN! I built Interlock because I kept seeing the same architectural issue arise in backend code at work, where a state change starts as one update, then slowly accumulates features until the transaction logic is spread everywhere. This has been exacerbated in the AI era of hyper iterative development, and it confuses devs and agents alike. Interlock is my attempt to make that transition a single explicit unit and commit all of its durable effects together in PostgreSQL. PostgreSQL is the only supported backend right now. I was torn about some of the packaging stuff, especially the separate core and Postgres packages. The guarantees, reference app, concurrency tests, failure cases, and implementation details are all in the repo. There are plenty of powerful tools for modeling state and running workflows; Interlock is aimed at the narrower case where you want something lightweight for atomic, database-backed transitions. I’d be interested to hear whether the abstraction feels useful, where the boundaries seem wrong, or stuff I’ve overlooked. Thank you!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/jajego/interlock",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49195943",
+    "createdAt": "2026-08-06T14:00:42.492Z"
+  },
+  {
+    "slug": "hope-1-on-1-ai-tutor-for-kids-grades-2-10-learning-math-hn",
+    "title": "Hope, 1-on-1 AI Tutor for kids Grades 2-10 learning math",
+    "shortDescription": "Hey HN! My friend and I have been working for the last 3 months on HOPE, a platform that provides students with 1 on 1 math support to impr…",
+    "fullDescription": "Hey HN! My friend and I have been working for the last 3 months on HOPE, a platform that provides students with 1 on 1 math support to improve their confidence and teach them by doing and asking questions. We would really appreciate anyone who&#x27;s down to try it out with their kids and give their thoughts.\n\nНайдено в разделе Show HN на Hacker News. 👍 8 баллов.",
+    "url": "https://usehope.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49195914",
+    "createdAt": "2026-08-06T14:00:42.492Z"
+  },
+  {
+    "slug": "memoars-encrypted-memory-layer-that-your-ai-assistants-share-hn",
+    "title": "Memoars - encrypted memory layer that your AI assistants share",
+    "shortDescription": "I struggled a bit with context sharing, knowledge sharing, memories sharing between AI agents (I use two or three on a daily basis). Each o…",
+    "fullDescription": "I struggled a bit with context sharing, knowledge sharing, memories sharing between AI agents (I use two or three on a daily basis). Each of them has its own memory, they dont share it or its a bit cumbersome to do memory curation and improve it (especially if there are some API AI calls that run occasionally from different models) Memoars is an attempt to solve it - one memory that belongs to you (no storage vendor lock) that any assistant can read and write through MCP. How it works: - Memory content is encrypted on your machine (XChaCha20-Poly1305, key derived with Argon2id) and written directly to storage you own - R2, S3, MinIO, Supabase etc) - A coordinator handles the metadata plane: sequence numbers, versions, grants, conflict resolution. It never receives the workspace content key, so it can&#x27;t read memory content. It does see operational metadata - org, workspace, identity, version, usage - Every change lands in an append-only, hash-chained log with compare-and-swap on writes, so two clients can&#x27;t silently clobber each other and you can see how a memory got to its current state. - Permissions are orgs → workspaces → identities, with per-workspace grants. Each workspace has its own passphrase, so isolation is enforced by encryption as well as by the API. Where it actually is: It&#x27;s invite-only right now, and I want to be honest that this is a invite list rather than a product you can go install this afternoon (as I want to make sure it makes sense and that it solves a problem for you before its shipped). The client is being open-sourced and the hosted coordinator opens shortly after. Drop me a mail or ping me for more info - as I will reply to all inquiries Tnx for taking a look!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://memoars.com/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49195751",
+    "createdAt": "2026-08-06T14:00:42.492Z"
+  },
+  {
+    "slug": "srelens-kubernetes-control-room-for-engineers-and-ai-agents-mit-hn",
+    "title": "Srelens – Kubernetes control room for engineers and AI agents (MIT)",
+    "shortDescription": "Проект «Srelens – Kubernetes control room for engineers and AI agents (MIT)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Srelens – Kubernetes control room for engineers and AI agents (MIT)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/srelens/srelens",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49195728",
+    "createdAt": "2026-08-06T14:00:42.492Z"
+  },
+  {
+    "slug": "jolt-a-decentralised-content-syndication-network-hn",
+    "title": "Jolt a decentralised content syndication network",
+    "shortDescription": "Hey HN i’m a platform engineer and my day job I mainly focus on kubernetes clusters and terraform with the occasional C#, Typescript when b…",
+    "fullDescription": "Hey HN i’m a platform engineer and my day job I mainly focus on kubernetes clusters and terraform with the occasional C#, Typescript when building services, so this could well be completely out of my depth. Jolt started as an experiment to see whether I could build my own network at all. I’ll also be honest that most of this code was agentically written. However the high level decisions and architecture were mine based on research, experimentation, trial and error. Canary testing was one of the consequences of that when you build this way you need something slapping your AI-driven confidence back to reality. This year I asked myself a question... Is it possible to have a platformless world? A world where no platform controls your data, mines it for ad targeting or bans you and takes away your audience with it. So I started working on that as a challenge just to see if it&#x27;s possible... and I ended up with Jolt. Jolt is a p2p distributed content syndication network. Lol that&#x27;s a mouthful, it&#x27;s basically my solution to platformless content distribution. Someone can publish content using a cryptographic identity and others can discover that content. Apps can build on top of the network however they are decoupled from the audience or the account. Jolt achieves this with a daemon capability model kinda like how mobile apps ask for permissions, but for your identity and content. Apps don’t own your identity. They ask for a scoped session from the daemon (eg. &quot;publish under &#x2F;pastes&#x2F;*&quot;) that you approve or decline. You can uninstall the app and you still keep the audience and the data. I&#x27;m gonna give you the jist of the work in this post and talk about the architecture in a comment but check out the RFC section on the github pages site if you want a deep dive. When I was building this the actual hardest part was not protocol design or crypto. Funny enough it was testing. LAN is deceptively simple and things just work; why? mDNS will find your peers instantly and make you feel cracked. Only to be humbled when you do a 3 node canary test to try to replicate the messy real world on a small scale. The 3 way canary tested my laptop on my home broadband, a relay in hetzner and my mac running on a mobile hotspot, finicky I know but that&#x27;s all I had. I was trying to answer a hard question at v0: 2 nodes on different networks could communicate and more importantly behind actual NATs and how. The first attempt was via the relay so I knew that worked but I wasn’t really satisfied. I wanted direct communication and I spent about 2 days getting QUIC hole punching working for direct node to node communication. That being said im not fully sure it holds up in the wild, the realist developer in me doesn’t think so. One thing I&#x27;m sure about is that one canary test doesn’t cover all edge cases. I would need more nodes and people on the network telling me something is broken thats how I work lol and that&#x27;s why I am posting this. You can jolt find here https:&#x2F;&#x2F;alexanderwanyoike.github.io&#x2F;jolt&#x2F; So does this thing even work. Well I can happily say that I was able to build 2 applications on it Spoke ( https:&#x2F;&#x2F;alexanderwanyoike.github.io&#x2F;spoke&#x2F; ) my attempt at building a platformless social network and Pastey ( https:&#x2F;&#x2F;alexanderwanyoike.github.io&#x2F;pastey&#x2F; ) a simple pastebin like application when you want to send data to different places. Spoke is more maintained and I plan on getting Pastey to the same level of polish. They are still very early “hello world” prototypes. Otherwise if you wanna chat add me up on spoke fsjj2nvibhmztsw2w3klgkbjorqbze3qsi2tcwzbs5pepdigohiq.jolt ;)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://alexanderwanyoike.github.io/jolt/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49195406",
+    "createdAt": "2026-08-06T14:00:42.493Z"
+  },
+  {
+    "slug": "ai-agents-101-an-offline-ios-app-that-labels-every-demo-real-or-mock-hn",
+    "title": "AI Agents 101 – an offline iOS app that labels every demo REAL or MOCK",
+    "shortDescription": "Проект «AI Agents 101 – an offline iOS app that labels every demo REAL or MOCK», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Agents 101 – an offline iOS app that labels every demo REAL or MOCK», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://apps.apple.com/us/app/ai-agents-101/id6792491701",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49195365",
+    "createdAt": "2026-08-06T14:00:42.493Z"
+  },
+  {
     "slug": "lite-github",
     "title": "lite",
     "shortDescription": "A fast, local workspace for Claude Code, Codex, and your shell.",
