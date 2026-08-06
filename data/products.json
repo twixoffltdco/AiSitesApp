@@ -1,5 +1,49 @@
 [
   {
+    "slug": "one-call-less-skill-github",
+    "title": "one-call-less-skill",
+    "shortDescription": "面向按次计费场景的跨工具 Agent Skill，用最少的 API 调用次数完成编码任务。 cross-tool Agent Skill that minimizes billable API calls for per-call billing scenarios.",
+    "fullDescription": "面向按次计费场景的跨工具 Agent Skill，用最少的 API 调用次数完成编码任务。 cross-tool Agent Skill that minimizes billable API calls for per-call billing scenarios.\n\nАвтор: jack-wang-176. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/jack-wang-176/one-call-less-skill",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-tools",
+      "claude-code",
+      "codex",
+      "skill-md",
+      "skills",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1323926935",
+    "createdAt": "2026-08-06T06:11:00.526Z"
+  },
+  {
+    "slug": "claude-config-github",
+    "title": "claude-config",
+    "shortDescription": "Global Claude Code configuration with reusable engineering skills and workflows.",
+    "fullDescription": "Global Claude Code configuration with reusable engineering skills and workflows.\n\nАвтор: thixpin. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/thixpin/claude-config",
+    "category": "productivity",
+    "tags": [
+      "agentic-coding",
+      "ai",
+      "claude",
+      "claude-code",
+      "developer-experience",
+      "developer-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1323904900",
+    "createdAt": "2026-08-06T06:11:00.526Z"
+  },
+  {
     "slug": "disor-github",
     "title": "Disor",
     "shortDescription": "بوت إدارة سيرفرات بالذكاء الاصطناعي  126 مهارة بالعامية - Discord",
