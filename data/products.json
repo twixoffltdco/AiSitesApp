@@ -1,5 +1,72 @@
 [
   {
+    "slug": "aifa-github",
+    "title": "AIFA",
+    "shortDescription": "AI Atomic Feature Architecture",
+    "fullDescription": "AI Atomic Feature Architecture\n\nАвтор: AdrianBesleaga. Найдено в GitHub Trending (AI-тематика). ⭐ 25 звёзд.",
+    "url": "https://adrianbesleaga.github.io/AIFA/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-architecture",
+      "ai-coding",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1324311422",
+    "createdAt": "2026-08-06T09:20:54.356Z"
+  },
+  {
+    "slug": "i-deleted-dms-from-our-work-chat-hn",
+    "title": "I deleted DMs from our work chat",
+    "shortDescription": "Fosbury is a more enjoyable and efficient way for engineering and product teams to communicate. We grew frustrated with how noisy, shallow…",
+    "fullDescription": "Fosbury is a more enjoyable and efficient way for engineering and product teams to communicate. We grew frustrated with how noisy, shallow and out-of-step messaging tools are with the way teams actually work today. It is rare to find a top product company in Silicon Valley that truly works asynchronously, yet nearly all of them describe themselves that way. Slack is still open all day and the pings keep arriving. We believe engineering problem solving and product work is exactly the kind of work that requires depth and focus. So, we built the opposite! Speed and zero friction: keyboard-first, no loading states between you and the thought you are trying to send. Structure by default: public channels only, and conversations can be prioritized, assigned, resolved and closed, so a thread has a state and an outcome, not just a scroll position. Async by default: nothing here assumes you are online, rewards you for being online, or punishes you for being away. Public alpha, free during alpha: https:&#x2F;&#x2F;fosbury.ai This is just the start! Thanks for reading &lt;3 Would love the chat!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://fosbury.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49194318",
+    "createdAt": "2026-08-06T09:20:54.151Z"
+  },
+  {
+    "slug": "ai-video-resume-and-pitch-deck-generator-hn",
+    "title": "AI Video Resume and Pitch Deck Generator",
+    "shortDescription": "Проект «AI Video Resume and Pitch Deck Generator», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Video Resume and Pitch Deck Generator», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://portfoliovideo.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49194301",
+    "createdAt": "2026-08-06T09:20:54.151Z"
+  },
+  {
+    "slug": "scout-a-self-hosted-discord-ai-memory-bot-hn",
+    "title": "Scout – a self-hosted Discord AI memory bot",
+    "shortDescription": "Scout, a self-hosted Discord memory bot. Listens to the conversation and creates summaries and answers questions. Runs Qwen3 8B Instruct, i…",
+    "fullDescription": "Scout, a self-hosted Discord memory bot. Listens to the conversation and creates summaries and answers questions. Runs Qwen3 8B Instruct, in a 4-bit quantization, served locally through Ollama. It can answer questions about the conversation or generate summaries for when you missed out on the conversation.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/j-sofia/Scout",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49193104",
+    "createdAt": "2026-08-06T09:20:54.151Z"
+  },
+  {
     "slug": "one-call-less-skill-github",
     "title": "one-call-less-skill",
     "shortDescription": "面向按次计费场景的跨工具 Agent Skill，用最少的 API 调用次数完成编码任务。 cross-tool Agent Skill that minimizes billable API calls for per-call billing scenarios.",
