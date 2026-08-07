@@ -1,5 +1,53 @@
 [
   {
+    "slug": "agent-monitor-monitor-your-coding-agent-live-hn",
+    "title": "Agent Monitor – Monitor Your Coding Agent Live",
+    "shortDescription": "Проект «Agent Monitor – Monitor Your Coding Agent Live», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Agent Monitor – Monitor Your Coding Agent Live», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://agent-monitor.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49212706",
+    "createdAt": "2026-08-07T16:23:20.345Z"
+  },
+  {
+    "slug": "vaultak-security-for-ai-agents-built-before-the-breaches-started-hn",
+    "title": "Vaultak – Security for AI agents (built before the breaches started)",
+    "shortDescription": "Проект «Vaultak – Security for AI agents (built before the breaches started)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Vaultak – Security for AI agents (built before the breaches started)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://vaultak.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49212175",
+    "createdAt": "2026-08-07T16:23:20.345Z"
+  },
+  {
+    "slug": "postroom-hn-thread-2d-visualizer-as-auditorium-ai-powered-summaries-hn",
+    "title": "Postroom – HN thread 2D Visualizer as auditorium AI-powered summaries",
+    "shortDescription": "hello, while i was reading post id=49124218, it comes to my mind that too many people talking, this is interesting subject, but i cant read…",
+    "fullDescription": "hello, while i was reading post id=49124218, it comes to my mind that too many people talking, this is interesting subject, but i cant read all, and its a mess to read all, its un organized, i felt like i entered an audeturiom where every body in the audeience is talking to someone, noisy place, i would love to hear all, i wish i could built a visualization web app of what been said, like short phrases summary of what every body said, also doing clustering of (similar logic ideas) all around, do innovative comments section, fun, ...etc sections, would love your feedback .\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://sudolaps.top/postroom/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49211892",
+    "createdAt": "2026-08-07T16:23:20.345Z"
+  },
+  {
     "slug": "see-my-video-github",
     "title": "see-my-video",
     "shortDescription": "让 AI 真的看见你发的视频：抽帧喂给模型，以及自建服务器上传视频的两个隐形坑",
