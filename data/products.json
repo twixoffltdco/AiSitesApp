@@ -1,5 +1,58 @@
 [
   {
+    "slug": "see-my-video-github",
+    "title": "see-my-video",
+    "shortDescription": "让 AI 真的看见你发的视频：抽帧喂给模型，以及自建服务器上传视频的两个隐形坑",
+    "fullDescription": "让 AI 真的看见你发的视频：抽帧喂给模型，以及自建服务器上传视频的两个隐形坑\n\nАвтор: eveacla11. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://github.com/eveacla11/see-my-video",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude",
+      "ffmpeg",
+      "self-hosted",
+      "video",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1326464530",
+    "createdAt": "2026-08-07T15:24:18.772Z"
+  },
+  {
+    "slug": "docuqueue-document-layer-for-ai-agents-hn",
+    "title": "DocuQueue – Document Layer for AI Agents",
+    "shortDescription": "Проект «DocuQueue – Document Layer for AI Agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «DocuQueue – Document Layer for AI Agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://docuqueue.com/mcp",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49211666",
+    "createdAt": "2026-08-07T15:24:18.535Z"
+  },
+  {
+    "slug": "kimi-k3-inference-on-about-100k-ps3-nodes-hn",
+    "title": "Kimi K3 inference on about 100k PS3 nodes",
+    "shortDescription": "I forked RAM coffers and implemented Kimi K3 on PS3, using one-layer-expert-per-node inference. Idea mine, used AI assistance to implement…",
+    "fullDescription": "I forked RAM coffers and implemented Kimi K3 on PS3, using one-layer-expert-per-node inference. Idea mine, used AI assistance to implement it. Inspired by AirLLM PR 116 ( https:&#x2F;&#x2F;github.com&#x2F;lyogavin&#x2F;airllm&#x2F;pull&#x2F;316 ).\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/erkinalp/ram-coffers",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49211662",
+    "createdAt": "2026-08-07T15:24:18.535Z"
+  },
+  {
     "slug": "esp32-bowling-system-technical-write-up-hn",
     "title": "ESP32 Bowling System technical write-up",
     "shortDescription": "Hi everyone! I&#x27;m the ESP32 Bowling guy from a few weeks ago, back with a technical write-up and a repo link. Since my last post, I&#x2…",
