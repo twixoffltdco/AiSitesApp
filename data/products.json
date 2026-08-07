@@ -1,5 +1,37 @@
 [
   {
+    "slug": "zaivern-code-a-rust-cockpit-for-parallel-ai-coding-agents-hn",
+    "title": "Zaivern Code – a Rust cockpit for parallel AI coding agents",
+    "shortDescription": "Проект «Zaivern Code – a Rust cockpit for parallel AI coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Zaivern Code – a Rust cockpit for parallel AI coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/tacyan/zaivern-code",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49215129",
+    "createdAt": "2026-08-07T19:28:10.635Z"
+  },
+  {
+    "slug": "coarena-a-community-driven-arena-to-benchmark-models-for-computer-use-hn",
+    "title": "Coarena - A community-driven arena to benchmark models for computer-use",
+    "shortDescription": "We built a computer use agent once and got it benchmarked at the 2nd position in the biggest benchmark for this field but in the process, w…",
+    "fullDescription": "We built a computer use agent once and got it benchmarked at the 2nd position in the biggest benchmark for this field but in the process, we realized one thing, how outdated and inefficient these benchmarks are and how they don&#x27;t truly capture how these tasks went. So we thought a community led benchmarking arena would be the way to go about. https:&#x2F;&#x2F;coarena.ai&#x2F; . You just have to put in a task and two side by side windows with hidden models will show up and do the same task and at the end you vote which one did better(or none). We have a leaderboard where we rank all the models based on how they performed on the tasks so far, so please do check that out! Just a little sneak peak: OpenAI seems to dominating in terms of success but for speed it&#x27;s actually something else. This is still pretty new and we&#x27;re quite open to ideas and feedback so would appreciate any.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://coarena.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49214880",
+    "createdAt": "2026-08-07T19:28:10.635Z"
+  },
+  {
     "slug": "flux3-video-1k-generation-test-180-mins-of-footage-hn",
     "title": "FLUX.3 Video 1k generation test (180 mins of footage)",
     "shortDescription": "I&#x27;ve always been a fan of Black Forest Labs&#x27; FLUX image models. Specifically how &quot;un-AI&quot; their look is. (One might even…",
