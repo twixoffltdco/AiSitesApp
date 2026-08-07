@@ -1,5 +1,301 @@
 [
   {
+    "slug": "repo-to-landing-page-github",
+    "title": "Repo-to-Landing-page",
+    "shortDescription": "Turn any GitHub repository into a beautiful, AI-generated product website. RepoPages analyzes your README, codebase, and project metadata t…",
+    "fullDescription": "Turn any GitHub repository into a beautiful, AI-generated product website. RepoPages analyzes your README, codebase, and project metadata to generate polished landing pages that you can customize, export, and deploy in minutes.\n\nАвтор: Robibiruk. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://repo-to-landing-page.vercel.app",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "deployment",
+      "developer-experience",
+      "developer-tools",
+      "fastapi",
+      "github",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1324027483",
+    "createdAt": "2026-08-07T00:23:16.242Z"
+  },
+  {
+    "slug": "enterprise-knowledge-assistant-github",
+    "title": "enterprise-knowledge-assistant",
+    "shortDescription": "AI Powered Enterprise Knowledge Assistant (RAG Chatbot) built with React, Spring Boot, FastAPI, ChromaDB and Ollama.",
+    "fullDescription": "AI Powered Enterprise Knowledge Assistant (RAG Chatbot) built with React, Spring Boot, FastAPI, ChromaDB and Ollama.\n\nАвтор: JayachandraV16. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/JayachandraV16/enterprise-knowledge-assistant",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "chromadb",
+      "docker",
+      "fastapi",
+      "jwt",
+      "langchain",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1325565456",
+    "createdAt": "2026-08-07T00:23:16.242Z"
+  },
+  {
+    "slug": "copilot-cli-clear-statusline-github",
+    "title": "copilot-cli-clear-statusline",
+    "shortDescription": "A compact, information-dense custom status line for GitHub Copilot CLI.",
+    "fullDescription": "A compact, information-dense custom status line for GitHub Copilot CLI.\n\nАвтор: fonzobreaker. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/fonzobreaker/copilot-cli-clear-statusline",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "cmd",
+      "coding",
+      "coding-agent",
+      "copilot",
+      "copilot-cli",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1324232489",
+    "createdAt": "2026-08-07T00:23:16.242Z"
+  },
+  {
+    "slug": "reciproca-github",
+    "title": "Reciproca",
+    "shortDescription": "Reciproca is an automation tool that manages your Instagram network growth. It can find new people to add to your network via tags and allo…",
+    "fullDescription": "Reciproca is an automation tool that manages your Instagram network growth. It can find new people to add to your network via tags and allow to balance your follower and following count. It is 100% legit and local. You can run this tool logging into your account and saving your session directly into your local chrome instance.\n\nАвтор: simone-caravetta. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/simone-caravetta/Reciproca",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "ai-tools",
+      "selenium",
+      "selenium-python",
+      "selenium-webdriver",
+      "tkinter",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1325718314",
+    "createdAt": "2026-08-07T00:23:16.242Z"
+  },
+  {
+    "slug": "arf-a-record-format-for-ai-evaluation-runs-with-reproducible-digests-hn",
+    "title": "ARF – a record format for AI evaluation runs, with reproducible digests",
+    "shortDescription": "Проект «ARF – a record format for AI evaluation runs, with reproducible digests», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ARF – a record format for AI evaluation runs, with reproducible digests», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.korvo.xyz/arf",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49204008",
+    "createdAt": "2026-08-07T00:23:16.190Z"
+  },
+  {
+    "slug": "greatarrowai-shared-memory-for-claude-chatgpt-gemini-and-cursor-hn",
+    "title": "GreatArrow.ai – Shared memory for Claude, ChatGPT, Gemini and Cursor",
+    "shortDescription": "Проект «GreatArrow.ai – Shared memory for Claude, ChatGPT, Gemini and Cursor», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «GreatArrow.ai – Shared memory for Claude, ChatGPT, Gemini and Cursor», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.greatarrow.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49203752",
+    "createdAt": "2026-08-07T00:23:16.190Z"
+  },
+  {
+    "slug": "martin-a-cli-that-lets-your-agent-be-your-crm-built-on-jaybase-hn",
+    "title": "Martin, A CLI that let's your Agent be your CRM, Built on Jaybase",
+    "shortDescription": "Hi HN, In my continued quest to excape App Hell, unify all my business data, and let AI run the the parts of my business that don&#x27;t ma…",
+    "fullDescription": "Hi HN, In my continued quest to excape App Hell, unify all my business data, and let AI run the the parts of my business that don&#x27;t make money, I&#x27;ve built Martin. Martin is a CLI that let&#x27;s your store all your customer data in Jaybase, which is an append only business facts DB I built (link at the end). It works along side my bookkeeping CLI, Martin, so now I have a single, AI Native source of truth where I can see the entire customer journey from lead through to customer in one place, not smeared over 3 different apps asking for a subscription. Would love to get your thoughts! Links to Jaybase: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48999936 and Magpie: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49091292\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/kyle-visner/martin",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49202363",
+    "createdAt": "2026-08-07T00:23:16.190Z"
+  },
+  {
+    "slug": "ai-assistant-that-verifies-its-own-sources-hn",
+    "title": "AI Assistant that verifies its own sources",
+    "shortDescription": "Проект «AI Assistant that verifies its own sources», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Assistant that verifies its own sources», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://cochat.ai/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49201886",
+    "createdAt": "2026-08-07T00:23:16.190Z"
+  },
+  {
+    "slug": "github-status-check-skill-hn",
+    "title": "GitHub Status Check Skill",
+    "shortDescription": "A simple skill to tell AI agent to check GitHub status if something goes wrong after push to GitHub. Especially useful when actions are dow…",
+    "fullDescription": "A simple skill to tell AI agent to check GitHub status if something goes wrong after push to GitHub. Especially useful when actions are down otherwise the AI agent may think some code is wrong caused the workflow to fail or error.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/cainiaocome/github-status-check",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49201869",
+    "createdAt": "2026-08-07T00:23:16.190Z"
+  },
+  {
+    "slug": "printable-coloring-pages-hn",
+    "title": "Printable Coloring Pages",
+    "shortDescription": "Проект «Printable Coloring Pages», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Printable Coloring Pages», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://printablecoloringpages.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49200539",
+    "createdAt": "2026-08-07T00:23:16.190Z"
+  },
+  {
+    "slug": "warren-branch-any-ai-answer-into-its-own-thread-on-a-infinite-canvas-hn",
+    "title": "Warren – branch any AI answer into its own thread on a infinite canvas",
+    "shortDescription": "Проект «Warren – branch any AI answer into its own thread on a infinite canvas», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Warren – branch any AI answer into its own thread on a infinite canvas», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://warren.roulabs.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49200276",
+    "createdAt": "2026-08-07T00:23:16.190Z"
+  },
+  {
+    "slug": "physicsbaseai-validated-physics-for-ai-hn",
+    "title": "Physicsbase.ai Validated Physics for AI",
+    "shortDescription": "HI hackernews community, I introduce physicsbase, which is a tool that allows ai to carry out numerical simulation of phyiscs problems usin…",
+    "fullDescription": "HI hackernews community, I introduce physicsbase, which is a tool that allows ai to carry out numerical simulation of phyiscs problems using Finite element analysis (FEA). The AI agent can decide to create the geometry and submit it for analysis or it can send an input geometry, meshed or unmeshed CAD file and physicsbase will return a validated FEA simulation result, the ai can decide to iterate on the model to reach a design objective or decide to present the model to the user. With the current proliferation of AI CAD startups, this tool will enable them to bring physics simulation into their workflow easily. I will love to hear what you guys think.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.physicsbase.ai/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49199924",
+    "createdAt": "2026-08-07T00:23:16.191Z"
+  },
+  {
+    "slug": "validate-your-idea-know-what-to-charge-and-how-to-get-first-users-hn",
+    "title": "Validate your idea, know what to charge, and how to get first users",
+    "shortDescription": "I made an idea validation tool that can quickly adjust or kill off weak ideas. The big difference between Nell and any other validation too…",
+    "fullDescription": "I made an idea validation tool that can quickly adjust or kill off weak ideas. The big difference between Nell and any other validation tool is it compares your idea with real passed and failed examples, calculates TAM, overall buying sentiment, and 14 more important pointers that VCs value. It then also creates the most confident go to market plans to get initial users. My goal with Nell is to compress the research that takes more than a month into a few minutes so that early stage founders can spend time on polishing, preparing strong investor pitches, and executing GTM. How it works: Once you’re in. Just paste your idea and you will get a 14+ pointer diligence report having - validation of the problem you are trying to solve, funding potential based on past similar ventures, demand signals, willingness to pay, pricing research, market size, revenue ceiling, and other critical metrics. Please check it out and feel free to run a validation test on your idea. I will really appreciate feedback from the HN community. Live tool: https:&#x2F;&#x2F;nellailabs.ai\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://nellailabs.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49199781",
+    "createdAt": "2026-08-07T00:23:16.191Z"
+  },
+  {
+    "slug": "skye-ai-travel-companion-hn",
+    "title": "Skye, AI Travel Companion",
+    "shortDescription": "I have been working towards making travel easy for everyone. I would love some feedback.",
+    "fullDescription": "I have been working towards making travel easy for everyone. I would love some feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.flyskye.ai/skye",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49199684",
+    "createdAt": "2026-08-07T00:23:16.191Z"
+  },
+  {
+    "slug": "reduck-geo-open-source-skill-to-measure-and-optimize-claude-citations-hn",
+    "title": "Reduck GEO, open source Skill to measure and optimize Claude citations",
+    "shortDescription": "Проект «Reduck GEO, open source Skill to measure and optimize Claude citations», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Reduck GEO, open source Skill to measure and optimize Claude citations», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/reduck-ai/agents/tree/main",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49199192",
+    "createdAt": "2026-08-07T00:23:16.191Z"
+  },
+  {
+    "slug": "mnemosyne-export-ai-chat-to-carry-context-from-one-tool-into-another-hn",
+    "title": "Mnemosyne – Export AI chat to carry context from one tool into another",
+    "shortDescription": "Hi HN, recently I was running out of token on different providers such as Claude, Copilot and Codex and their free or trail plan for person…",
+    "fullDescription": "Hi HN, recently I was running out of token on different providers such as Claude, Copilot and Codex and their free or trail plan for personal purpose. I do change often model or provider but sometimes it&#x27;s difficult to provide the same good context as another tool, so I was wondering to create an utility to help me in doing that. I&#x27;ve created a CLI utility with an easy UI to discover the local chat sessions from the popular tools e.g. Claude and export in markdown&#x2F;json file the full or the tail of the session towards another model. By doing that I&#x27;m able to have a checkpoint and load it to a different tool or model. I thought it could help others to continue experimenting while still being in the free plan of a LLM cloud provider. Any feedback is appreciated, I&#x27;ll be around for questions if there are any.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/TheJoin95/mnemosyne/blob/main/README.md",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49199125",
+    "createdAt": "2026-08-07T00:23:16.191Z"
+  },
+  {
+    "slug": "stop-animated-images-from-autoplaying-hn",
+    "title": "Stop Animated Images from Autoplaying",
+    "shortDescription": "I’ve always been annoyed that browsers autoplay GIFs and other animated images. So I made GIF Control, a browser extension that stops anima…",
+    "fullDescription": "I’ve always been annoyed that browsers autoplay GIFs and other animated images. So I made GIF Control, a browser extension that stops animated images by default, shows the first frame, and adds a simple play&#x2F;stop button directly on the image so you decide when motion starts and stops. I built it with Codex. It’s available for Firefox, Chrome, Edge, and Opera. Bug reports, feedback, and advice on how to make it open source are very welcome. I’m a UX &amp; Product Designer experimenting with building my ideas using AI. I documented the process in a YouTube video in Spanish [1]. [1] https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=OVsNsnz3Xx0\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://neonglow.studio/gif-control/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49198517",
+    "createdAt": "2026-08-07T00:23:16.191Z"
+  },
+  {
     "slug": "awesome-ai-book-writing-github",
     "title": "awesome-ai-book-writing",
     "shortDescription": "A curated list of AI tools, workflows and resources for writing, editing and publishing full-length books.",
