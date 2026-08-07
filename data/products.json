@@ -1,5 +1,21 @@
 [
   {
+    "slug": "tocic-chatbot-table-of-content-browser-extension-hn",
+    "title": "Tocic – Chatbot table of content browser extension",
+    "shortDescription": "When using chatbots, I often lose track of which question the response I’m reading is answering. It is even more confusing when scroll up a…",
+    "fullDescription": "When using chatbots, I often lose track of which question the response I’m reading is answering. It is even more confusing when scroll up and down looking for a previous answer to a particular query. In a wall of text, I have no way to tell. So I made this simple browser extension to give me a simple table of content. It works on chatgpt.com, claude.ai, grok.com and gemini.google.com. I use the firefox version daily. Not tested on chrome Source code at https:&#x2F;&#x2F;github.com&#x2F;kmcheung12&#x2F;tocic\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://addons.mozilla.org/en-US/firefox/addon/tocic-chatbot-table-of-content/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49217206",
+    "createdAt": "2026-08-07T23:04:50.256Z"
+  },
+  {
     "slug": "podiom-persistent-project-context-goals-and-scheduling-for-ai-agents-hn",
     "title": "Podiom – Persistent project context, goals and scheduling for AI agents",
     "shortDescription": "Проект «Podiom – Persistent project context, goals and scheduling for AI agents», опубликован сообществом Hacker News.",
