@@ -1,5 +1,91 @@
 [
   {
+    "slug": "operator-github",
+    "title": "operator",
+    "shortDescription": "Praxis Kubernetes Operator",
+    "fullDescription": "Praxis Kubernetes Operator\n\nАвтор: praxis-proxy. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/praxis-proxy/operator",
+    "category": "ai-tool",
+    "tags": [
+      "agentic",
+      "ai",
+      "inference",
+      "kubernetes",
+      "networking",
+      "operator",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1326428110",
+    "createdAt": "2026-08-07T12:56:38.491Z"
+  },
+  {
+    "slug": "curio-a-place-for-html-files-hn",
+    "title": "Curio, a place for HTML files",
+    "shortDescription": "Howdy HN, LLMs are pretty good at generating HTML artifacts. Over the past couple of months I have found myself asking for HTML generations…",
+    "fullDescription": "Howdy HN, LLMs are pretty good at generating HTML artifacts. Over the past couple of months I have found myself asking for HTML generations when I want to visualize a process, sketch out an idea, or make a nice static (or even interactive) presentation for coworkers or friends. Unfortunately HTML is a bit unwieldy when it comes to sharing. Sure, there&#x27;s Vercel Drop and Netlify, but those are more for truly public sites and it&#x27;s hard to keep track of what was shared when and with whom. PDFs are static, lose interactivity, and sometimes drop fidelity, fonts, layouts, etc. So I built Curio, an app that allows one to store, share, and comment on HTML artifacts, be they AI-generated or hand-crafted. You can currently: - Publish self-contained HTML files - Add revisions without changing the review URL - Pin comments to elements, reply to threads, and add reactions - Share publicly, restrict access by email, or keep an artifact private - Rotate or revoke shared links In progress: - Publish directly from Claude or ChatGPT via MCP - A better dashboard to see what all was shared, when, and with whom Currently you can upload three artifacts for free. Reviewers do not need to sign in, and to comment the reviewer just needs a verified email. Happy to answer any technical questions. Also, feedback, bug reports, or suggestions would be greatly appreciated.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://letscurio.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49209603",
+    "createdAt": "2026-08-07T12:56:38.294Z"
+  },
+  {
+    "slug": "lefts-a-domain-specific-language-for-building-creative-ml-models-hn",
+    "title": "Lefts – a domain specific language for building creative ML models",
+    "shortDescription": "Lefts is a small domain specific language for applied machine learning modelling. It is aimed at anyone that builds predictive models for a…",
+    "fullDescription": "Lefts is a small domain specific language for applied machine learning modelling. It is aimed at anyone that builds predictive models for a living and wants to focus on reasoning about model behaviour and building creative architectures, and not on building train&#x2F;test pipelines or worrying about data leakage. It is simple but quite powerful - I have been using it in my own work to explore new ways of modelling (check out the tutorial on geometric models!), and to breeze past the least interesting parts of being a machine learning engineer. It also has some cool functional programming going on under the hood (check out the design philosophy!).\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://nsmat.github.io/lefts/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49209498",
+    "createdAt": "2026-08-07T12:56:38.294Z"
+  },
+  {
+    "slug": "which-devtools-win-when-llms-plan-real-web-apps-hn",
+    "title": "Which devtools win when LLMs plan real web apps",
+    "shortDescription": "Проект «Which devtools win when LLMs plan real web apps», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Which devtools win when LLMs plan real web apps», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://preseason.ai",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49209133",
+    "createdAt": "2026-08-07T12:56:38.295Z"
+  },
+  {
+    "slug": "akintu-ai-agents-trained-on-custom-knowledge-bases-using-rag-hn",
+    "title": "Akintu – AI agents trained on custom knowledge bases using RAG",
+    "shortDescription": "Проект «Akintu – AI agents trained on custom knowledge bases using RAG», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Akintu – AI agents trained on custom knowledge bases using RAG», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://akintu.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49208933",
+    "createdAt": "2026-08-07T12:56:38.295Z"
+  },
+  {
     "slug": "goal-flow-github",
     "title": "goal-flow",
     "shortDescription": "Graph-Orchestrated Agent Loop — a production-grade framework on LangGraph. Combine workflow graphs and agent loops, transpile Dify DSL to r…",
