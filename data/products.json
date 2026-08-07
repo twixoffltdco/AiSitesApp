@@ -1,5 +1,37 @@
 [
   {
+    "slug": "tape-music-hub-local-music-library-manager-with-a-p2p-phone-companion-hn",
+    "title": "Tape Music Hub, local music library manager with a P2P phone companion",
+    "shortDescription": "Hi HN, This is a personal project I have been building for the last three years. I had the technical and product background, but never quit…",
+    "fullDescription": "Hi HN, This is a personal project I have been building for the last three years. I had the technical and product background, but never quite enough uninterrupted time to take it all the way. AI coding tools finally gave me enough leverage to finish the version I had been carrying around in my head. I have spent years accumulating a proper local music library. I DJ from time to time, and I always have music locally that is not distributed on any “public” platform such as Spotify or Apple Music, so I only hear that music on my computer. The core idea was to use the same archive from my phone without moving it into a cloud catalog or rebuilding it in another app, while keeping it in the same place and making it easy to connect to other DJ apps. This means you can build your playlists on the go and add many more interesting features, and, easy to use and setup. Is desktop&#x2F;NAS app stays as the source of truth. You add the folders you already use for your music library, and the phone becomes a companion to that same library for browsing, searching, listening, reviewing, and working with playlists. Afterwards, it is as easy as dragging tracks into any playback software. --- The interesting part technically is the connection between the paired devices. It uses Iroh&#x2F;QUIC so the desktop remains the source of truth without requiring a conventional media server or a third-party cloud catalog. It can create a much easier experience without Tailscale, routing, or similar configuration, unless you specifically want it. I would especially appreciate feedback from people with cases like me other local music libraries, or anyone who has built local-first or peer-to-peer applications.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://tape-music-hub.gordo.design/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49215902",
+    "createdAt": "2026-08-07T21:09:44.946Z"
+  },
+  {
+    "slug": "public-web-change-intelligence-hn",
+    "title": "Public Web Change Intelligence",
+    "shortDescription": "Suggest a webpage we should monitor daily",
+    "fullDescription": "Suggest a webpage we should monitor daily\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://app.monity.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49215685",
+    "createdAt": "2026-08-07T21:09:44.946Z"
+  },
+  {
     "slug": "alyph-a-manual-transmission-for-llm-context-hn",
     "title": "Alyph, a manual transmission for LLM context",
     "shortDescription": "Since I started using LLMs, I&#x27;ve always had this feeling of wanting to go back, change the history, and then go down another branch. T…",
