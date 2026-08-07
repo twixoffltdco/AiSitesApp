@@ -1,5 +1,43 @@
 [
   {
+    "slug": "goal-flow-github",
+    "title": "goal-flow",
+    "shortDescription": "Graph-Orchestrated Agent Loop — a production-grade framework on LangGraph. Combine workflow graphs and agent loops, transpile Dify DSL to r…",
+    "fullDescription": "Graph-Orchestrated Agent Loop — a production-grade framework on LangGraph. Combine workflow graphs and agent loops, transpile Dify DSL to runnable code, swap wire protocols (Dify/OpenAI).\n\nАвтор: wanmol. Найдено в GitHub Trending (AI-тематика). ⭐ 71 звёзд.",
+    "url": "https://github.com/wanmol/goal-flow",
+    "category": "developer",
+    "tags": [
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "agentic-engineering",
+      "agentic-framework",
+      "agentic-workflow",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1325434588",
+    "createdAt": "2026-08-07T11:42:54.673Z"
+  },
+  {
+    "slug": "cleaner-speaker-identification-for-in-person-meeting-transcripts-hn",
+    "title": "Cleaner speaker identification for in-person meeting transcripts",
+    "shortDescription": "Проект «Cleaner speaker identification for in-person meeting transcripts», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Cleaner speaker identification for in-person meeting transcripts», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://apps.apple.com/us/app/ellis-in-person-ai-notes/id6753657763",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49208829",
+    "createdAt": "2026-08-07T11:42:54.354Z"
+  },
+  {
     "slug": "i-built-a-local-multi-agent-ai-for-android-on-my-phone-hn",
     "title": "I built a local multi-agent AI for Android on my phone",
     "shortDescription": "Проект «I built a local multi-agent AI for Android on my phone», опубликован сообществом Hacker News.",
