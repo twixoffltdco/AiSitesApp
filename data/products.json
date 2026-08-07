@@ -1,5 +1,37 @@
 [
   {
+    "slug": "merge-ai-native-code-review-assessments-for-engineering-hiring-hn",
+    "title": "Merge – AI-native code review assessments for engineering hiring",
+    "shortDescription": "We’re 5 founders who’ve collectively done over 250 interviews - everywhere from startups to Big Tech to quant shops. Most of the interviews…",
+    "fullDescription": "We’re 5 founders who’ve collectively done over 250 interviews - everywhere from startups to Big Tech to quant shops. Most of the interviews we’ve done were Leetcode based or tested skills that weren’t used on the job. These days, with AI, assessments still continue to test code output. Meanwhile, at each of our companies, though, PR counts have nearly tripled. Most of us haven’t manually edited a line of code in a year. Our teams are putting more and more emphasis on code and architecture reviews, yet hiring processes haven’t changed whatsoever. Even the AI-assisted ones we’ve done still assess code output as the primary evaluation metric. As agents develop, we truly believe this will not be the most challenging ability for an engineer to have. We’ve seen that the real difficulty with using AI is not just reviewing code your AI generates; it is reviewing code that another engineer’s AI has generated, having little context yourself. That’s why we’re launching Merge today. Our goal with Merge is to assess engineering judgement. We&#x27;re still quite early in the design phase, but here’s how it works: 1. Candidates are shown a small codebase to understand and a PR to review and comment on. 2. An AI agent addresses each PR comment via a code change or reply, simulating a real engineer. 3. Candidates can repeat until 5 revisions are used up or time runs out. At the end, we assess the following: 1. Coverage - How many bugs or vulnerabilities did the candidate identify and address? 2. Communication - Was the candidate efficient and constructive with their feedback? 3. Efficiency - How many revisions and tokens did the review take? We’re the first platform that can show companies exactly how efficient a candidate is with token use, LLM costs, and PR revisions — all of which are exceedingly important in real jobs. If you’re interested in the next-generation of engineering hiring, book a demo with us! Feel free to ask any questions below as well.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://mergeoa.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49213554",
+    "createdAt": "2026-08-07T17:22:05.868Z"
+  },
+  {
+    "slug": "hirenewtalentai-hire-offshore-in-minutes-via-api-hn",
+    "title": "Hirenewtalent.ai – Hire offshore in minutes via API",
+    "shortDescription": "hi everyone. My name is Jai. I own one of the largest driving schools in the Bay Area (and California!), and while trying to hire offshore…",
+    "fullDescription": "hi everyone. My name is Jai. I own one of the largest driving schools in the Bay Area (and California!), and while trying to hire offshore staff, I discovered just how hard it is. IT&#x27;S (surprisingly) WAY TOO HARD!! My best friend Alex and I realized that throughout our careers in F500 companies, startups of every stage, and small businesses that we ran into this problem many times over. You pretty much have 3 choices: 1) you go to an agency and pay upwards of $3k+ a month for a resource that should cost closer to $1k&#x2F;mo. 2) you go to a legacy marketplace like Upwork&#x2F;Fiverr and screen all the resumes yourself, interview each candidate, figure out payments, and then negotiate&#x2F;contract with each candidate. 3) you buy a bunch of software like LinkedIn recruiter (or AI slop recruiting tools) and Deel&#x2F;Rippling for payroll, and you build the entire hiring process&#x2F;infrastructure yourself All 3 of these options straight up suck. We realized that if we were to reimagine how a marketplace functions using AI, we could create a seamless experience that has never existed before. Here are some features that set us apart: 1) No more reviewing resumes: We parse, vectorize, and serve up whatever candidate you need. 2) No more interviews: We launch AI interviews to interview candidates on your behalf. You can watch the replays. 3) No more negotiating: We set market rates ourselves (think Uber, Lyft, Doordash, etc.). There&#x27;s no negotiating with candidates, ever. 4) Global payments and compliance: We handle all global payments and all compliance. One Stripe payment, and you&#x27;re good to go. 5) Labor liquidity: Your hire sucks? no prob. We&#x27;ll replace them in hours bc we&#x27;re a marketplace and have ample supply&#x2F;demand. We believe that labor markets should function as financial markets do, and we think we&#x27;re one step closer to achieving this reality. Oh and btw, you can do all this through our API&#x2F;MCP using your own agent (we&#x27;re calling this &quot;Vibe Hiring&quot;) Alex and I hope you enjoy our product as much as our customers (and we) do. We literally use HireNewTalent.ai ourselves to staff our own companies, so we live, breathe, and eat this! Any feedback helps. Thanks y&#x27;all!!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://hirenewtalent.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49212866",
+    "createdAt": "2026-08-07T17:22:05.869Z"
+  },
+  {
     "slug": "agent-monitor-monitor-your-coding-agent-live-hn",
     "title": "Agent Monitor – Monitor Your Coding Agent Live",
     "shortDescription": "Проект «Agent Monitor – Monitor Your Coding Agent Live», опубликован сообществом Hacker News.",
