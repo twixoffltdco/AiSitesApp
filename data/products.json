@@ -1,5 +1,21 @@
 [
   {
+    "slug": "esp32-bowling-system-technical-write-up-hn",
+    "title": "ESP32 Bowling System technical write-up",
+    "shortDescription": "Hi everyone! I&#x27;m the ESP32 Bowling guy from a few weeks ago, back with a technical write-up and a repo link. Since my last post, I&#x2…",
+    "fullDescription": "Hi everyone! I&#x27;m the ESP32 Bowling guy from a few weeks ago, back with a technical write-up and a repo link. Since my last post, I&#x27;ve received -tons- of support and encouragement for the project. I&#x27;m absolutely blown away. I didn&#x27;t think there would be much interest! This last week, I spent a ton of time working on the prototype. It can trigger my pinsetter machines and read ball state, there&#x27;s a basic state machine for the game and a React UI for the bowlers. I&#x27;ve also built the prototype uart bridge which connects an ESP32 gateway node to a raspberry pi lane compute module, which acts as a bridge between the ESPNOW mesh and lane-external services. The last major blocker is object detection on an ESP32-CAM module. I could go with a webcam wired to the Pi, but that feels like cheating. I really want the Pi running the state machine, websocket and REST API endpoints only. One of my key constraints for this project is that each node serves one purpose only, and it performs that purpose well. I know an ESP is resource-constrained though, so I&#x27;m not completely sure I can do pin detection onboard the ESP32-CAM. I&#x27;ve thought about ditching vision-based pin tracking entirely, and going with a mmwave radar module instead - then I&#x27;d get ball detection, speed &amp; trajectory for free on top of the pin tracking I actually need to count score. That tech is still somewhat expensive though (especially multiplied by 8 lanes), so for now I&#x27;ll stick with computer vision. Worst case scenario, I&#x27;ll implement the CV piece on the pi with a webcam to unblock myself there... but again, I&#x27;d really like all sensors and actuators to be esp32 nodes. The state machine is interesting - when I started, I didn&#x27;t think about all the bowling game variants out there. There&#x27;s traditional 10-pin, there&#x27;s 9-pin, candlepin, duckpin... OpenLaneLink needed to support all of them. Right now it does basic 10-pin only, but I&#x27;m working on a game configuration piece that takes in JSON definitions for each game type. The UI has been wired to the state machine, and I can drive a simulated game via REST calls to the pi. I also still need the pinsetter node to read machine state from a bank of optocouplers. Once the vision + optocoupler pieces are implemented, the MVP will be complete and I&#x27;ll finally be able to bring my own center&#x27;s Lane 2 back online. In full disclosure: I did use AI assistance for the project, but was very careful not to just vibe-code everything. I needed a research assistant to go fetch relevant information and assist with &quot;hey what&#x27;s the C syntax for such-and-such again?&quot; I review everything an AI suggests, which even led to an interesting &quot;argument&quot; with Claude about how a bowler&#x27;s scoresheet class should be implemented in the game state machine. It insisted individual frame score should be attributes of the overall game, rather than the individual player. Like... what? One day I&#x27;ll post a write-up on how AI helped the project and how it impeded my progress as well. Repo here: https:&#x2F;&#x2F;github.com&#x2F;nicholas-a-hall&#x2F;openlanelink&#x2F;tree&#x2F;breadbo... . Feedback and questions welcome, especially on the ESP32-CAM if anyone&#x27;s done onboard CV like this before! The project&#x27;s a bit of a mess right now, and not ready to deploy elsewhere. I&#x27;m definitely looking forward to publishing an alpha release in the next few weeks (after fully battle-testing it in my own facility, of course).\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://nicholas-a-hall.github.io/openlanelink/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49210416",
+    "createdAt": "2026-08-07T14:13:01.750Z"
+  },
+  {
     "slug": "operator-github",
     "title": "operator",
     "shortDescription": "Praxis Kubernetes Operator",
