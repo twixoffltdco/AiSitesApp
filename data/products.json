@@ -1,5 +1,43 @@
 [
   {
+    "slug": "pin-it-public-github",
+    "title": "pin-it-public",
+    "shortDescription": "A local Mac pinboard for saving anything you want to reuse with any AI.",
+    "fullDescription": "A local Mac pinboard for saving anything you want to reuse with any AI.\n\nАвтор: johnnyzhoujz. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://www.justpinit.xyz/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "electron",
+      "macos",
+      "mcp",
+      "open-source",
+      "pinboard",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1325628032",
+    "createdAt": "2026-08-07T03:27:08.341Z"
+  },
+  {
+    "slug": "selvedge-an-append-only-log-of-what-your-ai-agent-already-rejected-hn",
+    "title": "Selvedge – an append-only log of what your AI agent already rejected",
+    "shortDescription": "Проект «Selvedge – an append-only log of what your AI agent already rejected», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Selvedge – an append-only log of what your AI agent already rejected», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/masondelan/selvedge",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49205059",
+    "createdAt": "2026-08-07T03:27:08.174Z"
+  },
+  {
     "slug": "repo-to-landing-page-github",
     "title": "Repo-to-Landing-page",
     "shortDescription": "Turn any GitHub repository into a beautiful, AI-generated product website. RepoPages analyzes your README, codebase, and project metadata t…",
