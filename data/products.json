@@ -1,5 +1,27 @@
 [
   {
+    "slug": "openmed-github",
+    "title": "OpenMed",
+    "shortDescription": "Formidable OpenMed AI is a medication terminology interoperability service, mapping medication between hospital systems, pharmacy catalogs,…",
+    "fullDescription": "Formidable OpenMed AI is a medication terminology interoperability service, mapping medication between hospital systems, pharmacy catalogs, and standardized clinical terminologies such as SNOMED CT and ATC.\n\nАвтор: FormidableCare. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://formidable.care/contact?interest=openmed",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "atc",
+      "fhir",
+      "interoperability",
+      "medical-terminology",
+      "medication",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1326049046",
+    "createdAt": "2026-08-07T05:14:28.440Z"
+  },
+  {
     "slug": "pin-it-public-github",
     "title": "pin-it-public",
     "shortDescription": "A local Mac pinboard for saving anything you want to reuse with any AI.",
