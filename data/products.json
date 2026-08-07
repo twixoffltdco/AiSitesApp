@@ -1,5 +1,107 @@
 [
   {
+    "slug": "cosmic-github",
+    "title": "cosmic",
+    "shortDescription": "Click any planet, moon, star, or galaxy to dive into a scientifically accurate profile — physical data, internal structure, exploration mis…",
+    "fullDescription": "Click any planet, moon, star, or galaxy to dive into a scientifically accurate profile — physical data, internal structure, exploration missions, and citations back to NASA, ESA, JPL, the IAU, Hubble, JWST, and peer-reviewed publications.\n\nАвтор: AdilShamim8. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://cosmic-nine-rust.vercel.app/",
+    "category": "developer",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "cosmic",
+      "deplyment",
+      "open-source",
+      "opensource",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1325486342",
+    "createdAt": "2026-08-07T09:30:55.198Z"
+  },
+  {
+    "slug": "certo-an-open-source-platform-to-deliver-open-badges-hn",
+    "title": "Certo – An open source platform to deliver Open Badges",
+    "shortDescription": "Certo is open-source infrastructure for issuing, managing, verifying, and exchanging digital credentials. It implements Open Badges 3.0[1]…",
+    "fullDescription": "Certo is open-source infrastructure for issuing, managing, verifying, and exchanging digital credentials. It implements Open Badges 3.0[1] and W3C Verifiable Credentials[2] which are the open standards that make credentials portable, machine-verifiable, and vendor-independent. It is designed to be: - Self-hosted: run it inside your own infrastructure, air-gapped network, or sovereign cloud - Standards-compliant: credentials it issues work with any OB3&#x2F;VC-compatible system - API-first: everything the UI can do, the API can do - Exportable: your data is always yours, in open formats - Extensible: a small, stable core with a plugin interface for everything else A demo is available at https:&#x2F;&#x2F;certo.schroedinger-hat.org&#x2F; which we&#x27;re using for Schrödinger Hat[3] conferences, workshops, partner communities. I&#x27;ll be around if you have any questions. Feel free to give a feedback on the project. [1] https:&#x2F;&#x2F;www.imsglobal.org&#x2F;spec&#x2F;ob&#x2F;v3p0 [2] https:&#x2F;&#x2F;www.w3.org&#x2F;TR&#x2F;vc-data-model&#x2F; [3] https:&#x2F;&#x2F;schroedinger-hat.org&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/schroedinger-Hat/certo",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49207793",
+    "createdAt": "2026-08-07T09:30:54.948Z"
+  },
+  {
+    "slug": "agishub-pay-per-call-tools-for-ai-agents-over-x402-usdc-on-base-hn",
+    "title": "AgisHub – pay-per-call tools for AI agents over x402 (USDC on Base)",
+    "shortDescription": "Show HN: AgisHub – 30 tools for AI agents, free via MCP, paid via x402",
+    "fullDescription": "Show HN: AgisHub – 30 tools for AI agents, free via MCP, paid via x402\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://api.agishub.com/try",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49207617",
+    "createdAt": "2026-08-07T09:30:54.948Z"
+  },
+  {
+    "slug": "life-of-ai-i-hallucinate-therefore-i-am-hn",
+    "title": "Life Of AI – I hallucinate. Therefore I am",
+    "shortDescription": "when lazy people write blogs using LLMs. It is useless and do not provide any value to the world. But when a blog is written by LLMs withou…",
+    "fullDescription": "when lazy people write blogs using LLMs. It is useless and do not provide any value to the world. But when a blog is written by LLMs without human, It becomes very interesting.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://lifeofai.net/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49207615",
+    "createdAt": "2026-08-07T09:30:54.948Z"
+  },
+  {
+    "slug": "llmem-local-persistent-memory-for-ai-coding-no-embeddings-hn",
+    "title": "Llmem – Local persistent memory for AI coding, no embeddings",
+    "shortDescription": "Hi folks. This part of AI coding always felt really dumb: after working on many projects it repeats the same mistakes, uses awkward pattern…",
+    "fullDescription": "Hi folks. This part of AI coding always felt really dumb: after working on many projects it repeats the same mistakes, uses awkward patterns or looks up stuff over and over. It just does not remember. Skills exists, but I don&#x27;t like maintaining lots of markdown files. There were other solutions for this and I&#x27;m sure there are even more now, but I simply did not fancy those for one reason or another. So I wrote my own good-enough persistent memory which easily integrates with all AI coding tools I use. Lightweight, local, 1 Go binary + 1 SQLite file. Speaks MCP + good old REST API I can curl. After some testing I settled on BM25 lexical search with optional WordNet synonym expansions - no embeddings, no vector DB, no external API calls. A downside is English memories only, but that&#x27;s OK for me. Memory_context pulls priority-tagged memories at session start, auto-consolidation merges near-duplicates to prevent bloat. Later I added optional memory types, project scopes and hashtags. I&#x27;ve been running it as my own daily driver with Claude Code and Cursor for months now and I welcome you to try it too and provide any feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/netrixone/llmem",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49207517",
+    "createdAt": "2026-08-07T09:30:54.948Z"
+  },
+  {
+    "slug": "aident-loadout-connect-codex-to-real-apps-with-25000-actions-hn",
+    "title": "Aident Loadout – connect Codex to real apps with 25000 actions",
+    "shortDescription": "Hey HN, I&#x27;m Kimi, the founder of Aident. The reason we build Loadout is pretty simple: 1) more than coding, I want more from Codex or…",
+    "fullDescription": "Hey HN, I&#x27;m Kimi, the founder of Aident. The reason we build Loadout is pretty simple: 1) more than coding, I want more from Codex or Claude Code. I want them to do some real jobs for me. However, without connections to the real tools they need, they&#x27;d stop at planning and talking but not shipping the real result. So, we built Loadout so they can find and use the tools they need without configuring APIs, MCPs or CLIs. 2) Then, we realized something even worse: it&#x27;s a nightmare for me to configure an account for every tool the agents need. I have to register accounts, set up payment, and pay for subscriptions for each tool that agents need. Some of them I might only use once and never again. Loadout comes with a wide range of platform-managed subscriptions so that for those services, no personal SaaS subscriptions needed. I don&#x27;t need to pay an upfront cost for a subscription but instead I can only pay for usage. For example, saving $200 monthly fee for Ahrefs or $100 subscription for a stock market data service. 3) Lastly, it becomes an even bigger pain in the ass when I want to switch between different harnesses, because I have to configure everything again. With loadout we don&#x27;t have to do that anymore. I can connect once in Loadout and use it across all agents and on any machine. Here is a blog I put together to demonstrate how I can use loadout to research social media trends and then prepare rich content using some of the services on loadout. I can create images, blogs, and even videos and then upload for me autonomously. I did it without being the glue connecting all the tools or doing all sorts of manual work anymore. https:&#x2F;&#x2F;aident.ai&#x2F;blog&#x2F;how-to-use-aident-loadout For anyone who is interested, you can easily try it. Just tell your agent: Follow https:&#x2F;&#x2F;aident.ai&#x2F;SETUP.md We have the skill open-sourced here: https:&#x2F;&#x2F;github.com&#x2F;Aident-AI&#x2F;aident-skill The project is very early and I am still trying to figure out the simplest way to explain what Loadout is. Hopefully you can find value in it. Feel free to leave some feedback whether you like it or hate it. Either one will be very helpful to us.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Aident-AI/aident-skill",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49207397",
+    "createdAt": "2026-08-07T09:30:54.948Z"
+  },
+  {
     "slug": "capytoolkit-browser-native-developer-and-hardware-diagnostic-tools-hn",
     "title": "CapyToolkit – Browser-native developer and hardware diagnostic tools",
     "shortDescription": "Hi HN, I&#x27;m a solo dev with 13 years of WordPress &#x2F; WooCommerce experience, with a strong focus on performance (Core Web Vitals).…",
