@@ -1,5 +1,37 @@
 [
   {
+    "slug": "capytoolkit-browser-native-developer-and-hardware-diagnostic-tools-hn",
+    "title": "CapyToolkit – Browser-native developer and hardware diagnostic tools",
+    "shortDescription": "Hi HN, I&#x27;m a solo dev with 13 years of WordPress &#x2F; WooCommerce experience, with a strong focus on performance (Core Web Vitals).…",
+    "fullDescription": "Hi HN, I&#x27;m a solo dev with 13 years of WordPress &#x2F; WooCommerce experience, with a strong focus on performance (Core Web Vitals). Since early 2025, I&#x27;ve been implementing almost everything with AI but the vision and decisions are mine. Also, I always review the code, not only to ensure its logic is correct but often I learn something new too. For the last 3 months I&#x27;ve been working on CapyToolkit - a website with browser tools that run locally, without account needed, and with a strong focus on privacy. A few tools I think are worth highlighting: hardware diagnostics like gamepad drift, input lag and MIDI tester, a SQL Workbench that runs DuckDB on WASM which can be used to preview and query less popular but important DB formats. PII and EXIF scrubbers, offline OCR and redactor, and a WebRTC P2P Tester with no relay. Most tools never touch a server and don&#x27;t need connection once cached. The few that do use custom Cloudflare workers only where it&#x27;s required for tool functionality like IndexNow Submitter, or Cert Inspector fetching a cert from URL feature. Website is built with Astro, installable as PWA or via Microsoft Store. Privacy-wise the only analytics is PostHog, proxied through subdomain. Tool areas and forms are excluded from all tracking, heatmaps or session recordings. PostHog became my choice because it allows me to fully control what I track, and respect users privacy in line with my and website mission. Please, feel free to test it and drop a feedback, or even request a tool you would like to use there! I would be happy to implement something for you.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://capytoolkit.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49207156",
+    "createdAt": "2026-08-07T08:11:18.640Z"
+  },
+  {
+    "slug": "skill-to-stop-ai-agents-from-retry-looping-during-github-outages-hn",
+    "title": "Skill to stop AI agents from retry-looping during GitHub outages",
+    "shortDescription": "GitHub going down is part of engineering now, I made a skill that lets your agent check GitHub&#x27;s status on failure instead of retry-lo…",
+    "fullDescription": "GitHub going down is part of engineering now, I made a skill that lets your agent check GitHub&#x27;s status on failure instead of retry-looping.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/tbille/check-github-status",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49206945",
+    "createdAt": "2026-08-07T08:11:18.640Z"
+  },
+  {
     "slug": "seedance-25-video-api-30s-single-take-50-refs-4k-on-atlas-cloud-hn",
     "title": "Seedance 2.5 video API (30s single-take, 50 refs, 4K) on Atlas Cloud",
     "shortDescription": "ByteDance just dropped their global Seedance 2.5 API. Now you can try it on Atlas Cloud (ByteDance&#x27;s official US partner)",
