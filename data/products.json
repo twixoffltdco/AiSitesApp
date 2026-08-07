@@ -1,5 +1,21 @@
 [
   {
+    "slug": "flux3-video-1k-generation-test-180-mins-of-footage-hn",
+    "title": "FLUX.3 Video 1k generation test (180 mins of footage)",
+    "shortDescription": "I&#x27;ve always been a fan of Black Forest Labs&#x27; FLUX image models. Specifically how &quot;un-AI&quot; their look is. (One might even…",
+    "fullDescription": "I&#x27;ve always been a fan of Black Forest Labs&#x27; FLUX image models. Specifically how &quot;un-AI&quot; their look is. (One might even describe it the opposite of Midjourney which feels like it excels at a surreal look.) Seedance 2.5 is likely taking the spotlight today but I wanted to do a deep dive into FLUX.3 so it can get some attention. My general observation is that FLUX.3 video is the most &quot;clay-like&quot; video model I&#x27;ve played with. Specifically: - Adding and rerunning video prompts feels additive&#x2F;subtractive and not completely random generations (I feel much more in control of the medium). - &quot;Draft&quot; and &quot;Enhance&quot; modes (rerunning generations with the same seed) feel like getting to work with clay before committing in a kiln. Certainly a faster and cheaper way of working with generative video. Excited to share results here. The canvas has all generations with the prompts included. Spent ≈$1,000 on this test. Disclosure: I&#x27;m the co-founder of Martini (W26), which is where I ran the test\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.martini.film/p/35b02ee5-2488-4dc6-a9d9-c403211cfede/flux-3-15ryn2n",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49213712",
+    "createdAt": "2026-08-07T18:10:31.268Z"
+  },
+  {
     "slug": "merge-ai-native-code-review-assessments-for-engineering-hiring-hn",
     "title": "Merge – AI-native code review assessments for engineering hiring",
     "shortDescription": "We’re 5 founders who’ve collectively done over 250 interviews - everywhere from startups to Big Tech to quant shops. Most of the interviews…",
