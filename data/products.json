@@ -1,5 +1,21 @@
 [
   {
+    "slug": "seedance-25-video-api-30s-single-take-50-refs-4k-on-atlas-cloud-hn",
+    "title": "Seedance 2.5 video API (30s single-take, 50 refs, 4K) on Atlas Cloud",
+    "shortDescription": "ByteDance just dropped their global Seedance 2.5 API. Now you can try it on Atlas Cloud (ByteDance&#x27;s official US partner)",
+    "fullDescription": "ByteDance just dropped their global Seedance 2.5 API. Now you can try it on Atlas Cloud (ByteDance&#x27;s official US partner)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.atlascloud.ai/models/seedance-2.5",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49206655",
+    "createdAt": "2026-08-07T06:44:36.322Z"
+  },
+  {
     "slug": "openmed-github",
     "title": "OpenMed",
     "shortDescription": "Formidable OpenMed AI is a medication terminology interoperability service, mapping medication between hospital systems, pharmacy catalogs,…",
