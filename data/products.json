@@ -1,5 +1,21 @@
 [
   {
+    "slug": "appealr-15s-live-face-offs-ranked-by-human-votes-not-ai-hn",
+    "title": "Appealr – 15s live face-offs ranked by human votes (not AI)",
+    "shortDescription": "Проект «Appealr – 15s live face-offs ranked by human votes (not AI)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Appealr – 15s live face-offs ranked by human votes (not AI)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://appealr.vercel.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49219874",
+    "createdAt": "2026-08-08T08:36:56.358Z"
+  },
+  {
     "slug": "gemini-api-github",
     "title": "Gemini-api",
     "shortDescription": "Free, self-hosted OpenAI-compatible API for Google Gemini web chat. Local server + browser extension + Cloudflare Worker, zero API key requ…",
