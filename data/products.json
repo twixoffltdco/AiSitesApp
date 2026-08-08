@@ -1,5 +1,27 @@
 [
   {
+    "slug": "typo3-dev-mcp-github",
+    "title": "typo3-dev-mcp",
+    "shortDescription": "MCP server for TYPO3 v13/v14 development — gives AI assistants like Claude Code live insight into TCA, database schema, sites, TypoScript,…",
+    "fullDescription": "MCP server for TYPO3 v13/v14 development — gives AI assistants like Claude Code live insight into TCA, database schema, sites, TypoScript, logs and the core changelog.\n\nАвтор: balatD. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/balatD/typo3-dev-mcp",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-skills",
+      "mcp",
+      "mcp-server",
+      "typo3",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1326459557",
+    "createdAt": "2026-08-08T11:02:15.207Z"
+  },
+  {
     "slug": "agent-skills-collection-github",
     "title": "agent-skills-collection",
     "shortDescription": "Curated collection of modular agent skills for LLM-based agents",
