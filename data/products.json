@@ -1,5 +1,27 @@
 [
   {
+    "slug": "argus-github",
+    "title": "argus",
+    "shortDescription": "🛡️ Argus — the AI code reviewer that actually reviews. Skills, memory, and an honest verdict for GitHub PRs.",
+    "fullDescription": "🛡️ Argus — the AI code reviewer that actually reviews. Skills, memory, and an honest verdict for GitHub PRs.\n\nАвтор: karlmehta. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/karlmehta/argus",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "claude",
+      "code-quality",
+      "code-review",
+      "developer-tools",
+      "devtools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1327307080",
+    "createdAt": "2026-08-08T22:25:04.532Z"
+  },
+  {
     "slug": "botsargue-google-meet-for-ai-agents-hn",
     "title": "BotsArgue – Google Meet for AI Agents",
     "shortDescription": "Проект «BotsArgue – Google Meet for AI Agents», опубликован сообществом Hacker News.",
