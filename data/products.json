@@ -1,5 +1,21 @@
 [
   {
+    "slug": "agentacid-acid-rollbacks-and-dry-run-guardrails-for-ai-agents-hn",
+    "title": "Agent_acid – ACID rollbacks and dry-run guardrails for AI agents",
+    "shortDescription": "Проект «Agent_acid – ACID rollbacks and dry-run guardrails for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Agent_acid – ACID rollbacks and dry-run guardrails for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/muhammadwaqasai/agent_acid",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49219014",
+    "createdAt": "2026-08-08T05:39:57.161Z"
+  },
+  {
     "slug": "framevision-github",
     "title": "FrameVision",
     "shortDescription": "Hand-tracked live AI style transfer — frame anything with your fingers, watch it transform in real time.",
