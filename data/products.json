@@ -1,5 +1,27 @@
 [
   {
+    "slug": "gemini-api-github",
+    "title": "Gemini-api",
+    "shortDescription": "Free, self-hosted OpenAI-compatible API for Google Gemini web chat. Local server + browser extension + Cloudflare Worker, zero API key requ…",
+    "fullDescription": "Free, self-hosted OpenAI-compatible API for Google Gemini web chat. Local server + browser extension + Cloudflare Worker, zero API key required.\n\nАвтор: flawsom. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/flawsom/Gemini-api",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "api",
+      "browser-extension",
+      "chatgpt",
+      "cloudflare-workers",
+      "gemini",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1326597990",
+    "createdAt": "2026-08-08T07:46:18.158Z"
+  },
+  {
     "slug": "esprit-github",
     "title": "Esprit",
     "shortDescription": "Modular AI and filesystem intelligence workspace engine built in Rust.",
