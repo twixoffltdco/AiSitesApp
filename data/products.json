@@ -1,5 +1,24 @@
 [
   {
+    "slug": "esprit-github",
+    "title": "Esprit",
+    "shortDescription": "Modular AI and filesystem intelligence workspace engine built in Rust.",
+    "fullDescription": "Modular AI and filesystem intelligence workspace engine built in Rust.\n\nАвтор: krtvysinghh. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/krtvysinghh/Esprit",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "cli",
+      "rust",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1324899814",
+    "createdAt": "2026-08-08T06:46:04.124Z"
+  },
+  {
     "slug": "agentacid-acid-rollbacks-and-dry-run-guardrails-for-ai-agents-hn",
     "title": "Agent_acid – ACID rollbacks and dry-run guardrails for AI agents",
     "shortDescription": "Проект «Agent_acid – ACID rollbacks and dry-run guardrails for AI agents», опубликован сообществом Hacker News.",
