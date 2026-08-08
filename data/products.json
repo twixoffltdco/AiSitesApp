@@ -1,5 +1,49 @@
 [
   {
+    "slug": "agent-skills-collection-github",
+    "title": "agent-skills-collection",
+    "shortDescription": "Curated collection of modular agent skills for LLM-based agents",
+    "fullDescription": "Curated collection of modular agent skills for LLM-based agents\n\nАвтор: oliverb-io1902e8. Найдено в GitHub Trending (AI-тематика). ⭐ 146 звёзд.",
+    "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
+    "category": "productivity",
+    "tags": [
+      "agent-skills",
+      "agentic-workflow",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1325322542",
+    "createdAt": "2026-08-08T09:34:48.167Z"
+  },
+  {
+    "slug": "agent-feedback-github",
+    "title": "agent-feedback",
+    "shortDescription": "Leave comments on your live app. Your coding agent resolves them.",
+    "fullDescription": "Leave comments on your live app. Your coding agent resolves them.\n\nАвтор: montanaflynn. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://www.npmjs.com/package/@agent-feedback/cli",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "feedback",
+      "nextjs",
+      "react",
+      "ui",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1327019771",
+    "createdAt": "2026-08-08T09:34:48.167Z"
+  },
+  {
     "slug": "appealr-15s-live-face-offs-ranked-by-human-votes-not-ai-hn",
     "title": "Appealr – 15s live face-offs ranked by human votes (not AI)",
     "shortDescription": "Проект «Appealr – 15s live face-offs ranked by human votes (not AI)», опубликован сообществом Hacker News.",
