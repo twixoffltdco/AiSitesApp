@@ -1,5 +1,37 @@
 [
   {
+    "slug": "piyaz-keep-your-team-and-agents-aligned-as-software-projects-grow-hn",
+    "title": "Piyaz – keep your team and agents aligned as software projects grow",
+    "shortDescription": "Проект «Piyaz – keep your team and agents aligned as software projects grow», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Piyaz – keep your team and agents aligned as software projects grow», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://piyaz.ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49223861",
+    "createdAt": "2026-08-08T17:56:30.736Z"
+  },
+  {
+    "slug": "image-generation-api-using-ai-hn",
+    "title": "Image generation API using AI",
+    "shortDescription": "Проект «Image generation API using AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Image generation API using AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://imageapiai.com",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49223692",
+    "createdAt": "2026-08-08T17:56:30.736Z"
+  },
+  {
     "slug": "kadath-github",
     "title": "KADATH",
     "shortDescription": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimizat…",
