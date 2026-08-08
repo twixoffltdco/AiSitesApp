@@ -1,5 +1,87 @@
 [
   {
+    "slug": "framevision-github",
+    "title": "FrameVision",
+    "shortDescription": "Hand-tracked live AI style transfer — frame anything with your fingers, watch it transform in real time.",
+    "fullDescription": "Hand-tracked live AI style transfer — frame anything with your fingers, watch it transform in real time.\n\nАвтор: Bhargavi-hash. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://bhargavi-hash.github.io/FrameVision/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "computer-vision",
+      "hand-tracking",
+      "mediapipe",
+      "real-time",
+      "webcam",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1325923088",
+    "createdAt": "2026-08-08T04:34:57.561Z"
+  },
+  {
+    "slug": "federal-ai-incident-reporting-github",
+    "title": "federal-ai-incident-reporting",
+    "shortDescription": "A mandatory federal incident-reporting regime for AI security failures, built on a technically grounded, machine-readable taxonomy of how A…",
+    "fullDescription": "A mandatory federal incident-reporting regime for AI security failures, built on a technically grounded, machine-readable taxonomy of how AI systems break. Policy framework + JSON Schema + MITRE ATLAS / OWASP / NIST crosswalk.\n\nАвтор: Krishita17. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://krishita17.github.io/federal-ai-incident-reporting/",
+    "category": "developer",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "ai-governance",
+      "ai-policy",
+      "ai-safety",
+      "ai-security",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1326738567",
+    "createdAt": "2026-08-08T04:34:57.561Z"
+  },
+  {
+    "slug": "vibewatch-github",
+    "title": "vibewatch",
+    "shortDescription": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
+    "fullDescription": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding\n\nАвтор: GOROman. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/GOROman/vibewatch",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ble-hid",
+      "esp32-s3",
+      "m5stack",
+      "m5stack-stopwatch",
+      "platformio",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1327327043",
+    "createdAt": "2026-08-08T04:34:57.561Z"
+  },
+  {
+    "slug": "buddy-an-ios-browser-with-an-ai-agent-inside-hn",
+    "title": "Buddy – An iOS browser with an AI agent inside",
+    "shortDescription": "My friends and I noticed we kept running into the same loop on our phones: ask a chatbot about some stuff, follow the Google links, then ba…",
+    "fullDescription": "My friends and I noticed we kept running into the same loop on our phones: ask a chatbot about some stuff, follow the Google links, then back to the chatbot for some follow up questions. What we really wanted was for the agent to be right beside us on the browser. Seeing exactly what we see and having the ability to actually carry out the tasks. Some stuff like this exists on desktop but there aren&#x27;t really any good options for mobile, which is where we do most of our browsing. So we built Buddy. We just launched it on the App Store last week and would love for you to give it a try. https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;buddy-the-ai-mobile-browser&#x2F;id... We&#x27;re still figuring out distribution and what people would pay for. We&#x27;d appreciate any feedback, especially if you find anything that breaks or can suggest ways you think it could be made more useful.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://apps.apple.com/us/app/buddy-the-ai-mobile-browser/id6788047483",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49218628",
+    "createdAt": "2026-08-08T04:34:57.285Z"
+  },
+  {
     "slug": "ai-novel-writer-github",
     "title": "ai-novel-writer",
     "shortDescription": "AI 驱动的长篇小说写作系统。支持世界观构建、角色深度塑造（OCEAN 人格模型）、章节智能写作（流式输出）、12 项质量审查。11 种 AI 模型自由切换，数据完全存储在你的服务器上。",
