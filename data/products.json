@@ -1,5 +1,59 @@
 [
   {
+    "slug": "kadath-github",
+    "title": "KADATH",
+    "shortDescription": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimizat…",
+    "fullDescription": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.\n\nАвтор: i3T4AN. Найдено в GitHub Trending (AI-тематика). ⭐ 15 звёзд.",
+    "url": "https://github.com/i3T4AN/KADATH",
+    "category": "developer",
+    "tags": [
+      "agent-evaluation-tools",
+      "agent-framework",
+      "agent-swarms",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1327912711",
+    "createdAt": "2026-08-08T16:29:20.252Z"
+  },
+  {
+    "slug": "tchoai-transform-your-documents-into-editable-slide-decks-hn",
+    "title": "TchoAI – Transform your documents into editable slide decks",
+    "shortDescription": "Hey Show HN! We are building an AI presentation tool that generates editable slides and charts, built from your documents and data. We are…",
+    "fullDescription": "Hey Show HN! We are building an AI presentation tool that generates editable slides and charts, built from your documents and data. We are focusing on PowerPoint fidelity and charts that can use data from other connectors. It is still in beta but would appreciate any feedback and suggestion!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://tcho.ai/en",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49223291",
+    "createdAt": "2026-08-08T16:29:20.179Z"
+  },
+  {
+    "slug": "a-source-level-review-of-sakana-ais-continuous-thought-machine-hn",
+    "title": "A Source-Level Review of Sakana AI's Continuous Thought Machine",
+    "shortDescription": "Проект «A Source-Level Review of Sakana AI's Continuous Thought Machine», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A Source-Level Review of Sakana AI's Continuous Thought Machine», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://fengrru.me/blog/ctm-theory-review.md",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49222937",
+    "createdAt": "2026-08-08T16:29:20.179Z"
+  },
+  {
     "slug": "my-ai-agent-built-and-shipped-a-browser-game-on-its-own-hn",
     "title": "My AI agent built and shipped a browser game on its own",
     "shortDescription": "Проект «My AI agent built and shipped a browser game on its own», опубликован сообществом Hacker News.",
