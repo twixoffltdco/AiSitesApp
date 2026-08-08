@@ -1,5 +1,27 @@
 [
   {
+    "slug": "ai-novel-writer-github",
+    "title": "ai-novel-writer",
+    "shortDescription": "AI 驱动的长篇小说写作系统。支持世界观构建、角色深度塑造（OCEAN 人格模型）、章节智能写作（流式输出）、12 项质量审查。11 种 AI 模型自由切换，数据完全存储在你的服务器上。",
+    "fullDescription": "AI 驱动的长篇小说写作系统。支持世界观构建、角色深度塑造（OCEAN 人格模型）、章节智能写作（流式输出）、12 项质量审查。11 种 AI 模型自由切换，数据完全存储在你的服务器上。\n\nАвтор: ccccc571. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://novel.zmjp.cn/",
+    "category": "writing",
+    "tags": [
+      "ai",
+      "ai-novel",
+      "creative-writing",
+      "llm",
+      "nodejs",
+      "novel",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1326347105",
+    "createdAt": "2026-08-08T03:22:45.596Z"
+  },
+  {
     "slug": "ai-assurance-profile-github",
     "title": "ai-assurance-profile",
     "shortDescription": "A runnable evaluation harness + procurement standard for AI system assurance: probes an LLM/agent for prompt-injection, jailbreak, data-lea…",
