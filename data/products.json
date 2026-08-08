@@ -1,5 +1,37 @@
 [
   {
+    "slug": "dive-into-amigagames-hn",
+    "title": "Dive into Amiga.games",
+    "shortDescription": "Проект «Dive into Amiga.games», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Dive into Amiga.games», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://classicreload.com/platform/amiga%20os",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49225105",
+    "createdAt": "2026-08-08T19:54:13.557Z"
+  },
+  {
+    "slug": "holycode-cloud-persistent-linux-workstations-for-ai-hn",
+    "title": "HolyCode Cloud – persistent Linux workstations for AI",
+    "shortDescription": "Проект «HolyCode Cloud – persistent Linux workstations for AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «HolyCode Cloud – persistent Linux workstations for AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://holycode.cloud",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49225061",
+    "createdAt": "2026-08-08T19:54:13.557Z"
+  },
+  {
     "slug": "xianyu-rpa-github",
     "title": "xianyu-rpa",
     "shortDescription": "闲鱼卖家 RPA 自动化运营助手｜多店铺聚合接待·订单自动处理·AI智能客服",
