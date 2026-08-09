@@ -1,5 +1,59 @@
 [
   {
+    "slug": "ai-engineering-roadmap-github",
+    "title": "ai-engineering-roadmap",
+    "shortDescription": "The GitHub repository for aiengineeringroadmap.com",
+    "fullDescription": "The GitHub repository for aiengineeringroadmap.com\n\nАвтор: ahmetmelihcalis. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "aiengineeringroadmap.com",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-engineering",
+      "data-science",
+      "deep-learning",
+      "machine-learning",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1328812934",
+    "createdAt": "2026-08-09T15:59:10.611Z"
+  },
+  {
+    "slug": "tokenspend-the-ai-roi-solution-hn",
+    "title": "TokenSpend, the AI ROI Solution",
+    "shortDescription": "Hey HN, I was curious about how most companies and individuals were using AI without any meaningful insights. I built TokenSpend ( https:&#…",
+    "fullDescription": "Hey HN, I was curious about how most companies and individuals were using AI without any meaningful insights. I built TokenSpend ( https:&#x2F;&#x2F;tokenspend.dev&#x2F; ); we find existing ROI on AI code usage by tracking how much output was produced for your agent sessions, identifying inefficiencies with AI usage, and then, based on that data, we route you through the most efficient model. Solo devs can also use it as an AI Gateway with visibility into their spend.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://tokenspend.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49232466",
+    "createdAt": "2026-08-09T15:59:10.399Z"
+  },
+  {
+    "slug": "sufleur-npm-style-prompt-registry-with-typed-code-generation-hn",
+    "title": "Sufleur - npm-style prompt registry with typed code-generation",
+    "shortDescription": "Hi HN, I&#x27;ve built Sufleur, a prompt registry and companion CLI tool. The motivation was essentially the frustration that prompts are b…",
+    "fullDescription": "Hi HN, I&#x27;ve built Sufleur, a prompt registry and companion CLI tool. The motivation was essentially the frustration that prompts are becoming more and more crucial parts of applications, but in the codebases I&#x27;ve seen, they just sit around as random strings, in-house templates with odd rules, and essentially no version control beyond git. I&#x27;ve felt pain in the past when prompts suddenly changed their schemas (either input for rendering or output expected by the LLM), having to read through the whole thing to figure out what I need to supply for the rendering to work, and spent hours trying to debug why the carefully written and evaluated prompt which worked wonders in a python notebook suddenly stopped working in a typescript codebase in prod... These are the main ideas: - Mustache templates for the prompts, since Mustache is a mature, logic-less templating language which already has packages in a lot of languages I would ever want to target. - Input schemas to render a prompt properly are inferred fully from the template. No separate interface to keep in sync, the parser in Sufleur figures out the schema, with some extensions I&#x27;ve added to the templating to aid this. - Output JSON schemas also recorded on the prompts. - Semver versioning and immutable versions after publishing. - The CLI that allows installing&#x2F;updating&#x2F;removing prompts as dependencies, generating the code, and exposes all the authoring methods, so your AI agent can drive the prompt development cycle as well. - No runtime dependency(!). The code is generated with all of the content inlined. The generated code allows you to render each prompt, provides methods to parse and validate the outputs, and access metadata fields (provider, model, model-parameters). - Public and workspace private prompts. Public prompts can be installed without an account. - Workspace rules can optionally enforce semver semantics (breaking change can&#x27;t be patch-bumped) and mandatory eval thresholds. The CLI is open source (written in go), with npm and pypi wrapper packages distributed. The platform itself has other features (evals, workspace management) all that jazz. Free to use for individuals or $2&#x2F;seat&#x2F;month for teams beyond 3 people. Some honest limitations: - It&#x27;s a solo project. - Only python and typescript codegen so far, but very open to extending that in the future when demand arises. - Currently working on a representation of LLM tool-calls, they are not on the platform yet but soon will be. - Pretty much no users so far (admittedly, haven&#x27;t done much marketing either), so really looking forward to see some folks pick it up and get some honest criticism. Docs: https:&#x2F;&#x2F;sufleur.com&#x2F;docs Curious to see what others use to version and share prompts today, most of the solutions I have seen focused mostly on tracing, without providing much structure around the prompts themselves.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/sufleur/cli",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49232345",
+    "createdAt": "2026-08-09T15:59:10.399Z"
+  },
+  {
     "slug": "industrial-mcp-github",
     "title": "industrial-mcp",
     "shortDescription": "将工业设备变成 AI 可控工具的 MCP 服务器。支持 Modbus、OPC UA、MQTT 三种协议，内置设备仿真引擎、物理模型和完整的调试工具链。让 Claude 用自然语言监控传感器、启停电机、执行工厂巡检。",
