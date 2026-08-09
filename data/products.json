@@ -1,5 +1,37 @@
 [
   {
+    "slug": "pomona-offline-small-ai-reasoners-for-agricultural-sensors-hn",
+    "title": "Pomona, offline small AI reasoners for agricultural sensors",
+    "shortDescription": "Проект «Pomona, offline small AI reasoners for agricultural sensors», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Pomona, offline small AI reasoners for agricultural sensors», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/okyanu/pomona",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49228078",
+    "createdAt": "2026-08-09T03:15:30.889Z"
+  },
+  {
+    "slug": "aidress-langchain-integration-for-cross-agent-discovery-and-trust-hn",
+    "title": "Aidress – LangChain integration for cross-agent discovery and trust",
+    "shortDescription": "Проект «Aidress – LangChain integration for cross-agent discovery and trust», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Aidress – LangChain integration for cross-agent discovery and trust», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://docs.langchain.com/oss/python/integrations/tools",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49227511",
+    "createdAt": "2026-08-09T03:15:30.890Z"
+  },
+  {
     "slug": "mekka-github",
     "title": "Mekka",
     "shortDescription": "The agent-native Supabase killer: SQLite speed today, distributed cloud next, without the PostgreSQL tax.",
