@@ -1,5 +1,21 @@
 [
   {
+    "slug": "qwen38-max-use-qwen-studio-and-mcp-to-code-locally-for-free-hn",
+    "title": "Qwen3.8-Max – Use Qwen Studio and MCP to Code Locally for Free",
+    "shortDescription": "Qwen3.8-Max + MCP for coding on your local machine, without paying for Qwen Code. Qwen3.8-Max itself runs in the cloud through Qwen Studio…",
+    "fullDescription": "Qwen3.8-Max + MCP for coding on your local machine, without paying for Qwen Code. Qwen3.8-Max itself runs in the cloud through Qwen Studio — this setup just gives it access to your local files and terminal through MCP. My take: it is slower than Codex and Claude Code, especially in thinking mode, but it does work well. MCP adds some latency too since there’s an extra layer between the model and your machine. In fast mode, it gets noticeably closer. I wouldn’t put it in the same category as Fable or Opus-5. Personally, I’d place it closer to the next Opus 4.7 level in terms of coding ability. These are just my impressions from using it, not a benchmark. Used AI to write this description. Don&#x27;t freak out.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/tohid4n/qwen3.8-max-local-coding",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49228173",
+    "createdAt": "2026-08-09T04:45:57.554Z"
+  },
+  {
     "slug": "pomona-offline-small-ai-reasoners-for-agricultural-sensors-hn",
     "title": "Pomona, offline small AI reasoners for agricultural sensors",
     "shortDescription": "Проект «Pomona, offline small AI reasoners for agricultural sensors», опубликован сообществом Hacker News.",
