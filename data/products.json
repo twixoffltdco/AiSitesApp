@@ -1,5 +1,27 @@
 [
   {
+    "slug": "industrial-mcp-github",
+    "title": "industrial-mcp",
+    "shortDescription": "将工业设备变成 AI 可控工具的 MCP 服务器。支持 Modbus、OPC UA、MQTT 三种协议，内置设备仿真引擎、物理模型和完整的调试工具链。让 Claude 用自然语言监控传感器、启停电机、执行工厂巡检。",
+    "fullDescription": "将工业设备变成 AI 可控工具的 MCP 服务器。支持 Modbus、OPC UA、MQTT 三种协议，内置设备仿真引擎、物理模型和完整的调试工具链。让 Claude 用自然语言监控传感器、启停电机、执行工厂巡检。\n\nАвтор: zhiningsun. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://github.com/zhiningsun/industrial-mcp",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "asyncio",
+      "claude",
+      "claude-desktop",
+      "industrial",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1328886807",
+    "createdAt": "2026-08-09T15:28:21.927Z"
+  },
+  {
     "slug": "pandev-cli-github",
     "title": "pandev-cli",
     "shortDescription": "What your AI coding agents actually cost — by task, branch, model and file. Runs locally, sends nothing.",
