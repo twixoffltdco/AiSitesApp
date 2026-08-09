@@ -1,5 +1,75 @@
 [
   {
+    "slug": "claude-skills-github",
+    "title": "claude-skills",
+    "shortDescription": "Agent Skills von LOGIN zur freien Nutzung - SKILL.md-Format fuer Claude Code, Claude-App und API",
+    "fullDescription": "Agent Skills von LOGIN zur freien Nutzung - SKILL.md-Format fuer Claude Code, Claude-App und API\n\nАвтор: LOGIN-TB. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/LOGIN-TB/claude-skills",
+    "category": "developer",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "claude",
+      "claude-skills",
+      "deutsch",
+      "prompt-engineering",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1326586077",
+    "createdAt": "2026-08-09T17:28:39.802Z"
+  },
+  {
+    "slug": "a-replayable-a2a-jury-for-tracing-how-agents-influence-decisions-hn",
+    "title": "A replayable A2A jury for tracing how agents influence decisions",
+    "shortDescription": "Проект «A replayable A2A jury for tracing how agents influence decisions», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A replayable A2A jury for tracing how agents influence decisions», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49233306",
+    "createdAt": "2026-08-09T17:28:39.554Z"
+  },
+  {
+    "slug": "runonmine-local-policy-and-approvals-for-ai-access-to-your-machine-hn",
+    "title": "RunOnMine – local policy and approvals for AI access to your machine",
+    "shortDescription": "Проект «RunOnMine – local policy and approvals for AI access to your machine», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «RunOnMine – local policy and approvals for AI access to your machine», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/ademisler/RunOnMine",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49233245",
+    "createdAt": "2026-08-09T17:28:39.555Z"
+  },
+  {
+    "slug": "glypho-generate-editable-svgs-from-simple-ai-prompts-hn",
+    "title": "GlyPho – Generate editable SVGs from simple AI prompts",
+    "shortDescription": "Проект «GlyPho – Generate editable SVGs from simple AI prompts», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «GlyPho – Generate editable SVGs from simple AI prompts», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.glypho.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49233172",
+    "createdAt": "2026-08-09T17:28:39.555Z"
+  },
+  {
     "slug": "ai-engineering-roadmap-github",
     "title": "ai-engineering-roadmap",
     "shortDescription": "The GitHub repository for aiengineeringroadmap.com",
