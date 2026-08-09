@@ -1,5 +1,59 @@
 [
   {
+    "slug": "pandev-cli-github",
+    "title": "pandev-cli",
+    "shortDescription": "What your AI coding agents actually cost — by task, branch, model and file. Runs locally, sends nothing.",
+    "fullDescription": "What your AI coding agents actually cost — by task, branch, model and file. Runs locally, sends nothing.\n\nАвтор: pandev-metriks. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://pandev-metrics.com/cli",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "claude",
+      "claude-code",
+      "cli",
+      "codex",
+      "cost-tracking",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1328542091",
+    "createdAt": "2026-08-09T13:47:01.875Z"
+  },
+  {
+    "slug": "job-seeker-ai-agent-skills-for-job-searching-hn",
+    "title": "Job Seeker – AI agent skills for job searching",
+    "shortDescription": "Markdown skills that coding agents (Devin, Claude, Cursor, opencode) consume to automate the entire job search: search LinkedIn, fill Easy…",
+    "fullDescription": "Markdown skills that coding agents (Devin, Claude, Cursor, opencode) consume to automate the entire job search: search LinkedIn, fill Easy Apply, track in kanban, draft replies.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/galiprandi/job-seeker",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49231157",
+    "createdAt": "2026-08-09T13:47:01.735Z"
+  },
+  {
+    "slug": "yc-startup-school-but-ai-native-hn",
+    "title": "YC Startup School, but AI-Native",
+    "shortDescription": "Hi HN, YC Startup School is a great resource and was part of the inspiration. But I think right now, much of the startup education model be…",
+    "fullDescription": "Hi HN, YC Startup School is a great resource and was part of the inspiration. But I think right now, much of the startup education model became capable of actually working alongside a founder with AI agents. So I&#x27;m experimenting with what an AI-native version of Startup School. I&#x27;m looking for early users who are willing to try it and give me brutally useful feedback. At Foundera, our AI Agents can help you research a problem, challenge assumptions around an idea, validate the market, define milestones, and help you move from an idea toward something you can actually build. Foundera can also help you build the right product by connecting to your best external AI coding tools, such as Codex, Claude etc. I&#x27;m also building the ecosystem layer around this. As founders progress, I&#x27;d like Foundera to connect them with other founders, mentors, accelerators and eventually investors that actually make sense for their current stage. It&#x27;s still early, and parts of it will definitely be wrong. That&#x27;s why I&#x27;m posting here. Use &quot;EARLY-BIRD&quot; and you&#x27;ll get 4 months worth free access to all of the AI tools while I&#x27;m testing this. Happy to answer questions here, including technical or product questions and things that aren&#x27;t working yet. Thanks.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://foundera.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49231031",
+    "createdAt": "2026-08-09T13:47:01.735Z"
+  },
+  {
     "slug": "would-your-ai-audit-logs-survive-an-audit-challenge-hn",
     "title": "Would your AI audit logs survive an audit challenge?",
     "shortDescription": "Проект «Would your AI audit logs survive an audit challenge?», опубликован сообществом Hacker News.",
