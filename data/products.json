@@ -1,5 +1,43 @@
 [
   {
+    "slug": "benday-github",
+    "title": "benday",
+    "shortDescription": "Turn your logo into an animated thinking indicator for agent UIs and more.",
+    "fullDescription": "Turn your logo into an animated thinking indicator for agent UIs and more.\n\nАвтор: KacemMathlouthi. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://benday.kacemmathlouthi.dev",
+    "category": "ai-tool",
+    "tags": [
+      "agent-ui",
+      "ai",
+      "ai-agents",
+      "dots",
+      "loading-indicator",
+      "react",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1327076283",
+    "createdAt": "2026-08-09T11:26:08.739Z"
+  },
+  {
+    "slug": "argonix-one-ai-powered-platform-for-sre-and-cloud-operations-hn",
+    "title": "Argonix – One AI-powered platform for SRE and cloud operations",
+    "shortDescription": "Hi everybody, I built https:&#x2F;&#x2F;argonix.io . Argonix is an AI-powered platform for SRE, security and cloud operations. The idea is…",
+    "fullDescription": "Hi everybody, I built https:&#x2F;&#x2F;argonix.io . Argonix is an AI-powered platform for SRE, security and cloud operations. The idea is to bring and connect together things that are usually spread across many different tools: monitoring, security, Finops, health checks, workflows and incident investigation. A few things you can do with it: Connectors: Connect Argonix to your existing stack: Kubernetes, AWS, GCP, Azure, your own MCP servers, etc. Workflows: Build automation flows using the connectors. Health notebooks: Get a daily overview of the health of your platforms. Argonix can publish the report to Slack, Confluence, etc., and create tickets when something needs attention. Periodic jobs: Schedule recurring checks, analysis and automation. Security: Scan of your connectors infras, your code also (new feature), analyse network logs, and look for vulnerabilities and threats. It can also consume data from tools such as Falco, Wazuh, Wiz, SonarQube, etc. FinOps – Analyse cloud costs across AWS, GCP and Azure. Monitoring: Monitor works just like UptimeKuma or others, plus automatically discover and monitor Kubernetes ingresses&#x2F;gateways, run synthetic tests, and analyse logs. Alert investigatio: You can send alerts from Datadog, Grafana and others to Argonix. The AI can investigate the alert, read the KB and provide recommendations or even propose a PR. Conversational AI: Talk to your infrastructure and connected tools through a conversational interface. Under the hood, Argonix is built with Python&#x2F;DRF, Vue.js and PostgreSQL. Argonix is available as both a SaaS and a self-hosted version. You also choose which AI model you want to use. You can connect your own AI provider&#x2F;account, and with the self-hosted version you can run a local model. I&#x27;ve been testing it locally with Qwen. You can create an account for free and start playing with it. It&#x27;s still a work in progress and there are definitely some bugs, so I&#x27;d really appreciate feedback from people working in the field. I would love to hear what you think, what you would change, and what would make it genuinely useful in your day-to-day work. Thanks, David.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://argonix.io/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49230251",
+    "createdAt": "2026-08-09T11:26:08.655Z"
+  },
+  {
     "slug": "airy-free-fast-and-simple-voice-content-creation-hn",
     "title": "Airy – Free, fast, and simple voice content creation",
     "shortDescription": "Проект «Airy – Free, fast, and simple voice content creation», опубликован сообществом Hacker News.",
