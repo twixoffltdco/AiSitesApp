@@ -1,5 +1,53 @@
 [
   {
+    "slug": "pacific-slate-a-self-hosted-model-agnostic-multi-agent-ai-assistant-hn",
+    "title": "Pacific Slate: a self-hosted, model-agnostic multi-agent AI assistant",
+    "shortDescription": "I didn&#x27;t want to buy a standalone computer or repurpose a laptop to run constantly so I could maintain a system to sync my LLMs, so I…",
+    "fullDescription": "I didn&#x27;t want to buy a standalone computer or repurpose a laptop to run constantly so I could maintain a system to sync my LLMs, so I built this. It&#x27;s a simple overview of my system, laid out in a way easy to unpack and replicate for yourself. The project is meant to be configured individually, and uniquely, since one solution might not be what&#x27;s best for another. If anything, maybe it gives you some ideas on how to implement things for your own project. Best wishes, Ryan.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://pacslate.com/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49235865",
+    "createdAt": "2026-08-09T21:28:56.413Z"
+  },
+  {
+    "slug": "wardline-a-go-proxy-that-auto-blocks-compromised-ai-agents-hn",
+    "title": "Wardline, a Go proxy that auto-blocks compromised AI agents",
+    "shortDescription": "Проект «Wardline, a Go proxy that auto-blocks compromised AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Wardline, a Go proxy that auto-blocks compromised AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/kabirnarang39/wardline",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49235863",
+    "createdAt": "2026-08-09T21:28:56.413Z"
+  },
+  {
+    "slug": "standards-opinionated-linter-hn",
+    "title": "Standards – Opinionated Linter",
+    "shortDescription": "I have given the same feedback over years of PR comments. I made a linting tool that flags feedback so you can on pre-commit get coding age…",
+    "fullDescription": "I have given the same feedback over years of PR comments. I made a linting tool that flags feedback so you can on pre-commit get coding agents to adhere automatically ship compliant code.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/sarj-ai/standards",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49235624",
+    "createdAt": "2026-08-09T21:28:56.413Z"
+  },
+  {
     "slug": "uniswap-snip-bot-github-2",
     "title": "Uniswap-Snip-Bot",
     "shortDescription": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks i…",
