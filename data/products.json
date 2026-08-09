@@ -1,5 +1,65 @@
 [
   {
+    "slug": "mekka-github",
+    "title": "Mekka",
+    "shortDescription": "The agent-native Supabase killer: SQLite speed today, distributed cloud next, without the PostgreSQL tax.",
+    "fullDescription": "The agent-native Supabase killer: SQLite speed today, distributed cloud next, without the PostgreSQL tax.\n\nАвтор: yiaany. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/yiaany/Mekka",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "artificial-intelligence",
+      "authentication",
+      "baas",
+      "backend-as-a-service",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1327760772",
+    "createdAt": "2026-08-09T01:25:26.749Z"
+  },
+  {
+    "slug": "generative-loaders-github",
+    "title": "generative-loaders",
+    "shortDescription": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
+    "fullDescription": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.\n\nАвтор: kasturikhanke. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://generativeloaders.com",
+    "category": "image-video",
+    "tags": [
+      "accessibility",
+      "ai",
+      "animation",
+      "framer-motion",
+      "generative-ui",
+      "loader",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1327360831",
+    "createdAt": "2026-08-09T01:25:26.749Z"
+  },
+  {
+    "slug": "tura-build-agent-that-uses-80-less-token-and-delivers-better-results-hn",
+    "title": "Tura – Build agent that uses 80% less token and delivers better results",
+    "shortDescription": "Проект «Tura – Build agent that uses 80% less token and delivers better results», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Tura – Build agent that uses 80% less token and delivers better results», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/Tura-AI/tura",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49227119",
+    "createdAt": "2026-08-09T01:25:26.612Z"
+  },
+  {
     "slug": "faaah-filesystem-as-an-ai-handler-hn",
     "title": "Faaah – Filesystem as an AI Handler",
     "shortDescription": "Проект «Faaah – Filesystem as an AI Handler», опубликован сообществом Hacker News.",

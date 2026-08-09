@@ -6,6 +6,24 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://aisitesapp.tatnet.app/products/mekka-github</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aisitesapp.tatnet.app/products/generative-loaders-github</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aisitesapp.tatnet.app/products/tura-build-agent-that-uses-80-less-token-and-delivers-better-results-hn</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://aisitesapp.tatnet.app/products/faaah-filesystem-as-an-ai-handler-hn</loc>
     <lastmod>2026-08-08</lastmod>
     <changefreq>weekly</changefreq>
