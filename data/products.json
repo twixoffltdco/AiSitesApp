@@ -1,5 +1,27 @@
 [
   {
+    "slug": "uniswap-snip-bot-github-2",
+    "title": "Uniswap-Snip-Bot",
+    "shortDescription": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks i…",
+    "fullDescription": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks in 0.6–2.8% per cycle.\n\nАвтор: cleverpanda536i. Найдено в GitHub Trending (AI-тематика). ⭐ 94 звёзд.",
+    "url": "https://github.com/cleverpanda536i/Uniswap-Snip-Bot",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "binance",
+      "bitcoin",
+      "bot",
+      "btc",
+      "claude",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1329090969",
+    "createdAt": "2026-08-09T19:10:57.060Z"
+  },
+  {
     "slug": "uniswap-snip-bot-github",
     "title": "Uniswap-Snip-Bot",
     "shortDescription": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks i…",
