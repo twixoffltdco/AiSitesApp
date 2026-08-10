@@ -1,5 +1,21 @@
 [
   {
+    "slug": "ai-pulse-a-fake-led-strip-beside-the-macos-dock-that-shows-agent-status-hn",
+    "title": "AI Pulse a fake LED strip beside the macOS Dock that shows agent status",
+    "shortDescription": "Hi HN! I run a few Claude Code sessions in parallel and kept cmd-tabbing around just to find out one of them had been sitting on a permissi…",
+    "fullDescription": "Hi HN! I run a few Claude Code sessions in parallel and kept cmd-tabbing around just to find out one of them had been sitting on a permission prompt for ten minutes. There&#x27;s a hardware gadget I liked (called SidePulse.io) so before waiting to get my shipment I built the software version instead :D I hope you like it and find it useful as I do!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/leog/ai-pulse",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49250486",
+    "createdAt": "2026-08-10T22:34:16.432Z"
+  },
+  {
     "slug": "oqoqo-build-evals-and-custom-benchmarks-for-real-world-tasks-hn",
     "title": "Oqoqo – build evals and custom benchmarks for real-world tasks",
     "shortDescription": "Most benchmarks today exist in curated environments and do not translate well to the real world. We built Oqoqo to bridge this gap. Oqoqo m…",
