@@ -1,5 +1,65 @@
 [
   {
+    "slug": "n8meter-github",
+    "title": "n8meter",
+    "shortDescription": "Open-source cost metering for n8n AI workflows — token usage per workflow, priced daily, on your own machine.",
+    "fullDescription": "Open-source cost metering for n8n AI workflows — token usage per workflow, priced daily, on your own machine.\n\nАвтор: bekkooazar. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/bekkooazar/n8meter",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "anthropic",
+      "cost-tracking",
+      "dashboard",
+      "llm",
+      "n8n",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1329706276",
+    "createdAt": "2026-08-10T13:54:41.461Z"
+  },
+  {
+    "slug": "system-design-for-ai-github",
+    "title": "System-Design-For-AI",
+    "shortDescription": "System design for AI, taught like a story — free, from zero to production.",
+    "fullDescription": "System design for AI, taught like a story — free, from zero to production.\n\nАвтор: AdilShamim8. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://system-design-for-ai.space-z.ai",
+    "category": "chatbot",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "data-science",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1329444981",
+    "createdAt": "2026-08-10T13:54:41.461Z"
+  },
+  {
+    "slug": "edgi-letterboxd-or-strava-for-your-brain-hn",
+    "title": "Edgi – Letterboxd or Strava for your brain",
+    "shortDescription": "Hi HN Excited to share edgi.tv - an educational media platform where the things you learn accumulate into a visual map of your intellectual…",
+    "fullDescription": "Hi HN Excited to share edgi.tv - an educational media platform where the things you learn accumulate into a visual map of your intellectual interests. The experiment is whether you can build a consumer product around intellectual identity, something like Letterboxd or Strava but for your brain. The main entry point is a curated TikTok-style feed that surfaces vids from creators like Kurzgezagt, VSauce, AstroAlexandra, Cleo Abram, 3Blue1Brown, etymologynerd, etc with interactive games accessible on top of the videos. You can also create podcasts, quizzes, etc with AI on any topic you’re interested in and earn XP towards concepts. Concepts are the unit that connect all media together and create the knowledge graph and power the rec algo. As you engage with a concept, you have a chance to earn a Concept Card (a Pokemon-style collectible for that idea). The concepts then accumulate on a mind map, which doubles as a social surface so you can see what friends are interested in and where your interests overlap. I’m an adjunct at NYU and have taught there for ~7 years. I started when I was 23. In college I worked on a project where we redesigned the architecture and curriculum of a high school from scratch, and since then I’ve been kind of obsessed with problems in education and what the future of learning looks like. Most edu products start with the thing somebody has to learn and works backward. You need to pass a test, get a degree, get into college, learn something for a job, etc. That external pressure drives motivation short term but I think also creates a lot of strange incentive structures around learning. I’m more interested in learning that sits outside that model - things people voluntarily spend hours trying to understand even though there’s no test, credential, or obvious external forcing factor. This is part of why I find edu creators so compelling as an entrypoint: people voluntarily spend hours watching explainers about things they had no prior intention of learning. I have no idea yet whether - the product loop makes sense &#x2F; if people will care about collecting concepts after novelty wears off - whether a map of someone’s interests can become a socially meaningful artifact - whether there are just too many ideas stuffed into one app Open to any criticism or feedback. No sign-up demo: https:&#x2F;&#x2F;edgi.tv Full app is live on iOS&#x2F;Mac&#x2F;iPad here: https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;edgi-swipe-to-get-smarter&#x2F;id67... I’ll be around to answer any questions.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://app.edgi.tv/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49243195",
+    "createdAt": "2026-08-10T13:54:41.051Z"
+  },
+  {
     "slug": "an-open-source-multi-tenant-ai-native-software-factory-hn",
     "title": "An open-source multi-tenant, AI-native software factory",
     "shortDescription": "Проект «An open-source multi-tenant, AI-native software factory», опубликован сообществом Hacker News.",
