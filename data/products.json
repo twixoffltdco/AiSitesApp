@@ -1,5 +1,21 @@
 [
   {
+    "slug": "nexusmem-local-context-memory-engine-for-ai-coding-agents-hn",
+    "title": "NexusMem – Local context memory engine for AI coding agents",
+    "shortDescription": "Проект «NexusMem – Local context memory engine for AI coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «NexusMem – Local context memory engine for AI coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/yaminbakoh4-dot/NexusMem",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49240020",
+    "createdAt": "2026-08-10T07:26:57.733Z"
+  },
+  {
     "slug": "stock-intelligent-data-analytics-github",
     "title": "Stock-Intelligent-Data-Analytics",
     "shortDescription": "数智分析 - 自托管 AI 盯盘助手 (PanWatch fork)。四模型融合预测 + 主力资金面 + 龙虎榜游资信号 + LLM情绪总结 + 企微美化推送",
