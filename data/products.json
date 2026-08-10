@@ -1,5 +1,37 @@
 [
   {
+    "slug": "ai-powered-app-store-replies-that-sound-like-you-hn",
+    "title": "AI-powered App Store replies that sound like you",
+    "shortDescription": "Проект «AI-powered App Store replies that sound like you», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI-powered App Store replies that sound like you», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.replyargus.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49251080",
+    "createdAt": "2026-08-10T23:31:59.464Z"
+  },
+  {
+    "slug": "pyrig-a-tool-that-automates-project-setup-and-maintenance-hn",
+    "title": "Pyrig – A tool that automates project setup and maintenance",
+    "shortDescription": "# What is pyrig? pyrig is a package and tool that *rigs up* your project. It scaffolds and initializes a complete, fully configured, instal…",
+    "fullDescription": "# What is pyrig? pyrig is a package and tool that *rigs up* your project. It scaffolds and initializes a complete, fully configured, installed and working Python project with one command and makes the process of developing and maintaining it more seamless and efficient by automating things like configuration management, CLI generation, testing infrastructure, and more. # Requirements * Python 3.12+ * Git * uv # Quick Start uv init my-project --python 3.12 cd my-project uv add pyrig --dev uv run pyrig init See the [Getting Started Guide]( https:&#x2F;&#x2F;Winipedia.github.io&#x2F;pyrig&#x2F;getting-started ) for detailed setup instructions to also fully integrate with GitHub and CI&#x2F;CD from the start. # Features # [Project Scaffolding &amp; Initialization]( https:&#x2F;&#x2F;Winipedia.github.io&#x2F;pyrig&#x2F;scaffolding ) `pyrig init` generates a complete project in one command that works out of the box. This includes everything a modern python project needs: * Standardized directory structure * Fully configured dev tools (linters, formatters, type checkers, test frameworks, git hooks, etc.) * End-to-end CI&#x2F;CD pipeline with GitHub Actions and integrated repository protection * Complete and working CLI * And much more... # [File &amp; Configuration Management]( https:&#x2F;&#x2F;Winipedia.github.io&#x2F;pyrig&#x2F;config-files ) Every generated file is backed by a Python class that validates and merges automatically. Override any config by subclassing, or define entirely new config files — pyrig discovers and manages them for you. Run `pyrig sync` to create or update all config files at once. Run `pyrig mk subcls` to generate a subclass for overriding a specific file. # [Automatic CLI]( https:&#x2F;&#x2F;Winipedia.github.io&#x2F;pyrig&#x2F;cli ) `pyrig init` sets up a CLI for your project that works immediately. Generate and add new commands by running `pyrig mk cmd &lt;name&gt;`. An automatic version command is included that shows the version of your project. Run `my-project version` to see it in action. # [Mirror Test Generation &amp; Maintenance]( https:&#x2F;&#x2F;Winipedia.github.io&#x2F;pyrig&#x2F;mirror-tests ) Generate test skeletons with `pyrig sync`. This will generate test skeletons for all source modules and update them automatically as your project evolves. # [Multi-Package Inheritance and Extensibility Architecture]( https:&#x2F;&#x2F;Winipedia.github.io&#x2F;pyrig&#x2F;architecture ) Override and customize any and all behaviour to suit your project&#x27;s needs. pyrig&#x27;s classes are designed for inheritance and composition, allowing you to create custom configurations, tools, and more by subclassing and simply overriding methods. pyrig will automatically discover and use your custom classes without any additional configuration. Run `pyrig mk subcls` to generate a subclass for any pyrig class. # [CI&#x2F;CD &amp; Repository Protection]( https:&#x2F;&#x2F;Winipedia.github.io&#x2F;pyrig&#x2F;ci-cd ) Pyrig generates GitHub Actions workflows for CI&#x2F;CD which automatically test and release your code. They also configure and apply repository protection settings and protection rulesets. Push your code to GitHub after initialization and see it in action. # Commands Run `pyrig --help` to see a list of all available commands and their usage. Run `pyrig &lt;command&gt; --help` for more information about a specific command and its usage. Run `my-project --help` to see the automatically generated CLI for your project. # Documentation |[*Full Documentation*]( https:&#x2F;&#x2F;Winipedia.github.io&#x2F;pyrig )|The manually written documentation| |:-|:-| |[*CodeWiki*]( https:&#x2F;&#x2F;codewiki.google&#x2F;github.com&#x2F;winipedia&#x2F;pyrig )|AI-generated documentation| |[*Tutorials*]( https:&#x2F;&#x2F;www.youtube.com&#x2F;@Winipedia-py&#x2F;playlists )|YouTube tutorials for pyrig|\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/Winipedia/pyrig",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49250815",
+    "createdAt": "2026-08-10T23:31:59.464Z"
+  },
+  {
     "slug": "ai-pulse-a-fake-led-strip-beside-the-macos-dock-that-shows-agent-status-hn",
     "title": "AI Pulse a fake LED strip beside the macOS Dock that shows agent status",
     "shortDescription": "Hi HN! I run a few Claude Code sessions in parallel and kept cmd-tabbing around just to find out one of them had been sitting on a permissi…",
