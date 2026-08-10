@@ -1,5 +1,103 @@
 [
   {
+    "slug": "dreamy-motion-editorial-github",
+    "title": "dreamy-motion-editorial",
+    "shortDescription": "高级朦胧梦幻动态视觉 Skill：把随手拍照片转化为电影感图生图提示词。Dreamy motion editorial prompts from casual photos.",
+    "fullDescription": "高级朦胧梦幻动态视觉 Skill：把随手拍照片转化为电影感图生图提示词。Dreamy motion editorial prompts from casual photos.\n\nАвтор: lzs0594. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/lzs0594/dreamy-motion-editorial",
+    "category": "image-video",
+    "tags": [
+      "ai",
+      "ai-art",
+      "art-direction",
+      "image-generation",
+      "midjourney",
+      "photography",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1328936229",
+    "createdAt": "2026-08-10T02:26:54.947Z"
+  },
+  {
+    "slug": "shareloop-github",
+    "title": "ShareLoop",
+    "shortDescription": "Community-sharing platform to borrow, lend, rent, sell & donate items. Share More. Waste Less. 🌱",
+    "fullDescription": "Community-sharing platform to borrow, lend, rent, sell & donate items. Share More. Waste Less. 🌱\n\nАвтор: varshith900. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://share-loop.lovable.app",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "cloudflare",
+      "community-sharing",
+      "google-maps",
+      "postgreesql",
+      "react",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1328500496",
+    "createdAt": "2026-08-10T02:26:54.947Z"
+  },
+  {
+    "slug": "agenticrag-github",
+    "title": "agentic_rag",
+    "shortDescription": "An advanced, intelligent Retrieval-Augmented Generation (RAG) framework designed to perform multi-step reasoning, dynamic context retrieval…",
+    "fullDescription": "An advanced, intelligent Retrieval-Augmented Generation (RAG) framework designed to perform multi-step reasoning, dynamic context retrieval, and precise query answering.\n\nАвтор: meddadaek. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/meddadaek/agentic_rag",
+    "category": "developer",
+    "tags": [
+      "agentic-ai",
+      "agentic-workflow",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-coding",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1328286167",
+    "createdAt": "2026-08-10T02:26:54.947Z"
+  },
+  {
+    "slug": "ask-your-coding-agent-to-subtitle-translate-and-clip-video-ffmpeg-hn",
+    "title": "Ask your coding agent to subtitle, translate, and clip video (FFmpeg)",
+    "shortDescription": "Проект «Ask your coding agent to subtitle, translate, and clip video (FFmpeg)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Ask your coding agent to subtitle, translate, and clip video (FFmpeg)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/perso-ai/perso-dubbing-plugin",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49238442",
+    "createdAt": "2026-08-10T02:26:54.550Z"
+  },
+  {
+    "slug": "a-local-first-modular-replacement-for-your-accounting-software-hn",
+    "title": "A local-first, modular replacement for your accounting software",
+    "shortDescription": "Celerp is a self-hosted accounting and ERP system that runs as a desktop app, starts a local server with bundled Postgres, and lets people…",
+    "fullDescription": "Celerp is a self-hosted accounting and ERP system that runs as a desktop app, starts a local server with bundled Postgres, and lets people in the office connect from their browsers. Developers can also run it with: pip install celerp &amp;&amp; celerp init The structure is modular. New modules can be built and imported without forking the repo, so someone using AI coding tools can describe what their business needs, build a module around it, and import it directly into the system. I have spent about 20 years building ERP systems for factories, wholesalers, and gemstone &amp; jewelry businesses. Celerp is my attempt to take everything that I’ve learned and turn it into a system that is simple to deploy, self-hosted, and can easily be expanded upon. On install, users can choose from 16 industry presets, which load the relevant default modules and configuration. Many fields can also be edited directly in-place, closer to a spreadsheet than a traditional ERP screen. I hope this makes the system more familiar for small business owners than the menu-driven inputs typical of larger enterprise systems. Current modules include inventory, purchasing, invoicing, manufacturing, accounting, barcode labels, CSV import&#x2F;export, role permissions, an AI operator, and an immutable audit trail. My thesis is that the long-term trend will be toward companies taking greater ownership of both their infrastructure and their data. I hope that Celerp can help some companies make that transition. The licensing model is open-core: the core is BUSL-1.1 (converts to Apache), and the default business modules are MIT. The official UI is source-available, with free use for single-user deployments. The project is still early. I’m especially interested in feedback on three areas: 1. Where do you think self-hosted&#x2F;local-first business software breaks down in practice? 2. How would you get self-hosted business software directly into the hands of SMEs without relying on implementers? 3. What’s missing for your own business use case? All feedback is welcome. Download: https:&#x2F;&#x2F;celerp.com&#x2F;download.html\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/celerp/celerp",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49237633",
+    "createdAt": "2026-08-10T02:26:54.550Z"
+  },
+  {
     "slug": "uniswap-arbitrage-bot-github",
     "title": "UNISWAP-ARBITRAGE-BOT",
     "shortDescription": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks i…",
