@@ -1,5 +1,49 @@
 [
   {
+    "slug": "ai-smart-contract-auditor-github",
+    "title": "ai-smart-contract-auditor",
+    "shortDescription": "AuditSentry — AI-powered smart contract security auditor for Claude Code. Automated vulnerability detection, exploit PoCs, mainnet-fork sim…",
+    "fullDescription": "AuditSentry — AI-powered smart contract security auditor for Claude Code. Automated vulnerability detection, exploit PoCs, mainnet-fork simulation, and professional audit reports for Solidity & Vyper across all EVM chains.\n\nАвтор: iktok90-design. Найдено в GitHub Trending (AI-тематика). ⭐ 34 звёзд.",
+    "url": "https://github.com/iktok90-design/ai-smart-contract-auditor",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "audit",
+      "claude-code",
+      "defi",
+      "ethereum",
+      "evm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1329535977",
+    "createdAt": "2026-08-10T08:57:42.186Z"
+  },
+  {
+    "slug": "awesome-ecommerce-ai-tools-github",
+    "title": "awesome-ecommerce-ai-tools",
+    "shortDescription": "面向电商与跨境卖家的 AI 视觉工具清单 — 商品主图、场景图、模特试穿、带货短视频。A curated list of AI visual tools for e-commerce and cross-border sellers.",
+    "fullDescription": "面向电商与跨境卖家的 AI 视觉工具清单 — 商品主图、场景图、模特试穿、带货短视频。A curated list of AI visual tools for e-commerce and cross-border sellers.\n\nАвтор: pixgt-ai. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/pixgt-ai/awesome-ecommerce-ai-tools",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-tools",
+      "aigc",
+      "awesome",
+      "cross-border-ecommerce",
+      "ecommerce",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1329410717",
+    "createdAt": "2026-08-10T08:57:42.186Z"
+  },
+  {
     "slug": "nexusmem-local-context-memory-engine-for-ai-coding-agents-hn",
     "title": "NexusMem – Local context memory engine for AI coding agents",
     "shortDescription": "Проект «NexusMem – Local context memory engine for AI coding agents», опубликован сообществом Hacker News.",
