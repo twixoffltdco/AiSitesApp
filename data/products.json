@@ -1,5 +1,53 @@
 [
   {
+    "slug": "etincel-trains-claudes-voice-for-pr-reviews-and-code-comments-hn",
+    "title": "Étincel trains Claude's voice for PR reviews and code comments",
+    "shortDescription": "Проект «Étincel trains Claude's voice for PR reviews and code comments», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Étincel trains Claude's voice for PR reviews and code comments», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/AIStoryHub/etincel",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49248600",
+    "createdAt": "2026-08-10T19:53:35.275Z"
+  },
+  {
+    "slug": "gitseq-a-repo-becomes-a-workroom-hn",
+    "title": "Gitseq: A Repo Becomes a Workroom",
+    "shortDescription": "Last week I was trying to figure out how to run a new project at work, where there are lots of technical artifacts, lots of stakeholders up…",
+    "fullDescription": "Last week I was trying to figure out how to run a new project at work, where there are lots of technical artifacts, lots of stakeholders upstream and downstream, plenty of documentation for different audiences... all the usual stuff, and actually very little &quot;code&quot; and lots of &quot;best practice&quot; that the project will manage. I won&#x27;t even be the subject-matter expert for most of it. Yikes. Then I figured out a small thing that could make the whole job easier: git plus a sequencer plus some ontology. Proving the idea took a few hours, until it was bootstrapped enough to use as its own development harness with a handful of agents doing most of the implementation. Work in progress - plenty still to do - but I think it&#x27;s useful for agentic development. Hopefully it will eventually turn out to be the &quot;PMO in a box&quot; that I really need for that project. A few artifacts: - Blog post: https:&#x2F;&#x2F;generalbusiness.ai&#x2F;blog&#x2F;2026-08-09-gitseq&#x2F; - &quot;Coordination and Traceability: Not Two Problems&quot; - GitHub repo: https:&#x2F;&#x2F;github.com&#x2F;generalbusiness-ai&#x2F;gitseq (MIT license, go kernel) - 5-minute walkthrough video: https:&#x2F;&#x2F;youtu.be&#x2F;LwVhU3mNXnM The core of the idea is: coordination for agents (and people), in the &quot;small pieces loosely joined&quot; way, could use an event sequencer (I&#x27;ve just spent a few months poking at a distributed VM project inspired by Croquet and LambdaMOO that ended up using an event-sequencer as one of the key primitives) and deterministic &quot;projections across a log&quot; (to see the status of things); if the things whose status you track are work-products, this creates traceability from the get-go. &quot;`make` for agentic stuff&quot;, if you like. And the sequencer is just built on top of git refs. Then, add a small amount of vocabulary (promises and conditions of satisfaction), that&#x27;s enough to get real work done in a structured, traceable way. You can say &quot;request: do X&quot;, then &quot;I&#x27;ll do it&quot; (strongly referencing the request), then actually do it (strongly referencing the commitment), then... all the way to delivering the thing, which itself can say &quot;this is based on X&quot; in an auditable way. The actual deliverable of that story is: a repo becomes a workroom. Or: an agent harness, where there&#x27;s not much harness and it&#x27;s mostly just git over MCP. Or: (the UI is ugly and honestly not very good) &quot;slack for agents&quot;. Hope you all find it interesting!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/generalbusiness-ai/gitseq",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49248199",
+    "createdAt": "2026-08-10T19:53:35.275Z"
+  },
+  {
+    "slug": "lians-ai-token-bounded-memory-and-evidence-for-ai-workflows-hn",
+    "title": "Lians AI, Token-bounded memory and evidence for AI workflows",
+    "shortDescription": "we built this for improved memory and reduced token usage for claude code and codex",
+    "fullDescription": "we built this for improved memory and reduced token usage for claude code and codex\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Lians-ai/Lians",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49248029",
+    "createdAt": "2026-08-10T19:53:35.275Z"
+  },
+  {
     "slug": "needle2-14mb-agentic-llm-for-phones-wearables-smart-home-and-robots-hn",
     "title": "Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
     "shortDescription": "Hey HN, Henry from Cactus here! We previously released Cactus Needle, a 14MB agentic LLM for tool call, device use, and structured extracti…",
