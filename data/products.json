@@ -1,5 +1,134 @@
 [
   {
+    "slug": "uniswap-arbitrage-bot-github",
+    "title": "UNISWAP-ARBITRAGE-BOT",
+    "shortDescription": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks i…",
+    "fullDescription": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks in 0.6–2.8% per cycle.\n\nАвтор: kogecodaviw9225. Найдено в GitHub Trending (AI-тематика). ⭐ 16 звёзд.",
+    "url": "https://github.com/kogecodaviw9225/UNISWAP-ARBITRAGE-BOT",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "binance",
+      "bitcoin",
+      "bot",
+      "btc",
+      "claude",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1329279646",
+    "createdAt": "2026-08-10T00:00:10.166Z"
+  },
+  {
+    "slug": "ai-native-engineer-github",
+    "title": "AI-native-engineer",
+    "shortDescription": "Tracking my journey into AI engineering, one module at a time. Fundamentals to agents, with hands-on projects. Open to all.",
+    "fullDescription": "Tracking my journey into AI engineering, one module at a time. Fundamentals to agents, with hands-on projects. Open to all.\n\nАвтор: bimal1023. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/bimal1023/AI-native-engineer",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-engineering",
+      "ai-model",
+      "ai-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1327431176",
+    "createdAt": "2026-08-10T00:00:10.167Z"
+  },
+  {
+    "slug": "sloplang-github",
+    "title": "sloplang",
+    "shortDescription": "Slop - is programming language, that fully developed by Ai.",
+    "fullDescription": "Slop - is programming language, that fully developed by Ai.\n\nАвтор: mosshaven. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/mosshaven/sloplang",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-coding",
+      "programming-language",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1328026717",
+    "createdAt": "2026-08-10T00:00:10.167Z"
+  },
+  {
+    "slug": "ai-engineer-interview-github",
+    "title": "AI-Engineer-Interview",
+    "shortDescription": "An open-source, bilingual (Persian & English), interactive interview preparation platform designed for modern AI Engineers, LLM & RAG Devel…",
+    "fullDescription": "An open-source, bilingual (Persian & English), interactive interview preparation platform designed for modern AI Engineers, LLM & RAG Developers, and MLOps Practitioners.\n\nАвтор: M-Taghizadeh. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://m-taghizadeh.github.io/AI-Engineer-Interview/",
+    "category": "ai-tool",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-coding",
+      "ai-engineer",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1327853744",
+    "createdAt": "2026-08-10T00:00:10.167Z"
+  },
+  {
+    "slug": "agenteval-github",
+    "title": "agenteval",
+    "shortDescription": "Open-source agent evaluation framework - score any AI agent across providers with standardized benchmarks",
+    "fullDescription": "Open-source agent evaluation framework - score any AI agent across providers with standardized benchmarks\n\nАвтор: rexblade58. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/rexblade58/agenteval",
+    "category": "developer",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "benchmark",
+      "evaluation",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1328227354",
+    "createdAt": "2026-08-10T00:00:10.167Z"
+  },
+  {
+    "slug": "llm-ensemble-simulator-github",
+    "title": "llm-ensemble-simulator",
+    "shortDescription": "Multi-agent LLM ensemble simulator for cognitive bias reduction in synthetic personas",
+    "fullDescription": "Multi-agent LLM ensemble simulator for cognitive bias reduction in synthetic personas\n\nАвтор: gitreginato. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/gitreginato/llm-ensemble-simulator",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ensemble",
+      "llm",
+      "multi-agent",
+      "pytest",
+      "simulation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1327640929",
+    "createdAt": "2026-08-10T00:00:10.167Z"
+  },
+  {
     "slug": "an-ai-chief-of-staff-for-founders-who-cant-afford-one-hn",
     "title": "An AI chief of staff for founders who can't afford one",
     "shortDescription": "Проект «An AI chief of staff for founders who can't afford one», опубликован сообществом Hacker News.",
