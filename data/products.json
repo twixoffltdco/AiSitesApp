@@ -1,5 +1,21 @@
 [
   {
+    "slug": "nitpicler-i-was-quoted-1m-for-ai-pr-review-so-i-bulit-it-myself-hn",
+    "title": "Nitpicler. I was quoted $1M for AI PR review – so I bulit it myself",
+    "shortDescription": "Hi HN. I wanted an AI reviewer on every PR at work. Quotes came back around $1M&#x2F;year, almost entirely per-seat licensing. I built a tr…",
+    "fullDescription": "Hi HN. I wanted an AI reviewer on every PR at work. Quotes came back around $1M&#x2F;year, almost entirely per-seat licensing. I built a true open source alternative. We use it internally at Postman and the cost is ~$300&#x2F;m in token usage. It&#x27;s open source, self hosted (also supports AWS lambda, cloudflare workers or Github actions) and can be deployed in under a minute. It is lightweight (only diff is sent to the LLM), support any LLM provider and scalable. Our busiest repo has thousands of PRs a day and we usually get PR reviews within 30 seconds. Give it a try and let me know what you think - https:&#x2F;&#x2F;nitpicker.dev\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://nitpicker.dev",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49244936",
+    "createdAt": "2026-08-10T15:57:42.547Z"
+  },
+  {
     "slug": "uniswap-arbitrage-bot-github-2",
     "title": "UNISWAP-ARBITRAGE-BOT",
     "shortDescription": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks i…",
