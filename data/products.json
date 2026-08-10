@@ -1,5 +1,37 @@
 [
   {
+    "slug": "oqoqo-build-evals-and-custom-benchmarks-for-real-world-tasks-hn",
+    "title": "Oqoqo – build evals and custom benchmarks for real-world tasks",
+    "shortDescription": "Most benchmarks today exist in curated environments and do not translate well to the real world. We built Oqoqo to bridge this gap. Oqoqo m…",
+    "fullDescription": "Most benchmarks today exist in curated environments and do not translate well to the real world. We built Oqoqo to bridge this gap. Oqoqo makes it super simple to build realistic evals and custom benchmarks for tasks users actually care about. Oqoqo can: - Reliably measure how agent friendly your product surfaces are against Codex, Claude Code, OpenClaw, Hermes, Pi, Opencode, Cursor, GitHub Copilot - Regression test MCP, CLI, skills, SDK, and any agent facing interface (we are continuously using Oqoqo to dogfood and improve our own MCP&#x2F;CLI) - Create and share custom benchmarks for how agents discover and use your product - Compare models and harnesses for domain specific tasks - See whether new versions improve agent experience Would love to hear feedback and thoughts on what kind of evals you are running today, if you are benchmarking agent facing interfaces, and whether you have published a custom benchmark.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://oqoqo.ai",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49249987",
+    "createdAt": "2026-08-10T21:38:23.420Z"
+  },
+  {
+    "slug": "fun-web-page-3d-visualization-of-laundry-room-status-hn",
+    "title": "Fun Web page 3D visualization of laundry room status",
+    "shortDescription": "By default, this shows simulated data. It can show real data, but we don&#x27;t want to hug-of-death the laundry company IoT. Click on a ma…",
+    "fullDescription": "By default, this shows simulated data. It can show real data, but we don&#x27;t want to hug-of-death the laundry company IoT. Click on a machine, to see how the apartment building attendant responds to people leaving their laundry for hours in high-contention machines. This was a collaboration with Claude Code. Sometimes Claude wasted time frustratingly, sometimes Claude saved lots of time. The end product is good enough, the Easter eggs were fun, and it was completed in less time than I could&#x27;ve done it myself.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.aisloperator.com/brickoven-estates-laundry-room/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49249740",
+    "createdAt": "2026-08-10T21:38:23.420Z"
+  },
+  {
     "slug": "etincel-trains-claudes-voice-for-pr-reviews-and-code-comments-hn",
     "title": "Étincel trains Claude's voice for PR reviews and code comments",
     "shortDescription": "Проект «Étincel trains Claude's voice for PR reviews and code comments», опубликован сообществом Hacker News.",
