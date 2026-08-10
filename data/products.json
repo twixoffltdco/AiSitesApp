@@ -1,5 +1,75 @@
 [
   {
+    "slug": "uniswap-arbitrage-bot-github-2",
+    "title": "UNISWAP-ARBITRAGE-BOT",
+    "shortDescription": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks i…",
+    "fullDescription": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks in 0.6–2.8% per cycle.\n\nАвтор: eagerwrenmey8308. Найдено в GitHub Trending (AI-тематика). ⭐ 60 звёзд.",
+    "url": "https://github.com/eagerwrenmey8308/UNISWAP-ARBITRAGE-BOT",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "binance",
+      "bitcoin",
+      "bot",
+      "btc",
+      "claude",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1329605701",
+    "createdAt": "2026-08-10T14:55:03.129Z"
+  },
+  {
+    "slug": "tickclip-an-ai-shopping-agent-that-can-recommend-not-buying-hn",
+    "title": "TickClip – An AI shopping agent that can recommend not buying",
+    "shortDescription": "My name is Tarik Aarbaoui, I am an affiliate and influencer marketing specialist. For the last 14 years I’ve worked to grow revenue while t…",
+    "fullDescription": "My name is Tarik Aarbaoui, I am an affiliate and influencer marketing specialist. For the last 14 years I’ve worked to grow revenue while trying to meet shoppers’ expectations. But during my time there, I observed a core conflict: shoppers often look to influencers and affiliate content to help them decide what to buy, but the people making those recommendations are usually only compensated when a purchase happens. Usually this means that the incentive is to encourage the sale, even when waiting or not buying might be better for the shopper. That insight is what inspired me to build TickClip. It uses a simple three-outcome decision model for online shopping: Tick to buy, Clip to wait or reconsider, Skip to avoid. The point is to build a fiduciary decision layer that views purchases from the buyer’s viewpoint, not optimizing for conversion. I&#x27;d love feedback on the decision model, how clear the verdicts are, and what evidence you&#x27;d need to see to trust a system like this.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.tickclip.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49244355",
+    "createdAt": "2026-08-10T14:55:02.934Z"
+  },
+  {
+    "slug": "neolabsfyi-100-new-ai-labs-by-research-area-valuation-and-more-hn",
+    "title": "Neolabs.fyi – 100 new AI labs by research area, valuation, and more",
+    "shortDescription": "Проект «Neolabs.fyi – 100 new AI labs by research area, valuation, and more», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Neolabs.fyi – 100 new AI labs by research area, valuation, and more», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://neolabs.fyi/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49244041",
+    "createdAt": "2026-08-10T14:55:02.934Z"
+  },
+  {
+    "slug": "open-source-greptile-alternative-hn",
+    "title": "Open-Source Greptile Alternative",
+    "shortDescription": "Проект «Open-Source Greptile Alternative», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Open-Source Greptile Alternative», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Juror-AI/juror",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49244029",
+    "createdAt": "2026-08-10T14:55:02.934Z"
+  },
+  {
     "slug": "n8meter-github",
     "title": "n8meter",
     "shortDescription": "Open-source cost metering for n8n AI workflows — token usage per workflow, priced daily, on your own machine.",
