@@ -1,5 +1,43 @@
 [
   {
+    "slug": "ai-trading-bot-codepen-github",
+    "title": "AI-Trading-Bot-Codepen",
+    "shortDescription": "I’ve just created my own bot and I’m excited to share my work with you!",
+    "fullDescription": "I’ve just created my own bot and I’m excited to share my work with you!\n\nАвтор: wild-canyonhoxo3344. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "bot",
+      "code",
+      "evm",
+      "html",
+      "index",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1329688801",
+    "createdAt": "2026-08-10T10:19:52.099Z"
+  },
+  {
+    "slug": "optiqra-open-source-ai-website-optimization-and-intelligence-platform-hn",
+    "title": "OptiQra – Open-source AI website optimization and intelligence platform",
+    "shortDescription": "Hi HN, I&#x27;ve been building OptiQra for quite a while, and I finally finished the desktop version. OptiQra is an open-source website int…",
+    "fullDescription": "Hi HN, I&#x27;ve been building OptiQra for quite a while, and I finally finished the desktop version. OptiQra is an open-source website intelligence and optimization platform. It can crawl and analyze websites or local projects, identify SEO&#x2F;AEO&#x2F;GEO, accessibility, performance and technical issues, explain them with AI, and automatically fix them. The desktop version is where the project gets particularly interesting. It can run locally, work with local projects, operate offline for analysis that doesn&#x27;t require cloud services, and run scheduled scans in the background. The workflow is roughly: URL&#x2F;project → crawl → analyze → understand the issues → inspect them on the actual site → fix them → verify the result. It also has a fairly visual crawler, including live 2D and 3D crawl trees, and the AI interface is customizable rather than being limited to a single assistant personality. I built the UI and CSS myself rather than using Tailwind&#x2F;shadcn, and the project has grown considerably beyond a simple SEO checker. There are currently 150+ analysis rules along with integrations and additional tooling. This is the first release where I feel the desktop application is actually ready for people other than me to use. GitHub: https:&#x2F;&#x2F;github.com&#x2F;armin5872&#x2F;OptiQra website : https:&#x2F;&#x2F;optiqra.vercel.app I&#x27;d especially appreciate feedback from people who work on large websites, developer tooling, SEO, or web infrastructure. I&#x27;m also interested in hearing what you think is missing or what you&#x27;d remove. The project is large enough now that outside perspective is probably more valuable to me than another feature I can think of myself.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/armin5872/OptiQra",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49241236",
+    "createdAt": "2026-08-10T10:19:51.890Z"
+  },
+  {
     "slug": "ai-smart-contract-auditor-github",
     "title": "ai-smart-contract-auditor",
     "shortDescription": "AuditSentry — AI-powered smart contract security auditor for Claude Code. Automated vulnerability detection, exploit PoCs, mainnet-fork sim…",
