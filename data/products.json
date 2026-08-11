@@ -1,5 +1,27 @@
 [
   {
+    "slug": "intelis-agent-github",
+    "title": "Intelis-Agent",
+    "shortDescription": "AI-powered research and intelligence platform that monitors the web, analyzes information, detects trends, and delivers personalized report…",
+    "fullDescription": "AI-powered research and intelligence platform that monitors the web, analyzes information, detects trends, and delivers personalized reports.\n\nАвтор: vincenzo-afk. Найдено в GitHub Trending (AI-тематика). ⭐ 11 звёзд.",
+    "url": "https://github.com/vincenzo-afk/Intelis-Agent",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "artificial-intelligence",
+      "automation",
+      "automation-tool",
+      "crawler",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1330050382",
+    "createdAt": "2026-08-11T08:29:51.599Z"
+  },
+  {
     "slug": "langkast-one-workspace-for-every-ai-model-agents-and-your-files-hn",
     "title": "Langkast – One workspace for every AI model, agents, and your files",
     "shortDescription": "Проект «Langkast – One workspace for every AI model, agents, and your files», опубликован сообществом Hacker News.",
