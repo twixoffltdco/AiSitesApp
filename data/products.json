@@ -1,5 +1,21 @@
 [
   {
+    "slug": "personal-ai-policy-directory-hn",
+    "title": "Personal AI Policy Directory",
+    "shortDescription": "Проект «Personal AI Policy Directory», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Personal AI Policy Directory», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://howiai.directory/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49263772",
+    "createdAt": "2026-08-11T20:39:47.672Z"
+  },
+  {
     "slug": "webstractor-pay-as-you-go-web-data-api-for-ai-agents-hn",
     "title": "Webstractor – Pay-as-You-Go Web Data API for AI Agents",
     "shortDescription": "Проект «Webstractor – Pay-as-You-Go Web Data API for AI Agents», опубликован сообществом Hacker News.",
