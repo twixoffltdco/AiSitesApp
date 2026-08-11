@@ -1,5 +1,117 @@
 [
   {
+    "slug": "auracommit-token-efficient-ai-git-commit-generation-from-git-diff-hn",
+    "title": "Auracommit – Token-efficient AI Git commit generation from Git diff",
+    "shortDescription": "Hi HN, auracommit is the tool to use when you need to quickly create commits without blowing through your API limits. Interactively, file b…",
+    "fullDescription": "Hi HN, auracommit is the tool to use when you need to quickly create commits without blowing through your API limits. Interactively, file by file, the AI will create commits for the features you’ve implemented or the bugs you’ve fixed—instead of a single monolithic commit like “added n1, n2, ...” Currently supports OpenAI, OpenRouter, Anthropic, and Groq APIs. You can also install the utility via npm: npm install -g auracommit\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/tigerlang/auracommit",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49258821",
+    "createdAt": "2026-08-11T14:20:20.609Z"
+  },
+  {
+    "slug": "a-capable-ai-assistant-with-its-own-inbox-hn",
+    "title": "A capable AI assistant with its own inbox",
+    "shortDescription": "Hey all, I&#x27;m Stasia, founder of Deck. Deck is an AI teammate for busy operators, professionals, and teams that is constantly working i…",
+    "fullDescription": "Hey all, I&#x27;m Stasia, founder of Deck. Deck is an AI teammate for busy operators, professionals, and teams that is constantly working in the background. You can email it, use it in the app, sign it up for services you use, email alerts&#x2F;newsletters, or set it up to run recurring work. It can read project files, summarize messy context, generate or edit decks&#x2F;memos&#x2F;sheets, answer questions over your knowledge base, and proactively surface things that need attention. Importantly, it doesn&#x27;t require blanket inbox authorization to be effective and only emails you. We made email a first-class interface because delegation already happens there and it&#x27;s a decades old, hardened protocol. People forward a thread, CC someone, attach files, subscribe it to email alerts and newsletters and ask for help. We believe Deck fits that behavior instead of asking users to move work into another chat app. But the system underneath is shared with the web app: automations, workflows, project search, document editing, and integrations. Happy to answer anything about how it works, the trust model, or what we&#x27;re learning from early users.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.hellodeck.ai",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49258660",
+    "createdAt": "2026-08-11T14:20:20.609Z"
+  },
+  {
+    "slug": "turn-any-topic-into-a-60-second-3-host-ai-podcast-no-signup-hn",
+    "title": "Turn any topic into a 60-second 3-host AI podcast (no signup)",
+    "shortDescription": "Проект «Turn any topic into a 60-second 3-host AI podcast (no signup)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Turn any topic into a 60-second 3-host AI podcast (no signup)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://demades.ai/try",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49258241",
+    "createdAt": "2026-08-11T14:20:20.609Z"
+  },
+  {
+    "slug": "ai-village-ai-security-tested-in-public-hn",
+    "title": "AI Village: AI security, tested in public.",
+    "shortDescription": "Проект «AI Village: AI security, tested in public.», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Village: AI security, tested in public.», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aivillage.org/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49257980",
+    "createdAt": "2026-08-11T14:20:20.609Z"
+  },
+  {
+    "slug": "dbward-approval-workflows-for-production-dbs-built-for-ai-agents-hn",
+    "title": "dbward – Approval workflows for production DBs, built for AI agents",
+    "shortDescription": "Проект «dbward – Approval workflows for production DBs, built for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «dbward – Approval workflows for production DBs, built for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/dbward-dev/dbward",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49257957",
+    "createdAt": "2026-08-11T14:20:20.609Z"
+  },
+  {
+    "slug": "alchemize-review-ai-slop-prs-faster-hn",
+    "title": "Alchemize – Review AI Slop PRs Faster",
+    "shortDescription": "Hey HN, we’re Robert and Sam. We’re building Alchemize, a code review platform that simplifies PRs to help you ship faster. Here’s a demo v…",
+    "fullDescription": "Hey HN, we’re Robert and Sam. We’re building Alchemize, a code review platform that simplifies PRs to help you ship faster. Here’s a demo video: https:&#x2F;&#x2F;www.tella.tv&#x2F;video&#x2F;simplify-pr-reviews-with-alchemiz... Sample to try: https:&#x2F;&#x2F;app.tryalchemize.com&#x2F;example Agentic coding has 10x’d code output. Teams are opening larger PRs more frequently, but the current tools don’t support this new coding paradigm. GitHub still presents files without structure. As engineers reviewing these massive diffs more frequently, we spent hours painstakingly reconstructing where changes began, mapping out data flows, and figuring out where human judgement is actually needed. Instead of adding another bug bot or just summarizing the PR, Alchemize analyzes diffs and pulls in prompting sessions to help reveal the author’s (human and agents) intent. PRs are broken down into smaller, manageable chunks that highlight exactly where the reviewer needs to jump in. After authorizing your GitHub account, Alchemize has a two way sync so that you never have to review an unstructured PR on GitHub again. We’ve been thinking a lot about whether helping human reviewers is the future of development, or if the trajectory of code review is to review less and less until it’s 0. Would love for y’all to give this a try and hear your thoughts.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://tryalchemize.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49257687",
+    "createdAt": "2026-08-11T14:20:20.609Z"
+  },
+  {
+    "slug": "verity-permission-aware-memory-for-ai-agents-hn",
+    "title": "Verity – Permission-aware memory for AI agents",
+    "shortDescription": "Проект «Verity – Permission-aware memory for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Verity – Permission-aware memory for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/RunAlphaLoop/verity",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49257683",
+    "createdAt": "2026-08-11T14:20:20.609Z"
+  },
+  {
     "slug": "velaterm-github",
     "title": "VelaTerm",
     "shortDescription": "The best terminal for AI Coding",
