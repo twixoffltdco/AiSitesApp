@@ -1,5 +1,53 @@
 [
   {
+    "slug": "langkast-one-workspace-for-every-ai-model-agents-and-your-files-hn",
+    "title": "Langkast – One workspace for every AI model, agents, and your files",
+    "shortDescription": "Проект «Langkast – One workspace for every AI model, agents, and your files», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Langkast – One workspace for every AI model, agents, and your files», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://langkast.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49254309",
+    "createdAt": "2026-08-11T07:01:55.086Z"
+  },
+  {
+    "slug": "traceseal-signed-offline-verifiable-receipts-for-ai-agent-runs-hn",
+    "title": "Traceseal – signed, offline-verifiable receipts for AI agent runs",
+    "shortDescription": "Проект «Traceseal – signed, offline-verifiable receipts for AI agent runs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Traceseal – signed, offline-verifiable receipts for AI agent runs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://traceseal.io/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49254245",
+    "createdAt": "2026-08-11T07:01:55.087Z"
+  },
+  {
+    "slug": "an-evidence-loop-for-steering-the-agents-what-to-build-hn",
+    "title": "An \"Evidence Loop\" for steering the agents what to build",
+    "shortDescription": "Fellow builders, my name is Julian - I&#x27;m a PhD candidate in Behavioural Science at LSE, where I focus on Human-AI Alignment (specifica…",
+    "fullDescription": "Fellow builders, my name is Julian - I&#x27;m a PhD candidate in Behavioural Science at LSE, where I focus on Human-AI Alignment (specifically the field of Machine Psychology), and we built Dipio AI around a problem I think is becoming more important as coding agents get better: implementation is getting dramatically cheaper, but knowing what is worth building isn&#x27;t. Dipio applies behavioral science methodologies to AI-led user research, turning evidence from user conversations and behavior into agent-native specs (e.g., spec-kit, etc.). Your coding harness can access them directly through Dipio MCP, or through the platform as an evidence-backed, ready-to-implement feature specs. I wrote more about the idea we call the “Evidence Loop” here: https:&#x2F;&#x2F;www.dipio.ai&#x2F;blog&#x2F;evidence-loop I’d particularly appreciate criticism of the underlying thesis: are we solving the &quot;how to build&quot; problem much faster than the &quot;what to build&quot; problem? Also, any criticism in general is welcomed, don&#x27;t hold yourself - I have a hard skin, and most importantly I value a lot the feedback from such a great community like this one!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.dipio.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49254172",
+    "createdAt": "2026-08-11T07:01:55.087Z"
+  },
+  {
     "slug": "niceshot-ai-the-analytics-layer-competitive-games-forgot-to-add-hn",
     "title": "NiceShot AI – The analytics layer competitive games forgot to add",
     "shortDescription": "I&#x27;ve been working on NiceShot AI for the last 26 months as a way to experiment with computer vision for gameplay analysis. The basic i…",
