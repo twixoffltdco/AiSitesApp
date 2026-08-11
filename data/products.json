@@ -1,5 +1,161 @@
 [
   {
+    "slug": "velaterm-github",
+    "title": "VelaTerm",
+    "shortDescription": "The best terminal for AI Coding",
+    "fullDescription": "The best terminal for AI Coding\n\nАвтор: vlinx-io. Найдено в GitHub Trending (AI-тематика). ⭐ 36 звёзд.",
+    "url": "https://velaterm.com",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "claude",
+      "claude-code",
+      "codex",
+      "coding",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1328355234",
+    "createdAt": "2026-08-11T12:57:14.267Z"
+  },
+  {
+    "slug": "oss-maintainer-kit-github",
+    "title": "oss-maintainer-kit",
+    "shortDescription": "Repo Steward AI: safety-conscious PR review, issue triage, release notes, and verifiable maintainer pilots with the OpenAI Responses API.",
+    "fullDescription": "Repo Steward AI: safety-conscious PR review, issue triage, release notes, and verifiable maintainer pilots with the OpenAI Responses API.\n\nАвтор: Kane-Wan. Найдено в GitHub Trending (AI-тематика). ⭐ 34 звёзд.",
+    "url": "https://github.com/Kane-Wan/oss-maintainer-kit#readme",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "developer-tools",
+      "github-actions",
+      "issue-triage",
+      "maintainers",
+      "open-source",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1329806020",
+    "createdAt": "2026-08-11T12:57:14.267Z"
+  },
+  {
+    "slug": "browser-agent-cost-efficient-browser-automation-hn",
+    "title": "Browser Agent – cost efficient browser automation",
+    "shortDescription": "I&#x27;ve built a browser agent harness that outperforms Browser Code on their own benchmark (BU Bench v1), on success rate, speed and cost…",
+    "fullDescription": "I&#x27;ve built a browser agent harness that outperforms Browser Code on their own benchmark (BU Bench v1), on success rate, speed and cost. Browser Agent: 88% success rate, $5.37, 32,694 seconds Browser Code: 78% success rate, $8.34, 47,970 seconds For browser agents to become ubiquitous, they need to be faster, cheaper, and more reliable. The harness was built with token efficiency in mind (and uses 91% fewer tokens than Browser Code) to reduce the compute and VRAM budget necessary to fine tune a small, specialised model. Because browser agent inference is intermittent, a small specialised model could serve each step with minimal GPU time. This makes per-task pricing viable, offering users cheaper, more predictable costs and giving the operator a counter-positioning advantage over frontier labs pricing their models by token usage. More about the comparison between Browser Agent and Browser Code here: https:&#x2F;&#x2F;www.pierrebarreau.com&#x2F;blog&#x2F;improving-the-state-of-th... If anyone is interested in fine tuning that model, would love to talk!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/visnia-ai/browser-agent",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49257523",
+    "createdAt": "2026-08-11T12:57:14.030Z"
+  },
+  {
+    "slug": "porcupine-a-terminal-ai-agent-built-for-safe-autonomy-hn",
+    "title": "Porcupine, a terminal AI agent built for safe autonomy",
+    "shortDescription": "Проект «Porcupine, a terminal AI agent built for safe autonomy», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Porcupine, a terminal AI agent built for safe autonomy», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Abd0r/porcupineai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49257505",
+    "createdAt": "2026-08-11T12:57:14.030Z"
+  },
+  {
+    "slug": "opencorp-paste-a-url-ai-finds-competing-products-and-reddit-threads-hn",
+    "title": "OpenCorp – paste a URL, AI finds competing products and Reddit threads",
+    "shortDescription": "Проект «OpenCorp – paste a URL, AI finds competing products and Reddit threads», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «OpenCorp – paste a URL, AI finds competing products and Reddit threads», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://opencorp.live/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49257429",
+    "createdAt": "2026-08-11T12:57:14.030Z"
+  },
+  {
+    "slug": "implay-ai-lightweight-suite-of-browser-tools-for-text-images-code-hn",
+    "title": "Implay AI – Lightweight suite of browser tools for text, images, & code",
+    "shortDescription": "Проект «Implay AI – Lightweight suite of browser tools for text, images, & code», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Implay AI – Lightweight suite of browser tools for text, images, & code», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://implay.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49257219",
+    "createdAt": "2026-08-11T12:57:14.030Z"
+  },
+  {
+    "slug": "the-rotten-tomatoes-for-ai-films-ranked-by-the-tools-that-made-them-hn",
+    "title": "The Rotten Tomatoes for AI films, ranked by the tools that made them",
+    "shortDescription": "I wanted a rotten tomatoes for ai film, hence popcorn.movie, because AI films need a critical and technical review that&#x27;s different to…",
+    "fullDescription": "I wanted a rotten tomatoes for ai film, hence popcorn.movie, because AI films need a critical and technical review that&#x27;s different to movies, and we&#x27;re in the 1895-1920&#x27;s of ai movies right now. Many festivals, people, industries, sites reject or suppress ai, for many great reasons (slop), and of course slopscrolling and other sites have the slop problem, as does this - the idea is to look past the slop to the real stories and technically great content, with an view that ai is a tool. &quot;is this stuff actually getting good, and which models are doing it?&quot;. Hot or slop. My personal interest in ai video, probably stupid - try to actually visualize my dreams through prompts. I&#x27;ve tried it, but it never quite works, but it&#x27;s fun. --details The site doesn&#x27;t host video (everything plays via youtube-nocookie embeds). The product is the ranking, the many detailed breakdowns of voice sync, glitches, discussions. If you love looking at coherence and how models are moving along, while seeing short and long form film content that is posted for ai festivals, check it out. Some of them have surprised me a lot. There&#x27;s some 2 minute short films in here that are legit memorable and make you think, the stuff you imagine has been &quot;let our of people&#x27;s minds&quot; by these tools. - Every film records what it was made with (Seedance, Veo, Kling, Sora, mocap, Blender, real footage…), so there are per-tool leaderboards: which models produce watchable film (barren as heckfire right now, use the bookmarklet to add and review? get creators to share more about process) - Votes only count toward the score if you actually watched a meaningful chunk (tracked via the IFrame API). Verdicts use a Wilson lower bound over reputation-weighted votes, star scores are Bayesian-shrunk toward the site mean, and voter reputation is a Beta distribution updated when a film&#x27;s verdict settles. An openly pro-AI film site is a brigading magnet from both directions; the math is the defense. - It tracks AI film festivals as they happen on YouTube i.e. Astana&#x27;s #SpecialForAAIFF wave, Reply&#x27;s Venice festival, Chroma, Project Odyssey, each with its verified submissions ranked. - For the appreciation-society crowd there&#x27;s a 46-axis breakdown (character consistency, temporal coherence, complex interaction; hands, eating, two bodies, generative necessity, je ne sais quoi). Every axis optional; unrated means not-applicable, not zero. (I initially added a few to make it 42... then realized I needed more, ho hum) --verbose details Stack, for the curious: Go + Postgres + HTMX + Mustache, one binary, no SPA, no analytics vendor. Sign-in is Google, reviewers get generated olde-English pen names. It&#x27;s early, the catalogue is ~120 films seeded from festival hashtags and the voting community is tiny, so the rankings are still forming. That&#x27;s sort of the point of posting: if you&#x27;ve ever wondered whether AI film is developing into anything, come watch a few and leave an honest verdict. Curious what HN thinks about the anti-brigading, &quot;let&#x27;s see where this is going&quot; ethos. --help -vvvvvvv Suggestions? I have a very narrow taste of movies&#x2F;tv - if someone isn&#x27;t trying to solve a murder, theft or some locked-room hijinks, I generally can&#x27;t pay attention to it, so I tend to rewatch Columbo, Banacek and The Rockford Files, but I am liking some of these movies, I love watching the tech but I need people with different tastes and likes. Let&#x27;s see how the ai movies continue to grow.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://popcorn.movie/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49256954",
+    "createdAt": "2026-08-11T12:57:14.030Z"
+  },
+  {
+    "slug": "readaware-an-extensible-ebook-reader-that-evolves-with-you-hn",
+    "title": "ReadAware – an extensible eBook reader that evolves with you",
+    "shortDescription": "I enjoy reading books, and I wanted an ebook reader that could give me some help while I read, instead of making me wander around between d…",
+    "fullDescription": "I enjoy reading books, and I wanted an ebook reader that could give me some help while I read, instead of making me wander around between different apps and lose my attention. Also, I never really found an existing ebook reader that fits my taste. To be honest they feel kind of clunky to me, and their AI integrations are usually pretty primitive or just feel like a chatbot added on the side. That&#x27;s why I started ReadAware. So what makes it stand out? First, it&#x27;s an agent-first reader. But that doesn&#x27;t mean AI replaces you. You are still the one reading the book. The agent answers you, looks things up and does some small errands for you when needed. I imagine it more like a reading companion that knows your context, and being quiet when you are actually reading. Second, it&#x27;s highly extensible. I spent quite a lot of effort building and polishing a real plugin system. Plugins can add dictionaries, themes, read-aloud voices, feeds, commands, even new tools that the agent can use. In the future, I also want the built-in agent to be able to make or modify plugins on the fly. That&#x27;s part of what I mean by “evolves with you” — the reader should gradually become more fitted to the way you read. ReadAware is open source, cross platform and local-first. Feedback is welcome.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/ahpxex/read-aware",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49256926",
+    "createdAt": "2026-08-11T12:57:14.030Z"
+  },
+  {
+    "slug": "synapse-a-monitoring-saas-shipped-with-my-claude-code-workflow-hn",
+    "title": "Synapse – a monitoring SaaS shipped with my Claude Code workflow",
+    "shortDescription": "Проект «Synapse – a monitoring SaaS shipped with my Claude Code workflow», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Synapse – a monitoring SaaS shipped with my Claude Code workflow», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://synapse.mdlc.ai",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49256835",
+    "createdAt": "2026-08-11T12:57:14.030Z"
+  },
+  {
     "slug": "tesserae-self-hosted-dashboards-for-e-ink-panels-hn",
     "title": "Tesserae, self-hosted dashboards for e-ink panels",
     "shortDescription": "Hi all, This is a project I’ve been working on for the last 10 or so weeks. Tesserae is a self-hosted dashboard server for e-ink panels. It…",
