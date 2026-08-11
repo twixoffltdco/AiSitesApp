@@ -1,5 +1,37 @@
 [
   {
+    "slug": "i-used-ai-to-filter-ai-content-from-hn-hn",
+    "title": "I used AI to filter AI content from HN",
+    "shortDescription": "Source: https:&#x2F;&#x2F;github.com&#x2F;leiDnedyA&#x2F;hn-without-ai",
+    "fullDescription": "Source: https:&#x2F;&#x2F;github.com&#x2F;leiDnedyA&#x2F;hn-without-ai\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.unslop.news",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49261366",
+    "createdAt": "2026-08-11T17:26:45.338Z"
+  },
+  {
+    "slug": "i-used-an-expiring-codex-reset-to-port-qtscript-to-qt6-hn",
+    "title": "I used an expiring Codex reset to port QtScript to Qt6",
+    "shortDescription": "Hey HN, here is a short story that might be worth sharing. I have an application that has been scriptable with QtScript for years. I can au…",
+    "fullDescription": "Hey HN, here is a short story that might be worth sharing. I have an application that has been scriptable with QtScript for years. I can automate and extend it through js, with access to QObjects, signals, slots, properties, etc. Unfortunately, QtScript disappeared with Qt6, so (after a long research) my plan was to migrate to PythonQt. That meant rewriting existing scripts, deploying a Python runtime, and praying that all our scripts would still be feasible with PythonQt. I had no particular desire to do all that, so I had been postponing it. The thinkg about QtScript is that, contrary to Qt, online resources are very scarce, you barely find anything but old forum posts from the 2010s Since I&#x27;m on the $20 Codex plan and had 2 resets that was going to expire unused. I thought I might as well spend it on something slightly unreasonable: take the Qt5.15 QtScript sources and see how far I could get on Qt6 -&gt; After roughly one hour, I had a smoke test compiling, linking against Qt6 and evaluating js! (Sol&#x2F;Medium did the plan and the coding) Obviously that was not enough to call it a port, so the real work became validation. I kept everything as a small patch series, reviewed the changes, rejected some questionable decisions, and treated CI as the authority, something I&#x27;m not realled used to do. The current matrix covers Qt 6.8 LTS and Qt 6.11 on GCC and MSVC, with 29,890 ECMAScript tests and 137 V8 tests passing I (we?) also ported QtScriptGenerator which was important for my use case. While QtScript is the JavaScript engine, QtScriptGenerator generates the bindings that expose Qt classes and my application classes to JavaScript. This means a script can take an existing button in the application, reconnect it to custom JavaScript logic, create a new QLabel from JavaScript, inject it into an existing QWidget, and send the result there. No rebuild and no new C++ plugin. This is the part I really did not want to lose. -&gt; took the second reset an another hour to have a project that compiles and pass the smoke tests (this time I used Luna&#x2F;xhigh) To me, the interesting AI part was that this kind of old-code archaeology worked surprisingly well with an agent when the work was constrained and split into reviewable steps. My workflow was: plan the change, let it implement one part, review it, test it, reject the strange ideas, continue. So if someone else is still stuck on Qt 5 mainly because of QtScript or QtScriptGenerator I hope this might be useful. https:&#x2F;&#x2F;github.com&#x2F;JulienMaille&#x2F;qtscript-qt6 https:&#x2F;&#x2F;github.com&#x2F;JulienMaille&#x2F;qtscriptgenerator-qt6 cheers!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/JulienMaille/qtscript-qt6",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49260682",
+    "createdAt": "2026-08-11T17:26:45.338Z"
+  },
+  {
     "slug": "drc-replay-any-production-incident-as-a-test-zero-code-changes-hn",
     "title": "DRC – replay any production incident as a test, zero code changes",
     "shortDescription": "Проект «DRC – replay any production incident as a test, zero code changes», опубликован сообществом Hacker News.",
