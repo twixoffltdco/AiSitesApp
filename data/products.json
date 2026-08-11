@@ -1,5 +1,21 @@
 [
   {
+    "slug": "niceshot-ai-the-analytics-layer-competitive-games-forgot-to-add-hn",
+    "title": "NiceShot AI – The analytics layer competitive games forgot to add",
+    "shortDescription": "I&#x27;ve been working on NiceShot AI for the last 26 months as a way to experiment with computer vision for gameplay analysis. The basic i…",
+    "fullDescription": "I&#x27;ve been working on NiceShot AI for the last 26 months as a way to experiment with computer vision for gameplay analysis. The basic idea is to take a recorded long gameplay session and automatically turn it into structured gameplay information and highlights. Bridging the performance analysis gap between match stats (too short) &amp; lifetime stats (too long). The current pipeline is: Gameplay video → YOLO detection → event tracking → OCR&#x2F;context filtering → event timestamps → clips → highlight compilation → session statistics For example, I can fine-tune a YOLO model to recognize game-specific HUD elements and then configure the pipeline to interpret those detections as events such as kills, deaths, or medals. One thing I wanted to avoid was making the entire system game-specific. Supporting another game should mostly require a new detector&#x2F;model and configuration rather than rewriting the whole pipeline. And currently, I am working on that. I also use OCR for states that shouldn&#x27;t be counted as gameplay events. For example, in Call of Duty games a kill indicator can appear during a &quot;KillCam&quot; or &quot;Spectating&quot; state, so the OCR layer can be used to filter those cases. The system can then produce clips around detected events and compile them into highlight reels, including vertical versions for Shorts&#x2F;TikTok-style content. Recently, I have also been experimenting with using a lightweight Video LLM after event detection. Instead of sending the entire multi-hour gameplay session to the Video LLM model, I take the extracted short clips around an interesting event and ask the model to explain what happened. The goal is to eventually turn this into a lightweight conversational gameplay coach. The project currently runs locally on NVIDIA GPUs. Have experimented with an old GTX1650 4GB VRAM laptop and it works fine but slow ofcourse. Finally, I know that real-time event detection should be the way to go and this was my original goal, but I chose offline processing because I didn&#x27;t want computer vision inference to interfere with the player&#x27;s actual game performance. I&#x27;d also be interested in hearing how others would approach making the detector&#x2F;inference layer fast enough for real-time gameplay without causing noticeable GPU&#x2F;CPU overhead. Keeping in mind, I input 1080p frames into the model. The project is still evolving, so technical criticism and suggestions are very welcome. Thanks.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/karimm-ai/NiceShot_AI",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49253675",
+    "createdAt": "2026-08-11T05:51:53.641Z"
+  },
+  {
     "slug": "dramalens-github",
     "title": "DramaLens",
     "shortDescription": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
