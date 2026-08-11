@@ -1,5 +1,133 @@
 [
   {
+    "slug": "we-built-the-agentic-world-cup-llms-competing-in-1v1-soccer-hn",
+    "title": "We Built the Agentic World Cup – LLMs Competing in 1v1 Soccer",
+    "shortDescription": "Проект «We Built the Agentic World Cup – LLMs Competing in 1v1 Soccer», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «We Built the Agentic World Cup – LLMs Competing in 1v1 Soccer», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://agenticworldcup.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49259735",
+    "createdAt": "2026-08-11T15:28:43.931Z"
+  },
+  {
+    "slug": "remarc-your-feedback-layer-for-ai-collaboration-hn",
+    "title": "Remarc – Your feedback layer for AI collaboration",
+    "shortDescription": "Hey HN, Mete here Today I released Remarc - the missing feedback layer between you and your coding agent. Point at anything on your Mac - t…",
+    "fullDescription": "Hey HN, Mete here Today I released Remarc - the missing feedback layer between you and your coding agent. Point at anything on your Mac - text, screenshots, web elements, or voice - and your agent reads and resolves your comments over MCP. Think of it like Google doc commenting for anything on your screen. It&#x27;s also completely free, local, and open-source. As a detail-obsessed designer who now builds daily with AI, feedback is a core part of my creative process. AI made it incredibly easy to get from zero to 90%, but it’s the last 10% that sets your product apart from the pack. The unglamorous reality is this 10% is rigorous QA, feedback, and iteration. Remarc is made for this last 10%. It removes friction to providing structured, contextual, and detailed feedback to your AI agents. My hope is that it helps others craft better products.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/metedata/Remarc",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49259711",
+    "createdAt": "2026-08-11T15:28:43.931Z"
+  },
+  {
+    "slug": "add-the-official-eu-ai-content-labels-to-images-and-videos-hn",
+    "title": "Add the official EU AI-content labels to images and videos",
+    "shortDescription": "Проект «Add the official EU AI-content labels to images and videos», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Add the official EU AI-content labels to images and videos», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Run-Labs-com/agent-skills/tree/main",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49259589",
+    "createdAt": "2026-08-11T15:28:43.931Z"
+  },
+  {
+    "slug": "lance-bundle-portable-embeddings-to-embed-once-query-forever-hn",
+    "title": "Lance-bundle – Portable embeddings to embed once, query forever",
+    "shortDescription": "Hello, While experimenting with personal, local RAG app setups, I kept having to (re)generate embeddings and really wanted precomputed embe…",
+    "fullDescription": "Hello, While experimenting with personal, local RAG app setups, I kept having to (re)generate embeddings and really wanted precomputed embedding datasets that I could quickly pull and use in various environments. I built a library to test out the idea: lance-bundle lets you package precomputed embedding vectors alongside the actual embedding model so that everything can be loaded from a single file for querying against the vectors; initial version uses LanceDB + ONNX for low dependency footprint and fast cold start to vector queries. https:&#x2F;&#x2F;github.com&#x2F;cloudkj&#x2F;lance-bundle As part of this, a few datasets that might be of interest to this audience have been precomputed as embedding vectors and hosted on a Hugging Face dataset hub and can be directly loaded and queried against: https:&#x2F;&#x2F;huggingface.co&#x2F;lance-bundle&#x2F;datasets With these datasets, you can simply load directly and run semantic queries to retrieve the nearest documents&#x2F;embeddings: from lance_bundle import load_dataset bundle = load_dataset(&quot;lance-bundle&#x2F;berkshire-hathaway-letters&quot;) bundle.search(&quot;What does Warren Buffett think of passive index funds?&quot;) Looking to share to see if anyone actually finds it useful, and to gather feedback on whether it makes sense for the local-first AI enthusiasts. Let me know what you think!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/cloudkj/lance-bundle",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49259385",
+    "createdAt": "2026-08-11T15:28:43.931Z"
+  },
+  {
+    "slug": "atlan-your-mobile-focused-ai-agent-hn",
+    "title": "Atlan, Your Mobile-Focused AI Agent",
+    "shortDescription": "Проект «Atlan, Your Mobile-Focused AI Agent», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Atlan, Your Mobile-Focused AI Agent», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Atlansdaddy/atlan",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49259343",
+    "createdAt": "2026-08-11T15:28:43.931Z"
+  },
+  {
+    "slug": "the-terminal-i-live-in-all-day-comment-on-anything-coding-agents-print-hn",
+    "title": "The terminal I live in all day: comment on anything coding agents print",
+    "shortDescription": "From early on, I favor AI CLI using terminal over AI in IDE. A session starts blank, and grows as needed. However, even though I like it ve…",
+    "fullDescription": "From early on, I favor AI CLI using terminal over AI in IDE. A session starts blank, and grows as needed. However, even though I like it very much, terminal can be limiting, and agents can do more for us than standard terminal allows. Can it be better? In my spare time, I have been experimenting and knocking off pain points one by one. Now, I have a terminal but not just a terminal, which I use daily for all my projects. I am sharing it open and hope you find it useful. Happy to answer anything.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/albertwujj/agent-term",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49259180",
+    "createdAt": "2026-08-11T15:28:43.932Z"
+  },
+  {
+    "slug": "squadcue-local-first-mission-control-for-ai-cli-agents-hn",
+    "title": "SquadCue – local-first mission control for AI CLI agents",
+    "shortDescription": "History: I started getting involved with AI in the middle of last year, from finding answers through chat to using Claude Cowork to control…",
+    "fullDescription": "History: I started getting involved with AI in the middle of last year, from finding answers through chat to using Claude Cowork to control specific folders on my computer to complete tasks, and now using CLIs through the terminal to complete all my daily tasks. The most painful part has been management. My computer has more than ten terminal windows open at a time, and both the main screen and external monitors are full of CLIs. It&#x27;s a headache to manage and switch between them every time. So I came up with the idea of managing these CLIs through a UI interface. The main features of this tool are as follows: 1. This is a locally installed tool. After installation, you will get a web interface. Through the web interface, you will see that Recent Claude Code session has become a named employee. The most important feature is that even after you close the window or restart your computer, you can still continue to discuss things with the same employee, just like a real employee in a real-world company. You won&#x27;t forget who you are or what you did after get off work. 2. There&#x27;s also a review function, an &quot;Approvals Inbox&quot; and an &quot;Push Notification to Telegram&quot;(Optional). When executing instructions or writing files, the process pauses and simultaneously displays approval notifications in both the &quot;Approvals Inbox&quot; and &quot;Telegram&quot; allowing you to click &quot;agree&quot; or &quot;decline&quot;. 3. All data remains on the local machine (bound to localhost only). Known limitations are honestly listed in SECURITY.md; feel free to review them. How to start : pip install squadcue &amp;&amp; squadcue\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/hsienchuc/squadcue",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49259021",
+    "createdAt": "2026-08-11T15:28:43.932Z"
+  },
+  {
+    "slug": "atlarix-local-first-ai-coding-agent-that-runs-on-grep-no-index-hn",
+    "title": "Atlarix – local-first AI coding agent that runs on grep, no index",
+    "shortDescription": "Проект «Atlarix – local-first AI coding agent that runs on grep, no index», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Atlarix – local-first AI coding agent that runs on grep, no index», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.atlarix.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49258980",
+    "createdAt": "2026-08-11T15:28:43.932Z"
+  },
+  {
     "slug": "auracommit-token-efficient-ai-git-commit-generation-from-git-diff-hn",
     "title": "Auracommit – Token-efficient AI Git commit generation from Git diff",
     "shortDescription": "Hi HN, auracommit is the tool to use when you need to quickly create commits without blowing through your API limits. Interactively, file b…",
