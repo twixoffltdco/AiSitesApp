@@ -1,5 +1,37 @@
 [
   {
+    "slug": "tesserae-self-hosted-dashboards-for-e-ink-panels-hn",
+    "title": "Tesserae, self-hosted dashboards for e-ink panels",
+    "shortDescription": "Hi all, This is a project I’ve been working on for the last 10 or so weeks. Tesserae is a self-hosted dashboard server for e-ink panels. It…",
+    "fullDescription": "Hi all, This is a project I’ve been working on for the last 10 or so weeks. Tesserae is a self-hosted dashboard server for e-ink panels. It allows you to build dashboards in two ways. A card-based editor that lets you tessellate different widgets side by side in resizable cells. Or a canvas editor which lets you drag and drop elements on a free-form canvas. You can also drive the canvas editor via MCP for some highly detailed dashboards. I fell down this rabbit hole after impulse buying a 13.3” Spectra 6 display. I knew I wanted to write my own software for it. I wanted something user-friendly, extensible, and able to host multiple displays. This drove the drop-a-folder architecture. Adding widgets, themes, devices, and renderers involves just dropping a folder into Tesserae. Tesserae ships with over 30 widgets pre-installed, plus a community marketplace that hosts many more (admittedly most of those are my own builds). This began as a solo project but has grown into a small community with people contributing firmware for new hardware, bug fixes, features, and even an open-source iOS app. Right now Tesserae supports over 10 different panels&#x2F;devices. None of this would have been possible without AI assistance. I should also add that Seeed sent me hardware for development, but no money changed hands. Tesserae is AGPL and has a few rough edges, so issues and PRs are welcome. Thank you!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://tesserae.ink/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49256509",
+    "createdAt": "2026-08-11T11:41:38.219Z"
+  },
+  {
+    "slug": "overlay-design-with-your-react-components-and-css-tokens-in-your-ide-hn",
+    "title": "Overlay – Design with your React components and CSS tokens in your IDE",
+    "shortDescription": "Hey HN, I&#x27;m Francesco. I&#x27;ve spent the last year building Overlay, a UI editor that runs inside your IDE and renders your actual R…",
+    "fullDescription": "Hey HN, I&#x27;m Francesco. I&#x27;ve spent the last year building Overlay, a UI editor that runs inside your IDE and renders your actual React components (not a redraw of them), using your real CSS tokens. I&#x27;m a design engineer and, especially with AI, I found myself spending more and more time in the codebase rather than in Figma. Trying out ideas in code with AI is a lot of fun, but there are specific moments where I need to sketch things out on a classical visual canvas. The problem is, when you work mostly with code and your codebase moves faster than your Figma library, stopping to import your latest components into Figma is an energy-killer. So I built Overlay to get quick access to my React components on a canvas. It&#x27;s a VS Code extension, so opening the canvas takes seconds. Your components are already there, and you&#x27;re designing with the real thing: the editor is a normal DOM document, not a WebGL canvas. From there, working with AI (via MCP) is also a breeze. The agent already has access to your codebase, so it knows how everything works and can match existing visuals when creating new ones. And because the canvas is already rendering real React components, going from an idea back into the codebase takes seconds. If you&#x27;re on a large team where design already happens in Figma and gets handed off, Overlay probably isn&#x27;t going to displace that. It&#x27;s aimed at the exploration part (I&#x27;d rather have a rough prototype than a polished mockup) and at people who ship their own stuff, where the round trip to Figma is pure overhead. I&#x27;m solo and bootstrapped, building this around a day job and a small kid, so it&#x27;s rough in places. If you try it and hit any issue at all, tell me here or at francesco@overlay.studio. I ship most days of the week. Thanks! Website: https:&#x2F;&#x2F;overlay.studio Quickstart guide: https:&#x2F;&#x2F;docs.overlay.studio&#x2F;quickstart\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.overlay.studio/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49256300",
+    "createdAt": "2026-08-11T11:41:38.219Z"
+  },
+  {
     "slug": "intelis-agent-github",
     "title": "Intelis-Agent",
     "shortDescription": "AI-powered research and intelligence platform that monitors the web, analyzes information, detects trends, and delivers personalized report…",
