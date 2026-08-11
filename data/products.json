@@ -1,5 +1,27 @@
 [
   {
+    "slug": "dramalens-github",
+    "title": "DramaLens",
+    "shortDescription": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
+    "fullDescription": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.\n\nАвтор: dengzi008. Найдено в GitHub Trending (AI-тематика). ⭐ 17 звёзд.",
+    "url": "https://github.com/dengzi008/DramaLens",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "chinese",
+      "chrome-extension",
+      "faster-whisper",
+      "local-first",
+      "speech-to-text",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1330473381",
+    "createdAt": "2026-08-11T04:48:40.677Z"
+  },
+  {
     "slug": "orbis-pictus-github",
     "title": "orbis-pictus",
     "shortDescription": "A tap-to-explore picture book where an AI draws every page in real time — type anything, click anything inside, and it draws a new page abo…",
