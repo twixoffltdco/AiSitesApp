@@ -1,5 +1,43 @@
 [
   {
+    "slug": "watermarks-remover-github",
+    "title": "watermarks-remover",
+    "shortDescription": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/…",
+    "fullDescription": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD\n\nАвтор: guillaumemeyer. Найдено в GitHub Trending (AI-тематика). ⭐ 12 звёзд.",
+    "url": "https://github.com/guillaumemeyer/watermarks-remover",
+    "category": "ai-tool",
+    "tags": [
+      "agent-skill",
+      "ai",
+      "c2pa",
+      "claude",
+      "provenance",
+      "synthid",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1331135699",
+    "createdAt": "2026-08-11T21:42:59.077Z"
+  },
+  {
+    "slug": "log-decisions-an-append-only-decision-journal-for-ai-agents-hn",
+    "title": "Log-decisions – an append-only decision journal for AI agents",
+    "shortDescription": "Проект «Log-decisions – an append-only decision journal for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Log-decisions – an append-only decision journal for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/swe-workflow/log-decisions",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49264597",
+    "createdAt": "2026-08-11T21:42:58.847Z"
+  },
+  {
     "slug": "personal-ai-policy-directory-hn",
     "title": "Personal AI Policy Directory",
     "shortDescription": "Проект «Personal AI Policy Directory», опубликован сообществом Hacker News.",
