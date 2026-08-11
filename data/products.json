@@ -1,5 +1,37 @@
 [
   {
+    "slug": "smokeops-describe-a-flow-get-checks-you-rerun-without-ai-hn",
+    "title": "SmokeOps – describe a flow, get checks you rerun without AI",
+    "shortDescription": "Проект «SmokeOps – describe a flow, get checks you rerun without AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «SmokeOps – describe a flow, get checks you rerun without AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/gate3/SmokeOps",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49262241",
+    "createdAt": "2026-08-11T18:25:35.588Z"
+  },
+  {
+    "slug": "local-code-review-hn",
+    "title": "Local Code Review",
+    "shortDescription": "Проект «Local Code Review», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Local Code Review», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://plannotator.ai/code-review/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49261571",
+    "createdAt": "2026-08-11T18:25:35.588Z"
+  },
+  {
     "slug": "i-used-ai-to-filter-ai-content-from-hn-hn",
     "title": "I used AI to filter AI content from HN",
     "shortDescription": "Source: https:&#x2F;&#x2F;github.com&#x2F;leiDnedyA&#x2F;hn-without-ai",
