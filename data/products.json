@@ -1,5 +1,125 @@
 [
   {
+    "slug": "memcode-github",
+    "title": "memcode",
+    "shortDescription": "The coding agent that remembers your repo. CLI, gateway, one wire. Self-hostable, MIT.",
+    "fullDescription": "The coding agent that remembers your repo. CLI, gateway, one wire. Self-hostable, MIT.\n\nАвтор: memcode-ai. Найдено в GitHub Trending (AI-тематика). ⭐ 11 звёзд.",
+    "url": "https://memcode.ai/docs",
+    "category": "chatbot",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-agent",
+      "ai-memory",
+      "claude",
+      "cli",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1328657057",
+    "createdAt": "2026-08-11T01:25:00.863Z"
+  },
+  {
+    "slug": "opencontext-github",
+    "title": "opencontext",
+    "shortDescription": "A temporal context graph, a memory API, retrieval primitives, and a multiple-platform integration mesh — designed to be embedded into any h…",
+    "fullDescription": "A temporal context graph, a memory API, retrieval primitives, and a multiple-platform integration mesh — designed to be embedded into any host process.\n\nАвтор: melandlabs. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://openloomi.ai/docs/memory",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "context",
+      "harness",
+      "memory",
+      "runtime",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1329484633",
+    "createdAt": "2026-08-11T01:25:00.863Z"
+  },
+  {
+    "slug": "cuckoo-code-github",
+    "title": "cuckoo-code",
+    "shortDescription": "DeepSeek 桌面应用——内嵌浏览器，自动识别 AI 回复中的命令和工具调用并执行",
+    "fullDescription": "DeepSeek 桌面应用——内嵌浏览器，自动识别 AI 回复中的命令和工具调用并执行\n\nАвтор: wangyongpeng90. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/wangyongpeng90/cuckoo-code",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "angent",
+      "deepseek",
+      "deepseek-free",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1330329922",
+    "createdAt": "2026-08-11T01:25:00.863Z"
+  },
+  {
+    "slug": "disturpe-ai-chatbot-github",
+    "title": "disturpe-ai-chatbot",
+    "shortDescription": "Disturpe AI Chatbot is a self-hosted Discord conversation bot with provider-neutral AI configuration, local SQLite memory, configurable dai…",
+    "fullDescription": "Disturpe AI Chatbot is a self-hosted Discord conversation bot with provider-neutral AI configuration, local SQLite memory, configurable daily quotas, optional Discord logging, and privacy-focused defaults.\n\nАвтор: ArviiSoft. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://discord.gg/WJvcThSztj",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-chat",
+      "ai-chat-bot",
+      "ai-chatbot",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1329791784",
+    "createdAt": "2026-08-11T01:25:00.863Z"
+  },
+  {
+    "slug": "airship-figma-like-visual-editor-for-claude-code-codex-and-opencode-hn",
+    "title": "Airship – Figma-Like Visual Editor for Claude Code, Codex and OpenCode",
+    "shortDescription": "I wanted to experiment with my UI like I do in Figma, without having to rebuild it in a separate design tool. So I built Airship. It lets y…",
+    "fullDescription": "I wanted to experiment with my UI like I do in Figma, without having to rebuild it in a separate design tool. So I built Airship. It lets you prototype directly in your running app, select elements, make changes, and explore different directions visually. Once you like something, Airship applies the changes to your source. No mockups to keep in sync, or bouncing back and forth between design and code.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/0xnyn/airship",
+    "category": "design",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49252066",
+    "createdAt": "2026-08-11T01:25:00.646Z"
+  },
+  {
+    "slug": "secondstate-what-if-hebbia-started-with-raw-erp-data-hn",
+    "title": "SecondState – what if Hebbia started with raw ERP data?",
+    "shortDescription": "Hi HN, I have been tinkering on a project for quite some time now. Most AI finance tools begin after the data is ready. Financial Diligence…",
+    "fullDescription": "Hi HN, I have been tinkering on a project for quite some time now. Most AI finance tools begin after the data is ready. Financial Diligence and audits don’t. I built SecondState to start one layer earlier. The interesting pieces: - Agentic data transformation: It has kind of cursor for “data engineers” : you declare what you want and the agent builds the DAG and materialize it with a human-in-the-loop approval gate. - Just-in-time Analytics: once you have some clean data, you can ask whatever question and it builds a dashboard on demand, helping users narrow the aperture on what’s valuable to look at. The problem originates from my previous experience at a BIG 4 : Every deal starts with a data room: General ledgers. Accounting records. Contracts. Financial statements &amp; Endless spreadsheets. And before anyone can understand operate on top, a loot of offshore teams in poor countries have to reconstruct it by hand and inject it into a dashboard. Does this kill Hebbia? No. But I think the winning platform for high-stakes financial work will need to do more than RAG and knowledge graphs.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://trysecondstate.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49251803",
+    "createdAt": "2026-08-11T01:25:00.646Z"
+  },
+  {
     "slug": "ai-powered-app-store-replies-that-sound-like-you-hn",
     "title": "AI-powered App Store replies that sound like you",
     "shortDescription": "Проект «AI-powered App Store replies that sound like you», опубликован сообществом Hacker News.",
