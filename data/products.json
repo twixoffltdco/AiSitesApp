@@ -1,5 +1,27 @@
 [
   {
+    "slug": "orbis-pictus-github",
+    "title": "orbis-pictus",
+    "shortDescription": "A tap-to-explore picture book where an AI draws every page in real time — type anything, click anything inside, and it draws a new page abo…",
+    "fullDescription": "A tap-to-explore picture book where an AI draws every page in real time — type anything, click anything inside, and it draws a new page about what you clicked. No links, no markup, every pixel made on demand. An open-source homage to flipbook.page.\n\nАвтор: 0toshigami. Найдено в GitHub Trending (AI-тематика). ⭐ 9 звёзд.",
+    "url": "https://github.com/0toshigami/orbis-pictus",
+    "category": "image-video",
+    "tags": [
+      "ai",
+      "creative",
+      "creative-coding",
+      "generative-ai",
+      "image-generation",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1330347036",
+    "createdAt": "2026-08-11T03:18:04.753Z"
+  },
+  {
     "slug": "memcode-github",
     "title": "memcode",
     "shortDescription": "The coding agent that remembers your repo. CLI, gateway, one wire. Self-hostable, MIT.",
