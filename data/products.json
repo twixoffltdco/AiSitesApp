@@ -1,5 +1,133 @@
 [
   {
+    "slug": "drc-replay-any-production-incident-as-a-test-zero-code-changes-hn",
+    "title": "DRC – replay any production incident as a test, zero code changes",
+    "shortDescription": "Проект «DRC – replay any production incident as a test, zero code changes», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «DRC – replay any production incident as a test, zero code changes», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://hypercubs.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49260457",
+    "createdAt": "2026-08-11T16:25:54.828Z"
+  },
+  {
+    "slug": "home-buying-ai-that-rejects-any-finding-it-cant-quote-from-the-source-hn",
+    "title": "Home-buying AI that rejects any finding it can't quote from the source",
+    "shortDescription": "Проект «Home-buying AI that rejects any finding it can't quote from the source», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Home-buying AI that rejects any finding it can't quote from the source», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://askvetta.app/demo/meridian-ave-san-jose/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49260446",
+    "createdAt": "2026-08-11T16:25:54.828Z"
+  },
+  {
+    "slug": "vitcam-self-hosted-open-source-nvr-with-on-device-ai-detection-hn",
+    "title": "VitCam – Self-hosted, open-source NVR with on-device AI detection",
+    "shortDescription": "Проект «VitCam – Self-hosted, open-source NVR with on-device AI detection», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «VitCam – Self-hosted, open-source NVR with on-device AI detection», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/scwsoft/vitcam",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49260246",
+    "createdAt": "2026-08-11T16:25:54.828Z"
+  },
+  {
+    "slug": "usernamemd-a-signed-agent-readable-identity-page-you-own-hn",
+    "title": "Username.md – a signed, agent-readable identity page you own",
+    "shortDescription": "Hi HN. I&#x27;m Chris Bergeron, an SRE by profession but a general technologist in my spare time. Projects I&#x27;ve built have been featur…",
+    "fullDescription": "Hi HN. I&#x27;m Chris Bergeron, an SRE by profession but a general technologist in my spare time. Projects I&#x27;ve built have been featured in books, frontpaged on news aggregators and chronicled on my blog. Today, I&#x27;m announcing https:&#x2F;&#x2F;username.md ! username.md is a single identity URL: username.md&#x2F;&lt;your name&gt; - that content-negotiates on the `Accept` header. It serves an HTML profile page; an agent or curl gets Markdown, JSON, JSON-LD, or a JWT. The same URL serves different representations based on request header. So the page a human reads and the data a machine parses never drift apart. The interesting part is that every response can be signed and verified. Each handle gets an ED25519 keypair (private key AES-GCM-wrapped at rest), publishes a did:web document, and serves RFC 9421 signed responses. Claims about you — GitHub, a domain you control, an ATProto handle — are W3C Verifiable Credentials, verified before they&#x27;re shown (e.g. domain ownership via a DNS-TXT challenge). So &quot;this is really them&quot; can be confirmed by a machine instead of taken on faith. It can also bridge the identities you might already use, like ATProto because it supports did:web. Every username.md handle is a valid Bluesky identity root, and you can even import from Keybase. Why we built it: usernames on every platform are rented. The platform owns the namespace, the verification badge, and the audience. As agents start conducting business on our behalf, &quot;who is this, and can I prove it&quot; becomes an accountability and governance issue. I wanted an identity surface that&#x27;s mine, portable, and cryptographically verifiable; which anyone can have if they own a domain (mine is https:&#x2F;&#x2F;chrisbergeron.com , feel free to review the metadata). But I wanted to bring DID:web functionality to the mass market. You can get a username for yourself, for an agent, or multiple agents. Free tier gets you a public, signed profile at your handle. Pro ($49&#x2F;yr; coming soon!) adds you@username.md email forwarding with per-service aliases, custom CSS, and an MCP endpoint so an agent can query your profile as tools. The stack is a Python identity kernel, per-user keys, CloudFlare in front of the origin. Infra is hosted at AWS, built multi-region for HA but only one region is live right now. I&#x27;m a platform and security guy, so the frontend and marketing copy was augmented with AI. I&#x27;m sure you&#x27;ll find bugs and typos but hopefully few inconsistencies. It&#x27;s an MVP and I would never be able to ship if I kept engineering, tweaking and optimizing. So, here it is for you to enjoy, explore, and build upon - today. I have some really exciting things on the roadmap so I hope you join me and start building on top of username. The capabilities are super exciting and we&#x27;re just getting started. This may be the beginning of a new category: SSO as a Service.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://username.md/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49260240",
+    "createdAt": "2026-08-11T16:25:54.828Z"
+  },
+  {
+    "slug": "kessa-a-verifiable-delegation-and-attestation-system-for-ai-agents-hn",
+    "title": "Kessa, a verifiable delegation and attestation system for AI agents",
+    "shortDescription": "Проект «Kessa, a verifiable delegation and attestation system for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Kessa, a verifiable delegation and attestation system for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Gneiss-Group/Kessa",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49260224",
+    "createdAt": "2026-08-11T16:25:54.828Z"
+  },
+  {
+    "slug": "my-anti-ai-computer-hn",
+    "title": "My Anti AI Computer",
+    "shortDescription": "Проект «My Anti AI Computer», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «My Anti AI Computer», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://punkx.org/jackdoe/home.html",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49260181",
+    "createdAt": "2026-08-11T16:25:54.828Z"
+  },
+  {
+    "slug": "pickle-token-efficient-ai-agent-browser-with-policy-gated-actions-hn",
+    "title": "Pickle – token efficient AI agent browser with policy-gated actions",
+    "shortDescription": "I use agents for a lot of my own work, but whenever they access my browser they end up wasting a lot of tokens reading HTML, so I tried bui…",
+    "fullDescription": "I use agents for a lot of my own work, but whenever they access my browser they end up wasting a lot of tokens reading HTML, so I tried building a browser that simplifies webpage content for them. Pickle is an agent browser and it has all the features a regular browser has (tabs, search history, bookmarks, etc.), but pages load as compact structured data instead of raw HTML to reduce token usage. Overview for those curious: It&#x27;s policy-gated (blocked domains, actions that need approval like purchases) and every action is logged, so you&#x27;re always able to see what your agent is doing and can take over at any time. It&#x27;s also compatible with weaker&#x2F;local models as it auto-routes by model strength. i.e. small local models are limited to picking actions one step at a time so they don&#x27;t hallucinate actions or make up element IDs. Stronger models can plan multiple steps ahead. On the token compression side, I&#x27;ve been seeing around 32x less token usage. Other useful features: - shared notebook that you and your agents can write to - memory of page elements are preserved between sessions, so agents don&#x27;t have to relocate buttons&#x2F;fields every time they revisit a page - cross-session history search - Browsing modes, different personas that drive agent behaviour depending on your use case (e.g. research, study, shopping) You don&#x27;t need an API key to set it up and can just download it, open it, and pick a local model on first launch (or connect your own). It&#x27;s a one click config for Claude Desktop, Cursor, VS Code, and Codex CLI. Give it a go, and let me know what you think!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://picklebrowser.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49260102",
+    "createdAt": "2026-08-11T16:25:54.828Z"
+  },
+  {
+    "slug": "prompting-refinement-tool-requesting-testing-hn",
+    "title": "Prompting Refinement Tool [requesting testing]",
+    "shortDescription": "Hi There, I&#x27;ve struggled with asking AI too many questions to get to a proper prompt. Now that I&#x27;m a bit better at writing decent…",
+    "fullDescription": "Hi There, I&#x27;ve struggled with asking AI too many questions to get to a proper prompt. Now that I&#x27;m a bit better at writing decent prompts, I run into a time constraint where my prompts take a while to draft include tags, context, etc.. So, I built a tool where I can add a messy prompt and it asks 3-5 questions to gather additional context and let&#x27;s me copy and paste the prompt to whatever AI tool I&#x27;m using. I&#x27;ve personally seen value from this in the two days I&#x27;ve used it, but I&#x27;m curious to see if anyone else would get value from this. If y&#x27;all wouldn&#x27;t mind feel free to test https:&#x2F;&#x2F;promptme.host?utm_source=hackernews&amp;utm_medium=socia... - it&#x27;s literally 30 seconds to test and it has a feedback form so I&#x27;d love to know if y&#x27;all get anything out it. Thanks\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.promptme.host/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49259876",
+    "createdAt": "2026-08-11T16:25:54.828Z"
+  },
+  {
     "slug": "we-built-the-agentic-world-cup-llms-competing-in-1v1-soccer-hn",
     "title": "We Built the Agentic World Cup – LLMs Competing in 1v1 Soccer",
     "shortDescription": "Проект «We Built the Agentic World Cup – LLMs Competing in 1v1 Soccer», опубликован сообществом Hacker News.",
