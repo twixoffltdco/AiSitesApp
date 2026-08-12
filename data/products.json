@@ -1,5 +1,37 @@
 [
   {
+    "slug": "log-what-you-ship-in-your-voice-hn",
+    "title": "Log what you ship in your voice",
+    "shortDescription": "A single-binary CLI that crawls your repos, summarizes the work in your own voice with the AI of your choice, and stores it where you own t…",
+    "fullDescription": "A single-binary CLI that crawls your repos, summarizes the work in your own voice with the AI of your choice, and stores it where you own the data.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://shiplog.life/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49268197",
+    "createdAt": "2026-08-12T05:54:21.944Z"
+  },
+  {
+    "slug": "pragma-stop-copying-context-between-ai-agents-hn",
+    "title": "Pragma – Stop copying context between AI agents",
+    "shortDescription": "I’m currently subscribed to Codex Pro 5x and Gemini, and I also use the DeepSeek API. I have to constantly switch between different CLIs, m…",
+    "fullDescription": "I’m currently subscribed to Codex Pro 5x and Gemini, and I also use the DeepSeek API. I have to constantly switch between different CLIs, manually pass context around, and each agent has its own isolated memory. To solve this, I built Pragma: a single interface for interacting with multiple agents. Under the hood, it automatically calls different harnesses and models, passes context between them, and consolidates memory into one shared system. What do you think?\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/pqpo/pragma",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49268135",
+    "createdAt": "2026-08-12T05:54:21.945Z"
+  },
+  {
     "slug": "lethe-is-a-portable-identity-layer-user-consented-hn",
     "title": "Lethe is a portable identity layer – user consented",
     "shortDescription": "During my mtech I constantly used to navigate across a bunch of AI apps—from Gamma AI for decks to ChatGPT for understanding and navigation…",
