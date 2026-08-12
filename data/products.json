@@ -1,5 +1,21 @@
 [
   {
+    "slug": "lethe-is-a-portable-identity-layer-user-consented-hn",
+    "title": "Lethe is a portable identity layer – user consented",
+    "shortDescription": "During my mtech I constantly used to navigate across a bunch of AI apps—from Gamma AI for decks to ChatGPT for understanding and navigation…",
+    "fullDescription": "During my mtech I constantly used to navigate across a bunch of AI apps—from Gamma AI for decks to ChatGPT for understanding and navigation to Cursor, Claude, or Deepseek for coding, reorganizing, and more, as when one or other plans expire or take time to reset. My biggest issue—I couldn&#x27;t transfer all required context and understanding of the same when moving across different LLMs. This is where Lethe comes into use as a base layer for all of these, and it works in the way I want it, that is, the user wants it. You can just import your existing data from ChatGPT, Deepseek, Grok exports, docs, or read-only Gmail, or just say what you want. Lethe derives an understanding of your projects, decisions with reasoning (if visible&#x2F;unpredictable on moods), goals, and preferences—with each claim paired to the quote it showed up on along with a constant updating confidence score. It&#x27;s local first: raw conversations can never be stored at the server end; they&#x27;re always derived from a pseudonymized layer, which you can choose to export or delete anytime. All you need is minting a scoped token and pointing Claude&#x2F;Cursor&#x2F;any MCP client at it. Then navigate to a different AI, and it knows you before you tell it what was expected from it. Just ask it to &quot;build XYZ,&quot; and don&#x27;t be shocked when it follows urplanning from a different AI. Want something more intimate? Teach it a procedure or your pattern style of working once and see all across your connected ai behaving in the same way. I call this a layer, not a wrapper, as usually memory is built inside one app; it is basically locked in on the same, making this a neutral, cross-model version recognizing the gap of big labs disincentivized to build. Existing Limitations: what it digests and extracts is always equivalent to what you feed it—more data is better context, and less data is difficult for confidence, as it was built just for payload rather than pretense. Delegation is packaging, not autonomy; AI always confirms before action. As in the solo beta launch, the search is limited to lexical search first. Here you can try it with no account with the URL given above&#x2F;try ;hoping for brutally realistic feedback, especially on the trust model.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://lethe-ai.vercel.app",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49267611",
+    "createdAt": "2026-08-12T04:04:28.505Z"
+  },
+  {
     "slug": "pytest-catnip-github",
     "title": "pytest-catnip",
     "shortDescription": "pytest plugin for testing pipecat voicebots declaratively",
