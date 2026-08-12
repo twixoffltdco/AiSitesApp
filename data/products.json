@@ -1,5 +1,37 @@
 [
   {
+    "slug": "replaced-news-reading-with-two-tiny-editions-a-day-then-made-it-public-hn",
+    "title": "Replaced news reading with two tiny editions a day, then made it public",
+    "shortDescription": "I am passionate news reader &quot;to stay informed&quot;, which used to take 60-90 minutes daily. Then somewhere around February I wrote lo…",
+    "fullDescription": "I am passionate news reader &quot;to stay informed&quot;, which used to take 60-90 minutes daily. Then somewhere around February I wrote local news reader to fetch feeds and articles, feed them to AI along with my profile, ending with very tight digest of everything that interests me, joy and few minutes to read. Lots of Python and exposed scripting wires but it worked well. Then other people saw what I had and wanted the same, on their specific topics, which required some planning. Several months later: https:&#x2F;&#x2F;cutthroat.news It is decently smart, deduplicating articles across topics, allowing user to choose what topics to read and how much of them. Not logged users see default set which may fit or not. Topic writing end is currently on Mac Mini (I call Mini &quot;Editorial Office&quot;, but we may move to Hetzner soon) still runs Python and can use any model across OpenAI&#x2F;Anthropic&#x2F;Google, except for sonnet which fails miserably in keeping up with the format. Models are stacked so if one fails others pick up to get edition out on time. Frontend is fairly boring (in a good way), running on Hetzner VPS, using very stable Elixir, Bandit, Plug, without Phoenix, with minimal JS. No tracking, forever, and no cookies until user agrees. Reading the news this way really saves me 60+ minutes per day, if it works well for somebody else then mission accomplished.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://cutthroat.news/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49269702",
+    "createdAt": "2026-08-12T09:59:52.155Z"
+  },
+  {
+    "slug": "soundgate-real-time-note-detection-and-ai-tutor-for-guitar-hn",
+    "title": "SoundGate – Real-time note detection and AI tutor for guitar",
+    "shortDescription": "Проект «SoundGate – Real-time note detection and AI tutor for guitar», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «SoundGate – Real-time note detection and AI tutor for guitar», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://soundgate.ai/product/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49269584",
+    "createdAt": "2026-08-12T09:59:52.155Z"
+  },
+  {
     "slug": "awesome-magento-ai-github",
     "title": "awesome-magento-ai",
     "shortDescription": "Curated list of AI tools for Magento 2, Adobe Commerce & Mage-OS — agent skills, MCP servers, modules, CLIs, starter kits",
