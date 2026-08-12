@@ -1,5 +1,21 @@
 [
   {
+    "slug": "embench-playground-for-comparing-embeddings-and-retrieval-stacks-hn",
+    "title": "Embench – playground for comparing embeddings and retrieval stacks",
+    "shortDescription": "Проект «Embench – playground for comparing embeddings and retrieval stacks», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Embench – playground for comparing embeddings and retrieval stacks», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://embench.ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49272921",
+    "createdAt": "2026-08-12T14:54:41.495Z"
+  },
+  {
     "slug": "memoket-kite-github",
     "title": "memoket-kite",
     "shortDescription": "Memory layer for AI agents with token-efficient, explainable retrieval beyond vector similarity.",
