@@ -1,5 +1,21 @@
 [
   {
+    "slug": "hallucinote-integrating-ableton-and-claude-code-hn",
+    "title": "Hallucinote, integrating Ableton and Claude Code",
+    "shortDescription": "Hey HN! This is the first public release of Hallucinote, an integration of Claude Code and Ableton Live. Hallucinote helps with the entire…",
+    "fullDescription": "Hey HN! This is the first public release of Hallucinote, an integration of Claude Code and Ableton Live. Hallucinote helps with the entire lifecycle of songwriting, including ideation, instrumentation, harmony, rhythm (including microtiming), arrangement, mixing, and production. Hallucinote is focused on assisting songwriting, not doing it for you. Key features: - Git-first representation of songs, using Ableton as an audio rendering and performance capture surface - A decision log for each song, covering all aspects of songwriting and music production - Composition skills adhere to the song’s decision log and write with micro-timing and other niceties - Support for meter changes, polymeter, and alternate tunings - Skills to critique melody, harmony, and rhythm against your stated goals (NOT “is this a good melody in the abstract”) - Round trip: perform MIDI tracks in Live, pull down into Hallucinote for embellishment, push back to Live (no audio track round trips yet) - Captures every track and bus audio, with LUFS and other key measures Live-side [requires M4L &#x2F; Suite] - Mix analysis done by Claude code, pulling in external audio analysis tools as needed to identify clipping, muddy frequencies, misbehaving effects [requires M4L &#x2F; Suite] - Automation, sidechains, device chains of arbitrary depth, envelopes everywhere Live supports them - And yes, an MCP server with &gt;100 actions I’m REALLY trying to avoid making an AI music generator; this isn&#x27;t Suno. I wanted an expert assistant who’s willing to help with any aspect of music creation, who will call me out if I&#x27;m not thinking of something like “where are the vocals going to fit in this mix”, and who will handle tedious stuff like “hey let’s try a few ways to get from D minor to F# Phyrgian over the course of the break” or &quot;let&#x27;s try a mix that doubles the first chorus and simplifies the drums in the first half&quot; I&#x27;d love feedback... it&#x27;s been a hobby project for a while and I figured it&#x27;s time to share.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/brookstalley/hallucinote",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49271123",
+    "createdAt": "2026-08-12T12:08:29.115Z"
+  },
+  {
     "slug": "flightwifi-know-if-a-flights-wi-fi-can-hold-a-video-call-hn",
     "title": "FlightWifi – Know if a flight's Wi-Fi can hold a video call",
     "shortDescription": "Google Flights tells you a flight has &quot;Wi-Fi for a fee&quot; but never whether it can hold a video call. This adds an honest verdict t…",
