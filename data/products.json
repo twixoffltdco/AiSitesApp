@@ -1,5 +1,43 @@
 [
   {
+    "slug": "bilibili-digest-github",
+    "title": "bilibili-digest",
+    "shortDescription": "把 B 站视频变成学习资源的 Chrome 扩展：字幕阅读、双语对照、AI 概览、划词解释和带时间戳的笔记",
+    "fullDescription": "把 B 站视频变成学习资源的 Chrome 扩展：字幕阅读、双语对照、AI 概览、划词解释和带时间戳的笔记\n\nАвтор: biuworks. Найдено в GitHub Trending (AI-тематика). ⭐ 18 звёзд.",
+    "url": "https://github.com/biuworks/bilibili-digest",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "bilibili",
+      "browser-extension",
+      "chrome-extension",
+      "language-learning",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1331707935",
+    "createdAt": "2026-08-12T17:58:11.794Z"
+  },
+  {
+    "slug": "autocorrect-pc-autocorrect-predictive-text-ai-writing-for-windows-hn",
+    "title": "AutoCorrect PC – Autocorrect, predictive text, AI writing for Windows",
+    "shortDescription": "Проект «AutoCorrect PC – Autocorrect, predictive text, AI writing for Windows», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AutoCorrect PC – Autocorrect, predictive text, AI writing for Windows», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.autocorrectforpc.com",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49276049",
+    "createdAt": "2026-08-12T17:58:11.380Z"
+  },
+  {
     "slug": "tanchi-open-source-ai-prospecting-agent-that-only-automates-email-hn",
     "title": "Tanchi – Open-source AI prospecting agent that only automates email",
     "shortDescription": "Проект «Tanchi – Open-source AI prospecting agent that only automates email», опубликован сообществом Hacker News.",
