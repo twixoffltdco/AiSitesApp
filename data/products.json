@@ -1,5 +1,27 @@
 [
   {
+    "slug": "tokentab-github",
+    "title": "tokentab",
+    "shortDescription": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "fullDescription": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.\n\nАвтор: wzchav. Найдено в GitHub Trending (AI-тематика). ⭐ 12 звёзд.",
+    "url": "https://github.com/wzchav/tokentab",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "api",
+      "claude",
+      "claude-code",
+      "claude-tool",
+      "gemini",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1332216413",
+    "createdAt": "2026-08-12T19:06:52.114Z"
+  },
+  {
     "slug": "bilibili-digest-github",
     "title": "bilibili-digest",
     "shortDescription": "把 B 站视频变成学习资源的 Chrome 扩展：字幕阅读、双语对照、AI 概览、划词解释和带时间戳的笔记",
