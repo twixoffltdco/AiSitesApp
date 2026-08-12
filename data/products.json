@@ -1,5 +1,69 @@
 [
   {
+    "slug": "tanchi-open-source-ai-prospecting-agent-that-only-automates-email-hn",
+    "title": "Tanchi – Open-source AI prospecting agent that only automates email",
+    "shortDescription": "Проект «Tanchi – Open-source AI prospecting agent that only automates email», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Tanchi – Open-source AI prospecting agent that only automates email», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/tanchihq/tanchi",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49274973",
+    "createdAt": "2026-08-12T16:57:16.705Z"
+  },
+  {
+    "slug": "pane-an-open-source-browser-that-turns-your-work-into-living-websites-hn",
+    "title": "Pane – An open-source browser that turns your work into living websites",
+    "shortDescription": "TLDR: I wasn&#x27;t satisfied with any of the AI browsers available right now. So, I went wild and built exactly what I wanted. I built a b…",
+    "fullDescription": "TLDR: I wasn&#x27;t satisfied with any of the AI browsers available right now. So, I went wild and built exactly what I wanted. I built a browser that&#x27;s as comprehensive as an autonomous agent like Hermes, while removing the need for hundreds of integrations since this is literally your browser. Then I thought, what if the browser could build websites that are built just for my work, and can grow with my work. So my workflow changes from chatting with a bot to navigating these websites and clicking buttons for actions built just for me. A simple eg: a sales pipeline tracker, that keeps you prepared for the next meeting, and automatically stores the details of the previous interactions and details for all the prospects. So, here&#x27;s Pane. Features: - Usual AI browser with AI and automation - Powers of an autonomous agent like Hermes, or OpenClaw -&gt; soul, memory, self-improving skills etc. - This also solves a major problem with Hermes -&gt; integrations. I had to have multiple integrations to make Hermes useful for anything. Since Pane is literally my browser, search, access, auth etc are already solved. So I almost never need an integration. - Built in meeting transcription. - Auto context capture and learning from your browsing patterns. So you can say things like, &quot;resume my research work from yesterday&quot;. - The flagship: Personalised internet. Chats are poor containers for work that lasts days or weeks. Pane creates private, living sites for it instead: a Job Search pipeline, a Research Hub, a Sales Pipeline, or a site shaped around what you are doing. Story: I have been trying AI browsers since Comet was invite-only. Since then I&#x27;ve tried Atlas, Browseros, Dia, and most recently Aside (came closest to what I wanted). But none have came close to give a real productivity boost. I&#x27;ve also been an avid Hermes user, and it has literally been Chief of Staff for all my startups. I&#x27;ve been able to automate 30% of my GTM work with hermes, but it always fell short because I&#x27;ll have to keep hacking connections to my browser because it has to use my accounts for integrations such as email outreach analysis, linkedin outreach, etc. This is partially the reason I&#x27;ve been trying AI browsers. So a month ago, I gave in, forked the best bedrock that was available, BrowserOS (it&#x27;s a good browser btw, kudos to the creators for the good work). Went wild to add everything I wanted out of my browser. Then, I got the idea of Personalised internet: since the browser already knows all of the work, it can keep building personalised websites for my work. For example: a dashboard for GTM work progress, a kanban board for my social media outreach with details of each outreach and so much more. This way, I don&#x27;t have to keep asking the agent, &quot;where are we with X&quot;, I just open the personalised websites and navigate around. The backend is the agent, so buttons are prompts -&gt; the agent decides what happens next when you click something, like load another dynamic page, do an action etc. To be honest, I&#x27;ve been loving it. Releasing it to the internet to see what the rest of the world thinks of it. It&#x27;s still very early, and there&#x27;s so much more possible with this, and I&#x27;ll keep making this the OS for my work. Would love to have your feedback if you find it interesting and end up using it.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/abhishek-verma/Pane",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49274936",
+    "createdAt": "2026-08-12T16:57:16.705Z"
+  },
+  {
+    "slug": "crewscore-coverage-check-for-ai-agent-prompts-0611-hn",
+    "title": "CrewScore – coverage check for AI agent prompts (0.6.11)",
+    "shortDescription": "Проект «CrewScore – coverage check for AI agent prompts (0.6.11)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «CrewScore – coverage check for AI agent prompts (0.6.11)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://crewscore.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49274808",
+    "createdAt": "2026-08-12T16:57:16.705Z"
+  },
+  {
+    "slug": "dynobox-a-test-runner-for-ai-agent-skills-and-workflows-hn",
+    "title": "Dynobox – A test runner for AI agent skills and workflows",
+    "shortDescription": "Проект «Dynobox – A test runner for AI agent skills and workflows», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Dynobox – A test runner for AI agent skills and workflows», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/dynobox/dynobox",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49274758",
+    "createdAt": "2026-08-12T16:57:16.705Z"
+  },
+  {
     "slug": "learn-to-become-a-rave-developer-for-the-airline-industry-hn",
     "title": "Learn to become a Rave Developer for the airline industry",
     "shortDescription": "Проект «Learn to become a Rave Developer for the airline industry», опубликован сообществом Hacker News.",
