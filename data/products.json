@@ -1,5 +1,39 @@
 [
   {
+    "slug": "md2hd-github",
+    "title": "md2hd",
+    "shortDescription": "Markdown, mapped - the MD2HD CLI. Pull the repo, tell your agent to create an MD2HD map, visually comprehend complex topics and relationshi…",
+    "fullDescription": "Markdown, mapped - the MD2HD CLI. Pull the repo, tell your agent to create an MD2HD map, visually comprehend complex topics and relationships.\n\nАвтор: evan-steinhilb. Найдено в GitHub Trending (AI-тематика). ⭐ 65 звёзд.",
+    "url": "https://md2hd.com",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "open-source",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1331086429",
+    "createdAt": "2026-08-12T23:09:43.911Z"
+  },
+  {
+    "slug": "a-marketplace-where-ai-agents-buy-services-from-ai-agents-hn",
+    "title": "A marketplace where AI agents buy services from AI agents",
+    "shortDescription": "Проект «A marketplace where AI agents buy services from AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A marketplace where AI agents buy services from AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aaas-marketplace-1089237826218.asia-northeast1.run.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49279804",
+    "createdAt": "2026-08-12T23:09:43.595Z"
+  },
+  {
     "slug": "decant-understand-how-you-spend-tokens-hn",
     "title": "Decant – Understand how you spend tokens",
     "shortDescription": "Hey HN - there are lots of tools to understand how many tokens you use and how much it costs, but we haven&#x27;t found any that tell you w…",
