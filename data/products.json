@@ -1,5 +1,69 @@
 [
   {
+    "slug": "learn-to-become-a-rave-developer-for-the-airline-industry-hn",
+    "title": "Learn to become a Rave Developer for the airline industry",
+    "shortDescription": "Проект «Learn to become a Rave Developer for the airline industry», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Learn to become a Rave Developer for the airline industry», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://olect.github.io/become-rave-developer/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49274188",
+    "createdAt": "2026-08-12T15:56:46.114Z"
+  },
+  {
+    "slug": "ojcp-an-open-protocol-for-agent-consumable-job-data-hn",
+    "title": "OJCP – an open protocol for agent-consumable job data",
+    "shortDescription": "Author here! Agents are applying to jobs for people right now, with progressively more volume, and there&#x27;s nothing built for it. So th…",
+    "fullDescription": "Author here! Agents are applying to jobs for people right now, with progressively more volume, and there&#x27;s nothing built for it. So they scrape career pages and fight ATS forms with Playwright&#x2F;Browser Use, which breaks constantly (or they get bot blocked). Employers get buried in applications that don&#x27;t fit, candidates hear nothing back, and the resume is now an AI-written thing that another AI scores (which breaks the existing model entirely, btw). OJCP is MCP tools for search and apply, a manifest at &#x2F;.well-known&#x2F;ojcp.json so agents can find providers, and schemas that extend schema.org instead of replacing it. The playground on the site is a live MCP endpoint, so you can throw calls at it right now. Why a spec at all when models keep getting better at figuring things out? Inference can&#x27;t produce authorization. An agent can work out what a form wants. It can&#x27;t establish that someone consented to this specific submission, and then employer has no way to verify who&#x27;s calling. So TL;DR a more capable agent is also a more capable impersonator. In this model, trust runs both direction. Agents sign requests using the same method that CloudFlare and OpenAI are already using, providers sign their manifests, agents can check against a JWKS, and trust tiers cap how much candidate PII can go to a given provider. Validation happens at consent, so browsing costs nothing and you only pay the verify when the interaction occurs. I&#x27;m the CTO of Recruitics (job advertising) and spent time at LinkedIn before that, so I&#x27;ve been at the intersection of hiring and job search for a while and have felt the pain of both sides. Happy to answer any questions!\n\nНайдено в разделе Show HN на Hacker News. 👍 7 баллов.",
+    "url": "https://ojcp.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49273922",
+    "createdAt": "2026-08-12T15:56:46.114Z"
+  },
+  {
+    "slug": "federaide-a-tui-harness-with-p2p-multi-agent-routing-and-built-in-ide-hn",
+    "title": "FEDERaiDE, a TUI harness with P2P multi-agent routing and built in IDE",
+    "shortDescription": "Hi! Federaide is a general purpose multi-agent harness that runs in your terminal. It is meant for recreational programming and automating…",
+    "fullDescription": "Hi! Federaide is a general purpose multi-agent harness that runs in your terminal. It is meant for recreational programming and automating your scripts. The agents are just named instances of language models which have their own memories, backstories et cetera, and can coordinate with each other as they require. It has its own IDE (complete with interactive structure parsing and jump to def). I am building Federaide as a solo project. Why do I build this? Some reasons: - I reached out to some people to try my other IDE, many of them did not have suitable computers (or at all). - During this time I observed almost every normal person has interacted with AI via their phones (usually the Gemini&#x2F;ChatGPT app). - I felt I could bring the joy of coding to a lot more people if I could make an AI assisted IDE run on Android. - When I go to sleep I like to try out code ideas. Can&#x27;t take my macbook to bed, have cats. Do have a spare Android, thought it would be nice to have a coding platform I could use in bed. - Wanted to &quot;vibecode&quot; something, at the time gemini-cli was available, so this was the chosen project (tried a lot of concepts&#x2F;variants, in rust go etc). Ultimately chose textual over a very simple reason: horizontal scrollbox (absolutely needed that for code display, may be OCD but linewrap does not do it for me). - Wanted to create a truly powerful AI agent system without worrying about safety. Complete unabashed power was desired. - Therefore termux native operation was a huge design goal. - Kept wanting new features, kept adding them too. - When I started this (in March) multi-agent harnesses were not a thing (arguably they still aren&#x27;t mainstream, but there are other projects out there now). Wanted to see how different LLMs would react to each other in the same workspace. - So here we are. It is at an early stage, there are often bugs, but if you find them, I will fix them. Thought I&#x27;d share it, it can be daily-driven at this point. Does it solve a burning problem? Not really. Atleast not one other harnesses don&#x27;t already (other than maybe providing a performant competent IDE for termux). Is it fun? Fuck yeah. Watch your agents delete the workspace while you sleep. And the excuses are gold :D Well okay I do want to automate parts of wellsite data processing, the multimodal component of the active skills system is a step towards that, I mean what is geology if not hoarded knowledge and image processing on wetware? But the current models are so far not great at this stuff (I thought I would demo it, but so far the performance has not been up to my standards. Oh well will keep trying.) This is completely free of MCP. Or any other borrowed compute as much as possible. Except the LLMs ofcourse, though I have tested with Llama.cpp. Everything that can be done on device will be done on device. No logins or email ids or anything like that (unless you count the ChatGPT subscription Oauth, which is not compulsory). What do I use it for? I mostly use the research tool. Trying the paper trading (active skill) out has been fun (it was made on request for a friend). I like to experiment with orchestration, trying new ideas about memory and stuff like that, with the long term goal of making LLMs learn things outside of fine tuning or direct training. Running go&#x2F;rust&#x2F;python code directly on a phone has been fun. Docs: https:&#x2F;&#x2F;federaide.rocklab.in&#x2F;manual.html Github: https:&#x2F;&#x2F;github.com&#x2F;ROCK-LAB-PRIVATE-LIMITED&#x2F;federaide I have not put technical details here for brevity. Feel free to discuss them if you like.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://federaide.rocklab.in",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49273811",
+    "createdAt": "2026-08-12T15:56:46.115Z"
+  },
+  {
+    "slug": "trunchbull-run-real-models-against-any-benchmark-in-your-browser-hn",
+    "title": "Trunchbull, run real models against any benchmark in your browser",
+    "shortDescription": "Hi HN, Today I&#x27;m showcasing Trunchbull, a benchmarking platform designed for authoring benchmarks and running them against different m…",
+    "fullDescription": "Hi HN, Today I&#x27;m showcasing Trunchbull, a benchmarking platform designed for authoring benchmarks and running them against different models. We have direct support for benchmarks that use the harbor authoring system, custom tool authoring via the vercel ai sdk and configuration limits. We&#x27;ve also already imported terminalbench 2.0, as a sort of proof of concept that our harbor task orchestrator works, although you currently need a paid account as we are provisioning sandbox environments. I&#x27;ve made several popular benchmarks publicly available for testing. You dont need an account or your credit card information to access these: [Public benchmark demos]( https:&#x2F;&#x2F;trunchbull.dev&#x2F;sandboxes ) [GSM8K math reasoning]( https:&#x2F;&#x2F;trunchbull.dev&#x2F;try&#x2F;gsm8k ) [SkateBench]( https:&#x2F;&#x2F;trunchbull.dev&#x2F;try&#x2F;skatebench ) [ARC-Challenge]( https:&#x2F;&#x2F;trunchbull.dev&#x2F;try&#x2F;arc-challenge ) [TruthfulQA]( https:&#x2F;&#x2F;trunchbull.dev&#x2F;try&#x2F;truthfulqa-mc1 ) [Medical AI Failure Atlas]( https:&#x2F;&#x2F;trunchbull.dev&#x2F;try&#x2F;medical-ai-failure-atlas ) These demos let you pick from a preselected list of models, and will systematically test the selected models against their case scenarios. Any and all feedback is welcome, but i&#x27;m particularly interested in: - knowing what kind of benchmark evidence youd like to expect - any improvements on our benchmark run page, anything that can provide clarity or better understanding of the benchmark u just ran. - what you&#x27;d prefer to see on the overview page. - improvements on our documentation - better configuration and spend limits.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://trunchbull.dev",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49273695",
+    "createdAt": "2026-08-12T15:56:46.115Z"
+  },
+  {
     "slug": "embench-playground-for-comparing-embeddings-and-retrieval-stacks-hn",
     "title": "Embench – playground for comparing embeddings and retrieval stacks",
     "shortDescription": "Проект «Embench – playground for comparing embeddings and retrieval stacks», опубликован сообществом Hacker News.",
