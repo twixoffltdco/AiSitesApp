@@ -1,5 +1,37 @@
 [
   {
+    "slug": "decant-understand-how-you-spend-tokens-hn",
+    "title": "Decant – Understand how you spend tokens",
+    "shortDescription": "Hey HN - there are lots of tools to understand how many tokens you use and how much it costs, but we haven&#x27;t found any that tell you w…",
+    "fullDescription": "Hey HN - there are lots of tools to understand how many tokens you use and how much it costs, but we haven&#x27;t found any that tell you where those tokens are going! Decant helps you understand what you are spending tokens on (context gathering, planning, code, chat, etc), so you can optimize it.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/dosu-ai/decant",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49279140",
+    "createdAt": "2026-08-12T22:10:22.681Z"
+  },
+  {
+    "slug": "remove-ai-watermark-from-text-hn",
+    "title": "Remove AI Watermark from Text",
+    "shortDescription": "Проект «Remove AI Watermark from Text», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Remove AI Watermark from Text», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://nomark.me/#text-watermark",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49278933",
+    "createdAt": "2026-08-12T22:10:22.681Z"
+  },
+  {
     "slug": "tmux-agent-switcher-see-which-claudecodex-agents-need-your-attention-hn",
     "title": "Tmux-agent-switcher: see which Claude/Codex agents need your attention",
     "shortDescription": "Since the start of this year I&#x27;ve coded pretty much exclusively by running multiple AI agents in parallel. Having tried a bunch of too…",
