@@ -1,5 +1,75 @@
 [
   {
+    "slug": "memoket-kite-github",
+    "title": "memoket-kite",
+    "shortDescription": "Memory layer for AI agents with token-efficient, explainable retrieval beyond vector similarity.",
+    "fullDescription": "Memory layer for AI agents with token-efficient, explainable retrieval beyond vector similarity.\n\nАвтор: memoket. Найдено в GitHub Trending (AI-тематика). ⭐ 13 звёзд.",
+    "url": "https://memoket.ai/",
+    "category": "chatbot",
+    "tags": [
+      "agent-memory",
+      "agents",
+      "ai",
+      "ai-agents",
+      "chatbot",
+      "genai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1331565713",
+    "createdAt": "2026-08-12T13:55:41.814Z"
+  },
+  {
+    "slug": "talkformorg-turn-voice-inputs-into-structured-data-using-front-end-ai-hn",
+    "title": "Talkform.org, Turn voice inputs into structured data using front end AI",
+    "shortDescription": "Проект «Talkform.org, Turn voice inputs into structured data using front end AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Talkform.org, Turn voice inputs into structured data using front end AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://talkform.org",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49272029",
+    "createdAt": "2026-08-12T13:55:41.556Z"
+  },
+  {
+    "slug": "aileaks-scan-repos-for-leaked-llm-reasoning-trace-secrets-hn",
+    "title": "Aileaks – scan repos for leaked LLM reasoning-trace secrets",
+    "shortDescription": "Проект «Aileaks – scan repos for leaked LLM reasoning-trace secrets», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Aileaks – scan repos for leaked LLM reasoning-trace secrets», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/sarthakuwar/aileaks",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49271711",
+    "createdAt": "2026-08-12T13:55:41.557Z"
+  },
+  {
+    "slug": "ai-3d-pop-out-videos-for-reels-shorts-and-ads-hn",
+    "title": "AI 3D pop-out videos for Reels, Shorts and ads",
+    "shortDescription": "Проект «AI 3D pop-out videos for Reels, Shorts and ads», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI 3D pop-out videos for Reels, Shorts and ads», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://videopopy.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49271440",
+    "createdAt": "2026-08-12T13:55:41.557Z"
+  },
+  {
     "slug": "hallucinote-integrating-ableton-and-claude-code-hn",
     "title": "Hallucinote, integrating Ableton and Claude Code",
     "shortDescription": "Hey HN! This is the first public release of Hallucinote, an integration of Claude Code and Ableton Live. Hallucinote helps with the entire…",
