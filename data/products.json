@@ -1,5 +1,21 @@
 [
   {
+    "slug": "tmux-agent-switcher-see-which-claudecodex-agents-need-your-attention-hn",
+    "title": "Tmux-agent-switcher: see which Claude/Codex agents need your attention",
+    "shortDescription": "Since the start of this year I&#x27;ve coded pretty much exclusively by running multiple AI agents in parallel. Having tried a bunch of too…",
+    "fullDescription": "Since the start of this year I&#x27;ve coded pretty much exclusively by running multiple AI agents in parallel. Having tried a bunch of tools for managing them, I kept coming back to tmux. This is becaues I want to run them on a separate machine as I like being able to close my laptop, or even have long running tasks continue even if I board a flight without WiFi. So I built tmux-agent-switcher, a tmux plugin that gives me a better overview of all of them without replacing tmux as the core tech for managing processes on the server. Ctrl+n opens a sidebar showing windows across all sessions. The sidebar shows the agent&#x27;s state as icons. After selecting an Idle session it also checkmarks it, so you get indicator if you&#x27;ve seen it or not. It also has Vim and &quot;number-based&quot; navigation styles. I didn&#x27;t want to make a wrapper that would own how agents are launched, so I still run claude or codex normally. The plugin passively looks at tmux metadata, and visible terminal output to infer the agent state. There are downsides with this approach as UI changes or process name changes can break it. I will likely revisit it at some point to look at other approaches, but so far I haven&#x27;t had any significant issues with it. I mentioned the project in another HN discussion recently and was a bit surprised 25 people starred it as it was just some tool I&#x27;ve been using that I hacked together. Regardless I figured I&#x27;d do a proper Show HN: https:&#x2F;&#x2F;github.com&#x2F;Ymirke&#x2F;tmux-agent-switcher I&#x27;m curious to hear what other people on here are using to run agents in the on a separate machine &#x2F; in the cloud.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Ymirke/tmux-agent-switcher",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49278395",
+    "createdAt": "2026-08-12T21:12:53.766Z"
+  },
+  {
     "slug": "tried-some-experiments-with-architecture-for-long-term-memory-for-llm-hn",
     "title": "Tried some experiments with architecture for Long term memory for LLM",
     "shortDescription": "The main ideas that survived the experimentation are: using four memory types — user, knowledge, episodic, and decision memories, each with…",
