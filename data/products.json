@@ -1,5 +1,43 @@
 [
   {
+    "slug": "awesome-magento-ai-github",
+    "title": "awesome-magento-ai",
+    "shortDescription": "Curated list of AI tools for Magento 2, Adobe Commerce & Mage-OS — agent skills, MCP servers, modules, CLIs, starter kits",
+    "fullDescription": "Curated list of AI tools for Magento 2, Adobe Commerce & Mage-OS — agent skills, MCP servers, modules, CLIs, starter kits\n\nАвтор: MagePsycho. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/MagePsycho/awesome-magento-ai",
+    "category": "developer",
+    "tags": [
+      "adobe-commerce",
+      "agent-skills",
+      "ai",
+      "awesome",
+      "awesome-list",
+      "claude-code",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1331176828",
+    "createdAt": "2026-08-12T07:20:09.424Z"
+  },
+  {
+    "slug": "execution-intelligence-ai-accelerator-hn",
+    "title": "Execution Intelligence AI Accelerator",
+    "shortDescription": "Проект «Execution Intelligence AI Accelerator», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Execution Intelligence AI Accelerator», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://geekyants.com/ai-accelerator/execution-intelligence-ai-signal-bot",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49268753",
+    "createdAt": "2026-08-12T07:20:09.165Z"
+  },
+  {
     "slug": "log-what-you-ship-in-your-voice-hn",
     "title": "Log what you ship in your voice",
     "shortDescription": "A single-binary CLI that crawls your repos, summarizes the work in your own voice with the AI of your choice, and stores it where you own t…",
