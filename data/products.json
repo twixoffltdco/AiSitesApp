@@ -1,5 +1,37 @@
 [
   {
+    "slug": "tried-some-experiments-with-architecture-for-long-term-memory-for-llm-hn",
+    "title": "Tried some experiments with architecture for Long term memory for LLM",
+    "shortDescription": "The main ideas that survived the experimentation are: using four memory types — user, knowledge, episodic, and decision memories, each with…",
+    "fullDescription": "The main ideas that survived the experimentation are: using four memory types — user, knowledge, episodic, and decision memories, each with different lifecycles, different roles and different token budget in the retrieved context. Decision analysis + anchors — decisions can evolve overtime so they can be active or superseded or conditional instead of remaining as unrelated memories. we keep the track of decision memory which is active, superseded or conditional with additional context and using such active decisions related to the query as anchors to further retrieve memories using lexical bm25 often helps. Smart injection — New memories aren&#x27;t simply assigned to a topic based on similarity. An LLM-guided ingestion step uses the existing topic structure as context to decide where a memory belongs and how it relates to what is already there. This lets the hierarchy grow dynamically instead of becoming a collection of isolated memory nodes. Hierarchical summaries — MindCache adapts the static RAPTOR-style tree idea into a dynamic hierarchy that is incrementally updated as new memories arrive. Organizing memories into broader topics and maintaining summaries at those levels helps with broad queries, where retrieving individual memories one by one may miss the overall context. The topic structure also gives retrieval additional lexical&#x2F;contextual signals, so a query can match against the organized topic structure as well as the underlying memories. On my BEAM evaluation, MindCache achieved about 64% average rubric pass rate vs ~53% for Mem0, with stronger results on several categories including summarization, contradiction resolution, and multi-session reasoning. It&#x27;s now released as a Python SDK and has an MCP server for connecting it to MCP-compatible clients. Check it out. Feedbacks are appreciated. I also wrote a short overview of the project if you are interested: https:&#x2F;&#x2F;medium.com&#x2F;@faisaliitian&#x2F;i-built-an-ai-memory-system...\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/faisalhussain-devs/MindCache/tree/collapsed_tree",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49277842",
+    "createdAt": "2026-08-12T20:08:42.401Z"
+  },
+  {
+    "slug": "nuflow-visual-ai-powered-low-code-dev-and-deploy-platform-hn",
+    "title": "NuFlow, visual, AI powered, low code, dev and deploy platform",
+    "shortDescription": "Проект «NuFlow, visual, AI powered, low code, dev and deploy platform», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «NuFlow, visual, AI powered, low code, dev and deploy platform», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://deepcortex.com/get-started-1",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49277465",
+    "createdAt": "2026-08-12T20:08:42.401Z"
+  },
+  {
     "slug": "tokentab-github",
     "title": "tokentab",
     "shortDescription": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
