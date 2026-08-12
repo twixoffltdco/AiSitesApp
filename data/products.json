@@ -1,5 +1,42 @@
 [
   {
+    "slug": "pytest-catnip-github",
+    "title": "pytest-catnip",
+    "shortDescription": "pytest plugin for testing pipecat voicebots declaratively",
+    "fullDescription": "pytest plugin for testing pipecat voicebots declaratively\n\nАвтор: elementsinteractive. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/elementsinteractive/pytest-catnip",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "chatbots",
+      "pipecat",
+      "pytest",
+      "pytest-plugin",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1330750182",
+    "createdAt": "2026-08-12T01:42:15.512Z"
+  },
+  {
+    "slug": "airstats-the-lightest-mac-menu-bar-system-monitor-hn",
+    "title": "AirStats – the lightest Mac menu bar system monitor",
+    "shortDescription": "Проект «AirStats – the lightest Mac menu bar system monitor», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AirStats – the lightest Mac menu bar system monitor», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://airstats.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49266874",
+    "createdAt": "2026-08-12T01:42:15.245Z"
+  },
+  {
     "slug": "i-wrote-the-emudev-hello-world-chip-8-emulator-in-c-hn",
     "title": "I wrote the emudev hello world (CHIP-8 emulator in C)",
     "shortDescription": "Yep, just another CHIP-8 emulator. But for me, as someone who has never written anything this low level and never touched C before, it was…",
