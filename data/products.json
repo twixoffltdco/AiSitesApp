@@ -1,5 +1,63 @@
 [
   {
+    "slug": "eve-software-factory-template-github",
+    "title": "eve-software-factory-template",
+    "shortDescription": "Meet Foreman, an eve Software Factory.",
+    "fullDescription": "Meet Foreman, an eve Software Factory.\n\nАвтор: vercel-labs. Найдено в GitHub Trending (AI-тематика). ⭐ 37 звёзд.",
+    "url": "https://vercel.com/templates/eve/eve-software-factory",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "eve",
+      "vercel",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1332009127",
+    "createdAt": "2026-08-13T03:07:10.826Z"
+  },
+  {
+    "slug": "oss-pr-reviewer-github",
+    "title": "oss-pr-reviewer",
+    "shortDescription": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structure…",
+    "fullDescription": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.\n\nАвтор: vuphongle. Найдено в GitHub Trending (AI-тематика). ⭐ 23 звёзд.",
+    "url": "https://github.com/vuphongle/oss-pr-reviewer",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "cli",
+      "code-review",
+      "developer-tools",
+      "github",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1332604484",
+    "createdAt": "2026-08-13T03:07:10.826Z"
+  },
+  {
+    "slug": "im-tired-replying-my-social-media-visitors-i-let-ai-agent-handle-it-hn",
+    "title": "I'm tired replying my social media visitors, I let AI agent handle it",
+    "shortDescription": "Agle answers questions, handles complaints, completes tasks, books meetings, and routes important issues to me — automatically, 24&#x2F;7.",
+    "fullDescription": "Agle answers questions, handles complaints, completes tasks, books meetings, and routes important issues to me — automatically, 24&#x2F;7.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.agle.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49281335",
+    "createdAt": "2026-08-13T03:07:10.793Z"
+  },
+  {
     "slug": "awesome-artificial-intelligence-github",
     "title": "awesome-artificial-intelligence",
     "shortDescription": "awesome-artificial-intelligence - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
