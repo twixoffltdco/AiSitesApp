@@ -1,5 +1,137 @@
 [
   {
+    "slug": "awesome-artificial-intelligence-github",
+    "title": "awesome-artificial-intelligence",
+    "shortDescription": "awesome-artificial-intelligence - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+    "fullDescription": "awesome-artificial-intelligence - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.\n\nАвтор: musichen. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://github.com/musichen/awesome-artificial-intelligence",
+    "category": "productivity",
+    "tags": [
+      "agentic-coding",
+      "agents",
+      "agents-books",
+      "agents-rules",
+      "ai",
+      "ai-agents",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1331500518",
+    "createdAt": "2026-08-13T00:06:33.823Z"
+  },
+  {
+    "slug": "personacli-github",
+    "title": "personacli",
+    "shortDescription": "Local-first personal workspace: write notes, track tasks, chat with an AI that knows your files - all plain Markdown, no cloud.",
+    "fullDescription": "Local-first personal workspace: write notes, track tasks, chat with an AI that knows your files - all plain Markdown, no cloud.\n\nАвтор: jayamitkatariya. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/jayamitkatariya/personacli",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "cli",
+      "hono",
+      "knowledge-management",
+      "local-first",
+      "macos",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1331789580",
+    "createdAt": "2026-08-13T00:06:33.823Z"
+  },
+  {
+    "slug": "greentree-github",
+    "title": "greentree",
+    "shortDescription": "Test the tree, not every commit: verify a dirty working tree continuously, publish only verified trees.",
+    "fullDescription": "Test the tree, not every commit: verify a dirty working tree continuously, publish only verified trees.\n\nАвтор: Reachpad. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://reachpad.dev",
+    "category": "productivity",
+    "tags": [
+      "agentic-engineering",
+      "agentic-workflow",
+      "agents",
+      "ai",
+      "ci",
+      "coding-agents",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1331591005",
+    "createdAt": "2026-08-13T00:06:33.823Z"
+  },
+  {
+    "slug": "danyapi-github",
+    "title": "DanyAPI",
+    "shortDescription": "OpenAI compatible API on top of the free deepseek (chat.deepseek.com) and qwen (chat.qwen.ai) web clients: account pools, streaming, thinki…",
+    "fullDescription": "OpenAI compatible API on top of the free deepseek (chat.deepseek.com) and qwen (chat.qwen.ai) web clients: account pools, streaming, thinking, web search\n\nАвтор: FANATFANATA. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://DanyaVoredom.t.me",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "api",
+      "chat",
+      "danyapi",
+      "deepseek",
+      "fastapi",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1331379339",
+    "createdAt": "2026-08-13T00:06:33.823Z"
+  },
+  {
+    "slug": "webmeld-github",
+    "title": "webmeld",
+    "shortDescription": "Restyle any webpage with words — a local-first Chromium extension with element selection, verified CSS previews, BYO LLM, undo, and persist…",
+    "fullDescription": "Restyle any webpage with words — a local-first Chromium extension with element selection, verified CSS previews, BYO LLM, undo, and persistence.\n\nАвтор: MicroMilo. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/MicroMilo/webmeld/releases/latest",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "browser-extension",
+      "chrome-extension",
+      "css",
+      "local-first",
+      "openai-compatible",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1331773491",
+    "createdAt": "2026-08-13T00:06:33.823Z"
+  },
+  {
+    "slug": "pocketrag-github",
+    "title": "PocketRAG",
+    "shortDescription": "A zero-dependency, drop-in hybrid RAG engine for PHP 8+ with SQLite.",
+    "fullDescription": "A zero-dependency, drop-in hybrid RAG engine for PHP 8+ with SQLite.\n\nАвтор: devalexanderdaza. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/devalexanderdaza/PocketRAG/tree/main/docs",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "embeddings",
+      "hybrid-search",
+      "php",
+      "rag",
+      "retrieval-augmented-generation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1330451899",
+    "createdAt": "2026-08-13T00:06:33.823Z"
+  },
+  {
     "slug": "md2hd-github",
     "title": "md2hd",
     "shortDescription": "Markdown, mapped - the MD2HD CLI. Pull the repo, tell your agent to create an MD2HD map, visually comprehend complex topics and relationshi…",
