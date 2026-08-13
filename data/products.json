@@ -1,5 +1,75 @@
 [
   {
+    "slug": "omnicopilot-github",
+    "title": "OmniCopilot",
+    "shortDescription": "1200+ AI models in your GitHub Copilot Chat — free & forever free. VS Code extension powered by OmniRoute: 330+ providers (90+ free) — Kimi…",
+    "fullDescription": "1200+ AI models in your GitHub Copilot Chat — free & forever free. VS Code extension powered by OmniRoute: 330+ providers (90+ free) — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, Qwen — with agent mode, tool calling, vision and quota-aware auto-fallback. MIT.\n\nАвтор: diegosouzapw. Найдено в GitHub Trending (AI-тематика). ⭐ 10 звёзд.",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "byok",
+      "copilot-chat",
+      "github-copilot",
+      "language-models",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1333211388",
+    "createdAt": "2026-08-13T16:56:58.792Z"
+  },
+  {
+    "slug": "openai-network-checker-using-31-browser-and-ip-signals-hn",
+    "title": "OpenAI network checker using 31 browser and IP signals",
+    "shortDescription": "Проект «OpenAI network checker using 31 browser and IP signals», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «OpenAI network checker using 31 browser and IP signals», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.getplus.ai/openai-ip-check",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49288540",
+    "createdAt": "2026-08-13T16:56:58.596Z"
+  },
+  {
+    "slug": "artificial-analysis-tool-to-create-custom-benchmarks-for-any-use-case-hn",
+    "title": "Artificial Analysis tool to create custom benchmarks for any use case",
+    "shortDescription": "Проект «Artificial Analysis tool to create custom benchmarks for any use case», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Artificial Analysis tool to create custom benchmarks for any use case», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://artificialanalysis.ai/optima",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49288389",
+    "createdAt": "2026-08-13T16:56:58.596Z"
+  },
+  {
+    "slug": "virtual-private-llm-fixed-fee-with-no-usage-or-token-limits-hn",
+    "title": "Virtual Private LLM, fixed fee with no usage or token limits",
+    "shortDescription": "Over the last few months I&#x27;ve been exploring a bunch of different startup ideas. One thing that came up time and time again was data s…",
+    "fullDescription": "Over the last few months I&#x27;ve been exploring a bunch of different startup ideas. One thing that came up time and time again was data safety and sovereignty in AI inference. Once you go looking for EU-based options, your choices become quite thin quite quickly. That&#x27;s why decided to launch Solheim: Your own &quot;Virtual Private LLM&quot;, a flat fee for reserved compute, no token meter, 100% EU-based\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://solheim.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49288032",
+    "createdAt": "2026-08-13T16:56:58.596Z"
+  },
+  {
     "slug": "remarc-comment-on-anything-on-your-screen-and-send-it-to-your-agent-hn",
     "title": "Remarc – comment on anything on your screen and send it to your agent",
     "shortDescription": "Like any side project, Remarc had its innocent beginnings in my own problem — there was no good way to provide contextual feedback to AI ag…",
