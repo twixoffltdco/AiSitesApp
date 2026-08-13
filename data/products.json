@@ -1,5 +1,155 @@
 [
   {
+    "slug": "awesome-deepseek-harness-github",
+    "title": "awesome-deepseek-harness",
+    "shortDescription": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+    "fullDescription": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.\n\nАвтор: 0xsline. Найдено в GitHub Trending (AI-тематика). ⭐ 66 звёзд.",
+    "url": "https://github.com/0xsline/awesome-deepseek-harness",
+    "category": "chatbot",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "awesome",
+      "awesome-list",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1330942675",
+    "createdAt": "2026-08-13T14:36:15.771Z"
+  },
+  {
+    "slug": "sightdiff-beforeafter-visual-proof-of-what-your-ai-agent-changed-hn",
+    "title": "SightDiff – before/after visual proof of what your AI agent changed",
+    "shortDescription": "Проект «SightDiff – before/after visual proof of what your AI agent changed», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «SightDiff – before/after visual proof of what your AI agent changed», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://sightdiff.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49286594",
+    "createdAt": "2026-08-13T14:36:15.601Z"
+  },
+  {
+    "slug": "ironbee-an-ai-qa-engineer-that-tests-your-vercel-preview-on-every-pr-hn",
+    "title": "IronBee – an AI QA engineer that tests your Vercel preview on every PR",
+    "shortDescription": "Проект «IronBee – an AI QA engineer that tests your Vercel preview on every PR», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «IronBee – an AI QA engineer that tests your Vercel preview on every PR», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://medium.com/@serkan_ozal/your-ai-qa-engineer-now-runs-on-every-vercel-preview-16ca2d9dc03a",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49286496",
+    "createdAt": "2026-08-13T14:36:15.601Z"
+  },
+  {
+    "slug": "an-agent-engine-with-no-sdk-just-toml-and-webhooks-hn",
+    "title": "An agent engine with no SDK, just TOML and webhooks",
+    "shortDescription": "I was looking for a way to add AI agents to multiple systems that I maintain. I had a few requirements: - I work in multiple programming la…",
+    "fullDescription": "I was looking for a way to add AI agents to multiple systems that I maintain. I had a few requirements: - I work in multiple programming languages, so it needs to work for all of them. - I can control how tools access my system. - I can override the agent loop to try different patterns. - I can iterate on the loop without handling durability, streaming, and the rest of the nitty gritty. - I can iterate locally before deploying. - I can self host. Nothing existed that worked across programming languages, so I built it. It&#x27;s not an SDK. It&#x27;s a server that handles durability, streaming, MCP connections, LLM calls and connecting to channels like Slack. You can override every single step of the agent loop by handling a webhook. But you don&#x27;t have to override anything, you don&#x27;t even need to handle the webhook. You can define the agent in a TOML file and chat with your agent via Slack in minutes. Point it at your backend to receive a webhook at every decision point. The engine sends the current step and a proposed next step. You can echo the proposal to do what the engine wants, or you can do something else and customize the agent loop. Check it out! https:&#x2F;&#x2F;github.com&#x2F;substructureai&#x2F;substructure https:&#x2F;&#x2F;substructure.ai&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://substructure.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49286364",
+    "createdAt": "2026-08-13T14:36:15.601Z"
+  },
+  {
+    "slug": "nanorl-rl-training-for-llms-in-1800-lines-hn",
+    "title": "NanoRL – RL training for LLMs in ~1,800 lines",
+    "shortDescription": "The smallest async RL trainer I could write: one loop that runs REINFORCE on CartPole on a laptop and async GRPO on a cluster (e.g. 8xH100…",
+    "fullDescription": "The smallest async RL trainer I could write: one loop that runs REINFORCE on CartPole on a laptop and async GRPO on a cluster (e.g. 8xH100 trainer, 8 vLLM workers, ran as a [SkyPilot job group]( https:&#x2F;&#x2F;docs.skypilot.ai&#x2F;en&#x2F;latest&#x2F;examples&#x2F;job-groups.html ) on k8s ). All without Ray or TRL or DeepSpeed etc., workers talk to the trainer over stdlib HTTP.\n\nНайдено в разделе Show HN на Hacker News. 👍 7 баллов.",
+    "url": "https://github.com/alex000kim/nanoRL",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49286216",
+    "createdAt": "2026-08-13T14:36:15.601Z"
+  },
+  {
+    "slug": "delphi-build-your-own-ai-trading-agent-in-seconds-hn",
+    "title": "Delphi – Build your own AI trading agent in seconds",
+    "shortDescription": "We built a tool to help anyone trade regardless of experience level. Type a strategy, test on historical data, play with simulated money an…",
+    "fullDescription": "We built a tool to help anyone trade regardless of experience level. Type a strategy, test on historical data, play with simulated money and deploy to a brokerage. You don’t have to stare at Robinhood all day or constantly check Reddit for what people are saying about a stock. Our agents do all the heavy-lifting for you.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://tradewithdelphi.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49285899",
+    "createdAt": "2026-08-13T14:36:15.601Z"
+  },
+  {
+    "slug": "taskfuel-agents-discover-and-pay-per-call-for-100-apis-hn",
+    "title": "TaskFuel – agents discover and pay per call for 100 APIs",
+    "shortDescription": "Проект «TaskFuel – agents discover and pay per call for 100 APIs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «TaskFuel – agents discover and pay per call for 100 APIs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://taskfuel.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49285835",
+    "createdAt": "2026-08-13T14:36:15.601Z"
+  },
+  {
+    "slug": "a-walkable-3d-tour-of-a-feedforward-neural-net-hn",
+    "title": "A walkable 3D tour of a feedforward neural net",
+    "shortDescription": "Проект «A walkable 3D tour of a feedforward neural net», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A walkable 3D tour of a feedforward neural net», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://ffnn.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49285437",
+    "createdAt": "2026-08-13T14:36:15.602Z"
+  },
+  {
+    "slug": "diffusion-pdf-a-diffusion-image-model-embedded-entirely-in-a-pdf-file-hn",
+    "title": "Diffusion PDF – A Diffusion Image Model Embedded Entirely in a PDF File",
+    "shortDescription": "Hey Hacker News! I&#x27;m Alex, I&#x27;m 19 and I work at Hack Club! The last two weeks i&#x27;ve been messing around with pdfs. I made slo…",
+    "fullDescription": "Hey Hacker News! I&#x27;m Alex, I&#x27;m 19 and I work at Hack Club! The last two weeks i&#x27;ve been messing around with pdfs. I made slop pdf ( https:&#x2F;&#x2F;slop.alexvd.dev -- notice the similar website design), a pdf that generates random ai slop stories when you open it, and I was showing that off to one of my friends who suggested I get the LLM to actually work inside the pdf, without an API call to a relay. I laughed at the idea, but then we did some research together, and we managed to find EvanZhouDev&#x27;s llm.pdf ( https:&#x2F;&#x2F;github.com&#x2F;EvanZhouDev&#x2F;llm.pdf ). Because it existed, I didn&#x27;t want to waste my time or my tokens building something like it. So I pivoted, eventually deciding to make a diffusion image model work fully inside a pdf. I forked EvanZhouDev&#x27;s llm.pdf repo, and eventually managed to get it working (with the help of claude). Here&#x27;s the finished version. It took a while to train, but was worth it so i can show it to my future classmates (I&#x27;m an incoming freshman in college this year).\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://diffusion.alexvd.dev/",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49285429",
+    "createdAt": "2026-08-13T14:36:15.602Z"
+  },
+  {
     "slug": "roundos-datarooms-free-docsend-alternative-tracked-links-vdrs-hn",
     "title": "RoundOS Datarooms – Free DocSend Alternative (Tracked Links, VDRs)",
     "shortDescription": "Проект «RoundOS Datarooms – Free DocSend Alternative (Tracked Links, VDRs)», опубликован сообществом Hacker News.",
