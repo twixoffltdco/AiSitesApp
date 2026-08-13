@@ -1,5 +1,43 @@
 [
   {
+    "slug": "enterprise-system-design-github",
+    "title": "enterprise-system-design",
+    "shortDescription": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and…",
+    "fullDescription": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.\n\nАвтор: DrHazemAli. Найдено в GitHub Trending (AI-тематика). ⭐ 62 звёзд.",
+    "url": "https://github.com/DrHazemAli/enterprise-system-design",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-governance",
+      "ai-security",
+      "ai-systems",
+      "cloud-architecture",
+      "cloud-infrastructure",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1331592455",
+    "createdAt": "2026-08-13T23:11:23.191Z"
+  },
+  {
+    "slug": "ai-slop-kitchen-hn",
+    "title": "AI Slop Kitchen",
+    "shortDescription": "I&#x27;ve been vibe coding small games with my 3 year old. We stumbled upon this kitchen format",
+    "fullDescription": "I&#x27;ve been vibe coding small games with my 3 year old. We stumbled upon this kitchen format\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://play-kitchen.netlify.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49292742",
+    "createdAt": "2026-08-13T23:11:23.158Z"
+  },
+  {
     "slug": "clixad-free-ai-coding-agent-in-the-terminal-funded-by-an-offerwall-hn",
     "title": "Clixad – Free AI coding agent in the terminal, funded by an offerwall",
     "shortDescription": "Проект «Clixad – Free AI coding agent in the terminal, funded by an offerwall», опубликован сообществом Hacker News.",
