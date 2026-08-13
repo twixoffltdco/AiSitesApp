@@ -1,5 +1,43 @@
 [
   {
+    "slug": "opengp-github",
+    "title": "opengp",
+    "shortDescription": "Open-source AI intelligence platform for private equity — cited RAG chat over your data room, portfolio analytics, AI model builder, meetin…",
+    "fullDescription": "Open-source AI intelligence platform for private equity — cited RAG chat over your data room, portfolio analytics, AI model builder, meeting transcription & LP inbox. Self-hosted in your own AWS (full Terraform). AGPL-3.0 alternative to Rogo / Hebbia.\n\nАвтор: vivan1211. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/vivan1211/opengp",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "ai-analyst",
+      "aws",
+      "data-room",
+      "dataroom",
+      "deal-flow",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1330679814",
+    "createdAt": "2026-08-13T05:16:46.366Z"
+  },
+  {
+    "slug": "agent-memory-leaderboard-first-public-results-for-ai-memory-systems-hn",
+    "title": "Agent Memory Leaderboard – first public results for AI memory systems",
+    "shortDescription": "We just released the first public results from the Agent Memory Leaderboard (AML). The first evaluation focuses on Text Memory across two t…",
+    "fullDescription": "We just released the first public results from the Agent Memory Leaderboard (AML). The first evaluation focuses on Text Memory across two tracks: - Open-source Methods - Commercial Products 136 teams registered, and 69 representative memory frameworks completed the first evaluation. Commercial Products — Text Memory: 1. MemoraX — 58.02 2. MemOS — 45.89 3. NTES-MEMORY-SMART — 44.21 The benchmark uses a common evaluation framework and a clearer system boundary: Memory system: Add → Search Benchmark: Answer → Eval The goal is to make memory-system results more comparable and reproducible.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://agentmemoryleaderboard.ai/leaderboard/academic/textual",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49281370",
+    "createdAt": "2026-08-13T05:16:46.111Z"
+  },
+  {
     "slug": "eve-software-factory-template-github",
     "title": "eve-software-factory-template",
     "shortDescription": "Meet Foreman, an eve Software Factory.",
