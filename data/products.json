@@ -1,5 +1,85 @@
 [
   {
+    "slug": "roundos-datarooms-free-docsend-alternative-tracked-links-vdrs-hn",
+    "title": "RoundOS Datarooms – Free DocSend Alternative (Tracked Links, VDRs)",
+    "shortDescription": "Проект «RoundOS Datarooms – Free DocSend Alternative (Tracked Links, VDRs)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «RoundOS Datarooms – Free DocSend Alternative (Tracked Links, VDRs)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://roundos.ai/free-docsend-alternative",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49285285",
+    "createdAt": "2026-08-13T13:03:15.121Z"
+  },
+  {
+    "slug": "read-it-easy-read-only-code-editor-with-an-improved-go-to-definition-hn",
+    "title": "Read it easy – Read-only code editor with an improved Go to Definition",
+    "shortDescription": "I built a desktop app that improves the UI&#x2F;UX for reading source code . Code editors&#x2F;IDEs have many features, but I didn&#x27;t m…",
+    "fullDescription": "I built a desktop app that improves the UI&#x2F;UX for reading source code . Code editors&#x2F;IDEs have many features, but I didn&#x27;t make the best use of them when reading the source code. So, I designed the app by picking up some features for source code reading. It is read-only because it is intended to focus users on reading. Switching from your favorite code editor or IDE to the app can help with context switching from coding to code reading. I wonder if this context switch can help people focus on reading. One of the features I designed specifically for this app is &quot;Animated Go to Definition,&quot; which works by double-clicking a function name in the code and is designed around some principles I use when reading code. This feature exactly embodies the ideas and concepts of this app. Now, Animated Go to Definition supports JavaScript, TypeScript, Python, Java, and C#. AI empowers documentation in software development, but it does not always eliminate the need to read source code. To truly understand how software works, we still need to read and comprehend the code ourselves. Therefore, Read it easy is designed to be a tool that helps humans read and understand code. Would love feedback of any kind, positive or critical. I’m also interested to hear what bothers or frustrates you about code reading.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.readiteasy.app/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49284944",
+    "createdAt": "2026-08-13T13:03:15.121Z"
+  },
+  {
+    "slug": "ai-flight-recorder-record-replay-and-track-ai-session-costs-hn",
+    "title": "AI Flight Recorder – record, replay, and track AI session costs",
+    "shortDescription": "Проект «AI Flight Recorder – record, replay, and track AI session costs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Flight Recorder – record, replay, and track AI session costs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/AllThingsSmitty/ai-flight-recorder",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49284938",
+    "createdAt": "2026-08-13T13:03:15.121Z"
+  },
+  {
+    "slug": "rbek-governed-execution-for-ai-agent-hn",
+    "title": "RBEK – governed execution for AI agent",
+    "shortDescription": "Проект «RBEK – governed execution for AI agent», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «RBEK – governed execution for AI agent», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/rbekplatform/rbek",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49284886",
+    "createdAt": "2026-08-13T13:03:15.121Z"
+  },
+  {
+    "slug": "i-graded-83-ai-vendors-on-data-residency-training-and-subprocessors-hn",
+    "title": "I graded 83 AI vendors on data residency, training and subprocessors",
+    "shortDescription": "Проект «I graded 83 AI vendors on data residency, training and subprocessors», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I graded 83 AI vendors on data residency, training and subprocessors», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://sovereignairegistry.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49284787",
+    "createdAt": "2026-08-13T13:03:15.121Z"
+  },
+  {
     "slug": "eve-software-factory-template-github-2",
     "title": "eve-software-factory-template",
     "shortDescription": "Meet Foreman, an eve Software Factory.",
