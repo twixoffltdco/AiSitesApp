@@ -1,5 +1,27 @@
 [
   {
+    "slug": "agentic-playwright-github",
+    "title": "agentic-playwright",
+    "shortDescription": "Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in.",
+    "fullDescription": "Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in.\n\nАвтор: idavidov13. Найдено в GitHub Trending (AI-тематика). ⭐ 9 звёзд.",
+    "url": "https://github.com/idavidov13/agentic-playwright",
+    "category": "developer",
+    "tags": [
+      "agentic",
+      "ai",
+      "api-testing",
+      "claude-code",
+      "cursor",
+      "e2e",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1332868730",
+    "createdAt": "2026-08-13T17:57:55.102Z"
+  },
+  {
     "slug": "omnicopilot-github",
     "title": "OmniCopilot",
     "shortDescription": "1200+ AI models in your GitHub Copilot Chat — free & forever free. VS Code extension powered by OmniRoute: 330+ providers (90+ free) — Kimi…",
