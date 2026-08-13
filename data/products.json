@@ -1,5 +1,57 @@
 [
   {
+    "slug": "eve-software-factory-template-github-2",
+    "title": "eve-software-factory-template",
+    "shortDescription": "Meet Foreman, an eve Software Factory.",
+    "fullDescription": "Meet Foreman, an eve Software Factory.\n\nАвтор: vercel-labs. Найдено в GitHub Trending (AI-тематика). ⭐ 52 звёзд.",
+    "url": "https://ask-foreman.dev",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "eve",
+      "vercel",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1332009127",
+    "createdAt": "2026-08-13T11:53:55.273Z"
+  },
+  {
+    "slug": "markleft-how-i-review-claudes-markdown-plans-hn",
+    "title": "Markleft – how I review Claude's Markdown plans",
+    "shortDescription": "Проект «Markleft – how I review Claude's Markdown plans», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Markleft – how I review Claude's Markdown plans», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://blog.lysk.tech/markleft-ai-markdown-review/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49284329",
+    "createdAt": "2026-08-13T11:53:55.002Z"
+  },
+  {
+    "slug": "ai-store-builder-hn",
+    "title": "AI Store Builder",
+    "shortDescription": "Проект «AI Store Builder», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Store Builder», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://app.chisels.dev",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49284214",
+    "createdAt": "2026-08-13T11:53:55.002Z"
+  },
+  {
     "slug": "howlforge-github",
     "title": "howlforge",
     "shortDescription": "Self-hosted second brain: capture ideas anywhere, let AI organize them into a Markdown vault you own.",
