@@ -1,5 +1,37 @@
 [
   {
+    "slug": "mltraining-free-aiml-training-resources-for-everyone-hn",
+    "title": "MLTraining Free AI/ML training resources for everyone",
+    "shortDescription": "Проект «MLTraining Free AI/ML training resources for everyone», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «MLTraining Free AI/ML training resources for everyone», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://mltraining.org/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49290500",
+    "createdAt": "2026-08-13T19:07:10.666Z"
+  },
+  {
+    "slug": "lymescribe-one-computer-on-your-network-transcribes-for-the-rest-hn",
+    "title": "LymeScribe – one computer on your network transcribes for the rest",
+    "shortDescription": "Transcribed with LymeScribe just before posting this: &quot;I realize it&#x27;s a little bit late in the day to be posting on Hacker News.…",
+    "fullDescription": "Transcribed with LymeScribe just before posting this: &quot;I realize it&#x27;s a little bit late in the day to be posting on Hacker News. However, I&#x27;ve been looking at this frog for a good two weeks now, and F it, I&#x27;m just going to ship it. I&#x27;ve posted on Hacker News now like three or four times with little to no results. So if a tree falls in the woods...&quot; (I censored the F word, but it transcribed just fine.) TL;DR: LymeScribe is local speech to text for Mac and Windows: dictate into any app, or drop in a recording and get a transcript with speaker labels, and nothing goes to a server you don&#x27;t own. On a machine that can handle it, it all runs right there. On anything that can&#x27;t, or anywhere you&#x27;d rather keep transcription in one place, one computer does the work for the rest of the network. Offices care about the second one, because the audio and the transcripts never leave hardware they control. This whole thing started as a command line program I built to transcribe and label speakers in audio files sitting on my computer, mostly voice notes using Whisper on my gaming PC. A few friends started asking me to run their meeting recordings through it, which I was happy to do until it got frequent enough to be a chore. So I built them an app that they could drag a file onto themselves, with my gaming PC doing the actual work and sending the results back to their clipboard. That drag and drop piece is still in the app. Since then I added real time dictation, which uses the same local models. When I started thinking about actually selling this thing, I found the market was more crowded than I expected, which was humbling for about a day. What kept me going is that none of the others let one machine do the work for everyone else... that and there&#x27;s just something sort of cool about owning and using my own transcription software. So, here we are. An older machine can handle its own dictation on the small English models. I found that out when I tried the app on a ten year old iMac expecting it to fail, and deleted the code I&#x27;d written to keep machines like it out. Speaker labels are the part that still wants real hardware, and that&#x27;s where pointing that old machine at a stronger one on the network earns its keep. One license covers the house. It&#x27;s local by design, and you can test that yourself: unplug the Ethernet mid dictation and it keeps going. Works on a plane. The free client never talks to me at all. Unlocking hosting means one activation call, and after that the license is verified locally against a signed document, so an activated install keeps working with no internet and would keep working if my licensing server went away. AI assisted summaries and translation are experimental. They ship turned off, and you can turn them on if you dare. They only talk to an endpoint you choose, your own key or a local model. The client is free on Mac and Windows. Hosting is a one time $39 unlock with a 7 day trial that starts the first time you host a transcription. It&#x27;s a perpetual license: you own this major version, point updates are free, and if there&#x27;s ever a next major version it&#x27;s a discounted upgrade rather than a new purchase. I&#x27;m tired of renting everything, aren&#x27;t you? Two things worth knowing before you download. The Windows installer is signed, but the certificate is new enough that Chrome and SmartScreen may still warn you about it. And the paid unlock is US only for now, while I work out the international side. Feedback welcome, especially from anyone who has fought text injection on Windows. There&#x27;s also a heavier server for offices, administered through a web app that handles keys, transcription history, logs, etc. Frog reference: &quot;There&#x27;s a saying: if you have to eat a frog, it&#x27;s best you don&#x27;t spend a whole lot of time looking at it. And if you have to eat two, don&#x27;t start with the small one.&quot; Randy Pausch - Time Management - https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=oTugjssqOT0\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://transcribe.lymestack.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49289952",
+    "createdAt": "2026-08-13T19:07:10.666Z"
+  },
+  {
     "slug": "agentic-playwright-github",
     "title": "agentic-playwright",
     "shortDescription": "Production-grade Playwright + TypeScript Scaffold for Agentic Testing. Harness for all major AI coding agents baked in.",
