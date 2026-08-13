@@ -1,5 +1,27 @@
 [
   {
+    "slug": "howlforge-github",
+    "title": "howlforge",
+    "shortDescription": "Self-hosted second brain: capture ideas anywhere, let AI organize them into a Markdown vault you own.",
+    "fullDescription": "Self-hosted second brain: capture ideas anywhere, let AI organize them into a Markdown vault you own.\n\nАвтор: adrian-wulf. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/adrian-wulf/howlforge",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "fastapi",
+      "gamedev",
+      "knowledge-base",
+      "llm",
+      "markdown",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1332300707",
+    "createdAt": "2026-08-13T09:40:31.059Z"
+  },
+  {
     "slug": "relational-to-kv-ai-maps-relational-models-to-toplingdbrocksdb-hn",
     "title": "Relational-to-KV – AI maps relational models to ToplingDB/RocksDB",
     "shortDescription": "Проект «Relational-to-KV – AI maps relational models to ToplingDB/RocksDB», опубликован сообществом Hacker News.",
