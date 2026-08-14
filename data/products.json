@@ -1,5 +1,59 @@
 [
   {
+    "slug": "ppt-zen-github",
+    "title": "ppt-zen",
+    "shortDescription": "A judgment layer for AI-made slides — not another PPT generator.",
+    "fullDescription": "A judgment layer for AI-made slides — not another PPT generator.\n\nАвтор: rocsgh. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://rocsgh.github.io/ppt-zen/",
+    "category": "ai-tool",
+    "tags": [
+      "agent-skill",
+      "ai",
+      "claude",
+      "generative-ai",
+      "powerpoint",
+      "presentation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1333646789",
+    "createdAt": "2026-08-14T17:27:20.854Z"
+  },
+  {
+    "slug": "i-built-a-tool-that-delegates-bounded-spending-to-an-ai-agent-hn",
+    "title": "I built a tool that delegates bounded spending to an AI agent",
+    "shortDescription": "Проект «I built a tool that delegates bounded spending to an AI agent», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built a tool that delegates bounded spending to an AI agent», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/meyerdav24/molt",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49301168",
+    "createdAt": "2026-08-14T17:27:20.598Z"
+  },
+  {
+    "slug": "agentic-ship-open-source-lovable-alternative-that-runs-on-your-agent-hn",
+    "title": "Agentic Ship – open-source Lovable alternative that runs on your agent",
+    "shortDescription": "Hi HN. This is an open-source harness that helps you ship a fullstack application the agentic way, you only pay for your AI subscription (C…",
+    "fullDescription": "Hi HN. This is an open-source harness that helps you ship a fullstack application the agentic way, you only pay for your AI subscription (Claude, Codex, Cursor) and the domain. It builds an end to end fullstack app starting from automatically connecting to the needed providers like convex, netlify, etc, and building the frontend , backend , payment, testing, to production deployment, all coordinated with well engineering. Also it replaces AI builders like Lovable, Bolt.new, and Replit, which are great tools IMO but expensive when you iterate more often, and what they are selling you is setup. If you pay for claude or cursor you already paying twice, i observed many builders start there then continue on claude code since these builders gives decent boilerplate to start with. The way i came up with this that i kept repeating the same setup for every client project, i found out that the only thing I am selling is manual integrations to almost the same external services, as a result, I decided to add agentic integration to the needed services and open source to contribute to builders community. The stack (next, convex, stripe) was chosen on how friendly they can work with AI, your goal is shipping with the least friction not scaling from day one. I quickly built two apps and deploy with it, https:&#x2F;&#x2F;agentic-ship-marginalia.netlify.app and https:&#x2F;&#x2F;meridian-uptime.netlify.app\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/moasq/agentic-ship",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49301165",
+    "createdAt": "2026-08-14T17:27:20.598Z"
+  },
+  {
     "slug": "self-bench-build-swe-bench-style-evals-from-private-repos-hn",
     "title": "Self-bench – build SWE-bench style evals from private repos",
     "shortDescription": "Hey HN! We all know that most public evals are saturated and are hard to trust. What matters is whether a model reliably works in your code…",
