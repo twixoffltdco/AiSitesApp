@@ -1,5 +1,59 @@
 [
   {
+    "slug": "magento2-chat-github",
+    "title": "magento2-chat",
+    "shortDescription": "AI chat assistant for Magento 2. Answers customers in natural language, searches your catalog by meaning (RAG), and can place real orders t…",
+    "fullDescription": "AI chat assistant for Magento 2. Answers customers in natural language, searches your catalog by meaning (RAG), and can place real orders through Magento.\n\nАвтор: Zwernemann. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://www.zwernemann.de/ki-chat-fur-magento-2-kostenlos-open-source/",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "chat",
+      "chat-application",
+      "chatbot",
+      "conversational-commerce",
+      "ecommerce",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1331704515",
+    "createdAt": "2026-08-14T03:05:50.921Z"
+  },
+  {
+    "slug": "agents-that-run-your-finances-hn",
+    "title": "Agents that run your finances",
+    "shortDescription": "Hey HN. My name is Faiyam, cofounder&#x2F;CEO of Blaze Money (YC S24). We&#x27;re sharing here something new we&#x27;ve been working on in…",
+    "fullDescription": "Hey HN. My name is Faiyam, cofounder&#x2F;CEO of Blaze Money (YC S24). We&#x27;re sharing here something new we&#x27;ve been working on in the agentic finance space for businesses. TL;DR -- you can use Blaze Money to run your business&#x27;s finances agentically. &#x27;Twas a long journey to get here. In 2023 we started in cross border payments after nomading around the world and feeling the struggle of paying international contacts. In the time since we started though the world has completely changed and now it seems obvious we want agentic money the way we want agentic everything else. We&#x27;ve built an agentic finance offering for businesses. Our vision is to do both, something for individuals to manage their finances agentically and also something for businesses. We&#x27;re getting started with businesses first. We were inspired to build this for multiple reasons. One is, like I mentioned earlier, we were already in the money space, so we were thinking about products in that space as is. At the same time we were building so much internal AI tooling for our own dev and business workflows that we had become completely accustomed to just doing everything through Claude (our harness of choice). It almost feels archaic to now need to open up a banking app to send money or use an app to request funds from someone. We wanted to just be able to text an agent &quot;hey send vendor X the funds for their latest invoice,&quot; and be able to get that done. Also, another thing that kept coming up is that we&#x27;re a super lean team, and I in particular would spend a lot of time, and more importantly mental energy, each month just trying to manage our finances. It was an always pervasive anxiety that I had to deal with which would slow me down. I want to be able to just chat with an AI about our finances to get clarity, make plans, do payments, get all that stuff off my head. We made it accessible a bunch of different ways. You can install it via npx @blaze-money&#x2F;cli and use it via Claude Code, Codex, etc., you can tell your Hermes&#x2F;openclaw to &quot;install npx @blaze-money&#x2F;cli&quot; and get me setup, or you can use it in a good &#x27;ol fashioned UI (so 2023, I know) on our site if you want as well. Here are some of the things you can do. Once you&#x27;ve connected all your accounts, you can do a lot of the finance and analysis work your fractional CFO would otherwise do, like forecasting or runway planning. You can do preaccounting to help your accountant get things done faster at month&#x27;s end. And since we started in payments, we&#x27;ve built that in so you can send and receive money globally via a bunch of rails, some traditional some using stablecoins, to settle all your finances and not just analyze them. I&#x27;m really proud of what we built because I already use this regularly and get value from it, we have friends and family that are already using this, and we want to now share this with a wider community to get more eyes, ears, feedback, whatever you have to share. Thanks for taking the time to take a look at what we&#x27;ve built and please feel free to give us your honest feedback, suggestions, feature requests, or philosophical pontifications on the nature of money in a post digital superintelligence world...\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://blaze.money",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49293875",
+    "createdAt": "2026-08-14T03:05:50.771Z"
+  },
+  {
+    "slug": "minesweeper-with-flowers-game-you-can-fork-hn",
+    "title": "Minesweeper with flowers game you can fork",
+    "shortDescription": "This is minesweeper but with flowers, you can fork the game and make it your own with an AI prompt. I forked the minesweeper game and had i…",
+    "fullDescription": "This is minesweeper but with flowers, you can fork the game and make it your own with an AI prompt. I forked the minesweeper game and had it add flowers.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://forkcade.com/gallery/minesweeper-flowers",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49293327",
+    "createdAt": "2026-08-14T03:05:50.771Z"
+  },
+  {
     "slug": "skills-github-3",
     "title": "skills",
     "shortDescription": "An agent skill that stops AI models from drowning complex tasks in words",
