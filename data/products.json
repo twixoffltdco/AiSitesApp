@@ -1,5 +1,53 @@
 [
   {
+    "slug": "i-built-a-claude-code-plugin-to-query-106m-earnings-call-embeddings-hn",
+    "title": "I built a Claude Code plugin to query 10.6M earnings-call embeddings",
+    "shortDescription": "Hi HN, I&#x27;ve been using LLMs for one-off market questions against a database of earnings transcripts since ~2025. In tech years that&#x…",
+    "fullDescription": "Hi HN, I&#x27;ve been using LLMs for one-off market questions against a database of earnings transcripts since ~2025. In tech years that&#x27;s a long time so as a Solo dev I built a platform around it and have been adding miscellaneous other financial tools and integrations. Backend infrastructure is super boring! PostgreSQL &amp; ElasticSearch, with the data appropriately sharded and replicated across two regions. Some example requests: &quot;What did NVIDIA say about data-center demand on its last call?&quot; &quot;Brief me on NVDA, AMD and AVGO before each market open&quot; &quot;Notify me when AAPL moves more than 5% in a day.&quot; The plugin is dependency-free Python and MIT licensed. The corpus, vector search and scheduled-agent service are hosted, so using them requires a free FN2 account. I’m particularly interested in whether people find the scheduled-research part useful, but the basic features are free with integrations for Claude Code, Hermes Agent, OpenClaw, etc. Thanks!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://fn2.ai/claude",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49305190",
+    "createdAt": "2026-08-14T22:19:27.928Z"
+  },
+  {
+    "slug": "i-asked-claude-to-turn-20-years-of-my-research-into-a-game-hn",
+    "title": "I asked Claude to turn 20 years of my research into a game",
+    "shortDescription": "I&#x27;m a professor of advanced technology transitions at ASU, and part of my work includes pushing at the edges of what frontier models c…",
+    "fullDescription": "I&#x27;m a professor of advanced technology transitions at ASU, and part of my work includes pushing at the edges of what frontier models can and can&#x27;t do. Out of curiosity I asked Fable 5, via Claude Code, to research the past two decades of my research and design a browser game from it — something that would stand up as a game on its own, but that genuinely reflected the work. Over 90 iterations later (this was a long collaborative effort) the result was Hyperbubble — a one-button browser-based game where your task is to navigate your character through a future of emerging technologies, complex risks, transformative possibilities, and unexpected delights, all while protecting and growing their state of “flourishing.” Each element of the game tracks back to aspects of my work — even the seemingly weird ones! Sharing as an example of how emerging AI capabilities are allowing complex ideas to be translated into modes and platforms that would have been exceptionally difficult to achieve without them (or prohibitively costly). The game itself is one self-contained HTML file — procedural graphics, synthesized soundtrack, no libraries, no build step, no signup. MIT licensed. The leaderboard is a ~120-line Cloudflare Worker holding five fields per entry and nothing personal: no accounts, no emails, pseudonyms only. Best on desktop or tablet; playing on mobile works but isn&#x27;t tuned yet, which is the next job. Repo at: https:&#x2F;&#x2F;github.com&#x2F;2020science&#x2F;hyperbubble (which also links to more background on the game)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://playhyperbubble.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49305115",
+    "createdAt": "2026-08-14T22:19:27.928Z"
+  },
+  {
+    "slug": "weavescope-elixir-native-observability-for-ai-agents-hn",
+    "title": "WeaveScope – Elixir native observability for AI agents",
+    "shortDescription": "Проект «WeaveScope – Elixir native observability for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «WeaveScope – Elixir native observability for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://weavescope.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49305100",
+    "createdAt": "2026-08-14T22:19:27.928Z"
+  },
+  {
     "slug": "a-sandbox-for-ai-agents-using-nothing-but-gos-standard-library-hn",
     "title": "A sandbox for AI agents using nothing but Go's standard library",
     "shortDescription": "Проект «A sandbox for AI agents using nothing but Go's standard library», опубликован сообществом Hacker News.",
