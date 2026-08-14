@@ -1,5 +1,21 @@
 [
   {
+    "slug": "genosyn-automate-running-of-companies-with-ai-hn",
+    "title": "Genosyn – Automate running of companies with AI",
+    "shortDescription": "Проект «Genosyn – Automate running of companies with AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Genosyn – Automate running of companies with AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://genosyn.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49296979",
+    "createdAt": "2026-08-14T10:55:52.209Z"
+  },
+  {
     "slug": "dsh-vision-github",
     "title": "dsh-vision",
     "shortDescription": "为 DeepSeek Harness 增加外挂识图模型：圆形鲸鱼按钮、发送图片识图自动回传、模型自主截图+识图工具、多协议自动适配、小白一键安装（未装 Node.js 自动下载）",
