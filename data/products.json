@@ -1,5 +1,43 @@
 [
   {
+    "slug": "pi-omo-slim-github",
+    "title": "pi-omo-slim",
+    "shortDescription": "AI-проект с GitHub без описания.",
+    "fullDescription": "AI-проект с GitHub без описания.\n\nАвтор: joshua-zyy. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/joshua-zyy/pi-omo-slim",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "coding-agent",
+      "extension",
+      "llm",
+      "pi",
+      "subagents",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1332059443",
+    "createdAt": "2026-08-14T12:58:54.488Z"
+  },
+  {
+    "slug": "artifex-graph-based-gpu-harness-for-ai-agents-hn",
+    "title": "Artifex - Graph Based GPU Harness for AI Agents",
+    "shortDescription": "Artifex is a machine-first, headless CLI runtime built for autonomous coding agents to author, validate, and render media node graphs local…",
+    "fullDescription": "Artifex is a machine-first, headless CLI runtime built for autonomous coding agents to author, validate, and render media node graphs locally. Similar to Deepseek harness released yesterday; which ground models in modular execution environments, Artifex gives agents a structured machine contract to orchestrate tools and pipelines using DAG engine with nodes as plugins. Each node has capability to inject logic into graph processing, WebGPU rendering, audio processing and their own SKILL.md file. Nodes can also inject their react components (not available with CLI) - which will be available with the desktop app. Execution is topological and supports checkpoint caching via state flags (--state and --from-state), allowing agents to adjust layout coordinates or downstream filters without recomputing expensive and long upstream generation calls (such as Video Generation using Fal AI or an Agent Node using OpenRouter). Multi-track visual composition timeline with animations, blending, media cut, crop, color LUTs, filter graphs, audio effects and other media editing node&#x27;s are compiled and rendered directly on the local GPU runtime, ensuring deterministic offline execution and intermediate artifacts at each step of the pipeline. The CLI[0] is not fully open source yet, but its repository contains the build bundle. The plan is to make it open source after we decouple it from our monorepo that powers our web application [1]. Our roadmap also contains a SDK for agents&#x2F;programmers to build plugins locally in their own filesystem for custom use-cases. [0]: https:&#x2F;&#x2F;github.com&#x2F;gatewai-dev&#x2F;artifex [1]: https:&#x2F;&#x2F;gatewai.studio\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://gatewai.studio/artifex",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49297723",
+    "createdAt": "2026-08-14T12:58:54.468Z"
+  },
+  {
     "slug": "linkgravity-chat-and-voice-bridge-for-ai-coding-agents-hn",
     "title": "LinkGravity – chat and voice bridge for AI coding agents",
     "shortDescription": "Проект «LinkGravity – chat and voice bridge for AI coding agents», опубликован сообществом Hacker News.",
