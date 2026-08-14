@@ -1,5 +1,21 @@
 [
   {
+    "slug": "miser-cost-optimised-ai-gateway-hn",
+    "title": "Miser – Cost-Optimised AI Gateway",
+    "shortDescription": "AI Gateway that saves you money.",
+    "fullDescription": "AI Gateway that saves you money.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/rShetty/miser",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49295722",
+    "createdAt": "2026-08-14T08:13:02.434Z"
+  },
+  {
     "slug": "99ai-plugin-edition-github",
     "title": "99AI-plugin-edition",
     "shortDescription": "完全开源的一站式 AI Web 平台（99AI 插件版）：多模型对话、Agent 工作流、MCP 工具、用户额度与支付运营。NestJS + Vue3 全栈完整源码，Apache-2.0，支持 Docker 私有化部署。",
