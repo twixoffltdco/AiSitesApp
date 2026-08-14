@@ -1,5 +1,43 @@
 [
   {
+    "slug": "99ai-plugin-edition-github",
+    "title": "99AI-plugin-edition",
+    "shortDescription": "完全开源的一站式 AI Web 平台（99AI 插件版）：多模型对话、Agent 工作流、MCP 工具、用户额度与支付运营。NestJS + Vue3 全栈完整源码，Apache-2.0，支持 Docker 私有化部署。",
+    "fullDescription": "完全开源的一站式 AI Web 平台（99AI 插件版）：多模型对话、Agent 工作流、MCP 工具、用户额度与支付运营。NestJS + Vue3 全栈完整源码，Apache-2.0，支持 Docker 私有化部署。\n\nАвтор: vastxie. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/vastxie/99AI-plugin-edition",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "chatgpt",
+      "docker",
+      "llm",
+      "mcp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1333871456",
+    "createdAt": "2026-08-14T06:53:00.412Z"
+  },
+  {
+    "slug": "wincore-open-source-windows-utilities-for-ai-and-pytorch-hn",
+    "title": "WinCore – Open-Source Windows Utilities for AI and PyTorch",
+    "shortDescription": "WinCore is a free and open-source Python library designed specifically to address practical problems when working with AI and PyTorch on Wi…",
+    "fullDescription": "WinCore is a free and open-source Python library designed specifically to address practical problems when working with AI and PyTorch on Windows. It provides utilities for CPU&#x2F;GPU management, memory handling, diagnostics, system detection, PyTorch compilation and precision, multi-GPU workflows, Windows-aware I&#x2F;O, caching, and more. WinCore 0.6.3 is now publicly released. It has not yet been tested across every hardware, driver, Python, and PyTorch configuration, so I’m looking for people working with AI&#x2F;PyTorch on Windows to try it out and help identify issues. If you encounter a problem or have technical feedback, please report it through GitHub Issues. PyPI: https:&#x2F;&#x2F;pypi.org&#x2F;project&#x2F;WinCore&#x2F;0.6.3&#x2F; Feedback, testing, and contributions are welcome.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/FWKMultiverse/WinCore",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49295330",
+    "createdAt": "2026-08-14T06:53:00.272Z"
+  },
+  {
     "slug": "lexicon-ai-exam-focused-vocabulary-journal-for-sat-and-ielts-prep-hn",
     "title": "Lexicon AI – Exam-focused vocabulary journal for SAT and IELTS prep",
     "shortDescription": "Проект «Lexicon AI – Exam-focused vocabulary journal for SAT and IELTS prep», опубликован сообществом Hacker News.",
