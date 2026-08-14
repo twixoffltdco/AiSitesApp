@@ -1,5 +1,69 @@
 [
   {
+    "slug": "self-bench-build-swe-bench-style-evals-from-private-repos-hn",
+    "title": "Self-bench – build SWE-bench style evals from private repos",
+    "shortDescription": "Hey HN! We all know that most public evals are saturated and are hard to trust. What matters is whether a model reliably works in your code…",
+    "fullDescription": "Hey HN! We all know that most public evals are saturated and are hard to trust. What matters is whether a model reliably works in your codebase in your actual day-to-day-work. To solve this, we built self-bench ( https:&#x2F;&#x2F;github.com&#x2F;mupt-ai&#x2F;self-bench ), an open-source repo that automatically turns your private, completed PRs into held-out coding-agent evals. It&#x27;s fully open-source and you can run it on your own machine or on Modal sandboxes! With one CLI command, we give you a validated Harbor dataset based on real changes from your repository. We&#x27;ve used self-bench to build evals for popular OSS projects, including Next.js ( https:&#x2F;&#x2F;huggingface.co&#x2F;datasets&#x2F;dari-ai&#x2F;nextjs-selfbench ) and Vite ( https:&#x2F;&#x2F;huggingface.co&#x2F;datasets&#x2F;dari-ai&#x2F;vite-selfbench ). With self-bench, we want to make it easy to compare open-weight models, frontier models, and routers on performance, speed and cost. Try out the repo or book a call if you want to chat through using it within your repos! https:&#x2F;&#x2F;calendly.com&#x2F;avyay-dari&#x2F;30min\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/mupt-ai/self-bench",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49300607",
+    "createdAt": "2026-08-14T16:22:16.943Z"
+  },
+  {
+    "slug": "interactive-product-demos-made-easy-hn",
+    "title": "Interactive Product Demos made easy",
+    "shortDescription": "Utilize the chrome extension to record and have your product demo automatically created, or use the Rendemo MCP to have AI create a live in…",
+    "fullDescription": "Utilize the chrome extension to record and have your product demo automatically created, or use the Rendemo MCP to have AI create a live interactive tour directly in your codebase. You can launch an interactive product tour within 3minutes, live. Also now I&#x27;ve added capability to just record any website, and Rendemo will automatically create a sandbox environment of it so you can utilize that to have the MCP build out a tour on. Try for free!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.rendemo.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49300572",
+    "createdAt": "2026-08-14T16:22:16.943Z"
+  },
+  {
+    "slug": "realistic-ai-image-generator-for-portraits-and-product-shots-hn",
+    "title": "Realistic AI Image Generator for portraits and product shots",
+    "shortDescription": "Проект «Realistic AI Image Generator for portraits and product shots», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Realistic AI Image Generator for portraits and product shots», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://realisticaiimagegenerator.online/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49300170",
+    "createdAt": "2026-08-14T16:22:16.943Z"
+  },
+  {
+    "slug": "mininote-instant-plain-text-note-taking-without-tracking-or-lock-in-hn",
+    "title": "Mininote: Instant, plain-text note taking without tracking or lock-in",
+    "shortDescription": "So, I built this little thing over the past month or so now, I got tired of places for tickets, notes, and such being shoved front and cent…",
+    "fullDescription": "So, I built this little thing over the past month or so now, I got tired of places for tickets, notes, and such being shoved front and center in apps. Thus I created Mininote to get away from the noise I wanted something simple to move out of the way completely when I don&#x27;t need it but be there when I do need it It contains a slew of features built right in, but the coolest is the sites own API is also the sites own public API no split seam\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://mininote.ink/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49300129",
+    "createdAt": "2026-08-14T16:22:16.943Z"
+  },
+  {
     "slug": "measure-your-ai-search-with-byok-and-oss-free-hn",
     "title": "Measure your AI search with BYOK and OSS (free)",
     "shortDescription": "Sharing something fun we made :)",
