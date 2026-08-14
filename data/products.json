@@ -1,5 +1,37 @@
 [
   {
+    "slug": "linkgravity-chat-and-voice-bridge-for-ai-coding-agents-hn",
+    "title": "LinkGravity – chat and voice bridge for AI coding agents",
+    "shortDescription": "Проект «LinkGravity – chat and voice bridge for AI coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «LinkGravity – chat and voice bridge for AI coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/dev-sseul/linkgravity",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49297348",
+    "createdAt": "2026-08-14T11:42:15.468Z"
+  },
+  {
+    "slug": "a-macos-menu-bar-app-showing-claude-subscription-usage-hn",
+    "title": "A macOS menu bar app showing Claude subscription usage",
+    "shortDescription": "i use multiple Claude products, and i constantly check my usage limits, but there was never an instant way to do it. i kept opening claude…",
+    "fullDescription": "i use multiple Claude products, and i constantly check my usage limits, but there was never an instant way to do it. i kept opening claude ai &gt; settings &gt; usage or hitting &#x2F;usage in the cli. i wanted a way to have that information always visible and at reach. so i built usagent. it&#x27;s a macOS menu bar app always showing usage limits, the 5h window and the weekly window. by default, usagent shows whichever is closer to its limit. you can click to see both with full info. i, personally, make it always show the 5h window regardless. i never hit &#x2F;usage again or opened claude ai just to see my limits.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/palamim/usagent",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49297106",
+    "createdAt": "2026-08-14T11:42:15.468Z"
+  },
+  {
     "slug": "genosyn-automate-running-of-companies-with-ai-hn",
     "title": "Genosyn – Automate running of companies with AI",
     "shortDescription": "Проект «Genosyn – Automate running of companies with AI», опубликован сообществом Hacker News.",
