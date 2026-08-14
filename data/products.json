@@ -1,5 +1,27 @@
 [
   {
+    "slug": "open-creative-director-github",
+    "title": "open-creative-director",
+    "shortDescription": "Your personal AI creative director — a local-first chat app that plans and produces images, videos, voice and motion graphics (OpenRouter,…",
+    "fullDescription": "Your personal AI creative director — a local-first chat app that plans and produces images, videos, voice and motion graphics (OpenRouter, GPT Image 2, Seedance 2.5, ElevenLabs, Higgsfield, HyperFrames)\n\nАвтор: Kuble-Lab. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/Kuble-Lab/open-creative-director",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "creative-tools",
+      "motion-graphics",
+      "openrouter",
+      "seedance",
+      "self-hosted",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1333944914",
+    "createdAt": "2026-08-14T23:46:56.285Z"
+  },
+  {
     "slug": "i-built-a-claude-code-plugin-to-query-106m-earnings-call-embeddings-hn",
     "title": "I built a Claude Code plugin to query 10.6M earnings-call embeddings",
     "shortDescription": "Hi HN, I&#x27;ve been using LLMs for one-off market questions against a database of earnings transcripts since ~2025. In tech years that&#x…",
