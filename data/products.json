@@ -1,5 +1,65 @@
 [
   {
+    "slug": "skills-github-3",
+    "title": "skills",
+    "shortDescription": "An agent skill that stops AI models from drowning complex tasks in words",
+    "fullDescription": "An agent skill that stops AI models from drowning complex tasks in words\n\nАвтор: CamjamPNG. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/CamjamPNG/skills",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "agent-skill",
+      "agent-skills",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1332585478",
+    "createdAt": "2026-08-14T00:06:54.065Z"
+  },
+  {
+    "slug": "developer-os-github",
+    "title": "Developer-OS",
+    "shortDescription": "A desktop operating system built for the web—explore my projects, AI research, achievements, and digital workspace through an interactive W…",
+    "fullDescription": "A desktop operating system built for the web—explore my projects, AI research, achievements, and digital workspace through an interactive Windows-inspired interface.\n\nАвтор: vincenzo-afk. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/vincenzo-afk/Developer-OS",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "desktop-environment",
+      "developer",
+      "developer-portfolio",
+      "framer-motion",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1332147137",
+    "createdAt": "2026-08-14T00:06:54.065Z"
+  },
+  {
+    "slug": "refereechat-set-the-goal-an-ai-panel-works-referee-clears-it-done-hn",
+    "title": "Referee.Chat - Set the goal. An AI panel works. Referee clears it done",
+    "shortDescription": "Проект «Referee.Chat - Set the goal. An AI panel works. Referee clears it done», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Referee.Chat - Set the goal. An AI panel works. Referee clears it done», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://referee.chat/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49293191",
+    "createdAt": "2026-08-14T00:06:53.707Z"
+  },
+  {
     "slug": "enterprise-system-design-github",
     "title": "enterprise-system-design",
     "shortDescription": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and…",
