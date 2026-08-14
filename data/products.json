@@ -1,5 +1,21 @@
 [
   {
+    "slug": "open-source-and-ai-native-web-analytics-hn",
+    "title": "Open-source and AI native web analytics",
+    "shortDescription": "Проект «Open-source and AI native web analytics», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Open-source and AI native web analytics», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/OpenLabs-so/openanalytics",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49302597",
+    "createdAt": "2026-08-14T18:25:21.262Z"
+  },
+  {
     "slug": "ppt-zen-github",
     "title": "ppt-zen",
     "shortDescription": "A judgment layer for AI-made slides — not another PPT generator.",
