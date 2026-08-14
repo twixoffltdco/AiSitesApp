@@ -1,5 +1,37 @@
 [
   {
+    "slug": "pestle-27b-ternary-hn",
+    "title": "Pestle-27B-Ternary",
+    "shortDescription": "Проект «Pestle-27B-Ternary», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Pestle-27B-Ternary», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://huggingface.co/Doses-AI/Pestle-27B-Ternary-GGUF",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49304188",
+    "createdAt": "2026-08-14T20:55:29.318Z"
+  },
+  {
+    "slug": "mocktail-free-open-source-mock-api-server-with-a-built-in-dashboard-hn",
+    "title": "Mocktail – Free, open-source mock API server with a built-in dashboard",
+    "shortDescription": "Hi HN, I built the first version of Mocktail years ago. I recently came back to the project, and after a pretty substantial rebuild, v4 is…",
+    "fullDescription": "Hi HN, I built the first version of Mocktail years ago. I recently came back to the project, and after a pretty substantial rebuild, v4 is now out. Mocktail is a free and open-source, self-hosted mock API server with a built-in dashboard and database, packaged as a single ~25 MB binary. You can run it locally or on your own infrastructure — no account or hosted service required. You can define endpoints and responses, generate realistic data per request, customize headers, status codes and latency, and inspect incoming requests in real time. With v4, I also added MCP support, so coding agents can create and manage mocks directly, along with an optional built-in AI assistant using your own API key. Both are completely optional. It’s been fun coming back to something I built years ago and bringing it up to date. I’d love to hear what you think, especially anything you’d change or add.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://getmocktail.com/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49304062",
+    "createdAt": "2026-08-14T20:55:29.318Z"
+  },
+  {
     "slug": "aletheionagi-grounding-enforcement-for-ai-agents-hn",
     "title": "AletheionAGI – Grounding enforcement for AI agents",
     "shortDescription": "Проект «AletheionAGI – Grounding enforcement for AI agents», опубликован сообществом Hacker News.",
