@@ -1,5 +1,37 @@
 [
   {
+    "slug": "biaslyai-bias-detection-with-historical-context-hn",
+    "title": "Biasly.ai – Bias detection with historical context",
+    "shortDescription": "Проект «Biasly.ai – Bias detection with historical context», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Biasly.ai – Bias detection with historical context», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://biasly.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49303447",
+    "createdAt": "2026-08-14T19:28:04.471Z"
+  },
+  {
+    "slug": "captain-ai-travel-agent-hn",
+    "title": "Captain, AI Travel Agent",
+    "shortDescription": "I’m a software designer from Lagos exploring conversational interfaces and frameworks for building agents. I made Captain to help with ever…",
+    "fullDescription": "I’m a software designer from Lagos exploring conversational interfaces and frameworks for building agents. I made Captain to help with everyday travel planning. It can explore an itinerary, check live flight prices, or watch for the right time to book. Captain is a Telegram bot powered by a generalist model (anthropic&#x2F;claude-sonnet-5), with specialist models handling workflows such as trip interpretation and voice transcription. It also includes a visual workspace where users can review the agent’s work and directly manipulate their travel information. I&#x27;m building the agent to explore how conversation, tools, durable workflows, and direct manipulation can come together in one coherent product.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.moonlight.ng/captain/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49302705",
+    "createdAt": "2026-08-14T19:28:04.471Z"
+  },
+  {
     "slug": "open-source-and-ai-native-web-analytics-hn",
     "title": "Open-source and AI native web analytics",
     "shortDescription": "Проект «Open-source and AI native web analytics», опубликован сообществом Hacker News.",
