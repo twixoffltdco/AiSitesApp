@@ -1,5 +1,107 @@
 [
   {
+    "slug": "zen-proxy-github",
+    "title": "zen-proxy",
+    "shortDescription": "Local OpenAI-compatible proxy that exposes opencode's free Zen models (deepseek-v4-flash-free, hy3-free, nemotron, ...) to any agent - Clin…",
+    "fullDescription": "Local OpenAI-compatible proxy that exposes opencode's free Zen models (deepseek-v4-flash-free, hy3-free, nemotron, ...) to any agent - Cline, Roo, Continue, Aider, mimo. No accounts, no keys, one command.\n\nАвтор: 12errh. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/12errh/zen-proxy",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "aider",
+      "claude-code",
+      "cline",
+      "coding-agent",
+      "continue",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1333653106",
+    "createdAt": "2026-08-14T14:18:37.691Z"
+  },
+  {
+    "slug": "apimart-discounted-ai-api-aggregator-for-gpt-5-sora-2-hn",
+    "title": "APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
+    "shortDescription": "Проект «APIMart: Discounted AI API Aggregator for GPT-5, Sora 2», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «APIMart: Discounted AI API Aggregator for GPT-5, Sora 2», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://apimart.ai/register?aff=yScTCM",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49299000",
+    "createdAt": "2026-08-14T14:18:37.479Z"
+  },
+  {
+    "slug": "applywise-i-built-an-ai-layer-for-the-job-application-process-hn",
+    "title": "ApplyWise – I built an AI layer for the job application process",
+    "shortDescription": "t&#x27;s free to try and doesn&#x27;t require an account. https:&#x2F;&#x2F;applywise.eu I&#x27;m particularly interested in feedback on th…",
+    "fullDescription": "t&#x27;s free to try and doesn&#x27;t require an account. https:&#x2F;&#x2F;applywise.eu I&#x27;m particularly interested in feedback on the core question: is a dedicated workflow like this actually better than just giving your CV and the job description to ChatGPT or Claude?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://applywise.eu/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49298684",
+    "createdAt": "2026-08-14T14:18:37.479Z"
+  },
+  {
+    "slug": "is-ai-dumber-today-an-index-of-ai-model-experience-from-users-opinion-hn",
+    "title": "Is AI Dumber Today? An index of AI model experience from user's opinion",
+    "shortDescription": "Проект «Is AI Dumber Today? An index of AI model experience from user's opinion», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Is AI Dumber Today? An index of AI model experience from user's opinion», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://isaidumber.today/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49298674",
+    "createdAt": "2026-08-14T14:18:37.479Z"
+  },
+  {
+    "slug": "gridproof-spacinggrid-qa-for-ai-generated-uis-in-the-agent-loop-hn",
+    "title": "GridProof – spacing/grid QA for AI-generated UIs, in the agent loop",
+    "shortDescription": "Проект «GridProof – spacing/grid QA for AI-generated UIs, in the agent loop», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «GridProof – spacing/grid QA for AI-generated UIs, in the agent loop», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/gridproof/gridproof",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49298638",
+    "createdAt": "2026-08-14T14:18:37.479Z"
+  },
+  {
+    "slug": "manager-blueprint-hn",
+    "title": "Manager Blueprint",
+    "shortDescription": "Become an effective manager. Faster. The interactive playbook and AI-guided toolkit that helps you master 1:1s, delegation, performance rev…",
+    "fullDescription": "Become an effective manager. Faster. The interactive playbook and AI-guided toolkit that helps you master 1:1s, delegation, performance reviews and core management principles without the guesswork.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://manager-blueprint.vercel.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49298526",
+    "createdAt": "2026-08-14T14:18:37.479Z"
+  },
+  {
     "slug": "pi-omo-slim-github",
     "title": "pi-omo-slim",
     "shortDescription": "AI-проект с GitHub без описания.",
