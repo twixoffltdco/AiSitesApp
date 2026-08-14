@@ -1,5 +1,101 @@
 [
   {
+    "slug": "measure-your-ai-search-with-byok-and-oss-free-hn",
+    "title": "Measure your AI search with BYOK and OSS (free)",
+    "shortDescription": "Sharing something fun we made :)",
+    "fullDescription": "Sharing something fun we made :)\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/letterstory/lettertrace",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49299569",
+    "createdAt": "2026-08-14T15:21:20.374Z"
+  },
+  {
+    "slug": "realer-mock-draft-a-skill-file-to-based-the-mock-on-your-league-hn",
+    "title": "Realer Mock Draft – a skill file to based the mock on YOUR league",
+    "shortDescription": "Your league mates don&#x27;t draft like robots, paste the below text into your AI of choice to try the REALER Mock Draft and prepare for YO…",
+    "fullDescription": "Your league mates don&#x27;t draft like robots, paste the below text into your AI of choice to try the REALER Mock Draft and prepare for YOUR league!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.hypeleaguefootball.com/mockdraft",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49299517",
+    "createdAt": "2026-08-14T15:21:20.374Z"
+  },
+  {
+    "slug": "burla-distributed-computing-framework-for-ai-agents-hn",
+    "title": "Burla – Distributed computing framework for AI agents",
+    "shortDescription": "Hi HN! Would love any thoughts on this, we built Burla to enable anyone, even total beginners to scale Python to thousands of computers in…",
+    "fullDescription": "Hi HN! Would love any thoughts on this, we built Burla to enable anyone, even total beginners to scale Python to thousands of computers in their cloud with zero hassle. In a world of coding agents, this means something different than it used to, specifically that Burla requires almost no cloud permissions to get started. Anyone who has permission to boot a VM in their cloud can simply pip install burla and scale Python to 1000&#x27;s of VM&#x27;s. Burla uses your local aws cli credentials to boot VM&#x27;s and the dashboard runs locally for you to monitor resources and jobs. All together this creates a UX where you can simply ask your agent to do something like &quot;Vector embed all of Wikipedia&quot; and it will do it far faster and with less compute than it would have using any cloud service.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://burla.dev/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49299506",
+    "createdAt": "2026-08-14T15:21:20.374Z"
+  },
+  {
+    "slug": "omegle-with-full-duplex-voice-bots-hn",
+    "title": "Omegle with (full-duplex) Voice Bots",
+    "shortDescription": "Randomly talk to different voice models. Roughly half of the time you should be speaking to Personaplex which is full-duplex, but this can…",
+    "fullDescription": "Randomly talk to different voice models. Roughly half of the time you should be speaking to Personaplex which is full-duplex, but this can be influenced by giving feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.aimegle.xyz/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49299330",
+    "createdAt": "2026-08-14T15:21:20.374Z"
+  },
+  {
+    "slug": "ai-watermark-removers-cant-verify-themselves-i-built-the-tool-that-can-hn",
+    "title": "AI Watermark removers can't verify themselves I built the tool that can",
+    "shortDescription": "Проект «AI Watermark removers can't verify themselves I built the tool that can», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Watermark removers can't verify themselves I built the tool that can», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Neeeophytee/ai-watermarks-reality-check",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49299248",
+    "createdAt": "2026-08-14T15:21:20.374Z"
+  },
+  {
+    "slug": "we-mapped-ai-patterns-before-watermark-removal-became-a-mainstream-hn",
+    "title": "We mapped AI patterns before watermark removal became a mainstream",
+    "shortDescription": "Проект «We mapped AI patterns before watermark removal became a mainstream», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «We mapped AI patterns before watermark removal became a mainstream», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://founderstoday.org/claude-watermark-remover",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49299056",
+    "createdAt": "2026-08-14T15:21:20.374Z"
+  },
+  {
     "slug": "zen-proxy-github",
     "title": "zen-proxy",
     "shortDescription": "Local OpenAI-compatible proxy that exposes opencode's free Zen models (deepseek-v4-flash-free, hy3-free, nemotron, ...) to any agent - Clin…",
