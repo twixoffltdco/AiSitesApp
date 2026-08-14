@@ -1,5 +1,59 @@
 [
   {
+    "slug": "dsh-vision-github",
+    "title": "dsh-vision",
+    "shortDescription": "为 DeepSeek Harness 增加外挂识图模型：圆形鲸鱼按钮、发送图片识图自动回传、模型自主截图+识图工具、多协议自动适配、小白一键安装（未装 Node.js 自动下载）",
+    "fullDescription": "为 DeepSeek Harness 增加外挂识图模型：圆形鲸鱼按钮、发送图片识图自动回传、模型自主截图+识图工具、多协议自动适配、小白一键安装（未装 Node.js 自动下载）\n\nАвтор: linenxi-ctrl. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/linenxi-ctrl/dsh-vision",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "deepseek",
+      "deepseek-harness",
+      "harness",
+      "image-recognition",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1333608411",
+    "createdAt": "2026-08-14T09:34:41.146Z"
+  },
+  {
+    "slug": "opencomplai-open-source-eu-ai-act-compliance-checks-in-cicd-hn",
+    "title": "OpenComplAI – open-source EU AI Act compliance checks in CI/CD",
+    "shortDescription": "Проект «OpenComplAI – open-source EU AI Act compliance checks in CI/CD», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «OpenComplAI – open-source EU AI Act compliance checks in CI/CD», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/opencomplai/opencomplai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49296432",
+    "createdAt": "2026-08-14T09:34:41.201Z"
+  },
+  {
+    "slug": "security-scanner-for-saas-build-with-ai-hn",
+    "title": "Security scanner for SaaS build with AI",
+    "shortDescription": "Проект «Security scanner for SaaS build with AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Security scanner for SaaS build with AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://sentrint.com/sample",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49296082",
+    "createdAt": "2026-08-14T09:34:41.201Z"
+  },
+  {
     "slug": "miser-cost-optimised-ai-gateway-hn",
     "title": "Miser – Cost-Optimised AI Gateway",
     "shortDescription": "AI Gateway that saves you money.",
