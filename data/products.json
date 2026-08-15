@@ -1,5 +1,21 @@
 [
   {
+    "slug": "agent-shell-vendor-neutral-chat-with-ai-agents-in-emacs-hn",
+    "title": "Agent-shell – vendor-neutral chat with AI agents in Emacs",
+    "shortDescription": "Проект «Agent-shell – vendor-neutral chat with AI agents in Emacs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Agent-shell – vendor-neutral chat with AI agents in Emacs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://xenodium.com/agent-shell-0-73-updates#agent-shell-enters-the-chat",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49309755",
+    "createdAt": "2026-08-15T11:43:55.687Z"
+  },
+  {
     "slug": "nomadata-github",
     "title": "NomaData",
     "shortDescription": "An AI-native BI client that connects any LLM to any database through a semantic layer, turning natural language into real-time analytics.",
