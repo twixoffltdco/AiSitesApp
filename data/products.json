@@ -1,5 +1,27 @@
 [
   {
+    "slug": "codex-eyes-hands-github",
+    "title": "codex-eyes-hands",
+    "shortDescription": "专为 DeepSeek Harness 打造：把本机 Codex CLI 变成纯文本 AI agent 的眼睛和手——看图/读文件/画图/监督执行/双通道容灾",
+    "fullDescription": "专为 DeepSeek Harness 打造：把本机 Codex CLI 变成纯文本 AI agent 的眼睛和手——看图/读文件/画图/监督执行/双通道容灾\n\nАвтор: 651002. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/651002/codex-eyes-hands",
+    "category": "developer",
+    "tags": [
+      "agent",
+      "ai",
+      "automation",
+      "claude",
+      "cli",
+      "codex",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1334449696",
+    "createdAt": "2026-08-15T03:35:52.592Z"
+  },
+  {
     "slug": "ai-storefront-sanity-context-clerk-demo-github",
     "title": "ai-storefront-sanity-context-clerk-demo",
     "shortDescription": "AI-powered storefront with Sanity Context, Clerk & Next.js 16 — a shopping agent that writes one GROQ query combining hard filters with sem…",
