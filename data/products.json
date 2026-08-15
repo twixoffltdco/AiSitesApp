@@ -1,5 +1,27 @@
 [
   {
+    "slug": "nomadata-github",
+    "title": "NomaData",
+    "shortDescription": "An AI-native BI client that connects any LLM to any database through a semantic layer, turning natural language into real-time analytics.",
+    "fullDescription": "An AI-native BI client that connects any LLM to any database through a semantic layer, turning natural language into real-time analytics.\n\nАвтор: nduckmink. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/nduckmink/NomaData",
+    "category": "chatbot",
+    "tags": [
+      "agent",
+      "ai",
+      "analytics",
+      "business-intelligence",
+      "conversational-ai",
+      "data-analysis",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1334800778",
+    "createdAt": "2026-08-15T11:17:04.512Z"
+  },
+  {
     "slug": "xiaojunceping-github",
     "title": "xiaojunceping",
     "shortDescription": "AgentScope：基于项目上下文、知识库与实时来源的 AI Agent、模型、工具评估与执行 Prompt 生成平台。",
