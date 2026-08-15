@@ -1,5 +1,43 @@
 [
   {
+    "slug": "xiaojunceping-github",
+    "title": "xiaojunceping",
+    "shortDescription": "AgentScope：基于项目上下文、知识库与实时来源的 AI Agent、模型、工具评估与执行 Prompt 生成平台。",
+    "fullDescription": "AgentScope：基于项目上下文、知识库与实时来源的 AI Agent、模型、工具评估与执行 Prompt 生成平台。\n\nАвтор: Joho6666. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/Joho6666/xiaojunceping",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "knowledge-base",
+      "mcp",
+      "model-routing",
+      "nextjs",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1333433752",
+    "createdAt": "2026-08-15T09:22:54.728Z"
+  },
+  {
+    "slug": "ai-first-virtual-linux-desktop-as-a-mac-app-hn",
+    "title": "AI First Virtual Linux Desktop as a Mac App",
+    "shortDescription": "Проект «AI First Virtual Linux Desktop as a Mac App», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI First Virtual Linux Desktop as a Mac App», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aifcc.franzai.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49308944",
+    "createdAt": "2026-08-15T09:22:54.435Z"
+  },
+  {
     "slug": "hn-without-ai-stories-hn",
     "title": "HN Without AI Stories",
     "shortDescription": "URL: https:&#x2F;&#x2F;hnnoai.readpipe.org&#x2F;",
