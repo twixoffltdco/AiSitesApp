@@ -1,5 +1,37 @@
 [
   {
+    "slug": "hn-without-ai-stories-hn",
+    "title": "HN Without AI Stories",
+    "shortDescription": "URL: https:&#x2F;&#x2F;hnnoai.readpipe.org&#x2F;",
+    "fullDescription": "URL: https:&#x2F;&#x2F;hnnoai.readpipe.org&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://hnnoai.readpipe.org/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49308787",
+    "createdAt": "2026-08-15T08:23:33.743Z"
+  },
+  {
+    "slug": "chemistry-ai-step-by-step-chemistry-solver-hn",
+    "title": "Chemistry AI – step-by-step chemistry solver",
+    "shortDescription": "Проект «Chemistry AI – step-by-step chemistry solver», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Chemistry AI – step-by-step chemistry solver», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://chemistryai.chat",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49308749",
+    "createdAt": "2026-08-15T08:23:33.743Z"
+  },
+  {
     "slug": "riffn-an-instant-voice-link-with-your-ai-agents-and-local-models-hn",
     "title": "Riffn. An instant voice link with your AI agents and local models",
     "shortDescription": "I get my best ideas when I&#x27;m out walking or driving. I built Riffn to make sure I can capitalize on those ideas when and where they ha…",
