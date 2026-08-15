@@ -1,5 +1,137 @@
 [
   {
+    "slug": "ai-storefront-sanity-context-clerk-demo-github",
+    "title": "ai-storefront-sanity-context-clerk-demo",
+    "shortDescription": "AI-powered storefront with Sanity Context, Clerk & Next.js 16 — a shopping agent that writes one GROQ query combining hard filters with sem…",
+    "fullDescription": "AI-powered storefront with Sanity Context, Clerk & Next.js 16 — a shopping agent that writes one GROQ query combining hard filters with semantic ranking against your live dataset\n\nАвтор: sonnysangha. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/sonnysangha/ai-storefront-sanity-context-clerk-demo",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "anthropic",
+      "clerk",
+      "ecommerce",
+      "groq",
+      "mcp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1333010885",
+    "createdAt": "2026-08-15T01:03:28.882Z"
+  },
+  {
+    "slug": "cathead-coding-github",
+    "title": "cathead-coding",
+    "shortDescription": "A delightful persistent coding agent CLI powered by DeepSeek Harness.",
+    "fullDescription": "A delightful persistent coding agent CLI powered by DeepSeek Harness.\n\nАвтор: catyans. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/catyans/cathead-coding",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "cli",
+      "coding-agent",
+      "deepseek-harness",
+      "gemini",
+      "tui",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1334245439",
+    "createdAt": "2026-08-15T01:03:28.882Z"
+  },
+  {
+    "slug": "brokenmcp-github",
+    "title": "BrokenMCP",
+    "shortDescription": "BrokenMCP is a vulnerable implementation of the Model Context Protocol (MCP) for educational purposes.",
+    "fullDescription": "BrokenMCP is a vulnerable implementation of the Model Context Protocol (MCP) for educational purposes.\n\nАвтор: truststrikelabs. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://truststrikelabs.com/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-tools",
+      "mcp",
+      "mcp-security",
+      "penetration-testing",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1334114994",
+    "createdAt": "2026-08-15T01:03:28.882Z"
+  },
+  {
+    "slug": "dsh-testgen-github",
+    "title": "dsh-testgen",
+    "shortDescription": "Automated unit-test generation for DeepSeek Harness: /testgen command + generate_tests tool that scaffold, run, and fix unit tests until th…",
+    "fullDescription": "Automated unit-test generation for DeepSeek Harness: /testgen command + generate_tests tool that scaffold, run, and fix unit tests until they pass.\n\nАвтор: bujue600-arch. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/bujue600-arch/dsh-testgen",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "coding-agent",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1334051613",
+    "createdAt": "2026-08-15T01:03:28.882Z"
+  },
+  {
+    "slug": "ollmo-github",
+    "title": "ollmo",
+    "shortDescription": "A production-grade RAG platform with hybrid retrieval, multi-tenancy, and streaming chat.",
+    "fullDescription": "A production-grade RAG platform with hybrid retrieval, multi-tenancy, and streaming chat.\n\nАвтор: ollmo-go. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://ollmo.com",
+    "category": "productivity",
+    "tags": [
+      "agent",
+      "ai",
+      "deepseek",
+      "golang",
+      "gpt",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1334167016",
+    "createdAt": "2026-08-15T01:03:28.883Z"
+  },
+  {
+    "slug": "deepseek-harness-for-vs-code-github",
+    "title": "DeepSeek-Harness-for-VS-Code",
+    "shortDescription": "Use DeepSeek Harness in VS Code like ChatGPT/Copilot: @dsh in native chat, standalone views, cross-project sessions, shared via DSH API. Au…",
+    "fullDescription": "Use DeepSeek Harness in VS Code like ChatGPT/Copilot: @dsh in native chat, standalone views, cross-project sessions, shared via DSH API. Auto-starts server.\n\nАвтор: NEXTINDIE. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/NEXTINDIE/DeepSeek-Harness-for-VS-Code",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugins",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1333584467",
+    "createdAt": "2026-08-15T01:03:28.883Z"
+  },
+  {
     "slug": "open-creative-director-github",
     "title": "open-creative-director",
     "shortDescription": "Your personal AI creative director — a local-first chat app that plans and produces images, videos, voice and motion graphics (OpenRouter,…",
