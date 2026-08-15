@@ -1,5 +1,27 @@
 [
   {
+    "slug": "dsh-plugin-finder-github",
+    "title": "dsh-plugin-finder",
+    "shortDescription": "Natural-language plugin search for DeepSeek Harness — ask what you need, get matching dsh.so plugins with install commands.",
+    "fullDescription": "Natural-language plugin search for DeepSeek Harness — ask what you need, get matching dsh.so plugins with install commands.\n\nАвтор: ihuajiu. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://www.dsh.so",
+    "category": "ai-tool",
+    "tags": [
+      "agent-tool",
+      "ai",
+      "cordis",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1333913119",
+    "createdAt": "2026-08-15T04:26:59.872Z"
+  },
+  {
     "slug": "codex-eyes-hands-github",
     "title": "codex-eyes-hands",
     "shortDescription": "专为 DeepSeek Harness 打造：把本机 Codex CLI 变成纯文本 AI agent 的眼睛和手——看图/读文件/画图/监督执行/双通道容灾",
