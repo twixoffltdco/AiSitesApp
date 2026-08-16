@@ -1,5 +1,21 @@
 [
   {
+    "slug": "qwen38-27b-api-140-toks-on-one-gpu-hn",
+    "title": "Qwen3.8-27B API, 140 tok/s on one GPU",
+    "shortDescription": "Проект «Qwen3.8-27B API, 140 tok/s on one GPU», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Qwen3.8-27B API, 140 tok/s on one GPU», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://inference.tiyuvta.ai/login?next=%2Fapp",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49320595",
+    "createdAt": "2026-08-16T14:48:19.093Z"
+  },
+  {
     "slug": "a-public-ai-whose-memory-is-shared-across-all-users-hn",
     "title": "A public AI whose memory is shared across all users",
     "shortDescription": "Проект «A public AI whose memory is shared across all users», опубликован сообществом Hacker News.",
