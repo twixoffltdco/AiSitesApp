@@ -1,5 +1,21 @@
 [
   {
+    "slug": "vocalcode-push-to-talk-dictation-for-ai-coding-agents-on-device-hn",
+    "title": "VocalCode – push-to-talk dictation for AI coding agents, on-device",
+    "shortDescription": "Проект «VocalCode – push-to-talk dictation for AI coding agents, on-device», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «VocalCode – push-to-talk dictation for AI coding agents, on-device», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://vocalcode.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49323797",
+    "createdAt": "2026-08-16T21:43:25.583Z"
+  },
+  {
     "slug": "ai-data-extractor-github",
     "title": "ai-data-extractor",
     "shortDescription": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
