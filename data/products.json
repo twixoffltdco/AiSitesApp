@@ -1,5 +1,21 @@
 [
   {
+    "slug": "manthan-a-mcp-server-to-store-concept-cards-with-prerequisite-links-hn",
+    "title": "Manthan a MCP server to store Concept cards with prerequisite links",
+    "shortDescription": "I generally am a forgetful person who remembers very little of what is read sometime ago. I also tried using many of tools related to hardc…",
+    "fullDescription": "I generally am a forgetful person who remembers very little of what is read sometime ago. I also tried using many of tools related to hardcoded flashcards but they may not present the full picture. I can&#x27;t share it with my friends about what i am learning easily without signin up. manthan solves for that. I can create a deck of cards that have prerequisites and since this is a MCP any ai agent which has mcp capability can do this. Its been a time saver for me to recap what is the dense things that are there in a topic. the above one is related to build things that don&#x27;t scale by PG. Also this has been helpful in sharing a common book like high output management or monetizing innovation which were useful to people some sessions of AI Learn Circle in Bangalore. let me know if there is anything to improve and if this is a useful tool. if you want the prerequisite&#x2F;roadmap view, sign in ,it adds the deck to your account and you can open it in the app from there.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://manthan.sirune.tech/share.html?token=942df0d3590d422aa74d9b44f5d3ba77",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49322982",
+    "createdAt": "2026-08-16T19:43:36.934Z"
+  },
+  {
     "slug": "i-shrank-deepseek-v4-flash-to-57gb-and-it-wrote-a-compiler-on-my-mac-hn",
     "title": "I shrank DeepSeek V4 Flash to 57GB and it wrote a compiler on my Mac",
     "shortDescription": "I built a specialized package of DeepSeek V4 Flash 0731 (originally 284B total parameters, 13B active), preserving reasoning, tool calling…",
