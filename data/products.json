@@ -1,5 +1,21 @@
 [
   {
+    "slug": "chatgpt-and-claude-export-viewer-that-runs-locally-in-the-browser-hn",
+    "title": "ChatGPT and Claude export viewer that runs locally in the browser",
+    "shortDescription": "I regularly export my chats from ChatGPT and Claude as backup. There are times I wanted to quickly see what is inside them So I built this…",
+    "fullDescription": "I regularly export my chats from ChatGPT and Claude as backup. There are times I wanted to quickly see what is inside them So I built this tool to make these export easier to browse. One thing I learnt while building is that neither ChatGPT nor Claude export enough info to reproduce everything you see in their app. The biggest gap is projects i.e if you use multiple projects, it is hard to reconstruct it. Everything is processed locally in your browser.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.vinaa.ai/tools/ai-chat-history-browser/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49324475",
+    "createdAt": "2026-08-16T22:45:45.613Z"
+  },
+  {
     "slug": "vocalcode-push-to-talk-dictation-for-ai-coding-agents-on-device-hn",
     "title": "VocalCode – push-to-talk dictation for AI coding agents, on-device",
     "shortDescription": "Проект «VocalCode – push-to-talk dictation for AI coding agents, on-device», опубликован сообществом Hacker News.",
