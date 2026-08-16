@@ -1,5 +1,25 @@
 [
   {
+    "slug": "baby-github",
+    "title": "BABY",
+    "shortDescription": "BABY - Build Agent Benchmarks for Yourself",
+    "fullDescription": "BABY - Build Agent Benchmarks for Yourself\n\nАвтор: wenhuahuo. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://github.com/wenhuahuo/BABY",
+    "category": "productivity",
+    "tags": [
+      "agent",
+      "agent-benchmark",
+      "agent-workflows",
+      "ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1334869051",
+    "createdAt": "2026-08-16T10:48:20.889Z"
+  },
+  {
     "slug": "allrouter-github",
     "title": "allrouter",
     "shortDescription": "Interactive local launcher and configuration manager for AI coding agents (Claude Code, Codex, OpenCode, Qwen, Hermes). Features an arrow-k…",
