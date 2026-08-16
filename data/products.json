@@ -1,5 +1,37 @@
 [
   {
+    "slug": "ai-activity-discovery-that-brings-all-activities-to-one-platform-hn",
+    "title": "AI activity discovery that brings all activities to one platform",
+    "shortDescription": "Проект «AI activity discovery that brings all activities to one platform», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI activity discovery that brings all activities to one platform», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://hyp-e.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49323151",
+    "createdAt": "2026-08-16T20:17:56.427Z"
+  },
+  {
+    "slug": "hacker-news-top-stories-as-feeds-to-use-with-rssatom-with-summaries-hn",
+    "title": "Hacker News Top Stories as Feeds to Use with RSS/Atom with Summaries",
+    "shortDescription": "Hey all, I’ve made this bot, it fetches every story that enters the HN Top 10, summarizes it with AI to a tweet-sized textlog note and publ…",
+    "fullDescription": "Hey all, I’ve made this bot, it fetches every story that enters the HN Top 10, summarizes it with AI to a tweet-sized textlog note and publishes it. textlog.cc offers these endpoints as RSS&#x2F;Atom through textlog.cc&#x2F;u&#x2F;hn10.rss and textlog.cc&#x2F;u&#x2F;hn10.atom so you can subscribe easily. Enjoy!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://textlog.cc/u/hn10",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49323135",
+    "createdAt": "2026-08-16T20:17:56.427Z"
+  },
+  {
     "slug": "manthan-a-mcp-server-to-store-concept-cards-with-prerequisite-links-hn",
     "title": "Manthan a MCP server to store Concept cards with prerequisite links",
     "shortDescription": "I generally am a forgetful person who remembers very little of what is read sometime ago. I also tried using many of tools related to hardc…",
