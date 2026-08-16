@@ -1,5 +1,43 @@
 [
   {
+    "slug": "snafu-github",
+    "title": "snafu",
+    "shortDescription": "SNAFU. Agentic LLM flow to help you with \"naming things\" in source code.",
+    "fullDescription": "SNAFU. Agentic LLM flow to help you with \"naming things\" in source code.\n\nАвтор: sebastiancarlos. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/sebastiancarlos/snafu",
+    "category": "developer",
+    "tags": [
+      "agentic-ai",
+      "agentic-workflow",
+      "ai",
+      "any-llm",
+      "cli",
+      "code-quality",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1335452729",
+    "createdAt": "2026-08-16T03:45:05.514Z"
+  },
+  {
+    "slug": "grow-your-saas-visibility-with-ai-powered-discovery-hn",
+    "title": "Grow your SaaS visibility with AI-powered discovery",
+    "shortDescription": "Проект «Grow your SaaS visibility with AI-powered discovery», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Grow your SaaS visibility with AI-powered discovery», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://saaslyra.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49316639",
+    "createdAt": "2026-08-16T03:45:05.425Z"
+  },
+  {
     "slug": "qelora-github",
     "title": "qelora",
     "shortDescription": "✨ Explore knowledge without boundaries.",
