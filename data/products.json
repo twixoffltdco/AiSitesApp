@@ -1,5 +1,27 @@
 [
   {
+    "slug": "amadeus-for-dsh-github",
+    "title": "amadeus-for-dsh",
+    "shortDescription": "Amadeus (AI assistant from Steins;Gate 0) for DeepSeek Harness",
+    "fullDescription": "Amadeus (AI assistant from Steins;Gate 0) for DeepSeek Harness\n\nАвтор: yyxcnasd. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/yyxcnasd/amadeus-for-dsh",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "dsh",
+      "dsh-plugin",
+      "makise-kurisu",
+      "steins-gate",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1335272583",
+    "createdAt": "2026-08-16T09:27:10.862Z"
+  },
+  {
     "slug": "alertchecker-get-emailed-when-a-plain-english-statement-comes-true-hn",
     "title": "AlertChecker – get emailed when a plain-English statement comes true",
     "shortDescription": "I built AlertChecker to help address a limitation with AI chatbots - they only respond when you&#x27;ve asked them something. You talk to t…",
