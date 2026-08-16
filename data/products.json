@@ -1,5 +1,43 @@
 [
   {
+    "slug": "dsh-full-remote-github",
+    "title": "dsh-full-remote",
+    "shortDescription": "dsh-plugin: Fix DeepSeek Harness 403s over tunnels. Token-gated reverse proxy restores settings.* / credentials.* / host.listDirectory remo…",
+    "fullDescription": "dsh-plugin: Fix DeepSeek Harness 403s over tunnels. Token-gated reverse proxy restores settings.* / credentials.* / host.listDirectory remotely. Per-device sessions, WebSocket/SSE, mobile control panel.\n\nАвтор: JUANWANG-BUAA. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/JUANWANG-BUAA/dsh-full-remote",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "authentication",
+      "cloudflared",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1334709708",
+    "createdAt": "2026-08-16T06:34:44.901Z"
+  },
+  {
+    "slug": "spread-real-time-new-zealand-supermarket-data-via-api-and-mcp-hn",
+    "title": "Spread – Real-Time New Zealand Supermarket Data via API and MCP",
+    "shortDescription": "Kia ora HN, I built Spread, an API for New Zealand grocery data. https:&#x2F;&#x2F;spread.butterup.app Groceries are really expensive in Ne…",
+    "fullDescription": "Kia ora HN, I built Spread, an API for New Zealand grocery data. https:&#x2F;&#x2F;spread.butterup.app Groceries are really expensive in New Zealand and there is barely any competition in the supermarkets monopolies that control the whole grocery market I was originally collecting grocery pricing data for ButterUp.app, a supermarket comparison app I’ve been building for NZ. At some point I realised the data layer was probably useful on its own, so I pulled it out into a separate API. So, that anyone who is building a business to open a grocery supermarket in NZ, they can get latest prices of their competitors and based on that they can price their own products. Spread currently covers products and pricing from Pak’nSave, New World and Woolworths (the giant supermarkets over here in New Zealand). It gives you: * product search * current price observations * competitor price comparisons * structured API responses * API keys and usage limits * MCP support for AI agents The main use cases I had in mind were price comparison apps, grocery analytics, AI shopping tools, businesses adjusting their prices based on grocery market conditions, and anything else that needs NZ supermarket data without having to build the collection layer from scratch. It’s still early. There’s a 7-day free trial if anyone wants to play around with it. Would be keen to get feedback, especially from people who have built data APIs, scraping pipelines, MCP servers, or developer tools. Happy to answer technical questions about how I’m collecting, normalising and serving the data.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://spread.butterup.app/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49317344",
+    "createdAt": "2026-08-16T06:34:44.763Z"
+  },
+  {
     "slug": "recap-github",
     "title": "recap",
     "shortDescription": "A simple skill for AI agents that recaps any answer into a tight numbered list",
