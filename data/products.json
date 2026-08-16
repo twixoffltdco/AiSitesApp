@@ -1,5 +1,93 @@
 [
   {
+    "slug": "qelora-github",
+    "title": "qelora",
+    "shortDescription": "✨ Explore knowledge without boundaries.",
+    "fullDescription": "✨ Explore knowledge without boundaries.\n\nАвтор: ARUNAGIRINATHAN-K. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/ARUNAGIRINATHAN-K/qelora",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "contributions-welcome",
+      "generative-ai",
+      "knowledge-graph",
+      "open-source",
+      "spatial-canvas",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1334462645",
+    "createdAt": "2026-08-16T01:07:11.718Z"
+  },
+  {
+    "slug": "labllm-github",
+    "title": "LabLLM",
+    "shortDescription": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge fro…",
+    "fullDescription": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.\n\nАвтор: Greninja9257. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://greninja9257.github.io/LabLLM/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "apple-silicon",
+      "artificial-intelligence",
+      "deep-learning",
+      "fine-tuning",
+      "generative-ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1335460253",
+    "createdAt": "2026-08-16T01:07:11.718Z"
+  },
+  {
+    "slug": "awesome-ai-prompts-github",
+    "title": "awesome-ai-prompts",
+    "shortDescription": "Curated copy-paste AI prompts for student developers - disciplined workflows for coding agents that verify, don't guess",
+    "fullDescription": "Curated copy-paste AI prompts for student developers - disciplined workflows for coding agents that verify, don't guess\n\nАвтор: StudentSuite. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/StudentSuite/awesome-ai-prompts",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "coding-agents",
+      "developer-tools",
+      "education",
+      "generative-ai",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1335148136",
+    "createdAt": "2026-08-16T01:07:11.719Z"
+  },
+  {
+    "slug": "deepagent-github",
+    "title": "deepagent",
+    "shortDescription": "The agent that gets your work done. Built on DeepSeek Harness: Everything is a Plugin. 帮你完成工作的智能体。基于 DeepSeek Harness 构建：一切皆插件。",
+    "fullDescription": "The agent that gets your work done. Built on DeepSeek Harness: Everything is a Plugin. 帮你完成工作的智能体。基于 DeepSeek Harness 构建：一切皆插件。\n\nАвтор: justinhuangai. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/justinhuangai/deepagent",
+    "category": "chatbot",
+    "tags": [
+      "agent",
+      "ai",
+      "assistant",
+      "cordis",
+      "deepagent",
+      "deepseek",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1334311679",
+    "createdAt": "2026-08-16T01:07:11.719Z"
+  },
+  {
     "slug": "tokenlab-mcp-model-discovery-pricing-and-native-ai-endpoint-tools-hn",
     "title": "TokenLab MCP, model discovery, pricing, and native AI endpoint tools",
     "shortDescription": "Проект «TokenLab MCP, model discovery, pricing, and native AI endpoint tools», опубликован сообществом Hacker News.",
