@@ -1,5 +1,23 @@
 [
   {
+    "slug": "recap-github",
+    "title": "recap",
+    "shortDescription": "A simple skill for AI agents that recaps any answer into a tight numbered list",
+    "fullDescription": "A simple skill for AI agents that recaps any answer into a tight numbered list\n\nАвтор: xpiu. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/xpiu/recap",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1335016315",
+    "createdAt": "2026-08-16T04:32:33.179Z"
+  },
+  {
     "slug": "snafu-github",
     "title": "snafu",
     "shortDescription": "SNAFU. Agentic LLM flow to help you with \"naming things\" in source code.",
