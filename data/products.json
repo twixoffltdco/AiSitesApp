@@ -1,5 +1,27 @@
 [
   {
+    "slug": "oi-github",
+    "title": "oi",
+    "shortDescription": "The Oi Agent Language",
+    "fullDescription": "The Oi Agent Language\n\nАвтор: oi-language. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/oi-language/oi",
+    "category": "ai-tool",
+    "tags": [
+      "agent-language",
+      "ai",
+      "coding",
+      "oi",
+      "oi-language",
+      "oilang",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1334494269",
+    "createdAt": "2026-08-16T15:18:16.989Z"
+  },
+  {
     "slug": "qwen38-27b-api-140-toks-on-one-gpu-hn",
     "title": "Qwen3.8-27B API, 140 tok/s on one GPU",
     "shortDescription": "Проект «Qwen3.8-27B API, 140 tok/s on one GPU», опубликован сообществом Hacker News.",
