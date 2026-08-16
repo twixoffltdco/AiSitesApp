@@ -1,5 +1,27 @@
 [
   {
+    "slug": "allrouter-github",
+    "title": "allrouter",
+    "shortDescription": "Interactive local launcher and configuration manager for AI coding agents (Claude Code, Codex, OpenCode, Qwen, Hermes). Features an arrow-k…",
+    "fullDescription": "Interactive local launcher and configuration manager for AI coding agents (Claude Code, Codex, OpenCode, Qwen, Hermes). Features an arrow-key UI, unified API settings, and security controls.\n\nАвтор: haarisxyz. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/haarisxyz/allrouter",
+    "category": "developer",
+    "tags": [
+      "agents",
+      "ai",
+      "claude-code",
+      "cli",
+      "developer-tools",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1334052384",
+    "createdAt": "2026-08-16T09:52:00.323Z"
+  },
+  {
     "slug": "amadeus-for-dsh-github",
     "title": "amadeus-for-dsh",
     "shortDescription": "Amadeus (AI assistant from Steins;Gate 0) for DeepSeek Harness",
