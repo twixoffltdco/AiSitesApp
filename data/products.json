@@ -1,5 +1,43 @@
 [
   {
+    "slug": "paper-agent-github",
+    "title": "paper-agent",
+    "shortDescription": "Paper Agent - 本地 AI 学术论文写作助手（Electron + FastAPI）",
+    "fullDescription": "Paper Agent - 本地 AI 学术论文写作助手（Electron + FastAPI）\n\nАвтор: 1479650473. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/1479650473/paper-agent",
+    "category": "writing",
+    "tags": [
+      "academic",
+      "ai",
+      "electron",
+      "fastapi",
+      "matlab",
+      "paper-agent",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1335107947",
+    "createdAt": "2026-08-17T17:23:45.131Z"
+  },
+  {
+    "slug": "skybits-a-document-editor-for-humans-and-agents-hn",
+    "title": "Skybits – A document editor for humans and agents",
+    "shortDescription": "Our business team were heavy users of ChatGPT&#x27;s canvas feature, but it wasn&#x27;t very useful once we needed to share a canvas and ed…",
+    "fullDescription": "Our business team were heavy users of ChatGPT&#x27;s canvas feature, but it wasn&#x27;t very useful once we needed to share a canvas and edit it collaboratively. Some team members were also using a different AI, and we couldn&#x27;t find a good way to work on docs without sending each other .md files. So we built Skybits to solve that problem. It&#x27;s free, AI-agnostic, and supports documents, spreadsheets, and HTML.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://skybits.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49334358",
+    "createdAt": "2026-08-17T17:23:44.953Z"
+  },
+  {
     "slug": "openwebsearch-a-router-for-web-search-indexes-hn",
     "title": "OpenWebSearch – A router for web search indexes",
     "shortDescription": "Hi HN, I&#x27;m one of the people behind OpenWebSearch ( https:&#x2F;&#x2F;openwebsearch.ai ). It&#x27;s a router for web search indexes. Y…",
