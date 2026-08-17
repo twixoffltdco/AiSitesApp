@@ -1,5 +1,27 @@
 [
   {
+    "slug": "dsh-plugin-newsboard-github",
+    "title": "dsh-plugin-newsboard",
+    "shortDescription": "DeepSeek Harness 网页端的 AI 与科技快讯看板：内置 RSS/JSON 源驱动的可拖拽浮窗，支持双语翻译、关键词过滤和设置页。",
+    "fullDescription": "DeepSeek Harness 网页端的 AI 与科技快讯看板：内置 RSS/JSON 源驱动的可拖拽浮窗，支持双语翻译、关键词过滤和设置页。\n\nАвтор: c-ling. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/c-ling/dsh-plugin-newsboard#readme",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-news",
+      "cordis",
+      "dashboard",
+      "deepseek",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1336078752",
+    "createdAt": "2026-08-17T10:58:17.391Z"
+  },
+  {
     "slug": "dsh-git-gui-github",
     "title": "dsh-git-gui",
     "shortDescription": "A Git GUI plugin for DeepSeek Harness Web UI",
