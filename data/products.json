@@ -1,5 +1,37 @@
 [
   {
+    "slug": "love-hn",
+    "title": "Love",
+    "shortDescription": "I broke up w&#x2F; my GF yesterday; so I am making an AI-native matchmaker. This shit is all a simulation so there has to be some concrete…",
+    "fullDescription": "I broke up w&#x2F; my GF yesterday; so I am making an AI-native matchmaker. This shit is all a simulation so there has to be some concrete math&#x2F;algo behind it all.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://01001100011011110111011001100101.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49336238",
+    "createdAt": "2026-08-17T19:25:17.934Z"
+  },
+  {
+    "slug": "cronloop-run-claude-code-or-codex-on-a-schedule-hn",
+    "title": "Cronloop, run Claude Code or Codex on a schedule",
+    "shortDescription": "Проект «Cronloop, run Claude Code or Codex on a schedule», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Cronloop, run Claude Code or Codex on a schedule», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://cronloop.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49336157",
+    "createdAt": "2026-08-17T19:25:17.934Z"
+  },
+  {
     "slug": "deepseek-v4-flash-0731-in-c-github",
     "title": "deepseek-v4-flash-0731-in-c",
     "shortDescription": "Run the native 284B-A13B DeepSeek-V4-Flash-0731 LLM locally on a single laptop CPU: pure C, 8 GB RAM minimum, no GPU, best TPOT 0.892 s/tok…",
