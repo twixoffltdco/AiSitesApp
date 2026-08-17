@@ -1,5 +1,26 @@
 [
   {
+    "slug": "valera-studio-harness-github",
+    "title": "Valera-Studio-Harness",
+    "shortDescription": "Deterministic context-paging harness for Claude AI agents — cuts token cost 81% on long sessions with 100% recall accuracy. MIT licensed.",
+    "fullDescription": "Deterministic context-paging harness for Claude AI agents — cuts token cost 81% on long sessions with 100% recall accuracy. MIT licensed.\n\nАвтор: Valera-Studio. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://valera.studio",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-tools",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1336222973",
+    "createdAt": "2026-08-17T04:37:58.887Z"
+  },
+  {
     "slug": "dsh-desktop-github",
     "title": "dsh-desktop",
     "shortDescription": "DeepSeek Harness (DSH) desktop client — custom glassmorphism UI, official interactions, Windows & macOS",
