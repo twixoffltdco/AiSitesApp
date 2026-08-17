@@ -1,5 +1,42 @@
 [
   {
+    "slug": "jobflow-github",
+    "title": "JobFlow",
+    "shortDescription": "Local-first, AI-centered, evidence-gated job application workflow",
+    "fullDescription": "Local-first, AI-centered, evidence-gated job application workflow\n\nАвтор: ValerianXXX. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/ValerianXXX/JobFlow",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "job-search",
+      "local-first",
+      "privacy",
+      "windows",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1334905443",
+    "createdAt": "2026-08-17T21:23:05.596Z"
+  },
+  {
+    "slug": "personal-ai-tutor-that-builds-and-probes-your-understanding-hn",
+    "title": "Personal AI tutor that builds and probes your understanding",
+    "shortDescription": "I used to learn from books and courses. But I kept realising I hadn&#x27;t built a real mental model. I always needed an LLM on the side to…",
+    "fullDescription": "I used to learn from books and courses. But I kept realising I hadn&#x27;t built a real mental model. I always needed an LLM on the side to fill in what the books skipped. So, I stopped using books as my direct source of truth and started using LLMs itself: to design the curriculum and probe whether I understood the topic. Suki - it&#x27;s opensource. Given a topic it builds a curriculum from beginner to advanced, then probes your understanding chapter by chapter. Link - https:&#x2F;&#x2F;github.com&#x2F;grandimam&#x2F;suki Let me know what you guys think about it.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/grandimam/suki",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49337613",
+    "createdAt": "2026-08-17T21:23:05.352Z"
+  },
+  {
     "slug": "slaunt-control-what-ai-agents-can-access-do-and-execute-hn",
     "title": "Slaunt – control what AI agents can access, do, and execute",
     "shortDescription": "Hey HN, wanted to silently launch what I&#x27;ve building for a bit. Lmk.",
