@@ -1,5 +1,47 @@
 [
   {
+    "slug": "tether-ai-github",
+    "title": "tether-ai",
+    "shortDescription": "Tether-code-ai",
+    "fullDescription": "Tether-code-ai\n\nАвтор: tt-11-dd. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://tether-code.xyz",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude-code",
+      "codex",
+      "harness",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1334938665",
+    "createdAt": "2026-08-17T02:39:37.521Z"
+  },
+  {
+    "slug": "awesome-ai-certifications-github",
+    "title": "awesome-ai-certifications",
+    "shortDescription": "A curated list of AI and machine learning certifications — cost, validity, eligibility, and retake policy, verified against vendor pages.",
+    "fullDescription": "A curated list of AI and machine learning certifications — cost, validity, eligibility, and retake policy, verified against vendor pages.\n\nАвтор: hartmamt. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/hartmamt/awesome-ai-certifications",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "anthropic",
+      "awesome",
+      "awesome-list",
+      "aws-certification",
+      "azure",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1336506210",
+    "createdAt": "2026-08-17T02:39:37.521Z"
+  },
+  {
     "slug": "claude-caveman-ultra-github",
     "title": "claude-caveman-ultra",
     "shortDescription": "🪨 Make Claude Code talk like a smart caveman ~75% fewer output tokens, 100% accuracy. Auto-enabled + statusline.",
