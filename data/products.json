@@ -1,5 +1,37 @@
 [
   {
+    "slug": "ai-generated-music-box-version-of-any-song-for-baby-hn",
+    "title": "AI-generated music box version of any song (for baby)",
+    "shortDescription": "title basically covers it. project #2 from my paternity leave. My partner &amp; I got frustrated with hearing Brahm&#x27;s Lullaby and Whee…",
+    "fullDescription": "title basically covers it. project #2 from my paternity leave. My partner &amp; I got frustrated with hearing Brahm&#x27;s Lullaby and Wheels On The Bus repeatedly. I also stand by that babies can enjoy adult music just as easily as they can enjoy &quot;kids music&quot;. But most adult music is too dense&#x2F;complex for babies to understand, so I created this to generate baby-friendly, slowed down versions of songs that we like to play for our baby &amp; sing along with. Uses BS-roformer for stemming out the input audio + spotify Basic Pitch for transposing to midi. Still needs some work, kinda sounds like a drunk little music box version of the original but very fun.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://lullabyconverter.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49338988",
+    "createdAt": "2026-08-17T23:20:22.094Z"
+  },
+  {
+    "slug": "a-benchmark-for-ai-agent-guardrails-that-caught-my-own-plugin-hn",
+    "title": "A benchmark for AI agent guardrails that caught my own plugin",
+    "shortDescription": "Проект «A benchmark for AI agent guardrails that caught my own plugin», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A benchmark for AI agent guardrails that caught my own plugin», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/couldbeme/holdline",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49338963",
+    "createdAt": "2026-08-17T23:20:22.094Z"
+  },
+  {
     "slug": "jobflow-github",
     "title": "JobFlow",
     "shortDescription": "Local-first, AI-centered, evidence-gated job application workflow",
