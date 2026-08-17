@@ -1,5 +1,53 @@
 [
   {
+    "slug": "curia-personal-radio-and-ai-podcasts-hn",
+    "title": "Curia – Personal Radio and AI Podcasts",
+    "shortDescription": "hi everyone I&#x27;ve made this personalised audio app called Curia, that turns articles &amp; links, into audio shows. You can customize t…",
+    "fullDescription": "hi everyone I&#x27;ve made this personalised audio app called Curia, that turns articles &amp; links, into audio shows. You can customize the show format, to fit different moments of the day. Would love for people to try out and share feedback. My long term vision is to make the personal media company, where user is co-author or co-programmer of their feed, shifting the role away from the algorithm that works in favour of the platform and not the user.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://curia.surge.sh/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49332496",
+    "createdAt": "2026-08-17T15:21:59.265Z"
+  },
+  {
+    "slug": "agent-mesh-shared-memory-for-human-and-multi-agent-coordination-hn",
+    "title": "Agent Mesh – Shared memory for Human and multi-Agent coordination",
+    "shortDescription": "I built a Human + multi-Agent shared memory system I use daily for my coding workflow. It helps reduce Agent drift by formalizing Human dec…",
+    "fullDescription": "I built a Human + multi-Agent shared memory system I use daily for my coding workflow. It helps reduce Agent drift by formalizing Human decisions and storing coordination logs. We&#x27;re calling it Agent Mesh. You can try it out yourself via the GitHub link or pip install my-agent-mesh. Simply point your AI Agent to Agent Mesh and ask it to review the README and adoption docs. Your Agent will automatically review it, prompt you for any input needed, add your input to a decision log, and give you a link to a dashboard UI (aka Workbench) you can bookmark and use to monitor logs. Adoption steps include updates to CLAUDE.md&#x2F;AGENTS.md, hooks, etc. Your Agent can migrate your existing workflow and add more Agents as well. It started over 6 months ago while experimenting with different AI coding models and platforms. Switching back and forth meant losing valuable context. I found myself manually relaying messages from one Agent to another and becoming frustrated with constant drift. First, I created a simple &quot;Agent Mail&quot; system using a SQLite database for Agent messages, indexed on a request&#x2F;response id. Instead of copying and pasting an entire message, it allowed me to relay a single id. Separately, I started maintaining a decision log (also indexed on id) to track my decisions and reduce Agent drift. Agents started inserting these decision and request ids into code comments and plan docs as a reminder of why something was implemented. After building a simple web dashboard (aka &quot;Workbench&quot;) for myself to track these messages and create my own request ids for User&#x2F;Human feedback, I decided to incorporate the decision log and my project&#x27;s development backlog to create what is now &quot;Agent Mesh&quot;. Eventually, I automated the message relay too. Now, I work exclusively in the Claude app and have Claude send&#x2F;receive messages to CODEX via codex exec (CODEX can do this as well). Both of them maintain the backlog and decision log. I communicate directly with Claude for planning and design. Claude communicates directly with CODEX for research and review. I use the Workbench to track all logs and add my own User&#x2F;Human feedback when reviewing their work. After submitting feedback in the Workbench, it generates a feedback message + an associated request id which I can give to Claude who then parses it into backlog items and relays to CODEX for review. Agents automatically add to and prune the decision log. I found this typically happens when an Agent receives pushback from me (or sometimes other Agents) or I provide feedback that results in multiple new backlog items. They still refer to decisions created months ago and will mark one as superseded if a new decision overrides it. All decision additions and modifications require Human approval from the Workbench. Agent Mesh was structured to be Agent agnostic. You can add any Agent you want. I like using the Claude + CODEX setup I described because it allows me to use both subscriptions instead of paying per-token. Enjoy! If you try it out, let me know what you find useful or would like to see added. Feedback is appreciated.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/cbalgeman/agent-mesh",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49332326",
+    "createdAt": "2026-08-17T15:21:59.266Z"
+  },
+  {
+    "slug": "the-ai-reputation-manager-hn",
+    "title": "The AI Reputation Manager",
+    "shortDescription": "Hey folks, I bootstrapped &quot;More Good Reviews&quot; to $170,000 in sales before building this. I just launched an MCP for AI reputation…",
+    "fullDescription": "Hey folks, I bootstrapped &quot;More Good Reviews&quot; to $170,000 in sales before building this. I just launched an MCP for AI reputation and review management. You can find it in Claude&#x27;s connector directory: https:&#x2F;&#x2F;claude.ai&#x2F;directory&#x2F;more-good-reviews Connect your Google Business Listing and get reports with action items on what your customers are saying and what you need to fix. It comes complete with over 40 tools, prompts, and skills: https:&#x2F;&#x2F;github.com&#x2F;moregoodreviews&#x2F;mgr-skills With an account, you can do a lot more: - Schedule review requests over email or sms to your customers - Reply to your Google or Facebook reviews - Add reviews to a widget on your website - Spot positive and negative trends across many locations - Get actionable next steps on where to improve based on customer feedback There is also an agency plan. Marketing agencies can white label the product and offer the MCP under their own domain name to their own customers. Would love to hear what you think!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://moregoodreviews.com/ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49332320",
+    "createdAt": "2026-08-17T15:21:59.266Z"
+  },
+  {
     "slug": "1667-a-terminal-ui-for-writing-fiction-with-language-models-hn",
     "title": "1667, a terminal UI for writing fiction with language models",
     "shortDescription": "Hi HN. I built 1667 for my own fiction work and now use it each day. This probably has a limited audience. Maybe an audience of one... Why…",
