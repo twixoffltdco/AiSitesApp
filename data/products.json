@@ -1,5 +1,21 @@
 [
   {
+    "slug": "a-multiplayer-coding-environment-for-dev-teams-and-agents-hn",
+    "title": "A multiplayer coding environment for dev teams and agents",
+    "shortDescription": "As a hardcore programmer, I used to attend lots of hackathons, and collaboration was always a huge headache. Especially when everyone on th…",
+    "fullDescription": "As a hardcore programmer, I used to attend lots of hackathons, and collaboration was always a huge headache. Especially when everyone on the team was &quot;vibe coding&quot; their own parts. Agents would lose context, and individual solutions would end up out of sync and eventually fail to come together at the end. To fix this exact problem, I built Forklane. Forklane is a multiplayer coding platform with a full, built-in agent and orchestration stack. It’s designed to help dev teams and AI agents collaborate in live real time sessions seamlessly without stepping on each other&#x27;s toes and keeping all teammates agents synced. Check it out at https:&#x2F;&#x2F;forklane.ai Would love to hear community feedback and thoughts about the tool. Try it out in your teams and let me know\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://forklane.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49339145",
+    "createdAt": "2026-08-17T23:45:59.938Z"
+  },
+  {
     "slug": "ai-generated-music-box-version-of-any-song-for-baby-hn",
     "title": "AI-generated music box version of any song (for baby)",
     "shortDescription": "title basically covers it. project #2 from my paternity leave. My partner &amp; I got frustrated with hearing Brahm&#x27;s Lullaby and Whee…",
