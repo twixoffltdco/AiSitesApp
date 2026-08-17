@@ -1,5 +1,27 @@
 [
   {
+    "slug": "dsh-read-url-github",
+    "title": "dsh-read-url",
+    "shortDescription": "DeepSeek Harness URL reader: fetch any page and return clean main-content text/Markdown. Auto charset (GBK/GB2312/UTF-8/Big5), token-effici…",
+    "fullDescription": "DeepSeek Harness URL reader: fetch any page and return clean main-content text/Markdown. Auto charset (GBK/GB2312/UTF-8/Big5), token-efficient (6000-char cap, cache, offset), zero deps, no API key. 网页一键读全文 → 干净正文 / 结构化 Markdown\n\nАвтор: 2672243194. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://github.com/2672243194/dsh-read-url",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-coding",
+      "deepseek-harness",
+      "dsh-plugin",
+      "dsh-plugins",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1335047324",
+    "createdAt": "2026-08-17T12:37:32.740Z"
+  },
+  {
     "slug": "find-images-by-what-they-show-ai-rename-them-and-sort-them-easily-hn",
     "title": "Find images by what they show, AI-rename them, and sort them easily",
     "shortDescription": "Проект «Find images by what they show, AI-rename them, and sort them easily», опубликован сообществом Hacker News.",
