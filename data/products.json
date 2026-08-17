@@ -1,5 +1,81 @@
 [
   {
+    "slug": "deepseek-v4-flash-0731-in-c-github",
+    "title": "deepseek-v4-flash-0731-in-c",
+    "shortDescription": "Run the native 284B-A13B DeepSeek-V4-Flash-0731 LLM locally on a single laptop CPU: pure C, 8 GB RAM minimum, no GPU, best TPOT 0.892 s/tok…",
+    "fullDescription": "Run the native 284B-A13B DeepSeek-V4-Flash-0731 LLM locally on a single laptop CPU: pure C, 8 GB RAM minimum, no GPU, best TPOT 0.892 s/token. ｜ 在笔记本单颗 CPU 上本地运行原生 284B-A13B DeepSeek-V4-Flash-0731 大模型：纯 C，最低 8 GB 内存，无需 GPU，最优 TPOT 0.892 秒/token。\n\nАвтор: shyringo. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/shyringo/deepseek-v4-flash-0731-in-c",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "c",
+      "deep-learning",
+      "deepseek",
+      "deepseek-v4",
+      "generative-ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1336167566",
+    "createdAt": "2026-08-17T18:34:51.927Z"
+  },
+  {
+    "slug": "growmos-github",
+    "title": "growmos",
+    "shortDescription": "🪐 Growmos: A new approach to agentic AI—a living system expanding its knowledge like the universe, compounding its capabilities, and getti…",
+    "fullDescription": "🪐 Growmos: A new approach to agentic AI—a living system expanding its knowledge like the universe, compounding its capabilities, and getting more work done with fewer tokens.\n\nАвтор: codician-team. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://codician-team.github.io/growmos/",
+    "category": "productivity",
+    "tags": [
+      "agent",
+      "agent-memory",
+      "agent-orchestration",
+      "agent-skill",
+      "agent-skills",
+      "agentic",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1337068047",
+    "createdAt": "2026-08-17T18:34:51.927Z"
+  },
+  {
+    "slug": "harnessrouter-unified-interface-for-agent-harnesses-hn",
+    "title": "HarnessRouter: Unified interface for agent harnesses",
+    "shortDescription": "Hey HN! We are building HarnessRouter, a canonical API for running Codex, Claude Code, Hermes, and other managed agent harnesses as your pr…",
+    "fullDescription": "Hey HN! We are building HarnessRouter, a canonical API for running Codex, Claude Code, Hermes, and other managed agent harnesses as your product backend. Before building HarnessRouter, I used to build our own agent harness for our products. I tried LangGraph, agent SDKs from different vendors, pydantic, LLM tool use &#x2F; function call, and so on. It&#x27;s a very heavy lifting engineering effort, and I am disappointed about the agent deliveries compared to what Codex, CC can deliver. That changed my mindset. The frontier labs and famous open source communities are already putting so much engineering effort to build the world&#x27;s best harnesses, why not leverage them directly instead of building our own, just like how we call LLM chat completion endpoints instead of training our own models? We provide a docker image to run HarnessRouter locally. ---------- Quickstart: docker pull harnessrouter&#x2F;harnessrouter docker run -d --name harnessrouter -p 127.0.0.1:3000:3000 -v harnessrouter:&#x2F;data harnessrouter&#x2F;harnessrouter docker logs -f harnessrouter Wait for the &quot;ready on :3000&quot; show up, then open the browser at http:&#x2F;&#x2F;localhost:3000. Default username&#x2F;password is harnessrouter&#x2F;harnessrouter Then in Integrations page, add your model provider credentials or API keys. In Harnesses tab, as of today we provide routing to Codex, Claude Code, and Hermes as base harnesses. You can customize any of them and configure harness instruction, MCP tools, and skills. Then go to Tasks and let them do jobs. ---------- Every harness has its own request&#x2F;response format and incompatible with each other. We propose Unified Harness Procotol [1] to standardize how an application talks to an agent harness. It covers harness selection and configuration, task execution, event streaming, sessions start cancel and resume, artifact management and delivery, and failure handling. It&#x27;s similar idea like LiteLLM, but for harnesses rather than models. HarnessRouter implements UHP. We provide an AGENTS.md [2] and your coding agent can follow it to integrate your application with the harnesses available. We also provide starter kits [3] to demonstrate some types of agentic products that can be built on HarnessRouter. It currently includes PPT agent, Spreadsheet agent, BI Dashboard agent, and Video generation agent. Can&#x27;t wait to hear what you think! [1] https:&#x2F;&#x2F;unifiedharnessprotocol.org [2] https:&#x2F;&#x2F;harnessrouter.ai&#x2F;agents.md [3] https:&#x2F;&#x2F;github.com&#x2F;harnessrouter&#x2F;starter-kit\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/harnessrouter/harnessrouter",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49335595",
+    "createdAt": "2026-08-17T18:34:51.843Z"
+  },
+  {
+    "slug": "visimer-open-source-visual-editor-for-mermaid-diagrams-hn",
+    "title": "Visimer – open-source visual editor for Mermaid diagrams",
+    "shortDescription": "Hi HN, Nick here, founder at OpenKnowledge. We built an open source library, Visimer, for editing Mermaid diagrams with a what-you-see-is-w…",
+    "fullDescription": "Hi HN, Nick here, founder at OpenKnowledge. We built an open source library, Visimer, for editing Mermaid diagrams with a what-you-see-is-what-you-get visual editor. Try the playground at https:&#x2F;&#x2F;visimer.com&#x2F;playground . You can rename labels, change shapes, add new nodes, etc. by clicking and dragging the visual canvas. We set out to build this originally for OpenKnowledge, our markdown wysiwyg editor, then realized it’d be great to share it as a proper embeddable component library so that other apps can leverage it as well. Our general take is that AI is great for generating content, but whenever you want to tweak fine details, for example to create an artifact sharable with others, point-edit functionality is much better. We built Visimer to bring that to Mermaid diagrams, just like we did for markdown. Some technical bits: - Leverages the native Mermaid.js renderer for visualizing the Mermaid diagram true to how it’s intended. We add point-edit functionality on top. - We tried re-generating the entire file on every edit, but found that it would eat comments and formatting, etc. The final approach maps the rendered SVG elements back to a CST, so we can then edit only the parts of the file that should change. You can pair the visual editor with any text-editor so you can have both visual and code-level editor experiences. The library provides bindings for Monaco and CodeMirror and is extensible. There&#x27;s also a low-level headless version. If you just care about being able to edit your Mermaid diagrams in your markdown, you can try it in the OpenKnowledge app (our OSS markdown IDE, available as Mac&#x2F;Linux&#x2F;Windows apps). Let us know what you think.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/inkeep/visimer",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49335470",
+    "createdAt": "2026-08-17T18:34:51.843Z"
+  },
+  {
     "slug": "tesana-an-ai-game-engine-that-builds-quality-games-end-to-end-hn",
     "title": "Tesana – An AI game engine that builds quality games end-to-end",
     "shortDescription": "Hey HN! I built https:&#x2F;&#x2F;tesana.ai&#x2F;en , a game generation platform that allows anyone to create full games with graphics, gam…",
