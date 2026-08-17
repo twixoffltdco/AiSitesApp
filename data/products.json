@@ -1,5 +1,21 @@
 [
   {
+    "slug": "verifying-that-an-auto-submitted-job-application-arrived-hn",
+    "title": "Verifying that an auto-submitted job application arrived",
+    "shortDescription": "Проект «Verifying that an auto-submitted job application arrived», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Verifying that an auto-submitted job application arrived», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aiapplyd.com/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49327676",
+    "createdAt": "2026-08-17T08:38:54.946Z"
+  },
+  {
     "slug": "dsh-plugin-dev-skills-github",
     "title": "dsh-plugin-dev-skills",
     "shortDescription": "An Agent Skills skill for developing DeepSeek Harness (DSH) plugins（开发 DSH 插件的 Agent Skill）——插件/服务/事件/工具/LLM 适配器/打包安装的标准。Works with Claude…",
