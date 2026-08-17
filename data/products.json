@@ -1,5 +1,42 @@
 [
   {
+    "slug": "dsh-hub-dsh-github",
+    "title": "dsh-hub-DSH",
+    "shortDescription": "dsh-hub — DSH 插件中枢",
+    "fullDescription": "dsh-hub — DSH 插件中枢\n\nАвтор: ARFCON. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/ARFCON/dsh-hub-DSH",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugin-market",
+      "dsh-plugins",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1335880024",
+    "createdAt": "2026-08-17T06:49:11.206Z"
+  },
+  {
+    "slug": "mcp-server-for-appointment-booking-hn",
+    "title": "MCP Server for Appointment Booking",
+    "shortDescription": "Проект «MCP Server for Appointment Booking», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «MCP Server for Appointment Booking», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://blog.makeplans.com/2026/08/15/your-ai-assistant-can-now-manage-your-bookings.html",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49326992",
+    "createdAt": "2026-08-17T06:49:10.855Z"
+  },
+  {
     "slug": "valera-studio-harness-github",
     "title": "Valera-Studio-Harness",
     "shortDescription": "Deterministic context-paging harness for Claude AI agents — cuts token cost 81% on long sessions with 100% recall accuracy. MIT licensed.",
