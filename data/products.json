@@ -1,5 +1,37 @@
 [
   {
+    "slug": "slaunt-control-what-ai-agents-can-access-do-and-execute-hn",
+    "title": "Slaunt – control what AI agents can access, do, and execute",
+    "shortDescription": "Hey HN, wanted to silently launch what I&#x27;ve building for a bit. Lmk.",
+    "fullDescription": "Hey HN, wanted to silently launch what I&#x27;ve building for a bit. Lmk.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://slaunt.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49337228",
+    "createdAt": "2026-08-17T20:53:15.956Z"
+  },
+  {
+    "slug": "gene-inspector-pro-i-built-a-tool-for-exploring-your-own-genome-hn",
+    "title": "Gene Inspector Pro – I built a tool for exploring your own genome",
+    "shortDescription": "Hi HN, I’m Sergey. When my son was diagnosed with several health conditions, a doctor told us to “learn to live with it.” I refused and sta…",
+    "fullDescription": "Hi HN, I’m Sergey. When my son was diagnosed with several health conditions, a doctor told us to “learn to live with it.” I refused and started looking for answers. I spent the next seven years teaching myself genetics and cellular biology. That search led me to build Gene Inspector and have my family’s DNA sequenced. I now study genomic data from 14 family members across three generations. Gene Inspector turns raw DNA data into a shortlist of findings people can investigate. Instead of searching through millions of variants, users can quickly find potentially interesting ones, explore how they relate to health topics, pathways, or medications, and see the evidence behind each result. Gene Inspector supports data from common DNA tests, Whole Exome Sequencing, and Whole Genome Sequencing. Findings are annotated using public genetic sources and linked to the underlying evidence. I also built a pipeline that processes open-access papers, finds claims about specific variants, and links each claim to its source. This lets users check the research themselves instead of trusting a black-box interpretation. Because most people are not geneticists, I’m now building an AI research agent Diana that explains what users are seeing and helps connect the dots. Diana will wear two &quot;hats&quot;. Her &quot;geneticist&quot; hat will make her strict and skeptical, focusing on stronger clinical evidence. Her &quot;functional medicine&quot; hat will look more broadly at metabolism, enzymes, pathways, and common variants - just like a functional MD would do. Diana already supports text and real-time voice conversations but is currently available only through an invitation-only beta. I built most of Gene Inspector&#x27;s by hand before the AI wave. I’d appreciate one simple piece of feedback: would you find Gene Inspector useful?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://gene-inspector.pro/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49337198",
+    "createdAt": "2026-08-17T20:53:15.956Z"
+  },
+  {
     "slug": "doberman-the-ai-watchdog-that-stops-claude-from-deleting-your-database-hn",
     "title": "Doberman: The AI watchdog that stops Claude from deleting your database",
     "shortDescription": "Landing Page: https:&#x2F;&#x2F;www.trydoberman.dev&#x2F; The Problem: AI guardrails only protect against 89% of dangerous commands. This m…",
