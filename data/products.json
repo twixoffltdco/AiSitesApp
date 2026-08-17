@@ -1,5 +1,27 @@
 [
   {
+    "slug": "dsh-git-gui-github",
+    "title": "dsh-git-gui",
+    "shortDescription": "A Git GUI plugin for DeepSeek Harness Web UI",
+    "fullDescription": "A Git GUI plugin for DeepSeek Harness Web UI\n\nАвтор: lovetree128. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/lovetree128/dsh-git-gui",
+    "category": "ai-tool",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "cordis",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1336042592",
+    "createdAt": "2026-08-17T10:28:41.367Z"
+  },
+  {
     "slug": "octoweb-a-keyboard-first-browser-with-ai-as-a-citizen-hn",
     "title": "Octoweb – A Keyboard-First Browser with AI as a Citizen",
     "shortDescription": "Проект «Octoweb – A Keyboard-First Browser with AI as a Citizen», опубликован сообществом Hacker News.",
