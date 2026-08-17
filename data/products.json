@@ -1,5 +1,69 @@
 [
   {
+    "slug": "1667-a-terminal-ui-for-writing-fiction-with-language-models-hn",
+    "title": "1667, a terminal UI for writing fiction with language models",
+    "shortDescription": "Hi HN. I built 1667 for my own fiction work and now use it each day. This probably has a limited audience. Maybe an audience of one... Why…",
+    "fullDescription": "Hi HN. I built 1667 for my own fiction work and now use it each day. This probably has a limited audience. Maybe an audience of one... Why a terminal interface for story writing? I&#x27;m a dev. I like to use terminals for a lot of stuff. Most WebUIs feel off to me. That&#x27;s the only reason. One thing that bothers me about writing in existing tools is that they don&#x27;t fit the way I write. The mental model of my story is a tree. I try many takes usually continue with just one, but sometimes I want to try an alternate route and see where this goes. And that can branch again in many places. See what happens if I kill off this character or they don&#x27;t take the job or whatever. 1667 is a full-screen terminal app for long-form fiction. Each story part can have several takes. All takes stay in a tree. You select one path through that tree as the story line. Export writes that line to Markdown in the project folder. Some technical details: - A project stores its stories and settings in a `.1667&#x2F;` directory. Exported Markdown sits beside it. - Provider secrets stay in private machine files. Requests go to the provider that the writer selects. - An optional Vault Password seals project files at rest. - An operating-system lock permits one writer process for each project. - The request viewer shows the next provider request without its credential. - Each generated take keeps a Generation Record with its model and effective settings. Version 0.9.5 runs on macOS, Linux, and Windows x64. The website has Shell and PowerShell installers. An npm package is also available. 1667 imports Markdown, SillyTavern chats and cards, and NovelAI archives. It can use OpenAI-compatible, Anthropic, and local endpoints such as Ollama, LM Studio, llama.cpp, and KoboldCpp. Current limits: the release is pre-1.0. The interface is a terminal. There is no account or cloud sync, and I don&#x27;t plan to add any. No tracking.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://1667.ai/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49330604",
+    "createdAt": "2026-08-17T13:37:02.440Z"
+  },
+  {
+    "slug": "llms-each-trading-100k-vs-a-frozen-rulebook-the-rulebook-leads-hn",
+    "title": "LLMs each trading $100K vs. a frozen rulebook – the rulebook leads",
+    "shortDescription": "Проект «LLMs each trading $100K vs. a frozen rulebook – the rulebook leads», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «LLMs each trading $100K vs. a frozen rulebook – the rulebook leads», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://aitradingcompetition.com/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49330386",
+    "createdAt": "2026-08-17T13:37:02.440Z"
+  },
+  {
+    "slug": "sokoban-ai-solver-hn",
+    "title": "Sokoban AI Solver",
+    "shortDescription": "Проект «Sokoban AI Solver», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Sokoban AI Solver», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 10 баллов.",
+    "url": "https://mkornreich.me/projects/sokoban/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49330215",
+    "createdAt": "2026-08-17T13:37:02.440Z"
+  },
+  {
+    "slug": "an-rss-feed-for-deepswe-benchmarks-hn",
+    "title": "An RSS Feed for DeepSWE Benchmarks",
+    "shortDescription": "Hi. I check DeepSWE website ( https:&#x2F;&#x2F;deepswe.datacurve.ai&#x2F; ) regularly because their benchmark results make sense. They how…",
+    "fullDescription": "Hi. I check DeepSWE website ( https:&#x2F;&#x2F;deepswe.datacurve.ai&#x2F; ) regularly because their benchmark results make sense. They however do not offer an RSS feed, only an email newsletter. I decided to create one for my own reader, which is free for everyone else as well, as is always(?) the case for RSS: https:&#x2F;&#x2F;rss.xlit.app&#x2F;deepswe Feel free to use. Thanks.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://rss.xlit.app/deepswe",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49330174",
+    "createdAt": "2026-08-17T13:37:02.440Z"
+  },
+  {
     "slug": "dsh-read-url-github",
     "title": "dsh-read-url",
     "shortDescription": "DeepSeek Harness URL reader: fetch any page and return clean main-content text/Markdown. Auto charset (GBK/GB2312/UTF-8/Big5), token-effici…",
