@@ -1,5 +1,21 @@
 [
   {
+    "slug": "doberman-the-ai-watchdog-that-stops-claude-from-deleting-your-database-hn",
+    "title": "Doberman: The AI watchdog that stops Claude from deleting your database",
+    "shortDescription": "Landing Page: https:&#x2F;&#x2F;www.trydoberman.dev&#x2F; The Problem: AI guardrails only protect against 89% of dangerous commands. This m…",
+    "fullDescription": "Landing Page: https:&#x2F;&#x2F;www.trydoberman.dev&#x2F; The Problem: AI guardrails only protect against 89% of dangerous commands. This may seem pretty good until you think of it as a lock that lets 1 in 9 intruders in. What is Doberman: Doberman is a two layer security system wrapped around your LLM monitoring every input, output and tool call. The first layer is deterministic based on state of the art security guidelines, the second layer is dynamic, learning from your use and personal preferences. How is Doberman different: It is a dynamic two-layer security system that sits at runtime and monitors every input, output, and tool execution, adapting with you as you work.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/fu351/Doberman-Core",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49336757",
+    "createdAt": "2026-08-17T20:22:26.660Z"
+  },
+  {
     "slug": "love-hn",
     "title": "Love",
     "shortDescription": "I broke up w&#x2F; my GF yesterday; so I am making an AI-native matchmaker. This shit is all a simulation so there has to be some concrete…",
