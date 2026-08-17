@@ -1,5 +1,149 @@
 [
   {
+    "slug": "claude-caveman-ultra-github",
+    "title": "claude-caveman-ultra",
+    "shortDescription": "🪨 Make Claude Code talk like a smart caveman ~75% fewer output tokens, 100% accuracy. Auto-enabled + statusline.",
+    "fullDescription": "🪨 Make Claude Code talk like a smart caveman ~75% fewer output tokens, 100% accuracy. Auto-enabled + statusline.\n\nАвтор: Gildaciolopes. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/Gildaciolopes/claude-caveman-ultra",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "cli",
+      "developer-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1335788925",
+    "createdAt": "2026-08-17T01:04:50.812Z"
+  },
+  {
+    "slug": "vllm-recipes-github",
+    "title": "vllm-recipes",
+    "shortDescription": "Some tested vLLM recipes for running local LLM",
+    "fullDescription": "Some tested vLLM recipes for running local LLM\n\nАвтор: antonybudianto. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/antonybudianto/vllm-recipes",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "llm",
+      "vllm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1335878240",
+    "createdAt": "2026-08-17T01:04:50.812Z"
+  },
+  {
+    "slug": "dshautomatic-update-plugin-github",
+    "title": "DSH_Automatic-update-plugin",
+    "shortDescription": "自用的DSH 的更新插件",
+    "fullDescription": "自用的DSH 的更新插件\n\nАвтор: ARFCON. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/ARFCON/DSH_Automatic-update-plugin",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugin-market",
+      "dsh-plugins",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1335880024",
+    "createdAt": "2026-08-17T01:04:50.812Z"
+  },
+  {
+    "slug": "agent-os-github-2",
+    "title": "agent-os",
+    "shortDescription": "Open-source local-first task board and macOS control plane for OpenAI Codex, with MCP plugins, durable tasks, and multi-project workflows.",
+    "fullDescription": "Open-source local-first task board and macOS control plane for OpenAI Codex, with MCP plugins, durable tasks, and multi-project workflows.\n\nАвтор: andrewgolovanov. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/andrewgolovanov/agent-os",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "codex",
+      "developer-tools",
+      "mcp",
+      "skills",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1335066030",
+    "createdAt": "2026-08-17T01:04:50.812Z"
+  },
+  {
+    "slug": "distillhack-github",
+    "title": "DistillHack",
+    "shortDescription": "Probing Closed-Source Model Architectures via Implicit Representation Transfer.",
+    "fullDescription": "Probing Closed-Source Model Architectures via Implicit Representation Transfer.\n\nАвтор: mingqiancha233. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://mingqiancha233.github.io/DistillHack/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "chatgpt",
+      "deep-learning",
+      "distill",
+      "distillation",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1334674757",
+    "createdAt": "2026-08-17T01:04:50.812Z"
+  },
+  {
+    "slug": "astrbotpluginduplexcall-github",
+    "title": "astrbot_plugin_duplex_call",
+    "shortDescription": "✨ AstrBot 语音通话功能！通过后台语音服务器和火山语音实现端到端实时通话；支持 OneBot (NapCat, LLOneBot, Snowluma)等几乎所有平台",
+    "fullDescription": "✨ AstrBot 语音通话功能！通过后台语音服务器和火山语音实现端到端实时通话；支持 OneBot (NapCat, LLOneBot, Snowluma)等几乎所有平台\n\nАвтор: Fantasality. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/Fantasality/astrbot_plugin_duplex_call",
+    "category": "chatbot",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-agent",
+      "asr",
+      "astrbot",
+      "astrbot-plugin",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1335551604",
+    "createdAt": "2026-08-17T01:04:50.812Z"
+  },
+  {
+    "slug": "continuum-financial-simulations-for-diy-multimillionaires-hn",
+    "title": "Continuum – Financial simulations for DIY multimillionaires",
+    "shortDescription": "Hey HN, I&#x27;m Charles, the solo founder of Continuum ( https:&#x2F;&#x2F;continuum-app.xyz&#x2F; ). Continuum is a financial planning we…",
+    "fullDescription": "Hey HN, I&#x27;m Charles, the solo founder of Continuum ( https:&#x2F;&#x2F;continuum-app.xyz&#x2F; ). Continuum is a financial planning web app for people with 1-15M. It helps you create simulations of job offers, house purchases, and life events. Its goal is to replace human advisors that cost thousands, or even worse, take AUM fees of 1%. The MVP includes AI voice onboarding, scenario and mural creation, and 4 modules. The simulation math engine is code to ensure determinism. The LLMs don&#x27;t do any simulation math. Demo: https:&#x2F;&#x2F;youtu.be&#x2F;EDUK26Rs0cE?si=hCSdgSDkgKJt3Ni2 The biggest technical challenge has been tuning the mural generation not to hallucinate. Lot&#x27;s of weird bugs! The most fun part has been playing with the founder equity offers. I&#x27;ve modeled paper, expected value, and median exits (0). Me: Senior software engineer @Google with 10 YOE. 5 YOE at startups before joining Google. Excited to be building fast again! Looking for 10 design partners to help shape the product + roadmap. I&#x27;ll be happy to give you a demo and onboard you. 50% off the first year + VIP support. No account required for the free version. There is also a 14 day Pro trial. I will give as many demos and onboard as many users as I can. Reach out to charles@continuum-app.xyz\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://continuum-app.xyz/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49325445",
+    "createdAt": "2026-08-17T01:04:50.640Z"
+  },
+  {
     "slug": "chatgpt-and-claude-export-viewer-that-runs-locally-in-the-browser-hn",
     "title": "ChatGPT and Claude export viewer that runs locally in the browser",
     "shortDescription": "I regularly export my chats from ChatGPT and Claude as backup. There are times I wanted to quickly see what is inside them So I built this…",
