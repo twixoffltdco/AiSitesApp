@@ -1,5 +1,37 @@
 [
   {
+    "slug": "tesana-an-ai-game-engine-that-builds-quality-games-end-to-end-hn",
+    "title": "Tesana – An AI game engine that builds quality games end-to-end",
+    "shortDescription": "Hey HN! I built https:&#x2F;&#x2F;tesana.ai&#x2F;en , a game generation platform that allows anyone to create full games with graphics, gam…",
+    "fullDescription": "Hey HN! I built https:&#x2F;&#x2F;tesana.ai&#x2F;en , a game generation platform that allows anyone to create full games with graphics, game logic, and animations from a simple text prompt - without coding. Tesana has three key features 1. describe your game idea and have Tesana write a game plan for you 2. Build the game iteratively with AI, or let AI self-build the game in a build LOOP. 3) Launch the game on the web, without setting up an engine Tesana has 250 000 builders on the platform today I believe the democratization of game making is a good thing, and hopefully Tesana can help more people bring their game ideas to life. Happy to chat about the AI or dev stack behind the product. Let me know if you have any questions&#x2F;comments&#x2F;feature requests!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://tesana.ai/en",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49334754",
+    "createdAt": "2026-08-17T17:54:57.479Z"
+  },
+  {
+    "slug": "ai-text-watermarking-playground-hn",
+    "title": "AI Text Watermarking Playground",
+    "shortDescription": "Проект «AI Text Watermarking Playground», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Text Watermarking Playground», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://watermark.keito.me/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49333808",
+    "createdAt": "2026-08-17T17:54:57.480Z"
+  },
+  {
     "slug": "paper-agent-github",
     "title": "paper-agent",
     "shortDescription": "Paper Agent - 本地 AI 学术论文写作助手（Electron + FastAPI）",
