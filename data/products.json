@@ -1,5 +1,21 @@
 [
   {
+    "slug": "chatoss-a-codex-alternative-for-open-source-ai-built-on-ollama-hn",
+    "title": "ChatOSS – A Codex alternative for Open Source AI built on Ollama",
+    "shortDescription": "ChatOSS is built on Ollama. If you use Ollama, ChatOSS local works out of the box. ChatOSS is a GUI desktop app that has multiple agentic c…",
+    "fullDescription": "ChatOSS is built on Ollama. If you use Ollama, ChatOSS local works out of the box. ChatOSS is a GUI desktop app that has multiple agentic coding apps and a kanban board integrated into coding sessions. There&#x27;s also a simple way to create your own AI powered apps that can run inside of ChatOSS.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://chatoss.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49352394",
+    "createdAt": "2026-08-18T20:49:00.730Z"
+  },
+  {
     "slug": "dsh-mobile-github",
     "title": "DSH-Mobile",
     "shortDescription": "Unofficial community mobile client for the DeepSeek Harness Web UI.",
