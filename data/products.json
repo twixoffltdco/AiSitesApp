@@ -1,5 +1,43 @@
 [
   {
+    "slug": "gpu-perf-playground-github",
+    "title": "GPU-Perf-Playground",
+    "shortDescription": "GPU 性能与 AI Infra 学习项目：CUDA/Triton 算子、NCU/NSYS、vLLM/SGLang/TRT-LLM/ms-swift、PyTorch/DeepSpeed/ms-swift 训练、并行架构",
+    "fullDescription": "GPU 性能与 AI Infra 学习项目：CUDA/Triton 算子、NCU/NSYS、vLLM/SGLang/TRT-LLM/ms-swift、PyTorch/DeepSpeed/ms-swift 训练、并行架构\n\nАвтор: yanght27. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/yanght27/GPU-Perf-Playground",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "cuda",
+      "cuda-kernel",
+      "cuda-kernels",
+      "cuda-programming",
+      "cuda-toolkit",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1337432630",
+    "createdAt": "2026-08-18T03:41:21.291Z"
+  },
+  {
+    "slug": "build-beautiful-web-apps-faster-with-uisvelte-hn",
+    "title": "Build beautiful web apps faster with UiSvelte",
+    "shortDescription": "A comprehensive Svelte 5 component library that handles the complexity, so you can focus on building great products. Optimized for AI code…",
+    "fullDescription": "A comprehensive Svelte 5 component library that handles the complexity, so you can focus on building great products. Optimized for AI code generation and mobile-first design.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/sappsdev/ui-svelte",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49340621",
+    "createdAt": "2026-08-18T03:41:21.300Z"
+  },
+  {
     "slug": "investment-os-github",
     "title": "investment-os",
     "shortDescription": "Engineering-grade investment decision system: deterministic engines + a multi-agent LLM debate engine",
