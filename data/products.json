@@ -1,5 +1,37 @@
 [
   {
+    "slug": "resumeskip-automatically-tailor-your-resume-to-jobs-hn",
+    "title": "ResumeSkip – automatically tailor your resume to jobs",
+    "shortDescription": "just gonna make it simple: all job portals scan resumes with AI now, if you aren&#x27;t tailoring your resume to each posting you&#x27;re a…",
+    "fullDescription": "just gonna make it simple: all job portals scan resumes with AI now, if you aren&#x27;t tailoring your resume to each posting you&#x27;re already behind.. Some companies even use AI to interview (). You can do this yourself for free * (token cost) if you want, but you&#x27;ll have to craft a good prompt, use a good agent you have access to, and validate the outcomes over time, or have an agent build an app for you to track this. That&#x27;s the future we&#x27;re in I guess. TL;DR &#x2F; Why us? - ResumeSkip makes it easy to tailor your resume to every job posting and track application status - We have tools for validating what we are doing is working for you - you can tailor resumes to job listings based on your data, you can get personalized interview prep guidance for a job posting and your skill set, and you can generate or improve cover letters. We don&#x27;t promise they will pass any AI scanners (though we try our best to make them authentic) we do promise we do everything in our power to ground all content in your resume data itself only - no made up roles or stats. - There is a generous free tier because the end goal is to help people land jobs, but a premium feature set for those applying often or wanting to get ahead - We will be using fully anonymized data from generation and application tracking to improve the technology for everyone - the more people land jobs, the more our tool improves to help the next person applying somewhere. This is never tied to individual people, PII is stripped out, and we largely use this to fine tune our own prompts. This is opt out any time. This data will always be live at https:&#x2F;&#x2F;resumeskip.com&#x2F;resume-stats Building this because half my friend group is trying to find a new job and they&#x27;re tracking it in google sheets and seeing 90%+ rejection rates (very fast rejections too), I started digging into the reality of AI screening on job portals and got really disappointed in the state of the industry. So in short: AI screens you, you should use AI to bypass that. The future is probably going to be agents posting &amp; applying fully hands off from us, but we&#x27;re not quite there yet so this is just the start. Check out the research: https:&#x2F;&#x2F;resumeskip.com&#x2F;#research\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://resumeskip.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49354131",
+    "createdAt": "2026-08-18T23:19:02.607Z"
+  },
+  {
+    "slug": "maritime-a-platform-for-running-ai-agents-for-1-a-month-hn",
+    "title": "Maritime, a platform for running AI agents for $1 a month",
+    "shortDescription": "Hi HN, my name is Maria, and I’m a co-founder of Maritime. We started Maritime at MIT to build infrastructure for companies that need to ru…",
+    "fullDescription": "Hi HN, my name is Maria, and I’m a co-founder of Maritime. We started Maritime at MIT to build infrastructure for companies that need to run thousands of isolated AI agents for their customers. Imagine you set up an agent like OpenClaw, or a personal assistant agent with a custom framework, and want to give a separate version of it to every customer&#x2F;friend. Each customer needs their own agent running in an isolated microVM, with persistent state, secrets, triggers, and sleep&#x2F;wake behavior. Building such scalable and secure infra will take you months and will cost hundreds of thousands. Also, you still can&#x27;t vibe code the infra well. So Maritime handles that infrastructure for you. We charge $1 per agent per month, so running 100 isolated agents costs $100 a month. Maritime is designed for companies running thousands of agents, but starting today, any developer can run three agents for free forever. You can use our templates to spin up OpenClaw, Hermes, and the DeepSeek agent and keep all three for free. You can also deploy custom agents through our CLI or SDK and use Maritime as the infra provider for your stratup. You can try it at https:&#x2F;&#x2F;maritime.sh . We’d really appreciate your feedback, especially on the developer experience\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://maritime.sh",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49354052",
+    "createdAt": "2026-08-18T23:19:02.607Z"
+  },
+  {
     "slug": "keystroke-biometrics-demo-hn",
     "title": "Keystroke Biometrics Demo",
     "shortDescription": "Hi HN community, My name is Zacharie Rodière (emphasis on the accent), a recent MS ECE graduate from Georgia Tech, originally from France.…",
