@@ -1,5 +1,59 @@
 [
   {
+    "slug": "readydesign-skill-github",
+    "title": "ReadyDesign-Skill",
+    "shortDescription": "Ready to use design system for cool UI/UX with no extra slop",
+    "fullDescription": "Ready to use design system for cool UI/UX with no extra slop\n\nАвтор: ZethRise. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/ZethRise/ReadyDesign-Skill",
+    "category": "design",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "codex-skill",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1338007151",
+    "createdAt": "2026-08-18T07:35:05.173Z"
+  },
+  {
+    "slug": "i-built-an-m2m-payment-loop-where-ai-agents-pay-for-data-via-x402-hn",
+    "title": "I built an M2M payment loop where AI Agents pay for data via x402",
+    "shortDescription": "Проект «I built an M2M payment loop where AI Agents pay for data via x402», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built an M2M payment loop where AI Agents pay for data via x402», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/tianzizhiming-svg/agentbridge",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49342345",
+    "createdAt": "2026-08-18T07:35:04.941Z"
+  },
+  {
+    "slug": "aijarvi-80-free-ai-tools-for-creators-in-one-workspace-hn",
+    "title": "AiJarvi – 80 free AI tools for creators in one workspace",
+    "shortDescription": "Проект «AiJarvi – 80 free AI tools for creators in one workspace», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AiJarvi – 80 free AI tools for creators in one workspace», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://aijarvi.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49342307",
+    "createdAt": "2026-08-18T07:35:04.941Z"
+  },
+  {
     "slug": "taskuary-github",
     "title": "taskuary",
     "shortDescription": "Automate your job: local-first AI task hub. Email, Teams, Slack & reports -> one timeline -> AI triage -> your coding agents (Claude Code,…",
