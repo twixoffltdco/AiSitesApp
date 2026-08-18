@@ -1,5 +1,21 @@
 [
   {
+    "slug": "keystroke-biometrics-demo-hn",
+    "title": "Keystroke Biometrics Demo",
+    "shortDescription": "Hi HN community, My name is Zacharie Rodière (emphasis on the accent), a recent MS ECE graduate from Georgia Tech, originally from France.…",
+    "fullDescription": "Hi HN community, My name is Zacharie Rodière (emphasis on the accent), a recent MS ECE graduate from Georgia Tech, originally from France. Since my graduation, I decided to work on a startup in the field of continuous authentication and behavioral AI. The name of my company is BehavLabs. I recently released our first continuous auth demo using keystroke biometrics. The model is trained on mostly open-access data but I can&#x27;t much discuss the model architecture here (if any ML engineers want to discuss it privately feel free to reach out). The demo consists of two modes: a two-player mode where two people face off and the model tries to guess if the people are different or the same, and a 3+ player mode with &#x27;compare&#x27; and &#x27;detect&#x27; modalities. In compare mode you get a similarity matrix showing the model&#x27;s similarity score for each user pair. In detect mode, each user types a prompted excerpt, then one of the n users types a final prompt, and the model tries to guess who typed the final prompt. I&#x27;d say the model works pretty well even if we&#x27;re not at 100% accuracy yet. I&#x27;d love y&#x27;alls feedback on it, whether it&#x27;s about the ML, UI or security front.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://demo.behavlabs.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49353290",
+    "createdAt": "2026-08-18T22:19:42.592Z"
+  },
+  {
     "slug": "descript-activator-github",
     "title": "descript-activator",
     "shortDescription": "Activate Descript Creator or Enterprise plan for free. Unlocks AI transcription, overdub voice cloning, and unlimited filler word removal.",
