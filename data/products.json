@@ -1,5 +1,25 @@
 [
   {
+    "slug": "lieflat-ai-knowledge-base-github",
+    "title": "lieflat-ai-knowledge-base",
+    "shortDescription": "躺在废墟里 AI 知识库：每周 4 次 GitHub 热点项目播报，已累计 100+ 篇",
+    "fullDescription": "躺在废墟里 AI 知识库：每周 4 次 GitHub 热点项目播报，已累计 100+ 篇\n\nАвтор: larashero3-dotcom. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://moxt.ai/w/jjkaatvr/b9ccdab1-8b96-4c6c-a6f2-d71005e7c9a7",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "chinese",
+      "github-trending",
+      "knowledge-base",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1337185508",
+    "createdAt": "2026-08-18T17:54:22.841Z"
+  },
+  {
     "slug": "wirbel-github",
     "title": "wirbel",
     "shortDescription": "Render Strudel (strudel.cc) patterns to audio from the command line.",
