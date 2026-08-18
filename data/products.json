@@ -1,5 +1,71 @@
 [
   {
+    "slug": "investment-os-github",
+    "title": "investment-os",
+    "shortDescription": "Engineering-grade investment decision system: deterministic engines + a multi-agent LLM debate engine",
+    "fullDescription": "Engineering-grade investment decision system: deterministic engines + a multi-agent LLM debate engine\n\nАвтор: edge2012. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/edge2012/investment-os",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "deepseek",
+      "investment",
+      "llm",
+      "multi-agent",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1335563469",
+    "createdAt": "2026-08-18T02:34:35.370Z"
+  },
+  {
+    "slug": "dsh-plugin-toolbox-github",
+    "title": "dsh-plugin-toolbox",
+    "shortDescription": "DeepSeek Harness Web GUI 工具箱插件：打开工作区目录并置顶会话。",
+    "fullDescription": "DeepSeek Harness Web GUI 工具箱插件：打开工作区目录并置顶会话。\n\nАвтор: c-ling. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/c-ling/dsh-plugin-toolbox#readme",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "cordis",
+      "deepseek",
+      "deepseek-ai",
+      "deepseek-harness",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1336079560",
+    "createdAt": "2026-08-18T02:34:35.370Z"
+  },
+  {
+    "slug": "dsh-plugin-vision-bridge-github",
+    "title": "dsh-plugin-vision-bridge",
+    "shortDescription": "DeepSeek Harness 视觉桥接插件：上传/粘贴图片，通过 OpenAI 兼容视觉 API 生成英文描述，再交给纯文本模型。",
+    "fullDescription": "DeepSeek Harness 视觉桥接插件：上传/粘贴图片，通过 OpenAI 兼容视觉 API 生成英文描述，再交给纯文本模型。\n\nАвтор: c-ling. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/c-ling/dsh-plugin-vision-bridge#readme",
+    "category": "developer",
+    "tags": [
+      "agent",
+      "ai",
+      "attachment",
+      "chat",
+      "cordis",
+      "deepseek",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1337048348",
+    "createdAt": "2026-08-18T02:34:35.370Z"
+  },
+  {
     "slug": "academic-advisor-github",
     "title": "academic-advisor",
     "shortDescription": "Academic advising system for Universities-- student portal, advisory console, and faculty console",
