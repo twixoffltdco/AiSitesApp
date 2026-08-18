@@ -1,5 +1,27 @@
 [
   {
+    "slug": "taskuary-github",
+    "title": "taskuary",
+    "shortDescription": "Automate your job: local-first AI task hub. Email, Teams, Slack & reports -> one timeline -> AI triage -> your coding agents (Claude Code,…",
+    "fullDescription": "Automate your job: local-first AI task hub. Email, Teams, Slack & reports -> one timeline -> AI triage -> your coding agents (Claude Code, Codex, Gemini) do the work, you approve.\n\nАвтор: ldbumble. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/ldbumble/taskuary",
+    "category": "developer",
+    "tags": [
+      "agentic-workflow",
+      "ai",
+      "ai-agents",
+      "automation",
+      "claude",
+      "claude-code",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1337168270",
+    "createdAt": "2026-08-18T05:25:12.933Z"
+  },
+  {
     "slug": "gpu-perf-playground-github",
     "title": "GPU-Perf-Playground",
     "shortDescription": "GPU 性能与 AI Infra 学习项目：CUDA/Triton 算子、NCU/NSYS、vLLM/SGLang/TRT-LLM/ms-swift、PyTorch/DeepSpeed/ms-swift 训练、并行架构",
