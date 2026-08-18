@@ -1,5 +1,53 @@
 [
   {
+    "slug": "deft-writing-an-ai-lab-for-non-slop-llms-hn",
+    "title": "Deft Writing, an AI lab for non-slop LLMs",
+    "shortDescription": "Announcing Deft, a new AI lab for better writing Currently, 86% of user queries are fully human according to pangram. This is still a small…",
+    "fullDescription": "Announcing Deft, a new AI lab for better writing Currently, 86% of user queries are fully human according to pangram. This is still a small beta model and it might make mistakes. We are launching our public beta now to get more feedback before scaling up. Tips for better performance: - Add more details to your prompt. If you just provide a short sentence prompt, it will likely get detected as AI. - Try changing the style in &quot;advanced options&quot; - Deft currently works better for some use cases like Analysis&#x2F;Essays, Creative writing, and Rewrites. It works less well for Marketing copy and news articles. Our main goal is better writing, fooling AI detectors is just a side effect. Here&#x27;s the launch announcement the Deft model wrote for itself: Introducing Deft Writing We are proud to announce the launch of our new startup, Deft Writing. Having spent many years in the trenches with other Large Language Models (LLMs), we were continually hampered by poor writing. We believe writing well is hard. So we&#x27;re making it easier for you to share your ideas, and by doing so make those ideas more readable for those who have to read them. Deft Writing saves you time writing and allows you to focus on your ideas. We&#x27;ve developed a new training algorithm for models called Distribution Fine Tuning (DFT) that makes model outputs more human-like. Many other LLMs produce outputs riddled with overused &quot;slop&quot; phrases. DFT discourages this bad behavior. Our current offerings: * Our beta model is available for you to try out. * We also provide API access to the model. * For larger enterprises that want a model in their own unique style, we can train a custom model on your data to your specifications. Go check us out at www.deftwriting.com and try it out.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://deftwriting.com",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49350362",
+    "createdAt": "2026-08-18T18:33:33.734Z"
+  },
+  {
+    "slug": "clad9-ai-wardrobe-app-that-dresses-you-from-your-own-closet-hn",
+    "title": "Clad9 – AI wardrobe app that dresses you from your own closet",
+    "shortDescription": "Проект «Clad9 – AI wardrobe app that dresses you from your own closet», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Clad9 – AI wardrobe app that dresses you from your own closet», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://clad9.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49350289",
+    "createdAt": "2026-08-18T18:33:33.735Z"
+  },
+  {
+    "slug": "vibezcheck-a16-give-your-money-a-mind-today-hn",
+    "title": "VibezCheck (a16) – Give your money a mind, Today",
+    "shortDescription": "Vibezcheck, The wallet that come with a card and an AI to looks out for your money.",
+    "fullDescription": "Vibezcheck, The wallet that come with a card and an AI to looks out for your money.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.vibezcheck.xyz/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49350079",
+    "createdAt": "2026-08-18T18:33:33.735Z"
+  },
+  {
     "slug": "lieflat-ai-knowledge-base-github",
     "title": "lieflat-ai-knowledge-base",
     "shortDescription": "躺在废墟里 AI 知识库：每周 4 次 GitHub 热点项目播报，已累计 100+ 篇",
