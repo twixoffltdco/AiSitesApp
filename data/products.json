@@ -1,5 +1,75 @@
 [
   {
+    "slug": "wirbel-github",
+    "title": "wirbel",
+    "shortDescription": "Render Strudel (strudel.cc) patterns to audio from the command line.",
+    "fullDescription": "Render Strudel (strudel.cc) patterns to audio from the command line.\n\nАвтор: dehenne. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/dehenne/wirbel",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "audio",
+      "cli",
+      "ffmpeg",
+      "generative-music",
+      "linux",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1337971871",
+    "createdAt": "2026-08-18T16:32:00.315Z"
+  },
+  {
+    "slug": "pgdisorder-shuffle-or-reverse-unordered-select-results-hn",
+    "title": "Pg_disorder – shuffle or reverse unordered SELECT results",
+    "shortDescription": "Hey HN! I&#x27;m interested in chaos engineering, automatically detecting flaky tests, and, more generally, building tools that can find&#x…",
+    "fullDescription": "Hey HN! I&#x27;m interested in chaos engineering, automatically detecting flaky tests, and, more generally, building tools that can find&#x2F;trigger invalid states in software systems. My latest experiment is pg_disorder, a PostgreSQL extension that automatically shuffles (or reverses) the results of `SELECT` queries without an `ORDER BY` clause. While the order of rows isn&#x27;t specified, applications (sometimes) implicitly assume that rows will be returned in insertion order. The project was initially aimed at finding flaky tests, but it also helped uncover bugs in projects like Gitea and Rails (see references in the repo). Some DBMSs have this feature built-in, e.g. SQLite&#x27;s `reverse_unordered_selects` pragma, but PostgreSQL doesn&#x27;t. I&#x27;d love to hear your thoughts and feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/viralpraxis/pg_disorder",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49348032",
+    "createdAt": "2026-08-18T16:32:00.157Z"
+  },
+  {
+    "slug": "perf-collection-of-performance-testing-tools-hn",
+    "title": "Perf – collection of performance testing tools",
+    "shortDescription": "Collection of various performance testing tools",
+    "fullDescription": "Collection of various performance testing tools\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://perf.jmeter.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49348008",
+    "createdAt": "2026-08-18T16:32:00.157Z"
+  },
+  {
+    "slug": "ai-games-prompt-atlas-a-map-of-the-games-people-ask-to-build-hn",
+    "title": "AI Games Prompt Atlas: a map of the games people ask to build",
+    "shortDescription": "Проект «AI Games Prompt Atlas: a map of the games people ask to build», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Games Prompt Atlas: a map of the games people ask to build», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://rosebud.ai/prompt-atlas",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49347728",
+    "createdAt": "2026-08-18T16:32:00.157Z"
+  },
+  {
     "slug": "drx-operator-github",
     "title": "DRX-Operator",
     "shortDescription": "AI-проект с GitHub без описания.",
