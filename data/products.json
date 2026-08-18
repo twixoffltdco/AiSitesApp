@@ -1,5 +1,37 @@
 [
   {
+    "slug": "sealed-evidence-record-of-an-ai-agent-run-broken-twice-credited-hn",
+    "title": "Sealed evidence record of an AI agent run – broken twice, credited",
+    "shortDescription": "Проект «Sealed evidence record of an AI agent run – broken twice, credited», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Sealed evidence record of an AI agent run – broken twice, credited», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/cjchanh/aaap-challenge",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49350964",
+    "createdAt": "2026-08-18T19:24:53.094Z"
+  },
+  {
+    "slug": "pantheongpu-gpu-health-testing-and-ai-workload-benchmarking-hn",
+    "title": "PantheonGPU – GPU health testing and AI workload benchmarking",
+    "shortDescription": "Hi HN, I built PantheonGPU because I wanted a better way to answer a simple question: is this GPU actually healthy and performing the way i…",
+    "fullDescription": "Hi HN, I built PantheonGPU because I wanted a better way to answer a simple question: is this GPU actually healthy and performing the way it should? A GPU can show normal temperatures and utilization and still be underperforming, unstable under certain workloads, or have memory, PCIe, or configuration issues. PantheonGPU actively tests the GPU instead of only monitoring telemetry. It currently includes 45+ tests covering compute, tensor workloads, memory, cache, PCIe, thermals, stability, and AI&#x2F;LLM inference. It supports both NVIDIA CUDA and AMD ROCm. I’m also exploring a larger use case: running Pantheon across GPU fleets to identify individual GPUs that behave differently from the rest of a server or cluster. I’d especially appreciate feedback from people running AI infrastructure, multi-GPU systems, local LLMs, or GPU clouds.\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://pantheongpu.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49350637",
+    "createdAt": "2026-08-18T19:24:53.094Z"
+  },
+  {
     "slug": "deft-writing-an-ai-lab-for-non-slop-llms-hn",
     "title": "Deft Writing, an AI lab for non-slop LLMs",
     "shortDescription": "Announcing Deft, a new AI lab for better writing Currently, 86% of user queries are fully human according to pangram. This is still a small…",
