@@ -1,5 +1,137 @@
 [
   {
+    "slug": "academic-advisor-github",
+    "title": "academic-advisor",
+    "shortDescription": "Academic advising system for Universities-- student portal, advisory console, and faculty console",
+    "fullDescription": "Academic advising system for Universities-- student portal, advisory console, and faculty console\n\nАвтор: 5636mohamed. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://5636mohamed.github.io/academic-advisor/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "education",
+      "express",
+      "linear-regression",
+      "nodejs",
+      "npm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1335877940",
+    "createdAt": "2026-08-18T01:02:59.018Z"
+  },
+  {
+    "slug": "gaussmeridian-github",
+    "title": "gaussmeridian",
+    "shortDescription": "Self-hosted LLM gateway and router with an OpenAI-compatible API. Route requests across OpenAI, Anthropic, Google Gemini and local models,…",
+    "fullDescription": "Self-hosted LLM gateway and router with an OpenAI-compatible API. Route requests across OpenAI, Anthropic, Google Gemini and local models, with a web console for API keys, projects, budgets and usage. Rust, Docker, AGPL-3.0.\n\nАвтор: Gaussian-id. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://hub.docker.com/r/gaussianid/gaussmeridian",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-gateway",
+      "anthropic",
+      "api-gateway",
+      "byok",
+      "chatgpt",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1335517357",
+    "createdAt": "2026-08-18T01:02:59.018Z"
+  },
+  {
+    "slug": "artificial-stupidity-github",
+    "title": "artificial-stupidity",
+    "shortDescription": "Artificial Stupidity - An AI that speaks perfect English and is wrong about everything.",
+    "fullDescription": "Artificial Stupidity - An AI that speaks perfect English and is wrong about everything.\n\nАвтор: ayushmaninbox. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://artificial-stupidity.vercel.app",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "chatgpt",
+      "claude-code",
+      "huggingface",
+      "huggingface-datasets",
+      "huggingface-models",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1336661284",
+    "createdAt": "2026-08-18T01:02:59.019Z"
+  },
+  {
+    "slug": "modeloop-github",
+    "title": "modeloop",
+    "shortDescription": "A multi-provider AI routing and fallback library",
+    "fullDescription": "A multi-provider AI routing and fallback library\n\nАвтор: athulweb. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://modeloop.vercel.app",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-router",
+      "groq-api",
+      "huggingface",
+      "llm",
+      "openrouter-api",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1335957572",
+    "createdAt": "2026-08-18T01:02:59.019Z"
+  },
+  {
+    "slug": "aweshare-github",
+    "title": "aweshare",
+    "shortDescription": "Open-source, local-first AI capability relay — share local/authorized Ollama/vLLM/OpenAI/Anthropic backends through a reverse tunnel; upstr…",
+    "fullDescription": "Open-source, local-first AI capability relay — share local/authorized Ollama/vLLM/OpenAI/Anthropic backends through a reverse tunnel; upstream keys never leave the producer's machine\n\nАвтор: mugpeng. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/mugpeng/aweshare",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "anthropic",
+      "api-gateway",
+      "claude",
+      "local-first",
+      "ollama",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1335525735",
+    "createdAt": "2026-08-18T01:02:59.019Z"
+  },
+  {
+    "slug": "mugil-ide-github",
+    "title": "mugil-ide",
+    "shortDescription": "Token-efficient autonomous AI IDE — a browser-based coding agent with an xterm.js terminal, smart caching, automatic model routing, and MCP…",
+    "fullDescription": "Token-efficient autonomous AI IDE — a browser-based coding agent with an xterm.js terminal, smart caching, automatic model routing, and MCP tooling. Minimizes token cost while maximizing AI productivity.\n\nАвтор: auarunkumar1. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/auarunkumar1/mugil-ide",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "ai-coding",
+      "coding-agent",
+      "ide",
+      "llm",
+      "token-efficiency",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1336804353",
+    "createdAt": "2026-08-18T01:02:59.019Z"
+  },
+  {
     "slug": "a-multiplayer-coding-environment-for-dev-teams-and-agents-hn",
     "title": "A multiplayer coding environment for dev teams and agents",
     "shortDescription": "As a hardcore programmer, I used to attend lots of hackathons, and collaboration was always a huge headache. Especially when everyone on th…",
