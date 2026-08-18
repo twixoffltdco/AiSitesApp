@@ -1,5 +1,139 @@
 [
   {
+    "slug": "infinitedsh-github",
+    "title": "InfiniteDSH",
+    "shortDescription": "一会话，一扇门，一界命数。诸天万界DSH：DeepSeek Harness 上的文字修罗场。十九扇门点封面启程，不助手不提纲只写正文；誊出来的，是你活过的天书。",
+    "fullDescription": "一会话，一扇门，一界命数。诸天万界DSH：DeepSeek Harness 上的文字修罗场。十九扇门点封面启程，不助手不提纲只写正文；誊出来的，是你活过的天书。\n\nАвтор: vdnight89. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/vdnight89/InfiniteDSH#readme",
+    "category": "writing",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-writing",
+      "chinese",
+      "cordis",
+      "cordis-plugin",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1335706416",
+    "createdAt": "2026-08-18T13:39:45.424Z"
+  },
+  {
+    "slug": "i-wrapped-ios-27s-on-device-ai-into-an-offline-live-captioning-app-hn",
+    "title": "I wrapped iOS 27's on-device AI into an offline live captioning app",
+    "shortDescription": "Проект «I wrapped iOS 27's on-device AI into an offline live captioning app», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I wrapped iOS 27's on-device AI into an offline live captioning app», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://testflight.apple.com/join/pQKnQgZZ",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49345398",
+    "createdAt": "2026-08-18T13:39:45.351Z"
+  },
+  {
+    "slug": "i-canceled-my-ai-code-reviewer-and-wrote-a-free-local-one-hn",
+    "title": "I canceled my AI code reviewer and wrote a free local one",
+    "shortDescription": "Проект «I canceled my AI code reviewer and wrote a free local one», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I canceled my AI code reviewer and wrote a free local one», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/mukundzha/avouch",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49345154",
+    "createdAt": "2026-08-18T13:39:45.351Z"
+  },
+  {
+    "slug": "ninethirtyai-a-us-equity-research-and-analysis-platform-hn",
+    "title": "NinethirtyAI – A US equity research and analysis platform",
+    "shortDescription": "Hi HN - I&#x27;m Yashu and I&#x27;ve been building Ninethirty for a while. The problem: I do my own research, and a variety of tabs open fo…",
+    "fullDescription": "Hi HN - I&#x27;m Yashu and I&#x27;ve been building Ninethirty for a while. The problem: I do my own research, and a variety of tabs open for screening, charts, financials and so on; and then a chat window where I&#x27;d paste numbers for an LLM to reason and analyse them. We built NineThirty to solve a bunch of these problems - * A screener that goes deep and is genuinely customizable - fundamental, technical, news, and event criteria in the same query, not three separate tools. Besides, the problem does not end with screening - (almost) instantly backtest to understand historically what stocks have come up on the screen and their performance. * Company financials, sector views, heatmaps, events, seasonality, etc. the usual stuff * An AI assistant (Dr Market) that sits on top of this curated, processed data layer. Use it to validate a setup and it&#x27;s working from the actual real time technical indicators, not a plausible-sounding reconstruction. This doesn&#x27;t eliminate hallucinations. The hope is that when Dr. Market gets something wrong, it&#x27;s interpreting the data badly rather than making up the data itself (or citing the wrong sources). Where it&#x27;s early: coverage is US equities, and there are rough edges I know about and probably a few I don&#x27;t. It analyzes; it doesn&#x27;t give recommendations, and it&#x27;s not advice. Free while I figure out what it costs to run and what&#x27;s actually worth paying for. What I&#x27;d most like from HN is to try to break Dr. Market? Ask it something where you already know the answer and tell me where it&#x27;s wrong. And if the screener can&#x27;t express a screen you actually want to run, that&#x27;s the feedback I want most. Thanks!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://ninethirty.ai/drmarket/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49345117",
+    "createdAt": "2026-08-18T13:39:45.351Z"
+  },
+  {
+    "slug": "physiclaw-an-ai-agent-that-physically-operates-an-iphone-hn",
+    "title": "PhysiClaw – an AI agent that physically operates an iPhone",
+    "shortDescription": "Проект «PhysiClaw – an AI agent that physically operates an iPhone», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «PhysiClaw – an AI agent that physically operates an iPhone», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/physiclaw/PhysiClaw",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49345058",
+    "createdAt": "2026-08-18T13:39:45.351Z"
+  },
+  {
+    "slug": "engrava-a-local-graph-memory-database-for-ai-agents-sqlite-mit-hn",
+    "title": "Engrava – a local graph memory database for AI agents (SQLite, MIT)",
+    "shortDescription": "Проект «Engrava – a local graph memory database for AI agents (SQLite, MIT)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Engrava – a local graph memory database for AI agents (SQLite, MIT)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/sovantica/engrava",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49345004",
+    "createdAt": "2026-08-18T13:39:45.351Z"
+  },
+  {
+    "slug": "krystal-loop-protocola-bounded-workercritic-loop-for-ai-coding-agents-hn",
+    "title": "Krystal Loop Protocol–a bounded worker/critic loop for AI coding agents",
+    "shortDescription": "Проект «Krystal Loop Protocol–a bounded worker/critic loop for AI coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Krystal Loop Protocol–a bounded worker/critic loop for AI coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/KrystalUnity/krystal-loop-protocol",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49344975",
+    "createdAt": "2026-08-18T13:39:45.351Z"
+  },
+  {
+    "slug": "ai-tool-to-correct-tiktoks-matcha-filter-in-under-30s-hn",
+    "title": "AI tool to correct TikTok's Matcha filter in under 30s",
+    "shortDescription": "Проект «AI tool to correct TikTok's Matcha filter in under 30s», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI tool to correct TikTok's Matcha filter in under 30s», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://matchafilterremover.site/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49344968",
+    "createdAt": "2026-08-18T13:39:45.351Z"
+  },
+  {
     "slug": "ai-resume-optimization-tool-for-specific-job-positions-hn",
     "title": "AI Resume Optimization Tool for Specific Job Positions",
     "shortDescription": "Hi HN, I&#x27;ve been watching everyone&#x27;s presentations as an observer, and today I can finally showcase my product! It helps users: -…",
