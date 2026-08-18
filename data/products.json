@@ -1,5 +1,27 @@
 [
   {
+    "slug": "dsh-mobile-github",
+    "title": "DSH-Mobile",
+    "shortDescription": "Unofficial community mobile client for the DeepSeek Harness Web UI.",
+    "fullDescription": "Unofficial community mobile client for the DeepSeek Harness Web UI.\n\nАвтор: SimonMedy. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/SimonMedy/DSH-Mobile",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "android",
+      "deepseek",
+      "deepseek-ai",
+      "deepseek-harness",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1337349380",
+    "createdAt": "2026-08-18T20:19:31.842Z"
+  },
+  {
     "slug": "sealed-evidence-record-of-an-ai-agent-run-broken-twice-credited-hn",
     "title": "Sealed evidence record of an AI agent run – broken twice, credited",
     "shortDescription": "Проект «Sealed evidence record of an AI agent run – broken twice, credited», опубликован сообществом Hacker News.",
