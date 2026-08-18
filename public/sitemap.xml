@@ -6,6 +6,18 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://aisitesapp.tatnet.app/products/drx-operator-github</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aisitesapp.tatnet.app/products/pharos-a-package-manager-for-mcp-servers-like-npm-but-for-mcp-hn</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://aisitesapp.tatnet.app/products/turnkeeper-fair-explainable-team-rotations-for-slack-no-ai-hn</loc>
     <lastmod>2026-08-18</lastmod>
     <changefreq>weekly</changefreq>
