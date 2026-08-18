@@ -1,5 +1,59 @@
 [
   {
+    "slug": "ai-demos-github",
+    "title": "ai-demos",
+    "shortDescription": "Open-source AI demos you can understand, run, and remix — small, reproducible builds for vision, multimodal models, local or hosted inferen…",
+    "fullDescription": "Open-source AI demos you can understand, run, and remix — small, reproducible builds for vision, multimodal models, local or hosted inference, and more.\n\nАвтор: maziyarpanahi. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/maziyarpanahi/ai-demos",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-demos",
+      "artificial-intelligence",
+      "computer-vision",
+      "examples",
+      "generative-ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1338166960",
+    "createdAt": "2026-08-18T14:30:21.935Z"
+  },
+  {
+    "slug": "a-static-personal-site-with-post-quantum-signed-and-encrypted-urls-hn",
+    "title": "A static personal site with post-quantum signed and encrypted URLs",
+    "shortDescription": "Hi everyone!! I made my own personal static website inspired by my friend&#x27;s Carrd. I ended up implementing a browser-native post-quant…",
+    "fullDescription": "Hi everyone!! I made my own personal static website inspired by my friend&#x27;s Carrd. I ended up implementing a browser-native post-quantum PGP-like system: signed and encrypted messages are carried directly in URL hash fragments, so the user does not need any accounts, specialized software, or key uploads. Once installed as a PWA, verification and decryption can run fully offline; the only thing that needs to reach the device is the URL itself. Clicking a link with a signed message automatically verifies the signature against the site’s pinned public key. For encrypted messages, clicking the link and entering the passphrase unlocks the payload. I have tested the functionality from an iPad Air 2 to a Ryzen 9 9950X. I chose UOV and Classic McEliece because both schemes have very large public keys but tiny transmitted payloads. The site hosts the public keys as static binary assets, so the large keys do not increase the size of each shared message link. UOV adds a 96-byte signature, while Classic McEliece adds a 96-byte KEM ciphertext; the remaining URL size is mostly the compressed message itself and symmetric-encryption overhead. Additionally, I implemented a signed theme feature inspired by Owala. As my website only uses 5 color hexes total, I can sign official colorways with UOV and encode the signed colorway directly into a URL that verifies and applies it in one click. Anyone can edit the theme locally, but they cannot distribute a modified colorway as one of my official themes because diaryof.me verifies the UOV signature against my pinned public key before applying it. Schemes used: Symmetric encryption: XChaCha20-Poly1305-SIV (libsodium) Password KDF: Argon2id (libsodium) KEM: Classic McEliece 348864f Signatures: UOV-pkc-Is This is my personal diary, and I dedicate it to my irl best friend. I&#x27;d love to hear any feedback. Enjoy!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://diaryof.me/tools/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49345687",
+    "createdAt": "2026-08-18T14:30:17.505Z"
+  },
+  {
+    "slug": "a-stupid-simple-way-to-manage-and-publish-any-ai-agents-artifacts-hn",
+    "title": "A stupid simple way to manage and publish ANY AI agents artifacts",
+    "shortDescription": "DocStash. The home for what your AI makes. Built this entirely solo. You can stash HTML, Markdown, PDF, Word, XLSX and Static apps built on…",
+    "fullDescription": "DocStash. The home for what your AI makes. Built this entirely solo. You can stash HTML, Markdown, PDF, Word, XLSX and Static apps built on React, Vue etc directly from your agent. You get a single stable URL, and all your artifacts live as webpages. Unlike Netlify and other drag and drop hosts, your artifacts are private by default, and you can publish them with one click. (And search indexing is off by default too) Basically like Google Drive and Vercel made sweet love to each other and had a baby. It&#x27;s completely agent agnostic, which means you can easily iterate on any document, no matter what agent originally generated it. Simply copy paste the URL of the document, paste it into any agent, ask it to make changes, and they land at the same url. If you&#x27;re wondering how this is any different than Claude&#x2F;OpenAI Artifacts, here you go! https:&#x2F;&#x2F;docstash.ai&#x2F;#compare Check it out and lmk what you guys think! Get Stashing y&#x27;all!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://docstash.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49345615",
+    "createdAt": "2026-08-18T14:30:17.506Z"
+  },
+  {
     "slug": "infinitedsh-github",
     "title": "InfiniteDSH",
     "shortDescription": "一会话，一扇门，一界命数。诸天万界DSH：DeepSeek Harness 上的文字修罗场。十九扇门点封面启程，不助手不提纲只写正文；誊出来的，是你活过的天书。",
