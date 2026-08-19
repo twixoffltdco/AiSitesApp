@@ -1,5 +1,27 @@
 [
   {
+    "slug": "mindustry-logic-scripts-github",
+    "title": "mindustry-logic-scripts",
+    "shortDescription": "Pre-built Mindustry logic processor scripts for auto-defense, resource routing, unit AI, and display readouts. Copy-paste into any logic pr…",
+    "fullDescription": "Pre-built Mindustry logic processor scripts for auto-defense, resource routing, unit AI, and display readouts. Copy-paste into any logic processor block.\n\nАвтор: weakstylus. Найдено в GitHub Trending (AI-тематика). ⭐ 19 звёзд.",
+    "url": "https://github.com/weakstylus/mindustry-logic-scripts",
+    "category": "ai-tool",
+    "tags": [
+      "2026",
+      "ai",
+      "auto",
+      "defense",
+      "display",
+      "free",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1340051590",
+    "createdAt": "2026-08-19T23:19:33.176Z"
+  },
+  {
     "slug": "bar-ai-difficulty-2026-github",
     "title": "bar-ai-difficulty-2026",
     "shortDescription": "Enhanced AI scripts for Beyond All Reason that create a significantly stronger computer opponent. Improved build orders, attack timing, and…",
