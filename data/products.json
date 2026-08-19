@@ -1,5 +1,21 @@
 [
   {
+    "slug": "notula-where-humans-edit-the-markdown-your-ai-agents-read-hn",
+    "title": "Notula – where humans edit the Markdown your AI agents read",
+    "shortDescription": "Проект «Notula – where humans edit the Markdown your AI agents read», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Notula – where humans edit the Markdown your AI agents read», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://notula.org/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49365980",
+    "createdAt": "2026-08-19T19:22:09.728Z"
+  },
+  {
     "slug": "ciya-purely-deterministic-ai-hn",
     "title": "CIYA – Purely Deterministic AI",
     "shortDescription": "Hey HN, Before we roll out our fully deterministic compiled language model (CLM), figured I&#x27;d post CIYA&#x27;s v0.02 for you to try ou…",
