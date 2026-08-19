@@ -1,5 +1,53 @@
 [
   {
+    "slug": "superprezio-sharing-and-collaboration-for-ai-generated-decks-hn",
+    "title": "Superprez.io – Sharing and Collaboration for AI-Generated Decks",
+    "shortDescription": "Hi HN, I&#x27;ve been working on Superprez.io because of something that started bothering me more and more with AI-generated presentations.…",
+    "fullDescription": "Hi HN, I&#x27;ve been working on Superprez.io because of something that started bothering me more and more with AI-generated presentations. Any AI like Claude, Cursor and ChatGPT can now generate surprisingly good decks — not just visually, but with animations, interactive elements, embedded products, maps, live polling, etc. But a lot of these presentations are ultimately treated like traditional presentations: export them to PDF or PPT and send them around. And that&#x27;s where a lot of what makes them interesting disappears. If the presentation is actually built with HTML, CSS and JS, why turn it back into a static file? That&#x27;s what we&#x27;re trying to solve with Superprez.io: a way to share and collaborate on presentations as code, through a simple URL, without the constraints of the traditional tools. The interesting part for me is that AI-generated presentations make this problem much more obvious. Once you&#x27;re generating presentations as code, there are a lot of things you can do that simply don&#x27;t translate to PPT&#x2F;PDF. Last week we released read receipts and comments, which are among the features we&#x27;re most excited about for founders. You can test it for free! Would appreciate any feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.superprez.io",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49358183",
+    "createdAt": "2026-08-19T07:35:48.162Z"
+  },
+  {
+    "slug": "open-source-extension-to-transfer-ai-chats-without-losing-context-hn",
+    "title": "Open-source extension to transfer AI chats without losing context",
+    "shortDescription": "Проект «Open-source extension to transfer AI chats without losing context», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Open-source extension to transfer AI chats without losing context», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/VC067/MoveChat",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49358171",
+    "createdAt": "2026-08-19T07:35:48.163Z"
+  },
+  {
+    "slug": "halftone-stencil-cutter-hn",
+    "title": "Halftone Stencil Cutter",
+    "shortDescription": "I felt in love with simple sprayed stencil making with my new laser engraver but shortly after I thought I could make it to the next level…",
+    "fullDescription": "I felt in love with simple sprayed stencil making with my new laser engraver but shortly after I thought I could make it to the next level and try something more elaborate. My idea was to create cardboard stencils so I can then airbrush it onto the final medium colour by colour. This isn&#x27;t anything new, there are online services that would let you to download cuts or even let it order them pre-cut. This sparked an idea of how to simplify the stencil creation process without needing to swap between different software tools - this is how the cutter had been born. It actually works, I usually need to fine tune the cutout shape so the airbrush works to my liking but otherwise it greatly improved my creative process. The UI is rather simple, it contains all the important knobs and transformations needed for the final cut. Happy cutting.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/kink80/cutter",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49357897",
+    "createdAt": "2026-08-19T07:35:48.163Z"
+  },
+  {
     "slug": "free-ai-gateway-github-2",
     "title": "free-ai-gateway",
     "shortDescription": "Enterprise-grade capability-driven AI routing engine, proxy gateway, MCP server, developer CLI, and agentic skills aggregator for 19+ free-…",
