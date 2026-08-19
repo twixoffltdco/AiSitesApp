@@ -1,5 +1,43 @@
 [
   {
+    "slug": "free-ai-gateway-github",
+    "title": "free-ai-gateway",
+    "shortDescription": "Enterprise-grade capability-driven AI routing engine, proxy gateway, MCP server, developer CLI, and agentic skills aggregator for 19+ free-…",
+    "fullDescription": "Enterprise-grade capability-driven AI routing engine, proxy gateway, MCP server, developer CLI, and agentic skills aggregator for 19+ free-tier AI providers.\n\nАвтор: zaber-dev. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://www.npmjs.com/~zaber-dev",
+    "category": "developer",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "ai-gateway",
+      "antigravity",
+      "cli",
+      "collaborate",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1337499120",
+    "createdAt": "2026-08-19T01:04:04.325Z"
+  },
+  {
+    "slug": "monityai-get-notified-when-any-website-changes-hn",
+    "title": "Monity.ai – Get notified when any website changes",
+    "shortDescription": "Проект «Monity.ai – Get notified when any website changes», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Monity.ai – Get notified when any website changes», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://apps.apple.com/pl/app/monity-ai/id6761957823",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49354833",
+    "createdAt": "2026-08-19T01:04:04.166Z"
+  },
+  {
     "slug": "resumeskip-automatically-tailor-your-resume-to-jobs-hn",
     "title": "ResumeSkip – automatically tailor your resume to jobs",
     "shortDescription": "just gonna make it simple: all job portals scan resumes with AI now, if you aren&#x27;t tailoring your resume to each posting you&#x27;re a…",
