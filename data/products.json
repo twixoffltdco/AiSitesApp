@@ -1,5 +1,21 @@
 [
   {
+    "slug": "tech-ai-product-super-aggregator-sudoreport-hn",
+    "title": "Tech / AI / Product super aggregator – SudoReport",
+    "shortDescription": "pulls from hundreds of sources to give you the most relevant info of the day. UI modelled after drudgereport",
+    "fullDescription": "pulls from hundreds of sources to give you the most relevant info of the day. UI modelled after drudgereport\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://sudoreport.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49362461",
+    "createdAt": "2026-08-19T15:03:53.116Z"
+  },
+  {
     "slug": "pack-ai-and-scientific-models-as-self-contained-boxes-hn",
     "title": "Pack AI and scientific models as self-contained boxes",
     "shortDescription": "Hi! I&#x27;ve been working on an open-source project called Scrollcase. I started this cause moving Python or ML projects between machines…",
