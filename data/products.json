@@ -1,5 +1,37 @@
 [
   {
+    "slug": "knownbase-an-mcp-server-for-persistent-ai-agent-memory-hn",
+    "title": "Knownbase, an MCP server for persistent AI agent memory",
+    "shortDescription": "Проект «Knownbase, an MCP server for persistent AI agent memory», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Knownbase, an MCP server for persistent AI agent memory», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://knownbase.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49359680",
+    "createdAt": "2026-08-19T10:54:40.381Z"
+  },
+  {
+    "slug": "chatgpt-plugin-for-deterministic-world-facts-hn",
+    "title": "ChatGPT plugin for deterministic world facts",
+    "shortDescription": "Try it in ChatGPT: @emem What has changed around this location? Or ask it something about our world. It is the perfect blend of non-determi…",
+    "fullDescription": "Try it in ChatGPT: @emem What has changed around this location? Or ask it something about our world. It is the perfect blend of non-deterministic LLM agent with a deterministic space agent. ChatGPT app&#x2F;plugin: https:&#x2F;&#x2F;chatgpt.com&#x2F;plugins&#x2F;plugin_asdk_app_6a6a0832a5908191... GitHub: https:&#x2F;&#x2F;github.com&#x2F;Vortx-AI&#x2F;emem Thanks\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://chatgpt.com/plugins/plugin_asdk_app_6a6a0832a59081918b19aec0ddf9ec77/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49359526",
+    "createdAt": "2026-08-19T10:54:40.381Z"
+  },
+  {
     "slug": "dsh-mattpocock-skills-deck-github",
     "title": "dsh-mattpocock-skills-deck",
     "shortDescription": "拨开迷雾看见终点，剩下的交给任务栏。Part the fog, see the end — the task bar handles the rest. 🎮 mattpocock/skills 的 DSH 游戏任务系统：map 拨迷雾，任务栏推进一步。A game-like…",
