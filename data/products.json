@@ -1,5 +1,43 @@
 [
   {
+    "slug": "deep-research-skill-github",
+    "title": "deep-research-skill",
+    "shortDescription": "让AI Agent 做真正会思考，有判断的深度调研，而不是会摆信息的汇总报告。一个即插即用的 skill 文件。",
+    "fullDescription": "让AI Agent 做真正会思考，有判断的深度调研，而不是会摆信息的汇总报告。一个即插即用的 skill 文件。\n\nАвтор: SeanEllyJames. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/SeanEllyJames/deep-research-skill",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "claude",
+      "claude-code",
+      "deep-research",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1338086501",
+    "createdAt": "2026-08-19T02:37:35.228Z"
+  },
+  {
+    "slug": "warp-dd-ai-that-analyzes-technology-ecosystems-in-30-seconds-hn",
+    "title": "Warp DD – AI that analyzes technology ecosystems in ~30 seconds",
+    "shortDescription": "Проект «Warp DD – AI that analyzes technology ecosystems in ~30 seconds», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Warp DD – AI that analyzes technology ecosystems in ~30 seconds», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://warpdd.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49355834",
+    "createdAt": "2026-08-19T02:37:35.031Z"
+  },
+  {
     "slug": "free-ai-gateway-github",
     "title": "free-ai-gateway",
     "shortDescription": "Enterprise-grade capability-driven AI routing engine, proxy gateway, MCP server, developer CLI, and agentic skills aggregator for 19+ free-…",
