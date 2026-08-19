@@ -1,5 +1,21 @@
 [
   {
+    "slug": "control-ai-agents-on-your-old-pc-at-home-from-any-device-anywhere-hn",
+    "title": "Control AI Agents on Your Old PC at Home from Any Device Anywhere",
+    "shortDescription": "I built Relay around a simple idea: many of us have an unused PC server at home, or a VPS dedicated to AI-assisted coding, but the coding a…",
+    "fullDescription": "I built Relay around a simple idea: many of us have an unused PC server at home, or a VPS dedicated to AI-assisted coding, but the coding agents running there are still tied to that machine’s terminal, I just don&#x27;t want to ssh&#x2F;rdp into it every single time. Relay brings Claude Code, Codex, OpenCode, and Hermes into one interface that you can access from your phone, browser, or another computer. Sessions stay alive, so you can start work on one device and continue from another. You can upload&#x2F;download files from the server, also if you are on subscription, you see your quota usage with 1 click. Your code, shell, and agent credentials remain on the backend machine. Your other devices simply become remote control surfaces. Relay is open source and MIT licensed, right now I only compiled 3 version of frontend: Android, Web, Windows, and 1 version of backend: linux. The goal is to cover all platforms, more coming soon! Love to hear what your thoughts!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/elin66alpha/Relay",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49356310",
+    "createdAt": "2026-08-19T03:43:34.732Z"
+  },
+  {
     "slug": "deep-research-skill-github",
     "title": "deep-research-skill",
     "shortDescription": "让AI Agent 做真正会思考，有判断的深度调研，而不是会摆信息的汇总报告。一个即插即用的 skill 文件。",
