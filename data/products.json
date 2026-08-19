@@ -1,5 +1,53 @@
 [
   {
+    "slug": "4bit-bridge-between-ai-and-humans-hn",
+    "title": "4bit bridge between AI and humans",
+    "shortDescription": "Проект «4bit bridge between AI and humans», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «4bit bridge between AI and humans», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/YOalphabet/YOalphabet",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49356777",
+    "createdAt": "2026-08-19T04:33:59.034Z"
+  },
+  {
+    "slug": "plugclaw-private-ai-agent-hardware-for-any-phone-or-pc-hn",
+    "title": "PlugClaw – Private AI agent hardware for any phone or PC",
+    "shortDescription": "Проект «PlugClaw – Private AI agent hardware for any phone or PC», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «PlugClaw – Private AI agent hardware for any phone or PC», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://plugos.net/plugclaw/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49356609",
+    "createdAt": "2026-08-19T04:33:59.034Z"
+  },
+  {
+    "slug": "memanto-is-a-memory-agent-hn",
+    "title": "Memanto Is a Memory Agent",
+    "shortDescription": "Проект «Memanto Is a Memory Agent», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Memanto Is a Memory Agent», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/moorcheh-ai/memanto",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49356590",
+    "createdAt": "2026-08-19T04:33:59.034Z"
+  },
+  {
     "slug": "control-ai-agents-on-your-old-pc-at-home-from-any-device-anywhere-hn",
     "title": "Control AI Agents on Your Old PC at Home from Any Device Anywhere",
     "shortDescription": "I built Relay around a simple idea: many of us have an unused PC server at home, or a VPS dedicated to AI-assisted coding, but the coding a…",
