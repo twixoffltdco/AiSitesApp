@@ -1,5 +1,59 @@
 [
   {
+    "slug": "emotion-ball-github",
+    "title": "emotion-ball",
+    "shortDescription": "Grok-style AI emotion ball - 32 expressive SVG states, ribbons, mouse gaze, dark/light themes, bilingual gallery site. | Grok bot 风格的 AI 表情…",
+    "fullDescription": "Grok-style AI emotion ball - 32 expressive SVG states, ribbons, mouse gaze, dark/light themes, bilingual gallery site. | Grok bot 风格的 AI 表情小球:32 种 SVG 表情,一个 emotionId 即可接入 AI\n\nАвтор: sam70361. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://emotion-balls.vercel.app/",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "animation",
+      "bot",
+      "chatbot",
+      "desktop-pet",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1338220660",
+    "createdAt": "2026-08-19T08:33:32.677Z"
+  },
+  {
+    "slug": "ai-pr-reviewer-built-to-stay-quiet-89-of-merged-prs-got-no-comments-hn",
+    "title": "AI PR reviewer built to stay quiet – 89% of merged PRs got no comments",
+    "shortDescription": "Проект «AI PR reviewer built to stay quiet – 89% of merged PRs got no comments», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI PR reviewer built to stay quiet – 89% of merged PRs got no comments», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Kyeom1997/pr-sage",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49358609",
+    "createdAt": "2026-08-19T08:33:32.518Z"
+  },
+  {
+    "slug": "veyra-self-evolving-ai-agent-hn",
+    "title": "Veyra - Self evolving AI agent",
+    "shortDescription": "Проект «Veyra - Self evolving AI agent», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Veyra - Self evolving AI agent», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/iondodon/veyra",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49358474",
+    "createdAt": "2026-08-19T08:33:32.518Z"
+  },
+  {
     "slug": "superprezio-sharing-and-collaboration-for-ai-generated-decks-hn",
     "title": "Superprez.io – Sharing and Collaboration for AI-Generated Decks",
     "shortDescription": "Hi HN, I&#x27;ve been working on Superprez.io because of something that started bothering me more and more with AI-generated presentations.…",
