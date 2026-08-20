@@ -1,5 +1,21 @@
 [
   {
+    "slug": "try-sequo-to-manage-your-ai-context-hn",
+    "title": "Try Sequo to manage your AI context",
+    "shortDescription": "Проект «Try Sequo to manage your AI context», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Try Sequo to manage your AI context», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://sequo.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49373103",
+    "createdAt": "2026-08-20T11:28:31.236Z"
+  },
+  {
     "slug": "nodeseek-ai-profile-github",
     "title": "nodeseek-ai-profile",
     "shortDescription": "NodeSeek 用户 AI 画像 Userscript：快速画像、深度交易分析、多用户并发、管理记录、多 AI Provider、Token 展示与图片分享。",
