@@ -1,5 +1,53 @@
 [
   {
+    "slug": "meridianph-1-automatic-ai-workjournal-for-devs-hn",
+    "title": "Meridian(PH #1) – Automatic AI Workjournal for Devs",
+    "shortDescription": "Meridian is an open-source, local-first work journal for developers. It reconstructs your day from on-screen activity and turns it into dai…",
+    "fullDescription": "Meridian is an open-source, local-first work journal for developers. It reconstructs your day from on-screen activity and turns it into daily summaries, standups, time reports, and draft project ticket updates. The goal is to reduce the time spent manually reconstructing unplanned work and writing status updates. Activity is stored in an encrypted database on your machine, and generated updates remain drafts until you review them. Meridian is MIT-licensed and currently supports integrations with Jira, Linear, GitHub, and Azure DevOps.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/Meridiona/meridian",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49378891",
+    "createdAt": "2026-08-20T19:28:23.614Z"
+  },
+  {
+    "slug": "huzzah-a-novel-approach-to-coding-with-ai-hn",
+    "title": "Huzzah – a novel approach to coding with AI",
+    "shortDescription": "Hello everyone. I&#x27;ve been working on this experimental editor called Huzzah. I&#x27;ve been working almost exclusively with coding age…",
+    "fullDescription": "Hello everyone. I&#x27;ve been working on this experimental editor called Huzzah. I&#x27;ve been working almost exclusively with coding agents since January of this year, and over the past few months I began to feel utterly exhausted by them. They&#x27;re great, but I&#x27;m finding it more and more tedious to write full sentences for every change I want. Not only that, but it seems there&#x27;s a complexity limit for codebases - beyond a certain point the agent begins confusing itself. I&#x27;d like to go back to writing code, but I don&#x27;t want to go all the way back to fully manual coding. So I&#x27;ve come up with this interaction paradigm where you: 1. write pseudocode in whatever way makes the most sense to you 2. on save, the editor synchronizes your work to real source code 3. the pseudocode is persisted alongside the generated code, making your prompt effectively a stored record of intent. It may not work for every use case, but in my initial playthroughs I&#x27;ve found it very enjoyable. Right now it&#x27;s just a proof of concept - installation instructions are here in the readme: https:&#x2F;&#x2F;github.com&#x2F;danielvaughn&#x2F;hz You can also watch a video of it in action here: https:&#x2F;&#x2F;x.com&#x2F;danielvaughn&#x2F;status&#x2F;2090456808431165715 Cheers!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.danielvaughn.dev/posts/huzzah/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49378768",
+    "createdAt": "2026-08-20T19:28:23.614Z"
+  },
+  {
+    "slug": "phntm-one-a-private-ai-assistant-appliance-that-never-phones-home-hn",
+    "title": "PHNTM One – a private AI assistant appliance that never phones home",
+    "shortDescription": "Проект «PHNTM One – a private AI assistant appliance that never phones home», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «PHNTM One – a private AI assistant appliance that never phones home», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.phntmcore.com/#what",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49377819",
+    "createdAt": "2026-08-20T19:28:23.615Z"
+  },
+  {
     "slug": "kandelo-a-posix-compatible-multi-process-wasm-kernel-for-the-browser-hn",
     "title": "Kandelo – a POSIX-compatible multi-process WASM kernel for the browser",
     "shortDescription": "Kandelo is an open-source, Wasm-based multi-process kernel that runs POSIX programs in browsers and Node.js. Kandelo is still experimental,…",
