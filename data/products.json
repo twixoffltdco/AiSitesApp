@@ -1,5 +1,37 @@
 [
   {
+    "slug": "editor-ui-toolkit-for-building-ai-writing-workflows-hn",
+    "title": "Editor UI toolkit for building AI writing workflows",
+    "shortDescription": "Проект «Editor UI toolkit for building AI writing workflows», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Editor UI toolkit for building AI writing workflows», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://imperavi.com/redactor/ai-assistant/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49372193",
+    "createdAt": "2026-08-20T09:30:45.524Z"
+  },
+  {
+    "slug": "worldarchitectai-ai-ttrpg-gm-with-rules-and-campaign-sharing-hn",
+    "title": "Worldarchitect.ai – AI TTRPG GM with rules and campaign sharing",
+    "shortDescription": "Проект «Worldarchitect.ai – AI TTRPG GM with rules and campaign sharing», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Worldarchitect.ai – AI TTRPG GM with rules and campaign sharing», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://worldarchitect.ai/shared/t3hKKtzBKCKlvg5vCnlW_2hxwH3UmzjFq56yi6hQN2Q",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49372160",
+    "createdAt": "2026-08-20T09:30:45.524Z"
+  },
+  {
     "slug": "do-over-undo-for-ai-agent-shell-commands-hn",
     "title": "Do-over, undo for AI agent shell commands",
     "shortDescription": "Hello HN, I built this after a coding agent deleted my files while tidying a project. Do-over plugs into Claude Code&#x27;s hooks and snaps…",
