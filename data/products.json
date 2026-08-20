@@ -1,5 +1,21 @@
 [
   {
+    "slug": "do-over-undo-for-ai-agent-shell-commands-hn",
+    "title": "Do-over, undo for AI agent shell commands",
+    "shortDescription": "Hello HN, I built this after a coding agent deleted my files while tidying a project. Do-over plugs into Claude Code&#x27;s hooks and snaps…",
+    "fullDescription": "Hello HN, I built this after a coding agent deleted my files while tidying a project. Do-over plugs into Claude Code&#x27;s hooks and snapshots what a command is about to touch right before it runs. I know what you&#x27;re thinking. Why don&#x27;t you just commit more often? This tool doesn&#x27;t seek to replace git. What it does is: [1] Protect the stuff git doesn&#x27;t protect: your untracked&#x2F;ignored files and files that exist outside your repo (which is how a guy lost 50GB of data - Claude code issue tracker) [2] Protects you when git itself is weaponized by your agent: git checkout ., git clean -fd, and git reset --hard (a three year old Unity project was deleted this way - Claude Code issue tracker) [3] Protects you in the case when you&#x27;re just forgetful and don&#x27;t commit It really is a simple safeguard to potential headaches. And it&#x27;s a last mile effort that secures what current measures can&#x27;t. That includes sandboxes, checkpoints, git.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/CaydenChik/doover",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49371211",
+    "createdAt": "2026-08-20T06:50:40.963Z"
+  },
+  {
     "slug": "ui-inspector-for-tauri-hn",
     "title": "UI Inspector for Tauri",
     "shortDescription": "Because AI.",
