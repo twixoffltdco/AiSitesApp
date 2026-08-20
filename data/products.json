@@ -1,5 +1,59 @@
 [
   {
+    "slug": "neurocursor-ai-github",
+    "title": "neurocursor-ai",
+    "shortDescription": "AI-powered, camera-based mouse cursor control written in C++. Turn your webcam into a hands-free pointing device — built for gaming, perfec…",
+    "fullDescription": "AI-powered, camera-based mouse cursor control written in C++. Turn your webcam into a hands-free pointing device — built for gaming, perfect for everyday use and accessibility.\n\nАвтор: stems-arraign-48. Найдено в GitHub Trending (AI-тематика). ⭐ 49 звёзд.",
+    "url": "https://neurocursor-ai.freedev.app/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "computer-vision",
+      "cplusplus",
+      "cpp",
+      "cursor-control",
+      "eye-tracking",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1341129518",
+    "createdAt": "2026-08-20T22:23:09.239Z"
+  },
+  {
+    "slug": "aristra-your-life-os-hn",
+    "title": "Aristra, your life OS",
+    "shortDescription": "Most AI cares only about the outcome users want. Aristra cares about your process. It works alongside and for you across the things you alr…",
+    "fullDescription": "Most AI cares only about the outcome users want. Aristra cares about your process. It works alongside and for you across the things you already use, learning about you and from you, day and night. What works becomes a playbook it reaches for next time. What stops being true quietly fades. How you actually get things done is the most valuable thing about you, and it&#x27;s the one thing no AI understands. One AI. One memory. Your life OS. Launch vid: https:&#x2F;&#x2F;youtu.be&#x2F;CoIKF_CKE8g?si=v5QeyHxJvITrCNAy\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aristralabs.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49381044",
+    "createdAt": "2026-08-20T22:23:09.015Z"
+  },
+  {
+    "slug": "zero-friction-local-ai-for-mac-hn",
+    "title": "Zero () friction local AI for Mac",
+    "shortDescription": "Super excited to launch our new app Local today. What we’ve learned at Base Compute over the last months is that running AI directly on you…",
+    "fullDescription": "Super excited to launch our new app Local today. What we’ve learned at Base Compute over the last months is that running AI directly on your laptop or workstation gives you maximum privacy and it’s free, but it’s also a massive headache to configure. So we’ve decided what matters is making the experience completely frictionless for users. Local analyses the hardware of your laptop, optimises the AI for it, and recommends the best models for your specific device. It let’s you do what you’re doing with cloud AI already, just for free and on your own machine: Chatting with PDF’s, Recording and summarising meetings, running coding agents... If you’re using Local in your office with colleagues, you can run it in “Office Mode”. The strongest computer in your office runs the AI and everyone can connect to it with their laptop. The data never leaves the office. It’s available for download on our website today, please try it out and let us know what you think!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.basecompute.co/local",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49380978",
+    "createdAt": "2026-08-20T22:23:09.015Z"
+  },
+  {
     "slug": "moleculedev-is-an-ai-first-composable-package-ecosystem-hn",
     "title": "Molecule.dev is an AI-first composable package ecosystem",
     "shortDescription": "Проект «Molecule.dev is an AI-first composable package ecosystem», опубликован сообществом Hacker News.",
