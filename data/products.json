@@ -1,5 +1,21 @@
 [
   {
+    "slug": "ui-inspector-for-tauri-hn",
+    "title": "UI Inspector for Tauri",
+    "shortDescription": "Because AI.",
+    "fullDescription": "Because AI.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/mathematic-inc/tauri-plugin-ui-inspector",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49370774",
+    "createdAt": "2026-08-20T05:57:32.084Z"
+  },
+  {
     "slug": "matraix-simulate-users-before-reality-surveychatwebapp-hn",
     "title": "MatrAIx – simulate users before reality (Survey/Chat/Web/App)",
     "shortDescription": "Проект «MatrAIx – simulate users before reality (Survey/Chat/Web/App)», опубликован сообществом Hacker News.",
