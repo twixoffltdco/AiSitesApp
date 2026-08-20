@@ -1,5 +1,37 @@
 [
   {
+    "slug": "ai-resume-screening-looking-for-feedback-from-recruiters-hn",
+    "title": "AI Resume Screening – Looking for feedback from recruiters",
+    "shortDescription": "In addition to the resume creation tool we mentioned in our previous post, we&#x27;ve also developed an AI-powered resume screening tool to…",
+    "fullDescription": "In addition to the resume creation tool we mentioned in our previous post, we&#x27;ve also developed an AI-powered resume screening tool to complement our overall ecosystem. This tool aims to help recruitment teams efficiently review hundreds of resumes without relying on keyword matching. This tool helps teams: - Batch upload and parse PDF resumes - Compare candidates with job descriptions - Review candidates&#x27; skills, experience, project experience, and industry fit - Provide candidate fit analysis and scoring ranges - Export results as a CSV file To better meet the requirements of the European and American markets, candidate contact information is encrypted by default when uploading data. We do not provide judgments on unsuitable or unrecommended candidates. Artificial intelligence can only be used as an aid, not a replacement for HR judgment. We oppose all forms of professional discrimination. We are currently offering Beta testing access to 100 HR professionals, recruiters, hiring managers, and technology team leaders. Beta users can enjoy: - Free use during the testing period - 1800 points per month after official launch - 35% discount on on-premises deployment services If you work in recruitment, you are welcome to participate in the trial: I would like to understand the issues with false positives, false negatives, and shortcomings in the workflow. What is the biggest pain point in your current resume screening process?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aiomniu.top/services/resume-screening",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49369678",
+    "createdAt": "2026-08-20T02:35:50.017Z"
+  },
+  {
+    "slug": "mail-client-optimized-for-self-hosted-email-across-multiple-domains-hn",
+    "title": "Mail client optimized for self-hosted email across multiple domains",
+    "shortDescription": "As someone with a clean IP range and ADHD, I manage my inbox by splitting across a variety of accounts for a variety of domains. I’ve never…",
+    "fullDescription": "As someone with a clean IP range and ADHD, I manage my inbox by splitting across a variety of accounts for a variety of domains. I’ve never really found a client that scratches all my itches, so I spent some time making one and it’s now become my daily driver. It’s optimised to be visually simple and highly configurable for things like colour, folders&#x2F;subfolders, sorting and tweaking the search query function to better match what you search for often. There’s also some little nice-to-haves like a purpose-built PWA, bulk domain onboarding, MCP and dark mode. It’s fully self-hostable, open source and free of any AI bloat&#x2F;VC fodder. Not trying to sell anything but rather make something un-shitified and simple to use, would love some feedback if you’ve given it a try! :~)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://mainly.crnst8.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49369578",
+    "createdAt": "2026-08-20T02:35:50.018Z"
+  },
+  {
     "slug": "mindustry-logic-scripts-github",
     "title": "mindustry-logic-scripts",
     "shortDescription": "Pre-built Mindustry logic processor scripts for auto-defense, resource routing, unit AI, and display readouts. Copy-paste into any logic pr…",
