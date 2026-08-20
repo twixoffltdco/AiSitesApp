@@ -1,5 +1,21 @@
 [
   {
+    "slug": "chinadesk-hn",
+    "title": "ChinaDesk",
+    "shortDescription": "This is a Techmeme&#x2F;Memeorandum providing a China-sourced news-perspective on Chinese politics and AI news that Claude built for me thi…",
+    "fullDescription": "This is a Techmeme&#x2F;Memeorandum providing a China-sourced news-perspective on Chinese politics and AI news that Claude built for me this week. It updates every morning.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://chinadesk.news/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49379504",
+    "createdAt": "2026-08-20T20:28:31.611Z"
+  },
+  {
     "slug": "astronomy-buddywhats-worth-pointing-a-telescope-at-tonight-hn",
     "title": "Astronomy Buddy–what's worth pointing a telescope at tonight",
     "shortDescription": "I wanted a simple dashboard for my TRMNL display in my entryway that told me whether it was worth taking my telescope out that night, which…",
