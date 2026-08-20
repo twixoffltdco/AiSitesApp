@@ -1,5 +1,37 @@
 [
   {
+    "slug": "fail-ci-when-your-stack-runs-end-of-life-software-hn",
+    "title": "Fail CI when your stack runs end-of-life software",
+    "shortDescription": "Проект «Fail CI when your stack runs end-of-life software», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Fail CI when your stack runs end-of-life software», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/endoflife-ai/eol-check",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49372663",
+    "createdAt": "2026-08-20T10:26:27.709Z"
+  },
+  {
+    "slug": "data-enrichment-with-ai-for-pandas-dataframe-hn",
+    "title": "Data enrichment with AI for Pandas DataFrame",
+    "shortDescription": "Проект «Data enrichment with AI for Pandas DataFrame», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Data enrichment with AI for Pandas DataFrame», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/mljar/enrichment",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49372451",
+    "createdAt": "2026-08-20T10:26:27.709Z"
+  },
+  {
     "slug": "editor-ui-toolkit-for-building-ai-writing-workflows-hn",
     "title": "Editor UI toolkit for building AI writing workflows",
     "shortDescription": "Проект «Editor UI toolkit for building AI writing workflows», опубликован сообществом Hacker News.",
