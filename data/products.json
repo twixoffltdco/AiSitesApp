@@ -1,5 +1,115 @@
 [
   {
+    "slug": "openra-skirmish-pack-2026-github",
+    "title": "openra-skirmish-pack-2026",
+    "shortDescription": "Complete OpenRA skirmish package: 50 new maps, an enhanced AI opponent, and pre-configured faction starting profiles for Red Alert, Tiberia…",
+    "fullDescription": "Complete OpenRA skirmish package: 50 new maps, an enhanced AI opponent, and pre-configured faction starting profiles for Red Alert, Tiberian Dawn, and Dune.\n\nАвтор: sweetfragra. Найдено в GitHub Trending (AI-тематика). ⭐ 18 звёзд.",
+    "url": "https://github.com/sweetfragra/openra-skirmish-pack-2026",
+    "category": "ai-tool",
+    "tags": [
+      "2026",
+      "50-maps",
+      "ai",
+      "auto-install",
+      "brutal",
+      "dune",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1340051422",
+    "createdAt": "2026-08-20T15:30:12.594Z"
+  },
+  {
+    "slug": "doom-hd-texture-pack-2026-github",
+    "title": "doom-hd-texture-pack-2026",
+    "shortDescription": "AI-upscaled 4K texture replacements for DOOM and DOOM II. Every wall, flat, sprite, and sky upscaled 4× with detail preservation. Works wit…",
+    "fullDescription": "AI-upscaled 4K texture replacements for DOOM and DOOM II. Every wall, flat, sprite, and sky upscaled 4× with detail preservation. Works with GZDoom.\n\nАвтор: anxioustag. Найдено в GitHub Trending (AI-тематика). ⭐ 18 звёзд.",
+    "url": "https://github.com/anxioustag/doom-hd-texture-pack-2026",
+    "category": "ai-tool",
+    "tags": [
+      "2026",
+      "4k",
+      "ai",
+      "brutal-doom",
+      "classic",
+      "compatible",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1340050655",
+    "createdAt": "2026-08-20T15:30:12.594Z"
+  },
+  {
+    "slug": "openra-ai-bot-2026-github",
+    "title": "openra-ai-bot-2026",
+    "shortDescription": "Enhanced AI scripts for OpenRA that create a much stronger computer opponent. The AI builds optimally, rushes efficiently, and adapts strat…",
+    "fullDescription": "Enhanced AI scripts for OpenRA that create a much stronger computer opponent. The AI builds optimally, rushes efficiently, and adapts strategy to your playstyle.\n\nАвтор: directcandle. Найдено в GitHub Trending (AI-тематика). ⭐ 18 звёзд.",
+    "url": "https://github.com/directcandle/openra-ai-bot-2026",
+    "category": "ai-tool",
+    "tags": [
+      "2026",
+      "ai",
+      "air",
+      "bot",
+      "build-order",
+      "cnc",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1340050675",
+    "createdAt": "2026-08-20T15:30:12.594Z"
+  },
+  {
+    "slug": "mybutler-github",
+    "title": "mybutler",
+    "shortDescription": "Local-first personal assistant: ask anything privately, with a self-weighting local memory.",
+    "fullDescription": "Local-first personal assistant: ask anything privately, with a self-weighting local memory.\n\nАвтор: alexcloudstar. Найдено в GitHub Trending (AI-тематика). ⭐ 16 звёзд.",
+    "url": "https://alexcloudstar.github.io/mybutler-website/",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "desktop-app",
+      "electron",
+      "local-first",
+      "macos",
+      "ollama",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1340543993",
+    "createdAt": "2026-08-20T15:30:12.594Z"
+  },
+  {
+    "slug": "dsh-plugin-hub-github",
+    "title": "dsh-plugin-hub",
+    "shortDescription": "DeepSeek Harness 社区内置插件市场（dsh-plugin）— 搜索插件、下载并安装 4000+ 人工精选社区插件，每日更新、完全免费。内置在 Harness「设置 → 插件中心」，无需离开应用即可浏览、搜索、安装各类 AI 插件。",
+    "fullDescription": "DeepSeek Harness 社区内置插件市场（dsh-plugin）— 搜索插件、下载并安装 4000+ 人工精选社区插件，每日更新、完全免费。内置在 Harness「设置 → 插件中心」，无需离开应用即可浏览、搜索、安装各类 AI 插件。\n\nАвтор: dshplugin. Найдено в GitHub Trending (AI-тематика). ⭐ 12 звёзд.",
+    "url": "https://dsh-plugin.org",
+    "category": "developer",
+    "tags": [
+      "agent",
+      "ai",
+      "cli",
+      "community-plugins",
+      "deepseek",
+      "deepseek-harness",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1340244547",
+    "createdAt": "2026-08-20T15:30:12.594Z"
+  },
+  {
     "slug": "find-every-ai-model-your-code-calls-and-warn-before-its-retired-hn",
     "title": "Find every AI model your code calls and warn before it's retired",
     "shortDescription": "Проект «Find every AI model your code calls and warn before it's retired», опубликован сообществом Hacker News.",
