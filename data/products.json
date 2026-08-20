@@ -1,5 +1,21 @@
 [
   {
+    "slug": "astronomy-buddywhats-worth-pointing-a-telescope-at-tonight-hn",
+    "title": "Astronomy Buddy–what's worth pointing a telescope at tonight",
+    "shortDescription": "I wanted a simple dashboard for my TRMNL display in my entryway that told me whether it was worth taking my telescope out that night, which…",
+    "fullDescription": "I wanted a simple dashboard for my TRMNL display in my entryway that told me whether it was worth taking my telescope out that night, which I ended up extending into a web + iOS app if anyone else finds it useful. All the apps talk to my own endpoint that consumes AstronomyAPI (current celestial body positions in our solar system), 7Timer! (cloud cover, seeing, transparency), and Open-Meteo (air quality), compares to your current location&#x2F;elevation&#x2F;equipment, and determines both a verdict on whether it&#x27;s worth stargazing tonight and what to look at if you do go out. All the logic&#x2F;strings to display are contained in my API so I can adjust if needed without re-deploying the separate front ends. Hope someone else finds it handy!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://astronomy-buddy.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49379135",
+    "createdAt": "2026-08-20T19:56:40.013Z"
+  },
+  {
     "slug": "meridianph-1-automatic-ai-workjournal-for-devs-hn",
     "title": "Meridian(PH #1) – Automatic AI Workjournal for Devs",
     "shortDescription": "Meridian is an open-source, local-first work journal for developers. It reconstructs your day from on-screen activity and turns it into dai…",
