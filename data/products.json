@@ -1,5 +1,27 @@
 [
   {
+    "slug": "nodeseek-ai-profile-github",
+    "title": "nodeseek-ai-profile",
+    "shortDescription": "NodeSeek 用户 AI 画像 Userscript：快速画像、深度交易分析、多用户并发、管理记录、多 AI Provider、Token 展示与图片分享。",
+    "fullDescription": "NodeSeek 用户 AI 画像 Userscript：快速画像、深度交易分析、多用户并发、管理记录、多 AI Provider、Token 展示与图片分享。\n\nАвтор: yellow13441. Найдено в GitHub Trending (AI-тематика). ⭐ 32 звёзд.",
+    "url": "https://github.com/yellow13441/nodeseek-ai-profile",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "deepseek",
+      "javascript",
+      "nodeseek",
+      "openai",
+      "tampermonkey",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1338745917",
+    "createdAt": "2026-08-20T10:57:24.954Z"
+  },
+  {
     "slug": "fail-ci-when-your-stack-runs-end-of-life-software-hn",
     "title": "Fail CI when your stack runs end-of-life software",
     "shortDescription": "Проект «Fail CI when your stack runs end-of-life software», опубликован сообществом Hacker News.",
