@@ -1,5 +1,37 @@
 [
   {
+    "slug": "excuse-my-french-a-french-learning-exercise-generator-hn",
+    "title": "Excuse My French – a French-learning exercise generator",
+    "shortDescription": "hi HN! Many years ago (in 2018) I wrote a simple French-learning exercise generator in Javascript for my wife. I was looking for a way to g…",
+    "fullDescription": "hi HN! Many years ago (in 2018) I wrote a simple French-learning exercise generator in Javascript for my wife. I was looking for a way to generate as many exercises as possible for her to practice. The idea was being able to generate a huge combination of sentences and being able to transform them deterministically based on French grammar rules. The generation and transformation is rule-based (no LLMs back then). For example, we generate (using rule-based) : &gt; Je mange une pomme then we ask the engine to transform it to past and replace the pronoun: &gt; Je l&#x27;ai mangée Then we compare with the user&#x27;s answer. I recently picked the project back up, thanks to AI coding tools and some free time I improved the UI, added more conventional bits (flashcards, dictation, progress tracking, etc). I kept the core of it: the rule-based sentence generator, because it allows to generate extremely fast locally and in a controlled way. I pushed this new version on the same repository : https:&#x2F;&#x2F;github.com&#x2F;Celebio&#x2F;excuse-my-french You can directly use the app here: https:&#x2F;&#x2F;excusemyfrench.org&#x2F; I hope you&#x27;ll find it useful too. Very curious about your feedback, specially the onboarding part!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://excusemyfrench.org/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49376376",
+    "createdAt": "2026-08-20T16:01:16.661Z"
+  },
+  {
+    "slug": "epho-run-claude-code-with-a-curl-hn",
+    "title": "Epho – run Claude Code with a curl",
+    "shortDescription": "Hey folks, Burak here. Epho is an API that allows running Claude Code, Codex or Opencode in a sandbox in the cloud. It abstracts away sandb…",
+    "fullDescription": "Hey folks, Burak here. Epho is an API that allows running Claude Code, Codex or Opencode in a sandbox in the cloud. It abstracts away sandboxes, and allows running coding agents with a single HTTP request. Epho came out of our own struggles with building our own AI analyst: - Sandboxes give you bare machines; you need to configure them for agentic workloads. - Each agent behaves differently, and you need to build integrations with each of them. - Sandbox providers are not very reliable, which means you need to figure out a multi-provider strategy to avoid failures. - Logging, artifacts, input&#x2F;output, event streaming, and all of the other operational aspects need to be figured out. We had to go through the pain ourselves. We got to a point where things got quite reliable, and it became more obvious to us that this should be a primitive on its own: send a POST request, get the events streaming back to you. Epho is an agents-as-an-API product: you send a request, it spins up a sandbox, configures the chosen harness, clones your repos, and kicks off the agent. It takes care of automatic fallbacks across different providers, handles auth stuff, and just streams back the events and outputs. It supports Claude Code, Codex and Opencode out of the box, and pretty much all the models they support out of the box. It streams the events back, handles attachments and output files, automatically manages the fallbacks on different sandbox providers, retries, and all the auth stuff. You just send a prompt, your repo, MCP servers you want to use with it, and it runs them. I recorded a demo here to show a real example: https:&#x2F;&#x2F;youtu.be&#x2F;HGfly1aytPA I am quite excited for Epho, simply because I think it is a new primitive that would allow building agents into product a lot easier than it is today. We are running our agents on Epho on prod, so we&#x27;ll keep maintaining it regardless, and we wanted to ship it as an independent product. Epho is free to get started, and you can run it with Opencode&#x27;s free models to get started with it. I am quite curious to hear what you&#x27;d think and would love to get your feedback. Cheers, Burak\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://epho.io",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49376256",
+    "createdAt": "2026-08-20T16:01:16.661Z"
+  },
+  {
     "slug": "openra-skirmish-pack-2026-github",
     "title": "openra-skirmish-pack-2026",
     "shortDescription": "Complete OpenRA skirmish package: 50 new maps, an enhanced AI opponent, and pre-configured faction starting profiles for Red Alert, Tiberia…",
