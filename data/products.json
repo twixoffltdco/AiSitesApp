@@ -1,5 +1,21 @@
 [
   {
+    "slug": "kandelo-a-posix-compatible-multi-process-wasm-kernel-for-the-browser-hn",
+    "title": "Kandelo – a POSIX-compatible multi-process WASM kernel for the browser",
+    "shortDescription": "Kandelo is an open-source, Wasm-based multi-process kernel that runs POSIX programs in browsers and Node.js. Kandelo is still experimental,…",
+    "fullDescription": "Kandelo is an open-source, Wasm-based multi-process kernel that runs POSIX programs in browsers and Node.js. Kandelo is still experimental, but it already runs a substantial range of existing software. Demos: Some notes: The demos have been tested in desktop browsers. Unfortunately, YMMV on mobile today. Some of the disk images are large (~50MB) and may take a while to boot initially. Main set, with Shell (bash, vim, nethack, and more), Nginx, PHP, WordPress, and Doom: Note: There&#x27;s a Node.js demo, but it is currently broken. https:&#x2F;&#x2F;kandelo.dev&#x2F;20260819-demo&#x2F; LÖVE game engine: https:&#x2F;&#x2F;kandelo.dev&#x2F;20260819-demo-love&#x2F; SNKRX running under LÖVE: https:&#x2F;&#x2F;kandelo.dev&#x2F;20260819-demo-love&#x2F;?vfs=love-snkrx-abi44... Commander Keen running in DOSBox: https:&#x2F;&#x2F;kandelo.dev&#x2F;20260819-demo-dos&#x2F;?demo=keen LXDE desktop PoC: https:&#x2F;&#x2F;kandelo.dev&#x2F;20260819-demo-lxde&#x2F;?demo=desktop-lxde Main ask: Do you have use cases for this? We are trying Kandelo as a new foundation for WordPress Playground which runs server-side WordPress entirely in the browser. Kandelo also looks promising as a sandbox for running agents in the the browser and on the command line. On the side, we&#x27;ve been playing with porting games and desktop environments and even compiling runnable programs within Kandelo. Yet it feels like there are many possibilities we haven&#x27;t considered. Is there a way you would like to use something like this? Background I wanted an authentic OS-level foundation for running systems software in the browser and started this as a vibe-coded exploration. I figured it would end up being too slow and that we would have to offer many different ways to compromise default POSIX behavior to get anything usable. But after weeks of fighting agents, insisting on genuine POSIX compatibility as the default, I was surprised at how well the system worked without those compromises. Nginx, PHP, Python, Ruby, Redis, and even MariaDB were able to be built using the SDK with minimal hacks. Then we started porting games, having fun, and playing to see how far we could push it. Notes on architecture: There is a central, single-worker kernel, aiming to provide all supportable POSIX syscalls. Each process is a dedicated worker with independent memory. Each process thread is a dedicated worker that shares memory with threads from the same process. Syscalls are done with the process SharedArrayBuffer and the Atomics API. fork() is supported. The system is centered around virtual file system (VFS) images, and the VFS can contain lazy references to programs that may or may not be used. Vim is such a reference in the shell demo. On GitHub: https:&#x2F;&#x2F;github.com&#x2F;Automattic&#x2F;kandelo\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://kandelo.dev/20260819-demo/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49378305",
+    "createdAt": "2026-08-20T18:36:07.312Z"
+  },
+  {
     "slug": "mapping-where-a-quadruped-rl-policy-fails-with-a-live-probe-hn",
     "title": "Mapping where a quadruped RL policy fails, with a live probe",
     "shortDescription": "Проект «Mapping where a quadruped RL policy fails, with a live probe», опубликован сообществом Hacker News.",
