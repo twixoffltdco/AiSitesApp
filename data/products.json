@@ -1,5 +1,53 @@
 [
   {
+    "slug": "agentsight-ebpf-observability-for-ai-agents-no-code-changes-hn",
+    "title": "AgentSight – eBPF observability for AI agents, no code changes",
+    "shortDescription": "Проект «AgentSight – eBPF observability for AI agents, no code changes», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AgentSight – eBPF observability for AI agents, no code changes», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
+    "category": "no-code",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49389493",
+    "createdAt": "2026-08-21T15:29:22.621Z"
+  },
+  {
+    "slug": "a-desktop-fly-drawn-to-the-scent-of-vibecode-hn",
+    "title": "A desktop fly drawn to the scent of vibecode",
+    "shortDescription": "It is a fork of https:&#x2F;&#x2F;github.com&#x2F;DenisSergeevitch&#x2F;desktop-fly , but with an important update. Now the fly can pick up…",
+    "fullDescription": "It is a fork of https:&#x2F;&#x2F;github.com&#x2F;DenisSergeevitch&#x2F;desktop-fly , but with an important update. Now the fly can pick up the scent of the codebase with its neurons and fly straight to the source code of your B2B AI SaaS startup. It has learned to scan its surroundings for agent markers: AGENTS.md, CLAUDE.md, .cursor&#x2F;rules, .kiro&#x2F;steering, and forty others. Anything on the screen that points to these markers becomes a source of the scent - an editor window with an open project, a line in Finder, or a desktop icon. An open project reeks the strongest, while a closed icon or nested folders give off a fainter odor.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/kulikov0/desktop-vibe-fly",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49389466",
+    "createdAt": "2026-08-21T15:29:22.621Z"
+  },
+  {
+    "slug": "mindshield-v115-local-ai-guardrails-tuned-to-reduce-false-positives-hn",
+    "title": "MindShield v1.1.5 – Local AI guardrails tuned to reduce false positives",
+    "shortDescription": "Проект «MindShield v1.1.5 – Local AI guardrails tuned to reduce false positives», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «MindShield v1.1.5 – Local AI guardrails tuned to reduce false positives», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/fluryjanis/Mind-Shield",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49389379",
+    "createdAt": "2026-08-21T15:29:22.621Z"
+  },
+  {
     "slug": "organizational-cognition-why-the-next-ai-moat-wont-be-intelligence-hn",
     "title": "Organizational Cognition: Why the Next AI Moat Won't Be Intelligence",
     "shortDescription": "Проект «Organizational Cognition: Why the Next AI Moat Won't Be Intelligence», опубликован сообществом Hacker News.",
