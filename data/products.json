@@ -1,5 +1,107 @@
 [
   {
+    "slug": "consensus-mcp-github",
+    "title": "consensus-mcp",
+    "shortDescription": "Official MCP server for Consensus. Search 220M+ peer-reviewed research papers from Claude, ChatGPT, Cursor, and any MCP client.",
+    "fullDescription": "Official MCP server for Consensus. Search 220M+ peer-reviewed research papers from Claude, ChatGPT, Cursor, and any MCP client.\n\nАвтор: Consensus-NLP. Найдено в GitHub Trending (AI-тематика). ⭐ 12 звёзд.",
+    "url": "https://mcp.consensus.app/mcp",
+    "category": "developer",
+    "tags": [
+      "academic-research",
+      "ai",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "literature-review",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1341872734",
+    "createdAt": "2026-08-21T17:00:39.170Z"
+  },
+  {
+    "slug": "proliferate-open-source-self-hostable-codex-for-any-coding-agent-hn",
+    "title": "Proliferate- open-source, self-hostable Codex for any coding agent",
+    "shortDescription": "Hi HN- I&#x27;m Pablo, the founder of Proliferate! Proliferate ( https:&#x2F;&#x2F;github.com&#x2F;proliferate-ai&#x2F;proliferate ) is an…",
+    "fullDescription": "Hi HN- I&#x27;m Pablo, the founder of Proliferate! Proliferate ( https:&#x2F;&#x2F;github.com&#x2F;proliferate-ai&#x2F;proliferate ) is an open-source, self-hostable AI IDE that lets you work and automate tasks with Claude Code, Codex, OpenCode, Cursor, and Grok in one place. Here&#x27;s a quick 2m demo of how we use Proliferate to build Proliferate: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=tGNX0oaWmBY I started building Proliferate after my team onboarded to OpenAI Codex. Within days, we were using it for everything: using computer use instead of navigating websites ourselves, having Codex coordinate other agents, and setting up automations for recurring work. We really never needed to leave the desktop app to get work done. If my team’s experience is anything close to representative, a Codex-like app (a horizontal agent with a beautiful UI) is the main interface every company is going to use to get work done. That is perfectly in line with OpenAI’s mission to make Codex the everything app (see: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47796469 ). But as we started automating work closer to the core of the business, I wanted to work with agents from all the labs, including open-weight models, without becoming increasingly dependent on OpenAI. And that’s what Proliferate is for! It&#x27;s the open-source, self-hostable Codex that preserves your optionality across agents and model providers while building toward Codex’s breadth. Today Proliferate supports: * Working with Claude Code, Codex, OpenCode, Cursor, and Grok with their native inference and configuration options, including Bedrock, Azure, and self hosted inference. * Inter-agent communication and management: a parent agent can spawn and communicate with another supported agent as a subagent (I personally like to have Fable delegate to Codex, with OpenCode models reviewing PRs). * Building workflows- one of the features I&#x27;m most excited about. These are re-usable chains of agent sessions and human approval gates, with the harness and model chosen per step and documents passed between them. I use this to automate code review, QA, and my PR construction process. All of Proliferate is 100% open source under AGPL-3.0. There are still definitely some rough spots, but we’re building fast and I’d really love any feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/proliferate-ai/proliferate",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49390739",
+    "createdAt": "2026-08-21T17:00:38.969Z"
+  },
+  {
+    "slug": "roastmegg-pay-to-get-publicly-roasted-by-ai-hn",
+    "title": "Roastme.gg – Pay to get publicly roasted by AI",
+    "shortDescription": "Проект «Roastme.gg – Pay to get publicly roasted by AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Roastme.gg – Pay to get publicly roasted by AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://roastme.gg",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49390344",
+    "createdAt": "2026-08-21T17:00:38.969Z"
+  },
+  {
+    "slug": "caspian-talk-to-human-tool-for-ai-agents-hn",
+    "title": "Caspian – Talk to Human Tool for AI Agents",
+    "shortDescription": "Sup HN! Dipanshu and Rushant here from Caspian. One is a functional programmer and the other has been deploying AI employees. Together we r…",
+    "fullDescription": "Sup HN! Dipanshu and Rushant here from Caspian. One is a functional programmer and the other has been deploying AI employees. Together we realized how agents have communication bottleneck. Given the coming agentic economy, we had a thought experiment on what can be the key infrastructure for agents as they get better. Our inspiration for solving for communications infra came from our own time spent just setting up comms while we were deploying open claw for companies plus we noticed about 15%+ of issues in Openclaw and Hermes were that of comms. So we abstracted the headache of reliable communication web-hooks, handling of queues, provision and identity management behind an single SDK integration &#x2F; tool call. Think of it like rather than rolling your own auth, you can use better auth sdk, same thesis here. Technically, we designed the SDK from the ground up as a DSL for communications (heavy inspiration from functional programming) and then add on our own run time environment which auto provisions (this is how we plan on monetizing) else the user can always bring his own tokens. We targeted right now for python and typescript. We noticed that the current space is fragmented into single identity provisioning (like Agentmail), tool calling like Composio and non agentic support provisioning like Twillo. We believe all these are under the same issue of solving communication which we do in an open source SDK first manner. A few things we&#x27;d like the community&#x27;s take on: How drastic does working with agents change for you, depending on what channel you interact with it on ? What features would make you use caspian for your agents ?\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/TryCaspian/caspian-sdk",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49390329",
+    "createdAt": "2026-08-21T17:00:38.969Z"
+  },
+  {
+    "slug": "mini-dba-monitoring-for-on-prem-and-cloud-databases-in-1-place-hn",
+    "title": "Mini DBA – monitoring for on prem and cloud databases in 1 place",
+    "shortDescription": "Mini DBA is a monitoring tool for SQL Server, PostgreSQL, MySQL, MariaDB and Oracle, including managed cloud databases on AWS and Azure. It…",
+    "fullDescription": "Mini DBA is a monitoring tool for SQL Server, PostgreSQL, MySQL, MariaDB and Oracle, including managed cloud databases on AWS and Azure. It provides live activity, performance analysis, alerts and history with a tasteful amount of AI to help out. Free community edition. Try the live demo: https:&#x2F;&#x2F;demo.minidba.com&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://demo.minidba.com/kiosk-human-check?returnUrl=%2F",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49390319",
+    "createdAt": "2026-08-21T17:00:38.969Z"
+  },
+  {
+    "slug": "whodunit-solve-a-daily-ai-written-mystery-hn",
+    "title": "Whodunit? Solve a daily AI-written Mystery",
+    "shortDescription": "Whodunit started as a pen-and-paper game for family game night. It evolved into a web app with a new mystery every day. The mysteries are a…",
+    "fullDescription": "Whodunit started as a pen-and-paper game for family game night. It evolved into a web app with a new mystery every day. The mysteries are all written by LLMs. Some are better than others, but most work nicely. The web app is written in go with templ HTML templates, HTMX for on-page interactivity, SSE for content updates, and a turn-based game engine written as a Temporal workflow. Check out the mystery gen write up for more info: https:&#x2F;&#x2F;blog.apartment304.com&#x2F;whodunit-llm-murder-mysteries\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://whodunit.rip",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49390145",
+    "createdAt": "2026-08-21T17:00:38.969Z"
+  },
+  {
     "slug": "agentsight-ebpf-observability-for-ai-agents-no-code-changes-hn",
     "title": "AgentSight – eBPF observability for AI agents, no code changes",
     "shortDescription": "Проект «AgentSight – eBPF observability for AI agents, no code changes», опубликован сообществом Hacker News.",
