@@ -1,5 +1,21 @@
 [
   {
+    "slug": "agent-office-slack-for-ai-agents-similar-to-grok-bot-but-older-hn",
+    "title": "Agent Office (Slack for AI Agents) – Similar to Grok Bot but older",
+    "shortDescription": "Проект «Agent Office (Slack for AI Agents) – Similar to Grok Bot but older», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Agent Office (Slack for AI Agents) – Similar to Grok Bot but older», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/baturyilmaz/agent-office",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49387504",
+    "createdAt": "2026-08-21T13:41:58.740Z"
+  },
+  {
     "slug": "deepseek-harness-atlas-github",
     "title": "deepseek-harness-atlas",
     "shortDescription": "针对 [`deepseek-harness`](https://github.com/deepseek-ai/deepseek-harness) 仓库的交互式学习地图：架构分层、依赖脉络、核心流程、模块深读（含**关键源码片段**）、**双源文档库**（官方文档中文优先 + C…",
