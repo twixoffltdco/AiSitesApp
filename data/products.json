@@ -1,5 +1,43 @@
 [
   {
+    "slug": "codex-guard-github",
+    "title": "codex-guard",
+    "shortDescription": "Quality gate for AI/Codex-generated pull requests: blocks TODO leftovers, leaked secrets, sloppy commits and red CI before they reach main.",
+    "fullDescription": "Quality gate for AI/Codex-generated pull requests: blocks TODO leftovers, leaked secrets, sloppy commits and red CI before they reach main.\n\nАвтор: Akimiya-z. Найдено в GitHub Trending (AI-тематика). ⭐ 17 звёзд.",
+    "url": "https://github.com/Akimiya-z/codex-guard",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude-code",
+      "code-review",
+      "codex",
+      "coding-agent",
+      "copilot",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1340906871",
+    "createdAt": "2026-08-21T05:29:00.476Z"
+  },
+  {
+    "slug": "just-describe-your-idea-and-let-ai-build-a-playable-game-for-you-hn",
+    "title": "Just describe your idea and let AI build a playable game for you",
+    "shortDescription": "Проект «Just describe your idea and let AI build a playable game for you», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Just describe your idea and let AI build a playable game for you», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://run.ceo/coder/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49384010",
+    "createdAt": "2026-08-21T05:29:00.277Z"
+  },
+  {
     "slug": "hailuo-ai-free-2026-github",
     "title": "hailuo-ai-free-2026",
     "shortDescription": "Access Hailuo AI MiniMax video generation without a subscription via shared session pools.",
