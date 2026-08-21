@@ -1,5 +1,21 @@
 [
   {
+    "slug": "front-page-of-the-internet-hn",
+    "title": "Front Page of the Internet",
+    "shortDescription": "you can buy the front page of the internet and stay there, while you use it for AI SEO, until someone out bids you and now they are on the…",
+    "fullDescription": "you can buy the front page of the internet and stay there, while you use it for AI SEO, until someone out bids you and now they are on the front page of the internet, bid now just for a dollar\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://frontpageoftheinternet.lol/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49394299",
+    "createdAt": "2026-08-21T22:20:31.883Z"
+  },
+  {
     "slug": "zroar-serialized-roaring-bitmaps-in-zig-hn",
     "title": "Zroar – Serialized Roaring Bitmaps in Zig",
     "shortDescription": "zroar is a ground-up implementation of Roaring Bitmaps data structure in Zig. zroar stores both the keys and (array, bitmap) containers in…",
