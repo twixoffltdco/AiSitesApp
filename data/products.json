@@ -1,5 +1,84 @@
 [
   {
+    "slug": "mememory-github",
+    "title": "mememory",
+    "shortDescription": "一个记住你的本地浏览器agent (A local browser agent that remembers you) ",
+    "fullDescription": "一个记住你的本地浏览器agent (A local browser agent that remembers you) \n\nАвтор: yammigo. Найдено в GitHub Trending (AI-тематика). ⭐ 15 звёзд.",
+    "url": "https://yammigo.github.io/mememory.github.io",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "agent-memory",
+      "agents",
+      "ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1340784339",
+    "createdAt": "2026-08-21T09:06:49.233Z"
+  },
+  {
+    "slug": "chungushub-github",
+    "title": "ChungusHub",
+    "shortDescription": "ChungusHub is a local-first, privacy-focused LLM frontend for roleplay.",
+    "fullDescription": "ChungusHub is a local-first, privacy-focused LLM frontend for roleplay.\n\nАвтор: patcireamo. Найдено в GitHub Trending (AI-тематика). ⭐ 15 звёзд.",
+    "url": "https://chungushub.mintlify.app/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "chat",
+      "frontend",
+      "llm",
+      "roleplay",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1339530018",
+    "createdAt": "2026-08-21T09:06:49.233Z"
+  },
+  {
+    "slug": "free-models-github",
+    "title": "free-models",
+    "shortDescription": ":sparkles:只收录免费额度的 LLM 中转站 / 聚合网关。注册赠送、每日签到、部分模型免费、无限免费等",
+    "fullDescription": ":sparkles:只收录免费额度的 LLM 中转站 / 聚合网关。注册赠送、每日签到、部分模型免费、无限免费等\n\nАвтор: justjavac. Найдено в GitHub Trending (AI-тематика). ⭐ 12 звёзд.",
+    "url": "https://models.denohub.com",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "free-tier",
+      "gateway",
+      "llm",
+      "models",
+      "openai-compatible",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1340448609",
+    "createdAt": "2026-08-21T09:06:49.233Z"
+  },
+  {
+    "slug": "can-you-tell-wodehouse-from-a-model-imitating-wodehouse-hn",
+    "title": "Can you tell Wodehouse from a model imitating Wodehouse?",
+    "shortDescription": "Every spot-the-AI game I&#x27;ve seen uses modern text as its control, so it&#x27;s hard to prove it wasn&#x27;t entirely written by AI. Th…",
+    "fullDescription": "Every spot-the-AI game I&#x27;ve seen uses modern text as its control, so it&#x27;s hard to prove it wasn&#x27;t entirely written by AI. The human paragraphs here are verbatim from public domain works published between 1660 and 1922 (Pepys, Gilbert White, Twain, Jerome, the Grossmiths, Wodehouse), so they predate the clankers by a century; the other half is Opus 5 continuing in the same voice. There are 10 rounds, I managed to get a ~60% win rate.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://voxoria.ai/ai-or-not-text/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49385557",
+    "createdAt": "2026-08-21T09:06:49.177Z"
+  },
+  {
     "slug": "chatgpt-plus-free-2026-github",
     "title": "chatgpt-plus-free-2026",
     "shortDescription": "Tool to access ChatGPT Plus features without a subscription via shared account pools.",
