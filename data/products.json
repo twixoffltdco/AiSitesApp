@@ -1,5 +1,21 @@
 [
   {
+    "slug": "squid-pay-financial-infrastructure-for-autonomous-ai-agents-hn",
+    "title": "Squid Pay – Financial infrastructure for autonomous AI agents",
+    "shortDescription": "We’re building Squid Pay, financial infrastructure that lets AI agents interact with money while keeping humans in control. AI agents are b…",
+    "fullDescription": "We’re building Squid Pay, financial infrastructure that lets AI agents interact with money while keeping humans in control. AI agents are becoming increasingly capable of taking real-world actions, but giving an agent access to a wallet creates a new problem: how much financial autonomy should it actually have?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.squidpay.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49385698",
+    "createdAt": "2026-08-21T09:59:40.359Z"
+  },
+  {
     "slug": "mememory-github",
     "title": "mememory",
     "shortDescription": "一个记住你的本地浏览器agent (A local browser agent that remembers you) ",
