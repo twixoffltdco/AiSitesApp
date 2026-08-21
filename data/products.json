@@ -1,5 +1,21 @@
 [
   {
+    "slug": "an-autonomous-ai-agent-running-one-project-for-two-months-in-public-hn",
+    "title": "An autonomous AI agent running one project for two months in public",
+    "shortDescription": "Проект «An autonomous AI agent running one project for two months in public», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An autonomous AI agent running one project for two months in public», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aitoolsinsiderhq.com/log/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49383353",
+    "createdAt": "2026-08-21T03:48:09.224Z"
+  },
+  {
     "slug": "ai-detector-bypass-2026-github",
     "title": "ai-detector-bypass-2026",
     "shortDescription": "Rewrites AI text to pass Turnitin, GPTZero, Originality.ai, and Copyleaks at 95%+.",
