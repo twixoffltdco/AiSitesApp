@@ -1,5 +1,53 @@
 [
   {
+    "slug": "plainspeak-make-ai-agents-write-like-a-human-hn",
+    "title": "Plainspeak, make AI agents write like a human",
+    "shortDescription": "Проект «Plainspeak, make AI agents write like a human», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Plainspeak, make AI agents write like a human», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://sufiyan.cc/plainspeak",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49384788",
+    "createdAt": "2026-08-21T07:22:56.779Z"
+  },
+  {
+    "slug": "i-built-a-tv-like-website-for-indian-nostalgic-shows-hn",
+    "title": "I built a TV like website for Indian nostalgic shows",
+    "shortDescription": "I used to watch a lot of TV as a kid. I missed the feeling of watching whatever was airing. So, I made Dabba TV. There are multiple channel…",
+    "fullDescription": "I used to watch a lot of TV as a kid. I missed the feeling of watching whatever was airing. So, I made Dabba TV. There are multiple channels. Each channel has a theme and all the content being played is according to the theme. Everyone watching it will see the same exact feed. The content is being fetched from YT.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.dabbatv.xyz/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49384747",
+    "createdAt": "2026-08-21T07:22:56.779Z"
+  },
+  {
+    "slug": "argentic-an-l402-lightning-toll-booth-for-ai-scraping-agents-hn",
+    "title": "Argentic – An L402 Lightning toll booth for AI scraping agents",
+    "shortDescription": "Проект «Argentic – An L402 Lightning toll booth for AI scraping agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Argentic – An L402 Lightning toll booth for AI scraping agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://Argentic.network",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49384477",
+    "createdAt": "2026-08-21T07:22:56.779Z"
+  },
+  {
     "slug": "codex-guard-github",
     "title": "codex-guard",
     "shortDescription": "Quality gate for AI/Codex-generated pull requests: blocks TODO leftovers, leaked secrets, sloppy commits and red CI before they reach main.",
