@@ -1,5 +1,37 @@
 [
   {
+    "slug": "traccia-observability-runtime-control-audit-for-agents-hn",
+    "title": "Traccia - Observability, Runtime Control & Audit for agents",
+    "shortDescription": "AI applications are becoming agents, which has started to take autonomous decisions. There are plenty of tools and platform available to tr…",
+    "fullDescription": "AI applications are becoming agents, which has started to take autonomous decisions. There are plenty of tools and platform available to trace, and observe what an agent or llms calls does. They are good in what they do, but tracing and observability isnt enough for AI agents era. We need a solution that can help you observe, evaluate, create run time policies to govern and finally audit the actions of the agent. We built Traccia to solve this problem. The good part, all of these can be achieved by just writing few lines of code. Traccia has an open-sourced sdk that can work with your existing observability tool like grafana, tempo, jaeger, etc. In case you need more than just observability, Traccia provides the platform to evaluate, control and audit the agents. The platform is easy to use. The product&#x27;s documentation is quite extensive. It is also cloud vendor and framework agnostic. Traccia is being built by an Indian start up ,based out of Bengaluru. We are running a 3 months free trials so that you can explore without any strings attached. We are open to improvise and get better so please drop your comments and feedbacks.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://traccia.ai/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49391995",
+    "createdAt": "2026-08-21T18:34:20.752Z"
+  },
+  {
+    "slug": "poorleton-ai-generated-cycling-workouts-hn",
+    "title": "Poorleton – AI Generated Cycling Workouts",
+    "shortDescription": "Hello everyone, I recently got a used Peloton a couple of months ago for $200, but I didn&#x27;t use it enough to justify $50&#x2F;month fo…",
+    "fullDescription": "Hello everyone, I recently got a used Peloton a couple of months ago for $200, but I didn&#x27;t use it enough to justify $50&#x2F;month for classes, so I vibe coded https:&#x2F;&#x2F;poorleton.fit&#x2F; over the weekend to have AI generated cycling classes. Let me know what you think.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://poorleton.fit",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49391976",
+    "createdAt": "2026-08-21T18:34:20.752Z"
+  },
+  {
     "slug": "all-your-saved-articles-in-one-place-hn",
     "title": "All your saved articles in one place",
     "shortDescription": "Hi HN. I would love to show you beta preview of Topics. Articles on the internet are organized by source (publications, social media, perso…",
