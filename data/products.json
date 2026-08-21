@@ -1,5 +1,21 @@
 [
   {
+    "slug": "kinodesk-unlimited-remote-desktop-sharing-hn",
+    "title": "Kinodesk – Unlimited Remote Desktop Sharing",
+    "shortDescription": "Kinodesk is a new advanced remote desktop sharing software that aims to reach the full performance by taking advantage of advanced performa…",
+    "fullDescription": "Kinodesk is a new advanced remote desktop sharing software that aims to reach the full performance by taking advantage of advanced performance enhancing utilities to reach 2K 240fps on capable hardware to ensure you have a smooth experience.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://kinodesk.net/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49394933",
+    "createdAt": "2026-08-21T23:48:01.073Z"
+  },
+  {
     "slug": "chickenbutt-a-native-gtk-chat-client-for-ollama-on-linux-hn",
     "title": "ChickenButt a Native GTK Chat Client for Ollama on Linux",
     "shortDescription": "What&#x27;s up, ChickenButt? I made a free, native GTK client called ChickenButt. :) It lets you chat with local models through Ollama, and…",
