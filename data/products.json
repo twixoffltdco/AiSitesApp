@@ -1,5 +1,59 @@
 [
   {
+    "slug": "deepseek-harness-atlas-github",
+    "title": "deepseek-harness-atlas",
+    "shortDescription": "针对 [`deepseek-harness`](https://github.com/deepseek-ai/deepseek-harness) 仓库的交互式学习地图：架构分层、依赖脉络、核心流程、模块深读（含**关键源码片段**）、**双源文档库**（官方文档中文优先 + C…",
+    "fullDescription": "针对 [`deepseek-harness`](https://github.com/deepseek-ai/deepseek-harness) 仓库的交互式学习地图：架构分层、依赖脉络、核心流程、模块深读（含**关键源码片段**）、**双源文档库**（官方文档中文优先 + Claude 解读文档）、源码浏览。\n\nАвтор: ItBayMax. Найдено в GitHub Trending (AI-тематика). ⭐ 11 звёзд.",
+    "url": "https://github.com/ItBayMax/deepseek-harness-atlas",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "architecture",
+      "cordis",
+      "deepseek",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1340458520",
+    "createdAt": "2026-08-21T11:22:24.135Z"
+  },
+  {
+    "slug": "contextforge-context-engineering-platform-for-ai-assisted-development-hn",
+    "title": "ContextForge – context engineering platform for AI-assisted development",
+    "shortDescription": "Проект «ContextForge – context engineering platform for AI-assisted development», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ContextForge – context engineering platform for AI-assisted development», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/waterflane/ContextForge",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49386431",
+    "createdAt": "2026-08-21T11:22:24.048Z"
+  },
+  {
+    "slug": "localized-video-ad-creative-without-reshooting-per-market-hn",
+    "title": "Localized video ad creative without reshooting per market",
+    "shortDescription": "Проект «Localized video ad creative without reshooting per market», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Localized video ad creative without reshooting per market», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://siriusly.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49386129",
+    "createdAt": "2026-08-21T11:22:24.049Z"
+  },
+  {
     "slug": "squid-pay-financial-infrastructure-for-autonomous-ai-agents-hn",
     "title": "Squid Pay – Financial infrastructure for autonomous AI agents",
     "shortDescription": "We’re building Squid Pay, financial infrastructure that lets AI agents interact with money while keeping humans in control. AI agents are b…",
