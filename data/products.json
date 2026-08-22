@@ -1,5 +1,75 @@
 [
   {
+    "slug": "danybot-github",
+    "title": "DanyBOT",
+    "shortDescription": "telegram userbot uses DanyAPI for chating",
+    "fullDescription": "telegram userbot uses DanyAPI for chating\n\nАвтор: FANATFANATA. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/FANATFANATA/DanyBOT",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-assistant",
+      "async",
+      "asyncio",
+      "automation",
+      "chatbot",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1341692699",
+    "createdAt": "2026-08-22T02:33:34.420Z"
+  },
+  {
+    "slug": "anjadhe-privacy-first-ai-assistant-no-account-no-server-db-hn",
+    "title": "Anjadhe – privacy first AI assistant, no account, no server DB",
+    "shortDescription": "Hi HN, I am Ram. For the last few months I have been building Anjadhe. It is a personal AI assistant for macOS. The main idea is simple: A…",
+    "fullDescription": "Hi HN, I am Ram. For the last few months I have been building Anjadhe. It is a personal AI assistant for macOS. The main idea is simple: A macOS app where AI does the job of a personal assistant for the user. Not a chat only app where user needs to dig through chats to understand today’s schedule or a project they planned with the ai last week, but a canvas where the user and AI work together around basic tools. I started building this as DYI tool for myself, but at this point I see that its truly useful for me, so sharing with others to see if it can be useful to others too. Here is a quick Demo - https:&#x2F;&#x2F;www.anjadhe.com&#x2F;demo What it can do today: - It reads your incoming email and files the important things: bills with due dates, renewals, receipts, deliveries. A bill becomes a task with a date, by itself. Two booking emails become one trip. - You set goals by talking to it, not by filling forms. It asks you questions, makes a plan with dated tasks. Later you can say &quot;work got crazy, push everything two weeks&quot; and it moves the whole plan. It always shows you what will change and asks before doing it. - Routines run without you. On a schedule, or when a certain email or file arrives. Every run leaves a log you can read. - You can give it some documents you wrote. It learns your writing style and writes new content in your voice. What it learned is a page you can read and edit, not a black box. About privacy: the AI runs on your Mac with llama.cpp. Or you can point it to your own server, or use your own OpenAI&#x2F;Anthropic key, or use Anjadhe Cloud (open-weight models, free allowance, no account needed). Your data stays in SQLite on your own disk. No account. No telemetry unless you turn it on. The source code of the app and the cloud service is public, so you do not have to trust my words. Honest limitations: it is an early alpha, macOS only. Local models need a Mac with atleast 32gb ram to work. The email features work fine on small models, but the full agent wants a bigger model or a server. Also it is Electron with vanilla JS, no framework. Looking forward to hear your opinions. Demo (2 min): https:&#x2F;&#x2F;anjadhe.ai&#x2F;demo Download: https:&#x2F;&#x2F;anjadhe.ai&#x2F;download Source: https:&#x2F;&#x2F;github.com&#x2F;Anjadhe&#x2F;Anjadhe I would love feedback, especially if you think my privacy claims are wrong somewhere. I will be here to answer questions.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.anjadhe.com/demo",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49395936",
+    "createdAt": "2026-08-22T02:33:34.619Z"
+  },
+  {
+    "slug": "heimdall-trust-verified-knowledge-layer-for-ai-coding-agents-hn",
+    "title": "Heimdall – Trust-verified knowledge layer for AI coding agents",
+    "shortDescription": "Проект «Heimdall – Trust-verified knowledge layer for AI coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Heimdall – Trust-verified knowledge layer for AI coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/ArihantDeva/heimdall",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49395883",
+    "createdAt": "2026-08-22T02:33:34.619Z"
+  },
+  {
+    "slug": "flight-ledger-track-your-flights-what-they-cost-and-united-status-hn",
+    "title": "Flight Ledger – Track your flights, what they cost, and United status",
+    "shortDescription": "Hello HN, Flight Ledger is a private ledger of your flights, focused on (but not limited to) the United Airlines ecosystem. I am a physicis…",
+    "fullDescription": "Hello HN, Flight Ledger is a private ledger of your flights, focused on (but not limited to) the United Airlines ecosystem. I am a physicist who has been based near two United hubs, first SFO and now IAH, and I fly United a lot, mostly for work. I built this app to track my flights, flight expenses, and Premier status qualification without having to log into various accounts. All the imports (such as MileagePlus activity csv, .eml receipts, or Flighty&#x2F;myFlightRadar24 exports) and data filling are manual. A primary feature is that the app requires no sign-up and has no backend. Everything is stored locally, using SQLite and WebAssembly. This means that frequent back-ups are advisable to avoid losing data. For more robust backups and multi-device sync, the app also supports sync via Google Drive. I use this option for myself, but would be curious about other possible solutions. Perhaps the main features that differentiate it from other apps are that the app tracks costs and metrics like CPM (cost per mile), United-specific PQP, PQF, and award miles, and allows one to differentiate out-of-pocket and reimbursed expenses. It also includes other things such as route tracking and a lifetime mile tracker. While I have extensive programming experience in scientific computing and C++, my experience in web applications is more limited, and this app was built with Claude Code, which is unsurprising in this day and age, I guess. It is open source: https:&#x2F;&#x2F;github.com&#x2F;vlvovch&#x2F;flight-ledger Curious to see your thoughts. I have particularly struggled with parsing various receipts, especially ticket reissue chains, and will be interested to know if the parser will survive yours.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://app.flightledger.net",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49395637",
+    "createdAt": "2026-08-22T02:33:34.620Z"
+  },
+  {
     "slug": "anisubx-github",
     "title": "AniSubx",
     "shortDescription": "🎬 AI-powered video subtitle generator and translator with a simple Web UI.",
