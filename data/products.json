@@ -1,5 +1,37 @@
 [
   {
+    "slug": "agile-ai-development-lifecycle-hn",
+    "title": "Agile AI Development Lifecycle",
+    "shortDescription": "Schrödinger&#x27;s AI-DLC Framework",
+    "fullDescription": "Schrödinger&#x27;s AI-DLC Framework\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://valeriavg.dev/agile-ai-development-lifecycle",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49397671",
+    "createdAt": "2026-08-22T08:28:20.045Z"
+  },
+  {
+    "slug": "learn-leap-an-ai-tutor-that-teaches-from-your-own-material-hn",
+    "title": "Learn Leap, an AI tutor that teaches from your own material",
+    "shortDescription": "I built Learn Leap because I found myself constantly asking ChatGPT questions while reading research papers. I wanted something that alread…",
+    "fullDescription": "I built Learn Leap because I found myself constantly asking ChatGPT questions while reading research papers. I wanted something that already understood what I was reading. With Learn Leap you can upload your own material and have an AI tutor teach directly from it. The tutor has full context on your material and can create quizzes, flashcards, and exams to test your understanding. It&#x27;s still early and I&#x27;d love feedback from HN on the product and the learning experience. Cheers.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://learnleap.xyz",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49397663",
+    "createdAt": "2026-08-22T08:28:20.045Z"
+  },
+  {
     "slug": "front-end-skill-pack-for-ai-agents-with-machine-enforced-quality-gates-hn",
     "title": "Front end skill pack for AI agents, with machine-enforced quality gates",
     "shortDescription": "Проект «Front end skill pack for AI agents, with machine-enforced quality gates», опубликован сообществом Hacker News.",
