@@ -1,5 +1,59 @@
 [
   {
+    "slug": "codex-guard-github-2",
+    "title": "codex-guard",
+    "shortDescription": "Quality gate for AI/Codex-generated pull requests: blocks TODO leftovers, leaked secrets, sloppy commits and red CI before they reach main.",
+    "fullDescription": "Quality gate for AI/Codex-generated pull requests: blocks TODO leftovers, leaked secrets, sloppy commits and red CI before they reach main.\n\nАвтор: Akimiya-z. Найдено в GitHub Trending (AI-тематика). ⭐ 43 звёзд.",
+    "url": "https://akimiya-z.github.io/codex-guard/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude-code",
+      "code-review",
+      "codex",
+      "coding-agent",
+      "copilot",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1340906871",
+    "createdAt": "2026-08-22T17:45:15.885Z"
+  },
+  {
+    "slug": "aurabid-pay-more-to-get-ranked-1-and-beat-others-hn",
+    "title": "Aurabid, pay more to get ranked #1 and beat others",
+    "shortDescription": "Indie hacker help needed! My aim was to make aurabid for humans i.e. me bidding $10 Feedback is showing that I didn&#x27;t make it clear en…",
+    "fullDescription": "Indie hacker help needed! My aim was to make aurabid for humans i.e. me bidding $10 Feedback is showing that I didn&#x27;t make it clear enough that it&#x27;s for humans, not companies Also built a leaderboard per country&#x2F;city, so that you can claim #1 in diff places How do I make it clearer that it&#x27;s just for humans? Thanks for any help!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aurabid.now/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49401905",
+    "createdAt": "2026-08-22T17:45:15.834Z"
+  },
+  {
+    "slug": "techskills-open-source-skill-modules-for-ai-coding-agents-hn",
+    "title": "TechSkills – Open-source skill modules for AI coding agents",
+    "shortDescription": "Проект «TechSkills – Open-source skill modules for AI coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «TechSkills – Open-source skill modules for AI coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/debabratasaha-dev/techskills",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49401893",
+    "createdAt": "2026-08-22T17:45:15.834Z"
+  },
+  {
     "slug": "git-workflow-as-an-ai-agent-skill-hn",
     "title": "Git workflow as an AI-agent skill",
     "shortDescription": "Проект «Git workflow as an AI-agent skill», опубликован сообществом Hacker News.",
