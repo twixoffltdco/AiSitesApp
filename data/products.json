@@ -1,5 +1,21 @@
 [
   {
+    "slug": "spiel-watch-your-own-files-on-every-device-hn",
+    "title": "Spiel – watch your own files on every device",
+    "shortDescription": "Проект «Spiel – watch your own files on every device», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Spiel – watch your own files on every device», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://spielplayer.com/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49404250",
+    "createdAt": "2026-08-22T22:18:32.003Z"
+  },
+  {
     "slug": "codex-guard-github-2",
     "title": "codex-guard",
     "shortDescription": "Quality gate for AI/Codex-generated pull requests: blocks TODO leftovers, leaked secrets, sloppy commits and red CI before they reach main.",
