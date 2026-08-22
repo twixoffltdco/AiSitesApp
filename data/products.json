@@ -1,5 +1,21 @@
 [
   {
+    "slug": "find-and-organize-photos-with-private-local-ai-hn",
+    "title": "Find and Organize Photos with Private, Local AI",
+    "shortDescription": "Проект «Find and Organize Photos with Private, Local AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Find and Organize Photos with Private, Local AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://ringlochid.me/imagesage/index.html",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49400459",
+    "createdAt": "2026-08-22T15:17:17.761Z"
+  },
+  {
     "slug": "knowl-agent-memory-that-retires-stale-facts-when-they-change-hn",
     "title": "Knowl – agent memory that retires stale facts when they change",
     "shortDescription": "Using AI agents is amazing, but in long-term, I started to have more and more problems about the context of them. They keep forgetting what…",
