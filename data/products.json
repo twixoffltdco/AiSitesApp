@@ -1,5 +1,190 @@
 [
   {
+    "slug": "anisubx-github",
+    "title": "AniSubx",
+    "shortDescription": "🎬 AI-powered video subtitle generator and translator with a simple Web UI.",
+    "fullDescription": "🎬 AI-powered video subtitle generator and translator with a simple Web UI.\n\nАвтор: ForExample25. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://github.com/ForExample25/AniSubx",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "python",
+      "speech-to-text",
+      "subtitles",
+      "subtitles-generator",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1340443389",
+    "createdAt": "2026-08-22T01:03:13.350Z"
+  },
+  {
+    "slug": "discordaimessagecleaner-github",
+    "title": "DiscordAIMessageCleaner",
+    "shortDescription": "一个用 AI 审查并清理你自己 Discord 历史消息的 BetterDiscord 插件",
+    "fullDescription": "一个用 AI 审查并清理你自己 Discord 历史消息的 BetterDiscord 插件\n\nАвтор: ROOT94-MAX. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/ROOT94-MAX/DiscordAIMessageCleaner",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "betterdiscord",
+      "discord",
+      "javascript",
+      "message-cleaner",
+      "plugin",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1340894420",
+    "createdAt": "2026-08-22T01:03:13.350Z"
+  },
+  {
+    "slug": "coima-github",
+    "title": "Coima",
+    "shortDescription": "Anti-Corruption tool for Argentina: analyzes public purchase processes and finds risky patterns and anomalies.",
+    "fullDescription": "Anti-Corruption tool for Argentina: analyzes public purchase processes and finds risky patterns and anomalies.\n\nАвтор: patopolser. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://coima-demo.com/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "anti-corruption",
+      "argentina",
+      "artificial-intelligence",
+      "corruption",
+      "data-journalism",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1340197715",
+    "createdAt": "2026-08-22T01:03:13.350Z"
+  },
+  {
+    "slug": "punctuate-github",
+    "title": "punctuate",
+    "shortDescription": "Prompt Punctuation: Four marks that tell an AI how to read you.",
+    "fullDescription": "Prompt Punctuation: Four marks that tell an AI how to read you.\n\nАвтор: ivklgn. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/ivklgn/punctuate",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-hooks",
+      "ai-tools",
+      "claude-code",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1340526671",
+    "createdAt": "2026-08-22T01:03:13.350Z"
+  },
+  {
+    "slug": "voice-assist-github",
+    "title": "Voice-assist",
+    "shortDescription": "Enterprise-grade AI Voice Assistant and Local System Automator",
+    "fullDescription": "Enterprise-grade AI Voice Assistant and Local System Automator\n\nАвтор: kamalesh404. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/kamalesh404/Voice-assist",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "automation",
+      "machine-learning",
+      "nlp",
+      "python",
+      "voice-assistant",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1340800559",
+    "createdAt": "2026-08-22T01:03:13.350Z"
+  },
+  {
+    "slug": "airlock-github",
+    "title": "airlock",
+    "shortDescription": "AI release engineering - CI gate for prompts, skills, MCP, and models",
+    "fullDescription": "AI release engineering - CI gate for prompts, skills, MCP, and models\n\nАвтор: ankittk. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/ankittk/airlock#readme",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "ci-cd",
+      "evals",
+      "golang",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1341274869",
+    "createdAt": "2026-08-22T01:03:13.350Z"
+  },
+  {
+    "slug": "agentkot-github",
+    "title": "agentkot",
+    "shortDescription": "The best AI harness you can run yourself. One file: web UI, tools, memory and orchestration built in. Run a team of agents across providers…",
+    "fullDescription": "The best AI harness you can run yourself. One file: web UI, tools, memory and orchestration built in. Run a team of agents across providers at once - lead on Claude, architect on GPT, researchers on DeepSeek. No sandbox, no skills, no MCP: a tool, not a nanny.\n\nАвтор: Loqira-Labs. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://agentkot.ai",
+    "category": "ai-tool",
+    "tags": [
+      "agent-harness",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1341235883",
+    "createdAt": "2026-08-22T01:03:13.350Z"
+  },
+  {
+    "slug": "updating-my-wedding-registry-website-with-ai-in-275-commits-hn",
+    "title": "Updating my wedding registry website with AI in 275 commits",
+    "shortDescription": "Проект «Updating my wedding registry website with AI in 275 commits», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Updating my wedding registry website with AI in 275 commits», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://benhoyt.com/writings/updating-gifty-with-ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49395371",
+    "createdAt": "2026-08-22T01:03:13.178Z"
+  },
+  {
+    "slug": "ai-driven-civic-dashboard-for-palo-alto-hn",
+    "title": "AI driven civic dashboard for Palo Alto",
+    "shortDescription": "Проект «AI driven civic dashboard for Palo Alto», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI driven civic dashboard for Palo Alto», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://paloaltocivic.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49395316",
+    "createdAt": "2026-08-22T01:03:13.179Z"
+  },
+  {
     "slug": "kinodesk-unlimited-remote-desktop-sharing-hn",
     "title": "Kinodesk – Unlimited Remote Desktop Sharing",
     "shortDescription": "Kinodesk is a new advanced remote desktop sharing software that aims to reach the full performance by taking advantage of advanced performa…",
