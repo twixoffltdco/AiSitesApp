@@ -1,5 +1,21 @@
 [
   {
+    "slug": "macaiapps-a-directory-of-ai-powered-mac-apps-hn",
+    "title": "MacAIApps – a directory of AI-powered Mac apps",
+    "shortDescription": "I love discovering Mac apps that use AI, so I built MacAIApps to collect them in one place. You can browse by category and find apps you mi…",
+    "fullDescription": "I love discovering Mac apps that use AI, so I built MacAIApps to collect them in one place. You can browse by category and find apps you might otherwise miss.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.macaiapps.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49404725",
+    "createdAt": "2026-08-22T23:17:21.169Z"
+  },
+  {
     "slug": "spiel-watch-your-own-files-on-every-device-hn",
     "title": "Spiel – watch your own files on every device",
     "shortDescription": "Проект «Spiel – watch your own files on every device», опубликован сообществом Hacker News.",
