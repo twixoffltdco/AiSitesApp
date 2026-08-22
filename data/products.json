@@ -1,5 +1,27 @@
 [
   {
+    "slug": "rubber-duck-github",
+    "title": "rubber-duck",
+    "shortDescription": "Socratic debugging for AI agents. Don't give me the answer. Help me find it.",
+    "fullDescription": "Socratic debugging for AI agents. Don't give me the answer. Help me find it.\n\nАвтор: centsandcode. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://centsandcode.github.io/rubber-duck/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-pair-programming",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-plugin",
+      "claude-skills",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1340609417",
+    "createdAt": "2026-08-22T03:38:52.033Z"
+  },
+  {
     "slug": "danybot-github",
     "title": "DanyBOT",
     "shortDescription": "telegram userbot uses DanyAPI for chating",
