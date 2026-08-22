@@ -1,5 +1,53 @@
 [
   {
+    "slug": "i-turned-apple-style-scroll-video-websites-into-a-reusable-ai-skill-hn",
+    "title": "I turned Apple-style scroll-video websites into a reusable AI skill",
+    "shortDescription": "Проект «I turned Apple-style scroll-video websites into a reusable AI skill», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I turned Apple-style scroll-video websites into a reusable AI skill», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/musoyangrigor/scroll-video-website-skill",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49401459",
+    "createdAt": "2026-08-22T16:48:59.670Z"
+  },
+  {
+    "slug": "namocomplete-a-non-obtrusive-ai-autocomplete-for-the-bash-terminal-hn",
+    "title": "Namo_complete: a non-obtrusive AI autocomplete for the bash terminal",
+    "shortDescription": "I created this simple AI autocomplete tool for the bash terminal. I&#x27;m sure many like it exist already, but unlike the others this one…",
+    "fullDescription": "I created this simple AI autocomplete tool for the bash terminal. I&#x27;m sure many like it exist already, but unlike the others this one does not completely hijack your terminal and stays mostly out of the way. Contributions&#x2F;feedback are welcome. One other interesting thing about it is that it&#x27;s written in a custom memory-safe (aspirationally) language that I am developing.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/namo-robotics/namo_complete",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49401434",
+    "createdAt": "2026-08-22T16:48:59.670Z"
+  },
+  {
+    "slug": "riyadh-tech-week-a-year-round-guide-to-saudi-arabias-tech-ecosystem-hn",
+    "title": "Riyadh Tech Week – a year-round guide to Saudi Arabia's tech ecosystem",
+    "shortDescription": "Проект «Riyadh Tech Week – a year-round guide to Saudi Arabia's tech ecosystem», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Riyadh Tech Week – a year-round guide to Saudi Arabia's tech ecosystem», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://riyadhtechweek.com/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49401230",
+    "createdAt": "2026-08-22T16:48:59.670Z"
+  },
+  {
     "slug": "ai-as-cognitive-gym-equipment-hn",
     "title": "AI as Cognitive Gym Equipment",
     "shortDescription": "Why AI assistance should be judged by what it does to your future thinking, not just your next answer",
