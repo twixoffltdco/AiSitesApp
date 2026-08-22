@@ -1,5 +1,21 @@
 [
   {
+    "slug": "clearvoice-tts-sota-voice-cloning-model-running-offline-in-an-ios-app-hn",
+    "title": "ClearVoice TTS, SOTA voice cloning model running offline, in an iOS app",
+    "shortDescription": "This is the first app I am aware of that can run a voice model of this quality on iPhone or iPad. It uses 6GB of RAM at peak, so most moder…",
+    "fullDescription": "This is the first app I am aware of that can run a voice model of this quality on iPhone or iPad. It uses 6GB of RAM at peak, so most modern Macs, and some iPhone and iPad models should work (I’ve tested on a 17 pro). The model used is OmniVoice, which is known mostly for its ability to generate quality tts in hundreds of languages. This probably isn’t the fastest implementation of OmniVoice on a Mac, but it’s got to be the easiest to run on macOS, and, as far as I know, the only existing implementation on iOS. Demo of it running on an M3 MacBook Air: https:&#x2F;&#x2F;x.com&#x2F;RoryClear&#x2F;status&#x2F;2090414148030972300\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://apps.apple.com/ie/app/clearvoice-text-to-speech/id6798899505",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49400671",
+    "createdAt": "2026-08-22T15:45:19.842Z"
+  },
+  {
     "slug": "find-and-organize-photos-with-private-local-ai-hn",
     "title": "Find and Organize Photos with Private, Local AI",
     "shortDescription": "Проект «Find and Organize Photos with Private, Local AI», опубликован сообществом Hacker News.",
