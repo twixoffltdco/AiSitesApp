@@ -1,5 +1,25 @@
 [
   {
+    "slug": "myli-github",
+    "title": "Myli",
+    "shortDescription": "Multi-Agent Harness for Visual Design",
+    "fullDescription": "Multi-Agent Harness for Visual Design\n\nАвтор: EightPotions. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/EightPotions/Myli",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "llm",
+      "visual-design",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1341859277",
+    "createdAt": "2026-08-23T04:33:33.412Z"
+  },
+  {
     "slug": "game-debug-mcp-github",
     "title": "game-debug-mcp",
     "shortDescription": "Model-neutral MCP and JSON CLI for sealed frame evidence, first-divergence visual diagnosis, and identity-safe performance comparison.",
