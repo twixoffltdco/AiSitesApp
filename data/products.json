@@ -1,5 +1,27 @@
 [
   {
+    "slug": "ai-watermark-remover-github",
+    "title": "ai-watermark-remover",
+    "shortDescription": "Reveal & strip hidden AI marks - invisible Unicode, C2PA/EXIF/XMP metadata from text and files you own",
+    "fullDescription": "Reveal & strip hidden AI marks - invisible Unicode, C2PA/EXIF/XMP metadata from text and files you own\n\nАвтор: mohityadav8. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://tools.job-find.xyz",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "c2pa",
+      "metadata",
+      "privacy",
+      "python",
+      "tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1343704879",
+    "createdAt": "2026-08-23T19:44:40.741Z"
+  },
+  {
     "slug": "hypertrade-github",
     "title": "hypertrade",
     "shortDescription": "Open-source mobile Hyperliquid builder app (Expo + FastAPI): Privy wallets, agent signing, gasless relayer, builder fees, localization. Opt…",
