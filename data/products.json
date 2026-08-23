@@ -1,5 +1,27 @@
 [
   {
+    "slug": "mncode-github",
+    "title": "mncode",
+    "shortDescription": "High-performance AI coding assistant CLI in Golang with Claude Code compatibility, multi-account routing & ClaudeKit skills",
+    "fullDescription": "High-performance AI coding assistant CLI in Golang with Claude Code compatibility, multi-account routing & ClaudeKit skills\n\nАвтор: mncuchiinhuttt. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/mncuchiinhuttt/mncode",
+    "category": "chatbot",
+    "tags": [
+      "agent",
+      "ai",
+      "claude-code",
+      "cli",
+      "developer-tools",
+      "golang",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1342092864",
+    "createdAt": "2026-08-23T09:53:44.835Z"
+  },
+  {
     "slug": "ai-pentest-github",
     "title": "AI-PENTEST",
     "shortDescription": "AI 驱动的多 Agent 自动化渗透测试平台：LLM 协调员+监察员编排专项子 Agent，授权边界内自动完成侦察→漏洞检测→利用验证→取证报告。Web 渗透 + C2 双作业线，45+ 原生工具，Docker 一键部署",
