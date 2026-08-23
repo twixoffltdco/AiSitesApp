@@ -1,5 +1,27 @@
 [
   {
+    "slug": "hypertrade-github",
+    "title": "hypertrade",
+    "shortDescription": "Open-source mobile Hyperliquid builder app (Expo + FastAPI): Privy wallets, agent signing, gasless relayer, builder fees, localization. Opt…",
+    "fullDescription": "Open-source mobile Hyperliquid builder app (Expo + FastAPI): Privy wallets, agent signing, gasless relayer, builder fees, localization. Optional AI trading + banking modules.\n\nАвтор: LWL-HyperTrade. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://hypertrade.exchange",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "expo",
+      "fastapi",
+      "hyperliquid",
+      "open-source",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1343535583",
+    "createdAt": "2026-08-23T15:46:27.127Z"
+  },
+  {
     "slug": "writing-eval-local-deterministic-style-checks-for-ai-written-drafts-hn",
     "title": "Writing-eval, local deterministic style checks for AI-written drafts",
     "shortDescription": "Проект «Writing-eval, local deterministic style checks for AI-written drafts», опубликован сообществом Hacker News.",
