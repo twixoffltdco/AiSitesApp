@@ -1,5 +1,49 @@
 [
   {
+    "slug": "ai-agent-hacking-writeups-github",
+    "title": "ai-agent-hacking-writeups",
+    "shortDescription": "A collection of public writeups on attacks against AI agents: prompt injection, tool abuse, memory poisoning, and data exfiltration.",
+    "fullDescription": "A collection of public writeups on attacks against AI agents: prompt injection, tool abuse, memory poisoning, and data exfiltration.\n\nАвтор: shoebpate1. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://research.shoebpatel.com/how-to-hack-ai-agents/",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "indirect-prompt-injection",
+      "llm",
+      "mcp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1341716416",
+    "createdAt": "2026-08-23T11:45:32.227Z"
+  },
+  {
+    "slug": "trainanswer-github",
+    "title": "TrainAnswer",
+    "shortDescription": "AI-assisted onboarding training, assessment, grading and review platform with a fully synthetic public demo bank.",
+    "fullDescription": "AI-assisted onboarding training, assessment, grading and review platform with a fully synthetic public demo bank.\n\nАвтор: k4ubx7. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/k4ubx7/TrainAnswer",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "assessment",
+      "education",
+      "fastapi",
+      "onboarding",
+      "question-bank",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1343358111",
+    "createdAt": "2026-08-23T11:45:32.227Z"
+  },
+  {
     "slug": "my-transcriber-github",
     "title": "my-transcriber",
     "shortDescription": "A 100% local, privacy-first real-time transcription app for macOS.",
