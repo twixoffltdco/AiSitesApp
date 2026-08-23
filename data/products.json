@@ -1,5 +1,27 @@
 [
   {
+    "slug": "ai-pentest-github",
+    "title": "AI-PENTEST",
+    "shortDescription": "AI 驱动的多 Agent 自动化渗透测试平台：LLM 协调员+监察员编排专项子 Agent，授权边界内自动完成侦察→漏洞检测→利用验证→取证报告。Web 渗透 + C2 双作业线，45+ 原生工具，Docker 一键部署",
+    "fullDescription": "AI 驱动的多 Agent 自动化渗透测试平台：LLM 协调员+监察员编排专项子 Agent，授权边界内自动完成侦察→漏洞检测→利用验证→取证报告。Web 渗透 + C2 双作业线，45+ 原生工具，Docker 一键部署\n\nАвтор: F0ran9. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/F0ran9/AI-PENTEST",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "automation",
+      "c2",
+      "docker",
+      "fastapi",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1343477351",
+    "createdAt": "2026-08-23T09:29:08.850Z"
+  },
+  {
     "slug": "changelog-traduction-github",
     "title": "changelog-traduction",
     "shortDescription": "Home Assistant custom integration that translates release notes of available updates (HACS, add-ons, HA Core) using your configured AI Task…",
