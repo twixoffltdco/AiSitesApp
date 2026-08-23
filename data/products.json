@@ -1,5 +1,49 @@
 [
   {
+    "slug": "witness-github",
+    "title": "witness",
+    "shortDescription": "Built for AI agents: drive and debug a running app from one config file, and come back with proof a person can watch and an agent can read…",
+    "fullDescription": "Built for AI agents: drive and debug a running app from one config file, and come back with proof a person can watch and an agent can read — not a pass/fail, and not a guess.\n\nАвтор: burrows99. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/burrows99/witness",
+    "category": "developer",
+    "tags": [
+      "agentic",
+      "ai",
+      "ai-agents",
+      "cli",
+      "config-driven",
+      "debugging",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1343116817",
+    "createdAt": "2026-08-23T10:20:36.079Z"
+  },
+  {
+    "slug": "llama-commander-github",
+    "title": "llama-commander",
+    "shortDescription": "Llama Launcher - llama.cpp 智能启动与管理工具：模型库/参数配置/多实例/测试寻优/实时监控/MCP 工具扩展",
+    "fullDescription": "Llama Launcher - llama.cpp 智能启动与管理工具：模型库/参数配置/多实例/测试寻优/实时监控/MCP 工具扩展\n\nАвтор: jiaieyu123. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/jiaieyu123/llama-commander",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "gpu",
+      "llama",
+      "llama-cpp",
+      "llm",
+      "management",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1342089141",
+    "createdAt": "2026-08-23T10:20:36.079Z"
+  },
+  {
     "slug": "mncode-github",
     "title": "mncode",
     "shortDescription": "High-performance AI coding assistant CLI in Golang with Claude Code compatibility, multi-account routing & ClaudeKit skills",
