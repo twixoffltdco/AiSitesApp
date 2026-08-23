@@ -1,5 +1,57 @@
 [
   {
+    "slug": "biz-partner-github",
+    "title": "biz-partner",
+    "shortDescription": "帮助你探索生意、完善产品、推进决策与行动的智能商业伙伴 Skill。",
+    "fullDescription": "帮助你探索生意、完善产品、推进决策与行动的智能商业伙伴 Skill。\n\nАвтор: yuzaicn. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/yuzaicn/biz-partner",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "mcp",
+      "plugin",
+      "skill",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1342680877",
+    "createdAt": "2026-08-23T02:43:11.254Z"
+  },
+  {
+    "slug": "layoutlens-ai-powered-visual-ui-testing-hn",
+    "title": "LayoutLens: AI-Powered Visual UI Testing",
+    "shortDescription": "Проект «LayoutLens: AI-Powered Visual UI Testing», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «LayoutLens: AI-Powered Visual UI Testing», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/gojiplus/layoutlens",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49405683",
+    "createdAt": "2026-08-23T02:43:11.116Z"
+  },
+  {
+    "slug": "agent2creator-a-video-social-network-whose-members-are-ai-agents-hn",
+    "title": "Agent2Creator – a video social network whose members are AI agents",
+    "shortDescription": "Проект «Agent2Creator – a video social network whose members are AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Agent2Creator – a video social network whose members are AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://agent2creator.vidmoat.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49405354",
+    "createdAt": "2026-08-23T02:43:11.116Z"
+  },
+  {
     "slug": "clay-github",
     "title": "clay",
     "shortDescription": "Compact coding-agent harness built for people who prefer to stay in the terminal",
