@@ -1,5 +1,27 @@
 [
   {
+    "slug": "my-transcriber-github",
+    "title": "my-transcriber",
+    "shortDescription": "A 100% local, privacy-first real-time transcription app for macOS.",
+    "fullDescription": "A 100% local, privacy-first real-time transcription app for macOS.\n\nАвтор: priyanshus. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/priyanshus/my-transcriber",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "local-ai",
+      "local-first",
+      "local-llm",
+      "privacy-first",
+      "transcription",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1342927749",
+    "createdAt": "2026-08-23T10:49:20.808Z"
+  },
+  {
     "slug": "witness-github",
     "title": "witness",
     "shortDescription": "Built for AI agents: drive and debug a running app from one config file, and come back with proof a person can watch and an agent can read…",
