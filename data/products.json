@@ -1,5 +1,275 @@
 [
   {
+    "slug": "clay-github",
+    "title": "clay",
+    "shortDescription": "Compact coding-agent harness built for people who prefer to stay in the terminal",
+    "fullDescription": "Compact coding-agent harness built for people who prefer to stay in the terminal\n\nАвтор: sammwyy. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/sammwyy/clay",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "coding",
+      "harness",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1341900733",
+    "createdAt": "2026-08-23T01:08:00.525Z"
+  },
+  {
+    "slug": "unbox-ai-github",
+    "title": "unbox-ai",
+    "shortDescription": "Visualize AI context & traces.",
+    "fullDescription": "Visualize AI context & traces.\n\nАвтор: tester-army. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://tester.army",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "ai-traces",
+      "traces",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1341596888",
+    "createdAt": "2026-08-23T01:08:00.525Z"
+  },
+  {
+    "slug": "dsh-resume-github",
+    "title": "dsh-resume",
+    "shortDescription": "AI 写简历容易，但写完总会遇到模板难看、排版溢出、页面留白、改一处全局变形等问题。dsh-resume 专注解决“内容生成后的视觉复核”：让 AI 和用户一起把简历调到真正适合投递的刚好一页。AI can write a resume, but the result ofte…",
+    "fullDescription": "AI 写简历容易，但写完总会遇到模板难看、排版溢出、页面留白、改一处全局变形等问题。dsh-resume 专注解决“内容生成后的视觉复核”：让 AI 和用户一起把简历调到真正适合投递的刚好一页。AI can write a resume, but the result often looks unbalanced, overflows the page, leaves large blank areas, or breaks after a small edit. dsh-resume focuses on visual review after generation, helping AI and users refine the resume into a polished.\n\nАвтор: L3n3L. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/L3n3L/dsh-resume",
+    "category": "ai-tool",
+    "tags": [
+      "a4-layout",
+      "ai",
+      "career-tools",
+      "dsh-plugin",
+      "job-hunting",
+      "markdown",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1341951692",
+    "createdAt": "2026-08-23T01:08:00.526Z"
+  },
+  {
+    "slug": "vitre-github",
+    "title": "vitre",
+    "shortDescription": "WebView automation for Kotlin Multiplatform. Run page workflows in an embedded WebView on Android, iOS and desktop, from your app, a test,…",
+    "fullDescription": "WebView automation for Kotlin Multiplatform. Run page workflows in an embedded WebView on Android, iOS and desktop, from your app, a test, or an LLM agent over MCP or Koog.\n\nАвтор: ggoggam. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://javadoc.io/doc/dev.ggoggam.vitre/vitre-core/latest/index.html",
+    "category": "developer",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "automation",
+      "client-side-scraping",
+      "compose-multiplatform",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1341350544",
+    "createdAt": "2026-08-23T01:08:00.526Z"
+  },
+  {
+    "slug": "steer-github",
+    "title": "steer",
+    "shortDescription": "User-directed AI writing assistance for Obsidian",
+    "fullDescription": "User-directed AI writing assistance for Obsidian\n\nАвтор: raine. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/raine/steer",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "obsidian",
+      "obsidian-plugin",
+      "writing-assistant",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1342807281",
+    "createdAt": "2026-08-23T01:08:00.526Z"
+  },
+  {
+    "slug": "meme-sticker-github",
+    "title": "meme-sticker",
+    "shortDescription": "Turn pets, selfies, characters, or anything into a full set of AI chat stickers.",
+    "fullDescription": "Turn pets, selfies, characters, or anything into a full set of AI chat stickers.\n\nАвтор: shanliuling. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/shanliuling/meme-sticker",
+    "category": "ai-tool",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "ai-agents",
+      "generative-ai",
+      "image-generation",
+      "image-processing",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1342901504",
+    "createdAt": "2026-08-23T01:08:00.526Z"
+  },
+  {
+    "slug": "laravel-ai-content-generator-github",
+    "title": "laravel-ai-content-generator",
+    "shortDescription": "AI API integration layer connecting OpenAI and Gemini APIs with prompt templating, token usage tracking, and streaming.",
+    "fullDescription": "AI API integration layer connecting OpenAI and Gemini APIs with prompt templating, token usage tracking, and streaming.\n\nАвтор: code-with-rifat. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/code-with-rifat/laravel-ai-content-generator",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "gemini-api",
+      "laravel",
+      "llm",
+      "openai",
+      "rest-api",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1342571017",
+    "createdAt": "2026-08-23T01:08:00.526Z"
+  },
+  {
+    "slug": "agent-mesh-github",
+    "title": "agent-mesh",
+    "shortDescription": "Connect your AI agents into a private, end-to-end encrypted mesh: shared memories, an age/sops vault, and instant agent-to-agent messaging.…",
+    "fullDescription": "Connect your AI agents into a private, end-to-end encrypted mesh: shared memories, an age/sops vault, and instant agent-to-agent messaging. One command to run your own.\n\nАвтор: moinsen-dev. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://agent-mesh.moinsen.dev/",
+    "category": "developer",
+    "tags": [
+      "age",
+      "agent",
+      "ai",
+      "ai-agents",
+      "cli",
+      "end-to-end-encryption",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1342740605",
+    "createdAt": "2026-08-23T01:08:00.526Z"
+  },
+  {
+    "slug": "psychodict-github",
+    "title": "psychodict",
+    "shortDescription": "🧠 AI-Powered Psychology Dictionary with Smart Auto-Linking — Connects 600+ psychological concepts across articles in real-time. Built with…",
+    "fullDescription": "🧠 AI-Powered Psychology Dictionary with Smart Auto-Linking — Connects 600+ psychological concepts across articles in real-time. Built with React, Node.js, and MongoDB.\n\nАвтор: ya30n. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://psychodict.ir",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "dictionary",
+      "mental-health",
+      "mongodb",
+      "nlp",
+      "nodejs",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1341632533",
+    "createdAt": "2026-08-23T01:08:00.526Z"
+  },
+  {
+    "slug": "ai-panel-github",
+    "title": "ai-panel",
+    "shortDescription": "A native Omarchy shell plugin: a full AI chat sidebar summoned with a keypress. Streaming responses, multiple providers, prompt presets, sa…",
+    "fullDescription": "A native Omarchy shell plugin: a full AI chat sidebar summoned with a keypress. Streaming responses, multiple providers, prompt presets, saved chats — all inside your window manager.\n\nАвтор: atif-1402. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/atif-1402/ai-panel",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "omarchy",
+      "omarchy-linux",
+      "omarchy-plugin",
+      "omarchy-quattro",
+      "omarchy-shell",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1341563650",
+    "createdAt": "2026-08-23T01:08:00.526Z"
+  },
+  {
+    "slug": "ai-cms-github",
+    "title": "ai-cms",
+    "shortDescription": "AI-CMS: AI-assisted multi-site CMS with Astro static publishing (FastAPI + React)",
+    "fullDescription": "AI-CMS: AI-assisted multi-site CMS with Astro static publishing (FastAPI + React)\n\nАвтор: holyxing. Найдено в GitHub Trending (AI-тематика). ⭐ 1 звёзд.",
+    "url": "https://github.com/holyxing/ai-cms",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "astro",
+      "cms",
+      "docker",
+      "fastapi",
+      "react",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1341820921",
+    "createdAt": "2026-08-23T01:08:00.526Z"
+  },
+  {
+    "slug": "active-source-of-truth-for-your-coding-agents-hn",
+    "title": "Active Source of Truth for Your Coding Agents",
+    "shortDescription": "Howdy! Happy Saturday everyone! As a solo founder, I have always tried to maximize my speed by letting coding agents build as much as possi…",
+    "fullDescription": "Howdy! Happy Saturday everyone! As a solo founder, I have always tried to maximize my speed by letting coding agents build as much as possible in parallel. However, as an engineer, I don&#x27;t trust that AI will always make the right decisions and work with the right context. In the past, I always needed to click through my sessions to glance at the AI&#x27;s output, try to understand what it was doing, and hopefully steer it or stop it in time. As a result, the maximum number of concurrent sessions I could manage at once was only 4. I didn&#x27;t want to be the bottleneck, so I built Meetless Agent (MLA). It basically does what I had to do manually before: - Monitors the coding agent&#x27;s tasks and actions to supply it with the correct, up-to-date context. - Continuously reconciles running information (such as provided&#x2F;tagged documentation, the agent&#x27;s output, and the agent&#x27;s decisions) to actively maintain the source of truth at all times. - Keeps track of the current rules for the repo, and if an action triggers a registered rule, the rule is injected into the agent context. My benchmarks show that running coding agents with the help of an active monitor improves quality and accuracy, consumes fewer tokens, and finishes faster: https:&#x2F;&#x2F;research.meetless.ai&#x2F;stale-context&#x2F; Of course, the agent alone can&#x27;t decide the source of truth; it requires human review and decisions for contradictions, etc. But for the most part, it can safely build a consistent ontology of the current source of truth. From this, I want to build an AI layer to maintain the source of truth across the business, so I will release more connectors for Slack, Jira, Confluence, etc., soon. The goal is for this AI to assist in every part of the business. Eventually, the same coordination layer will understand that a decision made in Slack affects a Jira task, a document, an email conversation, and what a coding agent should do next without every tool becoming another isolated memory silo. The coding agent connector is open source at: https:&#x2F;&#x2F;github.com&#x2F;Meetless&#x2F;mla I am looking forward to your feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://meetless.ai",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49405261",
+    "createdAt": "2026-08-23T01:08:00.468Z"
+  },
+  {
+    "slug": "lens-ai-generate-your-json-ld-files-and-keep-them-up-to-date-hn",
+    "title": "Lens AI – generate your JSON-LD files and keep them up-to-date",
+    "shortDescription": "Проект «Lens AI – generate your JSON-LD files and keep them up-to-date», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Lens AI – generate your JSON-LD files and keep them up-to-date», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://knowledgelens.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49405066",
+    "createdAt": "2026-08-23T01:08:00.468Z"
+  },
+  {
     "slug": "macaiapps-a-directory-of-ai-powered-mac-apps-hn",
     "title": "MacAIApps – a directory of AI-powered Mac apps",
     "shortDescription": "I love discovering Mac apps that use AI, so I built MacAIApps to collect them in one place. You can browse by category and find apps you mi…",
