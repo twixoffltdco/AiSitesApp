@@ -1,5 +1,27 @@
 [
   {
+    "slug": "changelog-traduction-github",
+    "title": "changelog-traduction",
+    "shortDescription": "Home Assistant custom integration that translates release notes of available updates (HACS, add-ons, HA Core) using your configured AI Task…",
+    "fullDescription": "Home Assistant custom integration that translates release notes of available updates (HACS, add-ons, HA Core) using your configured AI Task entity.\n\nАвтор: cyclope205. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/cyclope205/changelog-traduction",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "changelog",
+      "hacs",
+      "hacs-integration",
+      "home-assistant",
+      "home-assistant-integration",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1342747213",
+    "createdAt": "2026-08-23T07:31:05.197Z"
+  },
+  {
     "slug": "myli-github",
     "title": "Myli",
     "shortDescription": "Multi-Agent Harness for Visual Design",
