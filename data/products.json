@@ -1,5 +1,27 @@
 [
   {
+    "slug": "aura-github",
+    "title": "aura",
+    "shortDescription": "Hardware-aware memory-budget enforcement & LLM inference orchestration for low-RAM laptops. Run 7B models under a strict 4GB budget without…",
+    "fullDescription": "Hardware-aware memory-budget enforcement & LLM inference orchestration for low-RAM laptops. Run 7B models under a strict 4GB budget without OOM crashes.\n\nАвтор: Grevix. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Grevix/aura",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "cpu-inference",
+      "gguf",
+      "inference-engine",
+      "llama-cpp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1343985478",
+    "createdAt": "2026-08-23T21:45:39.003Z"
+  },
+  {
     "slug": "ai-watermark-remover-github",
     "title": "ai-watermark-remover",
     "shortDescription": "Reveal & strip hidden AI marks - invisible Unicode, C2PA/EXIF/XMP metadata from text and files you own",
