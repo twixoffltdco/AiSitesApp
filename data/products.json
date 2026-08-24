@@ -1,5 +1,37 @@
 [
   {
+    "slug": "ai-for-people-that-still-browse-the-web-hn",
+    "title": "AI for people that still browse the web",
+    "shortDescription": "Проект «AI for people that still browse the web», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI for people that still browse the web», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://thisisrobin.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49425054",
+    "createdAt": "2026-08-24T20:26:35.235Z"
+  },
+  {
+    "slug": "winnow-scores-x-posts-by-freshness-and-headroom-no-ai-no-login-hn",
+    "title": "Winnow – scores X posts by freshness and headroom, no AI, no login",
+    "shortDescription": "Проект «Winnow – scores X posts by freshness and headroom, no AI, no login», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Winnow – scores X posts by freshness and headroom, no AI, no login», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://winnowapp.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49419483",
+    "createdAt": "2026-08-24T20:26:35.236Z"
+  },
+  {
     "slug": "omnispace-github",
     "title": "OmniSpace",
     "shortDescription": "AIGC短剧全流程创作平台 - 剧本/分镜/角色/配音/视频生成一站式，本地GPU推理，数据不出机器，从创意到成片一条龙（v2.3.1版，存在多种bug，需要大神帮帮忙）",
