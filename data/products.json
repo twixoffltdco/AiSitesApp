@@ -1,5 +1,43 @@
 [
   {
+    "slug": "social-sentinel-github",
+    "title": "Social-Sentinel",
+    "shortDescription": "An open-source, AI-powered NLP tool designed to detect psychological manipulation, urgency, and zero-day social engineering tactics in emai…",
+    "fullDescription": "An open-source, AI-powered NLP tool designed to detect psychological manipulation, urgency, and zero-day social engineering tactics in emails and text messages.\n\nАвтор: Wecncode. Найдено в GitHub Trending (AI-тематика). ⭐ 9 звёзд.",
+    "url": "https://github.com/Wecncode/Social-Sentinel",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "mitre-atlas",
+      "ml",
+      "nlp",
+      "phishing-detection",
+      "social",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1345194743",
+    "createdAt": "2026-08-24T21:35:58.981Z"
+  },
+  {
+    "slug": "i-built-a-museum-of-ai-interfaces-hn",
+    "title": "I built a museum of AI interfaces",
+    "shortDescription": "Проект «I built a museum of AI interfaces», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built a museum of AI interfaces», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://interfaces.kylejeong.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49422293",
+    "createdAt": "2026-08-24T21:35:58.658Z"
+  },
+  {
     "slug": "codestatus-github",
     "title": "codestatus",
     "shortDescription": "Run several coding agents. Keep working. Come back only when one is done, or needs you.",
