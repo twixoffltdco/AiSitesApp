@@ -1,5 +1,113 @@
 [
   {
+    "slug": "ai-contributing-github",
+    "title": "ai-contributing",
+    "shortDescription": "Multi-agent governance for parallel AI coding agents on GitHub: claim-based task market, strict CI/CD gates, zero-runtime scaffold. Any age…",
+    "fullDescription": "Multi-agent governance for parallel AI coding agents on GitHub: claim-based task market, strict CI/CD gates, zero-runtime scaffold. Any agent (Codex, Claude Code, Cursor) — no daemon, no vendor lock-in.\n\nАвтор: 3900563672. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/3900563672/ai-contributing",
+    "category": "productivity",
+    "tags": [
+      "agent",
+      "agent-governance",
+      "agents",
+      "ai",
+      "ai-agents",
+      "automation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1342819737",
+    "createdAt": "2026-08-24T01:06:13.411Z"
+  },
+  {
+    "slug": "awesome-android-app-repositories-github",
+    "title": "awesome-android-app-repositories",
+    "shortDescription": "⚡ Curated & continuously updated catalog of 1,600+ open-source Android apps, GitHub repositories, developer tools, AI platforms, and utilit…",
+    "fullDescription": "⚡ Curated & continuously updated catalog of 1,600+ open-source Android apps, GitHub repositories, developer tools, AI platforms, and utilities automatically synchronized from Telegram.\n\nАвтор: krishna3163. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/krishna3163/awesome-android-app-repositories#readme",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-coding",
+      "ai-tools",
+      "android",
+      "android-app",
+      "apps",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1343346792",
+    "createdAt": "2026-08-24T01:06:13.411Z"
+  },
+  {
+    "slug": "hal-rules-github",
+    "title": "hal-rules",
+    "shortDescription": "Compose Claude Code rules from shareable packs, eslint-style: extend a base config, turn rules off, tune them",
+    "fullDescription": "Compose Claude Code rules from shareable packs, eslint-style: extend a base config, turn rules off, tune them\n\nАвтор: mikezaby. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/mikezaby/hal-rules",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude",
+      "configuration",
+      "configuration-management",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1343949130",
+    "createdAt": "2026-08-24T01:06:13.411Z"
+  },
+  {
+    "slug": "medora-github",
+    "title": "medora",
+    "shortDescription": "Search a symptom, an illness, or a medicine. We’ll help you find credible information and choose a safe next step.",
+    "fullDescription": "Search a symptom, an illness, or a medicine. We’ll help you find credible information and choose a safe next step.\n\nАвтор: yashmali26b-code. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://themedora.in",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "claude-code",
+      "cloudflare",
+      "free",
+      "healthcare",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1343548358",
+    "createdAt": "2026-08-24T01:06:13.411Z"
+  },
+  {
+    "slug": "qtranscribe-github",
+    "title": "qtranscribe",
+    "shortDescription": "Fast & Easy Voice Typing for Linux (Wayland)",
+    "fullDescription": "Fast & Easy Voice Typing for Linux (Wayland)\n\nАвтор: Vidhan31. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/Vidhan31/qtranscribe",
+    "category": "ai-tool",
+    "tags": [
+      "accessibility",
+      "ai",
+      "archlinux",
+      "fedora",
+      "free",
+      "gnome",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1343756775",
+    "createdAt": "2026-08-24T01:06:13.411Z"
+  },
+  {
     "slug": "aura-github",
     "title": "aura",
     "shortDescription": "Hardware-aware memory-budget enforcement & LLM inference orchestration for low-RAM laptops. Run 7B models under a strict 4GB budget without…",
