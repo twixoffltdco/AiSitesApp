@@ -1,5 +1,46 @@
 [
   {
+    "slug": "ppt-lai-github",
+    "title": "ppt-lai",
+    "shortDescription": "让传统 PPT 制作技艺在 AI 时代继续发光：一个生成与翻新千禧年风格演示稿的 AI Skill。",
+    "fullDescription": "让传统 PPT 制作技艺在 AI 时代继续发光：一个生成与翻新千禧年风格演示稿的 AI Skill。\n\nАвтор: astro-koko. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/astro-koko/ppt-lai",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "pptx",
+      "presentation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1342907930",
+    "createdAt": "2026-08-24T09:43:24.260Z"
+  },
+  {
+    "slug": "engineer-flow-github",
+    "title": "engineer-flow",
+    "shortDescription": "AI engineering skill with persistent memory, MCP/tool orchestration, dynamic skill discovery, context-aware routing, specialist delegation,…",
+    "fullDescription": "AI engineering skill with persistent memory, MCP/tool orchestration, dynamic skill discovery, context-aware routing, specialist delegation, automated validation, and security verification.\n\nАвтор: soden46. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/soden46/engineer-flow",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-coding",
+      "ai-tools",
+      "claude-code",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1343523317",
+    "createdAt": "2026-08-24T09:43:24.260Z"
+  },
+  {
     "slug": "cli-github",
     "title": "cli",
     "shortDescription": "🌱 Mintlify compatible alternative.",
