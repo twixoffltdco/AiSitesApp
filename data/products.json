@@ -1,5 +1,27 @@
 [
   {
+    "slug": "visioncraft-github",
+    "title": "VisionCraft",
+    "shortDescription": "Multi-modal AI workspace — image generation, analysis, OCR, and style transfer in one platform",
+    "fullDescription": "Multi-modal AI workspace — image generation, analysis, OCR, and style transfer in one platform\n\nАвтор: kamalesh404. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/kamalesh404/VisionCraft",
+    "category": "image-video",
+    "tags": [
+      "ai",
+      "computer-vision",
+      "deep-learning",
+      "image-analysis",
+      "image-generation",
+      "multi-modal",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1343840337",
+    "createdAt": "2026-08-24T16:33:19.066Z"
+  },
+  {
     "slug": "roundtable-github",
     "title": "RoundTable",
     "shortDescription": "Multi-AI discussion tool. Claude, Gemini, and ChatGPT debate, discuss, and build on each other's ideas live in your terminal.",
