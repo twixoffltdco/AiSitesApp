@@ -1,5 +1,27 @@
 [
   {
+    "slug": "duai-github",
+    "title": "duAI",
+    "shortDescription": "Privacy tool for Windows that detects and removes every trace of AI usage. 100% local, no telemetry, no accounts.",
+    "fullDescription": "Privacy tool for Windows that detects and removes every trace of AI usage. 100% local, no telemetry, no accounts.\n\nАвтор: Imandro. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://dontuseai.netlify.app/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "local-first",
+      "open-source",
+      "privacy",
+      "pyqt6",
+      "pyside6",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1343414875",
+    "createdAt": "2026-08-24T05:35:31.937Z"
+  },
+  {
     "slug": "loyal-bear-the-synthid-scrambler-github",
     "title": "Loyal-Bear---The-SynthID-Scrambler",
     "shortDescription": "Automatically remove SynthID from any image",
