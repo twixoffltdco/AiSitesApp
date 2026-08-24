@@ -1,5 +1,27 @@
 [
   {
+    "slug": "astralm-github",
+    "title": "AstraLM",
+    "shortDescription": "A high-performance, private, on-device AI chat client built with Flutter. AstraLM runs Large Language Models (LLMs) and Vision models 100%…",
+    "fullDescription": "A high-performance, private, on-device AI chat client built with Flutter. AstraLM runs Large Language Models (LLMs) and Vision models 100% locally on device hardware (CPU & GPU) with zero data leaving your phone.(until you choose to use cloud model which is completely OPTIONAL)\n\nАвтор: Prasun01. Найдено в GitHub Trending (AI-тематика). ⭐ 9 звёзд.",
+    "url": "https://github.com/Prasun01/AstraLM",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-coding",
+      "ai-tools",
+      "api",
+      "gemini-api",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1344104026",
+    "createdAt": "2026-08-24T18:50:46.238Z"
+  },
+  {
     "slug": "visioncraft-github",
     "title": "VisionCraft",
     "shortDescription": "Multi-modal AI workspace — image generation, analysis, OCR, and style transfer in one platform",
