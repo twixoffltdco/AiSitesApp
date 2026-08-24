@@ -1,5 +1,24 @@
 [
   {
+    "slug": "cli-github",
+    "title": "cli",
+    "shortDescription": "🌱 Mintlify compatible alternative.",
+    "fullDescription": "🌱 Mintlify compatible alternative.\n\nАвтор: papervine. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://www.papervine.io",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "docs",
+      "documentation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1343845132",
+    "createdAt": "2026-08-24T07:55:35.908Z"
+  },
+  {
     "slug": "ai-github-repository-assistant-github",
     "title": "ai-github-repository-assistant",
     "shortDescription": "AI-powered GitHub repository assistant with local Ollama models, repository analysis, grounded chat, and GitHub OAuth.",
