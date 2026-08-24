@@ -1,5 +1,70 @@
 [
   {
+    "slug": "loyal-bear-the-synthid-scrambler-github",
+    "title": "Loyal-Bear---The-SynthID-Scrambler",
+    "shortDescription": "Automatically remove SynthID from any image",
+    "fullDescription": "Automatically remove SynthID from any image\n\nАвтор: BovineOverlord. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://github.com/BovineOverlord/Loyal-Bear---The-SynthID-Scrambler",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-image",
+      "ai-image-editing",
+      "ai-image-processing",
+      "synthid",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1342901529",
+    "createdAt": "2026-08-24T02:43:58.463Z"
+  },
+  {
+    "slug": "clipcloak-github",
+    "title": "ClipCloak",
+    "shortDescription": "A local-first security layer that helps prevent accidental leaks of secrets, API keys, and PII to AI coding agents, developer tools, and ch…",
+    "fullDescription": "A local-first security layer that helps prevent accidental leaks of secrets, API keys, and PII to AI coding agents, developer tools, and chats.\n\nАвтор: tkusal. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/tkusal/ClipCloak",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-security",
+      "ai-security-tool",
+      "cybersecurity",
+      "pii-detection",
+      "pii-detection-ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1342471994",
+    "createdAt": "2026-08-24T02:43:58.463Z"
+  },
+  {
+    "slug": "harness-subagent-github",
+    "title": "harness-subagent",
+    "shortDescription": "Dispatch Claude Code, Codex, or Grok as a one-shot subagent, then synthesize.",
+    "fullDescription": "Dispatch Claude Code, Codex, or Grok as a one-shot subagent, then synthesize.\n\nАвтор: ptmrio. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/ptmrio/harness-subagent",
+    "category": "ai-tool",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "claude-code",
+      "codex",
+      "cursor",
+      "grok",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1343414845",
+    "createdAt": "2026-08-24T02:43:58.463Z"
+  },
+  {
     "slug": "ai-contributing-github",
     "title": "ai-contributing",
     "shortDescription": "Multi-agent governance for parallel AI coding agents on GitHub: claim-based task market, strict CI/CD gates, zero-runtime scaffold. Any age…",
