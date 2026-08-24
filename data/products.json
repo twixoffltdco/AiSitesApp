@@ -1,5 +1,43 @@
 [
   {
+    "slug": "omnispace-github",
+    "title": "OmniSpace",
+    "shortDescription": "AIGC短剧全流程创作平台 - 剧本/分镜/角色/配音/视频生成一站式，本地GPU推理，数据不出机器，从创意到成片一条龙（v2.3.1版，存在多种bug，需要大神帮帮忙）",
+    "fullDescription": "AIGC短剧全流程创作平台 - 剧本/分镜/角色/配音/视频生成一站式，本地GPU推理，数据不出机器，从创意到成片一条龙（v2.3.1版，存在多种bug，需要大神帮帮忙）\n\nАвтор: Yzw202011. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Yzw202011/OmniSpace",
+    "category": "image-video",
+    "tags": [
+      "ai",
+      "comic",
+      "diffusers",
+      "fastapi",
+      "generative-art",
+      "image-generation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1343865323",
+    "createdAt": "2026-08-24T19:55:19.124Z"
+  },
+  {
+    "slug": "school-chaos-zero-stress-nuet-organizes-it-all-hn",
+    "title": "School chaos. Zero stress. Nuet organizes it all",
+    "shortDescription": "Проект «School chaos. Zero stress. Nuet organizes it all», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «School chaos. Zero stress. Nuet organizes it all», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.nuet.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49424704",
+    "createdAt": "2026-08-24T19:55:19.070Z"
+  },
+  {
     "slug": "deep-graph-github",
     "title": "deep-graph",
     "shortDescription": "Structural context for AI code review. Resolves blast radius through the TypeScript type system.",
