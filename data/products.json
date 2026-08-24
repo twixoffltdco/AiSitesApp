@@ -1,5 +1,43 @@
 [
   {
+    "slug": "codestatus-github",
+    "title": "codestatus",
+    "shortDescription": "Run several coding agents. Keep working. Come back only when one is done, or needs you.",
+    "fullDescription": "Run several coding agents. Keep working. Come back only when one is done, or needs you.\n\nАвтор: henriquegpb. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://codestatus-hb.vercel.app",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1343151030",
+    "createdAt": "2026-08-24T20:59:03.614Z"
+  },
+  {
+    "slug": "ai-stylist-and-virtual-try-on-for-hair-makeup-and-outfits-hn",
+    "title": "AI stylist and virtual try-on for hair, makeup, and outfits",
+    "shortDescription": "Проект «AI stylist and virtual try-on for hair, makeup, and outfits», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI stylist and virtual try-on for hair, makeup, and outfits», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://mybestlook.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49425597",
+    "createdAt": "2026-08-24T20:59:03.427Z"
+  },
+  {
     "slug": "ai-for-people-that-still-browse-the-web-hn",
     "title": "AI for people that still browse the web",
     "shortDescription": "Проект «AI for people that still browse the web», опубликован сообществом Hacker News.",
