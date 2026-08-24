@@ -1,5 +1,27 @@
 [
   {
+    "slug": "ai-github-repository-assistant-github",
+    "title": "ai-github-repository-assistant",
+    "shortDescription": "AI-powered GitHub repository assistant with local Ollama models, repository analysis, grounded chat, and GitHub OAuth.",
+    "fullDescription": "AI-powered GitHub repository assistant with local Ollama models, repository analysis, grounded chat, and GitHub OAuth.\n\nАвтор: Wadan3. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/Wadan3/ai-github-repository-assistant",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "developer-tools",
+      "github",
+      "github-api",
+      "github-oauth",
+      "local-ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1344047658",
+    "createdAt": "2026-08-24T06:52:15.572Z"
+  },
+  {
     "slug": "duai-github",
     "title": "duAI",
     "shortDescription": "Privacy tool for Windows that detects and removes every trace of AI usage. 100% local, no telemetry, no accounts.",
