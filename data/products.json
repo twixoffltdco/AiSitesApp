@@ -1,5 +1,27 @@
 [
   {
+    "slug": "roundtable-github",
+    "title": "RoundTable",
+    "shortDescription": "Multi-AI discussion tool. Claude, Gemini, and ChatGPT debate, discuss, and build on each other's ideas live in your terminal.",
+    "fullDescription": "Multi-AI discussion tool. Claude, Gemini, and ChatGPT debate, discuss, and build on each other's ideas live in your terminal.\n\nАвтор: MABFLOW. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/MABFLOW/RoundTable",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "cli",
+      "gemini",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1344582918",
+    "createdAt": "2026-08-24T10:34:11.434Z"
+  },
+  {
     "slug": "ppt-lai-github",
     "title": "ppt-lai",
     "shortDescription": "让传统 PPT 制作技艺在 AI 时代继续发光：一个生成与翻新千禧年风格演示稿的 AI Skill。",
