@@ -1,5 +1,37 @@
 [
   {
+    "slug": "i-built-a-spatial-graph-alternative-to-the-algorithmic-feed-hn",
+    "title": "I built a spatial graph alternative to the algorithmic feed",
+    "shortDescription": "Проект «I built a spatial graph alternative to the algorithmic feed», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built a spatial graph alternative to the algorithmic feed», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aphant.dev",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49439997",
+    "createdAt": "2026-08-25T20:29:15.409Z"
+  },
+  {
+    "slug": "feral-one-local-brain-with-memory-for-your-devices-and-apps-hn",
+    "title": "Feral – one local brain with memory for your devices and apps",
+    "shortDescription": "Проект «Feral – one local brain with memory for your devices and apps», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Feral – one local brain with memory for your devices and apps», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/FERAL-AI/FERAL-AI",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49439940",
+    "createdAt": "2026-08-25T20:29:15.409Z"
+  },
+  {
     "slug": "needle-github",
     "title": "needle",
     "shortDescription": "NEEDLE. A live search and retrieval benchmark from Keenable.ai",
