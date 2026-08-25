@@ -1,5 +1,53 @@
 [
   {
+    "slug": "conversational-data-intelligence-accelerator-hn",
+    "title": "Conversational Data Intelligence Accelerator",
+    "shortDescription": "An Enterprise AI Data Assistant that turns everyday questions into validated SQL, decision-ready visualizations, and traceable answers from…",
+    "fullDescription": "An Enterprise AI Data Assistant that turns everyday questions into validated SQL, decision-ready visualizations, and traceable answers from approved enterprise data.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://geekyants.com/ai-accelerator/conversational-data-intelligence-accelerator",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49432341",
+    "createdAt": "2026-08-25T11:54:04.274Z"
+  },
+  {
+    "slug": "coffeetable-a-new-ux-to-discover-books-inside-claude-hn",
+    "title": "Coffeetable, A new UX to discover books inside Claude",
+    "shortDescription": "People already come to Claude before buying a book. They ask what to read, whether a book is worth starting etc. With coffeetable installed…",
+    "fullDescription": "People already come to Claude before buying a book. They ask what to read, whether a book is worth starting etc. With coffeetable installed(a claude connector) Claude can now bring you few pages right inside the chat. What better way to decide you like a book than actually read a few pages Also I recommend everyone ask Claude. &quot;Based on everything you know about me, what are some books I must read&quot;\n\nНайдено в разделе Show HN на Hacker News. 👍 8 баллов.",
+    "url": "https://claude.ai/directory/coffeetable",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49431866",
+    "createdAt": "2026-08-25T11:54:04.274Z"
+  },
+  {
+    "slug": "coolplugz-a-claude-mcp-that-turns-jira-tickets-into-a-merge-ready-pr-hn",
+    "title": "CoolPlugz – A Claude MCP that turns Jira tickets into a merge-ready PR",
+    "shortDescription": "Hi folks, I&#x27;ve been a fullstack dev and solopreneur for 9 years and the last 3 I have been using AI and MCP related tools in my dev en…",
+    "fullDescription": "Hi folks, I&#x27;ve been a fullstack dev and solopreneur for 9 years and the last 3 I have been using AI and MCP related tools in my dev environment. Most recently I had a lot of work for a blockchain client and started using claude code more than usual. I connected jira and GitHub mcps inside claude to fetch context, but I still had to repeat myself a lot. I guided it on how to go about branching, finding repos, testing against CI and open merge-ready PRs. I also had to create a source-of-truth file for coding principles as well. I actually tracked this and I spent on avg 75 mins a day, repeating, copy-pasting and arguing with it to deliver a task. So I built this mcp orchestrator - Coolplugz - to basically feed in all the instructions and coding principles in an agentic-native way so I don&#x27;t have to be involved in the process of going from a Jira ticket to a merge-ready PR so much. And it is portable which comes quite handy. It has been working quite well so far, and saved me a few hours per week already. You can try it out for free and let me know what you think in the comments.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/adaOctopus/claude-plugins-app",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49431842",
+    "createdAt": "2026-08-25T11:54:04.275Z"
+  },
+  {
     "slug": "hypenote-github",
     "title": "hypenote",
     "shortDescription": "Privacy first, AI meeting assistant: transcription, speaker diarization, summarization. 100% local processing. no cloud required. Hypenote…",
