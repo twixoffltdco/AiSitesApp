@@ -1,5 +1,21 @@
 [
   {
+    "slug": "ablo-make-your-ai-app-multiplayer-hn",
+    "title": "Ablo, make your AI app multiplayer",
+    "shortDescription": "Agent work is safe today mostly because agents work alone. With one agent, one session and one person working on a task. It&#x27;s essentia…",
+    "fullDescription": "Agent work is safe today mostly because agents work alone. With one agent, one session and one person working on a task. It&#x27;s essentially single-player. This changes when a platform has multiple people, each working with multiple agents, all acting on shared tasks and shared data, (multiplayer). Ablo is the infrastructure that enables agents and the people working alongside them to read and write on the same state. Traditional sync engines make sure everyone sees the same state, Ablo does that too but the difference is that Ablo also governs who gets to act on it. Would love feedback from anyone who has experienced this problem.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Abloatai/ablo",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49430701",
+    "createdAt": "2026-08-25T09:32:19.298Z"
+  },
+  {
     "slug": "i-built-an-ai-music-generator-with-some-harnesses-hn",
     "title": "I built an AI music generator with some harnesses",
     "shortDescription": "I’m a developer, and also a music producer. When I work on commercial music, especially songs for ads, I’ve gotten pretty used to using AI…",
