@@ -1,5 +1,43 @@
 [
   {
+    "slug": "hypenote-github",
+    "title": "hypenote",
+    "shortDescription": "Privacy first, AI meeting assistant: transcription, speaker diarization, summarization. 100% local processing. no cloud required. Hypenote…",
+    "fullDescription": "Privacy first, AI meeting assistant: transcription, speaker diarization, summarization. 100% local processing. no cloud required. Hypenote (Hypenote - https://hypenote.ai) is the smart recorder for your AI meeting assistants.\n\nАвтор: hypenote. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://hypenote.ai",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-meeting-assistant",
+      "ai-meeting-intelligence",
+      "ai-meeting-notes",
+      "hardware",
+      "local-ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1345100748",
+    "createdAt": "2026-08-25T10:28:53.174Z"
+  },
+  {
+    "slug": "skillpreflight-score-ai-agent-skills-before-installing-them-hn",
+    "title": "SkillPreflight – score AI agent skills before installing them",
+    "shortDescription": "Проект «SkillPreflight – score AI agent skills before installing them», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «SkillPreflight – score AI agent skills before installing them», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/agent-contracts/skill-preflight",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49431357",
+    "createdAt": "2026-08-25T10:28:52.925Z"
+  },
+  {
     "slug": "ablo-make-your-ai-app-multiplayer-hn",
     "title": "Ablo, make your AI app multiplayer",
     "shortDescription": "Agent work is safe today mostly because agents work alone. With one agent, one session and one person working on a task. It&#x27;s essentia…",
