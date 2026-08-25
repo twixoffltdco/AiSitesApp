@@ -1,5 +1,24 @@
 [
   {
+    "slug": "eve-sre-agent-template-github",
+    "title": "eve-sre-agent-template",
+    "shortDescription": "Meet sre, an eve incident response agent.",
+    "fullDescription": "Meet sre, an eve incident response agent.\n\nАвтор: vercel-labs. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://vercel.com/kb/guide/eve-incident-sre-agent",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "vercel",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1345594423",
+    "createdAt": "2026-08-25T17:58:01.316Z"
+  },
+  {
     "slug": "player-vs-computer-fight-your-computer-in-my-web-game-hn",
     "title": "Player vs. Computer – fight your computer in my web game",
     "shortDescription": "Hi, Hello and Welcome, Everyone! I&#x27;m Filip, a.k.a. Rubinosław from REParadoxy, and I wanna present to you my first own web video game,…",
