@@ -1,5 +1,21 @@
 [
   {
+    "slug": "peerpixel-community-powered-ai-image-generation-hn",
+    "title": "PeerPixel, community-powered AI image generation",
+    "shortDescription": "Проект «PeerPixel, community-powered AI image generation», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «PeerPixel, community-powered AI image generation», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://peerpixel.cc/",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49428420",
+    "createdAt": "2026-08-25T02:37:41.360Z"
+  },
+  {
     "slug": "wingman-github",
     "title": "wingman",
     "shortDescription": "Decision review and outcome verification for tool-using AI agents",
