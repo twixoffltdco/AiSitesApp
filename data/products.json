@@ -1,5 +1,21 @@
 [
   {
+    "slug": "cookwing-an-ai-chef-that-doesnt-hallucinate-quantities-hn",
+    "title": "CookWing, an AI chef that doesn't hallucinate quantities",
+    "shortDescription": "Hey HN! I just released Cookwing. This is an AI app that solves the biggest problem I had when I was cooking with ChatGPT : The quantities…",
+    "fullDescription": "Hey HN! I just released Cookwing. This is an AI app that solves the biggest problem I had when I was cooking with ChatGPT : The quantities are often hallucinated. I was curious, so I even built my own cooking quantity benchmark while development, and here are the results. We&#x27;re using my system, which is anchoring tables that are searched in the original country of the recipe. For example, when cooking carbonara, it&#x27;s going to check for the Italian web for the anchoring table, not the English web. Benchmark results : https:&#x2F;&#x2F;cook.redwi.ng&#x2F;static&#x2F;blog&#x2F;cookbench-v1-cooking-quant... The results were quite stunning, We reached 90% correct runs in average with correct quantities, and I&#x27;m saying that because I actually cooked myself these and I know the exact quantities Required for these recipes. Feel free to try it and give me your thoughts!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://play.google.com/store/apps/details?id=com.redwing.vibecooking&hl=en_US",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49429600",
+    "createdAt": "2026-08-25T05:59:04.324Z"
+  },
+  {
     "slug": "when-ai-decides-what-matters-hn",
     "title": "When AI Decides What Matters",
     "shortDescription": "Проект «When AI Decides What Matters», опубликован сообществом Hacker News.",
