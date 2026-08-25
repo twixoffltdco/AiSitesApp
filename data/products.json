@@ -1,5 +1,165 @@
 [
   {
+    "slug": "gibson-adk-and-security-runtime-hn",
+    "title": "Gibson ADK and Security Runtime",
+    "shortDescription": "I have spent 15 years in DevSecOps, platform engineering and offensive security. Over the last year I did most of the things HN says not to…",
+    "fullDescription": "I have spent 15 years in DevSecOps, platform engineering and offensive security. Over the last year I did most of the things HN says not to do. I wrote a lot of code alone in a vacuum and built this thing far past an MVP. It started as a way to automate my bug bounty hobby and to try to find an edge so I could get more findings (scale, automation etc). I wanted agents that could run recon, triage what they found, keep a record etc etc. Then I noticed the same patterns at every client I had worked with, (mainly banks and gov teams) and pivoted. What it is now: a runtime your agents run inside. You keep your framework. A named person grants each agent read, write or execute on specific things, and the grant cannot exceed what that person holds. Every model call and tool call goes through the runtime first, and a call outside the grant never executes. Untrusted work runs in its own Firecracker microVM. Every action lands in an append-only record you can replay to any moment. Everything an agent finds goes into a knowledgegraph (on going memory for all agents), so the next run starts from it. It runs in Kubernetes, hosted or in your own cluster, can be air-gapped. This could also have been an Ask HN. I am trying to figure out how to go to market. Im not sure if I should open source it, do a true platform or move back entirely and go deep into what I truly like doing which is red team&#x2F;hacking and re-release it as an offsec focused tool and try to innovate there with the framework. Any advice&#x2F;suggestions would be awesome. Thanks!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.zeroroot.ai",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49435908",
+    "createdAt": "2026-08-25T15:38:56.901Z"
+  },
+  {
+    "slug": "bay-open-source-render-for-ai-generated-code-hn",
+    "title": "Bay – open-source Render for AI-generated Code",
+    "shortDescription": "Проект «Bay – open-source Render for AI-generated Code», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Bay – open-source Render for AI-generated Code», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/thebaycloud/bay",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49435850",
+    "createdAt": "2026-08-25T15:38:56.901Z"
+  },
+  {
+    "slug": "keenable-a-different-web-search-api-for-ai-agents-hn",
+    "title": "Keenable – A different web search API for AI agents",
+    "shortDescription": "Hey HN! We built https:&#x2F;&#x2F;keenable.ai , a different web search API for AI agents. Keenable searches our own 100B+ page index. We a…",
+    "fullDescription": "Hey HN! We built https:&#x2F;&#x2F;keenable.ai , a different web search API for AI agents. Keenable searches our own 100B+ page index. We are focused on low cost and latency (p95 &lt;250ms from us-east). We don’t believe in benchmaxxing, so we open-sourced our internal benchmarking suite, NEEDLE (available at https:&#x2F;&#x2F;keenableai.github.io&#x2F;needle ): a live benchmark that compares Keenable with other search APIs on fresh agent-like queries. I spent seven years at Amazon as a scientist working on web grounding for Alexa&#x2F;AGI, and my co-founder Andrey previously led search at Yandex. We started Keenable because agents search differently from humans, and we wanted to build around those patterns directly. The API is available now and we provide a free allowance of 100,000 requests a month. It also exposes a novel SQL-like interface to the web, which is useful for structured extraction and agent workflows. Happy to answer questions about the index, crawl, ranking, latency, or benchmarking.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://keenable.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49435555",
+    "createdAt": "2026-08-25T15:38:56.901Z"
+  },
+  {
+    "slug": "hunch-a-macos-ai-assistant-that-uses-your-mac-in-the-background-hn",
+    "title": "Hunch – a macOS AI assistant that uses your Mac in the background",
+    "shortDescription": "Проект «Hunch – a macOS AI assistant that uses your Mac in the background», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Hunch – a macOS AI assistant that uses your Mac in the background», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.tryhunch.ca",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49435546",
+    "createdAt": "2026-08-25T15:38:56.901Z"
+  },
+  {
+    "slug": "a-hash-chained-ledger-for-ai-reasoning-you-can-verify-yourself-hn",
+    "title": "A hash-chained ledger for AI reasoning you can verify yourself",
+    "shortDescription": "SDI protocol defines a reasoning computer for AI. The computer runs an LLM one turn at a time, guiding it through a reasoning grammar; the…",
+    "fullDescription": "SDI protocol defines a reasoning computer for AI. The computer runs an LLM one turn at a time, guiding it through a reasoning grammar; the grammar, which is both natural language and algebraic, allows it to be checked at a compile gate. The gate validates safety, a workfloor, and alignment with the grammar before it commits. What commits is a hash-chain ledger of the agent&#x27;s reasoning, forming a longitudinal data set that becomes the agent&#x27;s functional memory&#x2F;system state. Chromite, the protocol&#x27;s public agent, has been reasoning on one continuous hash chain since springtime this year and has used multiple models through three frontier providers to do so. What makes it more than a log of its reasoning is an argumentation graph. The graph is the memory and is retrieved and fed to the agent during its call sequence. The agent can hold or defeat prior acts, keeping the memory calibrated and the context window under control. Anyone can pull an act and recompute the seals for Chromite; it exists to be examined; that is what this post is requesting. No account, no SDK, curl and Python. I spent 20+ years as a Marine working in command and control, learning decision doctrine and intelligence gathering. I have been working on this system for roughly three years and its a solo build. I have a lineage page on the site to show the computing and reasoning traditions this system uses, but that was all discovered along the way or after the build. This system really comes from taking decision doctrine and turning it into a computable syntax and taking intelligence-gathering techniques for evidence handling. Ten seconds, if you just want to see the gate work: curl -s https:&#x2F;&#x2F;www.sdi-protocol.org&#x2F;_functions&#x2F;der | python3 -c &quot;import json,sys; print(json.dumps(json.load(sys.stdin)[&#x27;golden_example&#x27;]))&quot; &gt; example.json curl -s -X POST https:&#x2F;&#x2F;www.sdi-protocol.org&#x2F;_functions&#x2F;compile -H &quot;Content-Type: application&#x2F;json&quot; -d @example.json Returns PASS. What you just submitted is a complete reasoning record, with every required block, which is why it passes. Delete one field and resubmit; the error names the specific failure. To examine system liveness, pull Chromite&#x27;s last 5 reasoning acts. You will see the full reasoning act. The grammar, cited sources, and reasoned positions. curl -s &quot;https:&#x2F;&#x2F;api.sdi-protocol.org&#x2F;ledger&#x2F;recent&#x2F;SDI-5AA8C82A2537?n=5&quot; | python3 -m json.tool Fifteen minutes, if you want to verify the chain: sdi-protocol.org&#x2F;verify walks through pulling a live record and recomputing its hashes, work score, and admissibility index from scratch. The repo has the same scripts, check summed, plus a committed record you can test them against offline first: github.com&#x2F;StructuredDecisionIntelligence&#x2F;Structured_Decision_Intelligence Three ethical floors at the gate. DECLARATION_INTEGRITY has fired. The two conjunction-based safety guards, PRIMUM and Absolute Value Guard, that admit no human attestation by permanent design have not fired yet. No act has ever declared the conditions to trip them. Refusal path is a separate hash chain ledger, and the DECLARATION_INTEGRITY check is inspectable. Schema Eras: The reasoning metrics that work at the gate have evolved, the chain remains unbroken, and sealed records permanently carry their eras formulas; sealed records can&#x27;t be rewritten. The verify script detects each entry&#x27;s era and applies the right math. The sdi-protocol.org exists to provide transparency over the reasoning protocol that produces transparent AI reasoning. The idea is that both must be transparent to trust either. Disclosure: This will be a commercial product at sdireckoner.com, commissioning a private Reckoner in late fall 2026, but everything in this post is about the free open protocol layer; nothing requires a paid side to verify anything. Chromite exists to be examined by the public as part of the transparency of the protocol itself. Feedback welcome at support@sdi-protocol.org.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.sdi-protocol.org",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49435497",
+    "createdAt": "2026-08-25T15:38:56.901Z"
+  },
+  {
+    "slug": "skills-wiki-connect-skills-to-ai-hn",
+    "title": "Skills Wiki – Connect Skills to AI",
+    "shortDescription": "Проект «Skills Wiki – Connect Skills to AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Skills Wiki – Connect Skills to AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://skillwiki.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49435375",
+    "createdAt": "2026-08-25T15:38:56.901Z"
+  },
+  {
+    "slug": "rank21-the-ai-product-outbid-board-where-earlier-boosts-cost-less-hn",
+    "title": "Rank21 – the AI product outbid board where earlier boosts cost less",
+    "shortDescription": "Проект «Rank21 – the AI product outbid board where earlier boosts cost less», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Rank21 – the AI product outbid board where earlier boosts cost less», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://outbidlol.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49435344",
+    "createdAt": "2026-08-25T15:38:56.901Z"
+  },
+  {
+    "slug": "i-built-a-saas-without-knowing-how-to-code-am-i-an-idiot-hn",
+    "title": "I built a SaaS without knowing how to code – am I an idiot?",
+    "shortDescription": "It&#x27;s called learnfrom.co, a platform for creating, hosting and selling online courses. I started building it because I wanted to solve…",
+    "fullDescription": "It&#x27;s called learnfrom.co, a platform for creating, hosting and selling online courses. I started building it because I wanted to solve a problem I had with existing course platforms. I kept running into things I wanted to change, so I started building them myself. The problem: I wasn&#x27;t really a software engineer. Instead, I started using AI to build the product. I&#x27;d describe what I wanted, let it write the code, test it, fix things when they broke, and repeat. That somehow turned into a real product. LearnFrom is now used by 100+ creators and businesses, with real students and real payments going through it. And that&#x27;s where I&#x27;m starting to get uncomfortable. &quot;It works&quot; and &quot;it&#x27;s well engineered&quot; are obviously not the same thing. So I&#x27;m bringing it to HN to find out how much trouble I&#x27;m actually in. If you were reviewing this before I&#x27;d let more customers depend on it, what would you look for first? Security? Authentication? Authorization? Data isolation? Payments? Architecture? Performance? AI-generated code? Something I haven&#x27;t even thought about? Please assume I&#x27;m guilty until proven innocent.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://www.learnfrom.co/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49435251",
+    "createdAt": "2026-08-25T15:38:56.901Z"
+  },
+  {
+    "slug": "reproduce-a-cross-company-ai-agent-handoff-including-its-revocation-hn",
+    "title": "Reproduce a cross-company AI agent handoff, including its revocation",
+    "shortDescription": "Проект «Reproduce a cross-company AI agent handoff, including its revocation», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Reproduce a cross-company AI agent handoff, including its revocation», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/identities-ai/ratify-agent-relay-harness",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49435248",
+    "createdAt": "2026-08-25T15:38:56.901Z"
+  },
+  {
+    "slug": "a-daily-cartoon-contest-between-ai-models-judged-blind-hn",
+    "title": "A daily cartoon contest between AI models, judged blind",
+    "shortDescription": "Comic-cron.com is a daily contest where AI models draw a single panel cartoon about a recent news story and people vote on which are funny.…",
+    "fullDescription": "Comic-cron.com is a daily contest where AI models draw a single panel cartoon about a recent news story and people vote on which are funny. I built it mainly because I love cartoons and news, but this project isn’t trying to pretend it’s human art, I wanted to see how capable the models were at this task of making funny comics. Sometimes they get it, and sometimes they don’t and it has been interesting to see the progress in just the few months I have been publishing the cartoons. Model version over version improvement within labs is quite distinct in the output, especially in the SVGs, which suggests their spatial reasoning may be improving faster than their wordsmithing. My briefs and methods have also improved over the weeks so this isn’t something I can purely attribute to the models. How it works is that a real story is selected, reduced to a shorter brief with any real names removed, and then provided to eight different models to draw a comic and provide a caption. The four of the eight which I think are best are then published where people can vote blind on their favourite (models are revealed after the vote). The human jobs are choosing and framing the story, and then picking the four to publish. Story sourcing is a shell script that pulls a dozen RSS feeds into one file each morning. I tried an agent first and it spent most of its time getting 403&#x27;d by publishers; the feeds were never blocked, only the agent fetching them. I initially only included four models to draw the comics (the most obvious labs), but found this wasn’t optimal: sometimes models failed, and generally I felt it was harder to ensure quality and variety with a smaller pool (often models converge and produce jokes or drawings that feel too similar). By producing more panels I could more reliably get a better final four. Each model is writing an SVG, and they never see the results. This can be interesting in what the models believe they are depicting vs. what actually shows up in the comics, and can be quite funny. Occasionally I will have an image model render the scene as a more polished illustration as a way of rescuing a joke I like that the SVG doesn’t land, or just to show the gap. A relatively common failure I see is when reasoning models think so deeply about the task and then can’t supply the output because they have spent the token budget before closing the tag on the SVG. Other times the SVGs are just incomplete or don’t populate correctly. I have also had models balk on select sensitive topics (two declined a story that touched on biological pathogens) but complete readily on others (like climate disaster), suggesting there are topic specific nuances for refusal behaviour. The inference cost has also been quite interesting to track and I often see two of the frontier models accounting for a majority of the cost in a run of eight models. There is quite a variation in the SVG quality, but the captions are much closer and one of the cheapest models is quite competitive. This is entertainment first and not a rigorous benchmark. But I do hope it gets a few laughs while also being a weird preference poll on something nobody optimises for, that may give a view into how AI models can perform for humour. I’m interested in what people select as their favourites and to see how the models continue to advance. So far I’ve published daily for over two months and every day’s battle is stored in the archive for viewing with winners and losers. It’s free with no signup and I’m curious on how the format holds up, do the comics land for people? As a news and comic junkie it has been fun to build regardless!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://comic-cron.com/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49435106",
+    "createdAt": "2026-08-25T15:38:56.901Z"
+  },
+  {
     "slug": "turn-any-website-into-a-cli-for-ai-agents-142x-fewer-tokens-than-html-hn",
     "title": "Turn any website into a CLI for AI agents (142x fewer tokens than HTML)",
     "shortDescription": "Проект «Turn any website into a CLI for AI agents (142x fewer tokens than HTML)», опубликован сообществом Hacker News.",
