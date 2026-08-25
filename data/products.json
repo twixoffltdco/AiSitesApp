@@ -1,5 +1,59 @@
 [
   {
+    "slug": "deepagents-learn-github",
+    "title": "deepagents-learn",
+    "shortDescription": "Deep Agents 学习",
+    "fullDescription": "Deep Agents 学习\n\nАвтор: Pjk-llm. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/Pjk-llm/deepagents-learn",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "deepagents",
+      "langchain",
+      "langgraph",
+      "learning",
+      "python",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1343480311",
+    "createdAt": "2026-08-25T18:44:16.716Z"
+  },
+  {
+    "slug": "limitless-library-ai-agents-check-first-before-starting-from-scratch-hn",
+    "title": "Limitless Library – AI agents check first before starting from scratch",
+    "shortDescription": "Проект «Limitless Library – AI agents check first before starting from scratch», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Limitless Library – AI agents check first before starting from scratch», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Univeracity/limitlesslibrary",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49438658",
+    "createdAt": "2026-08-25T18:44:16.491Z"
+  },
+  {
+    "slug": "dribbling-the-ai-watermark-directly-in-prompt-hn",
+    "title": "Dribbling the AI Watermark Directly In-Prompt",
+    "shortDescription": "Проект «Dribbling the AI Watermark Directly In-Prompt», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Dribbling the AI Watermark Directly In-Prompt», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.explore-exploit.com/p/dribbling-the-ai-watermark-directly",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49438392",
+    "createdAt": "2026-08-25T18:44:16.491Z"
+  },
+  {
     "slug": "eve-sre-agent-template-github",
     "title": "eve-sre-agent-template",
     "shortDescription": "Meet sre, an eve incident response agent.",
