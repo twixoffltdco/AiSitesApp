@@ -1,5 +1,43 @@
 [
   {
+    "slug": "world-model-simulators-github",
+    "title": "world-model-simulators",
+    "shortDescription": "A curated list of resources on generative world models as simulators, based on the comprehensive survey \"From Generation to Simulation: How…",
+    "fullDescription": "A curated list of resources on generative world models as simulators, based on the comprehensive survey \"From Generation to Simulation: How Far Are World Models from Being True Simulators?\" .\n\nАвтор: AtongWang. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://arxiv.org/abs/2608.23070",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "awesome-list",
+      "paper-list",
+      "simulation",
+      "simulator",
+      "video-generation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1344492727",
+    "createdAt": "2026-08-25T07:50:24.215Z"
+  },
+  {
+    "slug": "todays-fortune-experience-with-threejs-hn",
+    "title": "Today's Fortune Experience with Three.js",
+    "shortDescription": "Hi I made a game with Three.js and AI. This is inspired by omikuji(Japanese fortune) — the paper fortunes you draw at Japanese shrines. It…",
+    "fullDescription": "Hi I made a game with Three.js and AI. This is inspired by omikuji(Japanese fortune) — the paper fortunes you draw at Japanese shrines. It supports multiplayer, and you can draw a new fortune every day. If you get a bad fortune, you can tie the paper up to ward off the bad luck. Any and all feedback is welcome!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://omikuji.hyungyu.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49430112",
+    "createdAt": "2026-08-25T07:50:23.989Z"
+  },
+  {
     "slug": "planetary-energy-routing-protocol-perp-hn",
     "title": "Planetary Energy Routing Protocol (PERP)",
     "shortDescription": "Designed to balance global energy supply and demand in real time without requiring a centralized corporate or government monopoly. By treat…",
