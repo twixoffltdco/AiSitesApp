@@ -1,5 +1,58 @@
 [
   {
+    "slug": "needle-github",
+    "title": "needle",
+    "shortDescription": "NEEDLE. A live search and retrieval benchmark from Keenable.ai",
+    "fullDescription": "NEEDLE. A live search and retrieval benchmark from Keenable.ai\n\nАвтор: keenableai. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://keenableai.github.io/needle/",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "benchmark",
+      "search",
+      "web",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1345534791",
+    "createdAt": "2026-08-25T19:56:38.189Z"
+  },
+  {
+    "slug": "minimax-h3-turn-text-and-images-into-ai-video-clips-hn",
+    "title": "MiniMax H3 – Turn text and images into AI video clips",
+    "shortDescription": "Проект «MiniMax H3 – Turn text and images into AI video clips», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «MiniMax H3 – Turn text and images into AI video clips», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://minimax3.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49439577",
+    "createdAt": "2026-08-25T19:56:37.942Z"
+  },
+  {
+    "slug": "ai-seo-blog-driven-by-deep-competitor-intelligence-hn",
+    "title": "AI SEO Blog driven by deep competitor intelligence",
+    "shortDescription": "Проект «AI SEO Blog driven by deep competitor intelligence», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI SEO Blog driven by deep competitor intelligence», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.rankspot.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49439372",
+    "createdAt": "2026-08-25T19:56:37.942Z"
+  },
+  {
     "slug": "fetchmark-an-offline-first-read-later-app-with-ai-summaries-hn",
     "title": "FetchMark – An Offline-first read-later app with AI summaries",
     "shortDescription": "Проект «FetchMark – An Offline-first read-later app with AI summaries», опубликован сообществом Hacker News.",
