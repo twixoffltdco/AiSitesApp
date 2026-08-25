@@ -1,5 +1,37 @@
 [
   {
+    "slug": "turn-any-website-into-a-cli-for-ai-agents-142x-fewer-tokens-than-html-hn",
+    "title": "Turn any website into a CLI for AI agents (142x fewer tokens than HTML)",
+    "shortDescription": "Проект «Turn any website into a CLI for AI agents (142x fewer tokens than HTML)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Turn any website into a CLI for AI agents (142x fewer tokens than HTML)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/only-cli/oc",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49434400",
+    "createdAt": "2026-08-25T14:41:32.032Z"
+  },
+  {
+    "slug": "unbox-ai-visualize-your-ai-traces-like-a-javascript-bundle-hn",
+    "title": "Unbox-AI Visualize your AI traces like a JavaScript bundle",
+    "shortDescription": "When building AI agents, I found myself struggling to understand what exactly is happening inside of all of our traces. I was pasting huge…",
+    "fullDescription": "When building AI agents, I found myself struggling to understand what exactly is happening inside of all of our traces. I was pasting huge JSON files to my AI agent to parse and get some useful insights from it. Then I thought, Webpack bundle visualizer had this great view to see all your dependencies - what if we could visualize AI context from traces like this? So I built unbox-ai. It&#x27;s just one command: npx unbox-ai trace.json It also ships with an agent skill so your AI agent doesn&#x27;t need to parse through a huge JSON file to analyze a trace. Let me know what you think!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/tester-army/unbox-ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49434251",
+    "createdAt": "2026-08-25T14:41:32.032Z"
+  },
+  {
     "slug": "sktime-cli-a-command-line-tool-to-do-all-time-series-tasks-hn",
     "title": "Sktime-CLI A command line tool to do all time-series tasks",
     "shortDescription": "I am a contributor and part time employee at sktime, a framework for all time series related tasks, but it is collection of large number of…",
