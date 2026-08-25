@@ -1,5 +1,27 @@
 [
   {
+    "slug": "wingman-github",
+    "title": "wingman",
+    "shortDescription": "Decision review and outcome verification for tool-using AI agents",
+    "fullDescription": "Decision review and outcome verification for tool-using AI agents\n\nАвтор: zkortam. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/zkortam/wingman",
+    "category": "developer",
+    "tags": [
+      "agents",
+      "ai",
+      "guardrails",
+      "llm",
+      "mcp",
+      "sdk",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1344141439",
+    "createdAt": "2026-08-25T01:04:58.750Z"
+  },
+  {
     "slug": "aisyncing-back-up-your-ai-coding-assistant-memories-to-github-hn",
     "title": "AiSyncing – Back up your AI coding assistant memories to GitHub",
     "shortDescription": "Проект «AiSyncing – Back up your AI coding assistant memories to GitHub», опубликован сообществом Hacker News.",
