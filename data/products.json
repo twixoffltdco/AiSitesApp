@@ -1,5 +1,69 @@
 [
   {
+    "slug": "a-portable-evidence-record-for-what-an-ai-agent-ran-hn",
+    "title": "A portable evidence record for what an AI agent ran",
+    "shortDescription": "It is part of Linux Foundation now. This is the foundation for verifiability we have been working on for some time. Would love to have your…",
+    "fullDescription": "It is part of Linux Foundation now. This is the foundation for verifiability we have been working on for some time. Would love to have your thoughts and I&#x27;ll watch out and reply to ur comments.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://trace.agentrust-io.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49436473",
+    "createdAt": "2026-08-25T16:33:16.005Z"
+  },
+  {
+    "slug": "canvasformusic-i-made-a-free-spotify-canvas-maker-that-doesnt-suck-hn",
+    "title": "CanvasForMusic – I made a free Spotify Canvas maker that doesn't suck",
+    "shortDescription": "Hello I know most of you are devs, but if you also make music, this is for you. I&#x27;ve been on a hunt lately of finding tools for artist…",
+    "fullDescription": "Hello I know most of you are devs, but if you also make music, this is for you. I&#x27;ve been on a hunt lately of finding tools for artists centred around promoting and posting music and rebuilding them with more intention. If it helps me promote my own music easier, it will surely help others too. Recently, I was having a look around at the top search ranking Spotify Canvas Maker tools for artists and found that they all sucked. They produced generic looking canvas videos using stock images or stock videos and didn&#x27;t really have any options that actually looked decent to add to your song on Spotify. It&#x27;s a small detail but you may as well just leave the static cover art on the song rather than have a corny looking canvas on Spotify. I&#x27;m a big fan of getting more quality out into the world, easier. Not just more quantity. There was already too much slop and low effort tools in the creative world, well before AI entered the picture. The idea was to make it as low friction as possible for the artist and let them use assets they already have for the release. The user will add their artwork for the release, then they can choose between a Vinyl rotating preset or a crop &amp; zoom preset that makes their artwork a bit more interesting by bouncing around the image. I might add another but for now these are a good starting point. I built it in under a day, mainly because I was able to leverage what I had already built with BeatVisualiser (a music visualiser product of mine) and brought over the vinyl animation and in browser rendering process. This was an easy choice for me as I just needed to take something I&#x27;ve already built on my app and repurpose it and it lets an artist get a Canvas video per Spotify&#x27;s required specs quick and easy, no strings attached, no faffing about in After Effects or video editors and it also doubles as a natural upsell into my music visualiser app. I made sure to get looping figured out on the Vinyl preset by locking the variable speeds to only be loop friendly for the 8 second limit. Certain rotating speeds left a visible break in the animation which looked ugly. Completely free to use, no sign up or anything. Cheers!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://canvasformusic.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49436381",
+    "createdAt": "2026-08-25T16:33:16.005Z"
+  },
+  {
+    "slug": "thegitai-a-model-agnostic-coding-agent-for-your-terminal-hn",
+    "title": "TheGitAI – A model-agnostic coding agent for your terminal",
+    "shortDescription": "Проект «TheGitAI – A model-agnostic coding agent for your terminal», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «TheGitAI – A model-agnostic coding agent for your terminal», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://thegit.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49436326",
+    "createdAt": "2026-08-25T16:33:16.005Z"
+  },
+  {
+    "slug": "audit-ai-generated-code-with-go-std-lib-hn",
+    "title": "Audit AI Generated Code with Go Std Lib",
+    "shortDescription": "Проект «Audit AI Generated Code with Go Std Lib», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Audit AI Generated Code with Go Std Lib», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://blog.devgenius.io/how-to-audit-ai-generated-code-with-the-go-standard-library-381d0f03d52e?source=friends_link&sk=ec62bd2bace50df5821234e137a95910",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49436038",
+    "createdAt": "2026-08-25T16:33:16.005Z"
+  },
+  {
     "slug": "gibson-adk-and-security-runtime-hn",
     "title": "Gibson ADK and Security Runtime",
     "shortDescription": "I have spent 15 years in DevSecOps, platform engineering and offensive security. Over the last year I did most of the things HN says not to…",
