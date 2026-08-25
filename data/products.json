@@ -1,5 +1,21 @@
 [
   {
+    "slug": "planetary-energy-routing-protocol-perp-hn",
+    "title": "Planetary Energy Routing Protocol (PERP)",
+    "shortDescription": "Designed to balance global energy supply and demand in real time without requiring a centralized corporate or government monopoly. By treat…",
+    "fullDescription": "Designed to balance global energy supply and demand in real time without requiring a centralized corporate or government monopoly. By treating global climate stabilization as a system-wide optimization problem, PERP aims to connect emerging Space-Based Solar Power (SBSP) arrays and local terrestrial microgrids into a single, self-balancing energy pool. Click here to test our live, interactive Space Laser Grid Simulation! https:&#x2F;&#x2F;codepen.io&#x2F;editor&#x2F;WVGlobal&#x2F;pen&#x2F;01a0028a-3999-7451-9a...\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/WVGlobal/Planetary-Energy-Routing-Protocol",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49429788",
+    "createdAt": "2026-08-25T06:59:08.291Z"
+  },
+  {
     "slug": "cookwing-an-ai-chef-that-doesnt-hallucinate-quantities-hn",
     "title": "CookWing, an AI chef that doesn't hallucinate quantities",
     "shortDescription": "Hey HN! I just released Cookwing. This is an AI app that solves the biggest problem I had when I was cooking with ChatGPT : The quantities…",
