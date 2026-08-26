@@ -1,5 +1,25 @@
 [
   {
+    "slug": "rome-apps-github",
+    "title": "rome-apps",
+    "shortDescription": "AI Native apps for Rome, the agentic OS",
+    "fullDescription": "AI Native apps for Rome, the agentic OS\n\nАвтор: rome-os. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://romeos.cc",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "ainative",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1347051735",
+    "createdAt": "2026-08-26T10:32:13.904Z"
+  },
+  {
     "slug": "api-stock-examples-github",
     "title": "api-stock-examples",
     "shortDescription": "Production-minded starter examples (TypeScript, Python, curl) for API Stock — a unified AI API that lets you use one API key/balance for ch…",
