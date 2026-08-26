@@ -1,5 +1,45 @@
 [
   {
+    "slug": "dsh-micro-inversion-standard-github",
+    "title": "dsh-micro-inversion-standard",
+    "shortDescription": "一个可复用的 DSH Agent Preset：双阶段、Token 精益的编码智能体模式。  核心目标：把模型思维链的起手习惯从 \"let me\" 翻转为 \"we need\"，同时把上下文占用与 Token 消耗压到最低，并保持供应商 KV Cache 对未变前缀持续命中。",
+    "fullDescription": "一个可复用的 DSH Agent Preset：双阶段、Token 精益的编码智能体模式。  核心目标：把模型思维链的起手习惯从 \"let me\" 翻转为 \"we need\"，同时把上下文占用与 Token 消耗压到最低，并保持供应商 KV Cache 对未变前缀持续命中。\n\nАвтор: Shizuku-keop. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/Shizuku-keop/dsh-micro-inversion-standard",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "dsh-plugin",
+      "plugin",
+      "save-tokens",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1344538138",
+    "createdAt": "2026-08-26T02:45:54.213Z"
+  },
+  {
+    "slug": "dsh-plugin-brainstorm-visualizer-github",
+    "title": "dsh-plugin-brainstorm-visualizer",
+    "shortDescription": "DeepSeek Harness Brainstorming Visualization Plugin Seamlessly combining AI divergent reasoning with visual interaction, built specifically…",
+    "fullDescription": "DeepSeek Harness Brainstorming Visualization Plugin Seamlessly combining AI divergent reasoning with visual interaction, built specifically for solving complex problems\n\nАвтор: Shizuku-keop. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/Shizuku-keop/dsh-plugin-brainstorm-visualizer",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "dsh-plugin",
+      "plugin",
+      "visualization",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1344425154",
+    "createdAt": "2026-08-26T02:45:54.213Z"
+  },
+  {
     "slug": "watchdog-github",
     "title": "watchdog",
     "shortDescription": "AI-проект с GitHub без описания.",
