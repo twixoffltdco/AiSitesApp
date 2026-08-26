@@ -1,5 +1,27 @@
 [
   {
+    "slug": "api-stock-examples-github",
+    "title": "api-stock-examples",
+    "shortDescription": "Production-minded starter examples (TypeScript, Python, curl) for API Stock — a unified AI API that lets you use one API key/balance for ch…",
+    "fullDescription": "Production-minded starter examples (TypeScript, Python, curl) for API Stock — a unified AI API that lets you use one API key/balance for chat, image, video, and music generation via an OpenAI-compatible interface. Covers chat, async media generation with polling, a Telegram bot, and secure webhook handling.\n\nАвтор: APIStock. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://api-stock.com",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "api",
+      "image-generation",
+      "llm",
+      "openai",
+      "video-generation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1346497768",
+    "createdAt": "2026-08-26T09:37:29.982Z"
+  },
+  {
     "slug": "pagelens-github",
     "title": "PageLens",
     "shortDescription": "A read-only AI for your browser via claude, which helps improve your productivity.",
