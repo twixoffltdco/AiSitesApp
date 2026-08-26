@@ -1,5 +1,27 @@
 [
   {
+    "slug": "aggregate-search-github",
+    "title": "aggregate-search",
+    "shortDescription": "🔍 一站式跨平台智能聚合搜索引擎 (Bilibili, GitHub, Web, Telegram, Tavily, XHS)",
+    "fullDescription": "🔍 一站式跨平台智能聚合搜索引擎 (Bilibili, GitHub, Web, Telegram, Tavily, XHS)\n\nАвтор: tinchak0207. Найдено в GitHub Trending (AI-тематика). ⭐ 15 звёзд.",
+    "url": "https://github.com/tinchak0207/aggregate-search",
+    "category": "developer",
+    "tags": [
+      "aggregation",
+      "ai",
+      "bilibili",
+      "python",
+      "search",
+      "search-engine",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1346391172",
+    "createdAt": "2026-08-26T03:51:20.992Z"
+  },
+  {
     "slug": "dsh-micro-inversion-standard-github",
     "title": "dsh-micro-inversion-standard",
     "shortDescription": "一个可复用的 DSH Agent Preset：双阶段、Token 精益的编码智能体模式。  核心目标：把模型思维链的起手习惯从 \"let me\" 翻转为 \"we need\"，同时把上下文占用与 Token 消耗压到最低，并保持供应商 KV Cache 对未变前缀持续命中。",
