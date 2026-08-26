@@ -1,5 +1,65 @@
 [
   {
+    "slug": "ai-video-research-pipeline-github",
+    "title": "AI-Video-Research-Pipeline",
+    "shortDescription": "本地优先的 AI 多模态知识萃取平台：支持公开视频、本地视频/音频、PPTX、DOCX，生成结构化 Markdown 知识资产。",
+    "fullDescription": "本地优先的 AI 多模态知识萃取平台：支持公开视频、本地视频/音频、PPTX、DOCX，生成结构化 Markdown 知识资产。\n\nАвтор: gokumaomao-sketch. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/gokumaomao-sketch/AI-Video-Research-Pipeline",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "chinese",
+      "docx",
+      "knowledge-extraction",
+      "knowledge-management",
+      "multimodal",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1345129010",
+    "createdAt": "2026-08-26T04:36:15.479Z"
+  },
+  {
+    "slug": "sloplint-github",
+    "title": "sloplint",
+    "shortDescription": "The first AI-slop linter for the JVM.",
+    "fullDescription": "The first AI-slop linter for the JVM.\n\nАвтор: bibekmhj. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/bibekmhj/sloplint",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "code-quality",
+      "java",
+      "jvm",
+      "kotlin",
+      "linter",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1344422235",
+    "createdAt": "2026-08-26T04:36:15.479Z"
+  },
+  {
+    "slug": "hands-on-docker-security-labs-from-cis-checks-to-ai-context-poisoning-hn",
+    "title": "Hands-on Docker security labs, from CIS checks to AI context poisoning",
+    "shortDescription": "Проект «Hands-on Docker security labs, from CIS checks to AI context poisoning», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Hands-on Docker security labs, from CIS checks to AI context poisoning», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/opscart/docker-security-practical-guide",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49444057",
+    "createdAt": "2026-08-26T04:36:15.308Z"
+  },
+  {
     "slug": "aggregate-search-github",
     "title": "aggregate-search",
     "shortDescription": "🔍 一站式跨平台智能聚合搜索引擎 (Bilibili, GitHub, Web, Telegram, Tavily, XHS)",
