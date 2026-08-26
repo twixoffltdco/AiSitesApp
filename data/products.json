@@ -1,5 +1,129 @@
 [
   {
+    "slug": "io-github",
+    "title": "io",
+    "shortDescription": "A tiny, self-contained LLM coding agent. One binary, 180+ providers, zero runtime dependencies.",
+    "fullDescription": "A tiny, self-contained LLM coding agent. One binary, 180+ providers, zero runtime dependencies.\n\nАвтор: rexadbapp. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://github.com/rexadbapp/io",
+    "category": "chatbot",
+    "tags": [
+      "agent",
+      "ai",
+      "anthropic",
+      "cli",
+      "coding-agent",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1347497096",
+    "createdAt": "2026-08-26T16:15:23.058Z"
+  },
+  {
+    "slug": "client-simulator-github",
+    "title": "client-simulator",
+    "shortDescription": "AI clients test your website's onboarding. They think out loud, walk out, and 7 expert agents explain why.",
+    "fullDescription": "AI clients test your website's onboarding. They think out loud, walk out, and 7 expert agents explain why.\n\nАвтор: 0xSarnavo. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/0xSarnavo/client-simulator",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "onboarding",
+      "playwright",
+      "testing",
+      "user-testing",
+      "ux",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1346206990",
+    "createdAt": "2026-08-26T16:15:23.058Z"
+  },
+  {
+    "slug": "silobrief-selectively-export-code-context-from-air-gapped-networks-hn",
+    "title": "SiloBrief – Selectively export code context from air-gapped networks",
+    "shortDescription": "Проект «SiloBrief – Selectively export code context from air-gapped networks», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «SiloBrief – Selectively export code context from air-gapped networks», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/d3vksy/silobrief",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49450843",
+    "createdAt": "2026-08-26T16:15:22.785Z"
+  },
+  {
+    "slug": "min-personal-ai-quant-hn",
+    "title": "Min – Personal AI Quant",
+    "shortDescription": "Проект «Min – Personal AI Quant», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Min – Personal AI Quant», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://withmin.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49450781",
+    "createdAt": "2026-08-26T16:15:22.785Z"
+  },
+  {
+    "slug": "i-built-a-tool-that-finds-people-asking-for-what-you-sell-hn",
+    "title": "I built a tool that finds people asking for what you sell",
+    "shortDescription": "I do cybersecurity consulting, so I do outreach every single day, and as you probably know, cold LinkedIn outreach usually has a very low r…",
+    "fullDescription": "I do cybersecurity consulting, so I do outreach every single day, and as you probably know, cold LinkedIn outreach usually has a very low response rate. I&#x27;ve also started launching SaaS products, and I know people running Etsy shops and e-commerce stores and getting users, even for free SaaS, is hard. Meanwhile, people publicly ask for products and services every day on social media. That&#x27;s why I launched ReachFast: 1. You enter your SaaS website, Etsy shop, App Store &#x2F;Google Play page, Fiverr profile, even a Skool community link 2.No settings, no keywords, no linking your social accounts, ReachFast reads your website, understands what you sell and builds a detailed profile of your target customer 3. Then it looks for Reddit, X, LinkedIn and Facebook public posts that could be a customer asking for your product or service 4. Finally an AI judging round keeps only the warm leads likely to convert. Out of 4,000+ posts read, that can mean 350+ for a consumer product, or just 15 for a niche SaaS, but each one is someone actually asking 5. Initial scan is on the past 15 days but it also runs daily scans (on the past 24 hours posts) to find new fresh leads There is no automatic outreach, on purpose. The focus is to find quality leads, you decide how to reach them, usually by replying in the thread as yourself or DMs. From there you can also manage your pipeline by moving your posts into dead, reached or closed. For v2 I&#x27;m planning to work on a learning loop, once there&#x27;s enough pipeline data, so the algorithm could learn which kinds of posts actually convert for each product and adjust what it keeps. Also, currently, niche B2B services, like my own pentesting firm, produce few leads but that&#x27;s the nature of the business I guess, fewer asks, worth more each. Coverage is also uneven based on the nature of the product&#x2F;service but again it makes sense. Cost is also variable based on the website (currently up to 8$ per initial scan on some Etsy shops) but again, focus is quality of leads, I will try to optimise later! Happy to answer anything and get your feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://reachfa.st",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49450777",
+    "createdAt": "2026-08-26T16:15:22.785Z"
+  },
+  {
+    "slug": "pelica-i-got-tired-of-broken-browser-translators-hn",
+    "title": "Pelica – I got tired of broken browser translators",
+    "shortDescription": "Проект «Pelica – I got tired of broken browser translators», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Pelica – I got tired of broken browser translators», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://chromewebstore.google.com/detail/pelica-translate-ai-web-v/nemcjkdfpigobfbieilaklkgdbmcmbaa",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49450690",
+    "createdAt": "2026-08-26T16:15:22.786Z"
+  },
+  {
+    "slug": "neoswarm-neovim-for-controlling-ai-agents-hn",
+    "title": "Neoswarm – Neovim for controlling AI agents",
+    "shortDescription": "Проект «Neoswarm – Neovim for controlling AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Neoswarm – Neovim for controlling AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://neoswarm.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49450219",
+    "createdAt": "2026-08-26T16:15:22.786Z"
+  },
+  {
     "slug": "shelf-protocol-robotstxt-for-commerce-hn",
     "title": "Shelf Protocol – Robots.txt for Commerce",
     "shortDescription": "My project helps merchants, consumers, and ai agents. We are at the point ai agents will be buying things for consumers. My product verifie…",
