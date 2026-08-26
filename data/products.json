@@ -1,5 +1,75 @@
 [
   {
+    "slug": "kineti-github",
+    "title": "kineti",
+    "shortDescription": "Kineti is an ultra-fast agent harness natively built in Rust. The only mathematically verifiable agent harness.",
+    "fullDescription": "Kineti is an ultra-fast agent harness natively built in Rust. The only mathematically verifiable agent harness.\n\nАвтор: therawlogs. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://www.getkineti.com",
+    "category": "developer",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "apache2",
+      "devtools",
+      "harness",
+      "open-source",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1346455794",
+    "createdAt": "2026-08-26T20:31:47.067Z"
+  },
+  {
+    "slug": "convolens-real-time-slides-and-fact-checking-hn",
+    "title": "Convolens – Real time slides and fact-checking",
+    "shortDescription": "Convolens is a Mac desktop app that records and transcribes your conversation on device, and turns it into slides, fact-checks, and infogra…",
+    "fullDescription": "Convolens is a Mac desktop app that records and transcribes your conversation on device, and turns it into slides, fact-checks, and infographics. I built the real time slides because I&#x27;m constantly losing focus during meetings and needed something I can quickly glance at and know exactly where I&#x27;m at and what happened during my &quot;snooze&quot;. As a whole, Convolens lets you: - Record and transcribe your meetings &#x2F; sessions locally. - Generate Slide decks, Infographics, and Fact-checks from your conversation (among other things). - Chat with your meeting&#x2F;session and research anything that you need. Anyway, please check out the app we have a great free tier. Any and all comments are greatly appreciated!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://demo.convolens.ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49454839",
+    "createdAt": "2026-08-26T20:31:46.955Z"
+  },
+  {
+    "slug": "use-glm-53-in-cursor-today-via-tokengo-api-hn",
+    "title": "Use GLM-5.3 in Cursor today via tokengo API",
+    "shortDescription": "Hi HN, Hearing a lot of buzz around GLM-5.3, which I expect to be the best open-source coding model with the weights dropping soon, I wante…",
+    "fullDescription": "Hi HN, Hearing a lot of buzz around GLM-5.3, which I expect to be the best open-source coding model with the weights dropping soon, I wanted to test it where I actually do my work. I just mapped GLM-5.3 to TokenGo so I could swap out the base URL and use it directly in my IDE. The backend handles the edge routing via Cloudflare to keep latency low, critical when you&#x27;re waiting for inline code completions. If you want to try GLM-5.3 (or glm-5.3-flash) in your own workflow, here is the setup. For Cursor: Go to Settings &gt; Models. Add your API key in the OpenAI API Key field. Toggle &quot;Override OpenAI Base URL&quot; and set it to: https:&#x2F;&#x2F;api.tokengo.com&#x2F;v1 Under &quot;Model Names&quot;, add z-ai&#x2F;glm-5.3. Select it in your chat panel dropdown. We&#x27;re one of the first inference providers to get the GLM 5.3 family online and fully accessible for IDEs. If you&#x27;d like to try it in a high volume production workload I&#x27;d be happy to provide test keys for yall\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.tokengo.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49454595",
+    "createdAt": "2026-08-26T20:31:46.955Z"
+  },
+  {
+    "slug": "ai-scientist-builds-an-open-source-codex-micro-from-scratch-for-40-hn",
+    "title": "AI scientist builds an open-source Codex Micro from scratch for $40",
+    "shortDescription": "A few weeks ago, we open-sourced our design for a cost-effective but full featured alternative to OpenAI x Work Louder&#x27;s sold out Code…",
+    "fullDescription": "A few weeks ago, we open-sourced our design for a cost-effective but full featured alternative to OpenAI x Work Louder&#x27;s sold out Codex Micro macropad. And now, we&#x27;re pleased to share that we&#x27;ve actually built them and they work! Quick recap of the I&#x2F;O: - 13 assignable keys with individual LEDs - rotary encoder - joystick - touch disc - optional edge-lit LED band The cool part for us was just HOW our agent was able to do it when every other agentic skills, tools, and even commercial platforms failed. We put together a more detailed writeup in the linked blog post (plus pretty pictures!), but long story short, we asked our agentic scientist, Marvin, to treat the electrical engineering as a research problem. Marvin was able to synthesize vast technical documents and best practice guidelines (e.g. scientific literature), test specific placement and routing strategies (e.g. experiments), and selectively backtrack and combine learnings (e.g. interpreting data analysis). The end result was a fully routed board (made especially challenging by some hard constraints to keep cost down) plus a reusable runbook worfklow that demonstrated Marvin&#x27;s ability to enter an unfamiliar domain, learn and improve through experimentation, and unlock novel capabilities. Some future work we&#x27;ve got marinating in our mind grapes: - an app for cross coding agent compatibility (shoutout to lop1381997 for contributing a codex-native firmware) - optional OLED screen, something like an SSD1306 that could fit right into the space between the knob and joystick - optional base with bluetooth and battery for full wireless functionality Let us know what you think, have any ideas or feature requests, and share pictures if you build it! Repo: https:&#x2F;&#x2F;github.com&#x2F;yuz207&#x2F;agentpad13 Configurator: https:&#x2F;&#x2F;yuz207.github.io&#x2F;agentpad13&#x2F;configurator&#x2F;site&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://iluvatarlabs.com/blog/2026/08/how-we-cloned-openai-codex-micro/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49453466",
+    "createdAt": "2026-08-26T20:31:46.955Z"
+  },
+  {
     "slug": "yelp-for-ai-modelsproducts-hn",
     "title": "Yelp for AI Models/Products",
     "shortDescription": "Benchmarks are great but in addition to benchmarks, I thought it would be great to hear first hand reviews from vibe coders (engineers) who…",
