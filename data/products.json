@@ -1,5 +1,27 @@
 [
   {
+    "slug": "pagelens-github",
+    "title": "PageLens",
+    "shortDescription": "A read-only AI for your browser via claude, which helps improve your productivity.",
+    "fullDescription": "A read-only AI for your browser via claude, which helps improve your productivity.\n\nАвтор: heinevwinston-bot. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/heinevwinston-bot/PageLens",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-assistants",
+      "anthropic",
+      "browser-agent",
+      "browser-extension",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1345433083",
+    "createdAt": "2026-08-26T08:39:12.694Z"
+  },
+  {
     "slug": "scribblewrite-on-your-desktop-with-any-phonetablet-hn",
     "title": "Scribble/write on your desktop, with any phone/tablet",
     "shortDescription": "Scribble&#x2F;write on your desktop, with any phone&#x2F;tablet - I&#x27;d like your feedback. Expressed is a way to make it easy to draw d…",
