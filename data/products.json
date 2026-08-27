@@ -1,5 +1,293 @@
 [
   {
+    "slug": "tokentab-github-2",
+    "title": "tokentab",
+    "shortDescription": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "fullDescription": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.\n\nАвтор: damejan80. Найдено в GitHub Trending (AI-тематика). ⭐ 211 звёзд.",
+    "url": "https://github.com/damejan80/tokentab",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "claude",
+      "claude-code",
+      "cursor",
+      "python",
+      "token-optimization",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1348572094",
+    "createdAt": "2026-08-27T20:40:00.434Z"
+  },
+  {
+    "slug": "openinstinct-github",
+    "title": "OpenInstinct",
+    "shortDescription": "iMessage personal assistant + password vault",
+    "fullDescription": "iMessage personal assistant + password vault\n\nАвтор: Merit-Systems. Найдено в GitHub Trending (AI-тематика). ⭐ 77 звёзд.",
+    "url": "coming-soon.com",
+    "category": "chatbot",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "imessage",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1346252450",
+    "createdAt": "2026-08-27T20:40:00.434Z"
+  },
+  {
+    "slug": "ai-career-resume-analyzer-github",
+    "title": "AI-CAREER-RESUME-ANALYZER",
+    "shortDescription": "AI Career Resume Analyzer built with Streamlit &python",
+    "fullDescription": "AI Career Resume Analyzer built with Streamlit &python\n\nАвтор: sravya200720. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://ai-career-analyzer-sravya.streamlit.app/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "career-guidance",
+      "machine-learning",
+      "python",
+      "resume-analyzer",
+      "streamlit",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1347256628",
+    "createdAt": "2026-08-27T20:40:00.434Z"
+  },
+  {
+    "slug": "an-open-t2i-benchmark-with-all-9k-generated-images-published-hn",
+    "title": "An open T2I benchmark with all 9k+ generated images published",
+    "shortDescription": "Проект «An open T2I benchmark with all 9k+ generated images published», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An open T2I benchmark with all 9k+ generated images published», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://imagebench.ai/gallery",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49470694",
+    "createdAt": "2026-08-27T20:40:00.278Z"
+  },
+  {
+    "slug": "discover-and-share-ai-prompts-and-mcp-servers-hn",
+    "title": "Discover and share AI prompts and MCP servers",
+    "shortDescription": "Проект «Discover and share AI prompts and MCP servers», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Discover and share AI prompts and MCP servers», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://promptic.us/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49470528",
+    "createdAt": "2026-08-27T20:40:00.278Z"
+  },
+  {
+    "slug": "apronagents-give-each-ai-coding-agent-a-disposable-git-remote-hn",
+    "title": "Apronagents – give each AI coding agent a disposable Git remote",
+    "shortDescription": "Проект «Apronagents – give each AI coding agent a disposable Git remote», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Apronagents – give each AI coding agent a disposable Git remote», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Ut8v/apronagents",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49469859",
+    "createdAt": "2026-08-27T20:40:00.278Z"
+  },
+  {
+    "slug": "telem-route-agent-web-search-across-providers-and-inspect-the-traces-hn",
+    "title": "Telem – Route agent web search across providers and inspect the traces",
+    "shortDescription": "TL;DR: Web search open router that routes agent web search across providers (Exa, Parallel, Tavily, Brave, SerpAPI etc.), and traces web se…",
+    "fullDescription": "TL;DR: Web search open router that routes agent web search across providers (Exa, Parallel, Tavily, Brave, SerpAPI etc.), and traces web search results with quality metrics, so you can visualize whether a bad agent run is a web search problem or a reasoning problem. I work in venture capital, and before that I worked in information retrieval. When agents went viral, I built a due diligence agent for my day job. I vibe-coded the first version. It was pretty bad. My first reaction is to blame the model. I tried to change backend models, maybe because Fable doesn&#x27;t want to help me do people search? Maybe because GPT 5.5 overthinks things? I tried DeepSeek, Kimi, Qwen; I changed prompts again and again, no good. Then I stopped just simply checking the final answer and started reading the actual trajectories: what did the agent search for? What came back? What pages did it read? At what point agents were off the rail? Pretty interesting: Sometimes the agent is stuck and confused because the information provided is irrelevant or even wrong; Sometimes the agent keeps iterate the same query, like &quot;XXX lab UCB CS PhD founder 2026&quot; &quot;2026 XXX lab machine learning systems students startup&quot; because the web search provider is not up-to-date; Sometimes sub-agents give up too early because the agent&#x27;s intelligence is not enough or too &quot;guardrailed&quot;; Sometimes everything is just slow. A run jeopardized at minute 1 but still ran for another 10 before returning nonsense. That&#x27;s because of bad searches, but nothing reveals it. So I built two things: 1. Web Search&#x2F;Fetch router: One gateway for Exa, Parallel, Tavily, Brave, Ceramic, Linkup, Seltz, You, SerpAPI, etc. You or your agent can pick one or query several concurrently, and the responses come back in a homogeneous format. 2. Web Search Observability: Trace every search your agent (and its sub-agents) makes with an evaluator scoring relevance, diversity, and a few other things. Point is to answer one question: is your pipeline broken because the web search is bad? If so, where? Everything is agent-operated. All u need to do is to run this shell script: &lt;curl -fsSL https:&#x2F;&#x2F;docs.telem.ai&#x2F;alpha_install.sh | sh&gt; Please give it a try, any feedback&#x2F;suggestion would be great! Especially I’d like to ask: how are you debugging search&#x2F;retrieval failures nowadays?\n\nНайдено в разделе Show HN на Hacker News. 👍 8 баллов.",
+    "url": "https://telem.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49469804",
+    "createdAt": "2026-08-27T20:40:00.279Z"
+  },
+  {
+    "slug": "openwand-a-mission-to-remove-chat-interface-from-working-with-ai-hn",
+    "title": "OpenWand – A mission to remove chat interface from working with AI",
+    "shortDescription": "Hi everyone, I&#x27;m working on OpenWand, an &quot;LLM chat interface&quot; that is optimized for AI co-work. Its function is to truly int…",
+    "fullDescription": "Hi everyone, I&#x27;m working on OpenWand, an &quot;LLM chat interface&quot; that is optimized for AI co-work. Its function is to truly integrate AI into your workflow, so no more switching windows, no more copying context, less prompt typing. You can focus on working, not prompting. You can think of it as a free Chatgpt (the interface&#x2F;frontend) alternative for your everyday work. I would be very grateful for any help, testing, feedback and&#x2F;or bug reports. What&#x27;s shown here is just my current implementation. But with your help and feedback, we can add or adjust features to further this mission. Thank you for reading. Website: https:&#x2F;&#x2F;sunnylich.github.io&#x2F;OpenWand&#x2F;#overview\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/SunnyLich/OpenWand",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49469681",
+    "createdAt": "2026-08-27T20:40:00.279Z"
+  },
+  {
+    "slug": "sparrow-2-solving-the-cocktail-party-problem-hn",
+    "title": "Sparrow-2 – Solving the cocktail party problem",
+    "shortDescription": "Hey there, I’m Brian. I&#x27;ve been shipping conversational models over here at Tavus for the past two years. I want to tell you about our…",
+    "fullDescription": "Hey there, I’m Brian. I&#x27;ve been shipping conversational models over here at Tavus for the past two years. I want to tell you about our new audio-understanding model: Sparrow-2! It’s a new category of model and a unique new approach to conversational audio. Earlier this year we launched Sparrow-1, (at the time) our SoTA turn taking model. Since our Sparrow-1 launch, I’ve spent a lot of time listening to humans talking and trying to really understand how people know when to talk, when to listen, and when to wait. I’ve also been hunting down failure modes of the current SoTA models. And while Sparrow-1 is great, there are some failure patterns I see. We tried solving the problems with existing approaches, but solving one problem only created another. Sparrow-1 and a lot of the existing turn taking models require noise cancellation to isolate the speaker’s audio from background noise. After removing the “noise” these models rely on simple prosodic and phonetic cues from spoken words to decide when a turn has ended. They throw out information and then pay attention to a small set of verbal and prosodic cues. This approach ignores a ton of important information. Non-verbal cues, sounds, and environmental noise impact turn taking. Noise cancellation models assume everything non-transcribable is noise, but that’s wrong. Humans use breath, sighs, and other sounds to hold the conversational floor or bid for a turn. There are constant micro-interruptions, affirmations, quiet human and environmental sounds that add to the conversational scenario. That sound is part of what we use to understand the nuanced space of the conversational floor! Cancelling out the “noise” has the ruinous side-effect of cancelling out the flow. Now, with Sparrow-2, instead of modelling just the primary speaker’s transcribable audio, we’ve been training a model on all the sounds and letting it decide what matters and what does not when it comes to conversational flow. Our new model continuously streams in audio and is able to understand semantics, prosody, timing, speaker identity, sighs, breaths, backchannels, interruptions, background speech, and unintelligible audio with the goal of understanding what the agent should do given the state of the audio. Sparrow-2 fits into our larger model family and unlocks new conversational behavior, not seen before in production-ready conversational pipelines. It can pass signals to different parts of the conversation. For example if the user is in a room that’s too noisy, the bot will ask the user to move to a quieter space. Also, Sparrow-2 is semi-duplex: it considers the timing of sound in relation to the AI speech as well as the user’s. Our main objective with Sparrow-2 is to finally crack the Cocktail Party Problem: how can we have a human-like conversation 1:1 with a user in noisy environments. I wrote up some technical details about the model architecture here: https:&#x2F;&#x2F;www.tavus.io&#x2F;blog&#x2F;sparrow-2 I’d love for you guys to give it a try and let me know what you think and feel.\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://www.tavus.io/blog/sparrow-2",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49468613",
+    "createdAt": "2026-08-27T20:40:00.279Z"
+  },
+  {
+    "slug": "aitells-a-vale-style-package-for-ai-written-prose-tells-hn",
+    "title": "AiTells, a Vale style package for AI-written prose tells",
+    "shortDescription": "Проект «AiTells, a Vale style package for AI-written prose tells», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AiTells, a Vale style package for AI-written prose tells», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/krishnasunkam/vale-ai-tells",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49467627",
+    "createdAt": "2026-08-27T20:40:00.279Z"
+  },
+  {
+    "slug": "kinopipe-ffmpeg-as-a-service-for-ai-agents-typed-ops-no-shell-hn",
+    "title": "KinoPipe – FFmpeg as a service for AI agents (typed ops, no shell)",
+    "shortDescription": "Проект «KinoPipe – FFmpeg as a service for AI agents (typed ops, no shell)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «KinoPipe – FFmpeg as a service for AI agents (typed ops, no shell)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://kinopipe.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49466493",
+    "createdAt": "2026-08-27T20:40:00.279Z"
+  },
+  {
+    "slug": "atlas-observability-for-startup-operations-via-self-building-agents-hn",
+    "title": "Atlas – observability for startup operations via self-building agents",
+    "shortDescription": "Проект «Atlas – observability for startup operations via self-building agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Atlas – observability for startup operations via self-building agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.atlasjoins.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49466368",
+    "createdAt": "2026-08-27T20:40:00.279Z"
+  },
+  {
+    "slug": "backprompter-create-test-and-deploy-agents-without-a-back-end-hn",
+    "title": "Backprompter – create, test, and deploy agents without a back end",
+    "shortDescription": "Hi everyone, I am a professor in AI, and I often build AI apps as a hobby and for academic projects. I felt that I was wasting too much tim…",
+    "fullDescription": "Hi everyone, I am a professor in AI, and I often build AI apps as a hobby and for academic projects. I felt that I was wasting too much time setting up backends, DB, and secrets for each app, and testing the prompts, updating them, and redeploying seemed tedious. So I built Backprompter to do all this without any setup. You can create agents, track different versions, test them, create mock users, simulate conversations, and track your evaluations. It supports usual agent setups - model selection, prompts, RAG, and tools (currently, HTTP API calls). Agents can also be combined by simply tagging them and describing the orchestration in natural language. For production, there is a single-click deployment of a chatbot interface, no setup needed. Also, developers can integrate the agents with their own frontend (Backprompter handles authentication and data management), or with their own backend if they want more control over authentication and data management. With one click, you can deploy your edited agent to production. I think there are broad applications for hobbyists, small teams, and organizations who want to integrate AI but don&#x27;t have the time or expertise to set up backend, secrets, databases, and evaluation workflows. I started building this about 9 months ago. This is a solo project, so I would love some feedback. It&#x27;s free to start, but with some limits. If you want to test more, I am happy to provide more credits for free. Also, looking for advice on what features to add next: Would the ability to deploy your agent to Slack or ChatGPT (as a custom GPT) be an important feature? https:&#x2F;&#x2F;backprompter.com&#x2F; I also built a version that can be self-hosted for complete privacy and for deploying apps within the network.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://backprompter.com/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49466321",
+    "createdAt": "2026-08-27T20:40:00.279Z"
+  },
+  {
+    "slug": "kitewing-marketing-site-inspired-by-braun-industrial-design-ca-1968-hn",
+    "title": "Kitewing marketing site, inspired by Braun industrial design ca. 1968",
+    "shortDescription": "Проект «Kitewing marketing site, inspired by Braun industrial design ca. 1968», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Kitewing marketing site, inspired by Braun industrial design ca. 1968», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.kitewing.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49466301",
+    "createdAt": "2026-08-27T20:40:00.279Z"
+  },
+  {
+    "slug": "thunderphone-v2-a-new-architecture-for-voice-ai-hn",
+    "title": "ThunderPhone v2 – a new architecture for voice AI",
+    "shortDescription": "Hi folks, Alex here from ThunderPhone. Today we&#x27;re launching v2. Voice AI has been a hot topic for the past year or two, both for auto…",
+    "fullDescription": "Hi folks, Alex here from ThunderPhone. Today we&#x27;re launching v2. Voice AI has been a hot topic for the past year or two, both for automating phone calls and for adding voice features to apps. Most of the voice agents deployed have been using a &quot;3 step pipeline&quot;: a transcription model to turn user speech into text, an LLM to generate a response in text, and a TTS model to turn the response text into audio. But the performance of these 3-step voice agents has often been so-so, largely for 3 reasons: 1) Voice agents have to be fast, usually requiring non-thinking LLMs to handle the conversation. Non-thinking LLMs make mistakes, leading to dumb behavior that derails conversations. 2) Today&#x27;s voice AI stacks typically rely on a single transcription model to turn what the user says into text. This step loses a ton of information from the audio, and if the transcription model makes a mistake, the LLM often has no way to recover. This also leads to a lot of dumb behavior that breaks calls. 3) Natural conversation handling is a hard problem - filtering out noise like background voices, knowing when to allow the AI to be interrupted by a &quot;uh, wait&quot; but not by an &quot;uh-huh&quot;, etc. - this also leads to awkward conversations. The &quot;bitter lesson-pilled&quot; solution to all of these is most likely going to be a &quot;full duplex&quot; model that receives and emits audio at all times, allowing for fluid back-and-forth, while also calling a smarter model behind the scenes. OpenAI appears to have been the first to make real progress towards this architecture with their latest GPT-Live release, but that tech is not yet ready to plug into phone calls. In the meantime, we&#x27;ve stitched together a stack that improves the performance of phone calls far beyond what&#x27;s possible with a 3-step pipeline. The ThunderPhone stack combines a few insights: 1) Grabbing signal from audio in more than one way, including running multiple transcription models at once, and piping audio directly into LLMs. This hugely reduces mistake rates, especially on challenging problems like data entry, multilingual calls, etc. 2) Combining thinking and non-thinking LLMs: in a conversation, it&#x27;s natural to respond to some things more quickly than others, and sometimes even say things like &quot;oh, let me think about that&quot; - to indicate that it&#x27;ll take longer to get back to someone with a final answer. ThunderPhone does the same thing. 3) This is less unique to us but we&#x27;ve stitched together a very big swarm of small (and in a few cases large) models to help make conversation handling more natural, even in hard environments like loud places, speakerphone, etc. We&#x27;ve made the ThunderPhone stack available at 3 price points - 2c&#x2F;min, 5c&#x2F;min, and 9c&#x2F;min, each with their own level of capability. The 2c&#x2F;min model (&quot;Spark&quot;) is the cheapest on the market to our knowledge, and is smart enough to handle simple transactional calls. Bolt at 5c&#x2F;min is a middle ground, and the fastest model we offer. Storm at 9c&#x2F;min (+3c&#x2F;min for extra intelligence) is our flagship model, able to handle even quite complex calls with very few mistakes. With extra intelligence turned on, it sets the record on the Big Bench Audio benchmark at 99.4% accuracy. ThunderPhone is mostly aimed at B2B applications, but is also useful if you want to do something like setting up a smart voicemail for yourself, or calling around restaurants to make a reservation, calling around pharmacies to find a prescription, etc. for personal use. Let me know if you have questions - happy to answer anything about ThunderPhone except a few &quot;trade secret&quot; specifics, and about the voice AI space more broadly, including where we think the tech is going. And comment here or email me at alex@thunderphone.com if you want to get set up with some credits to try it out. Alex\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://thunderphone.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49466204",
+    "createdAt": "2026-08-27T20:40:00.279Z"
+  },
+  {
+    "slug": "revenue-agents-that-monitor-churn-upsell-and-deal-risk-hn",
+    "title": "Revenue Agents that monitor churn, upsell, and deal risk",
+    "shortDescription": "I&#x27;ve spent most of my career leading GTM teams, and there&#x27;s one blind spot that I&#x27;ve watched repeat at every company usage s…",
+    "fullDescription": "I&#x27;ve spent most of my career leading GTM teams, and there&#x27;s one blind spot that I&#x27;ve watched repeat at every company usage sit in one tool, deals sit in a second, support sit in a third and none of them tell the whole truth about customers. So we built Rimplo to close that gap set of revenue agents that runs across CRM, billing, support and product data and watch for three important moments customers about to churn, deals ready to expand and deals going quite in the pipeline. Also we have very powerful ai assistant that replies on anything from the GTM data sources connected powered with the top models so users decide which AI model gets assigned to each task or question. We would love to hear your feedback on the product or even if you think anything is missing.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.rimplo.com/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49466105",
+    "createdAt": "2026-08-27T20:40:00.279Z"
+  },
+  {
+    "slug": "turn-ad-hoc-subagents-into-durable-accountable-ai-teams-hn",
+    "title": "Turn ad-hoc subagents into durable, accountable AI teams",
+    "shortDescription": "Проект «Turn ad-hoc subagents into durable, accountable AI teams», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Turn ad-hoc subagents into durable, accountable AI teams», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/ringlochid/oh-my-subagents",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49465318",
+    "createdAt": "2026-08-27T20:40:00.279Z"
+  },
+  {
     "slug": "agentseed-github",
     "title": "AgentSeed",
     "shortDescription": "Anti-hallucination gate for AI coding agents - 8 MCP tools catch invented APIs (12+ languages), fake \"all tests pass\" claims, and slopsquat…",
