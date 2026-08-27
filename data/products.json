@@ -1,5 +1,206 @@
 [
   {
+    "slug": "intentroute-ai-github",
+    "title": "IntentRoute-AI",
+    "shortDescription": "Open-source AI-assisted per-application routing for Windows with OpenAI/Ollama drafts and a sing-box TUN data plane.",
+    "fullDescription": "Open-source AI-assisted per-application routing for Windows with OpenAI/Ollama drafts and a sing-box TUN data plane.\n\nАвтор: Lucas-Xi. Найдено в GitHub Trending (AI-тематика). ⭐ 37 звёзд.",
+    "url": "https://github.com/Lucas-Xi/IntentRoute-AI",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "dotnet",
+      "network-routing",
+      "ollama",
+      "open-source",
+      "openai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1346881798",
+    "createdAt": "2026-08-27T00:25:50.535Z"
+  },
+  {
+    "slug": "tcm-ai-skill-hub-github",
+    "title": "tcm-ai-skill-hub",
+    "shortDescription": "TCM AI Skill Hub｜一次安装 8 个公开中医 AI Skill，按学习任务自动选用、按来源回答。",
+    "fullDescription": "TCM AI Skill Hub｜一次安装 8 个公开中医 AI Skill，按学习任务自动选用、按来源回答。\n\nАвтор: Rui-Huang-dotcom. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Rui-Huang-dotcom/tcm-ai-skill-hub",
+    "category": "ai-tool",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "openclaw",
+      "skills",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1345592127",
+    "createdAt": "2026-08-27T00:25:50.536Z"
+  },
+  {
+    "slug": "ai-testing-guide-github",
+    "title": "ai-testing-guide",
+    "shortDescription": "AI 测试开发学习路线大全：测试工程师的 AI 时代进阶指南，涵盖 AI 辅助测试、自动化测试、Agent 测试开发等，持续更新 🚀",
+    "fullDescription": "AI 测试开发学习路线大全：测试工程师的 AI 时代进阶指南，涵盖 AI 辅助测试、自动化测试、Agent 测试开发等，持续更新 🚀\n\nАвтор: zhoujinjian. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://www.testfather.cn/",
+    "category": "productivity",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-testing",
+      "learning-path",
+      "qa",
+      "roadmap",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1346219541",
+    "createdAt": "2026-08-27T00:25:50.536Z"
+  },
+  {
+    "slug": "resumejobsquickapply-github",
+    "title": "resume_jobs_quick_apply",
+    "shortDescription": "Local-first AI job assistant: web-wide job discovery, explainable matching, facts-only resume tailoring, autofill — you always click Submit.",
+    "fullDescription": "Local-first AI job assistant: web-wide job discovery, explainable matching, facts-only resume tailoring, autofill — you always click Submit.\n\nАвтор: Kerrylala. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/Kerrylala/resume_jobs_quick_apply",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "autofill",
+      "automation",
+      "career",
+      "chrome-extension",
+      "cover-letter",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1346138199",
+    "createdAt": "2026-08-27T00:25:50.536Z"
+  },
+  {
+    "slug": "puckyto-github",
+    "title": "puckyto",
+    "shortDescription": "Mission control for AI coding agents on macOS — run Claude Code, Codex and Gemini side by side",
+    "fullDescription": "Mission control for AI coding agents on macOS — run Claude Code, Codex and Gemini side by side\n\nАвтор: MuratKorkmaz. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/MuratKorkmaz/puckyto",
+    "category": "developer",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1347353923",
+    "createdAt": "2026-08-27T00:25:50.536Z"
+  },
+  {
+    "slug": "genshin-story-digger-github",
+    "title": "genshin-story-digger",
+    "shortDescription": "原神剧情挖掘工具：输入一个故事线关键词，自动翻遍任务对白、书籍、圣遗物、武器、地图文本、角色资料六类游戏文本，为你整理出一份带原文出处的完整剧情文档",
+    "fullDescription": "原神剧情挖掘工具：输入一个故事线关键词，自动翻遍任务对白、书籍、圣遗物、武器、地图文本、角色资料六类游戏文本，为你整理出一份带原文出处的完整剧情文档\n\nАвтор: hbprotoss. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/hbprotoss/genshin-story-digger",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "game",
+      "genshin",
+      "genshin-impact",
+      "mihoyo",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1345860394",
+    "createdAt": "2026-08-27T00:25:50.536Z"
+  },
+  {
+    "slug": "caravel-releases-github",
+    "title": "caravel-releases",
+    "shortDescription": "Caravel — 本地优先的 macOS 多 AI 编程 Agent 指挥台，统一管理 Claude Code、Codex 与 OpenCode",
+    "fullDescription": "Caravel — 本地优先的 macOS 多 AI 编程 Agent 指挥台，统一管理 Claude Code、Codex 与 OpenCode\n\nАвтор: yy36295238. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/yy36295238/caravel-releases/releases/latest",
+    "category": "ai-tool",
+    "tags": [
+      "agent-orchestration",
+      "ai",
+      "ai-agents",
+      "ai-coding",
+      "claude-code",
+      "code-review",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1345893765",
+    "createdAt": "2026-08-27T00:25:50.536Z"
+  },
+  {
+    "slug": "whisperbar-trying-to-fix-both-reading-and-writing-in-the-ai-age-hn",
+    "title": "WhisperBar Trying to Fix Both Reading and Writing in the AI Age",
+    "shortDescription": "I am excited to share WhisperBar with fellow developers or anyone who reads &amp; writes a ton of text when interacting with their AI agent…",
+    "fullDescription": "I am excited to share WhisperBar with fellow developers or anyone who reads &amp; writes a ton of text when interacting with their AI agent. For the writing part, WhisperBar does what all other Whisper* apps do but a bit faster and more consistent, with a nice, stable, native macOS and iOS app. But where it really shines is in solving a problem that I&#x27;m sure you have encountered too: because of AI, we now have to read and comprehend so much more than before. Text to voice systems are not available everywhere, but even when they are, they sound so mechanical, and listening to the entire output is even more time consuming. What Gemini did by turning your research&#x2F;response into a podcast was genius, and ChatGPT&#x27;s new voice chat system is also much better (it allows you to have a conversation with the response). However, these two are not available everywhere that I interact with AI (specially with Claude Code and Codex) With WhisperBar, I can select a piece of text (anywhere, in any app) and press my keyboard shortcut to quickly listen to a short, ~20-second explanation. It does not matter how long the text I have copied is. This allows me to copy the entire response and then hear a summary, or select a section to zoom in on an explanation of that section of the document. Again, the point is that it is not text to voice, rather, it processes the text and comes up with a natural sounding short explanation. Oh, and another thing we don&#x27;t store any data and only use providers with zero-data-retention policies. It is still a work in progress, and we have about 20 customers right now. It is available on the App Store for both iOS and macOS, with a 7-day free trial at only $4&#x2F;month (plus Family Sharing). FYI, the WhisperBar iOS app is a bit different (it can record in the background for meetings, etc.). Let me know what you think :)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://whisperbar.app",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49457587",
+    "createdAt": "2026-08-27T00:25:50.424Z"
+  },
+  {
+    "slug": "we-built-the-smallest-dual-band-aircraft-tracker-hn",
+    "title": "We built the smallest dual-band aircraft tracker",
+    "shortDescription": "We&#x27;ve been building open source embedded ADS-B receivers for a while, and spent the past 8 months smallifying our existing receiver te…",
+    "fullDescription": "We&#x27;ve been building open source embedded ADS-B receivers for a while, and spent the past 8 months smallifying our existing receiver tech with a new chip from Semtech. Ask me anything about ADSB or hardware manufacturing!\n\nНайдено в разделе Show HN на Hacker News. 👍 20 баллов.",
+    "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49455557",
+    "createdAt": "2026-08-27T00:25:50.424Z"
+  },
+  {
+    "slug": "devx-autonomous-ai-coding-agent-built-for-android-termux-and-desktop-hn",
+    "title": "Devx – Autonomous AI coding agent built for Android Termux and desktop",
+    "shortDescription": "Проект «Devx – Autonomous AI coding agent built for Android Termux and desktop», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Devx – Autonomous AI coding agent built for Android Termux and desktop», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 8 баллов.",
+    "url": "https://github.com/apvcode/Termux-Dev",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49455537",
+    "createdAt": "2026-08-27T00:25:50.424Z"
+  },
+  {
     "slug": "kineti-github",
     "title": "kineti",
     "shortDescription": "Kineti is an ultra-fast agent harness natively built in Rust. The only mathematically verifiable agent harness.",
