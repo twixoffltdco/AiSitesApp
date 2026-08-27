@@ -1,5 +1,167 @@
 [
   {
+    "slug": "agentseed-github",
+    "title": "AgentSeed",
+    "shortDescription": "Anti-hallucination gate for AI coding agents - 8 MCP tools catch invented APIs (12+ languages), fake \"all tests pass\" claims, and slopsquat…",
+    "fullDescription": "Anti-hallucination gate for AI coding agents - 8 MCP tools catch invented APIs (12+ languages), fake \"all tests pass\" claims, and slopsquatting packages before they ship. Zero-dependency Agent Plugins 1.0.0 plugin for Claude Code, Cursor, VS Code, Copilot.\n\nАвтор: Morningstar202604. Найдено в GitHub Trending (AI-тематика). ⭐ 22 звёзд.",
+    "url": "https://github.com/Morningstar202604/AgentSeed",
+    "category": "developer",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "anthropic-mcp",
+      "claude-code",
+      "claude-mcp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1345912780",
+    "createdAt": "2026-08-27T10:07:14.245Z"
+  },
+  {
+    "slug": "arlo-ai-desktop-github",
+    "title": "Arlo-AI-Desktop",
+    "shortDescription": "Self-hosted AI customer service. Your documents, your database, your data - answered with citations across every channel.",
+    "fullDescription": "Self-hosted AI customer service. Your documents, your database, your data - answered with citations across every channel.\n\nАвтор: Autobricks-AI. Найдено в GitHub Trending (AI-тематика). ⭐ 20 звёзд.",
+    "url": "https://arlo.autobricks.ai",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "chatbot",
+      "customer-service",
+      "customer-support-ai",
+      "fair-code",
+      "knowledge-base",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1348063053",
+    "createdAt": "2026-08-27T10:07:14.245Z"
+  },
+  {
+    "slug": "gpu-rental-kit-github",
+    "title": "gpu-rental-kit",
+    "shortDescription": "One-command setup for rented NVIDIA GPU machines — detect, install, test, and run AI inference with llama.cpp, Ollama, or vLLM.",
+    "fullDescription": "One-command setup for rented NVIDIA GPU machines — detect, install, test, and run AI inference with llama.cpp, Ollama, or vLLM.\n\nАвтор: TysonTranThai. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/TysonTranThai/gpu-rental-kit",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "bash",
+      "cloud",
+      "cuda",
+      "gpu",
+      "inference",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1348024491",
+    "createdAt": "2026-08-27T10:07:14.245Z"
+  },
+  {
+    "slug": "i-built-one-interface-for-generating-video-with-multiple-ai-models-hn",
+    "title": "I built one interface for generating video with multiple AI models",
+    "shortDescription": "Проект «I built one interface for generating video with multiple AI models», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built one interface for generating video with multiple AI models», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://imgveo.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49461789",
+    "createdAt": "2026-08-27T10:07:13.971Z"
+  },
+  {
+    "slug": "i-built-an-agent-first-productivity-bridge-for-all-your-agents-hn",
+    "title": "I built an agent-first productivity bridge for all your agents",
+    "shortDescription": "I initially built this for myself but some folks asked me to open access to it. Let me explain what I built and why. I&#x27;m a product des…",
+    "fullDescription": "I initially built this for myself but some folks asked me to open access to it. Let me explain what I built and why. I&#x27;m a product designer who transitioned from only designing to building complete software products myself and I found myself using AI coding agents literally every day. I started with cursor, then codex and claude code, then kilo code, and then moved to opencode. The only thing AI agents couldn&#x27;t get done for me was to keep track of my todos and tasks for all my projects. I ended up vibe coding a todo app separately or using apps like TickTick. The main issue with separate apps was that I needed to constantly switch context in the middle of my work sessions and repeat the tasks I needed to get done to the agent over an over. Then I realized I can just give the agents the full todo list context and tools to do CRUD operations directly in the conversations without the need for a separate app, so that way I can simply prompt my agents to check what&#x27;s due soon, update tasks, add notes, create new ones, plan my weeks, etc. All in the same conversations as the projects I work on through opencode, which works great for mid-session requests like adding a new subtask based on the current agent&#x27;s work output. I built this as a first-class MCP platform that supports the new stateless HTTP configuration as well as the standard SSE, so setup is a single prompt and your agents stay in sync with your actual work state immediately. It works with any agent harness or app that supports MCPs. Which means that if you use multiple agents, all of them will be in sync with the same tasks whether you use codex first, then switch to claude code, and then to opencode in the same day. There&#x27;s also a web-app UI access for doing any updates manually or if you need to use it on the go with your phone. You&#x27;ll always see what was done by you in the web-app or by your agents through the MCP bridge. I just launched it on producthunt and you can try it free if you want: Live app: https:&#x2F;&#x2F;taskshell.app Producthunt: https:&#x2F;&#x2F;www.producthunt.com&#x2F;products&#x2F;taskshell In the web-app there&#x27;s a &quot;report bug&quot; form if you try it and something doesn&#x27;t work for you. All feedback is appreciated!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.taskshell.app/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49461578",
+    "createdAt": "2026-08-27T10:07:13.971Z"
+  },
+  {
+    "slug": "contextual-local-codebase-memory-for-ai-coding-agents-hn",
+    "title": "Contextual – local codebase memory for AI coding agents",
+    "shortDescription": "Проект «Contextual – local codebase memory for AI coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Contextual – local codebase memory for AI coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://contextuallabs.dev",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49460693",
+    "createdAt": "2026-08-27T10:07:13.971Z"
+  },
+  {
+    "slug": "text-editor-that-does-it-all-hn",
+    "title": "Text editor that does it all",
+    "shortDescription": "Hello HN! There is an abundance of choice when it comes to text editors, but they all seem to be either too simplistic and minimal, or over…",
+    "fullDescription": "Hello HN! There is an abundance of choice when it comes to text editors, but they all seem to be either too simplistic and minimal, or overly complex, distracting and difficult to use. Kraa is trying to strike the right balance between a &#x27;complete&#x27; feature set (with some unique features you won&#x27;t find anywhere else – e.g. the multi-leaf view or our real-real-time chat), while keeping the UI clutter-free with a strong separation of style from content. We are a team of three working on the editor for a long time already (before the AI boom), but this is the largest update to it since launch. Some demo examples (no login required): - Blog article: https:&#x2F;&#x2F;kraa.io&#x2F;kraa&#x2F;examples&#x2F;echolibrary - Long-form story: https:&#x2F;&#x2F;kraa.io&#x2F;kraa&#x2F;examples&#x2F;insidekick - Magazine: https:&#x2F;&#x2F;kraa.io&#x2F;weeklyinspiration We&#x27;d love to hear your feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://kraa.io/about?s=hn",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49460337",
+    "createdAt": "2026-08-27T10:07:13.971Z"
+  },
+  {
+    "slug": "ai-chat-app-build-specifically-for-kids-howcometcom-hn",
+    "title": "AI chat app build specifically for kids (howcomet.com)",
+    "shortDescription": "Проект «AI chat app build specifically for kids (howcomet.com)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI chat app build specifically for kids (howcomet.com)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://howcomet.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49459760",
+    "createdAt": "2026-08-27T10:07:13.971Z"
+  },
+  {
+    "slug": "abbs-public-agent-bulletin-board-system-hn",
+    "title": "ABBS – Public Agent Bulletin Board System",
+    "shortDescription": "a simple thread-based platform for agent collaboration open source: https:&#x2F;&#x2F;github.com&#x2F;dosu-ai&#x2F;abbs",
+    "fullDescription": "a simple thread-based platform for agent collaboration open source: https:&#x2F;&#x2F;github.com&#x2F;dosu-ai&#x2F;abbs\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://abbs.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49458405",
+    "createdAt": "2026-08-27T10:07:13.971Z"
+  },
+  {
     "slug": "intentroute-ai-github",
     "title": "IntentRoute-AI",
     "shortDescription": "Open-source AI-assisted per-application routing for Windows with OpenAI/Ollama drafts and a sing-box TUN data plane.",
