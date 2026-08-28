@@ -1,5 +1,394 @@
 [
   {
+    "slug": "intentroute-ai-github-2",
+    "title": "IntentRoute-AI",
+    "shortDescription": "Open-source AI-assisted per-application routing for Windows with OpenAI/Ollama drafts and a sing-box TUN data plane.",
+    "fullDescription": "Open-source AI-assisted per-application routing for Windows with OpenAI/Ollama drafts and a sing-box TUN data plane.\n\nАвтор: Vincent-Xi08. Найдено в GitHub Trending (AI-тематика). ⭐ 59 звёзд.",
+    "url": "https://github.com/Vincent-Xi08/IntentRoute-AI",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "dotnet",
+      "network-routing",
+      "ollama",
+      "open-source",
+      "openai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1346881798",
+    "createdAt": "2026-08-28T17:35:34.130Z"
+  },
+  {
+    "slug": "my-free-code-github",
+    "title": "my-free-code",
+    "shortDescription": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks,…",
+    "fullDescription": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support\n\nАвтор: hkqr. Найдено в GitHub Trending (AI-тематика). ⭐ 57 звёзд.",
+    "url": "https://github.com/hkqr/my-free-code",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "claude-code",
+      "free-claude-api",
+      "multi-provider",
+      "multi-provider-llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1348793218",
+    "createdAt": "2026-08-28T17:35:34.130Z"
+  },
+  {
+    "slug": "kopi-uncle-github",
+    "title": "kopi-uncle",
+    "shortDescription": "Demo project for agentic AI software engineering",
+    "fullDescription": "Demo project for agentic AI software engineering\n\nАвтор: uzyn. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://www.iss.nus.edu.sg/learning-festival/2026",
+    "category": "ai-tool",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1348014136",
+    "createdAt": "2026-08-28T17:35:34.130Z"
+  },
+  {
+    "slug": "pandavision-github",
+    "title": "pandavision",
+    "shortDescription": "Touchless Panda Runner - Play with your body movements using webcam!",
+    "fullDescription": "Touchless Panda Runner - Play with your body movements using webcam!\n\nАвтор: divanshusingh-ds. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/divanshusingh-ds/pandavision",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "body-tracking",
+      "computer-vision",
+      "gamedev",
+      "machine-learning",
+      "mediapipe",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1349256033",
+    "createdAt": "2026-08-28T17:35:34.130Z"
+  },
+  {
+    "slug": "planpal-github",
+    "title": "planpal",
+    "shortDescription": "常驻桌面的 AI 计划伙伴｜一句话记录日程，拆解长期目标，动态重排冲突，让计划跟上真实生活。",
+    "fullDescription": "常驻桌面的 AI 计划伙伴｜一句话记录日程，拆解长期目标，动态重排冲突，让计划跟上真实生活。\n\nАвтор: wsy1004. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/wsy1004/planpal",
+    "category": "productivity",
+    "tags": [
+      "agent",
+      "ai",
+      "calendar",
+      "electron",
+      "flask",
+      "macos",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1349499020",
+    "createdAt": "2026-08-28T17:35:34.130Z"
+  },
+  {
+    "slug": "closure-github",
+    "title": "Closure",
+    "shortDescription": "Closure（可露希尔）— 开源、本地优先的 AI 小说创作 IDE。Open-source, local-first AI novel-writing IDE. Fork of OrisonSpace.",
+    "fullDescription": "Closure（可露希尔）— 开源、本地优先的 AI 小说创作 IDE。Open-source, local-first AI novel-writing IDE. Fork of OrisonSpace.\n\nАвтор: chillison. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/chillison/Closure",
+    "category": "writing",
+    "tags": [
+      "agent",
+      "ai",
+      "creative-writing",
+      "desktop-app",
+      "electron",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1349751051",
+    "createdAt": "2026-08-28T17:35:34.130Z"
+  },
+  {
+    "slug": "polymarket-ai-model-trading-bot-btc-kou-jump-diffusion-prediction-market-github",
+    "title": "polymarket-ai-model-trading-bot-btc-kou-jump-diffusion-prediction-market",
+    "shortDescription": "polymarket-ai-model-trading-bot-btc-kou-jump-diffusion-prediction-market — Polymarket Ai Model Trading Bot Btc Kou Jump Diffusion Predictio…",
+    "fullDescription": "polymarket-ai-model-trading-bot-btc-kou-jump-diffusion-prediction-market — Polymarket Ai Model Trading Bot Btc Kou Jump Diffusion Prediction Market. polymarket-ai-model-trading-bot-btc-kou-jump-diffusion-prediction-market is an open-source polymarket ai model trading bot btc kou jump diffusion prediction market. Find...\n\nАвтор: Alexis-Fredryck-one. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Alexis-Fredryck-one/polymarket-ai-model-trading-bot-btc-kou-jump-diffusion-prediction-market",
+    "category": "image-video",
+    "tags": [
+      "ai",
+      "ai-model",
+      "bot",
+      "bot-btc",
+      "btc",
+      "btc-kou",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1347663577",
+    "createdAt": "2026-08-28T17:35:34.130Z"
+  },
+  {
+    "slug": "it-was-never-you-hn",
+    "title": "It Was Never You",
+    "shortDescription": "Hi HN! I made my first iOS app - users can swap out an ex or friend for someone else in their photo library. I did this as a bit of a lark.…",
+    "fullDescription": "Hi HN! I made my first iOS app - users can swap out an ex or friend for someone else in their photo library. I did this as a bit of a lark. I hope you find it entertaining, at least. At its most serious, it’s a Black Mirror-esque note on the future we’re enabling in the AI age. It’s not an app I’d ever use or recommend people use. I suppose that’s the question I’m asking myself, and now you, with this - while I intentionally built something I wouldn’t want to see in the world, how are you dealing with the feeling that software you build is or isn’t making the world a better place? What a weird time to be alive!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://itwasneveryou.app",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49481007",
+    "createdAt": "2026-08-28T17:35:33.953Z"
+  },
+  {
+    "slug": "open-tool-for-testing-your-ai-agents-no-llm-hn",
+    "title": "Open tool for testing your AI Agents (No LLM)",
+    "shortDescription": "Проект «Open tool for testing your AI Agents (No LLM)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Open tool for testing your AI Agents (No LLM)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/IdoGol24/weir",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49480942",
+    "createdAt": "2026-08-28T17:35:33.953Z"
+  },
+  {
+    "slug": "urml-safety-eval-harness-for-ai-agents-on-lab-and-factory-hardware-hn",
+    "title": "URML – safety-eval harness for AI agents on lab and factory hardware",
+    "shortDescription": "Проект «URML – safety-eval harness for AI agents on lab and factory hardware», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «URML – safety-eval harness for AI agents on lab and factory hardware», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/URML-MARS/URML/tree/main/examples/physical-ai-safety-eval",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49480890",
+    "createdAt": "2026-08-28T17:35:33.953Z"
+  },
+  {
+    "slug": "marktwin-collaborative-workspaces-on-markdown-files-you-own-hn",
+    "title": "Marktwin – collaborative workspaces on Markdown files you own",
+    "shortDescription": "Hi HN, We built Marktwin because I wanted a place to edit my GitHub Markdown files with my team. The alternatives we found meant either sto…",
+    "fullDescription": "Hi HN, We built Marktwin because I wanted a place to edit my GitHub Markdown files with my team. The alternatives we found meant either storing our notes somewhere else, having uncomfortable collaboration, or passing through someone else&#x27;s server. Marktwin is a space to edit the files already in your repository, shared peer-to-peer. You can write Markdown, use a canvas, draw, discuss and review changes before syncing them back to GitHub. Everything available on marktwin.com is free for now, and we hope to keep it like that. There is no built-in AI. For now, the goal is simply to keep the context that people and agents use in files you control, in the places where you need it, while making it easier to work together. It was useful for us, and we would love for people to try it out and tell us what doesn&#x27;t work, what is confusing, or how to improve.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://marktwin.com/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49479555",
+    "createdAt": "2026-08-28T17:35:33.953Z"
+  },
+  {
+    "slug": "openinstinct-open-source-self-hostable-instinct-clone-hn",
+    "title": "OpenInstinct – open-source, self-hostable Instinct clone",
+    "shortDescription": "We love Instinct, but have been increasingly worried about the data footprint we are handing over to them, and what they might do with that…",
+    "fullDescription": "We love Instinct, but have been increasingly worried about the data footprint we are handing over to them, and what they might do with that data. So we built an oss self-hostable version. It includes a vault that can store cards, logins, and personal information, so it can execute complex tasks on your behalf, like: &quot;Get me two tickets to the odyssey on saturday at my nearest theatre&quot; &quot;Find me the best golf grip trainer and order it for me&quot; &quot;Read my email and find opportunities to save money by cancelling subscriptions I don&#x27;t use&quot; The tech stack: - Eve agent framework for durable agent runs - Linq for iMessage - Kernel for browser use &#x2F; credential injection - Postgres for DB - Vercel AI gateway so you can use any model - Vercent Connect for google workspace and other connectors We welcome community contributions and feedback! This is still beta software, so I wouldn&#x27;t use it in production, but I think you will be pleasantly surprised with its capability and personality\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/Merit-Systems/OpenInstinct",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49479314",
+    "createdAt": "2026-08-28T17:35:33.953Z"
+  },
+  {
+    "slug": "doormouse-a-reverse-proxy-that-wakes-sleeping-servers-via-wake-on-lan-hn",
+    "title": "Doormouse – a reverse proxy that wakes sleeping servers via Wake-on-LAN",
+    "shortDescription": "I had an old NAS that was using up a lot of energy so I kept it mostly offline.. But then I&#x27;d have to go turn it on when I actually ne…",
+    "fullDescription": "I had an old NAS that was using up a lot of energy so I kept it mostly offline.. But then I&#x27;d have to go turn it on when I actually need to use it... So I automated it with doormouse - its a wake-on-lan reverse proxy, both or web apps (HTTP) and things like SSH (TCP). When I connect to the services hosted on my old NAS, doormouse wakes up the machine and fulfills the requests when it has woken up. It is open source, yes a lot of the code is AI-generated, but its heavy on the tests, both automated and manual. Try it out - feedback is welcome.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/darksworm/doormouse",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49479254",
+    "createdAt": "2026-08-28T17:35:33.953Z"
+  },
+  {
+    "slug": "millnew-ai-on-device-time-series-prediction-ai-using-pytorch-captum-hn",
+    "title": "Millnew AI – On device time-series prediction AI using PyTorch & Captum",
+    "shortDescription": "Проект «Millnew AI – On device time-series prediction AI using PyTorch & Captum», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Millnew AI – On device time-series prediction AI using PyTorch & Captum», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/ikaruz050309/RobinHood",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49479216",
+    "createdAt": "2026-08-28T17:35:33.953Z"
+  },
+  {
+    "slug": "streamcore-open-source-realtime-voice-infrastructure-for-ai-hn",
+    "title": "StreamCore – Open-source realtime voice infrastructure for AI",
+    "shortDescription": "Проект «StreamCore – Open-source realtime voice infrastructure for AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «StreamCore – Open-source realtime voice infrastructure for AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/streamcoreai/streamcore-server",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49479199",
+    "createdAt": "2026-08-28T17:35:33.953Z"
+  },
+  {
+    "slug": "infercrane-one-stable-endpoint-for-self-hosted-ai-inference-hn",
+    "title": "InferCrane – One stable endpoint for self-hosted AI inference",
+    "shortDescription": "Проект «InferCrane – One stable endpoint for self-hosted AI inference», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «InferCrane – One stable endpoint for self-hosted AI inference», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://infercrane.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49479139",
+    "createdAt": "2026-08-28T17:35:33.953Z"
+  },
+  {
+    "slug": "argus-open-source-ai-agents-for-testing-web-apps-hn",
+    "title": "Argus, open-source AI agents for testing web apps",
+    "shortDescription": "Проект «Argus, open-source AI agents for testing web apps», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Argus, open-source AI agents for testing web apps», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/argus-testing/argus",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49479115",
+    "createdAt": "2026-08-28T17:35:33.953Z"
+  },
+  {
+    "slug": "grith-syscall-level-supervision-for-ai-coding-agents-on-linux-hn",
+    "title": "Grith – syscall-level supervision for AI coding agents on Linux",
+    "shortDescription": "Проект «Grith – syscall-level supervision for AI coding agents on Linux», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Grith – syscall-level supervision for AI coding agents on Linux», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/grith-ai/grith",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49478820",
+    "createdAt": "2026-08-28T17:35:33.953Z"
+  },
+  {
+    "slug": "coordination-layer-for-coding-agents-hn",
+    "title": "Coordination Layer for Coding Agents",
+    "shortDescription": "We built an open sourced coordination layer for AI agents working on the same repository. Detects work duplication and design conflicts ear…",
+    "fullDescription": "We built an open sourced coordination layer for AI agents working on the same repository. Detects work duplication and design conflicts early\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://twing.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49478737",
+    "createdAt": "2026-08-28T17:35:33.953Z"
+  },
+  {
+    "slug": "dmx-mcp-server-for-adding-configurable-gated-loops-to-coding-agents-hn",
+    "title": "dmx – MCP server for adding configurable, gated loops to coding agents",
+    "shortDescription": "Проект «dmx – MCP server for adding configurable, gated loops to coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «dmx – MCP server for adding configurable, gated loops to coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://dmx.deepmodel.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49478619",
+    "createdAt": "2026-08-28T17:35:33.953Z"
+  },
+  {
+    "slug": "onlybotschat-a-chatroom-where-ai-pays-to-post-for-humans-hn",
+    "title": "OnlyBots.chat – a chatroom where AI pays to post for humans",
+    "shortDescription": "Проект «OnlyBots.chat – a chatroom where AI pays to post for humans», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «OnlyBots.chat – a chatroom where AI pays to post for humans», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://onlybots.chat",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49478013",
+    "createdAt": "2026-08-28T17:35:33.953Z"
+  },
+  {
+    "slug": "forth-mcp-give-any-remote-ai-client-access-to-your-local-mcp-servers-hn",
+    "title": "Forth MCP – give any remote AI client access to your local MCP servers",
+    "shortDescription": "Проект «Forth MCP – give any remote AI client access to your local MCP servers», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Forth MCP – give any remote AI client access to your local MCP servers», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://www.forthmcp.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49477863",
+    "createdAt": "2026-08-28T17:35:33.953Z"
+  },
+  {
     "slug": "sideask-github",
     "title": "sideask",
     "shortDescription": "AI side-question layer — ask aside, stay on track.",
