@@ -1,5 +1,53 @@
 [
   {
+    "slug": "ai-agents-for-osintsigint-hn",
+    "title": "AI Agents for Osint/Sigint",
+    "shortDescription": "The goal was to bring down the cost at the context eng. level. We do it with Layout Memoization. Instead of dumping HTML into the context w…",
+    "fullDescription": "The goal was to bring down the cost at the context eng. level. We do it with Layout Memoization. Instead of dumping HTML into the context window, we have built a continual learning browser harness (read only for now). We have built an early prototype for you to try out, where you can: 1. Spins up a browser instance 2. Extract any structured or tabular data from anywhere on the open-web 3. And you can do all this at the cost of a vector search Would love to hear your thoughts on this. Thanks for taking the time to read it.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.makralabs.org/about",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49493576",
+    "createdAt": "2026-08-29T22:43:01.448Z"
+  },
+  {
+    "slug": "a-slm-optimized-for-tool-calling-hn",
+    "title": "A SLM Optimized for Tool Calling",
+    "shortDescription": "Проект «A SLM Optimized for Tool Calling», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A SLM Optimized for Tool Calling», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://blog.neurometric.ai/p/introducing-a-task-specific-tool",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49493085",
+    "createdAt": "2026-08-29T22:43:01.448Z"
+  },
+  {
+    "slug": "documentationaimd-a-docs-standard-for-ai-agents-not-humans-hn",
+    "title": "Documentation.ai.md – a docs standard for AI agents, not humans",
+    "shortDescription": "Проект «Documentation.ai.md – a docs standard for AI agents, not humans», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Documentation.ai.md – a docs standard for AI agents, not humans», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/iwasoftcom/ai-docs-standard",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49493041",
+    "createdAt": "2026-08-29T22:43:01.449Z"
+  },
+  {
     "slug": "agentic-graphrag-blueprint-github",
     "title": "Agentic-GraphRAG-Blueprint",
     "shortDescription": "Python + Terraform. Cloud-ready GraphRAG solution that uncovers distant connections across data and grows incrementally as new documents ar…",
