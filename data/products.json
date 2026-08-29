@@ -1,5 +1,135 @@
 [
   {
+    "slug": "llms-in-10-words-github",
+    "title": "llms-in-10-words",
+    "shortDescription": "Complex LLM concepts explained in 10 words or less",
+    "fullDescription": "Complex LLM concepts explained in 10 words or less\n\nАвтор: thisisandreeeee. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/thisisandreeeee/llms-in-10-words",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-education",
+      "generative-ai",
+      "glossary",
+      "large-language-models",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1348499225",
+    "createdAt": "2026-08-29T08:08:58.568Z"
+  },
+  {
+    "slug": "nell-github",
+    "title": "Nell",
+    "shortDescription": "Open Source Instinct — a personal AI agent you text to get things done.",
+    "fullDescription": "Open Source Instinct — a personal AI agent you text to get things done.\n\nАвтор: iabdulwasey. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/iabdulwasey/Nell",
+    "category": "chatbot",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-agent",
+      "browser-automation",
+      "durable-execution",
+      "fair-source",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1350026637",
+    "createdAt": "2026-08-29T08:08:58.568Z"
+  },
+  {
+    "slug": "on-board-ai-github",
+    "title": "On-board-AI",
+    "shortDescription": "AI-powered learning platform for neurodivergent students with real-time microcontroller and circuit debugging.",
+    "fullDescription": "AI-powered learning platform for neurodivergent students with real-time microcontroller and circuit debugging.\n\nАвтор: Yuktimittal19. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/Yuktimittal19/On-board-AI",
+    "category": "ai-tool",
+    "tags": [
+      "accessibility",
+      "ai",
+      "arduino",
+      "artificial-intelligence",
+      "circuit-debugging",
+      "education",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1349523644",
+    "createdAt": "2026-08-29T08:08:58.568Z"
+  },
+  {
+    "slug": "itsuki-open-source-memory-engine-for-ai-agents-api-and-mcp-hn",
+    "title": "Itsuki – open-source memory engine for AI agents (API and MCP)",
+    "shortDescription": "Проект «Itsuki – open-source memory engine for AI agents (API and MCP)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Itsuki – open-source memory engine for AI agents (API and MCP)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://itsuki.app/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49487838",
+    "createdAt": "2026-08-29T08:08:58.454Z"
+  },
+  {
+    "slug": "airtight-single-file-portfolio-tracker-zero-servers-works-offline-hn",
+    "title": "Airtight – single-file portfolio tracker, zero servers, works offline",
+    "shortDescription": "track your portfolio from CSV exports, nothing leaves your browser",
+    "fullDescription": "track your portfolio from CSV exports, nothing leaves your browser\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://airtight.sell.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49487783",
+    "createdAt": "2026-08-29T08:08:58.454Z"
+  },
+  {
+    "slug": "doodle-ai-open-source-photo-to-doodle-avatar-generator-hn",
+    "title": "Doodle AI: open-source photo-to-doodle avatar generator",
+    "shortDescription": "good morning New Doodle project is live -&gt; https:&#x2F;&#x2F;doodleai.art&#x2F; I started this project for the Kiro Hackathon and honest…",
+    "fullDescription": "good morning New Doodle project is live -&gt; https:&#x2F;&#x2F;doodleai.art&#x2F; I started this project for the Kiro Hackathon and honestly now I just love building this lol. Not sure if I’ll get any return from this or not, but still feels worth building instead of just making some random .lol site Still adding more features, but you can try it now. You’ll get some signup credits too. It’s open source, so if you like it, please give the repo a star https:&#x2F;&#x2F;github.com&#x2F;Type-Think-AI&#x2F;doodle-ai any feedback ?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://doodleai.art/",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49487781",
+    "createdAt": "2026-08-29T08:08:58.454Z"
+  },
+  {
+    "slug": "slidex-open-source-presentations-with-mdx-hn",
+    "title": "SlideX – Open-source presentations with MDX",
+    "shortDescription": "I designed SlideX, an open-source presentation tool built around MDX, with a local-first workflow and support for AI agents.",
+    "fullDescription": "I designed SlideX, an open-source presentation tool built around MDX, with a local-first workflow and support for AI agents.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.slidexdeck.com/en/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49486406",
+    "createdAt": "2026-08-29T08:08:58.454Z"
+  },
+  {
     "slug": "ai-shipcheck-github",
     "title": "ai-shipcheck",
     "shortDescription": "Know if your AI-built app is actually ready to ship. Local-first production readiness scanner for security, auth, reliability, tests, obser…",
