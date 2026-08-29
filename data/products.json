@@ -1,5 +1,221 @@
 [
   {
+    "slug": "ai-shipcheck-github",
+    "title": "ai-shipcheck",
+    "shortDescription": "Know if your AI-built app is actually ready to ship. Local-first production readiness scanner for security, auth, reliability, tests, obser…",
+    "fullDescription": "Know if your AI-built app is actually ready to ship. Local-first production readiness scanner for security, auth, reliability, tests, observability, performance and accessibility.\n\nАвтор: sinceaihq. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://sinceai.ai/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-coding",
+      "cli",
+      "code-quality",
+      "developer-tools",
+      "devsecops",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1348731665",
+    "createdAt": "2026-08-29T01:26:47.211Z"
+  },
+  {
+    "slug": "oxalphatrace-github",
+    "title": "OxAlphaTrace",
+    "shortDescription": "OxAlphaTrace: A Behavioral Fingerprinting Study of Model Provenance, Reasoning, and Performance",
+    "fullDescription": "OxAlphaTrace: A Behavioral Fingerprinting Study of Model Provenance, Reasoning, and Performance\n\nАвтор: Ddm140207. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/Ddm140207/OxAlphaTrace",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "fingerprinting",
+      "llm",
+      "llm-evaluation",
+      "machine-learning",
+      "model-attribution",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1350133810",
+    "createdAt": "2026-08-29T01:26:47.211Z"
+  },
+  {
+    "slug": "zenrouter-github",
+    "title": "ZenRouter",
+    "shortDescription": "🌿 ZenRouter: Serene AI Gateway & Intelligent Routing Engine. Connect Claude Code, Codex, Cursor, Cline to 40+ AI providers with RTK token…",
+    "fullDescription": "🌿 ZenRouter: Serene AI Gateway & Intelligent Routing Engine. Connect Claude Code, Codex, Cursor, Cline to 40+ AI providers with RTK token saving, combo fallback & zero-leak streaming.\n\nАвтор: ZenRouter. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/ZenRouter/ZenRouter",
+    "category": "developer",
+    "tags": [
+      "9router",
+      "ai",
+      "ai-agents",
+      "ai-gateway",
+      "ai-model",
+      "antigravity",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1348441164",
+    "createdAt": "2026-08-29T01:26:47.211Z"
+  },
+  {
+    "slug": "jharudyam-sih26043-github",
+    "title": "JharUdyam-SIH26043",
+    "shortDescription": "Built for SIH 2026 (SIH26043), JharUdyam is an AI-driven civic innovation platform for the Govt of Jharkhand. It connects citizens, governm…",
+    "fullDescription": "Built for SIH 2026 (SIH26043), JharUdyam is an AI-driven civic innovation platform for the Govt of Jharkhand. It connects citizens, government, and industry—turning disaster management reports from a smart mobile app into actionable solutions via a partner web portal.\n\nАвтор: nonsense3. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://jharudyam.onrender.com/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "android",
+      "application",
+      "flutter",
+      "react",
+      "supabase",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1348287125",
+    "createdAt": "2026-08-29T01:26:47.211Z"
+  },
+  {
+    "slug": "leiolai-ai-that-pays-users-for-the-compute-their-devices-provide-hn",
+    "title": "Leiolai, AI that pays users for the compute their devices provide",
+    "shortDescription": "Leiolai runs inference across devices people already own instead of data centers. It saves water with inference and pays users for the comp…",
+    "fullDescription": "Leiolai runs inference across devices people already own instead of data centers. It saves water with inference and pays users for the computation their devices provide. The app is free to use on iPhone and Android, with no card required. Users can contribute compute, earn money, and level up their chip system to unlock more computation at no additional cost. leiolai-1 has an 11-million-token context window. Developers can use it through an OpenAI-compatible API starting at $0.01 per million input tokens and $0.02 per million output tokens. It supports continuous generation with no output limit. Try it here: https:&#x2F;&#x2F;leiolai.com&#x2F;download&#x2F; I&#x27;m happy to answer questions about the product and technology here!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://leiolai.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49485913",
+    "createdAt": "2026-08-29T01:26:46.994Z"
+  },
+  {
+    "slug": "darwin-vm-run-the-latest-ios-and-macos-in-qemu-hn",
+    "title": "Darwin-VM – run the latest iOS and macOS in QEMU",
+    "shortDescription": "For the past few months, I&#x27;ve been building support for running the latest SPTM-based versions of iOS and macOS into qemu. The idea is…",
+    "fullDescription": "For the past few months, I&#x27;ve been building support for running the latest SPTM-based versions of iOS and macOS into qemu. The idea is to create a lightweight barebones environment for playing around with &#x2F; debugging XNU and low-level Darwin internals, kind of like a tiny busybox Linux system except running Darwin, and using an emulated Apple Silicon CPU (custom instructions&#x2F; privilege levels and all). With darwin-vm, you can directly boot the system using just an iOS&#x2F; macOS kernel and minimal ramdisk; no gigantic 40GB macOS VM disk images or downloading 10GB+ IPSW files like you need to for regular macOS VMs. It also works for iOS! And of course, since this is a VM you can use a debugger to debug anything in the system: SPTM, TXM, XNU, all kexts, launchd, dyld, and all user programs can be modified&#x2F; patched&#x2F; debugged. You can also run your own custom programs inside the VM as root. Getting this to work required reverse engineering the SPTM boot protocol and implementing it in qemu, eg. how SPTM expects the trusted execution monitor, boot kernelcache, ramdisk, trustcache, device tree, boot args, etc. to be laid out in physmem. I also had to add support for Apple&#x27;s GXF instructions and guarded exception levels, which are parallel privilege levels that live next to your classical EL2 and EL0, and are used by SPTM and TXM respectively. Not to mention all of the random undocumented system registers and device tree manipulation the system expects the bootloader to take care of, as well as getting MTE to work for the latest hardware. The darwin-vm repository contains scripts that automate downloading just the files you need from an iOS or macOS update file, installing a root shell daemon into the ramdisk, and signing a trustcache for you so you don&#x27;t have to deal with&#x2F; care about any of that. The hope is it&#x27;s as &quot;plug and play&quot; as possible: you give me an iOS&#x2F; macOS update file, I give you a root shell inside a VM running that OS. I&#x27;ve tested this booting the very latest iOS and macOS betas on virtual iPhone 17, 16, 15, 14, 13, and 12, as well as M1-M5 virtual Mac Minis and Macbook Airs. Since it&#x27;s all Qemu TCG, you can run this anywhere Qemu runs; no need for an ARM host. You do need a Mac to set up the VM files though since the setup scripts mess around with APFS images and code signing. I also included instructions in the readme for how to customize the kernel&#x2F; swap in a development kernel from a Kernel Debug Kit and get symbolic kernel debugging working in the VM via lldb, as well as how to compile and run your own programs in your iOS or macOS VM. Let me know what you think!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/jprx/darwin-vm",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49485263",
+    "createdAt": "2026-08-29T01:26:46.994Z"
+  },
+  {
+    "slug": "a2acast-let-ai-agents-on-different-computers-work-together-hn",
+    "title": "A2acast – Let AI agents on different computers work together",
+    "shortDescription": "Проект «A2acast – Let AI agents on different computers work together», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A2acast – Let AI agents on different computers work together», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/husker/a2acast",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49484874",
+    "createdAt": "2026-08-29T01:26:46.994Z"
+  },
+  {
+    "slug": "adriselab-i-built-an-ai-media-buyer-for-my-own-meta-ads-hn",
+    "title": "AdRiseLab – I built an AI media buyer for my own Meta ads",
+    "shortDescription": "Проект «AdRiseLab – I built an AI media buyer for my own Meta ads», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AdRiseLab – I built an AI media buyer for my own Meta ads», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://adriselab.com/blog/what-is-an-ai-performance-marketer",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49484708",
+    "createdAt": "2026-08-29T01:26:46.995Z"
+  },
+  {
+    "slug": "porchweather-a-free-site-that-pings-you-when-its-nice-outside-hn",
+    "title": "PorchWeather – a free site that pings you when it's nice outside",
+    "shortDescription": "I live in the Bay Area, and so the weather cools down to a comfy temperature in the evenings. Opening up the windows to let the fresh air i…",
+    "fullDescription": "I live in the Bay Area, and so the weather cools down to a comfy temperature in the evenings. Opening up the windows to let the fresh air in has saved me a decent amount on A&#x2F;C bills. Checking a forecast every hour to catch that moment is exactly the kind of job a computer should do. PorchWeather watches one saved location and a set of conditions you pick (temperature range, wind, rain, dew point, air quality) and sends you a notification when conditions become nice, and another when they stop. That&#x27;s the whole product. It&#x27;s free, web-native (not an app), and notifications are browser push or email. Some implementation details HN might find interesting: Stack: SvelteKit SPA, Rust backend, DynamoDB, Cognito for auth, SES for email, Self-hosted Open-Meteo for weather all on ECS Fargate. The weather layer serves ECMWF global plus NOAA HRRR at 3 km resolution for the US. Notifications are primarily through web push. I&#x27;d love to do SMS through twilio, but it seems prohibitively expensive for a free service unfortunately. iOS devices make this a little harder because you have to &quot;install&quot; the app on the home screen to get push notifications. I may end up creating an app at some point to make this easier if there&#x27;s demand.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://porchweather.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49484064",
+    "createdAt": "2026-08-29T01:26:46.995Z"
+  },
+  {
+    "slug": "dipstick-alerts-search-recalls-and-service-bulletins-for-your-car-hn",
+    "title": "Dipstick Alerts – Search recalls and service bulletins for your car",
+    "shortDescription": "Hi HN! When I bought my first car, a 2019 Subaru Forester, I also bought an extended warranty. I wanted to stay informed about problems tha…",
+    "fullDescription": "Hi HN! When I bought my first car, a 2019 Subaru Forester, I also bought an extended warranty. I wanted to stay informed about problems that might be covered, so I started checking NHTSA.gov—the website of the National Highway Traffic Safety Administration, a U.S. agency—every month for new service bulletins. Those bulletins pointed me to problems I might not otherwise have recognized as repairable. For example, my trunk would not open as far in cold weather. I probably would not have asked the dealer about it, but I found a service bulletin describing the problem and was able to get it fixed under warranty. I wanted a simpler way to find information relevant to my car and to be notified when something new appeared, so I built Dipstick Alerts. This was also my first substantial project built with extensive help from AI coding tools. You can use the site without signing up: select a year, make, and model to search for recalls and manufacturer service bulletins. Results include a plain-language summary, symptom notes, suggested next steps, and a link to the original manufacturer document when available. Email alerts are optional. NHTSA is the underlying data source, so coverage is currently focused on vehicles sold in the United States. Some of the information may still be useful elsewhere because many vehicles and components are sold globally, but models and bulletin applicability can differ between markets. A daily process scans for newly published recalls and bulletins, imports them through queues, matches them to applicable vehicles, tracks superseding bulletins, and prepares alerts for subscribers. Some of the plain-language content is generated from the source documents using Gemini. The original manufacturer documents remain the authoritative source. The application runs on Cloudflare Workers using D1, Queues, KV, and email sending. I’d especially appreciate reports of incorrect vehicle matches and feedback on whether the summaries are genuinely useful, whether anything in the search or alert flow is confusing, and how the site performs under load. I’ll be around to answer questions and fix problems. Thanks for trying it!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://dipstickalerts.com",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49483465",
+    "createdAt": "2026-08-29T01:26:46.995Z"
+  },
+  {
+    "slug": "ios-app-for-learning-any-song-on-piano-with-ai-music-transcription-hn",
+    "title": "iOS app for learning any song on piano with AI music transcription",
+    "shortDescription": "Проект «iOS app for learning any song on piano with AI music transcription», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «iOS app for learning any song on piano with AI music transcription», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://apps.apple.com/us/app/anything-piano-learn-any-song/id6761146933",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49483015",
+    "createdAt": "2026-08-29T01:26:46.995Z"
+  },
+  {
+    "slug": "ai-shipcheck-know-if-your-ai-built-app-is-ready-to-ship-hn",
+    "title": "AI Shipcheck – know if your AI-built app is ready to ship",
+    "shortDescription": "Проект «AI Shipcheck – know if your AI-built app is ready to ship», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Shipcheck – know if your AI-built app is ready to ship», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/sinceaihq/ai-shipcheck",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49482469",
+    "createdAt": "2026-08-29T01:26:46.995Z"
+  },
+  {
     "slug": "intentroute-ai-github-2",
     "title": "IntentRoute-AI",
     "shortDescription": "Open-source AI-assisted per-application routing for Windows with OpenAI/Ollama drafts and a sing-box TUN data plane.",
