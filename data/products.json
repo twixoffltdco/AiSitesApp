@@ -1,5 +1,145 @@
 [
   {
+    "slug": "agent-loop-guard-github",
+    "title": "agent-loop-guard",
+    "shortDescription": "Protect AI agents from runaway loops, repeated tool calls, and uncontrolled execution. Provider-independent, zero-dependency, TypeScript-fi…",
+    "fullDescription": "Protect AI agents from runaway loops, repeated tool calls, and uncontrolled execution. Provider-independent, zero-dependency, TypeScript-first.\n\nАвтор: OMD-123. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://github.com/OMD-123/agent-loop-guard#readme",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "agent-safety",
+      "ai",
+      "ai-agent",
+      "guard",
+      "javascript",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1350313506",
+    "createdAt": "2026-08-29T13:55:53.907Z"
+  },
+  {
+    "slug": "memory-bridge-github",
+    "title": "memory-bridge",
+    "shortDescription": "记忆桥 MemoryBridge — 跨设备、跨平台的 AI 共享记忆层 | Cross-device and cross-platform shared memory for AI (CDSMP implementation)",
+    "fullDescription": "记忆桥 MemoryBridge — 跨设备、跨平台的 AI 共享记忆层 | Cross-device and cross-platform shared memory for AI (CDSMP implementation)\n\nАвтор: jiabaobei. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/jiabaobei/memory-bridge",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "cdsmp",
+      "cross-device",
+      "cross-platform",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1350274410",
+    "createdAt": "2026-08-29T13:55:53.907Z"
+  },
+  {
+    "slug": "pictiur-image-converter-optimizer-and-resizer-all-in-one-hn",
+    "title": "Pictiur: Image converter, optimizer and resizer, all in one",
+    "shortDescription": "Disclaimer: This project was entirely vibe coded, this was done by a professional, do not try to reproduce this at home. I also fully under…",
+    "fullDescription": "Disclaimer: This project was entirely vibe coded, this was done by a professional, do not try to reproduce this at home. I also fully understand that this may not match some people&#x27;s values, so I&#x27;d like to point out that I built this project for my personal use first and foremost. If my approach still bothers you, well, that&#x27;s ok. For personal reasons, I&#x27;ve had to do document scans every day for the past month, photos of my ID papers, and I realized something: the online offering for processing images is horrible. Generally these tools focus on one thing, conversion, optimization, or resizing, but rarely 2 tools in one, and even less 3. It could pass if, on top of that, the offering wasn&#x27;t riddled with sites full of dumbass ads, with &quot;DOWNLOAD&quot; buttons that are a trap, and with data processing that&#x27;s dubious at best. I&#x27;ve also been running a home server for a while now, on which I install lots of self-hosted projects (with Coolify &lt;3), and I wondered whether I couldn&#x27;t make my own tool, one that would work completely offline (PWA), and wouldn&#x27;t transmit any data. I also wanted to see what Deepseek Flash was capable of, beyond the last questions I had asked it, namely how to set up my vegetable garden on 100m², and whether I should put my rainwater collector on a stand or not. So I dove into a benchmark on the best algorithms to use for my idea, how to architect the app, etc... In the end, after about an hour of back and forth, I had a complete implementation plan and a tech stack I already knew, in case I had to debug by hand and use my brain again. A few hours in the IDE and here is the final result: https:&#x2F;&#x2F;pictiur.pages.dev&#x2F; The site is 100% local, the whole process runs in the browser, it&#x27;s a PWA so the app is installable and usable offline, and for now it supports the most well-known formats but I fully intend to add more. The repo is public in case you want to install it on your own server (and feel free to take the opportunity to trash talk the code quality and explain just how much of a disaster AI is, and how your nephew who&#x27;s currently learning PHP would have structured this in a much more professional way). https:&#x2F;&#x2F;github.com&#x2F;Etheonor&#x2F;pictiur And feel free to tell me if you see any improvements to make. As I said at the beginning, it is built for my personal use, but if other ideas can be grafted onto it, I&#x27;m all ears.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://pictiur.pages.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49489096",
+    "createdAt": "2026-08-29T13:55:53.833Z"
+  },
+  {
+    "slug": "toolchestrator-make-local-ai-built-tools-usable-by-your-team-hn",
+    "title": "Toolchestrator – make local, AI-built tools usable by your team",
+    "shortDescription": "Проект «Toolchestrator – make local, AI-built tools usable by your team», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Toolchestrator – make local, AI-built tools usable by your team», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://toolchestrator.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49489072",
+    "createdAt": "2026-08-29T13:55:53.833Z"
+  },
+  {
+    "slug": "the-ui-ai-slop-game-no-one-can-resist-5-minutes-hn",
+    "title": "The UI AI-Slop game. No one can resist 5 minutes",
+    "shortDescription": "I turned AI slop into a UI game",
+    "fullDescription": "I turned AI slop into a UI game\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ai-rush.lol/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49488507",
+    "createdAt": "2026-08-29T13:55:53.833Z"
+  },
+  {
+    "slug": "agentbridge-let-one-ai-think-while-another-ai-writes-the-code-hn",
+    "title": "AgentBridge – Let one AI think while another AI writes the code",
+    "shortDescription": "Проект «AgentBridge – Let one AI think while another AI writes the code», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AgentBridge – Let one AI think while another AI writes the code», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/IndexFlowing/AgentBridge",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49488074",
+    "createdAt": "2026-08-29T13:55:53.833Z"
+  },
+  {
+    "slug": "kith-ai-clinical-notes-for-therapists-from-ambient-session-audio-hn",
+    "title": "Kith – AI clinical notes for therapists from ambient session audio",
+    "shortDescription": "Проект «Kith – AI clinical notes for therapists from ambient session audio», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Kith – AI clinical notes for therapists from ambient session audio», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.kith.space",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49487976",
+    "createdAt": "2026-08-29T13:55:53.833Z"
+  },
+  {
+    "slug": "a-free-ai-news-briefing-agent-that-runs-on-github-actions-no-server-hn",
+    "title": "A free AI news briefing agent that runs on GitHub Actions, no server",
+    "shortDescription": "Проект «A free AI news briefing agent that runs on GitHub Actions, no server», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A free AI news briefing agent that runs on GitHub Actions, no server», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/tballochi/daily-briefing",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49487904",
+    "createdAt": "2026-08-29T13:55:53.833Z"
+  },
+  {
     "slug": "llms-in-10-words-github",
     "title": "llms-in-10-words",
     "shortDescription": "Complex LLM concepts explained in 10 words or less",
