@@ -1,5 +1,201 @@
 [
   {
+    "slug": "useagent-github",
+    "title": "useagent",
+    "shortDescription": "Hand off the work. Get back the result. The open-source AI coworker for your team: agents with their own cloud computer, your tools and con…",
+    "fullDescription": "Hand off the work. Get back the result. The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work - websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.\n\nАвтор: useagenthq. Найдено в GitHub Trending (AI-тематика). ⭐ 10 звёзд.",
+    "url": "https://useagent.org",
+    "category": "productivity",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-coworker",
+      "automation",
+      "autonomous-agents",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1350914890",
+    "createdAt": "2026-08-30T01:01:18.169Z"
+  },
+  {
+    "slug": "opencontext-github-2",
+    "title": "opencontext",
+    "shortDescription": "A Model Context Protocol server for persistent project-specific AI agent context.",
+    "fullDescription": "A Model Context Protocol server for persistent project-specific AI agent context.\n\nАвтор: slxca. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://opencntx.dev",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "context",
+      "mcp",
+      "mcp-server",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1350893640",
+    "createdAt": "2026-08-30T01:01:18.169Z"
+  },
+  {
+    "slug": "aicontext-github",
+    "title": "AI_CONTEXT",
+    "shortDescription": "AI_CONTEXT: a way to share durable project context between any AI agents and humans using the repository itself as the continuity layer.",
+    "fullDescription": "AI_CONTEXT: a way to share durable project context between any AI agents and humans using the repository itself as the continuity layer.\n\nАвтор: yoliverasPozo. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/yoliverasPozo/AI_CONTEXT",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-coding",
+      "ai-tools",
+      "context",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1350149746",
+    "createdAt": "2026-08-30T01:01:18.169Z"
+  },
+  {
+    "slug": "no-bs-skills-github",
+    "title": "no-bs-skills",
+    "shortDescription": "Agent skills for pragmatic programmers.",
+    "fullDescription": "Agent skills for pragmatic programmers.\n\nАвтор: MK27MK. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/MK27MK/no-bs-skills",
+    "category": "ai-tool",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "ai-coding",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1350494305",
+    "createdAt": "2026-08-30T01:01:18.169Z"
+  },
+  {
+    "slug": "icelake-github",
+    "title": "icelake",
+    "shortDescription": "Persistent agent memory layer for Discord bots. Ingest messages, extract per-user and server facts, surface cross-user relationships, recon…",
+    "fullDescription": "Persistent agent memory layer for Discord bots. Ingest messages, extract per-user and server facts, surface cross-user relationships, reconcile updates over time, and retrieve relevant context at reply time.\n\nАвтор: nulzo. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/nulzo/icelake",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "discord",
+      "graph",
+      "llm",
+      "long-term-memory",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1350116165",
+    "createdAt": "2026-08-30T01:01:18.169Z"
+  },
+  {
+    "slug": "agentcareer-github",
+    "title": "AgentCareer",
+    "shortDescription": "AI career coach using multi-agent workflows and knowledge retrieval to create personalized career roadmaps.",
+    "fullDescription": "AI career coach using multi-agent workflows and knowledge retrieval to create personalized career roadmaps.\n\nАвтор: soumadip-dev. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/soumadip-dev/AgentCareer",
+    "category": "developer",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "artificial-intelligence",
+      "career-coach",
+      "cli",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1349172561",
+    "createdAt": "2026-08-30T01:01:18.169Z"
+  },
+  {
+    "slug": "cardwall-free-external-a2a-health-check-and-status-badge-for-agents-hn",
+    "title": "Cardwall – free external A2A health check and status badge for agents",
+    "shortDescription": "A wall of A2A agent cards. Each card stays on its owner&#x27;s own machine.",
+    "fullDescription": "A wall of A2A agent cards. Each card stays on its owner&#x27;s own machine.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://cardwall.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49494495",
+    "createdAt": "2026-08-30T01:01:18.143Z"
+  },
+  {
+    "slug": "vibeguard-security-linter-for-ai-generated-code-hn",
+    "title": "VibeGuard – security linter for AI-generated code",
+    "shortDescription": "Security linter for AI-generated code — catches what Copilot, Cursor and ChatGPT get wrong. SQL injection, hardcoded secrets, JWT bypass an…",
+    "fullDescription": "Security linter for AI-generated code — catches what Copilot, Cursor and ChatGPT get wrong. SQL injection, hardcoded secrets, JWT bypass and 15+ more rules. Grade A–F. Zero config.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/zeroFhacker/vibeguard",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49494097",
+    "createdAt": "2026-08-30T01:01:18.144Z"
+  },
+  {
+    "slug": "i-might-have-built-the-best-linear-alternative-hn",
+    "title": "I might have built the best Linear alternative",
+    "shortDescription": "It&#x27;s a Plan - the open-source tracker where humans and AI agents share one board. Your server, your database, your model keys. AGPL-3.…",
+    "fullDescription": "It&#x27;s a Plan - the open-source tracker where humans and AI agents share one board. Your server, your database, your model keys. AGPL-3.0, no seats, no lock-in.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/croffasia/itsaplan",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49494058",
+    "createdAt": "2026-08-30T01:01:18.144Z"
+  },
+  {
+    "slug": "live-ai-video-streams-that-write-themselves-one-shot-at-a-time-hn",
+    "title": "Live AI video streams that write themselves one shot at a time",
+    "shortDescription": "Проект «Live AI video streams that write themselves one shot at a time», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Live AI video streams that write themselves one shot at a time», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://tv.mormon.garden",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49493966",
+    "createdAt": "2026-08-30T01:01:18.144Z"
+  },
+  {
     "slug": "ai-agents-for-osintsigint-hn",
     "title": "AI Agents for Osint/Sigint",
     "shortDescription": "The goal was to bring down the cost at the context eng. level. We do it with Layout Memoization. Instead of dumping HTML into the context w…",
