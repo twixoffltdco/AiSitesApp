@@ -1,5 +1,155 @@
 [
   {
+    "slug": "nexus-vii-autonomous-intelligence-github",
+    "title": "Nexus-VII-Autonomous-Intelligence",
+    "shortDescription": "A J.A.R.V.I.S.-inspired autonomous AI assistant with voice control, Telegram integration, proactive reminders, web form automation, and scr…",
+    "fullDescription": "A J.A.R.V.I.S.-inspired autonomous AI assistant with voice control, Telegram integration, proactive reminders, web form automation, and screen analysis.\n\nАвтор: sarukvedant-crypto. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/sarukvedant-crypto/Nexus-VII-Autonomous-Intelligence",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "assistant",
+      "automation",
+      "fastapi",
+      "jarvis",
+      "python",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1351373267",
+    "createdAt": "2026-08-30T17:40:02.584Z"
+  },
+  {
+    "slug": "simurg-open-source-web-search-for-ai-agents-that-aborts-hallucinations-hn",
+    "title": "Simurg open-source web search for AI agents that aborts hallucinations",
+    "shortDescription": "Проект «Simurg open-source web search for AI agents that aborts hallucinations», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Simurg open-source web search for AI agents that aborts hallucinations», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/doofzoff/SIMURG",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49500488",
+    "createdAt": "2026-08-30T17:40:02.394Z"
+  },
+  {
+    "slug": "claude-skills-starter-kit-198-modular-skills-for-ai-agents-hn",
+    "title": "Claude Skills Starter Kit – 198 modular skills for AI agents",
+    "shortDescription": "Проект «Claude Skills Starter Kit – 198 modular skills for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Claude Skills Starter Kit – 198 modular skills for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/yevhens-hue/claude-skills-starter-kit",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49500224",
+    "createdAt": "2026-08-30T17:40:02.394Z"
+  },
+  {
+    "slug": "cardgo-reusable-end-to-end-encrypted-context-cards-for-ai-chats-hn",
+    "title": "CardGo – Reusable, end-to-end encrypted context cards for AI chats",
+    "shortDescription": "Проект «CardGo – Reusable, end-to-end encrypted context cards for AI chats», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «CardGo – Reusable, end-to-end encrypted context cards for AI chats», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://cardgo.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49499893",
+    "createdAt": "2026-08-30T17:40:02.394Z"
+  },
+  {
+    "slug": "piqt-ios-on-device-photo-and-video-curator-hn",
+    "title": "Piqt (iOS) – on device photo and video curator",
+    "shortDescription": "I&#x27;ve just released Piqt, an on-device photo&#x2F;video curator. For years I&#x27;ve wanted to get my Apple Photos library under contro…",
+    "fullDescription": "I&#x27;ve just released Piqt, an on-device photo&#x2F;video curator. For years I&#x27;ve wanted to get my Apple Photos library under control, but there just aren&#x27;t enough hours in the day. I started out in Jupyter notebooks to see how much I can use AI models to automate it and Piqt is the result. My goals with Piqt: - Fully on device: I use a number of ML models, Apple Vision API, clustering algorithms to rank and sort your photos. Everything runs on device. - Private and Safe: Piqt has no accounts, no cloud services, no personal identifiers. Images or personal information never leave the device. Piqt also CAN&#x27;T delete your photos. I have a test and validation step in the release process to ensure no delete APIs exist in the code. Instead, Piqt stages things you want to clear out in an album, which you can delete when you&#x27;re ready. - A library you can use. I didn&#x27;t just want to clean out images or clear up space. There are plenty of apps for this. My ultimate goal is to make your (and my) photos easier to navigate I&#x27;m just looking for feedback on the app and the approach. I&#x27;d love to chat about the vision models I&#x27;m using and hear from you about any research or techniques I&#x27;ve missed. App Store Link: https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;piqt-photo-video-curator&#x2F;id677... Blog with detail on technical decisions: https:&#x2F;&#x2F;piqt.app&#x2F;blog&#x2F;piqt-design-values&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://piqt.app/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49499789",
+    "createdAt": "2026-08-30T17:40:02.394Z"
+  },
+  {
+    "slug": "snaketron-competitive-multiplayer-snake-back-after-14-years-hn",
+    "title": "Snaketron – Competitive multiplayer Snake. Back after 14 years",
+    "shortDescription": "Hi HN, I just completed a rewrite of Snaketron, a competitive multiplayer Snake game. (Yes, yes, in Rust) A quick funny story about this ga…",
+    "fullDescription": "Hi HN, I just completed a rewrite of Snaketron, a competitive multiplayer Snake game. (Yes, yes, in Rust) A quick funny story about this game&#x27;s history: Back in 2012 I had (poorly) implemented the first version of Snaketron. The issue with it was that I was keeping game state on the client, and while I did realize that it was insecure, I also had no idea what to do about it without increasing latency to unplayable levels. I was still in school, never worked on games, and haven&#x27;t even heard of the term &quot;netcode&quot; before. The excitement of releasing my first pet project got the better of me, and I placed this security concern in the &quot;theoretical issues&quot; bucket, and shipped it. No one would even notice, and if they did, they wouldn&#x27;t take the time to break into my little Snake game project, right? WRONG! Hacker News absolutely lived up to its name. While I was busy with my first experience of handling a traffic surge, scaling up my database and fixing bugs, several players found the security holes and were beginning their Snake rampage. Reports were coming in of unkillable snakes so I decided to start up a game to see if I could catch it. I loaded a 1v1 and my opponent was ... space invaders. My snake was a snake. Their &quot;snake&quot; was a rendering of the game Space Invaders. Needless to say they were also moving around and were invincible. I really wish I had taken a video of that, but I was floored that HN not just played, but hacked, my project is such an epic way. I always wanted to rebuild it properly, so here&#x27;s V2! The architecture and motivations are quite different this time around. First, the state is server authoritative and lag is compensated for by client-state prediction. The game engine is written in Rust and compiled to WASM for the client side library. To minimize the ops burden, I also imposed a strict resiliency requirement on this project: it must be auto-scalable. So a node can join the cluster and live games will rebalance to it without disrupting gameplay. I also tried to make the new Snaketron a little more fun. The core mechanic is still, like classic Snake, collecting food without crashing. But now team matches have an objective to make competitive games more structured. There&#x27;s also a Bronze to Grand Master ranking sub system (if enough people play, calibrating this will be interesting) and some fun features like boosting, combos, skins, and Play Of The Game detection. On Rust: One of my original goals for doing this in Rust was so that I could learn the language. That didn&#x27;t work out as well as I thought it would. Usually I learn by building stuff, but AI got so good that I stopped writing code by hand and preferred to spend my nights &amp; weekends working on what was more intereting to me than borrow checking errors: game design and the high availability stuff. On AI: Who knows if this would have gotten done without AI. Probably not, what with my day job and other things going on in life. It&#x27;s 200k LOC (most of that is tests don&#x27;t worry) but still. Anyway, here are the project links. Thank you for reading, I hope you enjoy the game and any feedback is very much appreciated! [0] https:&#x2F;&#x2F;snaketron.io [1] https:&#x2F;&#x2F;github.com&#x2F;lopatin&#x2F;snaketron [2] https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=4028597 (original post from 2012)\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://snaketron.io",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49499499",
+    "createdAt": "2026-08-30T17:40:02.394Z"
+  },
+  {
+    "slug": "sapporta-build-database-applications-for-power-users-hn",
+    "title": "Sapporta – build database applications for power users",
+    "shortDescription": "Sapporta is an MIT licensed framework built on top of Hono and React. To me it is a reenactment of dBase, FoxPro, and MS Access, but for th…",
+    "fullDescription": "Sapporta is an MIT licensed framework built on top of Hono and React. To me it is a reenactment of dBase, FoxPro, and MS Access, but for the LLM era. All of these tools had application wizards that would create tables, queries, forms, and reports, and I think that is still a valid composition for database applications. So in Sapporta, the moment you define a table, you immediately get a data-grid that gives you comboboxes for foreign key fields, has sorting, filtering, and the various affordances that tools like AirTable and NocoDB provide. (The datagrid is built from scratch, as AgGrid, HandsOnTable etc. were commercial and didn&#x27;t have nested grids with fluid keyboard interaction) It is also fully agentic - that was what got me started building this in the first place. I was building a double-entry book-keeping system and I wanted my agents to be able to import bank statements, classify them, and insert them into the database accurately. The project, built on Sapporta, does all that now, and agents have been able to reconcile entries and find mistakes that used to be very frustrating when done manually. Being able to operate your database system fully agentically is magical and applying that on our own personal tools is a thing of joy. The datastore is currently SQLite, and in deployment it can run as a single Node.js process (not even a static file server necessary) and there is a Dockerfile that works seamlessly. I&#x27;m looking forward to your thoughts. Thanks!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://sapporta.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49499123",
+    "createdAt": "2026-08-30T17:40:02.394Z"
+  },
+  {
+    "slug": "finbridge-korean-stock-market-data-for-ai-agents-mcp-hn",
+    "title": "FinBridge – Korean stock market data for AI agents (MCP)",
+    "shortDescription": "Проект «FinBridge – Korean stock market data for AI agents (MCP)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «FinBridge – Korean stock market data for AI agents (MCP)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.gronox.kr/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49499026",
+    "createdAt": "2026-08-30T17:40:02.394Z"
+  },
+  {
+    "slug": "open-sar-cop-ai-generated-common-operating-picture-for-disasters-hn",
+    "title": "Open SAR-COP – AI-generated common operating picture for disasters",
+    "shortDescription": "Проект «Open SAR-COP – AI-generated common operating picture for disasters», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Open SAR-COP – AI-generated common operating picture for disasters», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://open-sar-cop.github.io",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49498819",
+    "createdAt": "2026-08-30T17:40:02.394Z"
+  },
+  {
     "slug": "shevtoneaudio-orchestrator-turning-midi-into-full-orchestration-hn",
     "title": "ShevtoneAudio Orchestrator – Turning MIDI into Full Orchestration",
     "shortDescription": "Hi HN, I&#x27;m Bor Shev, a composer and developer. Over the past two years I&#x27;ve been developing ShevtoneAudio Orchestrator. The idea…",
