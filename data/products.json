@@ -1,5 +1,139 @@
 [
   {
+    "slug": "ocp-annual-report-rag-github",
+    "title": "ocp-annual-report-rag",
+    "shortDescription": "RAG demo: question-answering over the OCP 2025 financial report using LangChain, Chroma & bge-m3 embeddings, plus LLM-as-judge faithfulness…",
+    "fullDescription": "RAG demo: question-answering over the OCP 2025 financial report using LangChain, Chroma & bge-m3 embeddings, plus LLM-as-judge faithfulness scoring.\n\nАвтор: waddadelmehdi. Найдено в GitHub Trending (AI-тематика). ⭐ 16 звёзд.",
+    "url": "https://waddadelmehdi-portfolio.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "chromadb",
+      "embeddings",
+      "jupyter-notebook",
+      "langchain",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1349233304",
+    "createdAt": "2026-08-30T07:02:40.951Z"
+  },
+  {
+    "slug": "ai-life-skills-toolkit-github",
+    "title": "ai-life-skills-toolkit",
+    "shortDescription": "Privacy-first everyday Codex skills for learning, customer service, and personal organization",
+    "fullDescription": "Privacy-first everyday Codex skills for learning, customer service, and personal organization\n\nАвтор: sameh514. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/sameh514/ai-life-skills-toolkit",
+    "category": "productivity",
+    "tags": [
+      "accessibility",
+      "ai",
+      "automation",
+      "codex",
+      "learning",
+      "macos",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1351014030",
+    "createdAt": "2026-08-30T07:02:40.951Z"
+  },
+  {
+    "slug": "aichessathon-starter-github",
+    "title": "aichessathon-starter",
+    "shortDescription": "Fork this to build an AI Chessathon agent.",
+    "fullDescription": "Fork this to build an AI Chessathon agent.\n\nАвтор: advitrocks9. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/advitrocks9/aichessathon-starter",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "chess",
+      "chess-engine",
+      "hackathon",
+      "python",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1350078873",
+    "createdAt": "2026-08-30T07:02:40.951Z"
+  },
+  {
+    "slug": "dsh-ui-models-invert-selection-github",
+    "title": "dsh-ui-models-invert-selection",
+    "shortDescription": "Invert selection in Deepseek Harness for when we are selecting models ",
+    "fullDescription": "Invert selection in Deepseek Harness for when we are selecting models \n\nАвтор: FraYoshi. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/FraYoshi/dsh-ui-models-invert-selection",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "webui",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1350717804",
+    "createdAt": "2026-08-30T07:02:40.951Z"
+  },
+  {
+    "slug": "agentgate-signed-receipts-for-ai-agent-saas-actions-hn",
+    "title": "AgentGate – signed receipts for AI agent SaaS actions",
+    "shortDescription": "Проект «AgentGate – signed receipts for AI agent SaaS actions», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AgentGate – signed receipts for AI agent SaaS actions», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Clawdlinux/agentgate",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49496333",
+    "createdAt": "2026-08-30T07:02:40.804Z"
+  },
+  {
+    "slug": "velocitynote-a-tiny-markdown-notebook-with-local-ai-hn",
+    "title": "VelocityNote – A tiny Markdown notebook with local AI",
+    "shortDescription": "Hi HN — I built VelocityNote, a compact, Markdown cross-platform notebook. The desktop app is under 100 MB. It starts quickly and remains r…",
+    "fullDescription": "Hi HN — I built VelocityNote, a compact, Markdown cross-platform notebook. The desktop app is under 100 MB. It starts quickly and remains responsive under memory pressure. VelocityNote has a built-in, pluggable AI system that can run local models: - It is a local LLM app: you can use a llama.cpp-based local agent to summarize notes and tasks. More features, including translation, are coming. - It is an intelligent screenshot app: built-in OCR extracts text, while vision models can describe your images. - It is a dictation app: with Silero VAD and speech-to-text, you can record and transcribe hours-long meetings entirely on your device. - It is an app for managing documents: it supports importing a variety of file formats, including PDF and Word, and migrating data from other notebook databases. With local models, your data always stays on your device, with no external provider or per-token limits. Under the hood, notes are stored in SQLite. Full-text search makes searching large notebooks fast. Everything remains available offline and can be exported as standard Markdown. VelocityNote also exposes an MCP server and a command-line interface, allowing it to serve as a local second brain for both you and your AI agents. Agents can use ultra-fast full-text search to find notes, then read, create, and update them through explicit tools instead of scraping the UI or directly modifying the database. VelocityNote is cross-platform and currently available for Windows and macOS. Download: https:&#x2F;&#x2F;velocitynote.app&#x2F;download Releases, issues, and feedback: https:&#x2F;&#x2F;github.com&#x2F;VelocityNote&#x2F;velocitynote\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://velocitynote.app/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49496137",
+    "createdAt": "2026-08-30T07:02:40.804Z"
+  },
+  {
+    "slug": "claypot-a-block-based-studio-for-kids-to-inspect-ai-systems-hn",
+    "title": "Claypot – a block-based studio for kids to inspect AI systems",
+    "shortDescription": "Проект «Claypot – a block-based studio for kids to inspect AI systems», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Claypot – a block-based studio for kids to inspect AI systems», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://claypot.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49495751",
+    "createdAt": "2026-08-30T07:02:40.804Z"
+  },
+  {
     "slug": "useagent-github",
     "title": "useagent",
     "shortDescription": "Hand off the work. Get back the result. The open-source AI coworker for your team: agents with their own cloud computer, your tools and con…",
