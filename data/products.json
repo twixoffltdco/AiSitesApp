@@ -1,5 +1,53 @@
 [
   {
+    "slug": "invovanta-invoicing-and-business-management-for-freelancers-hn",
+    "title": "Invovanta – Invoicing and business management for freelancers",
+    "shortDescription": "I built Invovanta to help freelancers and small businesses manage clients, create professional invoices, track payments, and keep their bus…",
+    "fullDescription": "I built Invovanta to help freelancers and small businesses manage clients, create professional invoices, track payments, and keep their business information organized in one place. It also includes features like invoice PDFs, dashboards, client management, and AI-powered receipt extraction. I’d genuinely appreciate feedback from the HN community. What would you improve, remove, or add?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://invoiceflowdesign.app/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49501845",
+    "createdAt": "2026-08-30T20:31:23.662Z"
+  },
+  {
+    "slug": "anvendor-see-your-competitors-customers-hn",
+    "title": "AnVendor – see your competitor's customers",
+    "shortDescription": "Long story short: I found a way to reveal which SaaS any company uses. And estimate how much they pay for it. And now in detail: I&#x27;m a…",
+    "fullDescription": "Long story short: I found a way to reveal which SaaS any company uses. And estimate how much they pay for it. And now in detail: I&#x27;m a solo entrepreneur – an ML Engineer, a bit of a product manager, and a self-taught marketer. At some point, I thought it would be nice to detect what services companies use. There are solutions that scan websites for frameworks and APIs used, or that analyze a company&#x27;s job postings, and others that look at news and website publications. But overall, no single approach can determine what SaaS services are being used right now. Only in the past or in the future. So I created an engine that does this (not right away, of course, but after almost six months of experimentation). Unfortunately, I can&#x27;t go into detail about how it works; that&#x27;s the main secret of my service. It&#x27;s not hacking, cracking, or secret databases. It&#x27;s just a little ingenuity. And there&#x27;s absolutely no AI – just engineering and classic ML. The engine itself can only detect the fact of a &quot;subscription&quot; from any company. &quot;Subscription&quot; is in quotation marks because that&#x27;s not entirely accurate – it&#x27;s more likely that the company interacts with SaaS. Sometimes it might be a pilot, sometimes a parent or subsidiary company. Nevertheless, it works. To make this product useful for lead generation, I added a second layer – an estimate of how much the company spends on services. This collects service rates, the number of employees, and a bunch of other parameters, plus a cost estimation model. This is a rough estimate, as there are situations like pilots, special negotiating terms, and discounts for enterprises. However, this estimate will improve as more data is accumulated. Currently, I&#x27;ve added ~700 SaaS services that can be detected. And I really need a signal from real users about which services should be added – the service has a free plan, and all service requests are stored in the database. Overall, I&#x27;d appreciate any feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://anvendor.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49501656",
+    "createdAt": "2026-08-30T20:31:23.662Z"
+  },
+  {
+    "slug": "cogram-studio-cad-and-bim-workspace-for-humans-and-agents-hn",
+    "title": "Cogram Studio – CAD and BIM workspace for humans and agents",
+    "shortDescription": "Hi HN, Rick and Alex here, co-founders of Cogram. We’ve been making project-management software for architects and engineers since 2023, an…",
+    "fullDescription": "Hi HN, Rick and Alex here, co-founders of Cogram. We’ve been making project-management software for architects and engineers since 2023, and are now experimenting with a second product. Cogram Studio (studio.cogram.com) is a CAD and BIM workspace for AI agents to create three-dimensional models and dimensioned drawings. Studio runs FreeCAD ( https:&#x2F;&#x2F;github.com&#x2F;FreeCAD&#x2F;FreeCAD ) 1.1 headlessly, using the OpenCASCADE ( https:&#x2F;&#x2F;github.com&#x2F;Open-Cascade-SAS&#x2F;OCCT ) geometry kernel. It imports and exports STEP, IFC, STL, DXF and FCStd files. Studio exposes an MCP server, so you can operate it from Claude Code, Codex, ChatGPT, or other agents. Tools cover scripting against FreeCAD, inspecting the model visually, CRUD operations on views, tables, and sheets, importing terrain, etc. Studio also provides a built-in agent based on Pi ( https:&#x2F;&#x2F;github.com&#x2F;earendil-works&#x2F;pi ) and a basic UI for 3D model inspection, measurement, view, table, and sheet creation. There are two ways to try it: 1. Bring your own agent. Point Codex or Claude Code at studio.cogram.com&#x2F;skill.md and ask it to follow instructions there. This starts a one-hour Studio session and opens the modelling environment in your browser, connected to your agent. You need to confirm sign up only if you want to save the session. 2. Use Studio’s built-in agent. Submit a prompt at studio.cogram.com and sign up. You receive 50 free credits. Here are two models created by agents: - A simple bookshelf ( https:&#x2F;&#x2F;studio.cogram.com&#x2F;view&#x2F;shr_1agb21nd4 ) with two sheets - The Colosseum ( https:&#x2F;&#x2F;studio.cogram.com&#x2F;view&#x2F;shr_3tm32c64y ) [large, can take minutes to load], with two sheets showing dimensioned and annotated views. For now, Studio works best when you use it iteratively. If you ask an agent for a finished, complex model and “let it rip”, it may produce something that looks convincing but doesn&#x27;t hold up to scrutiny. Agentic modelling feels roughly like where agentic programming was in 2024: useful for speeding up repetitive or bounded tasks but not yet reliable enough to complete long, complex jobs. Recent models have improved at CAD. We expect progress to accelerate as models become even better at reasoning across the different representations used in architecture and engineering: geometry, drawings, images, materials, physical constraints, specifications, regulations, code, etc. Early users and our own experience suggest that agents are already useful design collaborators. They can help with repetitive CAD work, fabrication options, part sourcing and cost estimates. We expect that as models improve, agents will be able to explore many different designs, run simulations, and check constraints across an entire project. CAD will become a shared workspace for humans and agents. Because design decisions made in CAD shape much of what is eventually built, even modest improvements could have wide effects. We’d love to hear your feedback and ideas if you give Studio a try. We’re also hiring across product, engineering and commercial roles. If you’re interested in working on interesting problems involving AI and the physical world, please take a look at our open positions at https:&#x2F;&#x2F;cogram.com&#x2F;about#careers .\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://studio.cogram.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49501620",
+    "createdAt": "2026-08-30T20:31:23.662Z"
+  },
+  {
     "slug": "nexus-vii-autonomous-intelligence-github",
     "title": "Nexus-VII-Autonomous-Intelligence",
     "shortDescription": "A J.A.R.V.I.S.-inspired autonomous AI assistant with voice control, Telegram integration, proactive reminders, web form automation, and scr…",
