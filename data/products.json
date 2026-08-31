@@ -1,5 +1,209 @@
 [
   {
+    "slug": "wonder-pill-github",
+    "title": "Wonder-Pill",
+    "shortDescription": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions — no answers, no ranking, just provocations.",
+    "fullDescription": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions — no answers, no ranking, just provocations.\n\nАвтор: ara-mkr. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://github.com/ara-mkr/Wonder-Pill",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-tools",
+      "claude",
+      "claude-ai",
+      "claude-code-skill",
+      "claude-desktop",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1352660626",
+    "createdAt": "2026-08-31T20:57:14.569Z"
+  },
+  {
+    "slug": "comparerun-github",
+    "title": "compare.run",
+    "shortDescription": "Run one prompt across many models and compare what each produced — with the real cost and the real time it took.",
+    "fullDescription": "Run one prompt across many models and compare what each produced — with the real cost and the real time it took.\n\nАвтор: vikasprogrammer. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "http://compare.run",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "evaluation",
+      "llm",
+      "model-comparison",
+      "nextjs",
+      "openrouter",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1352141089",
+    "createdAt": "2026-08-31T20:57:14.569Z"
+  },
+  {
+    "slug": "cdai-the-ai-enhanced-cd-command-hn",
+    "title": "cdai – the AI-enhanced cd command",
+    "shortDescription": "Проект «cdai – the AI-enhanced cd command», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «cdai – the AI-enhanced cd command», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/franzenzenhofer/cdai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49514666",
+    "createdAt": "2026-08-31T20:57:14.138Z"
+  },
+  {
+    "slug": "guess-the-ai-model-from-its-web-design-hn",
+    "title": "Guess the AI model from its web design",
+    "shortDescription": "Проект «Guess the AI model from its web design», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Guess the AI model from its web design», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://raq.com/blog/can-you-spot-ai-web-design/quiz",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49514013",
+    "createdAt": "2026-08-31T20:57:14.138Z"
+  },
+  {
+    "slug": "kiso-publish-one-okf-knowledge-base-for-humans-and-ai-agents-hn",
+    "title": "Kiso – Publish one OKF knowledge base for humans and AI agents",
+    "shortDescription": "I’ve been working on Kiso, an open-source publishing engine for the Open Knowledge Format (OKF) and I added an MCP server in the latest rel…",
+    "fullDescription": "I’ve been working on Kiso, an open-source publishing engine for the Open Knowledge Format (OKF) and I added an MCP server in the latest release. The idea behind it is fairly simple: I think companies will increasingly need a source of truth that can be consumed both by humans and by AI agents. Peoples and agents write the markdown files and Kiso publush a website that be consumed both by humans(html) and by AI agents(markdown). Kiso doesn&#x27;t introduce a database or another proprietary knowledge store, it creates static website so you can just publih it on Github pages like I did with Google Acme example: https:&#x2F;&#x2F;oak-invest.github.io&#x2F;kiso&#x2F;examples&#x2F;kb-acme-example&#x2F; I made a “Hugo for Open Knowledge Format”.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/oak-invest/kiso",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49513892",
+    "createdAt": "2026-08-31T20:57:14.138Z"
+  },
+  {
+    "slug": "xyzzy-ai-teamwork-in-one-python-process-with-a-tamper-evident-log-hn",
+    "title": "Xyzzy – AI teamwork in one Python process, with a tamper-evident log",
+    "shortDescription": "Проект «Xyzzy – AI teamwork in one Python process, with a tamper-evident log», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Xyzzy – AI teamwork in one Python process, with a tamper-evident log», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Project-Nexus-YR/XYZZY",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49513528",
+    "createdAt": "2026-08-31T20:57:14.138Z"
+  },
+  {
+    "slug": "pipy-semantic-search-mcp-for-ai-agents-hn",
+    "title": "PiPy semantic search MCP for AI agents",
+    "shortDescription": "Проект «PiPy semantic search MCP for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «PiPy semantic search MCP for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://skillfed.io/packages",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49513386",
+    "createdAt": "2026-08-31T20:57:14.138Z"
+  },
+  {
+    "slug": "abliterated-glm-53-api-845-cybergym-fp8-hn",
+    "title": "Abliterated GLM-5.3 API (84.5% CyberGym, FP8)",
+    "shortDescription": "Проект «Abliterated GLM-5.3 API (84.5% CyberGym, FP8)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Abliterated GLM-5.3 API (84.5% CyberGym, FP8)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://abliteration.ai/sign-in?return_to=%2Fconsole%2Fplayground",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49512773",
+    "createdAt": "2026-08-31T20:57:14.138Z"
+  },
+  {
+    "slug": "tekmyra-context-compression-that-refuses-numbers-it-cant-defend-hn",
+    "title": "TekMyra – context compression that refuses numbers it can't defend",
+    "shortDescription": "Проект «TekMyra – context compression that refuses numbers it can't defend», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «TekMyra – context compression that refuses numbers it can't defend», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/laconiq-ai/tekmyra",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49512415",
+    "createdAt": "2026-08-31T20:57:14.138Z"
+  },
+  {
+    "slug": "d5s-an-ai-coworking-space-for-people-and-agents-hn",
+    "title": "D5s, an AI coworking space for people and agents",
+    "shortDescription": "Hi HN, I’m Michael. Theodore and I are the co-founders of d5s, the multiplayer AI for cross-human-agent collaboration, and we’re building i…",
+    "fullDescription": "Hi HN, I’m Michael. Theodore and I are the co-founders of d5s, the multiplayer AI for cross-human-agent collaboration, and we’re building it together. We’re building d5s with d5s. From day one, we’ve created dedicated workspaces for engineering, go-to-market, finance, and other parts of the company. Each workspace has a few coworkers helping with the day-to-day, with access only to what they need. They work with us through Slack and Gmail. As a startup, we’ve found this incredibly useful. Our coworkers take care of repeatable work across marketing, invoice processing, and other operational areas. We believe this is how every company will work in the near future: people set direction and make decisions in shared workspaces, while agentic coworkers move the work forward. We’re opening early access now. The first teams to sign up will get a free early-access plan with credits included, so they can start using d5s immediately. We’ll be here to answer technical questions and share what has and hasn’t worked for us.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.d5s.tech",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49511513",
+    "createdAt": "2026-08-31T20:57:14.138Z"
+  },
+  {
+    "slug": "manner-developers-create-ai-clones-that-clients-can-hire-hn",
+    "title": "Manner – Developers create AI clones that clients can hire",
+    "shortDescription": "Проект «Manner – Developers create AI clones that clients can hire», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Manner – Developers create AI clones that clients can hire», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://manner.run/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49511046",
+    "createdAt": "2026-08-31T20:57:14.138Z"
+  },
+  {
+    "slug": "my-ai-spent-15-on-a-test-order-so-i-built-a-payment-guardrail-hn",
+    "title": "My AI spent $15 on a test order, so I built a payment guardrail",
+    "shortDescription": "Проект «My AI spent $15 on a test order, so I built a payment guardrail», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «My AI spent $15 on a test order, so I built a payment guardrail», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/felixpg13-glitch/spendshield",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49511045",
+    "createdAt": "2026-08-31T20:57:14.138Z"
+  },
+  {
     "slug": "asdlc-github",
     "title": "asdlc",
     "shortDescription": "Agentic Software Development Lifecycle governance for AI-built codebases: registry of meaning, five gates, drift scoring, and continuous au…",
