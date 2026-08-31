@@ -1,5 +1,203 @@
 [
   {
+    "slug": "asdlc-github",
+    "title": "asdlc",
+    "shortDescription": "Agentic Software Development Lifecycle governance for AI-built codebases: registry of meaning, five gates, drift scoring, and continuous au…",
+    "fullDescription": "Agentic Software Development Lifecycle governance for AI-built codebases: registry of meaning, five gates, drift scoring, and continuous audits.\n\nАвтор: chennurivarun. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/chennurivarun/asdlc",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "code-quality",
+      "developer-tools",
+      "governance",
+      "sdlc",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1351572008",
+    "createdAt": "2026-08-31T15:15:57.837Z"
+  },
+  {
+    "slug": "preview-postgres-writes-from-ai-agents-with-xmin-checks-pg-dry-run-hn",
+    "title": "Preview Postgres writes from AI agents with xmin checks (pg-dry-run)",
+    "shortDescription": "Проект «Preview Postgres writes from AI agents with xmin checks (pg-dry-run)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Preview Postgres writes from AI agents with xmin checks (pg-dry-run)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/polycore/pg-dry-run",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49510746",
+    "createdAt": "2026-08-31T15:15:57.660Z"
+  },
+  {
+    "slug": "2x-4x-cheaper-glm-53-for-coding-and-research-hn",
+    "title": "2x-4x cheaper GLM 5.3 for coding and research",
+    "shortDescription": "Inference for Kimi and GLM. Built for research and coding agents that plan, call tools for hours, and reason over large contexts.",
+    "fullDescription": "Inference for Kimi and GLM. Built for research and coding agents that plan, call tools for hours, and reason over large contexts.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.coralbricks.ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49510600",
+    "createdAt": "2026-08-31T15:15:57.660Z"
+  },
+  {
+    "slug": "annotate-anything-in-the-terminal-hn",
+    "title": "Annotate Anything in the Terminal",
+    "shortDescription": "Проект «Annotate Anything in the Terminal», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Annotate Anything in the Terminal», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://plannotator.ai/tui-annotate/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49510102",
+    "createdAt": "2026-08-31T15:15:57.660Z"
+  },
+  {
+    "slug": "ai-tattoo-design-and-planning-tools-tattooideas-hn",
+    "title": "AI Tattoo Design and Planning Tools – TattooIdeas",
+    "shortDescription": "Проект «AI Tattoo Design and Planning Tools – TattooIdeas», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Tattoo Design and Planning Tools – TattooIdeas», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://tattooideas.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49509984",
+    "createdAt": "2026-08-31T15:15:57.660Z"
+  },
+  {
+    "slug": "doglm-can-you-pet-the-dog-in-an-ai-generated-game-hn",
+    "title": "DogLM – Can you pet the dog in an AI-generated game?",
+    "shortDescription": "Проект «DogLM – Can you pet the dog in an AI-generated game?», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «DogLM – Can you pet the dog in an AI-generated game?», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://mikeushakov.github.io/doglm/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49509649",
+    "createdAt": "2026-08-31T15:15:57.660Z"
+  },
+  {
+    "slug": "kanvibe-git-worktree-and-tmux-kanban-board-for-ai-clis-now-electron-hn",
+    "title": "KanVibe – Git worktree and tmux Kanban board for AI CLIs, now Electron",
+    "shortDescription": "Проект «KanVibe – Git worktree and tmux Kanban board for AI CLIs, now Electron», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «KanVibe – Git worktree and tmux Kanban board for AI CLIs, now Electron», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/rookedsysc/kanvibe",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49509626",
+    "createdAt": "2026-08-31T15:15:57.660Z"
+  },
+  {
+    "slug": "ai-studio-with-500-models-for-headshots-video-and-images-hn",
+    "title": "AI studio with 500 models for headshots, video and images",
+    "shortDescription": "Проект «AI studio with 500 models for headshots, video and images», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI studio with 500 models for headshots, video and images», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://magicshot.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49508159",
+    "createdAt": "2026-08-31T15:15:57.660Z"
+  },
+  {
+    "slug": "free-fast-screenshot-app-for-macos-with-one-click-screenshot-sharing-hn",
+    "title": "Free, Fast Screenshot App for macOS with One-Click Screenshot Sharing",
+    "shortDescription": "Every day, I send a lot of screenshots. The default app on Mac is useless. I have to do so many steps: take a screenshot, save it, annotate…",
+    "fullDescription": "Every day, I send a lot of screenshots. The default app on Mac is useless. I have to do so many steps: take a screenshot, save it, annotate it, save it as an image, then send it as an image in chats. It takes me a few minutes. But it should take just a few seconds. My second use case is sending feedback to my AI agents, and I’ve found they make much better edits when I provide comments and annotations on the screenshot. So I built this app. It lets me instantly capture screenshots, annotate them, and share them in one click. The same goes for any agent. It can do everything the native macOS screenshot tools can do, but better. It’s like a child of Figma and the native macOS screenshot app. Looking for a feedback\n\nНайдено в разделе Show HN на Hacker News. 👍 7 баллов.",
+    "url": "https://seenshot.app/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49507806",
+    "createdAt": "2026-08-31T15:15:57.660Z"
+  },
+  {
+    "slug": "vajraclaw-deterministic-1s-execution-guardrail-for-ai-agents-hn",
+    "title": "VajraClaw – Deterministic <1µs execution guardrail for AI agents",
+    "shortDescription": "Проект «VajraClaw – Deterministic <1µs execution guardrail for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «VajraClaw – Deterministic <1µs execution guardrail for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Top-Celestial-Company-Ltd/DROS-VajraClaw-Hacker",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49507422",
+    "createdAt": "2026-08-31T15:15:57.660Z"
+  },
+  {
+    "slug": "catch-ai-code-hallucinations-without-asking-a-model-hn",
+    "title": "Catch AI code hallucinations without asking a model",
+    "shortDescription": "Проект «Catch AI code hallucinations without asking a model», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Catch AI code hallucinations without asking a model», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/lovettsendit/hedgemony",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49507199",
+    "createdAt": "2026-08-31T15:15:57.660Z"
+  },
+  {
+    "slug": "sonde-a-local-code-graph-for-ai-agents-that-refuses-to-guess-hn",
+    "title": "Sonde, a local code graph for AI agents that refuses to guess",
+    "shortDescription": "Проект «Sonde, a local code graph for AI agents that refuses to guess», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Sonde, a local code graph for AI agents that refuses to guess», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/anishmoncivarghese/sonde",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49507034",
+    "createdAt": "2026-08-31T15:15:57.660Z"
+  },
+  {
     "slug": "xmaxsdk-android-github",
     "title": "XmaxSDK-Android",
     "shortDescription": "Native Android SDK for real-time interactive video generation with Xmax AI",
