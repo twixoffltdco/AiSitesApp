@@ -1,5 +1,77 @@
 [
   {
+    "slug": "xmaxsdk-android-github",
+    "title": "XmaxSDK-Android",
+    "shortDescription": "Native Android SDK for real-time interactive video generation with Xmax AI",
+    "fullDescription": "Native Android SDK for real-time interactive video generation with Xmax AI\n\nАвтор: XingMai. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://www.xmaxai.com",
+    "category": "image-video",
+    "tags": [
+      "ai",
+      "android",
+      "kotlin",
+      "realtime",
+      "sdk",
+      "xmax",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1351230263",
+    "createdAt": "2026-08-31T07:23:07.708Z"
+  },
+  {
+    "slug": "semantic-search-github",
+    "title": "semantic-search",
+    "shortDescription": "Retrieval Augmented Generation using offline file as input from user",
+    "fullDescription": "Retrieval Augmented Generation using offline file as input from user\n\nАвтор: 1shaanGupta. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/1shaanGupta/semantic-search",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ml",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1350796499",
+    "createdAt": "2026-08-31T07:23:07.708Z"
+  },
+  {
+    "slug": "growtics-an-ai-growth-agent-that-tells-you-what-to-do-next-hn",
+    "title": "Growtics – an AI growth agent that tells you what to do next",
+    "shortDescription": "Проект «Growtics – an AI growth agent that tells you what to do next», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Growtics – an AI growth agent that tells you what to do next», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://growtics.io",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49505111",
+    "createdAt": "2026-08-31T07:23:07.517Z"
+  },
+  {
+    "slug": "niu-lai-series-website-hn",
+    "title": "Niu Lai Series Website",
+    "shortDescription": "Create an original low-poly Niu Lai-inspired AI image from your photo. No prompt writing or account required. Upload, generate, and downloa…",
+    "fullDescription": "Create an original low-poly Niu Lai-inspired AI image from your photo. No prompt writing or account required. Upload, generate, and download for free.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://niulaify.com",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49504776",
+    "createdAt": "2026-08-31T07:23:07.517Z"
+  },
+  {
     "slug": "kernary-code-github",
     "title": "kernary-code",
     "shortDescription": "Terminal-native multi-agent AI coding harness in Rust",
