@@ -1,5 +1,125 @@
 [
   {
+    "slug": "kernary-code-github",
+    "title": "kernary-code",
+    "shortDescription": "Terminal-native multi-agent AI coding harness in Rust",
+    "fullDescription": "Terminal-native multi-agent AI coding harness in Rust\n\nАвтор: zhaoxuya520. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/zhaoxuya520/kernary-code",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "cli",
+      "coding-agent",
+      "mcp",
+      "multi-agent",
+      "rust",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1350550331",
+    "createdAt": "2026-08-31T01:27:08.598Z"
+  },
+  {
+    "slug": "agent-media-github",
+    "title": "agent-media",
+    "shortDescription": "Deterministic, verified media workflows for software agents. Inspect → plan → execute → verify. Zero silent failures.",
+    "fullDescription": "Deterministic, verified media workflows for software agents. Inspect → plan → execute → verify. Zero silent failures.\n\nАвтор: HadiAlMarzooq. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://www.npmjs.com/~hadialmarzooq",
+    "category": "productivity",
+    "tags": [
+      "agents",
+      "ai",
+      "ffmpeg",
+      "ffmpeg-mcp",
+      "mcp",
+      "media",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1350139424",
+    "createdAt": "2026-08-31T01:27:08.598Z"
+  },
+  {
+    "slug": "shellmind-github",
+    "title": "shellmind",
+    "shortDescription": "AI-powered autocomplete and command intelligence for your terminal.",
+    "fullDescription": "AI-powered autocomplete and command intelligence for your terminal.\n\nАвтор: e-1-s-4. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/e-1-s-4/shellmind",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1350858685",
+    "createdAt": "2026-08-31T01:27:08.598Z"
+  },
+  {
+    "slug": "2048-train-ai-github",
+    "title": "2048-train-ai",
+    "shortDescription": "Play 2048 and train a neural-network AI right in your browser — built entirely from scratch, no machine-learning libraries.",
+    "fullDescription": "Play 2048 and train a neural-network AI right in your browser — built entirely from scratch, no machine-learning libraries.\n\nАвтор: tachibana-shin. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://tachibana-shin.github.io/2048-train-ai/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "machine",
+      "machine-learning",
+      "machine-learning-algorithms",
+      "machinelearning",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1351456603",
+    "createdAt": "2026-08-31T01:27:08.598Z"
+  },
+  {
+    "slug": "graytell-github",
+    "title": "GrayTell",
+    "shortDescription": "Deep-research AI agent with 30+ models across 5 providers, real-time tool calling, and streaming answers. Privacy first , Weekly research p…",
+    "fullDescription": "Deep-research AI agent with 30+ models across 5 providers, real-time tool calling, and streaming answers. Privacy first , Weekly research papers.\n\nАвтор: GrayTell. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://graytellai.space-z.ai",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "chatgpt-alternative",
+      "deep-research-agent",
+      "llm",
+      "multi-provider",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1350494708",
+    "createdAt": "2026-08-31T01:27:08.598Z"
+  },
+  {
+    "slug": "what-apples-os-updates-silently-change-in-the-on-device-ai-model-hn",
+    "title": "What Apple's OS updates silently change in the on-device AI model",
+    "shortDescription": "Проект «What Apple's OS updates silently change in the on-device AI model», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «What Apple's OS updates silently change in the on-device AI model», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://umer9538.github.io/underfoot/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49503958",
+    "createdAt": "2026-08-31T01:27:08.409Z"
+  },
+  {
     "slug": "shim-mcp-github",
     "title": "shim-mcp",
     "shortDescription": "WordPress MCP server plugin. Connect Claude Code, Cursor, or any MCP client to WordPress over stdio (WP-CLI) or HTTP. 58 abilities, self-co…",
