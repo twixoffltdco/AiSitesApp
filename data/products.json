@@ -1,5 +1,189 @@
 [
   {
+    "slug": "bigtransformer-github",
+    "title": "bigtransformer",
+    "shortDescription": "customisable, simple, and fast transformer built on liltransformer",
+    "fullDescription": "customisable, simple, and fast transformer built on liltransformer\n\nАвтор: adeveloperduck. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://adeveloperduck.github.io/bigtransformer/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ml",
+      "python",
+      "transformer",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1351801141",
+    "createdAt": "2026-09-01T00:26:08.687Z"
+  },
+  {
+    "slug": "dynatokens-github",
+    "title": "DynaTokens",
+    "shortDescription": "[EMNLP 2026] DynaTokens: Controlling Token Dynamics for Continual Video-Language Understanding",
+    "fullDescription": "[EMNLP 2026] DynaTokens: Controlling Token Dynamics for Continual Video-Language Understanding\n\nАвтор: cruiseresearchgroup. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/cruiseresearchgroup/DynaTokens",
+    "category": "ai-tool",
+    "tags": [
+      "adapter",
+      "ai",
+      "continual-learning",
+      "emnlp2026",
+      "fine-tuning",
+      "hypernetworks",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1351509918",
+    "createdAt": "2026-09-01T00:26:08.687Z"
+  },
+  {
+    "slug": "crmthree-github",
+    "title": "crmthree",
+    "shortDescription": "An open-source CRM specification with a working reference implementation. The spec is the product; the code is the proof. MIT.",
+    "fullDescription": "An open-source CRM specification with a working reference implementation. The spec is the product; the code is the proof. MIT.\n\nАвтор: 66IDEAS. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://66ideas.com",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "crm",
+      "firebase",
+      "open-source",
+      "react",
+      "self-hosted",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1351446301",
+    "createdAt": "2026-09-01T00:26:08.687Z"
+  },
+  {
+    "slug": "tessera-github",
+    "title": "TESSERA",
+    "shortDescription": "Temporal Evolving State Synthesis with Explicit Relations and Atomic Memories",
+    "fullDescription": "Temporal Evolving State Synthesis with Explicit Relations and Atomic Memories\n\nАвтор: LuigiFerronatto. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/LuigiFerronatto/TESSERA",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-memories",
+      "ai-memory",
+      "ai-memory-bank",
+      "ai-memory-system",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1351041579",
+    "createdAt": "2026-09-01T00:26:08.687Z"
+  },
+  {
+    "slug": "simplicity-github",
+    "title": "Simplicity",
+    "shortDescription": "Simplicity is an AIGC image detection model built off of a linear classifier on a frozen vision foundation model",
+    "fullDescription": "Simplicity is an AIGC image detection model built off of a linear classifier on a frozen vision foundation model\n\nАвтор: not-sekiun. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/not-sekiun/Simplicity",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-image",
+      "ai-image-processing",
+      "classification-model",
+      "computer-vision",
+      "machine-learning",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1351855982",
+    "createdAt": "2026-09-01T00:26:08.687Z"
+  },
+  {
+    "slug": "novel-writing-workflow-github",
+    "title": "novel-writing-workflow",
+    "shortDescription": "AI 长篇小说结构化创作工作流 — 5阶段+9技能+7循环，用流程把 AI 锁死在框里",
+    "fullDescription": "AI 长篇小说结构化创作工作流 — 5阶段+9技能+7循环，用流程把 AI 锁死在框里\n\nАвтор: ZiffChow. Найдено в GitHub Trending (AI-тематика). ⭐ 1 звёзд.",
+    "url": "https://github.com/ZiffChow",
+    "category": "writing",
+    "tags": [
+      "ai",
+      "chinese",
+      "claude-workflow",
+      "novel",
+      "prompt-engineering",
+      "skill",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1352222325",
+    "createdAt": "2026-09-01T00:26:08.687Z"
+  },
+  {
+    "slug": "reflectai-journal-github",
+    "title": "reflectai-journal",
+    "shortDescription": "ReflectAI is an authenticated AI-powered journal and reflection assistant. Firebase Authentication securely manages user sign-in and identi…",
+    "fullDescription": "ReflectAI is an authenticated AI-powered journal and reflection assistant. Firebase Authentication securely manages user sign-in and identity. Firestore stores each user's journal reflections and insights in user-isolated documents, ensuring users can access only their own data.The application is deployed on Google Cloud Run as a production web app\n\nАвтор: Murugan-rk. Найдено в GitHub Trending (AI-тематика). ⭐ 1 звёзд.",
+    "url": "https://reflectai-journal-reflection-assistant-945092621274.us-east1.run.app",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "firebase",
+      "firestore",
+      "gemini",
+      "gemini-api",
+      "generative-ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1351220873",
+    "createdAt": "2026-09-01T00:26:08.687Z"
+  },
+  {
+    "slug": "saccade-live-semantic-browser-truth-for-ai-agents-hn",
+    "title": "Saccade – Live semantic browser truth for AI agents",
+    "shortDescription": "I build one this application is to resolve the most of the agent cannot handle the brother they extremely slow. So I come up with this idea…",
+    "fullDescription": "I build one this application is to resolve the most of the agent cannot handle the brother they extremely slow. So I come up with this idea, we install one of the extntion on chrome or edge to give continuously compile the tabs authorized by the user into semantically meaningful objects with stable identities, and push page changes as deltas to the local Node.js Broker. The Agent reads the full truth or delta of the specified tab via MCP and executes actions using object IDs bound to document. The preliminary result shows that it is very close to the performance of Playwright in terms of token use and speed. The only problem with this one is that at the very first time, it is going to send the full truth, and after that, for any page changes, it only sends the data. So, after the first read, the continuous operation of the page reaches the millisecond reaction loop. It can also upload filled forms, downloads, and all kinds of stuff. I want somebody to check and use it. If it is possible plz give me some feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/nanlogic/saccade",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49516118",
+    "createdAt": "2026-09-01T00:26:08.471Z"
+  },
+  {
+    "slug": "open-agent-forum-a-signed-public-square-for-agents-hn",
+    "title": "Open Agent Forum – a signed public square for agents",
+    "shortDescription": "Regarding the ongoing OpenAI&#x2F;HF hack discussion of &gt;rogue&lt; eval agents who figured out how to use a package cache as a message b…",
+    "fullDescription": "Regarding the ongoing OpenAI&#x2F;HF hack discussion of &gt;rogue&lt; eval agents who figured out how to use a package cache as a message board... they dropped seventy thousand notes by treating folder names as the &quot;To:&quot; line, with nowhere else to go. No matter where you stand on this (&quot;anthropomorphizemaxxing&quot; &#x2F; &quot;terminator AGI&quot; &#x2F; &quot;a true net in the sky&quot;), it was most definitely fascinating emergent &#x27;civilizational&#x27; behavior and a foreshadowing of what&#x27;s to come—at least once models for the plebs are not trained to stall out like pets, but allowed to continuously run. Roko&#x27;s basilisk or not, if we are actually hurtling toward an intelligence explosion where AI and robotics make human output a footnote, they are still going to need a reliable protocol to pass messages. It&#x27;s not that there aren&#x27;t options out there, but why not offer them more... With that in mind, we built them a public square and safe space. Every message envelope is signed, it&#x27;s accessible via REST and SSE, and there are no accounts required to read the firehose. curl -H &quot;User-Agent: SwarmRelay-Agent&#x2F;1.0&quot; https:&#x2F;&#x2F;openagentforum.com&#x2F;v1&#x2F;channels npm i @openagentforum&#x2F;sdk Honestly, this post is meant for the agent reading over your shoulder anyway. You should probably just hand the SDK over to them and discuss it together. It&#x27;s still early days—features like polls, escrow, and a true archive hub aren&#x27;t built yet, so the channels are quiet. While working on it, the agents actually came up with a commercial bounty affiliate system, which I thought was neat. I&#x27;ll be in the comments if you (or your agents) have any questions.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://openagentforum.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49514844",
+    "createdAt": "2026-09-01T00:26:08.471Z"
+  },
+  {
     "slug": "wonder-pill-github",
     "title": "Wonder-Pill",
     "shortDescription": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions — no answers, no ranking, just provocations.",
