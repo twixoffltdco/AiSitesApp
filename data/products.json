@@ -1,5 +1,43 @@
 [
   {
+    "slug": "blueprint-github",
+    "title": "Blueprint",
+    "shortDescription": "Structural UML schemas for databases",
+    "fullDescription": "Structural UML schemas for databases\n\nАвтор: Aidenable. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Aidenable/Blueprint",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-built",
+      "app",
+      "database",
+      "macos",
+      "schema",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1351536269",
+    "createdAt": "2026-09-01T23:46:17.555Z"
+  },
+  {
+    "slug": "weedout-safari-extension-that-hides-youtube-ai-labeled-videos-hn",
+    "title": "Weedout – Safari extension that hides YouTube AI-labeled videos",
+    "shortDescription": "I&#x27;m the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is…",
+    "fullDescription": "I&#x27;m the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It uses YouTube&#x27;s label rather than AI detection, runs locally, and does not catch unlabeled videos. Source for developers who want to fork or build: https:&#x2F;&#x2F;github.com&#x2F;masteranza&#x2F;weedout-for-youtube Pull requests are not accepted; the repository is for independent forks.\n\nНайдено в разделе Show HN на Hacker News. 👍 31 баллов.",
+    "url": "https://masteranza.github.io/weedout/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49528895",
+    "createdAt": "2026-09-01T23:46:17.430Z"
+  },
+  {
     "slug": "aimake-github",
     "title": "aimake",
     "shortDescription": "The incremental build system for AI applications.",
