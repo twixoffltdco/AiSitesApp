@@ -1,5 +1,151 @@
 [
   {
+    "slug": "shiren-github",
+    "title": "shiren",
+    "shortDescription": "基于 8 种行为风格的开源 AI 识人 Skill（中文名：识人）。别再被人卖了还在帮人数钱。",
+    "fullDescription": "基于 8 种行为风格的开源 AI 识人 Skill（中文名：识人）。别再被人卖了还在帮人数钱。\n\nАвтор: budaowenglf. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/budaowenglf/shiren",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "behavioral-styles",
+      "claude-code",
+      "open-source",
+      "psychology",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1352586072",
+    "createdAt": "2026-09-01T05:28:23.464Z"
+  },
+  {
+    "slug": "fieldsnap-case-study-github",
+    "title": "fieldsnap-case-study",
+    "shortDescription": "Field-documentation app for engineers: photograph an equipment nameplate, get a structured record. 28 equipment templates, 179 typed fields…",
+    "fullDescription": "Field-documentation app for engineers: photograph an equipment nameplate, get a structured record. 28 equipment templates, 179 typed fields, offline-first. Designed and built solo; live on Google Play.\n\nАвтор: heykoyr. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://fieldsnap.org",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "case-study",
+      "design-system",
+      "field-service",
+      "google-gemini",
+      "mobile-app",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1352860900",
+    "createdAt": "2026-09-01T05:28:23.465Z"
+  },
+  {
+    "slug": "ai-web-ppt-maker-github",
+    "title": "ai-web-ppt-maker",
+    "shortDescription": "AI 网页 PPT 生成器：粘贴长文案，AI 流式拆解为多页网页 PPT，支持全屏演示、键盘翻页、多套主题与独立 HTML 导出。",
+    "fullDescription": "AI 网页 PPT 生成器：粘贴长文案，AI 流式拆解为多页网页 PPT，支持全屏演示、键盘翻页、多套主题与独立 HTML 导出。\n\nАвтор: yushi-javatoai. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/yushi-javatoai/ai-web-ppt-maker",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "dsh-plugin",
+      "ppt",
+      "presentation",
+      "sse",
+      "web-app",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1352168652",
+    "createdAt": "2026-09-01T05:28:23.465Z"
+  },
+  {
+    "slug": "clippy-vision-local-ai-that-remembers-your-screen-across-apps-hn",
+    "title": "Clippy Vision – local AI that remembers your screen across apps",
+    "shortDescription": "Проект «Clippy Vision – local AI that remembers your screen across apps», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Clippy Vision – local AI that remembers your screen across apps», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/protocorn/clippy-vision/issues/53",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49518018",
+    "createdAt": "2026-09-01T05:28:23.358Z"
+  },
+  {
+    "slug": "eatheria-self-hosted-appsec-platform-with-ai-false-positive-filtering-hn",
+    "title": "Eatheria – Self-hosted AppSec platform with AI false-positive filtering",
+    "shortDescription": "Проект «Eatheria – Self-hosted AppSec platform with AI false-positive filtering», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Eatheria – Self-hosted AppSec platform with AI false-positive filtering», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/MartinCrespoC/Security-Team---Workspace-",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49517916",
+    "createdAt": "2026-09-01T05:28:23.358Z"
+  },
+  {
+    "slug": "seatlr-we-rebuilt-our-traveler-chat-into-an-ai-powered-travel-network-hn",
+    "title": "Seatlr – We rebuilt our traveler chat into an AI-powered travel network",
+    "shortDescription": "Hey HN, I previously shared the initial version of Seatlr here. The idea was to provide a chat room for each destination, connecting travel…",
+    "fullDescription": "Hey HN, I previously shared the initial version of Seatlr here. The idea was to provide a chat room for each destination, connecting travelers heading to the same city regardless of airline. Over the past few weeks, we have expanded Seatlr from destination-based chat rooms into a more comprehensive travel companion, adding an AI assistant and an alert service designed to make travel safer. Travelers enter their flight number, and Seatlr automatically connects them to their destination’s city room, where they can meet other travelers and exchange experiences and recommendations. The new version includes: * An AI travel assistant that answers questions about local laws and customs and recommends hotels, restaurants, and places to visit. * An alert service that monitors critical news at the traveler’s destination, including security incidents, strikes, health advisories, severe weather, and disruptions affecting flights and public transportation. * Real-time chat translation across 59 languages. * Public city rooms and private one-to-one conversations. * Nickname-based profiles to protect travelers’ privacy. * Messages that are automatically deleted within 24 hours. When travelers arrive at a new destination, they often do not have enough time to follow local news. They may be busy enjoying their itinerary, or a language barrier may prevent them from reading and understanding local reports and warnings. We designed the alert service to monitor these developments on their behalf and deliver important information that could affect their safety or travel plans, in their own language, without requiring them to search through multiple local news sources. The most difficult challenge has been solving the cold-start problem: destination rooms become more useful when enough travelers are heading to the same city. Website: https:&#x2F;&#x2F;www.seatlr.com&#x2F; Seatlr is available for iOS and Android through the links on the website.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.seatlr.com/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49517740",
+    "createdAt": "2026-09-01T05:28:23.358Z"
+  },
+  {
+    "slug": "i-built-the-ai-command-center-that-runs-all-local-models-in-one-place-hn",
+    "title": "I Built the AI command center that runs all local models in one place",
+    "shortDescription": "Проект «I Built the AI command center that runs all local models in one place», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I Built the AI command center that runs all local models in one place», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://generativeide.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49517717",
+    "createdAt": "2026-09-01T05:28:23.358Z"
+  },
+  {
+    "slug": "deslop-a-skill-that-turns-legalese-and-ai-slop-into-plain-english-hn",
+    "title": "Deslop, a skill that turns legalese and AI slop into plain English",
+    "shortDescription": "Проект «Deslop, a skill that turns legalese and AI slop into plain English», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Deslop, a skill that turns legalese and AI slop into plain English», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/fayerman-source/deslop/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49517122",
+    "createdAt": "2026-09-01T05:28:23.358Z"
+  },
+  {
     "slug": "bigtransformer-github",
     "title": "bigtransformer",
     "shortDescription": "customisable, simple, and fast transformer built on liltransformer",
