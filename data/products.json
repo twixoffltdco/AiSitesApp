@@ -1,5 +1,228 @@
 [
   {
+    "slug": "embedder-github",
+    "title": "embedder",
+    "shortDescription": "Dzen embedder service with OpenAI/Cloudflare compatible API",
+    "fullDescription": "Dzen embedder service with OpenAI/Cloudflare compatible API\n\nАвтор: dzenplatform. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/dzenplatform/embedder",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "embeddings",
+      "rag-pipeline",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1352612101",
+    "createdAt": "2026-09-01T10:21:54.003Z"
+  },
+  {
+    "slug": "hedgemony-github",
+    "title": "hedgemony",
+    "shortDescription": "Catch AI code hallucinations—fabricated packages, invented APIs, and contradicted behavior—deterministically, without trusting another mode…",
+    "fullDescription": "Catch AI code hallucinations—fabricated packages, invented APIs, and contradicted behavior—deterministically, without trusting another model.\n\nАвтор: lovettsendit. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://pypi.org/project/hedgemony/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-code-verification",
+      "developer-tools",
+      "hallucination-detection",
+      "hallucination-mitigation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1351784744",
+    "createdAt": "2026-09-01T10:21:54.004Z"
+  },
+  {
+    "slug": "xhs-quote-card-github",
+    "title": "xhs-quote-card",
+    "shortDescription": "小红书金句图文起号 Agent：把带中文字幕的名人访谈/演讲/口播视频，自动变成一套可直接发布的小红书图文包（3:4竖版金句卡片 + 文案）。完全本地运行，无需云端Key、无需代理。",
+    "fullDescription": "小红书金句图文起号 Agent：把带中文字幕的名人访谈/演讲/口播视频，自动变成一套可直接发布的小红书图文包（3:4竖版金句卡片 + 文案）。完全本地运行，无需云端Key、无需代理。\n\nАвтор: y1445893240-sudo. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/y1445893240-sudo/xhs-quote-card",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "content-creation",
+      "ocr",
+      "quote-card",
+      "video-to-image",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1353220536",
+    "createdAt": "2026-09-01T10:21:54.004Z"
+  },
+  {
+    "slug": "cuecast-no-code-web-tests-with-multi-locator-replay-and-cdp-fallback-hn",
+    "title": "CueCast – No-code web tests with multi-locator replay and CDP fallback",
+    "shortDescription": "Проект «CueCast – No-code web tests with multi-locator replay and CDP fallback», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «CueCast – No-code web tests with multi-locator replay and CDP fallback», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.icuecast.ai/",
+    "category": "no-code",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49519927",
+    "createdAt": "2026-09-01T10:21:53.810Z"
+  },
+  {
+    "slug": "hypermarkdown-streaming-markdown-renderer-for-react-hn",
+    "title": "HyperMarkdown, streaming Markdown renderer for React",
+    "shortDescription": "Проект «HyperMarkdown, streaming Markdown renderer for React», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «HyperMarkdown, streaming Markdown renderer for React», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Aeven-AI/HyperMarkdown",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49519886",
+    "createdAt": "2026-09-01T10:21:53.810Z"
+  },
+  {
+    "slug": "unitpostemail-open-source-email-components-and-layouts-hn",
+    "title": "Unitpost/email – open-source Email Components and Layouts",
+    "shortDescription": "If you are using React, you&#x27;ve probably used or heard of React Email by Resend. Ironically once we started building Unitpost we hit th…",
+    "fullDescription": "If you are using React, you&#x27;ve probably used or heard of React Email by Resend. Ironically once we started building Unitpost we hit the limit: React Email works when an engineer owns a .tsx file. Add a designer or an agent and you get a second copy that drifts. So we built @unitpost&#x2F;email. One inbox-safe document for Outlook, Apple Mail, and Gmail. React or string TSX. 24+ transactional and marketing emails 20+ pre-built email layouts 15+ components npx skills add unitpostcom&#x2F;email and the AI you already use can generate the emails.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.unitpost.com/email",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49519813",
+    "createdAt": "2026-09-01T10:21:53.810Z"
+  },
+  {
+    "slug": "rxlab-market-a-research-agent-for-stocks-market-hn",
+    "title": "Rxlab market – a research agent for stocks market",
+    "shortDescription": "Hey HN, I&#x27;m Moz, the co-founder of rxlab. The reason why we build rxlab market: We have found that many traders and SMEs spend a signi…",
+    "fullDescription": "Hey HN, I&#x27;m Moz, the co-founder of rxlab. The reason why we build rxlab market: We have found that many traders and SMEs spend a significant amount of time reading listed companies&#x27; financial reports and gathering news, announcements, and market data related to specific assets in order to decide whether to buy, hold, or sell a stock. Rxlab-market aim to help them organize their research materials and data more efficiently -reducing the time spent gathering and sorting through vast amounts of documentation-while also facilitating professional analysis and research. This allows our users to focus more on making informed judgments and decisions. Rxlab market is the &quot;Plan &amp; Research&quot; part of our project rxargo, what we really want to do is to build a platform that can turning quantitative strategies into deployed, backtested, and live-traded systems using natural language. Hopefully you can find value in our project, and feel free to leave any comments (whether you like our idea or not) either will be really helpful for us to improve our product!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://finance.bots.rxlab.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49519789",
+    "createdAt": "2026-09-01T10:21:53.810Z"
+  },
+  {
+    "slug": "choosecompute-clean-nas-and-hard-drive-database-for-ai-hn",
+    "title": "ChooseCompute – Clean NAS and hard drive database for AI",
+    "shortDescription": "Проект «ChooseCompute – Clean NAS and hard drive database for AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ChooseCompute – Clean NAS and hard drive database for AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://choosecompute.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49519555",
+    "createdAt": "2026-09-01T10:21:53.810Z"
+  },
+  {
+    "slug": "edify-a-windows-nle-with-local-ai-subtitlesdubbing-and-openfx-hn",
+    "title": "Edify – a Windows NLE with local AI subtitles/dubbing and OpenFX",
+    "shortDescription": "Проект «Edify – a Windows NLE with local AI subtitles/dubbing and OpenFX», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Edify – a Windows NLE with local AI subtitles/dubbing and OpenFX», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://apps.microsoft.com/detail/9nkkk5k5s4ct?hl=en-US&gl=US",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49519285",
+    "createdAt": "2026-09-01T10:21:53.810Z"
+  },
+  {
+    "slug": "i-kept-finding-robot-datasets-with-skewed-clocks-so-i-built-a-checker-hn",
+    "title": "I kept finding robot datasets with skewed clocks, so I built a checker",
+    "shortDescription": "Проект «I kept finding robot datasets with skewed clocks, so I built a checker», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I kept finding robot datasets with skewed clocks, so I built a checker», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/anicut-ai/embodied-sync",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49518766",
+    "createdAt": "2026-09-01T10:21:53.810Z"
+  },
+  {
+    "slug": "i-built-a-real-time-translator-for-google-meet-hn",
+    "title": "I built a real-time translator for Google Meet",
+    "shortDescription": "I originally didn’t want to build a small tool like this myself — a real-time translation Chrome extension. I assumed there should already…",
+    "fullDescription": "I originally didn’t want to build a small tool like this myself — a real-time translation Chrome extension. I assumed there should already be mature products on the market. But after doing some research, I found that the existing real-time translation tools for Google Meet were surprisingly disappointing. So, I decided to build one myself. As AI has evolved, building a real-time meeting translation tool shouldn’t be that difficult, right? So I asked Claude Code to create a demo for me. The initial implementation was surprisingly fast. The technical approach was also quite simple: capture Google Meet’s live captions and use an LLM in the backend for translation. At first, the results were pretty good. It was a tool that was at least usable. However, while AI helped me build the initial demo quickly, the countless improvements, adjustments, and debugging afterwards still took a considerable amount of time. Yes, AI can give you a great starting point, but you still have to walk the rest of the journey yourself. Turning an idea into a truly usable product is far from something that can be done in just one week. So I started thinking from a product perspective: what else do I need to build? What needs to be done before I can hand this product over to real users? 1. User authentication; 2. Meeting management: users may also want to manage their meeting records; 3. Multi-language support: my target users are global; 4. Subscription and payment system: after all, I’d like to make some extra income from it, even if it may not be much; 5. Usage analytics: tracking users’ usage time; 6. Security: secure API access and rate limiting. And that’s how this project started growing like a snowball. From a simple frontend-only prototype, to a separated backend API, and then to a database-driven system. After a month of continuous iteration and optimization, this small tool finally started to look like a real product. But the journey didn’t end there. After launching, I started thinking about a fundamental question: why would users choose my real-time translation tool instead of others? What makes it different? So I researched all the similar products on the market, analyzed their strengths, identified what features I was missing, and thought about how I could improve. During this process, I discovered a major issue with my original implementation: it relied on Google Meet’s built-in translated captions. The problem was that the captions were frequently revised after being generated, which resulted in a poor translation experience — the translated content would constantly change. So I started researching ASR (Automatic Speech Recognition) services and models to solve this problem. Another major rewrite began. I completely abandoned the built-in captions approach. Instead, I directly captured the audio, converted it into text through ASR, and then translated it. This significantly improved both translation accuracy and the overall user experience. This improvement alone took me two weeks. Yes, even with AI, major changes are not something that happen overnight. I often stopped and reviewed the code generated by AI, checking whether it was drifting away from the original design principles, whether it was over-engineered, or whether it was unnecessarily reinventing existing solutions. AI is like a wild horse. My job is to hold the reins firmly, occasionally give it a push in the right direction, and make sure it doesn’t run off track. Although this tool is still far from perfect, I decided to release it. Right now, what it needs most is market validation — not being locked away while I endlessly polish it.A thousand iterations from AI cannot replace a single piece of real user feedback. So, everyone, I’d love for you to try this little tool and share your honest thoughts. Every piece of feedback is a motivation that helps me move forward.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://meelang.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49518593",
+    "createdAt": "2026-09-01T10:21:53.812Z"
+  },
+  {
+    "slug": "verb-authority-per-argument-authority-checks-for-ai-tool-calls-hn",
+    "title": "Verb Authority – per-argument authority checks for AI tool calls",
+    "shortDescription": "Проект «Verb Authority – per-argument authority checks for AI tool calls», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Verb Authority – per-argument authority checks for AI tool calls», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/yairsabag/verb-authority",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49518575",
+    "createdAt": "2026-09-01T10:21:53.812Z"
+  },
+  {
+    "slug": "codex-skin-a-plugin-for-applying-themes-hn",
+    "title": "Codex Skin, a plugin for applying themes",
+    "shortDescription": "It was inspired by &quot;Code Dream Skin,&quot; a project that went viral on GitHub. However, I found the original setup process rather com…",
+    "fullDescription": "It was inspired by &quot;Code Dream Skin,&quot; a project that went viral on GitHub. However, I found the original setup process rather complex. Believing that users prefer simplicity, I developed my own native Codex plugin based on the same underlying principles and released it as open-source. GitHub: https:&#x2F;&#x2F;github.com&#x2F;yuanjohn01-byte&#x2F;codex-skin-plugin You can quickly download the plugin by copying the command-line instruction from the official website. Once installed, you can use natural language commands within Codex to switch to your desired skin. I have personally created 23 skins so far (avoiding any themes that might infringe on copyrights). My design philosophy centers on creating skins that are aesthetically pleasing without compromising the standard user experience. I believe that to retain users and ensure the skins offer genuine value, the usability of Codex must remain the top priority—it cannot be sacrificed. For instance, skin colors must not blend with the output text, and the visual design shouldn&#x27;t be so complex that it distracts the user from their work. I invite everyone to give it a try! The plugin currently supports macOS (with Windows support coming soon) and offers a mix of free and premium skins for you to explore.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://codexskin.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49518352",
+    "createdAt": "2026-09-01T10:21:53.812Z"
+  },
+  {
     "slug": "shiren-github",
     "title": "shiren",
     "shortDescription": "基于 8 种行为风格的开源 AI 识人 Skill（中文名：识人）。别再被人卖了还在帮人数钱。",
