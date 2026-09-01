@@ -1,5 +1,355 @@
 [
   {
+    "slug": "synaptomind-github",
+    "title": "synaptomind",
+    "shortDescription": "Capture, link, and retrieve your thoughts — like a second brain with its own API.",
+    "fullDescription": "Capture, link, and retrieve your thoughts — like a second brain with its own API.\n\nАвтор: zumik3-del. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/zumik3-del/synaptomind",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "bun",
+      "embeddings",
+      "hono",
+      "knowledge-management",
+      "mcp-server",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1353568132",
+    "createdAt": "2026-09-01T15:03:39.452Z"
+  },
+  {
+    "slug": "prompt-maker-github",
+    "title": "Prompt-Maker",
+    "shortDescription": "My Special Prompt Maker for AI Chat Models is HERE !",
+    "fullDescription": "My Special Prompt Maker for AI Chat Models is HERE !\n\nАвтор: THE-SAZ. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/THE-SAZ/Prompt-Maker",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-chat",
+      "ai-chatbot",
+      "ai-model",
+      "ai-prompt",
+      "ai-prompts",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1353540386",
+    "createdAt": "2026-09-01T15:03:39.453Z"
+  },
+  {
+    "slug": "humanizer-zh-github",
+    "title": "humanizer-zh",
+    "shortDescription": "消除中文文本中的“AI味”（大模型腔、机器翻译腔、互联网黑话套话、模板化八股），重写为地道自然的人类语言。深度适配国内中文场景。",
+    "fullDescription": "消除中文文本中的“AI味”（大模型腔、机器翻译腔、互联网黑话套话、模板化八股），重写为地道自然的人类语言。深度适配国内中文场景。\n\nАвтор: nothing0here. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/nothing0here/humanizer-zh",
+    "category": "writing",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "antigravity",
+      "chinese-writing",
+      "claude-code",
+      "codex",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1351909813",
+    "createdAt": "2026-09-01T15:03:39.453Z"
+  },
+  {
+    "slug": "nullius-github",
+    "title": "nullius",
+    "shortDescription": "An artificial research institution, built so it can be proven wrong. Multi-agent empirical research with preregistration invariants, holdou…",
+    "fullDescription": "An artificial research institution, built so it can be proven wrong. Multi-agent empirical research with preregistration invariants, holdout custody, adversarial review, and evaluation against planted ground truth.\n\nАвтор: martex-dev. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/martex-dev/nullius",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-engineering",
+      "ai-research",
+      "ai-research-and-development",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1351239688",
+    "createdAt": "2026-09-01T15:03:39.453Z"
+  },
+  {
+    "slug": "mproxy-github",
+    "title": "mproxy",
+    "shortDescription": "Yet another proxy for LLMs",
+    "fullDescription": "Yet another proxy for LLMs\n\nАвтор: yasakei. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/yasakei/mproxy",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "llm-proxy",
+      "llm-tools",
+      "model-proxy",
+      "models",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1353470013",
+    "createdAt": "2026-09-01T15:03:39.453Z"
+  },
+  {
+    "slug": "will-your-money-last-ai-assisted-financial-simulator-hn",
+    "title": "Will your money last? AI-assisted financial simulator",
+    "shortDescription": "Hey all - I&#x27;ve been working on a financial simulator for more years than I can remember. I never felt like I got it right so they alwa…",
+    "fullDescription": "Hey all - I&#x27;ve been working on a financial simulator for more years than I can remember. I never felt like I got it right so they always ended up as half-made apps and scripts on my desktop. After years of iterations I feel like I made a breakthrough. Here&#x27;s what led me to build Futurez: Simple calculators let you quickly test ideas and help with questions like &quot;am I on the right track?&quot; It&#x27;s pretty obvious how they fall flat from modeling actual reality though. (you can&#x27;t have different accounts grow at different rates, model expenses with an end-date like a 30-yr mortgage, etc.) Big fat spreadsheets were my next step. I could update balances over time and put income&#x2F;expenses on a schedule. I found that the more complicated it got, the harder it was to verify accuracy. I also realized that if I didn&#x27;t model the US tax system I would be missing critical opportunities that would ultimately make my estimates too rough to be a plan. This year I got more serious about my family&#x27;s own financial planning and also started to take on my aging parents&#x27; situation. I used those real-world scenarios to help me build a new simulator from scratch. It handles taxes, custom logic, easy ways to model accounts&#x2F;income&#x2F;expenses, charts, a spreadsheet view, and most awesomely, first-class AI support including an MCP server so you can run all sorts of experiments and get personalized analysis of any situation. It&#x27;s privacy-minded (no connection to your accounts and anonymous to start) and I&#x27;ve intentionally made it lean slightly conservative. I&#x27;m desperate for feedback so I can help more people and make this awesome. Happy to answer anything, including the parts that aren&#x27;t good yet. Very interested to hear how it does with your scenarios!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://futurezapp.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49522623",
+    "createdAt": "2026-09-01T15:03:39.280Z"
+  },
+  {
+    "slug": "pearpie-private-ai-chat-that-syncs-peer-to-peer-no-accounts-needed-hn",
+    "title": "PearPie – Private AI chat that syncs peer-to-peer, no accounts needed",
+    "shortDescription": "Проект «PearPie – Private AI chat that syncs peer-to-peer, no accounts needed», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «PearPie – Private AI chat that syncs peer-to-peer, no accounts needed», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.pearpie.ai/launch/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49522541",
+    "createdAt": "2026-09-01T15:03:39.280Z"
+  },
+  {
+    "slug": "ambavi-audible-for-things-no-one-has-recorded-yet-hn",
+    "title": "Ambavi – Audible for things no one has recorded yet",
+    "shortDescription": "Ambavi turns a question into a sourced audio episode. You check the script, then it reads it to you. I built it because I save more things…",
+    "fullDescription": "Ambavi turns a question into a sourced audio episode. You check the script, then it reads it to you. I built it because I save more things than I ever read &amp; AI is causing ever increasing reading fatigue\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ambavi.xyz/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49522486",
+    "createdAt": "2026-09-01T15:03:39.280Z"
+  },
+  {
+    "slug": "oss-k8s-native-ai-platform-for-distributed-multi-model-inference-hn",
+    "title": "OSS, K8s-native AI platform for distributed multi-model inference",
+    "shortDescription": "Hi everyone, I’m one of the co-founders of axem. We recently open sourced Shaide, a project we’ve been working on to make running multiple…",
+    "fullDescription": "Hi everyone, I’m one of the co-founders of axem. We recently open sourced Shaide, a project we’ve been working on to make running multiple LLMs on your own infrastructure less painful. It started pretty simply. Running one model wasn’t the hard part. The hard part came when we needed several models running at the same time, scaling them independently across GPU nodes, routing requests between replicas, and making the whole setup reproducible without relying on an external cloud service. Over time we ended up building most of that infrastructure into one platform, and decided it made more sense to open source it rather than keep it internal. Current setup: - vLLM for inference - llm-d for multi-instance orchestration - multiple models running and scaling independently - KV-cache-aware scheduling i- nternal OCI registry for container images + model weights OpenAI-compatible API - the entire platform is managed as infrastructure as code - interactive installer that runs from Docker against an existing Kubernetes cluster - can operate fully air-gapped with no cluster egress It currently works with on-prem RKE2 as well as EKS&#x2F;GKE&#x2F;AKS. The project is Apache 2.0 and still fairly early, so there are definitely things that will change as more people try it.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/axem-solutions/shaide",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49521905",
+    "createdAt": "2026-09-01T15:03:39.280Z"
+  },
+  {
+    "slug": "ai-answers-with-interactive-video-hn",
+    "title": "AI Answers with Interactive Video",
+    "shortDescription": "Проект «AI Answers with Interactive Video», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Answers with Interactive Video», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://appearing.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49521783",
+    "createdAt": "2026-09-01T15:03:39.280Z"
+  },
+  {
+    "slug": "use-ai-to-make-fun-of-other-ai-hn",
+    "title": "Use AI to make fun of other AI",
+    "shortDescription": "Проект «Use AI to make fun of other AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Use AI to make fun of other AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://claude-code-buster.web.app/play3",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49521319",
+    "createdAt": "2026-09-01T15:03:39.280Z"
+  },
+  {
+    "slug": "aicademy-ai-you-learn-by-doing-the-job-you-have-hn",
+    "title": "AICademy – AI you learn by doing the job you have",
+    "shortDescription": "Проект «AICademy – AI you learn by doing the job you have», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AICademy – AI you learn by doing the job you have», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ragentic.netlify.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49521273",
+    "createdAt": "2026-09-01T15:03:39.280Z"
+  },
+  {
+    "slug": "keeplea-photograph-everything-you-want-to-remember-hn",
+    "title": "Keeplea – photograph everything you want to remember",
+    "shortDescription": "At some point I noticed how many photos I take just to remember something, to come back to it later, when I need it. The packaging of a pro…",
+    "fullDescription": "At some point I noticed how many photos I take just to remember something, to come back to it later, when I need it. The packaging of a product I liked, a notice on the door of some government place, small paper documents, screenshots of something that felt important at the time. Well, even the wiring inside the walls during a renovation, photographed &quot;for the future&quot;. All of it lands in the photo gallery next to the &quot;real&quot; photos, and then you almost never come back to any of it, because finding one specific thing in that random stream is just not realistic. Yes, modern mobile OSes categorize photos automatically and let you search the text on them. But the categorization is primitive, like &quot;mountains&quot;, &quot;documents&quot;, &quot;screenshots&quot;, and the thing you&#x27;re looking for isn&#x27;t always written on the photo. The native photo gallery will never find me that photo of the wiring behind the kitchen wall. There&#x27;s no text on it, and &quot;wiring&quot; is not a category. So the idea was a mobile app where all these utility photos go, and I don&#x27;t have to maintain them in any way - automatic categorization, with semantic search on top. Give it a try and let me know what you think: Website: https:&#x2F;&#x2F;keeplea.app Get the app: https:&#x2F;&#x2F;get.keeplea.app So far it&#x27;s all pretty hard. No users yet - an app like this has low &quot;search&quot; potential, nobody types this problem into a store search box. But I&#x27;ll keep trying, as they say. Under the hood: KMP, native UI, Firebase, Gemini, Firestore vector search. P.S. Let me say it right away: this app wasn&#x27;t vibecoded over the weekend, as people like to put it these days. Honestly, I hate the term &quot;vibecoding&quot;. It downplays the weeks and months that go into thinking through the idea, the architecture, the experiments, the design, the marketing, etc. The fact that you use AI agents while building doesn&#x27;t mean you slapped something together and spat it into production. Although, true, plenty of people nowadays do exactly that. Well, not me\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://keeplea.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49521169",
+    "createdAt": "2026-09-01T15:03:39.280Z"
+  },
+  {
+    "slug": "throttling-ai-models-under-load-can-backfire-and-increase-demand-sim-hn",
+    "title": "Throttling AI models under load can backfire and increase demand (SIM)",
+    "shortDescription": "OP here: TL-DR: When AI providers silently swap weaker models under high demand, this can cause even more demand as users tend to re-ask. T…",
+    "fullDescription": "OP here: TL-DR: When AI providers silently swap weaker models under high demand, this can cause even more demand as users tend to re-ask. This is even worse for agents. Both of these effects cause even higher load on the data centers. I guess all of us have felt when the models &quot;don&#x27;t feel quite the same&quot;, so this could explain part of it. I modeled this as a fleet scheduling problem using Queueing Theory and Dynamic Programming over a finite horizon. The standard practice of throttling once the number of jobs in server exceeds certain threshold is in fact suboptimal. The optimal policy consists in segmenting the part of the traffic that is retry sensitive, from those that are not. For example, an user doing a basic data parsing might still do well under a weaker model, but a power user will certainly feel the degradation and ask more. Demo: Just a toy instance to illustrate the issue. The user can create their own policies and see how they perform against the industry standard and the optimal one. It is roughly 100 lines of Flask + JS frontend. Paper with proofs: https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2608.23986 For those of you who have worked in inference infra, does this match anything you have seen?\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://throttle.staffinganalytics.io/?src=hn2",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49521092",
+    "createdAt": "2026-09-01T15:03:39.281Z"
+  },
+  {
+    "slug": "fottly-self-hosted-image-api-with-ai-background-removal-hn",
+    "title": "Fottly – Self-hosted image API with AI background removal",
+    "shortDescription": "Проект «Fottly – Self-hosted image API with AI background removal», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Fottly – Self-hosted image API with AI background removal», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Noah-1919/Fottly",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49521088",
+    "createdAt": "2026-09-01T15:03:39.281Z"
+  },
+  {
+    "slug": "srmed-an-automated-newsroom-with-a-daily-ai-narrated-podcast-hn",
+    "title": "Srmed – an automated newsroom with a daily AI-narrated podcast",
+    "shortDescription": "Hi HN — my co-founder and I built Srmed: a daily business and tech news feed plus a daily podcast, in both Arabic and English. We would app…",
+    "fullDescription": "Hi HN — my co-founder and I built Srmed: a daily business and tech news feed plus a daily podcast, in both Arabic and English. We would appreciate feedback and what would you like to see more of and what less of. Apps if you want them https:&#x2F;&#x2F;srmed.ai&#x2F;app\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://srmed.ai/ar/today",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49521009",
+    "createdAt": "2026-09-01T15:03:39.281Z"
+  },
+  {
+    "slug": "calprep-ai-calendar-agent-with-human-in-the-loop-confirmation-hn",
+    "title": "CalPrep – AI calendar agent with human-in-the-loop confirmation",
+    "shortDescription": "Проект «CalPrep – AI calendar agent with human-in-the-loop confirmation», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «CalPrep – AI calendar agent with human-in-the-loop confirmation», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://calprep.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49520806",
+    "createdAt": "2026-09-01T15:03:39.281Z"
+  },
+  {
+    "slug": "an-open-url-format-for-ai-agents-to-report-status-to-humans-hn",
+    "title": "An open URL format for AI agents to report status to humans",
+    "shortDescription": "Проект «An open URL format for AI agents to report status to humans», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An open URL format for AI agents to report status to humans», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://agentdisplay.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49520595",
+    "createdAt": "2026-09-01T15:03:39.281Z"
+  },
+  {
+    "slug": "a-proxy-between-llms-and-mcp-servers-with-policy-the-model-cannot-reach-hn",
+    "title": "A Proxy between LLMs and MCP servers with policy the model cannot reach",
+    "shortDescription": "Hi, this is Banu. I am a cofounder at sentelabs.ai. We are developing extensible-mcp as an open-source proxy that sits between LLMs and MCP…",
+    "fullDescription": "Hi, this is Banu. I am a cofounder at sentelabs.ai. We are developing extensible-mcp as an open-source proxy that sits between LLMs and MCP servers. The idea behind extensible-mcp is that the model shouldn&#x27;t have to load every available tool, and policy enforcement shouldn&#x27;t live in anything the model can access. As the agent can be influenced by any input it reads, a prompt cannot be fully trusted, and this layer restricts the agent&#x27;s capabilities to only what is allowed by a deterministic policy. Also, every loaded tool is both added context and additional attack surface; extensible-mcp lets the model discover capabilities on demand, reducing context overhead and limiting what the model can access at any given time. It&#x27;s available now as a self-hosted, Apache-2.0 open-source project. It runs as a stdio MCP server itself, so any MCP client can connect to it like any other server. 104 tests are currently passing, and the example configurations work against the official GitHub MCP server. In future updates, we plan to make human approvals cryptographically verifiable, which proves a real person approved this exact action. And, the policies will be written in Lean, a proof assistant, and translated to Rego for execution, so you can mathematically prove the rules behave as claimed. My co-founder Matthew Fuchs came up with the idea, designed the architecture, and built it. I support the product, design, human-trust and authority side. I wanted to post this here as we need your honest feedback and opinions. I am very curious about what the HN community thinks about it.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/SenteLabsAI/extensible-mcp",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49520552",
+    "createdAt": "2026-09-01T15:03:39.281Z"
+  },
+  {
+    "slug": "what-differentiates-developers-when-we-all-use-ai-hn",
+    "title": "What differentiates developers when we all use AI?",
+    "shortDescription": "I am a developer with more than 10 years in the IT industry. I like to code because I get the feeling that it makes me sharper. Unfortunate…",
+    "fullDescription": "I am a developer with more than 10 years in the IT industry. I like to code because I get the feeling that it makes me sharper. Unfortunately, I am no longer getting this feeling because of the rise of LLMs. We are all, more or less, using the same LLMs. So I am no longer sure what the difference is between me and other developers. Before, I was proud of the quality of work that I did and the speed at which I was able to deliver it. Now I am just a reviewer of the code that was generated by the LLMs and trying to use my experience to guide it better. I don&#x27;t have an unlimited budget for LLMs, and I&#x27;m guessing most developers don&#x27;t either. I was thinking that the differentiation factor would be who can do the same job cheaper. My interest was to find the best-value LLMs for the job, in terms of pricing and intelligence. Because of this I built https:&#x2F;&#x2F;aicalculatorpro.com&#x2F; . A website that doesn&#x27;t need a sign-up and is free, so that other developers can have the same insight. The site is vibe coded, as you can see. I launched it in July. The page I personally use most is the LLM price changes page: https:&#x2F;&#x2F;aicalculatorpro.com&#x2F;llm-price-changes&#x2F; Over time, it will grow and become an audit log. Here I can see which new models are launched. I was also thinking that you can save money by switching providers, so for each model I list the providers. For example, this one: https:&#x2F;&#x2F;aicalculatorpro.com&#x2F;models&#x2F;zhipu&#x2F;glm-5.3-flash&#x2F; What do you think will be the differentiating factors now that we are all using LLMs?\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://aicalculatorpro.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49520488",
+    "createdAt": "2026-09-01T15:03:39.281Z"
+  },
+  {
     "slug": "embedder-github",
     "title": "embedder",
     "shortDescription": "Dzen embedder service with OpenAI/Cloudflare compatible API",
