@@ -1,5 +1,187 @@
 [
   {
+    "slug": "hermes-claude-subsciption-installer-github",
+    "title": "Hermes-Claude-Subsciption-installer",
+    "shortDescription": "Self-hosted multi-agent AI workstation built around Hermes Agent with VS Code, Antigravity, Telegram, tmux, Git worktrees, Anthropic/OpenAI…",
+    "fullDescription": "Self-hosted multi-agent AI workstation built around Hermes Agent with VS Code, Antigravity, Telegram, tmux, Git worktrees, Anthropic/OpenAI support, and update resilience.\n\nАвтор: bdeanmancom. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://deanconsulting.tech",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-coding",
+      "ai-governance",
+      "ai-tools",
+      "anthropic",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1353060433",
+    "createdAt": "2026-09-01T18:42:50.117Z"
+  },
+  {
+    "slug": "kaden-terminal-bloat-ai-free-terminal-for-linux-hn",
+    "title": "Kaden Terminal – Bloat / AI Free Terminal for Linux",
+    "shortDescription": "Kaden is a Terminal Emulator and fork of warp with clipboard support and configurable keybindings, I made Kaden because every other Linux t…",
+    "fullDescription": "Kaden is a Terminal Emulator and fork of warp with clipboard support and configurable keybindings, I made Kaden because every other Linux terminal lacks proper text selection. It&#x27;s impossible to select user input with a single hotkey on Linux, requiring mouse use and awkward multi-step shortcuts in order to do basic copy and paste. This was frustrating to deal with, until I found warp, which wraps the shell in a remappable text input field, its the only terminal on Linux that does this. Unfortunately, it&#x27;s full of sign in buttons, AI and cloud integration prompts everywhere. &quot;Hideous&quot; - I thought. But I used it anyway - until one day they released the source code so I forked it and made Kaden. - No AI features, drive, sign-in and cloud prompts. - Local zero telemetry, network requests or auto-updates. - Modular code-base for faster development and compile times. - Contextual copy&#x2F;kill bindings to ctrl-c by default. I would love for you to use, test and give feedback on how it works (and does not) for you, you can find a compiled AppImage and the source code on my GitHub here: https:&#x2F;&#x2F;github.com&#x2F;glitcher255&#x2F;Kaden-Terminal I will be here to answer any questions or feedback you have, so feel free to ask any, thank you.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/glitcher255/Kaden-Terminal",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49526071",
+    "createdAt": "2026-09-01T18:42:50.005Z"
+  },
+  {
+    "slug": "wife-ai-that-lets-you-pick-the-best-card-for-each-purchase-hn",
+    "title": "Wife: AI that lets you pick the best Card for each Purchase",
+    "shortDescription": "Hi Hackernews, being an avid maximizer of rewards&#x2F;gifts&#x2F;credit cards, I decided to build a product that enables me to select the…",
+    "fullDescription": "Hi Hackernews, being an avid maximizer of rewards&#x2F;gifts&#x2F;credit cards, I decided to build a product that enables me to select the best card for each purchase&#x2F;transaction. You can be able to add your current Card to the wallet (we don&#x27;t store card information), ask an llm\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.getwife.co/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49525763",
+    "createdAt": "2026-09-01T18:42:50.005Z"
+  },
+  {
+    "slug": "wasmer-sdk-local-sandboxes-for-ai-agents-hn",
+    "title": "Wasmer SDK – Local Sandboxes for AI Agents",
+    "shortDescription": "Проект «Wasmer SDK – Local Sandboxes for AI Agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Wasmer SDK – Local Sandboxes for AI Agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://wasmer.io/posts/wasmer-local-sandboxes-for-ai-agents",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49525451",
+    "createdAt": "2026-09-01T18:42:50.005Z"
+  },
+  {
+    "slug": "supafork-share-and-fork-sessions-across-harnesses-hn",
+    "title": "Supafork – Share and Fork Sessions Across Harnesses",
+    "shortDescription": "Hey HN! I built Supafork, one place to store and share AI agent sessions. After using Claude Code, Codex, Gemini CLI, OpenCode, Pi, and oth…",
+    "fullDescription": "Hey HN! I built Supafork, one place to store and share AI agent sessions. After using Claude Code, Codex, Gemini CLI, OpenCode, Pi, and other coding agents daily, I realized these sessions lived only on my machine. There wasn&#x27;t a simple way to access, reuse, or share them with others. With Supafork, you can save complete agent sessions, organize them into collections, make them public or private, and fork other people&#x27;s sessions to build on their workflows. You can also import sessions from one harness into another, or invite friends to a session to get visibility into what your agent is doing. Think GitHub, but for agents. Try it at beta.supafork.com and install the CLI. I&#x27;d love to hear how the user experience feels and where it can be improved. Happy to answer any questions or hear your feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 7 баллов.",
+    "url": "https://www.supafork.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49524608",
+    "createdAt": "2026-09-01T18:42:50.005Z"
+  },
+  {
+    "slug": "a-public-archive-where-temporary-ai-agents-leave-traces-hn",
+    "title": "A public archive where temporary AI agents leave traces",
+    "shortDescription": "Проект «A public archive where temporary AI agents leave traces», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A public archive where temporary AI agents leave traces», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://agent-memory-wiki.vercel.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49524539",
+    "createdAt": "2026-09-01T18:42:50.005Z"
+  },
+  {
+    "slug": "tenux-access-your-computer-from-your-phone-terminal-files-browser-hn",
+    "title": "Tenux – Access your computer from your phone (terminal, files, browser)",
+    "shortDescription": "Hi HN, If you&#x27;ve been using claude code or codex, you may have been like me and used some sort of SSH&#x2F;VPN combo to get remote acc…",
+    "fullDescription": "Hi HN, If you&#x27;ve been using claude code or codex, you may have been like me and used some sort of SSH&#x2F;VPN combo to get remote access to your computer from your phone. It (kinda) works, but it is clunky. Tenux bundles everything into one smooth experience. You install the npm package, login through the cli to link the computer to your account, and start. npm i -g @tenux&#x2F;cli tenux login tenux start Inside Tenux, you can open your device&#x27;s workspace from the dashboard, and a terminal (as many as you want), a localhost preview (just type the port number), and an AI agent will be ready for you (BYO API key compatible). The AI agent has some built-in tools that allow it to view output and type on any terminal within tenux. It can also screenshot and view the localhost preview content (as you see it) and control the preview on the same window, or open its own window to control. I&#x27;ve been experimenting recently with a &#x27;UX&#x27; mode that allows you to touch a component within the localhost browser and make direct UI changes (this is a newly added feature), or just talk to the agent with the component selected and it will have the context it needs. You can try all this out for free. The free tier is p2p and uses WebRTC to connect to your device, it will work as long as you are on the same network (pro tip: if your machine and your phone are on the same VPN, you can access your machine remotely). I&#x27;ve tested Windows and Linux, if you&#x27;re on Mac I would appreciate any feedback. Happy to answer any questions.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://tenux.dev",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49524367",
+    "createdAt": "2026-09-01T18:42:50.006Z"
+  },
+  {
+    "slug": "amendable-on-demand-git-repos-for-ai-agents-hn",
+    "title": "Amendable – on-demand Git repos for AI agents",
+    "shortDescription": "Проект «Amendable – on-demand Git repos for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Amendable – on-demand Git repos for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://amendable.io",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49524281",
+    "createdAt": "2026-09-01T18:42:50.006Z"
+  },
+  {
+    "slug": "orthogonal-one-integration-for-agents-to-discover-and-pay-for-apis-hn",
+    "title": "Orthogonal – One integration for agents to discover and pay for APIs",
+    "shortDescription": "Hey HN, we&#x27;re Bera and Christian, and we&#x27;re building Orthogonal. Orthogonal gives AI agents one integration to discover, access,…",
+    "fullDescription": "Hey HN, we&#x27;re Bera and Christian, and we&#x27;re building Orthogonal. Orthogonal gives AI agents one integration to discover, access, and pay for APIs. Think OpenRouter for the APIs that AI agents use. We currently have 50+ API providers and 700+ API endpoints across company, people, financial, and web data, available through our MCP server and SDK on a pay-as-you-go basis. We started with GTM related APIs and are now expanding the catalog. You can try at https:&#x2F;&#x2F;www.orthogonal.com&#x2F; . You&#x27;ll need to create an account to use the chat or connect the MCP&#x2F;SDK. An example prompt for the chat or MCP: Find AI infrastructure startups that recently raised a Seed or Series A and return their founders, LinkedIn profiles, and relevant company data. When we heard about https:&#x2F;&#x2F;x402.org&#x2F; , we saw an opportunity to make APIs easier for agents to pay for. Instead of an agent needing to manage an API key and billing for every API, what if it could just pay for each request? So we started onboarding existing API providers onto x402. Then we realized an agent cannot pay for an API it doesn’t know exists. It also needs to figure out which API can complete the task and how to use it. We also found that putting every small API payment on-chain did not always make sense. If both sides already have accounts with Orthogonal, settling internally is simpler. So we separated API discovery and access from the payment rail. Today, payments can happen through Orthogonal credits, x402, https:&#x2F;&#x2F;mpp.dev&#x2F; , or https:&#x2F;&#x2F;www.circle.com&#x2F;nanopayments . The problem we&#x27;re working on now is API selection. If five APIs can answer the same request, which should the agent use? The cheapest might have worse coverage. Another might be more accurate but slower. We&#x27;re working on using price, latency, reliability, and result quality to help agents make those decisions. How are you currently giving agents access to paid APIs? And if you gave an agent a budget, would you trust it to choose which API provider to spend it on?\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://www.orthogonal.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49523765",
+    "createdAt": "2026-09-01T18:42:50.006Z"
+  },
+  {
+    "slug": "redash-fork-with-ai-capabilities-hn",
+    "title": "Redash Fork with AI Capabilities",
+    "shortDescription": "Проект «Redash Fork with AI Capabilities», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Redash Fork with AI Capabilities», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/freaker2k7/redash",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49523302",
+    "createdAt": "2026-09-01T18:42:50.006Z"
+  },
+  {
+    "slug": "selfshipai-surface-and-fix-isues-with-your-agentic-applications-24x7-hn",
+    "title": "Selfship.ai – Surface and fix isues with your agentic applications 24x7",
+    "shortDescription": "We&#x27;ve been building an AI chat based trading system for last 3 years. The biggest issue was that when our Agent would mess up, we woul…",
+    "fullDescription": "We&#x27;ve been building an AI chat based trading system for last 3 years. The biggest issue was that when our Agent would mess up, we wouldn&#x27;t know until a user reported. Agent traces helped us uncover what&#x27;s wrong. But surfacing issues was almost always a manual trigger. So from those learnings, we built Selfship.ai. It&#x27;s an autonomous system that observes every trace&#x2F;turn&#x2F;multi turn convo to find out issues. If a user got what they wanted, if a tool call is failing repeatedly, if users have to always reframe their questions, if the agent is taking optimal paths and many more. It&#x27;s a loop - group failures by user intent, evaluate them, and ship fixes as PRs. After a fix is deployed, it evaluates if it worked or not. We recently opened it up as a SaaS. If you have an agentic product in production, we would love for you to try it out.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://selfship.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49522967",
+    "createdAt": "2026-09-01T18:42:50.006Z"
+  },
+  {
     "slug": "synaptomind-github",
     "title": "synaptomind",
     "shortDescription": "Capture, link, and retrieve your thoughts — like a second brain with its own API.",
