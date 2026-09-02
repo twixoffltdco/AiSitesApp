@@ -1,5 +1,171 @@
 [
   {
+    "slug": "subpool-github",
+    "title": "subpool",
+    "shortDescription": "  A lightweight, self-hosted AI subscription pool for teams.",
+    "fullDescription": "  A lightweight, self-hosted AI subscription pool for teams.\n\nАвтор: gesta-run. Найдено в GitHub Trending (AI-тематика). ⭐ 9 звёзд.",
+    "url": "https://github.com/gesta-run/subpool",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1354518773",
+    "createdAt": "2026-09-02T12:31:21.237Z"
+  },
+  {
+    "slug": "windrunner-ai-powered-project-collaboration-workspace-hn",
+    "title": "Windrunner – AI-powered project collaboration workspace",
+    "shortDescription": "Проект «Windrunner – AI-powered project collaboration workspace», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Windrunner – AI-powered project collaboration workspace», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://shzlw.github.io/windrunner/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49535163",
+    "createdAt": "2026-09-02T12:31:21.095Z"
+  },
+  {
+    "slug": "octoloops-automated-marketing-for-indie-devs-hn",
+    "title": "OctoLoops – automated marketing for indie devs",
+    "shortDescription": "Hi HN! This is my latest side hustle, OctoLoops: an app to help indie devs and SMEs find paying customers for their business. I first start…",
+    "fullDescription": "Hi HN! This is my latest side hustle, OctoLoops: an app to help indie devs and SMEs find paying customers for their business. I first started building OctoLoops around 2 months ago because so many of my own projects, big and small, had failed or petered out from lack of users and the valuable feedback that comes with them. When I started seriously digging, I found that distribution is one heck of a rabbit hole. The more I read, the more I found how much I didn&#x27;t know. But I wanted to learn - and I really wanted to _apply_ that learning too, to all my new projects, in a repeatable, autonomous-as-possible way. What better way to implement this plan than building a distribution app? The idea was supposedly simple: implement a handful of &quot;agentic loops&quot; that anyone could easily run, in a web UI - no downloads or installing Claude Code, no complexity, human stays in the loop. A simple agentic harness in the browser with some superpowers to let it do its job. I launched it quite soon after, and immediately started dogfooding, running the Community Loop. It found threads across Reddit from all those builders who&#x27;d made something cool, but were now at a loss when it came to finding and acquiring users. It drafted replies for me and gave a &quot;spam risk&quot;, because yes - many kinds of marketing and sales walk a fine line between signal and blatant spam - and I started working the loops. Often I&#x27;d edit or write the replies myself; sometimes I&#x27;d remove the OctoLoops mention from the message. It worked. I now have ~50 users, including one from a post-revenue B2B startup interested in using the Outbound loop. But there have been significant challenges already that I want to be open about here, in the hope that it helps other public builders. 1. Activation. This is currently my #1 pain point. My Community loops work - I can get people to sign up, enter their email, and I know there&#x27;s even some buying intent. But people often log in once, then don&#x27;t use the app. I&#x27;ve reached out to users, and they&#x27;ve said it&#x27;s partly just that they don&#x27;t want to post their app in communities they don&#x27;t yet feel a real part of. Resistance to being rude or spammy, imposter syndrome - anyone who&#x27;s done any marketing can identify. I&#x27;m trying to solve some of the issues of activation by building a more streamlined, less cluttered UX, but I&#x27;m not sure how to motivate people to really use the app in earnest. Maybe it&#x27;s missing evidence of outcomes? Video tutorials? 2. Product focus. While researching competitors, what I notice most have in common is they focus on _one thing_: automated outbound; automated advertising; keyword monitoring. Not many people seem to be trying to make a fully autonomous omnichannel GTM agent, because that&#x27;s too much. I decided to hide most of the channels I&#x27;d built already behind UI so users focus on community outreach and outbound sales. It&#x27;s too early to say if that&#x27;s the right call, and I know I&#x27;m still following an omnichannel strategy for OctoLoops itself. 3. Prioritising. I&#x27;m sure everyone says this, but: content strategy; SEO; socials; dogfooding... trying to talk to users, to understand why I&#x27;m not yet solving their problems and delivering them the outcomes they want. Attempting to keep my potential corporate customer in the funnel. Implementing new features - but which ones? And keeping up with the _insane pace_ of agentic apps and AI at large: so much is happening right now, hype and BS is everywhere, sometimes it&#x27;s hard to know what&#x27;s real. So that&#x27;s where I&#x27;m at, 2 months down the line. It&#x27;s already been a fun journey. Any questions I&#x27;m happy to answer. Criticism is welcome too - I recognize some will view this as contributing to the already high volume of spam and slop out there, but that&#x27;s honestly a balance I&#x27;m trying to find, and I&#x27;d love to hear opinions on how people should do sales and marketing in 2026 without driving people crazy.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://octoloops.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49535048",
+    "createdAt": "2026-09-02T12:31:21.096Z"
+  },
+  {
+    "slug": "mcdc-coverage-so-coding-agents-could-work-overnight-hn",
+    "title": "MC/DC coverage so coding agents could work overnight",
+    "shortDescription": "Hello HN! Code just became cheaper with AI but review and verification is as hard as it was. Tests are great, but current AI slop needs muc…",
+    "fullDescription": "Hello HN! Code just became cheaper with AI but review and verification is as hard as it was. Tests are great, but current AI slop needs much more exhaustive testing. I built a test coverage tool for coding agents so they could work in a loop and keep writing tests where it makes sense. Here’s Supercov: - Wraps any JavaScript&#x2F;TypeScript&#x2F;Rust test suite (npx supercov -- npm test) - Provides deepest MC&#x2F;DC code coverage with max perf (written in Rust) - Free and open source Easiest way is just to give your agent a prompt: Measure coverage with npx supercov and write one test. Goal is building the deepest code coverage suite for coding agents thats works automagically in any language and any test suite. I feel code verification is the missing piece for software factories to actually work. I’d particularly be interested in feedback on compatibility and if your agent ran into any problems. Contributions and bug reports are very welcome: https:&#x2F;&#x2F;github.com&#x2F;supercorp-ai&#x2F;supercov\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://supercov.com",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49534948",
+    "createdAt": "2026-09-02T12:31:21.096Z"
+  },
+  {
+    "slug": "me-and-28000-ai-agents-built-this-research-every-claim-is-traceable-hn",
+    "title": "Me and 28,000 AI agents built this research; every claim is traceable",
+    "shortDescription": "Проект «Me and 28,000 AI agents built this research; every claim is traceable», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Me and 28,000 AI agents built this research; every claim is traceable», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://reports.ag-insights.co.uk/state-of-ai-reasoning/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49534901",
+    "createdAt": "2026-09-02T12:31:21.096Z"
+  },
+  {
+    "slug": "apply-ai-ai-studio-for-resumes-interviews-and-job-applications-hn",
+    "title": "Apply AI – AI Studio for resumes, interviews, and job applications",
+    "shortDescription": "Проект «Apply AI – AI Studio for resumes, interviews, and job applications», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Apply AI – AI Studio for resumes, interviews, and job applications», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://apply-ai.work",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49534587",
+    "createdAt": "2026-09-02T12:31:21.096Z"
+  },
+  {
+    "slug": "use-ai-api-and-scheduled-active-recall-to-pass-any-exam-longtermemory-hn",
+    "title": "Use AI API and scheduled Active Recall to pass any exam: LongTerMemory",
+    "shortDescription": "Проект «Use AI API and scheduled Active Recall to pass any exam: LongTerMemory», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Use AI API and scheduled Active Recall to pass any exam: LongTerMemory», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://longtermemory.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49534284",
+    "createdAt": "2026-09-02T12:31:21.096Z"
+  },
+  {
+    "slug": "os-ios-farm-automation-hn",
+    "title": "OS iOS Farm Automation",
+    "shortDescription": "iOS phone farm - register real iPhones, watch + control them live in the browser, schedule TikTok on a postgres-backed scheduler. free, sel…",
+    "fullDescription": "iOS phone farm - register real iPhones, watch + control them live in the browser, schedule TikTok on a postgres-backed scheduler. free, self-hosted, apache-2.0. git: github.com&#x2F;Git-Agni&#x2F;prod-FARM-IOS-Core DIY steps: gethandler.ai&#x2F;ios-farm gg\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://gethandler.ai/ios-farm/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49533979",
+    "createdAt": "2026-09-02T12:31:21.096Z"
+  },
+  {
+    "slug": "image3d-ai-one-interface-for-multiple-image-to-3d-models-hn",
+    "title": "Image3d AI-One interface for multiple image to 3D models",
+    "shortDescription": "I built image3D AI to make it easier to try and compare different image to 3d models in one place.",
+    "fullDescription": "I built image3D AI to make it easier to try and compare different image to 3d models in one place.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.aiimageto3d.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49533428",
+    "createdAt": "2026-09-02T12:31:21.096Z"
+  },
+  {
+    "slug": "ipfal-an-ip-checker-that-reimagines-your-location-with-ai-hn",
+    "title": "IP/fal – An IP checker that reimagines your location with AI",
+    "shortDescription": "Проект «IP/fal – An IP checker that reimagines your location with AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «IP/fal – An IP checker that reimagines your location with AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/kiliczsh/ip-fal",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49533120",
+    "createdAt": "2026-09-02T12:31:21.096Z"
+  },
+  {
     "slug": "idexal-agents-ai-web-ui-github",
     "title": "idexal-Agents-AI-Web-UI",
     "shortDescription": "🚀 idexla Agents AI Web UI — Free OpenSource AI-powered IDE | Everything-is-a-plugin • Built on Cordis • 100% Free Forever • by Zakariae La…",
