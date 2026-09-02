@@ -1,5 +1,97 @@
 [
   {
+    "slug": "ghostpkg-github",
+    "title": "ghostpkg",
+    "shortDescription": "Catch AI-hallucinated package names before you install them",
+    "fullDescription": "Catch AI-hallucinated package names before you install them\n\nАвтор: M1rwana12. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/M1rwana12/ghostpkg",
+    "category": "developer",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "ai-security",
+      "cli",
+      "dependencies",
+      "dependency-management",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1353545090",
+    "createdAt": "2026-09-02T02:47:26.632Z"
+  },
+  {
+    "slug": "driftwatch-github",
+    "title": "driftwatch",
+    "shortDescription": "Maintained agent-engineering kit for Cursor and Claude Code. Rules plus a CI checker that fails weakened tests.",
+    "fullDescription": "Maintained agent-engineering kit for Cursor and Claude Code. Rules plus a CI checker that fails weakened tests.\n\nАвтор: driftwatch-kit. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://buy.polar.sh/polar_cl_fchKa2xndgHxURruxfYlvnJgM7KTjAR8O1izQ1SdhFe",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ci",
+      "claude",
+      "cursor",
+      "developer-tools",
+      "github-actions",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1353002702",
+    "createdAt": "2026-09-02T02:47:26.632Z"
+  },
+  {
+    "slug": "haserupt-a-new-way-to-reduce-your-phone-usage-hn",
+    "title": "Haserupt – A new way to reduce your phone usage",
+    "shortDescription": "Instead of daily limits or scheduled focus sessions, Haserupt asks what you’re opening an app for before you open it. It then gives you jus…",
+    "fullDescription": "Instead of daily limits or scheduled focus sessions, Haserupt asks what you’re opening an app for before you open it. It then gives you just enough time to complete that task. Once the timer expires, the app stays unavailable for a short cool-off period. If you genuinely need more time right away, you can explain why and request an extension. For instance, when you open Instagram, you can choose one amongst &quot;Check DMs (1 min)&quot;, &quot;Watch reels (5 mins)&quot;, &quot;Long convo (15 min)&quot; and use the app for that much time. After that, Instagram will be locked behind a cooloff. After the cooloff ends, you repeat the process. If you want to reopen during the cooloff, convince the AI companion to let you. Check it out on the App Store: https:&#x2F;&#x2F;apps.apple.com&#x2F;app&#x2F;id6763058568 Currently, it&#x27;s iOS only.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.haserupt.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49531092",
+    "createdAt": "2026-09-02T02:47:26.626Z"
+  },
+  {
+    "slug": "memcode-launches-github-code-review-hn",
+    "title": "Memcode Launches GitHub Code Review",
+    "shortDescription": "Проект «Memcode Launches GitHub Code Review», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Memcode Launches GitHub Code Review», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.memcode.ai/product/code-review",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49530862",
+    "createdAt": "2026-09-02T02:47:26.626Z"
+  },
+  {
+    "slug": "local-ai-assistants-can-be-user-friendly-too-hn",
+    "title": "Local AI Assistants can be user friendly too",
+    "shortDescription": "Проект «Local AI Assistants can be user friendly too», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Local AI Assistants can be user friendly too», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://anjadhe.ai/blog/local-ai-assistants-can-be-user-friendly-too",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49530822",
+    "createdAt": "2026-09-02T02:47:26.626Z"
+  },
+  {
     "slug": "blueprint-github",
     "title": "Blueprint",
     "shortDescription": "Structural UML schemas for databases",
