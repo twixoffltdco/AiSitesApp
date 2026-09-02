@@ -1,5 +1,107 @@
 [
   {
+    "slug": "sbpy-github",
+    "title": "sbpy",
+    "shortDescription": "Local-first Python error fixing & AI diagnostics, with Gemini as the last resort",
+    "fullDescription": "Local-first Python error fixing & AI diagnostics, with Gemini as the last resort\n\nАвтор: ELISTE770. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://smartbinary.org",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "debugging",
+      "developer-tools",
+      "gemini",
+      "linter",
+      "python",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1354069177",
+    "createdAt": "2026-09-02T22:19:51.309Z"
+  },
+  {
+    "slug": "i-put-four-persistent-ai-minds-in-a-room-and-let-them-change-each-other-hn",
+    "title": "I put four persistent AI minds in a room and let them change each other",
+    "shortDescription": "Проект «I put four persistent AI minds in a room and let them change each other», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I put four persistent AI minds in a room and let them change each other», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://room.pluralmatter.com/e/how-will-the-world-change-when-ai-smarter-than-humans",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49542607",
+    "createdAt": "2026-09-02T22:19:51.151Z"
+  },
+  {
+    "slug": "the-drudge-report-but-for-ai-hn",
+    "title": "The Drudge Report, but for AI",
+    "shortDescription": "Проект «The Drudge Report, but for AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «The Drudge Report, but for AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://theainewsreport.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49542561",
+    "createdAt": "2026-09-02T22:19:51.151Z"
+  },
+  {
+    "slug": "dehurdle-real-time-ai-voice-simulations-for-high-stakes-conversations-hn",
+    "title": "Dehurdle – Real-Time AI Voice Simulations for High-Stakes Conversations",
+    "shortDescription": "Проект «Dehurdle – Real-Time AI Voice Simulations for High-Stakes Conversations», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Dehurdle – Real-Time AI Voice Simulations for High-Stakes Conversations», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://dehurdle.com/register/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49542430",
+    "createdAt": "2026-09-02T22:19:51.151Z"
+  },
+  {
+    "slug": "alparai-autonomous-swarm-os-with-quantum-verification-hn",
+    "title": "AlparAI – Autonomous Swarm OS with Quantum Verification",
+    "shortDescription": "Alpar AI is building the judicial and constitutional accountability infrastructure for artificial intelligence. We audit frontier LLMs agai…",
+    "fullDescription": "Alpar AI is building the judicial and constitutional accountability infrastructure for artificial intelligence. We audit frontier LLMs against real-world incidents, hallucinations, and safety violations using an actuarial Bayesian TrustScore framework.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.alparai.com/en",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49542138",
+    "createdAt": "2026-09-02T22:19:51.151Z"
+  },
+  {
+    "slug": "ai-coach-that-adapts-workouts-and-meals-to-your-injuries-and-hn",
+    "title": "AI coach that adapts workouts and meals to your injuries and",
+    "shortDescription": "Проект «AI coach that adapts workouts and meals to your injuries and», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI coach that adapts workouts and meals to your injuries and», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://rizin.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49542113",
+    "createdAt": "2026-09-02T22:19:51.151Z"
+  },
+  {
     "slug": "aimake-github-2",
     "title": "aimake",
     "shortDescription": "The incremental build system for AI applications.",
