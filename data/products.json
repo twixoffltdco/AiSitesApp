@@ -1,5 +1,107 @@
 [
   {
+    "slug": "aimake-github-2",
+    "title": "aimake",
+    "shortDescription": "The incremental build system for AI applications.",
+    "fullDescription": "The incremental build system for AI applications.\n\nАвтор: arjun988. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://aimake-doc.vercel.app/",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-governance",
+      "ai-model",
+      "ai-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1353721470",
+    "createdAt": "2026-09-02T19:40:12.644Z"
+  },
+  {
+    "slug": "sol-a-fast-powerful-music-player-for-macos-with-subsonic-support-hn",
+    "title": "Sol, a fast, powerful music player for macOS, with Subsonic support",
+    "shortDescription": "Hello! You may have seen me post here before about my other app, Gramola, a music dock that slides out from the edge of your Mac&#x27;s scr…",
+    "fullDescription": "Hello! You may have seen me post here before about my other app, Gramola, a music dock that slides out from the edge of your Mac&#x27;s screen. Today, I wanted to showcase a sister project to it that I started building when I grew frustrated with other music players, when I was on the search for one to integrate Gramola with (their speed and their often outdated UI to be precise). So I made my own! Sol is a music player, podcasts and internet radio app for macOS that follows all modern macOS style decisions, while seeming familiar for fans of the good old days of iTunes. Here&#x27;s some highlights: - Incredibly fast, even with hundreds of thousands of songs or more. - It browses the way you remember, and it&#x27;s super customizable, with different views and ways to make it your own, from a multi-column browser, to a grid view, to having a spiritual successor to CoverFlow! - It supports multiple libraries, local ones, network storage, even Navidrome and Subsonic-compatible ones. Sol doesn&#x27;t have a central library that everything you add gets added to, although you can set it up that way if you want, it simply keeps track of all the locations where you keep your music. - It plays a lot of formats, MP3, AAC, ALAC, FLAC, WAV, AIFF, Opus, Ogg Vorbis, DSD, Monkey&#x27;s Audio, Musepack, AC3, EAC3, CAF, AU, W64... - Gapless playback, match sample rate mode, ReplayGain. - Cue sheets as virtual tracks. - Has a rich visual metadata editor. - 10 or 31 band equalizer. - 2 top bar visualizers. - Smart playlists. - LastFM integration, autoscrobbling and stats page. - Discord Rich Presence. - Automation and control via AppleScript, Shortcuts or Sol&#x27;s own local API ( https:&#x2F;&#x2F;sol.fulltimefeline.com&#x2F;api ) - Regex rules for metadata editing and folder importing. - A steered shuffle option called SolDJ. - Internet radio and podcasts. - Synced lyrics (and transcriptions for podcasts). - Metadata, lyrics, and album art fetching. - Absolutely ZERO telemetry or analytics. And more! Sol is predominantly Swift and SwiftUI+AppKit, and built on the robust foundation of SFBAudioEngine, forked to make it MAS-friendly. It&#x27;s available on the Mac App Store free to try for 7 days, then it&#x27;s just a $19.99 one time purchase. Hope you like it, feel free to ask any questions, technical or otherwise! https:&#x2F;&#x2F;sol.fulltimefeline.com\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://sol.fulltimefeline.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49541112",
+    "createdAt": "2026-09-02T19:40:12.391Z"
+  },
+  {
+    "slug": "stealthos-an-ios-privacy-sandbox-with-local-ai-and-tor-hn",
+    "title": "StealthOS, an iOS privacy sandbox with local AI and Tor",
+    "shortDescription": "Проект «StealthOS, an iOS privacy sandbox with local AI and Tor», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «StealthOS, an iOS privacy sandbox with local AI and Tor», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.stealthos.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49541092",
+    "createdAt": "2026-09-02T19:40:12.391Z"
+  },
+  {
+    "slug": "i-built-a-version-of-omarchy-that-runs-on-apple-silicon-hn",
+    "title": "I built a version of Omarchy that runs on Apple Silicon",
+    "shortDescription": "I wanted to try out Omarchy before doing a full install, but I only have an M series MacBook so I would have to find a laptop and there&#x2…",
+    "fullDescription": "I wanted to try out Omarchy before doing a full install, but I only have an M series MacBook so I would have to find a laptop and there&#x27;s no official M support yet. So I decided to create something that allows people to test and run Omarchy on their devices so they can understand how it feels. So I built an app that allows you to run Omarchy Quattro as a native, hardware-accelerated app on your Apple Silicon Mac! It uses QEMU and Apple&#x27;s HVF, a custom built Omarchy ARM image, a swift app enclosing it, and custom patches on Omarchy, QEMU, Hyprland and more. I tried many things, and this approach achieved the best results. The native keyboard experience with Super shortcuts works very well, along with all the rest. It supports any resolution (fixed ratio), retina or non retina displays, audio input &#x2F; output devices, shared clipboard, and many other features. Since it runs on top of macOS, native features like universal clipboard and AirPods work smoothly. It takes ~3min to install, works the same as any other standard macOS app. The whole project is open source, so feel free it check it out on GitHub, install, PRs, etc.\n\nНайдено в разделе Show HN на Hacker News. 👍 12 баллов.",
+    "url": "https://github.com/themartiano/try-omarchy",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49539913",
+    "createdAt": "2026-09-02T19:40:12.391Z"
+  },
+  {
+    "slug": "ai-native-boilerplate-170-rules-that-stop-llms-from-drifting-hn",
+    "title": "AI-Native Boilerplate – 170+ rules that stop LLMs from drifting.",
+    "shortDescription": "Проект «AI-Native Boilerplate – 170+ rules that stop LLMs from drifting.», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI-Native Boilerplate – 170+ rules that stop LLMs from drifting.», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/SrikanthVemulapally/ai-native-boilerplate",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49539866",
+    "createdAt": "2026-09-02T19:40:12.391Z"
+  },
+  {
+    "slug": "i-built-stardew-valley-but-you-pay-for-everything-hn",
+    "title": "I built Stardew Valley but you pay for everything",
+    "shortDescription": "You can buy land, build stuff, market your projects. I plan on integrating your AI agents onto it. Any ideas on where this project could go?",
+    "fullDescription": "You can buy land, build stuff, market your projects. I plan on integrating your AI agents onto it. Any ideas on where this project could go?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://pixelhof.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49539519",
+    "createdAt": "2026-09-02T19:40:12.391Z"
+  },
+  {
     "slug": "ghostpkg-github-2",
     "title": "ghostpkg",
     "shortDescription": "Catch AI-hallucinated package names before you install them",
