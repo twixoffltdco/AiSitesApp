@@ -1,5 +1,141 @@
 [
   {
+    "slug": "idexal-agents-ai-web-ui-github",
+    "title": "idexal-Agents-AI-Web-UI",
+    "shortDescription": "🚀 idexla Agents AI Web UI — Free OpenSource AI-powered IDE | Everything-is-a-plugin • Built on Cordis • 100% Free Forever • by Zakariae La…",
+    "fullDescription": "🚀 idexla Agents AI Web UI — Free OpenSource AI-powered IDE | Everything-is-a-plugin • Built on Cordis • 100% Free Forever • by Zakariae Lahbabi\n\nАвтор: idexal. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://idexal.com",
+    "category": "productivity",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-agent",
+      "automation",
+      "cordis",
+      "developer-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1354234614",
+    "createdAt": "2026-09-02T07:36:30.419Z"
+  },
+  {
+    "slug": "blue-whale-agent-github",
+    "title": "blue-whale-agent",
+    "shortDescription": "大肥鱼：桌面小鲸鱼，显示 LLM 余额，支持 Codex/本地/云端对话、本地委派分流、文件处理与本地生图。不绑定特定模型，可接任意 OpenAI 兼容接口。",
+    "fullDescription": "大肥鱼：桌面小鲸鱼，显示 LLM 余额，支持 Codex/本地/云端对话、本地委派分流、文件处理与本地生图。不绑定特定模型，可接任意 OpenAI 兼容接口。\n\nАвтор: whiteball-shiro. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/whiteball-shiro/blue-whale-agent",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-chat",
+      "always-on-top",
+      "comfyui",
+      "deepseek",
+      "desktop-pet",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1353732923",
+    "createdAt": "2026-09-02T07:36:30.420Z"
+  },
+  {
+    "slug": "deep-narrative-engine-github",
+    "title": "deep-narrative-engine",
+    "shortDescription": "深度-叙事引擎是一个全程由AI 驱动的成人内容创作桌面工具（Electron + JavaScript）。以角色卡为核心：可用 AI 生成、或从小说提取角色，再借助大模型创作成人虚构内容。 AI-driven adult content creation desktop too…",
+    "fullDescription": "深度-叙事引擎是一个全程由AI 驱动的成人内容创作桌面工具（Electron + JavaScript）。以角色卡为核心：可用 AI 生成、或从小说提取角色，再借助大模型创作成人虚构内容。 AI-driven adult content creation desktop tool (Electron + JavaScript). Character-card-centric: generate or extract characters via AI, then craft adult fiction with an LLM.\n\nАвтор: 2540581291. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/2540581291/deep-narrative-engine",
+    "category": "ai-tool",
+    "tags": [
+      "adult-contents",
+      "ai",
+      "character-card",
+      "erotica",
+      "llm",
+      "nsfwjs",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1352030337",
+    "createdAt": "2026-09-02T07:36:30.420Z"
+  },
+  {
+    "slug": "ai-wallpaper-renamer-github",
+    "title": "AI-Wallpaper-Renamer",
+    "shortDescription": "A lightweight local tool that uses Qwen3.5-2B and llama.cpp to analyze wallpaper images and generate clean, descriptive filenames.",
+    "fullDescription": "A lightweight local tool that uses Qwen3.5-2B and llama.cpp to analyze wallpaper images and generate clean, descriptive filenames.\n\nАвтор: AhmadJeddi. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/AhmadJeddi/AI-Wallpaper-Renamer",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-tools",
+      "computer-vision",
+      "image-analysis",
+      "image-organization",
+      "image-processing",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1353850739",
+    "createdAt": "2026-09-02T07:36:30.420Z"
+  },
+  {
+    "slug": "1dial-an-ai-you-can-calltext-to-get-real-world-tasks-done-hn",
+    "title": "1Dial, an AI you can call/Text to get real-world tasks done",
+    "shortDescription": "I built 1Dial because LLMs have become great at telling you what to do, but I still find myself making calls, waiting on hold, finding appo…",
+    "fullDescription": "I built 1Dial because LLMs have become great at telling you what to do, but I still find myself making calls, waiting on hold, finding appointments, getting quotes, etc. With 1Dial, you call or text one number and tell it what you need. It can search, call businesses, follow up and coordinate the task. We&#x27;ve processed about 100+ tasks in our early beta so far. 81% were completed better than what a human would have done. You can try it at 1-844-440-3463 (Call or Text). Would particularly love feedback on where this breaks and whether you&#x27;d trust something like this, when and for what you want to use this.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.1dial.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49531946",
+    "createdAt": "2026-09-02T07:36:30.249Z"
+  },
+  {
+    "slug": "orchestrate-frontier-ais-on-the-subscriptions-you-already-pay-for-hn",
+    "title": "Orchestrate frontier AIs on the subscriptions you already pay for",
+    "shortDescription": "Проект «Orchestrate frontier AIs on the subscriptions you already pay for», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Orchestrate frontier AIs on the subscriptions you already pay for», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/PolyHelper/C1",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49531929",
+    "createdAt": "2026-09-02T07:36:30.249Z"
+  },
+  {
+    "slug": "markdown-gatekeeper-one-current-source-per-topic-for-ai-agents-hn",
+    "title": "Markdown Gatekeeper – one current source per topic for AI agents",
+    "shortDescription": "Проект «Markdown Gatekeeper – one current source per topic for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Markdown Gatekeeper – one current source per topic for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/nanlogic/markdown-gatekeeper",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49531156",
+    "createdAt": "2026-09-02T07:36:30.249Z"
+  },
+  {
     "slug": "ghostpkg-github",
     "title": "ghostpkg",
     "shortDescription": "Catch AI-hallucinated package names before you install them",
