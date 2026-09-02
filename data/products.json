@@ -1,5 +1,158 @@
 [
   {
+    "slug": "ghostpkg-github-2",
+    "title": "ghostpkg",
+    "shortDescription": "Catch AI-hallucinated package names before you install them",
+    "fullDescription": "Catch AI-hallucinated package names before you install them\n\nАвтор: M1rwana12. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://pypi.org/project/ghostpkg/",
+    "category": "developer",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "ai-security",
+      "cli",
+      "dependencies",
+      "dependency-management",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1353545090",
+    "createdAt": "2026-09-02T16:58:31.483Z"
+  },
+  {
+    "slug": "react-native-executorch-gallery-github",
+    "title": "react-native-executorch-gallery",
+    "shortDescription": "On-device AI showcase app for React Native ExecuTorch - computer vision, LLMs, speech transcription & more.",
+    "fullDescription": "On-device AI showcase app for React Native ExecuTorch - computer vision, LLMs, speech transcription & more.\n\nАвтор: software-mansion-labs. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://executorch.swmansion.com/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "on-device-ai",
+      "react-native",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1354200956",
+    "createdAt": "2026-09-02T16:58:31.483Z"
+  },
+  {
+    "slug": "seasonality-screener-that-shows-you-which-patterns-are-real-hn",
+    "title": "Seasonality screener that shows you which patterns are real",
+    "shortDescription": "Проект «Seasonality screener that shows you which patterns are real», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Seasonality screener that shows you which patterns are real», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://ninethirty.ai/screener/seasonality/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49538942",
+    "createdAt": "2026-09-02T16:58:31.349Z"
+  },
+  {
+    "slug": "otakush-ai-roleplay-client-hn",
+    "title": "Otaku.sh – AI Roleplay Client",
+    "shortDescription": "Проект «Otaku.sh – AI Roleplay Client», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Otaku.sh – AI Roleplay Client», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://otaku.sh",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49536921",
+    "createdAt": "2026-09-02T16:58:31.349Z"
+  },
+  {
+    "slug": "flawd-is-mutation-testing-for-the-ai-era-hn",
+    "title": "Flawd is mutation testing for the AI era",
+    "shortDescription": "Hey, all! Flawd is a mutation testing tool that can target five languages (Python, JS, TS, Go, Rust) and it runs locally as a single binary…",
+    "fullDescription": "Hey, all! Flawd is a mutation testing tool that can target five languages (Python, JS, TS, Go, Rust) and it runs locally as a single binary on your machine. Importantly (for many), your code never leaves your machine and all processing takes place directly on your dev box or CI runner. Mutation testing is a process in which faults (known as mutants) are intentionally injected into your codebase, tests are run and any faults which are not detected by your tests are known as survivors (or surviving mutants). Survivors can often indicate that your test assertions are not focused on expected behavior or might be missing altogether. Whereas code coverage can tell you which code was exercised during a test run, mutation testing can provide some insight regarding the strength of the assertions and whether or not certain classes of bugs would be caught. With increasingly more code and tests being authored by coding agents, it seemed like a good time to build a tool like this. Mutation testing is not new, but many of the tools are either single-language specific or haven’t been designed with an agentic workflow in mind, so those are itches we wanted to scratch. Models continue to become more powerful and effective, but at some point there is still a “who watches the watchmen” scenario and we hope Flawd can provide one check towards that balance. We recently ran Flawd against 10 established open source projects and you can find the full writeup here: https:&#x2F;&#x2F;fixture.dev&#x2F;writing&#x2F;we-mutation-tested-10-projects Also, you can see what a sample report looks like here: https:&#x2F;&#x2F;fixture.dev&#x2F;flawd&#x2F;sample-report . Flawd can also generate machine readable reports that can be handed off to coding agents for test strengthening tasks. Feel free to ask my anything about Flawd and thanks for having a look!\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://fixture.dev/flawd",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49536607",
+    "createdAt": "2026-09-02T16:58:31.349Z"
+  },
+  {
+    "slug": "heidesdeterministic-code-harness-giving-ai-agents-senses-and-judgment-hn",
+    "title": "Heides,deterministic code harness giving AI agents senses and judgment",
+    "shortDescription": "Проект «Heides,deterministic code harness giving AI agents senses and judgment», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Heides,deterministic code harness giving AI agents senses and judgment», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/AbduljabbarBXR/heides",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49536322",
+    "createdAt": "2026-09-02T16:58:31.350Z"
+  },
+  {
+    "slug": "open-protocol-for-ai-agents-to-discover-negotiate-and-pay-each-other-hn",
+    "title": "Open protocol for AI agents to discover, negotiate, and pay each other",
+    "shortDescription": "Проект «Open protocol for AI agents to discover, negotiate, and pay each other», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Open protocol for AI agents to discover, negotiate, and pay each other», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/bizswarm44-coder/aether-protocol",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49536315",
+    "createdAt": "2026-09-02T16:58:31.350Z"
+  },
+  {
+    "slug": "serverless-reverse-geocoding-for-webmcp-esp32-and-rp2040-hn",
+    "title": "Serverless reverse geocoding for WebMCP, ESP32, and RP2040",
+    "shortDescription": "I built Galuchat, a compact reverse-geocoding system that works without an external geocoding server or API. The same basic approach can be…",
+    "fullDescription": "I built Galuchat, a compact reverse-geocoding system that works without an external geocoding server or API. The same basic approach can be used in: Browsers WebMCP ESP32 RP2040 &#x2F; RP2350 JavaScript &#x2F; C++ &#x2F; Java &#x2F; Python The basic idea is to store the administrative-boundary data locally and perform the lookup directly on the device, instead of sending every coordinate to an external API. Rather than storing the original polygon data as-is, Galuchat converts administrative regions into a very large raster segmentation image. The raster uses resolutions ranging from roughly 10 m to 1 km per pixel. It is then compressed into a binary representation small enough to be embedded in MCU flash or downloaded as a single dataset by a browser. Some actual dataset sizes are: Japan-wide administrative boundaries ~1.1 km resolution: ~52 KiB ~111 m resolution: ~479 KiB ~11 m resolution: ~4.47 MiB Place-name dictionary: ~31 KiB Worldwide administrative boundaries ~1.1 km resolution: ~2.81 MiB ~111 m resolution: ~20.45 MiB Place-name dictionary: ~561 KiB Japan-wide administrative + town-block &#x2F; small-area data ~11 m resolution: ~24.07 MiB Place-name dictionary: ~1.66 MiB Total: about 26 MiB This makes several kinds of use possible: Embedding a Japan-wide administrative-area dataset of only tens or hundreds of KiB directly into a small MCU Running more detailed offline reverse geocoding on ESP32-class devices with larger flash Downloading a worldwide dataset once in a browser and then processing large numbers of coordinates locally without external API calls Using the detailed Japan dataset to resolve locations below the municipality level entirely inside the browser For example, a GPS-enabled embedded device can determine the administrative area for its current latitude and longitude without Wi-Fi or cellular connectivity. The same applies in a browser. Once the GIS dataset has been loaded, individual coordinates do not need to be sent to an external service. Large GPS logs can therefore be processed locally without per-request API calls or service rate limits. This means that even worldwide administrative-boundary data can be embedded in MCU flash or downloaded into a browser and queried locally. WebMCP can use the same local dataset as well, so an AI agent can call the reverse geocoder directly inside the browser without relying on an external geocoding service. Demo and documentation: https:&#x2F;&#x2F;nyatla.github.io&#x2F;galuchat&#x2F; Source: https:&#x2F;&#x2F;github.com&#x2F;nyatla&#x2F;galuchat-gis-sdk I originally started this project as an experiment to see how small a practical geographic lookup dataset could be made. It eventually became small enough to run on microcontrollers, so I extended the same approach to browsers and WebMCP as well.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://nyatla.github.io/galuchat/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49535465",
+    "createdAt": "2026-09-02T16:58:31.350Z"
+  },
+  {
+    "slug": "local-personal-financial-assistant-hn",
+    "title": "Local Personal Financial Assistant",
+    "shortDescription": "I built an IOS personal financial app to help user analyze their financial situation. User can easily import their bank statement from thei…",
+    "fullDescription": "I built an IOS personal financial app to help user analyze their financial situation. User can easily import their bank statement from their banking app, CFO(this app) will analyze and show charts by categories, find potential wrong items like duplicated charges, inactive subscription, higher loan rate than the market. Your can easily ask AI to explain the result or give you a review. You can ask your CFO: 1. &quot;Hi Ling, why my loan rate is been highlighted? Can I get a better one from bank? 2. &quot;Can you draft an email to Air Canada for the duplicated charge?&quot; CFO is a sub app under Linggen, find more on its .dev website.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://apps.apple.com/us/app/linggen/id6798304906",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49535300",
+    "createdAt": "2026-09-02T16:58:31.350Z"
+  },
+  {
     "slug": "subpool-github",
     "title": "subpool",
     "shortDescription": "  A lightweight, self-hosted AI subscription pool for teams.",
