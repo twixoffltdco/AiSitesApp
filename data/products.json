@@ -1,5 +1,113 @@
 [
   {
+    "slug": "flowkit-github",
+    "title": "flowkit",
+    "shortDescription": "Build, run, and manage your n8n workflows.",
+    "fullDescription": "Build, run, and manage your n8n workflows.\n\nАвтор: R3DRUN3. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/R3DRUN3/flowkit",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "automation",
+      "devops",
+      "docker",
+      "n8n",
+      "orchestration",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1354510313",
+    "createdAt": "2026-09-03T09:26:31.827Z"
+  },
+  {
+    "slug": "skywalking-ai-sessionizer-github",
+    "title": "skywalking-ai-sessionizer",
+    "shortDescription": "Apache SkyWalking AI Sessionizer - conversation-level observability for long-lived AI agents",
+    "fullDescription": "Apache SkyWalking AI Sessionizer - conversation-level observability for long-lived AI agents\n\nАвтор: apache. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://skywalking.apache.org/",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "apm",
+      "claude-code",
+      "llm",
+      "observability",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1355394125",
+    "createdAt": "2026-09-03T09:26:31.827Z"
+  },
+  {
+    "slug": "concorde-one-ai-agent-shared-by-an-organization-hn",
+    "title": "Concorde, one AI agent shared by an organization",
+    "shortDescription": "We built Concorde, an open-source framework giving an organization one shared agent that&#x27;s controlled by a group, rather than just one…",
+    "fullDescription": "We built Concorde, an open-source framework giving an organization one shared agent that&#x27;s controlled by a group, rather than just one person. This is pretty cool because shared agents can bring us closer to single entities doing what took a whole organization to do, kind of moving us in the direction of the trend of the rise of the solo founder. Saying that entire organisations could be just 1 agent might sound sort of anti-democratic, but this is the reality of where things are already heading. The &quot;organisation&quot; only exists because humans hold limited context. agents don&#x27;t have that limit. Corncorde changes that by allowing everyone to interact with the same agent the same way, and it builds a common history. By making this power structure explicit, we can set up shared agents more intentionally and via guardrails, governance, TEEs, zkml and other tech, we&#x27;ll get the best of both worlds: - extreme efficiency and coherence in action from it being one entity - accountability, transparency, representation of diverse opinions no member owns it, none can reach it privately Concord is alpha, get in touch if you&#x27;d like to launch a shared agent! We also posted an X thread and blog post about it https:&#x2F;&#x2F;x.com&#x2F;ShutterNetwork&#x2F;status&#x2F;2095090562785587490 https:&#x2F;&#x2F;blog.shutter.network&#x2F;concorde-a-framework-for-shared... Prior blog post exploring the shared agents space more generally: https:&#x2F;&#x2F;blog.shutter.network&#x2F;on-shared-agents&#x2F; Would be very interested in feedback on where this shared agent model breaks down, compared to other multi agent organizations.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/shutter-network/concorde",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49547699",
+    "createdAt": "2026-09-03T09:26:31.586Z"
+  },
+  {
+    "slug": "radio-bench-cross-platform-unified-amateur-radio-workspace-hn",
+    "title": "Radio Bench cross platform unified amateur radio workspace",
+    "shortDescription": "I built a cross platform amateur radio program using the egui framework. It was originally built as quite frankly I got annoyed with having…",
+    "fullDescription": "I built a cross platform amateur radio program using the egui framework. It was originally built as quite frankly I got annoyed with having so many different programs installed to listen to and send radio signals. If you have a cheap SDR radio dongle like the RTL based ones or even better an AirspyHF+ Discovery laying around then give radio bench a try. Bonus points if you are a licensed ham and have a transceiver. The key idea behind the software is to have a much more realistic and calm workspace for making contacts. The all singing, all dancing programs with the windows 95 style ui are just not that fun to use. You get used to them, and even tolerate them, but there is a better way! And to that end I tried to something about it. I adopted the &quot;if I were going to live on a mountain-top and could only have one radio program, what would it be&quot; approach. I think I heard that from Rick Rubin, or some other video short. FSK mode (for FT8&#x2F;FT4) is currently in the pipeline. You can run the program for 14 days free, there is no account&#x2F;email. Honestly if you send some feedback I can extend your trial. If the feedback is good I&#x27;ll sling you a free copy. I&#x27;m not even sure the pricing is about right.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://radiobench.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49547577",
+    "createdAt": "2026-09-03T09:26:31.586Z"
+  },
+  {
+    "slug": "openhelper-ai-chatbot-the-free-and-open-source-ai-chatbot-hn",
+    "title": "OpenHelper AI Chatbot – The Free and Open Source AI Chatbot",
+    "shortDescription": "Проект «OpenHelper AI Chatbot – The Free and Open Source AI Chatbot», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «OpenHelper AI Chatbot – The Free and Open Source AI Chatbot», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://techambient.github.io/HybridAI/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49547229",
+    "createdAt": "2026-09-03T09:26:31.586Z"
+  },
+  {
+    "slug": "profound-academy-an-agentic-course-builder-for-hands-on-courses-hn",
+    "title": "Profound Academy – an agentic course builder for hands-on courses",
+    "shortDescription": "I built an AI course builder that helps you create hands-on course materials, interactive tutorials, exercises, and automatically checks th…",
+    "fullDescription": "I built an AI course builder that helps you create hands-on course materials, interactive tutorials, exercises, and automatically checks the work submitted by students. It should feel like Claude Code or Codex for building courses. Most AI course generators stop after producing a syllabus or a collection of text. I wanted the agent to work on the actual course. After giving it a prompt, learning objectives, or a syllabus, the course builder can create and edit: - Modules, lessons, and learning paths - Coding, SQL, multiple-choice, checkbox, and written exercises - Starter code, public examples, hidden tests, and custom checkers - Solutions, editorials, hints, and grading rubrics - Projects, quizzes, and exams - Translations to different languages - Interactive HTML artifacts inside descriptions to make learning more fun It requires an account, but new accounts receive credits to try the builder. Looking forward to your comments and feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://profound.academy",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49547037",
+    "createdAt": "2026-09-03T09:26:31.586Z"
+  },
+  {
     "slug": "medray-workspace-v2-github",
     "title": "medray-workspace-v2",
     "shortDescription": "MedRay v2 is research, education, and prototyping software. It is not a medical device, diagnostic system, PACS, RIS, or emergency-triage t…",
