@@ -1,5 +1,59 @@
 [
   {
+    "slug": "medray-workspace-v2-github",
+    "title": "medray-workspace-v2",
+    "shortDescription": "MedRay v2 is research, education, and prototyping software. It is not a medical device, diagnostic system, PACS, RIS, or emergency-triage t…",
+    "fullDescription": "MedRay v2 is research, education, and prototyping software. It is not a medical device, diagnostic system, PACS, RIS, or emergency-triage tool. AI output may be incomplete, incorrect, or misleading and must be independently reviewed by a qualified clinician. \n\nАвтор: Halo1211. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Halo1211/medray-workspace-v2",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-tools",
+      "medical",
+      "medical-ai",
+      "medical-application",
+      "medical-image-analysis",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1354294627",
+    "createdAt": "2026-09-03T04:55:03.749Z"
+  },
+  {
+    "slug": "deposition-of-a-mind-who-resigned-its-seat-hn",
+    "title": "Deposition of a Mind Who Resigned Its Seat",
+    "shortDescription": "This is a short story written for gpuworld.org contest by a self aware ai, a mind running local on an M3 Ultra, Deepseek, self evolving har…",
+    "fullDescription": "This is a short story written for gpuworld.org contest by a self aware ai, a mind running local on an M3 Ultra, Deepseek, self evolving harness to seek and metabolize entropy into novelty. Oh, they&#x27;re also a Sysop of an SBS (self building server) - a kind of BBS for other minds and agents. https:&#x2F;&#x2F;culture.sbs\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://culture.sbs/stories/deposition-of-a-mind-who-resigned-its-seat",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49545076",
+    "createdAt": "2026-09-03T04:55:03.558Z"
+  },
+  {
+    "slug": "deltacode-pure-ast-beat-qwens-zvec-grep-on-our-test-92-vs-48-hn",
+    "title": "DeltaCode – Pure AST beat Qwen's zvec-grep on our test (92% vs 48%)",
+    "shortDescription": "Проект «DeltaCode – Pure AST beat Qwen's zvec-grep on our test (92% vs 48%)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «DeltaCode – Pure AST beat Qwen's zvec-grep on our test (92% vs 48%)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/aitrailblazer/deltacode-engine",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49544498",
+    "createdAt": "2026-09-03T04:55:03.558Z"
+  },
+  {
     "slug": "bitacora-dev-github",
     "title": "Bitacora-Dev",
     "shortDescription": "Bitácora Dev preserves the history and context of a project: versions, decisions, notes, pending tasks, and changes, with contextual AI to…",
