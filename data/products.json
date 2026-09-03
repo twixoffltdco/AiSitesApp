@@ -1,5 +1,91 @@
 [
   {
+    "slug": "openmasq-github",
+    "title": "openmasq",
+    "shortDescription": "Privacy-first desktop chat for multiple LLMs: sensitive values are redacted on-device before any network call, and restored in the reply. Y…",
+    "fullDescription": "Privacy-first desktop chat for multiple LLMs: sensitive values are redacted on-device before any network call, and restored in the reply. Your own keys, a local model, or a CLI subscription.\n\nАвтор: openmasq. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://openmasq.com",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "anonymization",
+      "chat",
+      "chatgpt",
+      "data-protection",
+      "desktop-app",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1353366289",
+    "createdAt": "2026-09-03T20:28:24.263Z"
+  },
+  {
+    "slug": "aidcrew-a-team-of-coding-agents-each-on-its-own-model-in-one-terminal-hn",
+    "title": "Aidcrew a team of coding agents, each on its own model, in one terminal",
+    "shortDescription": "Проект «Aidcrew a team of coding agents, each on its own model, in one terminal», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Aidcrew a team of coding agents, each on its own model, in one terminal», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/antoniociccia/aidcrew",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49555941",
+    "createdAt": "2026-09-03T20:28:24.173Z"
+  },
+  {
+    "slug": "aidemovideo-turn-website-into-a-product-demo-video-in-one-click-hn",
+    "title": "AIDemo.Video – turn website into a product demo video in one click",
+    "shortDescription": "Hi, Ryan here, excited to finally publicly show it to public a tool to make a product or SaaS demo video explainer. Just fill your website,…",
+    "fullDescription": "Hi, Ryan here, excited to finally publicly show it to public a tool to make a product or SaaS demo video explainer. Just fill your website, and AI will generate the product explainer video https:&#x2F;&#x2F;aidemo.video Let me know what you think or if you have any questions, thanks HN *PS: not exactly a one click, sorry...\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.aidemo.video/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49555384",
+    "createdAt": "2026-09-03T20:28:24.174Z"
+  },
+  {
+    "slug": "addom-open-source-telemetry-free-ai-coding-harness-and-editor-hn",
+    "title": "Addom – Open-source, telemetry-free AI coding harness and editor",
+    "shortDescription": "I started this project six months ago. While the market already had decent AI harnesses, none of them felt like they had what I actually ne…",
+    "fullDescription": "I started this project six months ago. While the market already had decent AI harnesses, none of them felt like they had what I actually needed. What began as a simple, minimalist tool quickly grew into one of my most ambitious projects. I started with basic tool calling and streaming, but that wasn&#x27;t enough. I wanted a full-fledged application where I could build my own apps and that required testing and maturity. I needed local artifacts where I could easily revert unwanted file changes, an editor to view and modify project files directly, a memory tab to review past prompts and code changes, and a practical agent system with skills so I wouldn&#x27;t have to rewrite files just to add roles. Nothing about ADDOM is perfect, but it&#x27;s a solid foundation. It&#x27;s been a lot of fun to play with. It’s MIT-licensed, open to contributions, and I hope you like it. Thanks for taking the time to read this. Happy coding! Check it out at https:&#x2F;&#x2F;www.addom.app&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/JosPMSilva/ADDOM",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49554268",
+    "createdAt": "2026-09-03T20:28:24.174Z"
+  },
+  {
+    "slug": "mesaos-an-operating-system-written-from-scratch-in-rust-hn",
+    "title": "MesaOS – An operating system written from scratch in Rust",
+    "shortDescription": "Hello! I&#x27;m a student from Spain and I&#x27;m the creator of MesaOS, an open-source operating system written from scratch in Rust for x…",
+    "fullDescription": "Hello! I&#x27;m a student from Spain and I&#x27;m the creator of MesaOS, an open-source operating system written from scratch in Rust for x86_64. I&#x27;ve been working on it mostly by myself. MesaOS currently has: A hybrid kernel Preemptive multitasking A Linux driver shim with 400+ exported kernel symbols (still in development) HDA audio and WAV streaming A shell with around 82 commands VFS, RamFS and persistent initrd File persistence through automatic folder-to-ISO injection SMP &#x2F; multicore support xHCI &#x2F; USB 3.0 support It works on QEMU and on my HP 15s-eq2xxx laptop. Some of the things I&#x27;m currently working on are USB storage, TCP, Wi-Fi and more hardware support. Wi-Fi is one of the harder problems for me right now. My laptop uses a Realtek RTL8822CE, and there isn&#x27;t much information available about it. The project is still very much a work in progress, but I&#x27;ve reached a point where I would like to have other people working on it with me. I&#x27;m especially interested in people who like operating systems, kernels, drivers, networking, Rust or low-level programming. I&#x27;m also transparent about using AI during development. The source code is generated using language models based on my instructions. I handle the architecture design, debugging, hardware testing and integration myself. There is also an English&#x2F;Spanish Discord server for the project if anyone wants to discuss development or contribute. Discord: https:&#x2F;&#x2F;discord.gg&#x2F;sEaB7KAwtr\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/crackanimad0r/MesaOS",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49553980",
+    "createdAt": "2026-09-03T20:28:24.174Z"
+  },
+  {
     "slug": "mcp-tool-definition-quality-score-tdqs-spec-hn",
     "title": "MCP Tool Definition Quality Score (TDQS) Spec",
     "shortDescription": "Hey everyone, You may know me because of my Open-Source work like awesome-mcp-servers, FastMCP (node.js), ViteMCP, mcp-proxy, mcp-remote, a…",
