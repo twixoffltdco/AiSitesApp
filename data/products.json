@@ -1,5 +1,81 @@
 [
   {
+    "slug": "bitacora-dev-github",
+    "title": "Bitacora-Dev",
+    "shortDescription": "Bitácora Dev preserves the history and context of a project: versions, decisions, notes, pending tasks, and changes, with contextual AI to…",
+    "fullDescription": "Bitácora Dev preserves the history and context of a project: versions, decisions, notes, pending tasks, and changes, with contextual AI to understand and analyze its evolution directly from the browser. It also includes a purely administrative, optional feature (you don’t need AI to use it).\n\nАвтор: filonux. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://filonux.github.io/Bitacora-Dev/",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "browser-app",
+      "css",
+      "developer-tools",
+      "gplv3",
+      "html",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1355246079",
+    "createdAt": "2026-09-03T00:29:11.624Z"
+  },
+  {
+    "slug": "agent-skills-github-2",
+    "title": "Agent-Skills",
+    "shortDescription": "Production-grade AI agent instructions written from a engineer's perspective.",
+    "fullDescription": "Production-grade AI agent instructions written from a engineer's perspective.\n\nАвтор: vorlaxen-labs. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/vorlaxen-labs/Agent-Skills",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "agent-md",
+      "agent-skill",
+      "agent-skills",
+      "ai",
+      "ai-agents",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1355181256",
+    "createdAt": "2026-09-03T00:29:11.624Z"
+  },
+  {
+    "slug": "coos-desktop-app-where-an-agent-builds-your-crmerp-as-local-plugins-hn",
+    "title": "CoOS – desktop app where an agent builds your CRM/ERP as local plugins",
+    "shortDescription": "Проект «CoOS – desktop app where an agent builds your CRM/ERP as local plugins», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «CoOS – desktop app where an agent builds your CRM/ERP as local plugins», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://pirol.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49543931",
+    "createdAt": "2026-09-03T00:29:11.403Z"
+  },
+  {
+    "slug": "every-ai-agrees-with-you-this-writes-your-startups-obituary-instead-hn",
+    "title": "Every AI agrees with you. This writes your startup's obituary instead",
+    "shortDescription": "Проект «Every AI agrees with you. This writes your startup's obituary instead», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Every AI agrees with you. This writes your startup's obituary instead», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 8 баллов.",
+    "url": "https://theyfell.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49543617",
+    "createdAt": "2026-09-03T00:29:11.403Z"
+  },
+  {
     "slug": "sbpy-github",
     "title": "sbpy",
     "shortDescription": "Local-first Python error fixing & AI diagnostics, with Gemini as the last resort",
