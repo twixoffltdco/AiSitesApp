@@ -1,5 +1,273 @@
 [
   {
+    "slug": "ai-api-pricing-github",
+    "title": "ai-api-pricing",
+    "shortDescription": "Compare AI API pricing for text, image, and video models: token costs, model IDs, endpoints, and reproducible rankings.",
+    "fullDescription": "Compare AI API pricing for text, image, and video models: token costs, model IDs, endpoints, and reproducible rankings.\n\nАвтор: mialucy-eng. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://luckyapi.online/en/pricing?utm_source=github&utm_medium=repository&utm_campaign=ai_api_pricing&utm_content=repo_homepage",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "anthropic-api",
+      "api",
+      "api-pricing",
+      "gemini-api",
+      "grok-api",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1355794653",
+    "createdAt": "2026-09-03T13:46:19.817Z"
+  },
+  {
+    "slug": "hyperliquid-ai-signal-bot-github",
+    "title": "hyperliquid-ai-signal-bot",
+    "shortDescription": "hyperliquid-ai-signal-trading-bot hyperliquid-ai-signal-trading-bot hyperliquid-ai-signal-trading-bot hyperliquid-ai-signal-trading-bot hyp…",
+    "fullDescription": "hyperliquid-ai-signal-trading-bot hyperliquid-ai-signal-trading-bot hyperliquid-ai-signal-trading-bot hyperliquid-ai-signal-trading-bot hyperliquid-ai-signal-trading-bot hyperliquid-ai-signal-trading-bot hyperliquid-ai-signal-trading-bot hyperliquid-ai-signal-trading-bot hyperliquid-ai-signal-trading-bot hyperliquid-ai-signal-trading-bot \n\nАвтор: picotts544. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/picotts544/hyperliquid-ai-signal-bot",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-signal",
+      "ai-signal-bot",
+      "bot",
+      "hyperliquid",
+      "hyperliquid-ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1353406658",
+    "createdAt": "2026-09-03T13:46:19.817Z"
+  },
+  {
+    "slug": "dumbdetector-community-signals-for-ai-tool-problems-hn",
+    "title": "DumbDetector – Community signals for AI tool problems",
+    "shortDescription": "Проект «DumbDetector – Community signals for AI tool problems», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «DumbDetector – Community signals for AI tool problems», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://dumbdetector.net/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49549817",
+    "createdAt": "2026-09-03T13:46:19.688Z"
+  },
+  {
+    "slug": "litelink-local-first-embedded-stream-capture-into-iceberg-tables-hn",
+    "title": "Litelink – local-first, embedded stream capture into Iceberg tables",
+    "shortDescription": "Show HN: litelink - local-first, embedded stream capture into Iceberg tables Hi HN! I just wanted to share litelink a local-first, embedded…",
+    "fullDescription": "Show HN: litelink - local-first, embedded stream capture into Iceberg tables Hi HN! I just wanted to share litelink a local-first, embedded capture library I built in python (code is heavily AI generated but designed and reviewed by yours truly). Litelink supports a single writer per stream. I&#x27;ve been doing a lot of development and deployments on tiny VMs (2 vCPU, 8GB, 50-100GB disk) and didn&#x27;t want the complexity or cost of managing central brokers (Kafka), databases (Postgres), and CDC&#x2F;connectors just to get queryable WebSocket stream capture running. With litelink, you configure a log in code, and end-to-end setup takes &lt;5 minutes (see the example scripts in the repo). The log is itself an Iceberg table (actually two: a local and archive table), so there&#x27;s no second copy of your data to keep in sync or connector to manage. I&#x27;m sure there are still bugs, but I recently migrated all the capture feeds for a personal research project to litelink, and the experience has been night and day. Before that, I&#x27;d hand-rolled a capture system and was dealing with all the issues you&#x27;d expect: - The small file problem (the worst single stream contained 200,360 files averaging 46 KB some files literally containing zero rows) - Managing compaction and retention - Managing a custom hive-partitioned layout on disk and in S3 - In-memory buffering that cost data on SIGKILL Ingesting data is easy(ish). Maintaining it is not. That&#x27;s exactly why I wrote litelink (so you don&#x27;t have to think about maintenance). I&#x27;ll post some before&#x2F;after stats in a comment below. Also, the hand-rolled capture wasn&#x27;t actually durable (due to the in-memory buffering) and litelink capture is. You can read about the design and exactly how it works in the docs in the repo. Feel free to ask any questions here though :) I tried to channel the same ethos as LanceDB&#x2F;Iceberg&#x2F;SQLite. Everything runs local first without a network connection required. I&#x27;ve tried to abstract the complexity of stream&#x2F;data lifecycle maintenance away behind a few public library methods. Hopefully someone else finds this useful! Let me know what you think. repo: https:&#x2F;&#x2F;github.com&#x2F;nhobin219&#x2F;litelink spec: https:&#x2F;&#x2F;github.com&#x2F;nhobin219&#x2F;litelink&#x2F;blob&#x2F;main&#x2F;docs&#x2F;SPEC.md pypi: `pip install litelink`\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/nhobin219/litelink",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49549760",
+    "createdAt": "2026-09-03T13:46:19.688Z"
+  },
+  {
+    "slug": "pangolin-sso-and-wireguard-instead-of-api-keys-for-llm-access-hn",
+    "title": "Pangolin – SSO and WireGuard instead of API keys for LLM access",
+    "shortDescription": "You have seen Pangolin ( https:&#x2F;&#x2F;github.com&#x2F;fosrl&#x2F;pangolin ) on here before for our open-source zero-trust network acce…",
+    "fullDescription": "You have seen Pangolin ( https:&#x2F;&#x2F;github.com&#x2F;fosrl&#x2F;pangolin ) on here before for our open-source zero-trust network access suite of tools. We are launching a new AI gateway that takes a different approach to auth. Rather than authenticating requests to AI providers with API keys, it authenticates the network connection itself via a desktop app. Each user gets a WireGuard tunnel back to the gateway, established after they log in through their existing identity provider (Okta, Azure, Google, etc) via a desktop app. That tunnel is the auth, so there is no key to generate, embed, rotate, or leak, because the gateway already knows who&#x27;s on the other end of the connection. Compare that to most AI gateways, which are really just a proxy in front of static bearer tokens you&#x27;d get from OpenAI or Anthropic directly. This tunnel-based approach also means self-hosted and on-prem models aren&#x27;t an afterthought bolted onto the gateway. They work the same way public cloud models do. Drop a lightweight tunnel connector inside your cluster (even a DGX Spark) and it joins the same network, so on-prem models show up in the gateway next to public cloud ones. Users switch between them without changing endpoints or juggling separate credentials for internal infrastructure. For machines or users who can&#x27;t run the desktop client, we still support traditional virtual keys, plus the usual gateway features: session logging, budgets, usage analytics, and governance. It’s fully self-hostable. Community Edition is free for everyone. Enterprise Edition is free for individuals and small businesses. There is also Pangolin Cloud which is fully hosted.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/fosrl/pangolin",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49549747",
+    "createdAt": "2026-09-03T13:46:19.688Z"
+  },
+  {
+    "slug": "openvurp-a-wallet-of-ai-agents-that-use-tools-and-consult-each-other-hn",
+    "title": "Openvurp – A wallet of AI agents that use tools and consult each other",
+    "shortDescription": "Проект «Openvurp – A wallet of AI agents that use tools and consult each other», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Openvurp – A wallet of AI agents that use tools and consult each other», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/openvurp/openvurp",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49549630",
+    "createdAt": "2026-09-03T13:46:19.688Z"
+  },
+  {
+    "slug": "i-measured-resuming-an-ai-coding-session-22897-tokens-vs-1013-hn",
+    "title": "I measured resuming an AI coding session: 22,897 tokens vs. 1,013",
+    "shortDescription": "Проект «I measured resuming an AI coding session: 22,897 tokens vs. 1,013», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I measured resuming an AI coding session: 22,897 tokens vs. 1,013», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://vericommand.net/benchmark",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49549412",
+    "createdAt": "2026-09-03T13:46:19.689Z"
+  },
+  {
+    "slug": "hot-dog-bench-mark-the-ai-benchmark-we-deserve-hn",
+    "title": "Hot. Dog. Bench. Mark. The AI benchmark we deserve",
+    "shortDescription": "Проект «Hot. Dog. Bench. Mark. The AI benchmark we deserve», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Hot. Dog. Bench. Mark. The AI benchmark we deserve», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://hotdogbenchmark.lol/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49549107",
+    "createdAt": "2026-09-03T13:46:19.689Z"
+  },
+  {
+    "slug": "ai-usage-ball-claudecodexantigravity-quota-as-mac-liquid-orbs-hn",
+    "title": "AI Usage Ball – Claude/Codex/Antigravity Quota as Mac Liquid Orbs",
+    "shortDescription": "Проект «AI Usage Ball – Claude/Codex/Antigravity Quota as Mac Liquid Orbs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Usage Ball – Claude/Codex/Antigravity Quota as Mac Liquid Orbs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/aiusageball/ai-usage-ball",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49549084",
+    "createdAt": "2026-09-03T13:46:19.689Z"
+  },
+  {
+    "slug": "flipdot-display-with-an-ai-chat-that-codes-sandboxed-animations-for-it-hn",
+    "title": "Flipdot display with an AI chat that codes sandboxed animations for it",
+    "shortDescription": "Проект «Flipdot display with an AI chat that codes sandboxed animations for it», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Flipdot display with an AI chat that codes sandboxed animations for it», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/mdbug/flipdot",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49549074",
+    "createdAt": "2026-09-03T13:46:19.689Z"
+  },
+  {
+    "slug": "jern-cloud-a-coding-agent-bound-by-a-policy-file-in-your-repository-hn",
+    "title": "Jern Cloud – a coding agent bound by a policy file in your repository",
+    "shortDescription": "Проект «Jern Cloud – a coding agent bound by a policy file in your repository», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Jern Cloud – a coding agent bound by a policy file in your repository», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://jern.ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49548975",
+    "createdAt": "2026-09-03T13:46:19.689Z"
+  },
+  {
+    "slug": "i-built-my-first-mcp-to-manage-google-ads-hn",
+    "title": "I built my first MCP to manage Google Ads",
+    "shortDescription": "My co-founder and I tried running Google Ads for our Shopify store, but we could not get a positive ROAS (we spent 150USD on a single conve…",
+    "fullDescription": "My co-founder and I tried running Google Ads for our Shopify store, but we could not get a positive ROAS (we spent 150USD on a single conversion). As we also could not afford an agency, we turned to AI (IMO Codex &gt;&gt;&gt; Claude Code). We found that Google’s Ads MCP could only read data, but it could not make changes. So we built our own hosted MCP with read and write access. It can inspect performance, find wasted spend, create or update campaigns, and work with Google Analytics and Tag Manager.\n\nНайдено в разделе Show HN на Hacker News. 👍 7 баллов.",
+    "url": "https://adchestra.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49548962",
+    "createdAt": "2026-09-03T13:46:19.689Z"
+  },
+  {
+    "slug": "vantage-one-prioritized-health-action-per-day-from-apple-health-hn",
+    "title": "Vantage – One prioritized health action per day from Apple Health",
+    "shortDescription": "Hello, there. This is Petre, Adrian and Diana and we are building Vantage while maintaining day jobs and poor relationships with sleep. We…",
+    "fullDescription": "Hello, there. This is Petre, Adrian and Diana and we are building Vantage while maintaining day jobs and poor relationships with sleep. We shipped Vantage to the App Store on August 12th and we currently have 24 installs and 9 subscribers - all warm leads - one of them is our accountant. Vantage is an iOS longevity coach built on Apple Health. I have used numerous apps to track nutrition, sleep and workout guidance, my main complaint has always been that there isn’t one that encompasses all these streams, at a level of detail that is sufficient for me So what does Vantage do? It reads your health data and returns one prioritized action per day for each stream: sleep, training and nutrition. Workouts: Training plans are generated from your fitness levels (strength and cardio), either self reported (strength) or read from Apple Health (cardio - based on VO2Max). We have instructional videos filmed professionally with fitness instructors and filming crew Nutrition: Calories and protein are computed, protein from bodyweight, carbs and fat split per user choice, based on preferred diet style. Sleep: up to six ranked tactics running on 31 active rules, refreshed daily based on last night’s sleep data. HRV, resting heart rate and respiratory rate calculated on overnight data So what does Vantage do differently? No streaks, badges and points. No social anything. No feeds, no leaderboards, no comparison. No free coaching tier. Free shows you your HealthKit data exactly as we read it, so you can check what we see before paying anything. The coaching itself costs money, because the coaching is the product, and we did not want to fund it with ads or engagement tricks. What are we proud of? The nutrition model - It is not built on BMI and acts on its decomposition instead: fat mass index sets the size of any deficit, fat-free mass index gates whether a deficit is allowed at all. I “wrote” an article explaining this here (“wrote” because not being a native English speaker, I just drafted the main points and wrote it using an AI agent) https:&#x2F;&#x2F;notes.vantagehealthapp.com&#x2F;p&#x2F;bmi-is-a-sum-not-an-ins... How about what Vantage didn’t solve yet: The lean-mass guard that we put in place cannot detect sarcopenic obesity. The way it works is by not prescribing a calorie deficit when fat-free mass falls below an absolute floor, but the design has a limit - this does not transfer well to heavier bodies, simply because they carry more lean mass just for daily movement. Without a declared waist measurement, body fat falls back to BMI - the equation uses BMI, age and sex - so the composition split that we are so proud of falls back to a partial assumption, rather than observation On how we use the user’s data: deleting your account is a hard delete from all database schemas, including the consent record itself (yes, we may be shooting ourselves in the foot here, but for us, hard delete should be hard delete) There are two things we would like your view on. First, the body classifier ignores any user-supplied body fat figure (which may even be a DEXA scan) and calculates its own estimate. It was implemented this way partly from principle, partly due to other priorities - we figured that very few users will have DEXA scan numbers, and using that number in the classifier would raise issues we chose not to spend time on in v1. We may revisit it. Is that the right call? Second, the sarcopenic-obesity gap. The size-adjusted floor exists (FNIH, ALM&#x2F;BMI), but it needs appendicular lean mass, and as far as I looked, that cannot be computed from waist, height, weight, age and sex. The honest answer here might be a consumer bioimpedance scale, but we cannot ask users to spend money on such devices, if they don’t already have one. If anyone has seen reliable lean-mass estimation methods, we would like the reference. If you would like to try the app, you can find it here: https:&#x2F;&#x2F;apps.apple.com&#x2F;app&#x2F;id6789713982\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.vantagehealthapp.com/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49548903",
+    "createdAt": "2026-09-03T13:46:19.689Z"
+  },
+  {
+    "slug": "oconee-runtime-policy-enforcement-for-browser-ai-and-coding-agents-hn",
+    "title": "Oconee Runtime – Policy enforcement for browser AI and coding agents",
+    "shortDescription": "AI agents are changing the enterprise security boundary. Prompt-level controls are no longer enough when AI can execute commands, modify fi…",
+    "fullDescription": "AI agents are changing the enterprise security boundary. Prompt-level controls are no longer enough when AI can execute commands, modify files, invoke tools, and act against enterprise resources.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.oconeeruntime.com/news/policy-enforcement-for-browser-ai-and-coding-agents",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49548892",
+    "createdAt": "2026-09-03T13:46:19.689Z"
+  },
+  {
+    "slug": "stillmade-programmable-ai-video-pipeline-chat-to-video-now-hn",
+    "title": "StillMade – Programmable AI video pipeline; Chat to video (now)",
+    "shortDescription": "Six months of 7+ hour days building this because video production is still a multi-tool mess. Describe what you want to make and StillMade…",
+    "fullDescription": "Six months of 7+ hour days building this because video production is still a multi-tool mess. Describe what you want to make and StillMade guides you through making it with its tools. I wanted full control without the platform I&#x27;m using holding me back or jumping to another (sometimes paid) tool every time I needed something specific. What I&#x27;m building toward: every step becomes a programmable block. Build any Adobe, Figma or DaVinci feature your video needs, chain them into pipelines and own your workflow. Timely stuff gets streamlined. App is temporarily focused on helping creators stay consistent on YouTube. Takes 10 seconds to start using. Core pipeline works today. Programmable blocks are next. Free up to a certain usage + BYOK for API keys in settings. Even if you spend 30 seconds generating an image or starting a project and tell me anything you thought, that means everything right now. Would you actually use this if programmable blocks were built out? If you try it and give feedback or thoughts on the concept after using, I&#x27;m giving lifetime access (or any perk that becomes important if StillMade keeps growing) to a handful of early users who help shape it. Feel free to ask me anything about StillMade and thanks for having a look!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.stillmade.shop",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49548847",
+    "createdAt": "2026-09-03T13:46:19.689Z"
+  },
+  {
+    "slug": "cut-your-ai-bill-by-a-third-same-tools-same-output-hn",
+    "title": "Cut your AI bill by a third. Same tools, same output",
+    "shortDescription": "Проект «Cut your AI bill by a third. Same tools, same output», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Cut your AI bill by a third. Same tools, same output», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.getfemail.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49548428",
+    "createdAt": "2026-09-03T13:46:19.689Z"
+  },
+  {
     "slug": "flowkit-github",
     "title": "flowkit",
     "shortDescription": "Build, run, and manage your n8n workflows.",
