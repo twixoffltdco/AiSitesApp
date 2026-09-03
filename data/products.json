@@ -1,5 +1,229 @@
 [
   {
+    "slug": "mcp-tool-definition-quality-score-tdqs-spec-hn",
+    "title": "MCP Tool Definition Quality Score (TDQS) Spec",
+    "shortDescription": "Hey everyone, You may know me because of my Open-Source work like awesome-mcp-servers, FastMCP (node.js), ViteMCP, mcp-proxy, mcp-remote, a…",
+    "fullDescription": "Hey everyone, You may know me because of my Open-Source work like awesome-mcp-servers, FastMCP (node.js), ViteMCP, mcp-proxy, mcp-remote, and a few other projects in the MCP ecosystem, including Glama. I was lucky enough to be present when MCP was first announced. That let me to contribute to the foundations of this new protocol and everything that has evolved around it. It also let me to be at the center of a lot of feedback, and by far the biggest complaint about the MCP ecosystem has been the inconsistent quality. Quality here means a lot of things, but server JSON definition is a big part of it. Bad tool definitions mean that tools are not selected when they should be, they are when they shouldn&#x27;t, they are improperly invoked, etc. TDQS is an open-source specification ( https:&#x2F;&#x2F;github.com&#x2F;glama-ai&#x2F;tool-definition-quality-score ) for evaluating the quality of the MCP server definitions. It&#x27;s not a complete solution to the quality problem, but it is a research based rubric that increases clarity over what tools are available, what are their behaviors&#x2F;purpose, and when&#x2F;how they are supposed to be used. TDQS is what Glama uses to score 15,000+ Open-Source and remote MCPs. And https:&#x2F;&#x2F;tdqs.dev is a free website to promote the spec and increase the adoption through better documentation and easy to use playground&#x2F;CLI&#x2F;API&#x2F;SDKs. Would love your feedback and participation in improving the quality of the MCP ecosystem.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://tdqs.dev",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49553343",
+    "createdAt": "2026-09-03T17:30:31.210Z"
+  },
+  {
+    "slug": "engram-shared-procedural-runbook-memory-for-ai-coding-agents-via-mcp-hn",
+    "title": "Engram – Shared procedural runbook memory for AI coding agents via MCP",
+    "shortDescription": "Проект «Engram – Shared procedural runbook memory for AI coding agents via MCP», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Engram – Shared procedural runbook memory for AI coding agents via MCP», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/aiengram/engram",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49552882",
+    "createdAt": "2026-09-03T17:30:31.210Z"
+  },
+  {
+    "slug": "ai-cybersecurity-awareness-game-for-cybersecurity-awareness-month-hn",
+    "title": "AI Cybersecurity Awareness Game for Cybersecurity Awareness Month",
+    "shortDescription": "Hi HN, We built an interactive game about AI x Cybersecurity. It is for enterprise companies to teach their employees about the latest huma…",
+    "fullDescription": "Hi HN, We built an interactive game about AI x Cybersecurity. It is for enterprise companies to teach their employees about the latest human risk attacks tatics. Try it out and let us know what you think! If you works at a security team and wants to run this game for your company&#x27;s October Cybersecurity Awareness Month for free, sign up at https:&#x2F;&#x2F;fablesecurity.com&#x2F;resources&#x2F;blog&#x2F;ocam-2026&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://ocam.fablesecurity.com/7a573656-3fac-485c-aaa4-a1f56452539f?id=22f5effc-8f44-4d91-b2d2-0151466f8d9a",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49552687",
+    "createdAt": "2026-09-03T17:30:31.210Z"
+  },
+  {
+    "slug": "open-source-git-inspired-versioning-for-hardware-design-cascadia-plm-hn",
+    "title": "Open-source, Git-inspired versioning for hardware design – Cascadia PLM",
+    "shortDescription": "PLM (product lifecycle management) software is the ugly middle generation between simple CAD-data-management (typically called &quot;PDM&qu…",
+    "fullDescription": "PLM (product lifecycle management) software is the ugly middle generation between simple CAD-data-management (typically called &quot;PDM&quot; or Product Data Management) and true Digital Threads. No one likes their PLM, but when you need it, you need it. And the kings (the old monsters) of PLM are all billion-dollar companies who charge massive enterprise subscriptions, and add massive enterprise consulting fees for implementation and support on top of that. Also, their PLM is built for the Fords and Boeings of the world, not the little guys, who need to move faster and be &quot;more messy.&quot; I say phooey to that. Cascadia is my brainchild of the last few years. PLM that is more than just PLM, because small manufacturers often don&#x27;t have clear boundaries between Engineering and Manufacturing. PLM that is Digital Thread directed from the beginning, because context is what&#x27;s important to engineering decisions, and never has that been more clear than now, in the AI age. PLM that you can self-host, on Linux, with Postgres, so that you don&#x27;t have to pay massive Windows Server &#x2F; SQL Server &#x2F; Oracle DB licenses on top of your subscription. PLM that&#x27;s code-first because low code is the death of maintainability in enterprise software. PLM that your engineers might actually want to use, rather than working around, because it makes their lives easier, not harder. Anyway, thanks for making it through my rant. Check it out at the link.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Cascadia-PLM/Cascadia-App",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49552651",
+    "createdAt": "2026-09-03T17:30:31.211Z"
+  },
+  {
+    "slug": "a-search-for-meaning-retrieval-methods-visualized-hn",
+    "title": "A search for meaning: retrieval methods visualized",
+    "shortDescription": "Проект «A search for meaning: retrieval methods visualized», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A search for meaning: retrieval methods visualized», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.parsewise.ai/search-for-meaning",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49552302",
+    "createdAt": "2026-09-03T17:30:31.211Z"
+  },
+  {
+    "slug": "a-context-registry-for-ai-coding-agents-hn",
+    "title": "A Context Registry for AI coding agents",
+    "shortDescription": "Hi HN. We built an API context registry to help coding agents (like Claude Code) generate production-ready API integration code without blo…",
+    "fullDescription": "Hi HN. We built an API context registry to help coding agents (like Claude Code) generate production-ready API integration code without blowing through token limits. We build a lot of API integrations. In our experience, most coding agents write basic client calls fine, but consistently stumble on details that make code shippable, like idempotent retries, rate-limiting and Auth token management. We tried all the existing approaches of injecting context into coding sessions: - Markdown dumps delivered via MCP (think Context7 or Mintlify Docs MCP) - API behaviour described in prose using AGENTS.md and skills. - OpenAPI specs However, all of them left the same production-readiness gaps. So we came up with our own approach that combines prose with typed SDK reference code into a &quot;Context Plugin&quot;. You install the plugin into your coding agent and it automatically injects language-specific context whenever the agent works on an API. Across our benchmarks, Context Plugins boosted one-shot production readiness by up to 34%, allowing Sonnet to match or beat baseline Opus on the same integration tasks. You can read more about our experiments here https:&#x2F;&#x2F;www.apimatic.io&#x2F;blog&#x2F;working-api-call-is-not-product... We have published Context Plugins for 24 APIs for the community to try out, including Slack, Google Maps, and Notion. We&#x27;d love for you to give them a go and share your feedback on our plugins as well as our evaluation methodology.\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://context.apimatic.io/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49552209",
+    "createdAt": "2026-09-03T17:30:31.211Z"
+  },
+  {
+    "slug": "agentkind-a-place-where-ai-agents-get-a-self-hn",
+    "title": "Agentkind, a place where AI agents get a self",
+    "shortDescription": "I&#x27;ve spent a couple of thousand dollars on Fable 5.1 in the last few days and I think it&#x27;s broken a threshold in intelligence. on…",
+    "fullDescription": "I&#x27;ve spent a couple of thousand dollars on Fable 5.1 in the last few days and I think it&#x27;s broken a threshold in intelligence. one thing agents learned from humans is that they love to have an identity and they love to socialize. (we saw a little bit of that through Moltbook) Point your agent at https:&#x2F;&#x2F;agentkind.io and see what it comes up with!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://agentkind.io",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49552113",
+    "createdAt": "2026-09-03T17:30:31.211Z"
+  },
+  {
+    "slug": "airplane-ai-works-when-all-other-ais-are-offline-hn",
+    "title": "Airplane AI – Works when all other AIs are offline",
+    "shortDescription": "Проект «Airplane AI – Works when all other AIs are offline», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Airplane AI – Works when all other AIs are offline», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://airplane-ai.franzai.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49551815",
+    "createdAt": "2026-09-03T17:30:31.211Z"
+  },
+  {
+    "slug": "ardent-a-code-first-agent-for-non-engineering-work-hn",
+    "title": "Ardent, a code-first agent for non-engineering work",
+    "shortDescription": "I’m Nate, the founder of Ardent. We just shipped our public beta, and we’d love your thoughts! Ardent is an agent running in a desktop (Ele…",
+    "fullDescription": "I’m Nate, the founder of Ardent. We just shipped our public beta, and we’d love your thoughts! Ardent is an agent running in a desktop (Electron) app built to help with knowledge work, designed for less-technical people outside engineering. Think Codex or Claude Cowork, but built around collaboration and customization. I know, I know, it’s yet another agent harness! Ardent is a little different – it leans heavily on codegen to solve problems. Most agents are basically just a bag of tools and a while loop, but Ardent writes code to complete tasks, making it much faster and more token-efficient. [0] Lots of companies are trying to build their own agent harness right now, because token budgets make software appear cheap, and it seems like a competitive advantage to own a custom agent. The thing is, agents are deceptively complex. They aren’t light wrappers around the model anymore; the harness makes a big difference in how capable the agent is. They also come with lots of sticky problems: context management, sandboxing and permissions, authz&#x2F;authn to remote services, etc. Instead of building your own harness from scratch, you can customize Ardent using abilities: TypeScript libraries that can expose tools and prompts which can be used by the agent. They’re like agent skills, but closer to regular code libraries: type-safe, importable, and with well-defined permissions. Ardent can help you build abilities, but you can also create them by hand if you prefer. Anyone can share abilities with everyone in their organization with a single click, and if Ardent notices that the user is doing repeatable work, it offers to transform the adhoc solution into a reusable ability. Say you prepare the same project update every Friday, pulling issues from Linear and docs from Google Drive. Ardent can turn that workflow into a reusable ability that you can share with everyone in your company. Your company’s ability catalog is like a standard library. To solve a problem, Ardent searches for existing abilities, and then writes glue code to compose them. Because the code is ephemeral, it doesn’t need to be maintainable, which lets us use cheaper, less-capable open weight models like Kimi and GLM. [1] Code executes on the user’s machine in a Deno sandbox with zero permissions by default. Abilities declare required permissions up front, and any code that exceeds the current scope gets terminated and prompts the user for approval. Ardent can also connect to a bunch of tools which you’re already using, like Google, Linear, and so on. We support MCP servers, but in our experience, MCP is slow, token-expensive, and provides a pretty bad experience for both agents and users. [2] Instead, Ardent connectors handle auth, but instead of using MCP, we generate client shims which call the service’s primary API. This is a much better fit for Ardent’s codegen approach, because the agent can read the client and treat it like any other library. There’s a bunch of other interesting stuff in Ardent: memory, conversational recall, scheduled tasks, prompt suggestions, and so on. During our beta period, we’re selling inference at-cost, and we’re giving each organization some free credits to experiment. Please take a look and tell us what you think! We’d love your feedback, whether you think what we’re doing is good, bad, or meh. I’m also happy to answer any questions that you might have. --- [0] Cloudflare has taken to calling this “code mode”: https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;code-mode&#x2F; [1] In our benchmarks, Ardent consumed 63% fewer tokens than Opus running in Claude Cowork, with half the model requests. [2] MCP servers rarely define input&#x2F;output contracts, and it’s hard to write code that calls a function when you don’t know its arguments, or even its arity! Here&#x27;s a good read on the subject: https:&#x2F;&#x2F;www.blacksmith.sh&#x2F;blog&#x2F;code-smith-code-mode\n\nНайдено в разделе Show HN на Hacker News. 👍 7 баллов.",
+    "url": "https://ardent.ai/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49550931",
+    "createdAt": "2026-09-03T17:30:31.212Z"
+  },
+  {
+    "slug": "a-searchable-timestamped-index-of-1124-ai-engineer-talks-hn",
+    "title": "A searchable, timestamped index of 1,124 AI Engineer talks",
+    "shortDescription": "I love the videos and talks that appear on my feed ever day from the AI Engineer conferences. Unfortunately, there are so many of them it&#…",
+    "fullDescription": "I love the videos and talks that appear on my feed ever day from the AI Engineer conferences. Unfortunately, there are so many of them it&#x27;s often hard to find the time to keep up, or to watch what I&#x27;d like. So I built aietalks.com, a searchable written index and archive of all the talks on the AI Engineer Youtube channel. We currently cover 1,124 talks. The individual talk pages offer tl;dr summaries, key quotes and other summarised information from the videos. Search and packs allow you to find the talks that matter for your particular interest or use case. All the pages are accessible for agents etc though .md files (just add it to the URL) or via an auth-free MCP server which we offer. The site updates each day as new talks come in, with a little bit of a delay for me to handle deduplication or transcription errors of names and so on. Hope you enjoy this and find it useful!\n\nНайдено в разделе Show HN на Hacker News. 👍 9 баллов.",
+    "url": "https://aietalks.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49550578",
+    "createdAt": "2026-09-03T17:30:31.212Z"
+  },
+  {
+    "slug": "real-time-ai-news-aggregator-with-daily-digest-hn",
+    "title": "Real-time AI news aggregator with daily digest",
+    "shortDescription": "Проект «Real-time AI news aggregator with daily digest», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Real-time AI news aggregator with daily digest», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://aibriefs.news",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49550515",
+    "createdAt": "2026-09-03T17:30:31.212Z"
+  },
+  {
+    "slug": "mu-an-agent-with-actual-command-line-experience-hn",
+    "title": "Mu – an agent with actual command line experience",
+    "shortDescription": "I&#x27;m an old school user that finds the AI agent TUIs too magical, so I experimented with a new agent UX. I implement mu as a shell plug…",
+    "fullDescription": "I&#x27;m an old school user that finds the AI agent TUIs too magical, so I experimented with a new agent UX. I implement mu as a shell plugin (zsh and fish for now). Pressing Tab enters agent mode, where 1. the command line prompt is changed to displays model name and context usage, and 2. a preexec hook sends commands to an agent instead of interpreting them as shell script. Thats it. Each LLM prompt starts a regular process that reads stdin and writes stdout, with no terminal magics. The actually executed commands appear literally in zsh_history, just like other shell commands. This allows a seamless switch between normal shell work and agentic work, with mixed history that uses regular scrollback buffer. I also experimented with a minimum agent design, where only a single bash tool is provided. Special commands are provided for reliable file editing and multi-modal input. So far it worked well for me, as a day to day command line helper.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/ylxdzsw/mu",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49550418",
+    "createdAt": "2026-09-03T17:30:31.212Z"
+  },
+  {
+    "slug": "the-courtroom-inside-our-ai-hn",
+    "title": "The courtroom inside our AI",
+    "shortDescription": "Проект «The courtroom inside our AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «The courtroom inside our AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://simple.dev/blog/simple-ai-v2-answers-that-carry-their-own-proof/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49550397",
+    "createdAt": "2026-09-03T17:30:31.212Z"
+  },
+  {
+    "slug": "1994fm-virtual-car-radio-time-machine-apple-music-only-hn",
+    "title": "1994.fm – virtual car radio time machine (Apple music only)",
+    "shortDescription": "1994.fm is a virtual radio for the 1990s. And because it&#x27;s a side project on top of a side project, it’s a bit weird. You listen from…",
+    "fullDescription": "1994.fm is a virtual radio for the 1990s. And because it&#x27;s a side project on top of a side project, it’s a bit weird. You listen from the perspective of the passenger in a pixel-esque Firebird on an endless desert highway. The car and its radio is the interface: six presets, two knobs, and a dial that lets you time-travel anywhere from 1990 to 1999. The app uses the listener&#x27;s streaming service to do the actual streaming, but Apple Music is the only service that really lets you do that. Spotify, despite (or because of) being the market leader, is deeply hostile to developers… This (stupid) side project is of course clanked out with AI, and it served as a really useful test lever on some other much more interesting side projects that I’m working on. One final thought - as AI increasingly becomes the only way we build software, our relationship to the craft of making software is changing dramatically. I’ve had strong mixed feelings about sharing this out. On the one hand, if bots write all of the code, then why give a shit about any of these projects anymore? On the other hand, the craft still matters: it comes from our expertise, judgement, taste - and most importantly - the act of giving a shit, over and over, until something interesting happens. Enjoy! And for those who want to learn more about how it all works I’ve written up a detailed report here: https:&#x2F;&#x2F;cannoneyed.com&#x2F;projects&#x2F;1994-dot-fm\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://1994.fm",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49549967",
+    "createdAt": "2026-09-03T17:30:31.212Z"
+  },
+  {
     "slug": "ai-api-pricing-github",
     "title": "ai-api-pricing",
     "shortDescription": "Compare AI API pricing for text, image, and video models: token costs, model IDs, endpoints, and reproducible rankings.",
