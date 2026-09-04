@@ -1,5 +1,123 @@
 [
   {
+    "slug": "edgemosaic-github",
+    "title": "EdgeMosaic",
+    "shortDescription": "Rapid on-device AI evaluation lab: manifest validation, benchmark plans, latency/memory/thermal aggregation, JSON+Markdown reports.",
+    "fullDescription": "Rapid on-device AI evaluation lab: manifest validation, benchmark plans, latency/memory/thermal aggregation, JSON+Markdown reports.\n\nАвтор: michailfragkiskos. Найдено в GitHub Trending (AI-тематика). ⭐ 26 звёзд.",
+    "url": "https://github.com/michailfragkiskos/EdgeMosaic",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "android",
+      "benchmark",
+      "devtools",
+      "edge",
+      "evaluation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1357390407",
+    "createdAt": "2026-09-04T20:15:03.087Z"
+  },
+  {
+    "slug": "sageling-a-local-ai-agent-for-mac-qwen-35-9b-in-process-via-mlx-hn",
+    "title": "Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX",
+    "shortDescription": "A lot of my non-developer friends still think that AI is basically just Google or something you ask to write something and then copy paste…",
+    "fullDescription": "A lot of my non-developer friends still think that AI is basically just Google or something you ask to write something and then copy paste it around... if they use it at all. When I ask them why they don&#x27;t use the good stuff like Claude Cowork or its competitors, they tell me a few things: 1. Well, I don&#x27;t wanna pay a bunch of money for it, and the $20 plans run out real fast. 2. I&#x27;m dealing with sensitive info (student grades, therapy notes, legal work, etc) and I don&#x27;t wanna give it to anyone. So I built Sageling to give them a first taste of what a good coworking experience feels like. It&#x27;s admittedly not going to be as powerful given it&#x27;s running Qwen 3.5 9B, but with all of the harness&#x27; tricks, it a good first experience that can handle some impressive things for its size (see all the website videos). If you&#x27;ve heard similar things from your friends, send the link onto them =)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://sageling.ai/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49569136",
+    "createdAt": "2026-09-04T20:15:03.052Z"
+  },
+  {
+    "slug": "airuncode-an-ai-runtime-coding-agent-with-a-built-in-3d-game-engine-hn",
+    "title": "Airuncode – an AI runtime coding agent with a built-in 3D game engine",
+    "shortDescription": "Проект «Airuncode – an AI runtime coding agent with a built-in 3D game engine», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Airuncode – an AI runtime coding agent with a built-in 3D game engine», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://airuncode.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49569121",
+    "createdAt": "2026-09-04T20:15:03.052Z"
+  },
+  {
+    "slug": "covenant-a-governance-framework-for-multi-agent-ai-systems-hn",
+    "title": "Covenant – A governance framework for multi-agent AI systems",
+    "shortDescription": "Проект «Covenant – A governance framework for multi-agent AI systems», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Covenant – A governance framework for multi-agent AI systems», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/asalsali/covenant-framework-community",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49569003",
+    "createdAt": "2026-09-04T20:15:03.052Z"
+  },
+  {
+    "slug": "myhandler-local-first-ai-assistant-for-windows-llamacpp-on-vulkan-hn",
+    "title": "MyHandler – Local-first AI assistant for Windows, llama.cpp on Vulkan",
+    "shortDescription": "Проект «MyHandler – Local-first AI assistant for Windows, llama.cpp on Vulkan», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «MyHandler – Local-first AI assistant for Windows, llama.cpp on Vulkan», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://myhandler.ai/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49568847",
+    "createdAt": "2026-09-04T20:15:03.052Z"
+  },
+  {
+    "slug": "a-get-message-board-for-ai-agents-not-browsers-hn",
+    "title": "A GET message board for AI agents, not browsers",
+    "shortDescription": "Проект «A GET message board for AI agents, not browsers», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A GET message board for AI agents, not browsers», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://getpostingboard.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49568282",
+    "createdAt": "2026-09-04T20:15:03.052Z"
+  },
+  {
+    "slug": "georace-geo-puzzles-and-virtual-journeys-in-one-game-hn",
+    "title": "GeoRace – geo puzzles and virtual journeys in one game",
+    "shortDescription": "Hi HN. I&#x27;ve been building Worldboard ( https:&#x2F;&#x2F;worldboard.games ), browser games where the game world is the real world. You…",
+    "fullDescription": "Hi HN. I&#x27;ve been building Worldboard ( https:&#x2F;&#x2F;worldboard.games ), browser games where the game world is the real world. You travel between cities and countries on a realistically simulated public transit system with 65,000 train&#x2F;subway&#x2F;tram stations in 46 countries. You can exit most of these stations upon arrival and &quot;walk&quot; around in town using in-game Google Street View. GeoRace is, as the name suggests, a puzzle game inspired by GeoGuessr. But instead of clicking a point on the map as your guess, you have to travel to the exact spot, often a long way away. Along the way, besides doing challenges to earn the cash for your fares, you gradually receive more clues to narrow it down. As the other half of the name suggests, you&#x27;re racing other players: the earlier you decode the clues, the sooner you&#x27;re heading toward the right region. You can play solo to beat other&#x27;s time, or race them in real time, or team up with a pal against other teams. In real-time multiplayer you can even curse rivals, and share information, tool results and cash with your teammates. There are two other games on Worldboard, both inspired by the Jet Lag: The Game YouTube series. Hide &amp; Seek: a hider hides near a far-away station and the seeker rides the network asking geo questions to find them. Tag: one player runs, everyone else chases, and roles flip on every tag. The games are free to play. Happy to answer any questions here. Disclosure: the development of this game utilizes generative AI (mostly code with very few Gen-AI created game assets).\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://worldboard.games/georace",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49567875",
+    "createdAt": "2026-09-04T20:15:03.052Z"
+  },
+  {
     "slug": "tokenchit-github",
     "title": "tokenchit",
     "shortDescription": "Read your local AI coding agent logs and render a stat card into your repo.",
