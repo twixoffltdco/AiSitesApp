@@ -1,5 +1,315 @@
 [
   {
+    "slug": "tokenchit-github",
+    "title": "tokenchit",
+    "shortDescription": "Read your local AI coding agent logs and render a stat card into your repo.",
+    "fullDescription": "Read your local AI coding agent logs and render a stat card into your repo.\n\nАвтор: iyashjayesh. Найдено в GitHub Trending (AI-тематика). ⭐ 10 звёзд.",
+    "url": "https://tokenchit.app",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "claude-code",
+      "cli",
+      "developer-tools",
+      "typescript",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1354419140",
+    "createdAt": "2026-09-04T17:32:01.030Z"
+  },
+  {
+    "slug": "roadmap-github",
+    "title": "roadmap",
+    "shortDescription": "A text-first, 12-stage engineering curriculum for AI/ML × Cloud × DevOps × MLOps (12–24 months). Canonical books & official docs only.",
+    "fullDescription": "A text-first, 12-stage engineering curriculum for AI/ML × Cloud × DevOps × MLOps (12–24 months). Canonical books & official docs only.\n\nАвтор: Wyrcan-io. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://wyrcan-io.github.io/roadmap/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "aws",
+      "cloud",
+      "cloud-computing",
+      "curriculum",
+      "devops",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1354668889",
+    "createdAt": "2026-09-04T17:32:01.030Z"
+  },
+  {
+    "slug": "compound-labs-design-github-2",
+    "title": "Compound-Labs-Design",
+    "shortDescription": "Compound Design: framework autoral de Danilo do Amaral para trabalhar com IA em design e código. AI native: artigos com dados, catálogo de…",
+    "fullDescription": "Compound Design: framework autoral de Danilo do Amaral para trabalhar com IA em design e código. AI native: artigos com dados, catálogo de skills com licença verificada, CLI e MCP.\n\nАвтор: danilodoamarall. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://compounddesign.vercel.app",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "design",
+      "design-engineering",
+      "mcp",
+      "nextjs",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1356394629",
+    "createdAt": "2026-09-04T17:32:01.030Z"
+  },
+  {
+    "slug": "platform-github",
+    "title": "platform",
+    "shortDescription": "A modern, sovereign AI backend for products and enterprise deployments.",
+    "fullDescription": "A modern, sovereign AI backend for products and enterprise deployments.\n\nАвтор: chatbotkit. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://cbk.ai",
+    "category": "chatbot",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-platform",
+      "backend",
+      "chatbot",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1355762864",
+    "createdAt": "2026-09-04T17:32:01.030Z"
+  },
+  {
+    "slug": "local-mitsubishi-ac-control-with-esphome-and-an-atoms3-lite-hn",
+    "title": "Local Mitsubishi AC Control with ESPHome and an AtomS3 Lite",
+    "shortDescription": "I connected my Mitsubishi split air conditioners directly to Home Assistant over CN105 using an AtomS3 Lite and ESPHome, avoiding MELCloud…",
+    "fullDescription": "I connected my Mitsubishi split air conditioners directly to Home Assistant over CN105 using an AtomS3 Lite and ESPHome, avoiding MELCloud entirely.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://didac.dev/builds/mitsubishi-air-conditioning",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49567615",
+    "createdAt": "2026-09-04T17:32:00.856Z"
+  },
+  {
+    "slug": "airlune-a-focus-timer-built-around-virtual-flights-hn",
+    "title": "AirLune - A focus timer built around virtual flights",
+    "shortDescription": "Проект «AirLune - A focus timer built around virtual flights», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AirLune - A focus timer built around virtual flights», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://airlune.space",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49567497",
+    "createdAt": "2026-09-04T17:32:00.856Z"
+  },
+  {
+    "slug": "open-source-eink-bike-computer-hn",
+    "title": "Open-Source eInk Bike Computer",
+    "shortDescription": "Hey all, i just launched my Eink Bike computer project and think it is cool. Another tidbit, in the crazy things that AI has done... It has…",
+    "fullDescription": "Hey all, i just launched my Eink Bike computer project and think it is cool. Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in workout&#x2F;biking) implementation for ESP32 by messing around with undocumented registers: https:&#x2F;&#x2F;github.com&#x2F;RaemondBW&#x2F;esp32-ant\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://opentrailpaper.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49567437",
+    "createdAt": "2026-09-04T17:32:00.856Z"
+  },
+  {
+    "slug": "ai-powered-cross-stitch-pattern-maker-hn",
+    "title": "AI-powered cross stitch pattern maker",
+    "shortDescription": "Проект «AI-powered cross stitch pattern maker», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI-powered cross stitch pattern maker», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://crossstitchpatternmaker.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49566080",
+    "createdAt": "2026-09-04T17:32:00.856Z"
+  },
+  {
+    "slug": "jogpad-shift-shift-note-capture-app-macos-hn",
+    "title": "JogPad – Shift Shift note capture app (macOS)",
+    "shortDescription": "While working with agents, I always get ideas I wanna queue for the next prompt or session without getting in the way of the current work.…",
+    "fullDescription": "While working with agents, I always get ideas I wanna queue for the next prompt or session without getting in the way of the current work. I&#x27;ve been noting things in a gitignored USER_NOTES file and asking agents not to touch it. LOL Then I saw shadcn&#x27;s copper solving exactly this. But I am poor and unemployed, so I didn&#x27;t want to pay. So I spent a weekend and vibe-coded JogPad. Not aiming to be an exact clone of copper. I built this to scratch my own itch so whatever I find useful I&#x27;ll throw in there. In short, JogPad allows you to take quick notes by doing &quot;shift shift&quot; whenever you want. When the floating UI is in focus, you can do &quot;shift shift&quot; again to hide it. If you have text already highlighted, &quot;shift shift&quot; records that in your pad. Pretty simple app but I have found it pretty cool. Free, open source, MIT licensed. Notes stay in a local Markdown file. No account, no sync. Try out the browser demo, it&#x27;s powered by the same UI code that runs in the native app. Thought it&#x27;s worth sharing. Do check it out and let me know what you think! (Sorry it&#x27;s macOS only for now. no plans for windows&#x2F;linux atm...)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://jogpad.fishball.app/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49565661",
+    "createdAt": "2026-09-04T17:32:00.856Z"
+  },
+  {
+    "slug": "learnpractice-sudoku-strategies-web-app-hn",
+    "title": "Learn/Practice Sudoku strategies web app",
+    "shortDescription": "So, I wanted to get better at Sudoku puzzles, and I watched a lot of strategy videos, but I just could not grok them. Also I installed a bu…",
+    "fullDescription": "So, I wanted to get better at Sudoku puzzles, and I watched a lot of strategy videos, but I just could not grok them. Also I installed a bunch of free Sudoku games on my phone and got very (and I mean very) annoyed by the un-dismissible ads and calls to actions. So, I vibe coded an ad-free Sudoku app for the browser (a kind of PWA that plays on a phone browser too). The AI helpfully came up with a system for ranking Sudoku puzzle difficulty (by which strategies are required to solve). I&#x27;m at the point where Easy is doable, and Medium does have some challenge to it, but the Hard, Harder, Hardest puzzles required me to use strategies I have not mastered yet. So, I added a Learn button, a show-me how button, and a notes feature. My wife and daughter gave feedback, so I fixed some usability issues (I am no UX designer). Anyway it is open source, MIT licensed, with a link to the repo in the footer. Posting this to see if anyone finds useful the Learn, Show-me, and Notes features (including having the game fill in the notes for you if you want). I do not consider this a one-shot code-an-app project, because it went through many iterations and some user testing. If you think this is AI slop, let me know why. I found it useful for the prolem I was trying to solve. I have gotten better&#x2F;faster at solving hard sudokus. Also, it is not &quot;judgy,&quot; i.e., it counts mistakes but does not kick you out after 3 strikes. It also tracks progress and an interrupted game in local browser storage.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://sw-fun.github.io/sudoku/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49565298",
+    "createdAt": "2026-09-04T17:32:00.856Z"
+  },
+  {
+    "slug": "context-engine-be-an-ai-native-company-or-get-killed-by-one-that-did-hn",
+    "title": "Context Engine – Be an AI-native company or get killed by one that did",
+    "shortDescription": "Проект «Context Engine – Be an AI-native company or get killed by one that did», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Context Engine – Be an AI-native company or get killed by one that did», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://contextengine.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49565279",
+    "createdAt": "2026-09-04T17:32:00.856Z"
+  },
+  {
+    "slug": "petrichor-native-offline-music-player-for-macos-hn",
+    "title": "Petrichor – Native offline music player for macOS",
+    "shortDescription": "Over a year ago I shared about Petrichor on HN[1] while it was still in alpha, it started out as a hobby for me and has now grown into a ma…",
+    "fullDescription": "Over a year ago I shared about Petrichor on HN[1] while it was still in alpha, it started out as a hobby for me and has now grown into a mature product while staying free and open source[2]. I&#x27;ve just released v1.7 that added a whole bunch of features that I originally envisioned for this app. It remains free and open source, doesn&#x27;t do any usage tracking or analytics, and still strives to be one of the best music players available on the platform. Features: - Everything you&#x27;d expect from an offline music player! - Supports more than 40 audio file formats. - Map your music folders and browse your library in an organized view. - Stream Internet Radio and organize saved stations into collections. - Synced lyrics of a playing track when available, including ability to download missing lyrics. - Create, import or export playlists. - Smart playlists with conditional, negative, and regular-expression rules. - Manage the play queue interactively using drag and drop. - Browse music using folder view when needed. - Pin anything (almost!) to the sidebar for quick access to your favorite music. - Navigate easily: right-click a track to go to its album, artist, year, etc. - Native macOS integration with menubar and dock playback controls, plus dark mode support. - Miniplayer and immersive mode. - Gapless playback, Crossfade, ReplayGain volume normalization, Equalizer, Spatial Audio, and AirPlay 2 support. - Last.fm scrobbling support. - Shortcuts and Automation API support along with Siri. - Works well with large libraries containing thousands of songs. [1]: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44515266 [2]: https:&#x2F;&#x2F;github.com&#x2F;kushalpandya&#x2F;Petrichor\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://petrichor.page/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49565238",
+    "createdAt": "2026-09-04T17:32:00.856Z"
+  },
+  {
+    "slug": "vise-deterministic-gates-for-ai-refactors-hn",
+    "title": "Vise – Deterministic gates for AI refactors",
+    "shortDescription": "Проект «Vise – Deterministic gates for AI refactors», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Vise – Deterministic gates for AI refactors», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/NakliTechie/vise",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49565151",
+    "createdAt": "2026-09-04T17:32:00.856Z"
+  },
+  {
+    "slug": "floyi-a-topic-first-content-workflow-for-google-and-ai-search-hn",
+    "title": "Floyi, a topic-first content workflow for Google and AI search",
+    "shortDescription": "Hi HN! I&#x27;m an SEO and AI search consultant. I&#x27;ve spent years creating topical maps and content strategies for brands and that led…",
+    "fullDescription": "Hi HN! I&#x27;m an SEO and AI search consultant. I&#x27;ve spent years creating topical maps and content strategies for brands and that led me to building Floyi. I’ve seen over the years, long before AI-generated content, how content strategies started with individual keywords and disconnected article ideas. Teams published more, but organic traffic stalled and sometimes declined because the content focus was fragmented. That’s why I always start by defining the brand, what it wants to be known for, and their buyers’ needs. Then I turn that context into topical research, a topical map, and a content publishing plan. The problem I kept having was keeping the brand’s context across the separate tools, documents, and spreadsheets throughout the workflow. By the time you were ready to start a brief or writing, you had to remember to find the brand and writing guidelines first to ensure the brand’s voice was intact. I built Floyi to keep the process in one workflow, carrying brand&#x2F;audience context from research to mapping to content briefs to articles. You can try it here for free: https:&#x2F;&#x2F;app.floyi.com&#x2F; I would appreciate feedback on improvements, especially where the workflow feels fragmented.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://floyi.com/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49565003",
+    "createdAt": "2026-09-04T17:32:00.856Z"
+  },
+  {
+    "slug": "casefile-git-why-for-ai-assisted-development-hn",
+    "title": "Casefile – Git why for AI-assisted development",
+    "shortDescription": "During my work at Brokk last year we developed a task-slicing system. The idea was to have a bunch of tasks where each task can be implemen…",
+    "fullDescription": "During my work at Brokk last year we developed a task-slicing system. The idea was to have a bunch of tasks where each task can be implemented and verified in isolation. So I can mentally focus only on one task at a time with checking the evidence it works as expected. Most follow-up tasks are based on their predecessor(s). After my time at Brokk I picked up this idea and developed Casefile. To avoid loading the entire previous session context, the agent creates a task log. So a follow-up task only needs to load the necessary task logs + git state as the base to implement its task. Each log is linked to its commit, so git blame on a line leads back to the decision behind it. Another advantage of this approach is that you can retrieve the intent why a code change was made and which alternative solutions were skipped. You can see the workflow in the open at https:&#x2F;&#x2F;github.com&#x2F;native-federation&#x2F;devtools . Last month I extended the system to store the plan and task logs in a non-public Casefile repository because my enterprise customers don&#x27;t allow work artifacts like these in their repositories. Give it a shot if you think it&#x27;s useful. I would like to hear your feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/lutzleonhardt/casefile",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49564994",
+    "createdAt": "2026-09-04T17:32:00.856Z"
+  },
+  {
+    "slug": "audiorealityai-email-to-private-daily-podcast-summary-show-hn",
+    "title": "Audioreality.ai – email to private daily podcast summary show",
+    "shortDescription": "Hey all, TLDR: When you sign up you get an email alias @audioreality.ai that you can use to sign up for newsletters, have agents send outpu…",
+    "fullDescription": "Hey all, TLDR: When you sign up you get an email alias @audioreality.ai that you can use to sign up for newsletters, have agents send output to, etc. Once a day you get a private podcast with a multi-host format&#x2F;conversation, so it’s not a basic summary and it’s not a verbatim readout. You can configure multiple shows too, so I personally have some based on different subjects I’m interested in. I built this because I have much more opportunity to listen to content than sit and read (exercising, commuting, background noise), but I find a lot of really valuable newsletters out there. So I’ve been trying to dial in a tolerable AI-generated format to get the info out in a way that’s easy for me to consume. This opened a few adjacent use cases like having scheduled agents email research, Google News style updates, etc. (even top HN feed stuff). I’d love feedback on the format approach, the script quality, “host” behaviors&#x2F;personalities, and anything else. The audio quality is a constant work in progress as I test different audio models (and I completely understand if audio AI totally creeps you out). Thanks!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.audioreality.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49564980",
+    "createdAt": "2026-09-04T17:32:00.856Z"
+  },
+  {
+    "slug": "sentrint-ship-ai-features-without-losing-sleep-hn",
+    "title": "Sentrint, Ship AI features without losing sleep",
+    "shortDescription": "Проект «Sentrint, Ship AI features without losing sleep», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Sentrint, Ship AI features without losing sleep», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://sentrint.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49564974",
+    "createdAt": "2026-09-04T17:32:00.856Z"
+  },
+  {
+    "slug": "votito-helps-you-decide-what-to-build-next-with-confidence-hn",
+    "title": "Votito helps you decide what to build next with confidence",
+    "shortDescription": "Hey HN, We&#x27;re finally launching Votito, after about a year of development, as it&#x27;s now (almost) polished enough for other people…",
+    "fullDescription": "Hey HN, We&#x27;re finally launching Votito, after about a year of development, as it&#x27;s now (almost) polished enough for other people to use. I&#x27;d love your feedback! AI tools make software faster to write, so the constraint is no longer building things. It is knowing which things deserve to be built. Votito aims to be a &quot;product decision platform&quot; to help figure that out. Having previously built two relatively successful SaaS products, we&#x27;ve spent a ton of time figuring out what users need, collecting feedback and trying to turn signals from the user community into actionable ideas, using a bunch of disconnected tools and half-baked scripts. We&#x27;ve consolidated those internal tools and processes into an online idea management system, combining user feedback with product research, so product teams can engage their users easily. Votito is not trying to compete with task management tools like Jira and Linear, but to work in the area before the backlog, in the &quot;weak commitment&quot; zone where unstructured proposals need to mature to become implementable ideas. Throw random stakeholder demands, user suggestions and feature requests into Votito and let them marinate until they become something useful, if they ever do. Votito will help you spot the gems that deserve your attention. It will also stop garbage from going into your actual task tracking tools, and prevent people from being overwhelmed with managing bad ideas. While the product is naturally oriented towards PMs, we&#x27;re betting on the trend that teams are becoming smaller with AI support, and that people inside delivery teams will need to take on most traditional product responsibilities in the future. The Wall Street Journal recently reported on the trend of &quot;pods&quot; of 3-4 people augmented with AI agents taking on the tasks that previously needed much larger groups. When teams have 10-15 people, companies can justify assigning a dedicated product person. But with 3-4 people per pod, this is just not feasible. GitHub&#x27;s research from December 2025 found that developers will increasingly need to think at the level of &quot;understanding user needs&quot;. One of our goals is to put proven product methods and tools into the hands of people who are not traditional product managers, making it easy to discover and apply the right tools and, crucially, to understand the results. Here are 5 ways Votito can help you decide what to build next: - Collect evidence with ideas to help you prove that things are worth building. Evidence can be as simple as a list of interested customers, external documents such as market research, or something as complex as the result of an A&#x2F;B test. - Score ideas automatically based on impact, effort and evidence. We provide two popular confidence models out of the box to help you get started. - Engage users or stakeholders to vote on ideas for additional confidence signals. - Keep the community engaged. Let people propose new ideas directly in Votito, comment and vote on other people&#x27;s proposals. Publishing a roadmap of ideas you&#x27;ve accepted into development, and a changelog of features you delivered recently. - Conduct deep research with proven product management surveys. Feature requests are pointers that something is interesting, but they are rarely complete information, or even the best solutions for the problem. Votito allows you to easily run online surveys with people who voted on a proposal. We provide a collection of ready-made templates for major product management research tasks. You could, of course, set up a similar survey on another platform, but the difference is that we&#x27;ll help you interpret the data, showing the best ways to score domain-specific surveys and evaluate statistical significance. The free version includes pretty much everything you need to run all the things mentioned above, with data retention of up to six months.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.votito.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49564832",
+    "createdAt": "2026-09-04T17:32:00.857Z"
+  },
+  {
     "slug": "compound-labs-design-github",
     "title": "Compound-Labs-Design",
     "shortDescription": "Compound Design: hub aberto de design engineering com IA. Artigos com dados, catálogo de skills com licença verificada, CLI e servidor MCP.…",
