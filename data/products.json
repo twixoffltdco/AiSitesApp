@@ -1,5 +1,107 @@
 [
   {
+    "slug": "remote-installer-github",
+    "title": "remote-installer",
+    "shortDescription": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
+    "fullDescription": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.\n\nАвтор: icodesign. Найдено в GitHub Trending (AI-тематика). ⭐ 64 звёзд.",
+    "url": "https://github.com/icodesign/remote-installer",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "android",
+      "ios",
+      "vibecoding",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1354645252",
+    "createdAt": "2026-09-04T05:33:42.553Z"
+  },
+  {
+    "slug": "ufo-cathedral-v64-failsafe-free-ai-github",
+    "title": "UFO-Cathedral-v6.4-FailSafe-Free-AI",
+    "shortDescription": "100% Free, Offline, 8GB RAM Computer-Artificial Intelligence + Formal Safety (Gate + Ledger + Council + Shadow Mode) — Free alternative to…",
+    "fullDescription": "100% Free, Offline, 8GB RAM Computer-Artificial Intelligence + Formal Safety (Gate + Ledger + Council + Shadow Mode) — Free alternative to $200/mo OpenAI Operator / Perplexity Computer / ClawBot / Claude Computer\n\nАвтор: JoseAngelSolorzanoLuna. Найдено в GitHub Trending (AI-тематика). ⭐ 13 звёзд.",
+    "url": "https://joseangelsolorzanoluna.github.io/UFO-Cathedral-v6.4-FailSafe-Free-AI/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "bestaiforcoding",
+      "bestaimodel",
+      "bestaitools",
+      "bestoption",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1355559405",
+    "createdAt": "2026-09-04T05:33:42.553Z"
+  },
+  {
+    "slug": "ai-api-pricing-github-2",
+    "title": "ai-api-pricing",
+    "shortDescription": "Compare AI API pricing for text, image, and video models: token costs, model IDs, endpoints, and reproducible rankings.",
+    "fullDescription": "Compare AI API pricing for text, image, and video models: token costs, model IDs, endpoints, and reproducible rankings.\n\nАвтор: mialucy-eng. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://argolink.io/en/pricing",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "anthropic-api",
+      "api",
+      "api-pricing",
+      "gemini-api",
+      "grok-api",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1355794653",
+    "createdAt": "2026-09-04T05:33:42.553Z"
+  },
+  {
+    "slug": "chatou-github",
+    "title": "chatou",
+    "shortDescription": "Windows 系统级 AI 表达输入法：输入中文，按 F8，原地转换成任意语言与语气｜支持 DeepSeek、OpenAI、Ollama",
+    "fullDescription": "Windows 系统级 AI 表达输入法：输入中文，按 F8，原地转换成任意语言与语气｜支持 DeepSeek、OpenAI、Ollama\n\nАвтор: gjz1023984937-dev. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/gjz1023984937-dev/chatou/releases/latest",
+    "category": "writing",
+    "tags": [
+      "ai",
+      "ai-writing",
+      "deepseek",
+      "ime",
+      "llm",
+      "ollama",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1355814694",
+    "createdAt": "2026-09-04T05:33:42.553Z"
+  },
+  {
+    "slug": "jetway-a-working-airline-gds-and-message-router-hn",
+    "title": "Jetway, a working airline GDS and message router",
+    "shortDescription": "Over the past few days I made an open-source GDS, message router, departure control system, faring engine, and a bunch of other airline sys…",
+    "fullDescription": "Over the past few days I made an open-source GDS, message router, departure control system, faring engine, and a bunch of other airline systems. It supports Type B&#x2F;AIRIMP, EDIFACT&#x2F;PADIS, NDC, MATIP; PNRs, tickets, EMDs, queues, IROPS; PNL&#x2F;ADL, bags, loadsheets, MVT, ACARS, flight plans, and more. Is it vibe coded? Yes. Does it work? As far as I can test, yes. There&#x27;s a live demo running a full day at wholesky.io (which is also open source at https:&#x2F;&#x2F;github.com&#x2F;adamf&#x2F;wholesky\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/adamf/jetway",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49559630",
+    "createdAt": "2026-09-04T05:33:42.349Z"
+  },
+  {
     "slug": "modelregistry-github",
     "title": "ModelRegistry",
     "shortDescription": "ModelRegistry is a community-driven, machine-readable index tracking the state of foundational artificial intelligence.",
