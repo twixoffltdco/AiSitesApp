@@ -1,5 +1,144 @@
 [
   {
+    "slug": "compound-labs-design-github",
+    "title": "Compound-Labs-Design",
+    "shortDescription": "Compound Design: hub aberto de design engineering com IA. Artigos com dados, catálogo de skills com licença verificada, CLI e servidor MCP.…",
+    "fullDescription": "Compound Design: hub aberto de design engineering com IA. Artigos com dados, catálogo de skills com licença verificada, CLI e servidor MCP. Por Danilo do Amaral.\n\nАвтор: danilodoamarall. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://labs-hub-five.vercel.app",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "design",
+      "design-engineering",
+      "mcp",
+      "nextjs",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1356394629",
+    "createdAt": "2026-09-04T13:58:54.897Z"
+  },
+  {
+    "slug": "api-pricing-github",
+    "title": "api-pricing",
+    "shortDescription": "Compare AI API pricing for text, image, and video models: token costs, model IDs, endpoints, and reproducible rankings.",
+    "fullDescription": "Compare AI API pricing for text, image, and video models: token costs, model IDs, endpoints, and reproducible rankings.\n\nАвтор: mialucy-eng. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://argolink.io/r/x-post",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "anthropic-api",
+      "api",
+      "api-pricing",
+      "gemini-api",
+      "grok-api",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1355794653",
+    "createdAt": "2026-09-04T13:58:54.897Z"
+  },
+  {
+    "slug": "kovavue-a-rented-linux-box-where-your-ai-agent-works-like-a-human-hn",
+    "title": "Kovavue – a rented Linux box where your AI agent works like a human",
+    "shortDescription": "Проект «Kovavue – a rented Linux box where your AI agent works like a human», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Kovavue – a rented Linux box where your AI agent works like a human», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://kovavue.kovanex.dev",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49564582",
+    "createdAt": "2026-09-04T13:58:54.657Z"
+  },
+  {
+    "slug": "sitetweak-a-browser-extension-to-modify-any-website-hn",
+    "title": "SiteTweak – a browser extension to modify any website",
+    "shortDescription": "I&#x27;ve made an extension that works in the sidebar and lets you modify any website with AI. I tried to make it feel like using Cursor or…",
+    "fullDescription": "I&#x27;ve made an extension that works in the sidebar and lets you modify any website with AI. I tried to make it feel like using Cursor or Codex. You can talk to it in a chat panel to refine the modification, ask a question, or request automation. If you&#x27;d like, you can plug in your own key from OpenRouter or any other OpenAI-compatible service. What I and early users actually use it for: - Real-time claude.ai limits and a live usage chart, without having to open settings - A draggable magnifying glass for YouTube videos - Rearranging and hiding page elements for a cleaner view on stream - A one-click ZIP download button when the site only allowed saving files one by one\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://chromewebstore.google.com/detail/sitetweak-edit-any-site-w/jnhmhgddbeljneddgcpglgchbdheakbk",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49564393",
+    "createdAt": "2026-09-04T13:58:54.657Z"
+  },
+  {
+    "slug": "bullsniff-sniff-out-bullshit-ai-sites-hn",
+    "title": "BullSniff – Sniff out bullshit AI sites",
+    "shortDescription": "Проект «BullSniff – Sniff out bullshit AI sites», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «BullSniff – Sniff out bullshit AI sites», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://bullsniff.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49564317",
+    "createdAt": "2026-09-04T13:58:54.658Z"
+  },
+  {
+    "slug": "mrdown-a-mac-markdown-app-that-diffs-what-your-ai-just-rewrote-hn",
+    "title": "MRDown – a Mac Markdown app that diffs what your AI just rewrote",
+    "shortDescription": "Проект «MRDown – a Mac Markdown app that diffs what your AI just rewrote», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «MRDown – a Mac Markdown app that diffs what your AI just rewrote», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/MR-TABATA/MRDown",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49563459",
+    "createdAt": "2026-09-04T13:58:54.658Z"
+  },
+  {
+    "slug": "what-if-ai-did-the-prompting-and-humans-did-the-thinking-hn",
+    "title": "What if AI did the prompting – and humans did the thinking?",
+    "shortDescription": "The agent asks you questions until you have clarity on what to do. Experimenting with this idea through AntiAgent. I&#x27;d love Hacker New…",
+    "fullDescription": "The agent asks you questions until you have clarity on what to do. Experimenting with this idea through AntiAgent. I&#x27;d love Hacker News to challenge this idea.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.antiagent.site",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49563390",
+    "createdAt": "2026-09-04T13:58:54.658Z"
+  },
+  {
+    "slug": "viasocket-ai-built-workflows-and-your-apps-as-an-mcp-server-hn",
+    "title": "viaSocket – AI-built workflows, and your apps as an MCP server",
+    "shortDescription": "Проект «viaSocket – AI-built workflows, and your apps as an MCP server», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «viaSocket – AI-built workflows, and your apps as an MCP server», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://viasocket.com",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49562701",
+    "createdAt": "2026-09-04T13:58:54.658Z"
+  },
+  {
     "slug": "daydayup-github",
     "title": "daydayup",
     "shortDescription": "好好学习，天天向上 · 本地优先的 AI 探索式知识树学习工具 | A local-first AI knowledge-tree tool for learning unfamiliar fields",
