@@ -1,5 +1,91 @@
 [
   {
+    "slug": "daydayup-github",
+    "title": "daydayup",
+    "shortDescription": "好好学习，天天向上 · 本地优先的 AI 探索式知识树学习工具 | A local-first AI knowledge-tree tool for learning unfamiliar fields",
+    "fullDescription": "好好学习，天天向上 · 本地优先的 AI 探索式知识树学习工具 | A local-first AI knowledge-tree tool for learning unfamiliar fields\n\nАвтор: ztongw-ai. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/ztongw-ai/daydayup",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "glm",
+      "knowledge-tree",
+      "learning",
+      "local-first",
+      "mindmap",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1356863472",
+    "createdAt": "2026-09-04T09:59:21.929Z"
+  },
+  {
+    "slug": "termy-a-fast-terminal-assistant-that-does-not-use-llms-hn",
+    "title": "TERMy – A fast terminal assistant that does not use LLMs",
+    "shortDescription": "I love research and development, you may have heard of me because of PJON (Padded Jittering Operative Network). It is a network protocol I…",
+    "fullDescription": "I love research and development, you may have heard of me because of PJON (Padded Jittering Operative Network). It is a network protocol I started developing in 2010, which was recently implemented in silicon by the ETH Zurich university thanks to the research of Pius Sieber. I am excited to share with you TERMy, a terminal assistant built on top of the NPC-Forge framework. Unlike everything else being built today, TERMy does not use embeddings, machine-learning or LLMs. It runs on the CPU (even on a Raspberry Pi Zero) both in the terminal or client-side in a browser tab and responds in milliseconds. It is a cynical but very knowledgeable Linux terminal assistant that translates your natural language into shell commands without relying on a single artificial neuron. I had a chance to focus for 2 months on my personal projects since early July, during the strange times of AI price hikes and the end of subsidized tokenmaxing. I was curious to see if I could develop from scratch a terminal assistant capable of handling simple natural language requests. I have a bad memory and got used to ask to copilot &quot;activate the virtual environment&quot; or similar trivial operations spending a non negligible sum every month. I started thinking, maybe I can do something to make my workflow more efficient? Do I really need trillions of parameters to accomplish those tasks? How it Works When you type a prompt, it goes through a lightweight NLU pipeline written in ~1000 lines of Python that implement the following steps: 1. Strip expletives, interjections, encouraging, discouraging and thanking words (remove noise) 2. Sentiment analysis 3. Exact Match (very fast) 4. Template Match (slower) 5. Probabilistic Match (even slower) Step 5 relies on: 1. IDF (Inverse Document Frequency) to identify rare words. 2. BOW (Bag Of Words) to accommodate word inversions. 3. IDF weighted Levenshtein to safely handle typos. Permission gating is hardcoded into the dataset and enforced for all potentially destructive commands, so it&#x27;s inherently safer than letting an unpredictable LLM run wild on your machine. - TERMy in operation: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=qeIp0xePLBg - Variance and typo tolerance: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=tQvGDk6fkk0 - Copilot integration: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=Wzzouhq2a8A - Advanced features: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=qeIp0xePLBg - Source Code: https:&#x2F;&#x2F;github.com&#x2F;gioblu&#x2F;NPC-Forge\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49562219",
+    "createdAt": "2026-09-04T09:59:21.688Z"
+  },
+  {
+    "slug": "videm-an-ai-image-generator-with-3-free-daily-images-hn",
+    "title": "Videm – An AI image generator with 3 free daily images",
+    "shortDescription": "Проект «Videm – An AI image generator with 3 free daily images», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Videm – An AI image generator with 3 free daily images», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://videm.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49562099",
+    "createdAt": "2026-09-04T09:59:21.689Z"
+  },
+  {
+    "slug": "aurict-an-open-source-terminal-ai-hn",
+    "title": "Aurict – An open-source Terminal AI",
+    "shortDescription": "Проект «Aurict – An open-source Terminal AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Aurict – An open-source Terminal AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/aurict/aurict",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49561903",
+    "createdAt": "2026-09-04T09:59:21.689Z"
+  },
+  {
+    "slug": "ai-game-builder-and-editor-built-with-rails-and-godot-hn",
+    "title": "AI game builder and editor built with Rails and Godot",
+    "shortDescription": "Проект «AI game builder and editor built with Rails and Godot», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI game builder and editor built with Rails and Godot», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://app.fusionery.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49561198",
+    "createdAt": "2026-09-04T09:59:21.689Z"
+  },
+  {
     "slug": "remote-installer-github",
     "title": "remote-installer",
     "shortDescription": "Quickly install signed iOS and Android builds on real devices over the internet without waiting for Testlight or Play Beta.",
