@@ -1,5 +1,133 @@
 [
   {
+    "slug": "modelregistry-github",
+    "title": "ModelRegistry",
+    "shortDescription": "ModelRegistry is a community-driven, machine-readable index tracking the state of foundational artificial intelligence.",
+    "fullDescription": "ModelRegistry is a community-driven, machine-readable index tracking the state of foundational artificial intelligence.\n\nАвтор: TirupMehta. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://modelregistry.tirup.in",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "community-driven",
+      "latest-model",
+      "modelregistry",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1354976291",
+    "createdAt": "2026-09-04T00:51:07.424Z"
+  },
+  {
+    "slug": "composio-nix-github",
+    "title": "composio-nix",
+    "shortDescription": "Composio-CLI for NixOS",
+    "fullDescription": "Composio-CLI for NixOS\n\nАвтор: mehy3dd1nov. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/ComposioHQ/composio",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "cli",
+      "composio",
+      "nixos",
+      "tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1355151622",
+    "createdAt": "2026-09-04T00:51:07.424Z"
+  },
+  {
+    "slug": "price-github",
+    "title": "price",
+    "shortDescription": "Public price history for LLM inference across 100+ platforms. Updated every 6 hours; git is the time-series database.",
+    "fullDescription": "Public price history for LLM inference across 100+ platforms. Updated every 6 hours; git is the time-series database.\n\nАвтор: tokencanopy. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/tokencanopy/price",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "bedrock",
+      "dataset",
+      "deepseek",
+      "git-scraping",
+      "github-actions",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1354323494",
+    "createdAt": "2026-09-04T00:51:07.424Z"
+  },
+  {
+    "slug": "broseidon-github",
+    "title": "broseidon",
+    "shortDescription": "Custom tool for productivity, billions must build.",
+    "fullDescription": "Custom tool for productivity, billions must build.\n\nАвтор: interamps. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/interamps/broseidon",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "model",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1355065503",
+    "createdAt": "2026-09-04T00:51:07.424Z"
+  },
+  {
+    "slug": "election-pulse-timesfm-github",
+    "title": "election-pulse-timesfm",
+    "shortDescription": "Predicting Polish election dynamics and candidate momentum using Google's TimesFM zero-shot multivariate foundation model conditioned on po…",
+    "fullDescription": "Predicting Polish election dynamics and candidate momentum using Google's TimesFM zero-shot multivariate foundation model conditioned on polling data, search trends, and macro indicators.\n\nАвтор: takzen. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://https://pulswyborczy.pl/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "cuda",
+      "deep-learning",
+      "dhondt",
+      "election-forecasting",
+      "forecasting",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1354692540",
+    "createdAt": "2026-09-04T00:51:07.424Z"
+  },
+  {
+    "slug": "peon-poke-github",
+    "title": "peon-poke",
+    "shortDescription": "Trackpad haptic notifications on Mac for when your AI coding agent needs you. Office-friendly sibling of peon-ping.",
+    "fullDescription": "Trackpad haptic notifications on Mac for when your AI coding agent needs you. Office-friendly sibling of peon-ping.\n\nАвтор: romeobravo. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/romeobravo/peon-poke",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-engineering",
+      "claude-code",
+      "codex",
+      "cursor",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1354876210",
+    "createdAt": "2026-09-04T00:51:07.424Z"
+  },
+  {
     "slug": "drawdb-pro-design-database-schemas-for-your-team-and-agents-hn",
     "title": "DrawDB Pro – design database schemas for your team and agents",
     "shortDescription": "2 years ago I launched drawDB on here. It was my very first project that I open-sourced and it ended up going kinda viral. A month ago I la…",
