@@ -1,5 +1,59 @@
 [
   {
+    "slug": "paddock-github",
+    "title": "paddock",
+    "shortDescription": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/…",
+    "fullDescription": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/Q4, built-in Studio\n\nАвтор: truespar. Найдено в GitHub Trending (AI-тематика). ⭐ 34 звёзд.",
+    "url": "https://github.com/truespar/paddock",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "aimodels",
+      "blackwell",
+      "cuda",
+      "inference",
+      "inference-engine",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1356375344",
+    "createdAt": "2026-09-04T22:26:48.644Z"
+  },
+  {
+    "slug": "time-wizard-hn",
+    "title": "Time Wizard",
+    "shortDescription": "How scalably can we cheaply fine-tune small models for well-defined tasks? Frontier models are bad at clock reading. I fine-tuned a tiny 45…",
+    "fullDescription": "How scalably can we cheaply fine-tune small models for well-defined tasks? Frontier models are bad at clock reading. I fine-tuned a tiny 450M model from Liquid AI to match GPT-5.6 Sol and beat Fable 5.1 on this task. Here’s my fine-tuned open model called Time Wizard.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://huggingface.co/jadidbourbaki/time-wizard",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49570829",
+    "createdAt": "2026-09-04T22:26:48.383Z"
+  },
+  {
+    "slug": "tesorohelp-rogue-ai-helpdesk-for-my-kids-high-school-hn",
+    "title": "Tesoro.help – rogue AI helpdesk for my kid's high school",
+    "shortDescription": "My kid just started high school. The way they communicate information is absolutely insane. So I built a web scraper + MCP to aggregate it…",
+    "fullDescription": "My kid just started high school. The way they communicate information is absolutely insane. So I built a web scraper + MCP to aggregate it all, then layered on a snarky chatbot with a PG-13 Dave Chappelle personality. The number of communication channels are just insane: - email - Google Docs - Canvas - PDFs - School Messenger - the official school website - 5 different other websites that they don&#x27;t tell you about (eg athletics website) - 22 (!) Instagram accounts for various school clubs &amp; sports - district website &amp; calendar Oh, and if you call the school office, they say &quot;look at the website&quot; or &quot;that&#x27;s handled by a different department.&quot; The whole system is just insane. So I did something about it. With AI. Last weekend. - Scraper: indexes all the public PDFs, GDocs, websites and Instagram accounts they have 4x per school day. It even transcribes images, because yes, they announce important deadlines over Instagram... as images!!! &lt;dies inside&gt; - MCP server: makes all of the above available to any AI. - Chatbot: Gemini 3.7 Flash with a &quot;PG-13 Dave Chappelle&quot; persona that answers legit questions helpfully and cracks jokes. All answers are grounded in the MCP and web search as a fallback. Trolls you if you go off-topic. Threatens to lookup your IP and report you to the principal if you ask for homework help. Prompt is loaded with deep research on the school and surrounding area as a fodder for jokes. It&#x27;s awesome. I&#x27;m proud. And finally I know what the hell is going on with my kid&#x27;s school!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://tesoro.help/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49569854",
+    "createdAt": "2026-09-04T22:26:48.383Z"
+  },
+  {
     "slug": "edgemosaic-github",
     "title": "EdgeMosaic",
     "shortDescription": "Rapid on-device AI evaluation lab: manifest validation, benchmark plans, latency/memory/thermal aggregation, JSON+Markdown reports.",
