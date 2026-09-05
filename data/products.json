@@ -1,5 +1,42 @@
 [
   {
+    "slug": "short-video-generator-ai-github",
+    "title": "short-video-generator-AI",
+    "shortDescription": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceove…",
+    "fullDescription": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.\n\nАвтор: pierrenade. Найдено в GitHub Trending (AI-тематика). ⭐ 26 звёзд.",
+    "url": "https://github.com/pierrenade/short-video-generator-AI",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-video",
+      "python",
+      "short-video-maker",
+      "video-generation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1358140812",
+    "createdAt": "2026-09-05T15:25:53.512Z"
+  },
+  {
+    "slug": "screenshotify-rename-screenshots-with-ai-hn",
+    "title": "Screenshotify – Rename Screenshots with AI",
+    "shortDescription": "Your screenshots folder, but the filenames make sense.",
+    "fullDescription": "Your screenshots folder, but the filenames make sense.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/shaqkao/screenshotify",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49577267",
+    "createdAt": "2026-09-05T15:25:53.314Z"
+  },
+  {
     "slug": "zipply-github",
     "title": "Zipply",
     "shortDescription": "Zipply - Simple Ai Agent",
