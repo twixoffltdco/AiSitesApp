@@ -1,5 +1,40 @@
 [
   {
+    "slug": "llms-robot-arena-github",
+    "title": "llms-robot-arena",
+    "shortDescription": "An arena where LLMs write robot controllers and their code competes.",
+    "fullDescription": "An arena where LLMs write robot controllers and their code competes.\n\nАвтор: nigrosimone. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://nigrosimone.github.io/llms-robot-arena/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "benchmark",
+      "llms",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1357901203",
+    "createdAt": "2026-09-05T21:28:46.746Z"
+  },
+  {
+    "slug": "i-replaced-my-portfolio-with-an-ai-that-knows-me-hn",
+    "title": "I replaced my portfolio with an AI that knows me",
+    "shortDescription": "I wanted to do something &quot;new&quot;. I&#x27;m not 100% sure if this is really new since I don&#x27;t really check out other people the…",
+    "fullDescription": "I wanted to do something &quot;new&quot;. I&#x27;m not 100% sure if this is really new since I don&#x27;t really check out other people their portfolio&#x27;s. It&#x27;s been on my &quot;to do&quot; for a long time to redo my portfolio page. Now with AI coming and stuff, I thought I might as well do it like this. The original content of my previous portfolio (projects, achievements, blog posts) are also still accessible and stuff. I would love feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://xlogic.sh/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49580685",
+    "createdAt": "2026-09-05T21:28:46.635Z"
+  },
+  {
     "slug": "openrobots-hn",
     "title": "Openrobots",
     "shortDescription": "OpenRobots – free, open-source robots.txt generator for AI crawlers",
