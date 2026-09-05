@@ -1,5 +1,41 @@
 [
   {
+    "slug": "gtamapstyle-github",
+    "title": "gtamapstyle",
+    "shortDescription": "使用 GTA 5 风格生成城市地图",
+    "fullDescription": "使用 GTA 5 风格生成城市地图\n\nАвтор: linconz. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/linconz/gtamapstyle",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "skills",
+      "skills-prompts",
+      "vibecoding",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1355641728",
+    "createdAt": "2026-09-05T04:47:45.478Z"
+  },
+  {
+    "slug": "rubato-retro-mac-desk-device-mirrors-ai-coding-state-esp8266-hn",
+    "title": "Rubato – Retro-Mac desk device mirrors AI coding state-ESP8266",
+    "shortDescription": "Hi everyone! I have built an AI health device (ESP8266 + 240*240 screen). It can show AI Agents&#x27; status in real time with breathing bu…",
+    "fullDescription": "Hi everyone! I have built an AI health device (ESP8266 + 240*240 screen). It can show AI Agents&#x27; status in real time with breathing bubble. And remind user dringking water, toilet, streth, etc. support: DeepSeek Harness, opencode, OpenClaw, Claude Code, Cursor. Hardware design, firmware and plugins are all opensource. urls are here: https:&#x2F;&#x2F;github.com&#x2F;lovaxi&#x2F;Rubato_Device https:&#x2F;&#x2F;github.com&#x2F;lovaxi&#x2F;Rubato_Plugins Type-c power supply, 2.4G wifi. Online sell on Tindie: https:&#x2F;&#x2F;www.tindie.com&#x2F;products&#x2F;beartificialintelligence&#x2F;rub... . But building your own is also OK. Ask me anything. Thanks.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/lovaxi/Rubato_Device",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49572780",
+    "createdAt": "2026-09-05T04:47:45.333Z"
+  },
+  {
     "slug": "freepro-github",
     "title": "freepro",
     "shortDescription": "A lightweight local proxy for free AI models, with an OpenAI-compatible API, automatic key rotation, a dark usage dashboard, and one-click…",
