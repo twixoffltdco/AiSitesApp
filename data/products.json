@@ -1,5 +1,27 @@
 [
   {
+    "slug": "pixal-3d-github",
+    "title": "PIXAL-3D",
+    "shortDescription": "Pixal3D Studio — one-click image to 3D (GLB) for Pinokio. Clean studio UI on ComfyUI, tuned for 8-12GB VRAM GPUs.",
+    "fullDescription": "Pixal3D Studio — one-click image to 3D (GLB) for Pinokio. Clean studio UI on ComfyUI, tuned for 8-12GB VRAM GPUs.\n\nАвтор: PrimeEcto. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/PrimeEcto/PIXAL-3D",
+    "category": "image-video",
+    "tags": [
+      "3d-generation",
+      "ai",
+      "comfyui",
+      "cuda",
+      "generative-ai",
+      "glb",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1357730860",
+    "createdAt": "2026-09-05T17:27:35.914Z"
+  },
+  {
     "slug": "short-video-generator-ai-github",
     "title": "short-video-generator-AI",
     "shortDescription": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceove…",
