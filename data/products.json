@@ -1,5 +1,97 @@
 [
   {
+    "slug": "attic-github",
+    "title": "Attic",
+    "shortDescription": "Your agent re-reads the same files after every /compact. Attic writes findings to .attic/ so it doesn't.",
+    "fullDescription": "Your agent re-reads the same files after every /compact. Attic writes findings to .attic/ so it doesn't.\n\nАвтор: NishikantaRay. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/NishikantaRay/Attic",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "codex",
+      "codex-skill",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1356761838",
+    "createdAt": "2026-09-05T08:48:01.140Z"
+  },
+  {
+    "slug": "mongotar-github",
+    "title": "mongotar",
+    "shortDescription": "🌱 mongotar: files to prompt, and back.",
+    "fullDescription": "🌱 mongotar: files to prompt, and back.\n\nАвтор: sebastiancarlos. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/sebastiancarlos/mongotar",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "chatbot",
+      "chatgpt",
+      "cli",
+      "code2prompt",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1357618602",
+    "createdAt": "2026-09-05T08:48:01.140Z"
+  },
+  {
+    "slug": "forgeguardian-open-source-software-supply-chain-security-scanner-hn",
+    "title": "ForgeGuardian – Open-source software supply-chain security scanner",
+    "shortDescription": "1. Why you built it ForgeGuardian was built in order to discover the threats that software supply chain has other than those detected by th…",
+    "fullDescription": "1. Why you built it ForgeGuardian was built in order to discover the threats that software supply chain has other than those detected by the regular CVE scanning process. 2. What problem it solves Include: Malicious packages Typosquatting Dependency attacks Behavioral threats Malware Threats related to AI&#x2F;MCP 3. What you actually built This includes: 8 detection engines 9 ecosystems More than 223 detection signatures CLI&#x2F;web dashboards Offline&#x2F;local-first functionality SBOM Policy enforcement CI&#x2F;CD Webhooks Prevention&#x2F;quarantine 4. What you want HN users to look at This is crucial. Ask a legitimate technical question, e.g.: I would be most interested in hearing feedback about the detection mechanism and what you see as the weaknesses of supply-chain scanners. I would also love to get your opinion on the signature model and false positives management.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Mah3Sec/ForgeGuardian",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49574041",
+    "createdAt": "2026-09-05T08:48:01.094Z"
+  },
+  {
+    "slug": "mu-two-minute-visualized-lessons-on-modern-ai-hn",
+    "title": "Mu, two-minute visualized lessons on modern AI",
+    "shortDescription": "Hi HN, I am Sreedath Panat. A year ago, I had started a habit of making small explainer videos of 2-3 minutes to help me understand, in a n…",
+    "fullDescription": "Hi HN, I am Sreedath Panat. A year ago, I had started a habit of making small explainer videos of 2-3 minutes to help me understand, in a nutshell, some of the difficult-to-understand research papers. I&#x27;m not saying that this gave me a deep understanding, but it definitely helped me set foot into some of the research papers (eg: I-JEPA, flamingo paper etc). Then I thought, why can&#x27;t the same technique be used for getting a minimal understanding of different concepts within AI? There is a reason why I try to convert this thought into a simple product. The 2-minute micro lessons are fully built using extensive workflow I have set up in Claude Code with a good voice agent from ElevenLabs. I have extensively tested this myself. If I find the micro videos interesting or not, I found it extremely helpful, and after that, I decided to release the product. There are a couple of free starter courses that you can check out, and if interested, feel free to subscribe. Would love to hear your feedback also.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://mu.vizuara.ai/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49573645",
+    "createdAt": "2026-09-05T08:48:01.094Z"
+  },
+  {
+    "slug": "ragleap-core-46-ai-employees-open-source-langchain-alt-hn",
+    "title": "RagLeap Core – 46 AI Employees, open-source LangChain alt",
+    "shortDescription": "Проект «RagLeap Core – 46 AI Employees, open-source LangChain alt», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «RagLeap Core – 46 AI Employees, open-source LangChain alt», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/antonyrag/ragleap-core",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49573630",
+    "createdAt": "2026-09-05T08:48:01.094Z"
+  },
+  {
     "slug": "gtamapstyle-github",
     "title": "gtamapstyle",
     "shortDescription": "使用 GTA 5 风格生成城市地图",
