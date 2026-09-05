@@ -1,5 +1,37 @@
 [
   {
+    "slug": "openrobots-hn",
+    "title": "Openrobots",
+    "shortDescription": "OpenRobots – free, open-source robots.txt generator for AI crawlers",
+    "fullDescription": "OpenRobots – free, open-source robots.txt generator for AI crawlers\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://openrobots.vercel.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49579305",
+    "createdAt": "2026-09-05T19:19:04.956Z"
+  },
+  {
+    "slug": "debugging-designs-hn",
+    "title": "debugging designs",
+    "shortDescription": "Проект «debugging designs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «debugging designs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.debugging.design/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49578910",
+    "createdAt": "2026-09-05T19:19:04.956Z"
+  },
+  {
     "slug": "pixal-3d-github",
     "title": "PIXAL-3D",
     "shortDescription": "Pixal3D Studio — one-click image to 3D (GLB) for Pinokio. Clean studio UI on ComfyUI, tuned for 8-12GB VRAM GPUs.",
