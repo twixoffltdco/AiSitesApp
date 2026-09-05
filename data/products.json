@@ -1,5 +1,150 @@
 [
   {
+    "slug": "freepro-github",
+    "title": "freepro",
+    "shortDescription": "A lightweight local proxy for free AI models, with an OpenAI-compatible API, automatic key rotation, a dark usage dashboard, and one-click…",
+    "fullDescription": "A lightweight local proxy for free AI models, with an OpenAI-compatible API, automatic key rotation, a dark usage dashboard, and one-click Kimi Code setup.\n\nАвтор: menscho. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/menscho/freepro",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "llm",
+      "proxy",
+      "zig",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1357670008",
+    "createdAt": "2026-09-05T00:16:32.984Z"
+  },
+  {
+    "slug": "sid-code-github",
+    "title": "sid-code",
+    "shortDescription": "跑在终端的 coding agent —— 多 provider 可插拔、harness 全可改、数据不出门、每轮留轨迹",
+    "fullDescription": "跑在终端的 coding agent —— 多 provider 可插拔、harness 全可改、数据不出门、每轮留轨迹\n\nАвтор: njfuzrs. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://www.sid-code.cc",
+    "category": "developer",
+    "tags": [
+      "agent",
+      "ai",
+      "bun",
+      "cli",
+      "coding-agent",
+      "developer-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1356449100",
+    "createdAt": "2026-09-05T00:16:32.984Z"
+  },
+  {
+    "slug": "anchor-github",
+    "title": "anchor",
+    "shortDescription": "The institutional memory of every organization — an open protocol for semantic models, local-first reference CLI and MCP for agents.",
+    "fullDescription": "The institutional memory of every organization — an open protocol for semantic models, local-first reference CLI and MCP for agents.\n\nАвтор: trybacked. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://backed.app/",
+    "category": "developer",
+    "tags": [
+      "agent",
+      "ai",
+      "knowledge",
+      "ontology",
+      "semantic",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1356532287",
+    "createdAt": "2026-09-05T00:16:32.984Z"
+  },
+  {
+    "slug": "aimt-github",
+    "title": "aimt",
+    "shortDescription": "A structured knowledge system that helps AI agents understand, reason, learn, and work with anything.",
+    "fullDescription": "A structured knowledge system that helps AI agents understand, reason, learn, and work with anything.\n\nАвтор: aimt010. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/aimt010/aimt",
+    "category": "ai-tool",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "aimt",
+      "artificial-intelligence",
+      "knowledge-system",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1356185513",
+    "createdAt": "2026-09-05T00:16:32.984Z"
+  },
+  {
+    "slug": "slopify-github",
+    "title": "slopify",
+    "shortDescription": "AI Slop, on demand. From prompts, to videos, to infecting the internet.",
+    "fullDescription": "AI Slop, on demand. From prompts, to videos, to infecting the internet.\n\nАвтор: GentBajko. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://slopify.stream",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "aislop",
+      "llm",
+      "slop",
+      "video",
+      "video-generation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1355905656",
+    "createdAt": "2026-09-05T00:16:32.984Z"
+  },
+  {
+    "slug": "enzo-github",
+    "title": "ENZO",
+    "shortDescription": "Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK).",
+    "fullDescription": "Self-hosted AI workspace with agents, skills, and tools (Gmail, Calendar) that runs entirely on your own provider API keys (BYOK).\n\nАвтор: theguysudo. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://enzo-hub.duckdns.org",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "byok",
+      "docker",
+      "llm",
+      "llm-agents",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1355857144",
+    "createdAt": "2026-09-05T00:16:32.984Z"
+  },
+  {
+    "slug": "timervana-a-local-first-scheduler-for-real-world-routines-hn",
+    "title": "TimerVana a Local-first scheduler for real world routines",
+    "shortDescription": "Hi HN, I’m the creator of TimerVana. It&#x27;s not just &quot;another timer app&quot;. The engineering analogy is a lightweight task schedu…",
+    "fullDescription": "Hi HN, I’m the creator of TimerVana. It&#x27;s not just &quot;another timer app&quot;. The engineering analogy is a lightweight task scheduler for things people do in the real world. A normal timer models one countdown. TimerVana models a small dependency graph in JSON: some steps run sequentially, others run in parallel, and everything can converge on a target finish time. You can also combine multiple timers (e.g., combine a timer with all the steps to cook a steak + a timer for roasting vegetables). I originally built it because I often set multiple timers and alarms when cooking and got tired of repeatedly juggling separate alarms to get a main dish and several sides ready together. The same model also works for workouts, study sessions, morning routines, and other repeatable processes. The iPhone app is local-first by design [0]. You can create, save, and run timers entirely on your phone without an account or cloud sharing. If you want the networked features, the companion website lets you browse and download timers, upload your own, and share them with other people. Everything available today is free. I may eventually add optional AI-assisted timer creation as a paid feature, but I haven’t settled on the business model or pricing. I&#x27;m more doing this to solve my own problem and hope it will help others as well. I’m interested in whether the underlying abstraction makes sense: does a sequence of dependent and parallel timed steps help you? I’d also appreciate feedback on the balance I took between the completely local experience and the optional sharing layer (I was partially inspired by the old iOS Workflow App, which was acquired by Apple and is now called Shortcuts). Of course, any other feedback very much appreciated. [0]: https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;timervana-share-complex-timers...\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://timervana.net/browse",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49571102",
+    "createdAt": "2026-09-05T00:16:32.785Z"
+  },
+  {
     "slug": "paddock-github",
     "title": "paddock",
     "shortDescription": "Native Rust inference server for open models on NVIDIA GPUs. OpenAI- and Anthropic-compatible APIs, GGUF + safetensors, FP8/NVFP4/MXFP4/Q8/…",
