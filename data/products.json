@@ -1,5 +1,81 @@
 [
   {
+    "slug": "zipply-github",
+    "title": "Zipply",
+    "shortDescription": "Zipply - Simple Ai Agent",
+    "fullDescription": "Zipply - Simple Ai Agent\n\nАвтор: AmnesiaCode888. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://t.me/zipplyai",
+    "category": "chatbot",
+    "tags": [
+      "agent",
+      "ai",
+      "coding-assistant",
+      "desktop-app",
+      "electron",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1357691780",
+    "createdAt": "2026-09-05T12:21:04.103Z"
+  },
+  {
+    "slug": "ailoud-github",
+    "title": "ailoud",
+    "shortDescription": "AILoud transcribes audio and video into a local library, then searches and summarises it. Speech-to-text runs on your machine; summaries ca…",
+    "fullDescription": "AILoud transcribes audio and video into a local library, then searches and summarises it. Speech-to-text runs on your machine; summaries can too.\n\nАвтор: lorem-dev. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://lorem-dev.github.io/ailoud/latest/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ailoud",
+      "audio",
+      "cli",
+      "ffmpeg",
+      "local-ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1358061497",
+    "createdAt": "2026-09-05T12:21:04.103Z"
+  },
+  {
+    "slug": "pdoom-ai-safety-parody-of-doom-64-hn",
+    "title": "P(doom) – AI safety parody of DOOM 64",
+    "shortDescription": "I had astra build a DOOM 64 clone where you play as elizier fighting hordes of misaligned AI demons • the goal is to reach the shutdown but…",
+    "fullDescription": "I had astra build a DOOM 64 clone where you play as elizier fighting hordes of misaligned AI demons • the goal is to reach the shutdown button • it&#x27;s actually really hard to beat at the highest p(doom) levels • sama appears as a miniboss open source here: https:&#x2F;&#x2F;github.com&#x2F;transitive-bullshit&#x2F;ai-safety-doom\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://p-doom.transitivebullsh.it",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49575532",
+    "createdAt": "2026-09-05T12:21:04.015Z"
+  },
+  {
+    "slug": "i-built-an-ai-that-audits-businesses-its-first-job-was-to-catch-me-hn",
+    "title": "I built an AI that audits businesses. It's first job was to catch me",
+    "shortDescription": "I built an AI that audits businesses. I ran it on my own startup. It caught me over-crediting my own business. Score: 34&#x2F;100. It cut m…",
+    "fullDescription": "I built an AI that audits businesses. I ran it on my own startup. It caught me over-crediting my own business. Score: 34&#x2F;100. It cut my own score. Most founders would hide that. I shipped it anyway. That’s the point. 7 agents. One verdict on your revenue. Scored PDF report in less than hours. At $98. Find out exactly where your business is leaking now → moltybeeai.com To build the OPERATING INTELLIGENCE LAYER for modern organizations, businesses &amp; startups. To help businesses globally unlock exponential productivity, efficiency &amp; leveraged growth through AI-NATIVE intelligence systems. To build a global OPERATING INTELLIGENCE LAYER for modern organizations, businesses &amp; startups. MoltyBeeAI™ exists to build that future. Businesses everywhere are rushing to adopt AI. Some don&#x27;t even know where to start, hiring internal AI talent grows increasingly more &amp; more expensive by the day. Most start by buying tools. (With little, to no clear ROI) We believe that&#x27;s backwards. Before implementing AI, companies should understand exactly where AI will create the greatest business impact. That&#x27;s why I built MoltyBeeAI™, to help businesses globally identify exactly where their business, revenue or operations leak, gaps &amp; hidden inefficiencies or bottlenecks affecting growth, strategy, productivity &amp; revenue. I&#x27;m Sihle Dimaza, Founder &amp; Operator of MoltyBeeAI™ The audits you buy today at moltybeeai.com are PHASE 1&#x2F;4. •Building MoltyBeeAI™ in public. Happy to share more. If you&#x27;re interested. Find out exactly where your business is leaking now → moltybeeai.com\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.moltybeeai.com/#pricing",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49575248",
+    "createdAt": "2026-09-05T12:21:04.015Z"
+  },
+  {
     "slug": "attic-github",
     "title": "Attic",
     "shortDescription": "Your agent re-reads the same files after every /compact. Attic writes findings to .attic/ so it doesn't.",
