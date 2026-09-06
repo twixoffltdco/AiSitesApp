@@ -1,5 +1,59 @@
 [
   {
+    "slug": "photoshop-plugin-nano-banana-github",
+    "title": "photoshop-plugin-nano-banana",
+    "shortDescription": "AI-проект с GitHub без описания.",
+    "fullDescription": "AI-проект с GitHub без описания.\n\nАвтор: Soldereadivider. Найдено в GitHub Trending (AI-тематика). ⭐ 21 звёзд.",
+    "url": "https://github.com/Soldereadivider/photoshop-plugin-nano-banana",
+    "category": "ai-tool",
+    "tags": [
+      "2021",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1359460992",
+    "createdAt": "2026-09-06T21:32:32.085Z"
+  },
+  {
+    "slug": "alternaterealitieslol-create-any-kind-of-poing-and-click-story-hn",
+    "title": "AlternateRealities.lol – Create any kind of poing and click story",
+    "shortDescription": "Hello Hacker News! In light of some projects like Diiverge that recently came up I have decided to make my own version, endless point and c…",
+    "fullDescription": "Hello Hacker News! In light of some projects like Diiverge that recently came up I have decided to make my own version, endless point and click adventures that can start from your own content. I also plan to add a BYOK way of generating them with your own fal.ai key in the near future too.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://alternaterealities.lol",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49591131",
+    "createdAt": "2026-09-06T21:32:31.899Z"
+  },
+  {
+    "slug": "vodforge-a-free-local-desktop-ui-for-youtube-videoplaylist-downloads-hn",
+    "title": "VODForge – a free local desktop UI for YouTube video/playlist downloads",
+    "shortDescription": "I built VODForge because I work with a CTV company that needed to pull YouTube videos from our channel partners into our media workflow. Co…",
+    "fullDescription": "I built VODForge because I work with a CTV company that needed to pull YouTube videos from our channel partners into our media workflow. Converter sites are always an option but the bitrate wasn&#x27;t optimal for a CTV network that needs to make multiple streaming version off of a single source file. So I build vodforge to use yt-dlp and ffmpeg under the hood with preconfigured settings for the highest quality end result, automatically adjusting the output settings based on source quality, frame rate, and things like that. It became a game changer internally for us because we were able to avoid sketchy converter sites and avoid paid converter software. Eventually I decided to release it for free and others loved it as well. We started to add support for many of the features that other software charges for, supporting 4K, playlist support, customizing application theme, persistent searchable library, auto organizing downloads by channel and playlist, MP3 support up to 320 kbps, and much more. Looking for feedback on the user experience and additional features that you might find useful. My goal is to grow VODForge into a widely adopted free tool for people who do not want to deal with sketchy websites, CLI mess, or pay for things that you could ultimately do for free given time and effort. VODForge wants to make it EASY and maintained for you. We know anyone can make a GUI wrapper, but that is a trivial way to describe what VODForge aims to offer, user-friendliness, &quot;it just works&quot;, libraries and packages maintained for you. All you should think about is what to download next. VODForge awaits...\n\nНайдено в разделе Show HN на Hacker News. 👍 11 баллов.",
+    "url": "https://getvodforge.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49590354",
+    "createdAt": "2026-09-06T21:32:31.899Z"
+  },
+  {
     "slug": "projectuai-github",
     "title": "ProjectUAI",
     "shortDescription": "Project UAI is a universal AI agent that runs directly inside Roblox. It brings a Claude Code–style agent loop to the Roblox client, allowi…",
