@@ -1,5 +1,109 @@
 [
   {
+    "slug": "interviewmyai-github",
+    "title": "interview_my_ai",
+    "shortDescription": "Interview My AI is an interactive portfolio experience where visitors can engage with my AI persona in a Q&A format. It showcases my knowle…",
+    "fullDescription": "Interview My AI is an interactive portfolio experience where visitors can engage with my AI persona in a Q&A format. It showcases my knowledge, problem‑solving style, and communication skills, turning my portfolio into a dynamic interview space that highlights both technical depth and personal insight.\n\nАвтор: Aum121221. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/Aum121221/interview_my_ai",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "career",
+      "career-platform",
+      "chunking-files",
+      "gemini-embeddings",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1356848310",
+    "createdAt": "2026-09-06T01:12:00.099Z"
+  },
+  {
+    "slug": "orgupdate-claude-ai-jobs-github",
+    "title": "Orgupdate-Claude-AI-Jobs",
+    "shortDescription": "A step‑by‑step manual for using Claude to pull job listings from every major job board at once, then rank, de‑duplicate, export, and keep t…",
+    "fullDescription": "A step‑by‑step manual for using Claude to pull job listings from every major job board at once, then rank, de‑duplicate, export, and keep them fresh — no code.\n\nАвтор: orgupdate. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "orgupdate.com",
+    "category": "no-code",
+    "tags": [
+      "ai",
+      "automation",
+      "claude",
+      "google-jobs",
+      "indeed",
+      "jobs",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1357012586",
+    "createdAt": "2026-09-06T01:12:00.099Z"
+  },
+  {
+    "slug": "catchai-github",
+    "title": "CatchAI",
+    "shortDescription": "CatchAI is a personal, local Windows voice assistant powered by “Hey Jarvis” wake-word detection, offline speech recognition, Ollama, Spoti…",
+    "fullDescription": "CatchAI is a personal, local Windows voice assistant powered by “Hey Jarvis” wake-word detection, offline speech recognition, Ollama, Spotify/YouTube controls, system automation, weather, Wikipedia, and a floating PySide6 interface. This public beta is open for anyone to clone, fork, customize, and build upon.\n\nАвтор: putbullet. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/putbullet/CatchAI",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-coding",
+      "ai-model",
+      "ai-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1358455056",
+    "createdAt": "2026-09-06T01:12:00.099Z"
+  },
+  {
+    "slug": "tokenwatch-mac-github",
+    "title": "TokenWatch-Mac",
+    "shortDescription": "Native Swift macOS AI usage tracker — 5.3 MB Universal DMG, ~45 MB idle memory, near-zero idle CPU, ~0.86s incremental Codex refresh.",
+    "fullDescription": "Native Swift macOS AI usage tracker — 5.3 MB Universal DMG, ~45 MB idle memory, near-zero idle CPU, ~0.86s incremental Codex refresh.\n\nАвтор: NathanWu12. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/NathanWu12/TokenWatch-Mac",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude-code",
+      "codex",
+      "macos",
+      "menubar",
+      "swift",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1357093332",
+    "createdAt": "2026-09-06T01:12:00.099Z"
+  },
+  {
+    "slug": "midjourney-api-with-webhooks-polling-hn",
+    "title": "Midjourney API with webhooks, polling",
+    "shortDescription": "Generate AI Images Programmatically Submit prompts, receive image URLs, and integrate Midjourney into any app or workflow. Supports Python,…",
+    "fullDescription": "Generate AI Images Programmatically Submit prompts, receive image URLs, and integrate Midjourney into any app or workflow. Supports Python, Node.js, and any HTTP client.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.midjourney-api.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49581947",
+    "createdAt": "2026-09-06T01:11:59.943Z"
+  },
+  {
     "slug": "llms-robot-arena-github",
     "title": "llms-robot-arena",
     "shortDescription": "An arena where LLMs write robot controllers and their code competes.",
