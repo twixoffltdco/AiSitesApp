@@ -1,5 +1,59 @@
 [
   {
+    "slug": "hakovm-github",
+    "title": "HakoVM",
+    "shortDescription": "HakoVM: Firecracker-class microVMs for macOS, built for AI agents. One binary on Apple's Containerization framework.",
+    "fullDescription": "HakoVM: Firecracker-class microVMs for macOS, built for AI agents. One binary on Apple's Containerization framework.\n\nАвтор: las7. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/las7/HakoVM",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-coding",
+      "ai-governance",
+      "ai-safety",
+      "ai-security",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1358679040",
+    "createdAt": "2026-09-06T23:27:39.947Z"
+  },
+  {
+    "slug": "chrome-bridge-let-any-ai-agent-drive-your-real-logged-in-chrome-hn",
+    "title": "Chrome-bridge – let any AI agent drive your real logged-in Chrome",
+    "shortDescription": "Проект «Chrome-bridge – let any AI agent drive your real logged-in Chrome», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Chrome-bridge – let any AI agent drive your real logged-in Chrome», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/siropkin/chrome-bridge",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49591828",
+    "createdAt": "2026-09-06T23:27:39.908Z"
+  },
+  {
+    "slug": "maskshift-a-maximalist-coding-agent-with-zero-npm-dependencies-hn",
+    "title": "MaskShift – a maximalist coding agent with zero NPM dependencies",
+    "shortDescription": "MaskShift is a local-first coding agent harness. Features: - Works with models that have no tool-calling API. Tool schemas are rendered int…",
+    "fullDescription": "MaskShift is a local-first coding agent harness. Features: - Works with models that have no tool-calling API. Tool schemas are rendered into the system prompt and the model calls them by writing a block in its reply, parsed back into a normal tool call. - No npm runtime dependencies. Daemon are Node 22 built-ins only. Install is a file copy and a symlink. - Multi-provider: Ollama, OpenAI, Anthropic, Gemini, OpenRouter, LM Studio, vLLM. - 148 native tools: filesystem, shell, search&#x2F;indexing, Git and Workspace, LSP, browser&#x2F;CDP, containers, SSH, databases, web fetch. - Lazy MCP loading. Catalog is searched, the relevant server connects on demand, only those tools enter the context window. - 36 bundled skills, plus skills imported from Claude, Codex, and Copilot directories. - Bridges to Claude Code, Codex, OpenCode, Copilot CLI, and Aider when they&#x27;re on PATH. - Scheduled automations, plugins, persistent memory, parallel agents in isolated worktrees. - Web cockpit with live run telemetry, plan pane, tool traces, source browser, and a host terminal. Permissive by default. No per-command approval. Recovery is pre-run checkpoints, Git stash refs, and an append-only audit log. Keep it on loopback or in the container.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/nafeeur/MaskShift",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49591238",
+    "createdAt": "2026-09-06T23:27:39.908Z"
+  },
+  {
     "slug": "photoshop-plugin-nano-banana-github",
     "title": "photoshop-plugin-nano-banana",
     "shortDescription": "AI-проект с GitHub без описания.",
