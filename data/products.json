@@ -1,5 +1,119 @@
 [
   {
+    "slug": "hanshuang-codex-github",
+    "title": "hanshuang-codex",
+    "shortDescription": "针对GPT 5.6,V4flash的破甲实验项目",
+    "fullDescription": "针对GPT 5.6,V4flash的破甲实验项目\n\nАвтор: aimeoa. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/aimeoa/hanshuang-codex",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "codex",
+      "codex-cli",
+      "desktop-app",
+      "jailbreak",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1358948316",
+    "createdAt": "2026-09-06T14:19:09.533Z"
+  },
+  {
+    "slug": "vortex-github",
+    "title": "Vortex",
+    "shortDescription": "ИИ под названием Vortex для любых задач",
+    "fullDescription": "ИИ под названием Vortex для любых задач\n\nАвтор: Delinor-Hens. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/Delinor-Hens/Vortex",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "core",
+      "cpp",
+      "cpp11",
+      "cpython",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1359059989",
+    "createdAt": "2026-09-06T14:19:09.533Z"
+  },
+  {
+    "slug": "exploration-atlas-github",
+    "title": "exploration-atlas",
+    "shortDescription": "AI-powered location-based living map template for birthdays and city adventures",
+    "fullDescription": "AI-powered location-based living map template for birthdays and city adventures\n\nАвтор: aaron2000dq. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/aaron2000dq/exploration-atlas",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "interactive-map",
+      "pwa",
+      "react",
+      "typescript",
+      "vibe-coding",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1357966081",
+    "createdAt": "2026-09-06T14:19:09.533Z"
+  },
+  {
+    "slug": "automatically-save-60-on-amazon-hn",
+    "title": "Automatically Save 60% on Amazon",
+    "shortDescription": "Findcheap is a search agent that finds the best price in one click. It performs &gt;2x better than the next-best frontier model (GPT-6 Astr…",
+    "fullDescription": "Findcheap is a search agent that finds the best price in one click. It performs &gt;2x better than the next-best frontier model (GPT-6 Astra), albeit on a very specific task. Full benchmark results: https:&#x2F;&#x2F;findcheap.ai&#x2F;introducing-findcheap It works on every product page on the internet, and is able to successfully find better deals for 94% of them. Feel free to roast!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://chromewebstore.google.com/detail/findcheap/fpghkhnkfjlenapcdahgaafenfaopidn",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49586711",
+    "createdAt": "2026-09-06T14:19:09.502Z"
+  },
+  {
+    "slug": "free-ai-photo-editor-online-no-sign-up-hn",
+    "title": "Free AI Photo Editor Online – No Sign-Up",
+    "shortDescription": "Проект «Free AI Photo Editor Online – No Sign-Up», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Free AI Photo Editor Online – No Sign-Up», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://piceditor.org/",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49586554",
+    "createdAt": "2026-09-06T14:19:09.502Z"
+  },
+  {
+    "slug": "object-remover-ai-video-object-remover-online-hn",
+    "title": "Object Remover – AI Video Object Remover Online",
+    "shortDescription": "Проект «Object Remover – AI Video Object Remover Online», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Object Remover – AI Video Object Remover Online», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://objectremover.online/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49586328",
+    "createdAt": "2026-09-06T14:19:09.502Z"
+  },
+  {
     "slug": "openqa-skills-github",
     "title": "openqa-skills",
     "shortDescription": "Open-source verification skills for coding agents",
