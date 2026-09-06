@@ -1,5 +1,58 @@
 [
   {
+    "slug": "maintainers-guide-to-ai-github",
+    "title": "maintainers-guide-to-ai",
+    "shortDescription": "a book about how to use AI responsibly and well for software projects",
+    "fullDescription": "a book about how to use AI responsibly and well for software projects\n\nАвтор: jyn514. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "http://ai-maintainers.jyn.dev/",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "ai-coding",
+      "ai-workflows",
+      "maintenance",
+      "process-engineering",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1358814047",
+    "createdAt": "2026-09-06T17:14:08.240Z"
+  },
+  {
+    "slug": "ontoplano-foss-life-management-desktop-and-mobile-app-with-mcp-server-hn",
+    "title": "Ontoplano, FOSS Life Management desktop and mobile app with MCP server",
+    "shortDescription": "Hi, I am Estevão, the developer of Ontoplano, a holistic life management webapp, supporting *tasks planning, todos, goals, habits, notebook…",
+    "fullDescription": "Hi, I am Estevão, the developer of Ontoplano, a holistic life management webapp, supporting *tasks planning, todos, goals, habits, notebooks, people, inventory tracking, recipes, and more.* I built this app because my life was spread over multiple different apps and pieces of paper. Ontoplano started as a weekly planner that I made (because I dislike sharing my life information with Google and also had nitpicks with every FOSS calendar I tried) and grew into one app for everything personal. As said in the title, the project is completely free and open source, licensed under AGPL-3.0, for anyone who wants to run their own instance. I run my own instance at app.ontoplano.com, for people who aren&#x27;t into self hosting. On it, there are no ads, no tracking&#x2F;profiling code, no telemetry, no tricks whatsoever. You can leave it at any time and take all your data with you. I firmly believe software should empower people, not exploit them, and I hope that&#x27;s just what I can provide the world with by releasing Ontoplano. Furthermore, I also like software to be beautiful and practical. Ontoplano (self-hosted or not) comes with a Mobile app (PWA or the APK if you want the widget and prettier-looking notifications), and a MCP server for using it with AI (if you hate AI, don&#x27;t worry, there is no built-in AI to opt-out of, only a MCP server you can create a token for, or not). I implemented these two because: 1. I wanted to use it smoothly, even if I am away from home 2. Sometimes is much easier to say &quot;Hey AI, put on Ontoplano that last week I actually slacked off and played videogames everyday&quot; than manually doing that in a calendar, for psychological and time-consuming reasons. Besides that, you can also: - Import your notes&#x2F;todo tasks from Google Tasks, Google Keep, Obsidian, Todoist, and more in the future. - Calendar sync with Google Calendar (or other calendars) using ICS - Access your shopping list offline it, and share it with your family members (if you want to). And there is more in the roadmap. Any help is appreciated — be it you self-hosting to help me find bugs and improve the app, be it you giving me a star on GitHub. Thank you for your attention. Main website: https:&#x2F;&#x2F;ontoplano.com Demo (no signup, throwaway account): https:&#x2F;&#x2F;demo.ontoplano.com Code: https:&#x2F;&#x2F;github.com&#x2F;ontoplano&#x2F;ontoplano Docs: https:&#x2F;&#x2F;docs.ontoplano.com\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/ontoplano/ontoplano",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49588540",
+    "createdAt": "2026-09-06T17:14:08.154Z"
+  },
+  {
+    "slug": "whatthemoviecom-a-movie-still-guessing-game-hn",
+    "title": "Whatthemovie.com, a movie-still guessing game",
+    "shortDescription": "Hey HN! Long time reader here. I recently spent over five months to modernize an old website I have been working on since 2008: https:&#x2F…",
+    "fullDescription": "Hey HN! Long time reader here. I recently spent over five months to modernize an old website I have been working on since 2008: https:&#x2F;&#x2F;whatthemovie.com . This is a simple game where people uploads screenshots from movies, and other players have to guess the title of the movie from where the image was taken. This is really images from movie scenes, not promotional stuff or whatever. We have 70k users (but most are from the 2008-2010 area so inactive), and more than 600k images uploaded by our users for 18 years. Around 30k movies in the database too. Thanks to LLMs I was about to modernize the stack which was in an awful state (Rails 4.2, Ruby 2.4 Spaghettis code, Protoytype.js and CSS code directly in HTML etc). It was exhausting to do all the refactoring and modernization but at the end I&#x27;m happy with the result. We also have now &quot;Daily challenges&quot; (like Wordle or framed.wtf) where every day a new challenge is posted and players have to find the title of the movie with a different type of challenge everyday (unzoom, cuts, focus..). It doesn&#x27;t need an account at all: https:&#x2F;&#x2F;whatthemovie.com&#x2F;daily We also have &quot;closed contests&quot; in the vault: basically we organize temporary contests where all shots uploaded must match a specific criteria (a decade, a genre, &quot;emotions&quot;, &quot;cities&quot;, &quot;phones&quot; etc) : https:&#x2F;&#x2F;whatthemovie.com&#x2F;vault Stack is simple: Bare metal on Hetzner, images on AWS S3, docker compose with around 10 micro services (Redis, MariaDB, AI sidecar in Python, Opensearch..). A little Ansible playbook to provision the machine. New relic for performance, Rollbar to track errors. I mainly used Claude models to do the work with sometimes other models to questionate the original review of the Claude model or to try to find things the other model didn&#x27;t. Thanks for your attention, and happy to answer any questions you may have! Yann\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://whatthemovie.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49587692",
+    "createdAt": "2026-09-06T17:14:08.154Z"
+  },
+  {
     "slug": "hanshuang-codex-github",
     "title": "hanshuang-codex",
     "shortDescription": "针对GPT 5.6,V4flash的破甲实验项目",
