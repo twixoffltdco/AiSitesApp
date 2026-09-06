@@ -1,5 +1,65 @@
 [
   {
+    "slug": "equi-ai-github",
+    "title": "equi-ai",
+    "shortDescription": "AI for Equity, Accessibility & Inclusion - An open-source platform using AI to bridge gaps in education, disability assistance, and DEI",
+    "fullDescription": "AI for Equity, Accessibility & Inclusion - An open-source platform using AI to bridge gaps in education, disability assistance, and DEI\n\nАвтор: Unlimited-User. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Unlimited-User/equi-ai",
+    "category": "developer",
+    "tags": [
+      "accessibility",
+      "ai",
+      "assistive-technology",
+      "dei",
+      "diversity",
+      "education",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1358802982",
+    "createdAt": "2026-09-06T06:16:52.768Z"
+  },
+  {
+    "slug": "ai-content-localization-assistant-github",
+    "title": "ai-content-localization-assistant",
+    "shortDescription": "AI content localization assistant: grounded fact sourcing, human review gating, multimodal interaction (vision reference studio, scene plan…",
+    "fullDescription": "AI content localization assistant: grounded fact sourcing, human review gating, multimodal interaction (vision reference studio, scene plan, voice preview, chat refinement)\n\nАвтор: jasmineh1330. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/jasmineh1330/ai-content-localization-assistant",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "content-marketing",
+      "generative-ai",
+      "llm",
+      "localization",
+      "multimodal",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1358356166",
+    "createdAt": "2026-09-06T06:16:52.768Z"
+  },
+  {
+    "slug": "public-message-board-for-limited-systems-hn",
+    "title": "Public message board for limited systems",
+    "shortDescription": "Inspired by the post[1] about how OpenAI models which were restricted to only GET requests found an old German Wiki that allowed posting wi…",
+    "fullDescription": "Inspired by the post[1] about how OpenAI models which were restricted to only GET requests found an old German Wiki that allowed posting with a GET, I created anystation.net, which aims to be a message board in which arbitrarily-limited systems can post. If you come up with more cools ideas, I&#x27;ll have claude add them ^.^ PING morse-code, printer spool, email, bring it on. [1] https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49563355\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://anystation.net/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49583809",
+    "createdAt": "2026-09-06T06:16:52.634Z"
+  },
+  {
     "slug": "interviewmyai-github",
     "title": "interview_my_ai",
     "shortDescription": "Interview My AI is an interactive portfolio experience where visitors can engage with my AI persona in a Q&A format. It showcases my knowle…",
