@@ -1,5 +1,73 @@
 [
   {
+    "slug": "projectuai-github",
+    "title": "ProjectUAI",
+    "shortDescription": "Project UAI is a universal AI agent that runs directly inside Roblox. It brings a Claude Code–style agent loop to the Roblox client, allowi…",
+    "fullDescription": "Project UAI is a universal AI agent that runs directly inside Roblox. It brings a Claude Code–style agent loop to the Roblox client, allowing AI models to inspect, interact with, and automate Roblox environments through native tools. Connect virtually any OpenAI-compatible provider or custom endpoint, choose your model, and let the agent reason.\n\nАвтор: CarlDV. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://carldv.github.io/ProjectUAI/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "automation",
+      "inference",
+      "roblox",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1356826409",
+    "createdAt": "2026-09-06T19:23:28.263Z"
+  },
+  {
+    "slug": "vitaslop-ps-vita-emulator-in-the-browser-hn",
+    "title": "Vitaslop – PS Vita emulator in the browser",
+    "shortDescription": "Building emulators to preserve old tech is a great AI use case. This is completely vibe-coded (with lots of hand holding) and uses many new…",
+    "fullDescription": "Building emulators to preserve old tech is a great AI use case. This is completely vibe-coded (with lots of hand holding) and uses many newer web features to make PS Vita work in the browser.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/cretz/vitaslop",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49589804",
+    "createdAt": "2026-09-06T19:23:28.178Z"
+  },
+  {
+    "slug": "quiz-ui-shadcn-style-components-for-building-quiz-funnels-hn",
+    "title": "Quiz-UI – Shadcn-style components for building quiz funnels",
+    "shortDescription": "The idea is simple. if you&#x27;re working in martech, you can build quiz funnels yourself instead of paying hundreds of dollars every mont…",
+    "fullDescription": "The idea is simple. if you&#x27;re working in martech, you can build quiz funnels yourself instead of paying hundreds of dollars every month for a quiz funnel builder Every component has its own description and dependencies, so you can also give the registry to your AI agent and ask it to build a quiz for you: https:&#x2F;&#x2F;quiz-ui-phi.vercel.app&#x2F;r&#x2F;registry.json Here&#x27;s a simple example to get started: https:&#x2F;&#x2F;quiz-ui-phi.vercel.app&#x2F;docs&#x2F;getting-started\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/kalpovskii/quiz-ui",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49589697",
+    "createdAt": "2026-09-06T19:23:28.179Z"
+  },
+  {
+    "slug": "tiktok-for-tv-and-twitchkick-simulcast-hn",
+    "title": "TikTok for TV and Twitch/Kick Simulcast",
+    "shortDescription": "I&#x27;ve been working on skriin ai TV for over a year now. Last night, for the very first time, our TV prototype worked and I saw a path f…",
+    "fullDescription": "I&#x27;ve been working on skriin ai TV for over a year now. Last night, for the very first time, our TV prototype worked and I saw a path forward. Wanted to share it here! What is skriin ai TV? It is a box that connects to any TV and lets you: watch and swipe videos (like TikTok for TV) + play games with other users online (only chess for now) + go live with one button from your couch (and stream in skriin network) + stream your game&#x2F;screen + simulcast to Twitch&#x2F;Kick And all of these worked last night, for the first time! I&#x27;m going to share more here soon. Check it out for yourself. Hashem, skriin ai TV founder\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://skriin.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49589511",
+    "createdAt": "2026-09-06T19:23:28.179Z"
+  },
+  {
     "slug": "maintainers-guide-to-ai-github",
     "title": "maintainers-guide-to-ai",
     "shortDescription": "a book about how to use AI responsibly and well for software projects",
