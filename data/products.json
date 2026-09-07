@@ -1,5 +1,27 @@
 [
   {
+    "slug": "daan-github",
+    "title": "daan",
+    "shortDescription": "An intelligent, distraction-free book reader and AI audiobook narrator",
+    "fullDescription": "An intelligent, distraction-free book reader and AI audiobook narrator\n\nАвтор: amirrezasalimi. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/amirrezasalimi/daan",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "audiobook",
+      "bun",
+      "electrobun",
+      "epub",
+      "mantine",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1359479484",
+    "createdAt": "2026-09-07T01:13:12.367Z"
+  },
+  {
     "slug": "hakovm-github",
     "title": "HakoVM",
     "shortDescription": "HakoVM: Firecracker-class microVMs for macOS, built for AI agents. One binary on Apple's Containerization framework.",
