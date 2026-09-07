@@ -1,5 +1,97 @@
 [
   {
+    "slug": "winrimage-github",
+    "title": "WinRimage",
+    "shortDescription": " Rimage 图像压缩转换 GUI，调参预览+批量处理，由 AI 智能体 AA (aardio autos ) 全程自主开发",
+    "fullDescription": " Rimage 图像压缩转换 GUI，调参预览+批量处理，由 AI 智能体 AA (aardio autos ) 全程自主开发\n\nАвтор: aardio. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://aau.cn",
+    "category": "ai-tool",
+    "tags": [
+      "aardio",
+      "ai",
+      "autos",
+      "image-processing",
+      "mozjpeg",
+      "rimage",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1358573269",
+    "createdAt": "2026-09-07T06:25:01.822Z"
+  },
+  {
+    "slug": "hp-ai-usage-github",
+    "title": "HP-AI-Usage",
+    "shortDescription": "Local, zero-dependency Windows dashboard that tracks Claude, ChatGPT, Gemini, AntiGravity and Perplexity usage quotas side by side. Full da…",
+    "fullDescription": "Local, zero-dependency Windows dashboard that tracks Claude, ChatGPT, Gemini, AntiGravity and Perplexity usage quotas side by side. Full dashboard, floating widget, and an always-on-top taskbar bar with live reset countdowns.\n\nАвтор: phanvanhuyha-dev. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/phanvanhuyha-dev/HP-AI-Usage",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "antigravity",
+      "chatgpt",
+      "claude",
+      "gemini",
+      "nodejs",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1358983646",
+    "createdAt": "2026-09-07T06:25:01.822Z"
+  },
+  {
+    "slug": "yurei-like-claude-in-chrome-but-for-any-model-and-harness-hn",
+    "title": "Yurei – like Claude in Chrome, but for any model and harness",
+    "shortDescription": "Проект «Yurei – like Claude in Chrome, but for any model and harness», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Yurei – like Claude in Chrome, but for any model and harness», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://yurei-ai.com/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49594358",
+    "createdAt": "2026-09-07T06:25:01.787Z"
+  },
+  {
+    "slug": "engrim-a-universal-local-first-sqlite-memory-engine-for-ai-clis-hn",
+    "title": "Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+    "shortDescription": "Проект «Engrim – A universal, local-first SQLite memory engine for AI CLIs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Engrim – A universal, local-first SQLite memory engine for AI CLIs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://github.com/timgordontg/engrim",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49594008",
+    "createdAt": "2026-09-07T06:25:01.787Z"
+  },
+  {
+    "slug": "guidedreview-review-ai-generated-code-before-you-sign-your-name-to-it-hn",
+    "title": "GuidedReview – Review AI-generated code before you sign your name to it",
+    "shortDescription": "Проект «GuidedReview – Review AI-generated code before you sign your name to it», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «GuidedReview – Review AI-generated code before you sign your name to it», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/nshntarora/guidedreview",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49593877",
+    "createdAt": "2026-09-07T06:25:01.787Z"
+  },
+  {
     "slug": "daan-github",
     "title": "daan",
     "shortDescription": "An intelligent, distraction-free book reader and AI audiobook narrator",
