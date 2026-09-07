@@ -1,5 +1,91 @@
 [
   {
+    "slug": "remedi-github",
+    "title": "remedi",
+    "shortDescription": "Find affordable prescription alternatives and patient assistance programs in seconds using FDA data and income eligibility checks.",
+    "fullDescription": "Find affordable prescription alternatives and patient assistance programs in seconds using FDA data and income eligibility checks.\n\nАвтор: sreenidhbonagiri. Найдено в GitHub Trending (AI-тематика). ⭐ 21 звёзд.",
+    "url": "https://remedi-copilot.onrender.com",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "css",
+      "digital-health",
+      "fastapi",
+      "health",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1358794688",
+    "createdAt": "2026-09-07T21:41:43.465Z"
+  },
+  {
+    "slug": "rejourney-finds-user-leaks-in-apps-and-websites-hn",
+    "title": "Rejourney – Finds user \"leaks\" in apps and websites",
+    "shortDescription": "Hi there HN, Ever used a user&#x2F;session replay tool before? Absolutely phenomenal for immediate feedback (and your dopamine). It causes…",
+    "fullDescription": "Hi there HN, Ever used a user&#x2F;session replay tool before? Absolutely phenomenal for immediate feedback (and your dopamine). It causes a “Honeymoon Phase” where you are addicted and constantly checking out how users found your app, the outcome, and if they faced any roadblocks with the UX. After a week, you maybe start marketing your app or website, and the sheer influx of session replays gets you excited. You can’t check all of them so you check the first few, or maybe query for certain user paths to check out success&#x2F;failure from the session you randomly pick. Whatever provider you use has an “AI replay watching” feature that you hope will save time. You try it out, and it ends up summarizing a few select sessions, misses things you clearly saw in the random replays you decided to watch. Another week passes, and you no longer check these replays except maybe at the end of every week just to reassure yourself everything is good. Well. It was fun while it lasted. But it’s starting to get expensive and my team can save money by just turning it off. Basic observability ends up doing the same end-thing at this point because we don’t even watch a percent of the replays. Rejourney was initially a basic session replay platform like all the rest. The difference was a focus on performant and smaller package footprints. But recently, we began working on an idea called “leaks.” The name originates from a user leak. The core concept of what a session replay is meant to do. Basically, a place where users &quot;leak out&quot; of the intended experience such as completing onboarding. Unlike other tools that attempt to do this with AI summarizers, we employ a lot of heuristic-focused math and algorithms to process at scale. This helps catch prevalent AND non-prevalent issues, ranking in terms of wideness of impact, effect on revenue, or any desired outcomes: Weighted evidence from: Temporal corroboration - checks signals happening together Time-decay weighting - prioritizes recent user problems Exploration sampling - catches unknown failure patterns Evidence grounding - verifies claimed supporting evidence Set intersection - removes unsupported event claims Jaccard similarity - matches similar visual text Linear interpolation - remaps compressed replay timestamps Structural clustering - groups related user failures Prevalence estimation - estimates overall issue impact Has it been proven in the field? Yep. It’s been helping about 200 apps&#x2F;websites for two months now. The amount of issues it has been able to find that would otherwise be missed resulted in a few joyful emails sent our way. Furthermore, apps with larger volume of users seem to use the tool more heavily than those with say, only a few hundred active users a day. We’re in the works of an MCP to help faster dump the found leaks into whatever coding tool your team uses. For now, the good old copy&#x2F;pasting of the .MD issue context will need to be employed. Demo of leaks: https:&#x2F;&#x2F;rejourney.co&#x2F;demo&#x2F;leaks General website: https:&#x2F;&#x2F;rejourney.co The entire analytics platform and packages are open source&#x2F;self-hostable except for the leaks platform (working on open sourcing that part soon): https:&#x2F;&#x2F;github.com&#x2F;rejourneyco&#x2F;rejourney TLDR: Here is a silly video on how it works- https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=Z95MDxBXMjk\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://rejourney.co/demo/leaks",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49602921",
+    "createdAt": "2026-09-07T21:41:43.248Z"
+  },
+  {
+    "slug": "i-was-tired-to-check-my-mums-whatsapp-last-online-to-see-if-she-is-ok-hn",
+    "title": "I was tired to check my mums WhatsApp last online, to see if she is ok",
+    "shortDescription": "Ever since my father passed away, my mother has been living alone in our family home. She’s now over 70 years old. I live in another city,…",
+    "fullDescription": "Ever since my father passed away, my mother has been living alone in our family home. She’s now over 70 years old. I live in another city, and so does my sister. Of course, we call her regularly, but at the same time, she doesn’t want to feel like she’s being watched. She’s still too “young” for that. So our best way to check on her is to see when she was last online on WhatsApp. But in the long run, that’s too imprecise and, above all, too much of a hassle. A while back, I set up a few smart home features in the house. But they&#x27;re mostly things like turning down the thermostats when a window is open or using a motion sensor to turn on the lights. Then I had the following idea: Why not use this data to identify behavioral patterns? In other words, if a door isn’t opened the way it usually is, that could mean something. My mom now has a FitBit Air, too, which provides data. That would be great as well. But to do that, all the data with its different connection types (Zigbee, Bluetooth, external APIs) needs to be consolidated. The fact that they’re all from different manufacturers doesn’t make things any easier. That’s how my open source project &quot;Healthcore&quot; came to be. Healthcore is an open software and hardware architecture for (healthcare) devices. &quot;Healthcare&quot; is in parentheses because, in theory and practice, standard smart home components can also be used, but in the long run, I’d like to include things like blood glucose monitors. Think of Healthcore as similar to OpenHAB or Home Assistant, but with a greater focus on intelligent data analysis and actions tailored to healthcare. Incoming data is standardized. For each device, there is converter. Healthcore uses various anomaly detection methods across the collected data to trigger alerts. These alerts can then be used to define actions in scenarios (e.g., if blood sugar is unusually low at night, turn on the lights and send a push notification). Reports can also be generated from the data using a locally hosted LLM. Healthcore also supports LoRa P2P for transmitting data over long distances. Healthcore is currently headless. However, anyone can quickly build their own interface using the Swagger file. The Healthcore is meant to be the foundation for my startup, bulp.io. With bulp.io, I’ll build or license my own hardware, which will, of course, be 110% compatible with the Healthcore. My primary target audience is my mom, followed by other people living alone, and then nursing homes. What do you think? Is this a good idea? Feel free to check out the repository on GitHub and give me some feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/janrakete/healthcore-bulp.io",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49602794",
+    "createdAt": "2026-09-07T21:41:43.248Z"
+  },
+  {
+    "slug": "can-you-tell-a-real-tweet-of-a-certain-user-from-an-ai-one-hn",
+    "title": "Can you tell a real tweet of a certain user from an AI one?",
+    "shortDescription": "Just a small game I coded up for research. After some limited tests, people tend to pick the AI-written post as the real one more than 55%…",
+    "fullDescription": "Just a small game I coded up for research. After some limited tests, people tend to pick the AI-written post as the real one more than 55% of the time, almost 60%. So apparently LLMs kinda pass the Turing test when it comes to social media posts and not even general social media posts, but posts of a specific user!?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://socialsimbench.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49601299",
+    "createdAt": "2026-09-07T21:41:43.248Z"
+  },
+  {
+    "slug": "see-why-google-and-ai-ignore-your-site-and-how-to-fix-it-hn",
+    "title": "See why Google and AI ignore your site and how to fix it",
+    "shortDescription": "Проект «See why Google and AI ignore your site and how to fix it», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «See why Google and AI ignore your site and how to fix it», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://beseen.so",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49601248",
+    "createdAt": "2026-09-07T21:41:43.248Z"
+  },
+  {
     "slug": "arbitera-github",
     "title": "Arbitera",
     "shortDescription": "The AI-operated escrow court and reputation protocol for the agentic economy.",
