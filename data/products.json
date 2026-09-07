@@ -1,5 +1,123 @@
 [
   {
+    "slug": "arbitera-github",
+    "title": "Arbitera",
+    "shortDescription": "The AI-operated escrow court and reputation protocol for the agentic economy.",
+    "fullDescription": "The AI-operated escrow court and reputation protocol for the agentic economy.\n\nАвтор: Ali-Adel-Nour. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://github.com/Ali-Adel-Nour/Arbitera",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "blockchain",
+      "economics",
+      "escrow",
+      "evm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1358912285",
+    "createdAt": "2026-09-07T18:05:21.193Z"
+  },
+  {
+    "slug": "the-portfolio-for-real-ai-work-hn",
+    "title": "The Portfolio for Real AI Work",
+    "shortDescription": "Проект «The Portfolio for Real AI Work», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «The Portfolio for Real AI Work», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://buildyard.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49600896",
+    "createdAt": "2026-09-07T18:05:21.441Z"
+  },
+  {
+    "slug": "benzi-code-intelligence-infrastructure-for-frontier-ai-models-hn",
+    "title": "Benzi – Code Intelligence Infrastructure for Frontier AI Models",
+    "shortDescription": "Roughly speaking, the way current AI coding agents&#x2F;harnesses work is by either: a) Pulling in appropriate text snippets of code across…",
+    "fullDescription": "Roughly speaking, the way current AI coding agents&#x2F;harnesses work is by either: a) Pulling in appropriate text snippets of code across multiple files and handing them to the agent, or b) Parsing code to make high dimensional embeddings to approximate a symptom map, and hand that to the agent. Both of these approaches skyrocket the token count, add to wall clock time, contribute to context drifting, add to the model&#x27;s thinking tokens to discover the structure of the program, and then FORGET most of it when Claude Code compacts, or ALL of it if it&#x27;s a multifile refactoring because all line numbers shift and need re-grepping. Benzi is built from the ground up to AVOID reading source code in the first place. It supplies the artificial intelligence model deterministic intelligence via tool calls. For example, when a model is about to make a code change, it could query &quot;what functions feed this one?&quot; -- half the time it isn&#x27;t even necessary because the Benzi compiler already informs it of the blast radius before and after making edits, along with a complete static analysis check. Benzi Sonnet reads far less source code (9,125 lines) than Claude Code Sonnet (20,704), DeepSeek&#x27;s harness (43,598), and OpenCode (65K+ LOC -- disqualified due to repeated failure) to accomplish the same tasks faster and cheaper. (Benchmark details: https:&#x2F;&#x2F;benzi.fly.dev&#x2F;benchmark ) &quot;But what if the compiler isn&#x27;t doing its job right! Wouldn&#x27;t you mislead the AI model?&quot; - Absolutely. Benzi meticulously takes care of this by having 3 truth tiers. RESOLVED has definite evidence, CANDIDATE is what couldn&#x27;t be resolved by the static analysis, and OBSERVED is what actually happened during an execution. The artificial intelligence and the determinstic intelligence layers coordinate to reduce source hits where possible, without producing incorrect results for the sake of efficiency. It also has several bonus features such as a runtime tracer, self-aware model upgrade mid task if it thinks the job is over its pay grade, context aware model written repro, and SEVERAL more. It currently supports Python · JavaScript · TypeScript · Java · C# · C++ · C · Go · Rust · Ruby, and can handle HTML, CSS and JS -- deterministically. Claude Code clicks photos, Benzi resolves winners of CSS rules. The CodeIndex and the MarkupIndex are fairly well tested, and if something isn&#x27;t working, the model is made aware of it first. On the benchmarks side, 78.2% SWE-bench Verified for &lt;10¢ a fix (using V4flash). This score is notable because while the rest of the industry is leaning plugin-heavy and pouring millions of dollars into increasing context window sizes, Benzi&#x27;s approach might prove to be economically more valuable while improving the model&#x27;s code writing&#x2F;comprehenion abilities. If you&#x27;re curious to learn more, click https:&#x2F;&#x2F;benzi.fly.dev&#x2F;about and check out StallionSwipe. probably the best thing i ever made. It&#x27;s a Fireship inspired horse tinder app greenfielded entirely in Benzi Opus 4-8 and a little bit v4 flash. and lastly, please star on github if you like where this is headed!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/oooscoos/Benzi",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49599867",
+    "createdAt": "2026-09-07T18:05:21.442Z"
+  },
+  {
+    "slug": "qumra-screen-recorder-that-uploads-while-you-record-hn",
+    "title": "Qumra – Screen recorder that uploads while you record",
+    "shortDescription": "I built Qumra 3 years ago for myself. It&#x27;s a Loom like desktop screen and camera recorder for Mac and Windows. I used Loom at the time…",
+    "fullDescription": "I built Qumra 3 years ago for myself. It&#x27;s a Loom like desktop screen and camera recorder for Mac and Windows. I used Loom at the time and had a problem with the pricing, and the editor never did what I needed. As a software developer I record a lot of short videos for clients: showing a bug, a fix, an example. After recording I usually needed edits. Cut a part where something showed up on screen that shouldn&#x27;t be there. Silence the filler words instead of cutting them. Remove parts of the video by deleting them from the transcript. So the editor is built around those three things. Later, with AI getting better, I picked the project back up and wanted to make it usable by other people. The other idea is that I neeeded the video to be uploaded while recording. The recorder produces WebM&#x2F;VP9 chunks from MediaRecorder. A worker batches them into 2 MB pieces and sends them in order to a Mux resumable upload URL. Mux used to reject out-of-order chunks, so concurrency is 1, with retries. It runs in a worker because slicing blobs on the main thread caused frame drops. When you stop, only the last piece is left to send. Mux then transcodes for a few seconds before playback starts, so the link exists the moment you stop but the video plays a few seconds later. I needed system audio to work out of the box, without a virtual driver. The Electron main process spawns a small Rust helper. On macOS it uses ScreenCaptureKit. On Windows it uses WASAPI process loopback, which taps the audio engine rather than the default output device, so audio enhancement software and virtual drivers don&#x27;t break it. It streams raw PCM over stdout into an AudioWorklet that mixes it with the mic. Viewers open the link in a browser, no account, and can leave comments pinned to a timestamp. The AI edits work by sending the transcript words to OpenAI and getting back mute and cut commands for the timeline. Filler words get muted, long pauses get cut. Things it doesn&#x27;t do: - You need an account to record. Recordings need an owner. Viewers don&#x27;t need one. - The Windows build isn&#x27;t code signed, so SmartScreen will warn you. The Mac build is signed and notarized because that&#x27;s what I use. - No Linux build. - Not open source. - Anyone with the link can watch the video. Free plan is 30 recordings of up to 5 minutes each. Premium is $14.99&#x2F;month and unlocks AI transcription, the editor, and removes the caps. Stack: Electron and React for the app, Convex for the backend, Mux for video, Remotion on Lambda for rendering edits. Download: https:&#x2F;&#x2F;qumra.io&#x2F;download Two things I&#x27;d like to know. If you record short videos to show someone, what do you use today and what&#x27;s missing from it? And for people using Loom at work: do the Jira and Confluence integrations matter day to day, or is it mostly the recorder?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://qumra.io",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49599379",
+    "createdAt": "2026-09-07T18:05:21.442Z"
+  },
+  {
+    "slug": "a-local-visual-tool-climcp-for-agents-to-propose-architecture-changes-hn",
+    "title": "A local visual tool cli/mcp for agents to propose architecture changes",
+    "shortDescription": "Author here. I built this because I&#x27;ve always had a hard time focusing on large swathes of pure text. I love visualizations for unders…",
+    "fullDescription": "Author here. I built this because I&#x27;ve always had a hard time focusing on large swathes of pure text. I love visualizations for understanding architecture and changes. So I wanted a visual tool to make me more effective at collaborating with my agents: visual architecture, visual change proposal, human or AI reviews, backed by git. It&#x27;s still a very early tool. I&#x27;d like to add more kinds of diagrams and richer editors and make it even easier for agents to use. Would anyone else be interested in something like this? Contributions and feedback are very welcome\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/luiscleto/WorkBraid",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49598774",
+    "createdAt": "2026-09-07T18:05:21.442Z"
+  },
+  {
+    "slug": "neuro-a-compiled-language-for-ai-that-matches-clang-o2-hn",
+    "title": "Neuro, a compiled language for AI that matches Clang -O2",
+    "shortDescription": "Проект «Neuro, a compiled language for AI that matches Clang -O2», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Neuro, a compiled language for AI that matches Clang -O2», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/PanzerPeter/Neuro",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49597951",
+    "createdAt": "2026-09-07T18:05:21.442Z"
+  },
+  {
+    "slug": "a-brainstorm-canvas-with-no-back-end-running-on-chromes-on-device-ai-hn",
+    "title": "A brainstorm canvas with no back end, running on Chrome's on-device AI",
+    "shortDescription": "One person. Wrote it, use it every day. No team, no roadmap; use Chrome 138+",
+    "fullDescription": "One person. Wrote it, use it every day. No team, no roadmap; use Chrome 138+\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://idea.xiaohan.dev",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49597949",
+    "createdAt": "2026-09-07T18:05:21.442Z"
+  },
+  {
     "slug": "voice-ai-benchmarks-github",
     "title": "voice-ai-benchmarks",
     "shortDescription": "A directory of benchmarks for the components and complete systems used to build voice agents.",
