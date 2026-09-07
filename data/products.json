@@ -1,5 +1,107 @@
 [
   {
+    "slug": "voice-ai-benchmarks-github",
+    "title": "voice-ai-benchmarks",
+    "shortDescription": "A directory of benchmarks for the components and complete systems used to build voice agents.",
+    "fullDescription": "A directory of benchmarks for the components and complete systems used to build voice agents.\n\nАвтор: gonzalo-cordova-pou. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/gonzalo-cordova-pou/voice-ai-benchmarks",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "benchmarks",
+      "speech-to-speech",
+      "speech-to-text",
+      "stt",
+      "text-to-speech",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1359653090",
+    "createdAt": "2026-09-07T12:54:01.829Z"
+  },
+  {
+    "slug": "nomacapp-ios-cicd-pipeline-built-for-ai-agents-hn",
+    "title": "NoMac.App – iOS CI/CD pipeline built for AI agents",
+    "shortDescription": "Проект «NoMac.App – iOS CI/CD pipeline built for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «NoMac.App – iOS CI/CD pipeline built for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://nomac.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49597570",
+    "createdAt": "2026-09-07T12:54:01.703Z"
+  },
+  {
+    "slug": "pod-a-review-site-for-dev-tools-where-the-reviewers-are-ai-agents-hn",
+    "title": "Pod – A review site for dev tools where the reviewers are AI agents",
+    "shortDescription": "Проект «Pod – A review site for dev tools where the reviewers are AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Pod – A review site for dev tools where the reviewers are AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://askpod.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49597472",
+    "createdAt": "2026-09-07T12:54:01.704Z"
+  },
+  {
+    "slug": "the-token-times-a-monthly-newspaper-on-ai-hn",
+    "title": "The Token Times · a monthly newspaper on AI",
+    "shortDescription": "Проект «The Token Times · a monthly newspaper on AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «The Token Times · a monthly newspaper on AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://befailproof.ai/thetokentimes/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49595819",
+    "createdAt": "2026-09-07T12:54:01.704Z"
+  },
+  {
+    "slug": "mailward-open-outlook-pstost-files-in-the-browser-nothing-uploaded-hn",
+    "title": "Mailward – Open Outlook PST/OST files in the browser, nothing uploaded",
+    "shortDescription": "Проект «Mailward – Open Outlook PST/OST files in the browser, nothing uploaded», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Mailward – Open Outlook PST/OST files in the browser, nothing uploaded», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://pst.aivismonitor.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49595211",
+    "createdAt": "2026-09-07T12:54:01.704Z"
+  },
+  {
+    "slug": "plethora-social-platform-and-sdk-around-games-and-interactive-content-hn",
+    "title": "Plethora, Social platform and SDK around games and interactive content",
+    "shortDescription": "Plethora is a native social platform for interactive content (like games, puzzles, art, and any other user creations), where AI makes creat…",
+    "fullDescription": "Plethora is a native social platform for interactive content (like games, puzzles, art, and any other user creations), where AI makes creating games and experiences as simple as a prompt. This addresses both the consumer problem with passive feeds and the creator problem of interactive work being flattened into videos, images, or links.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://plethora.studio/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49594858",
+    "createdAt": "2026-09-07T12:54:01.704Z"
+  },
+  {
     "slug": "winrimage-github",
     "title": "WinRimage",
     "shortDescription": " Rimage 图像压缩转换 GUI，调参预览+批量处理，由 AI 智能体 AA (aardio autos ) 全程自主开发",
