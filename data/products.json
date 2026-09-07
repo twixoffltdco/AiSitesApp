@@ -1,5 +1,75 @@
 [
   {
+    "slug": "studio-github",
+    "title": "studio",
+    "shortDescription": "A private, native macOS workspace for building and running the ChatBotKit AI platform.",
+    "fullDescription": "A private, native macOS workspace for building and running the ChatBotKit AI platform.\n\nАвтор: chatbotkit. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/chatbotkit/studio",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "apple-silicon",
+      "chatbotkit",
+      "compose",
+      "containerization",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1358065735",
+    "createdAt": "2026-09-07T23:58:22.514Z"
+  },
+  {
+    "slug": "brw-hn",
+    "title": "Brw",
+    "shortDescription": "Cross harness browser automation. Beats Claude chrome. Allows remote over ssh (view it working on your laptop whilst your big rig does the…",
+    "fullDescription": "Cross harness browser automation. Beats Claude chrome. Allows remote over ssh (view it working on your laptop whilst your big rig does the AI bit).\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://brw.donworks.co.uk",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49604261",
+    "createdAt": "2026-09-07T23:58:22.326Z"
+  },
+  {
+    "slug": "inbundly-google-inbox-style-bundles-for-gmail-open-source-hn",
+    "title": "Inbundly – Google Inbox-style bundles for Gmail (open-source)",
+    "shortDescription": "A weekend project turned actively maintained fork of Inboxy; for people (and AI agents) who still miss Inbox. Website: https:&#x2F;&#x2F;in…",
+    "fullDescription": "A weekend project turned actively maintained fork of Inboxy; for people (and AI agents) who still miss Inbox. Website: https:&#x2F;&#x2F;inbundly.com&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://benoror.bearblog.dev/bringing-google-inboxs-bundles-back-to-gmail/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49603910",
+    "createdAt": "2026-09-07T23:58:22.327Z"
+  },
+  {
+    "slug": "relay-an-update-after-three-years-on-anonymous-team-check-ins-hn",
+    "title": "Relay – an update after three years on anonymous team check-ins",
+    "shortDescription": "Three years ago I posted our product Signals here: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=34405962 It’s rebranded to Relay now…",
+    "fullDescription": "Three years ago I posted our product Signals here: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=34405962 It’s rebranded to Relay now. Same idea-ish. We’ve cut back a lot but leaned right into the anonymity aspect for staff. We believe that as long as we protect the ability of the team to have a voice without negative consequences, then management gets more accurate data to act on. And also that it’s managements role to listen and respond to the commentary, even if just to acknowledge it. We have definitely taken a hard path on this. The product requires strong management or team leads who aren’t afraid of criticism … funnily enough, that doesn’t make it easily saleable. But the businesses that are using it, and responding weekly to their teams concerns, do see a growth in trust and engagement. That lowers staff churn, increases institutional knowledge, etc. etc. Additionally - we’re an AUS based business where state laws on psychosocial safety are quite strict - we actually meet the reporting, recording and response requirements for that legislation. We’ve made loads of product improvements - AI generated summaries that keep context on the clients over time, easier account sign ups and logins, simpler pricing, better dashboards and an increase in anonymity through how we collect responses. Over the last three years we have learnt that we are not sales people. It’s our single biggest challenge. We’re just not good at it. So that’s something we’re trying to solve. It’s free to sign up and start using it. We’d love any and all feedback - the last time we posted was super valuable and I really appreciated everyones feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.openrelay.app/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49603555",
+    "createdAt": "2026-09-07T23:58:22.327Z"
+  },
+  {
     "slug": "remedi-github",
     "title": "remedi",
     "shortDescription": "Find affordable prescription alternatives and patient assistance programs in seconds using FDA data and income eligibility checks.",
