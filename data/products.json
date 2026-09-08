@@ -1,5 +1,106 @@
 [
   {
+    "slug": "tokentab-github-3",
+    "title": "tokentab",
+    "shortDescription": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "fullDescription": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.\n\nАвтор: crwdla. Найдено в GitHub Trending (AI-тематика). ⭐ 13 звёзд.",
+    "url": "https://github.com/crwdla/tokentab",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-token-monitor",
+      "claude-code",
+      "token-optimization",
+      "token-usage",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1360488682",
+    "createdAt": "2026-09-08T22:52:17.774Z"
+  },
+  {
+    "slug": "sagashield-acid-transactions-and-security-guardrails-for-ai-agents-hn",
+    "title": "SagaShield – ACID transactions and security guardrails for AI agents",
+    "shortDescription": "Проект «SagaShield – ACID transactions and security guardrails for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «SagaShield – ACID transactions and security guardrails for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/sebastianmechno-sys/sagashield",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49617938",
+    "createdAt": "2026-09-08T22:52:17.726Z"
+  },
+  {
+    "slug": "routi-bot-ai-bots-with-their-own-desktops-on-your-mac-hn",
+    "title": "Routi Bot – AI bots with their own desktops on your Mac",
+    "shortDescription": "been working on Routi Bot. an open source mac app inspired by Grok Bot. each bot has its own instructions, desktop and can be used with AI…",
+    "fullDescription": "been working on Routi Bot. an open source mac app inspired by Grok Bot. each bot has its own instructions, desktop and can be used with AI provider&#x2F;model (openai astra, claude fable, deepseek, grok, etc). it also has a profile switcher so you can separate automation between your personal and work profiles.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/narralabs/routi/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49617611",
+    "createdAt": "2026-09-08T22:52:17.726Z"
+  },
+  {
+    "slug": "free-scanning-app-with-ml-crops-frontback-pairing-and-stitching-hn",
+    "title": "Free scanning app with ML crops, front/back pairing, and stitching",
+    "shortDescription": "I built FrontBack Scanner to quickly digitize printed photos. It automatically detects and crops photos using ML, pairs front and back scan…",
+    "fullDescription": "I built FrontBack Scanner to quickly digitize printed photos. It automatically detects and crops photos using ML, pairs front and back scans to preserve handwritten notes, and stitches oversized photos from multiple scans. Free Mac and Windows app. Everything runs locally, no account needed. Would love feedback from anyone tackling a box of family photos. This is the part of AI coding that excites me, niche software is cheap enough to create where it can be offered for free. AI should make ordinary life easier, not just make it easier to create another subscription.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://timelinescan.com/frontback-scanner/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49617597",
+    "createdAt": "2026-09-08T22:52:17.727Z"
+  },
+  {
+    "slug": "soundnativ-fix-your-english-accent-hn",
+    "title": "SoundNativ – Fix Your English Accent",
+    "shortDescription": "Fix your English accent with sound-by-sound AI feedback, lessons from native speakers, and a plan built around your first language. I&#x27;…",
+    "fullDescription": "Fix your English accent with sound-by-sound AI feedback, lessons from native speakers, and a plan built around your first language. I&#x27;ve been working on it for a while, let me know what you guys think. I&#x27;m open to suggestions on ways I can improve it.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://soundnativ.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49616975",
+    "createdAt": "2026-09-08T22:52:17.727Z"
+  },
+  {
+    "slug": "thread-to-self-a-private-message-thread-with-yourself-hn",
+    "title": "Thread to Self – a private message thread with yourself",
+    "shortDescription": "Hello, Thread to Self was created because I wanted a way to capture thoughts (random or otherwise) in a single stream. I didn&#x27;t want t…",
+    "fullDescription": "Hello, Thread to Self was created because I wanted a way to capture thoughts (random or otherwise) in a single stream. I didn&#x27;t want to have to deal with folders or tags or any other type of organization took that would make it become an admin heavy burden. This is a naive IOS and local first, so no accounts, no metrics and no mining. It&#x27;s you and your thoughts. I did use AI to build this but it was not a 1 day endeavor. To get her took months of building and refining. I use it daily (in fact multiple times a day) but want to see if other people would actually want to use it. Where are the pain points that make the app to simplistic. Thanks, Carl\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://threadtoself.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49616713",
+    "createdAt": "2026-09-08T22:52:17.727Z"
+  },
+  {
     "slug": "short-video-generator-ai-github-2",
     "title": "short-video-generator-AI",
     "shortDescription": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceove…",
