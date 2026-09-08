@@ -1,5 +1,127 @@
 [
   {
+    "slug": "short-video-generator-ai-github-2",
+    "title": "short-video-generator-AI",
+    "shortDescription": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceove…",
+    "fullDescription": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.\n\nАвтор: Colafornia. Найдено в GitHub Trending (AI-тематика). ⭐ 22 звёзд.",
+    "url": "https://github.com/Colafornia/short-video-generator-AI",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-generation",
+      "short-video",
+      "short-video-maker",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1361525882",
+    "createdAt": "2026-09-08T20:03:21.365Z"
+  },
+  {
+    "slug": "strat-hunter-github",
+    "title": "strat-hunter",
+    "shortDescription": "Local dashboard for AI-assisted trading research. Bring a hypothesis or let Scout find one, run backtests with your coding agent, inspect r…",
+    "fullDescription": "Local dashboard for AI-assisted trading research. Bring a hypothesis or let Scout find one, run backtests with your coding agent, inspect results, and export strategies.\n\nАвтор: mohdhd. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/mohdhd/strat-hunter",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "backtesting",
+      "claude-code",
+      "codex",
+      "freqtrade",
+      "nautilustrader",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1361394051",
+    "createdAt": "2026-09-08T20:03:21.366Z"
+  },
+  {
+    "slug": "rokz-a-browser-port-of-a-1990-ascii-dungeon-crawler-hn",
+    "title": "Rokz: a browser port of a 1990 ASCII dungeon crawler",
+    "shortDescription": "For those younger than me, Kroz was Apogee&#x27;s first game, a text-mode dungeon crawler from 1987. Apogee released the Turbo Pascal sourc…",
+    "fullDescription": "For those younger than me, Kroz was Apogee&#x27;s first game, a text-mode dungeon crawler from 1987. Apogee released the Turbo Pascal source under GPL in 2009. I ported the 1990 episode (Lost Adventures of Kroz) to the browser. No dependencies typescript. Some interesting tidbids I learned: The game&#x27;s clock is its sound :-) Turbo Pascal&#x27;s delay() blocks, and the sound effects are built out of delays, so a footstep is an 8 ms tone, 120 ms of silence, another 8 ms tone. That silence is the turn. You can&#x27;t outrun Kroz by mashing keys because every move costs the length of its own beep. In the port a square-wave oscillator reproduces this (no samples etc), and playing a sound returns its duration whether or not it is audible. DOS Kroz asked at startup: &quot;Slow or Fast PC&quot; - and repeated sound chunks according to this. All the hidden stuff, easter eggs, and even most of bugs are reproduced. You can play it just like original. Oh, one thing - instead of ASCII letters I used tiles (from Dungeon Crawl Stone Soup (CC0)). I started with Lost Adventures because Apogee&#x27;s source was most complete. I will continue with rest of the episodes. AI Disclose: I used Claude to help me extract levels from the Pascal source and to test it by taking over chrome session and measure miliseconds :D You can play it here: https:&#x2F;&#x2F;taler.pl&#x2F;rokz&#x2F; source code here: https:&#x2F;&#x2F;github.com&#x2F;htaler&#x2F;rokz\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://taler.pl/rokz/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49616059",
+    "createdAt": "2026-09-08T20:03:21.385Z"
+  },
+  {
+    "slug": "portraitdesk-a-headshot-tool-that-doesnt-look-like-ai-slop-hn",
+    "title": "PortraitDesk – A headshot tool that doesn't look like AI slop",
+    "shortDescription": "Проект «PortraitDesk – A headshot tool that doesn't look like AI slop», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «PortraitDesk – A headshot tool that doesn't look like AI slop», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://portraitdesk.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49615806",
+    "createdAt": "2026-09-08T20:03:21.386Z"
+  },
+  {
+    "slug": "pen-a-writing-tool-where-conversation-is-the-editor-hn",
+    "title": "Pen – A writing tool where conversation is the editor",
+    "shortDescription": "Hi HN, I’m the maker of Pen. In Pen, you don’t edit the text directly. You write and revise through AI conversations inside the document. E…",
+    "fullDescription": "Hi HN, I’m the maker of Pen. In Pen, you don’t edit the text directly. You write and revise through AI conversations inside the document. Each conversation and the edits it produces stay attached to the relevant text, so you can return to a passage to see how it took shape. Start with an idea and tell Pen what you want to write. As the text takes shape, click a sentence or select a few words, then tell Pen what you’d like to change. Your selection shows Pen which passage you mean; it doesn&#x27;t limit the edit. Your request determines what changes—from a single word to the whole piece. I built Pen to change how writing gets done in the age of AI. What we stand for: 1. No editor. AI writes in your document, not in a chat. 2. Never let AI do your thinking. 3. Every factual claim must be backed by a verifiable source. 4. Collaborative. Readers can suggest changes. You decide what to accept. 5. Free for individuals. You can try Pen at https:&#x2F;&#x2F;pen.xyz without signing up. I’d love to hear how it feels in practice. How do you like this way of writing and revising versus the usual chat window?\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://pen.xyz",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49614690",
+    "createdAt": "2026-09-08T20:03:21.386Z"
+  },
+  {
+    "slug": "felan-an-open-source-coding-agent-focused-on-efficiency-hn",
+    "title": "Felan – an open source coding agent focused on efficiency",
+    "shortDescription": "We built a free, open-source coding agent that aims to help people reduce their coding spend. It is an opinionated version of Pi, with exte…",
+    "fullDescription": "We built a free, open-source coding agent that aims to help people reduce their coding spend. It is an opinionated version of Pi, with extensions for model routing, context management and compact tool output. The goal is to give the model what it needs to complete the tasks while avoiding unnecessary model usage. Works with a lot of providers both API usage and subscriptions.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/felan-ai/felan",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49614633",
+    "createdAt": "2026-09-08T20:03:21.386Z"
+  },
+  {
+    "slug": "ai-mood-tracker-and-journal-for-iphone-hn",
+    "title": "AI Mood Tracker and Journal for iPhone",
+    "shortDescription": "Проект «AI Mood Tracker and Journal for iPhone», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Mood Tracker and Journal for iPhone», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://apps.apple.com/us/app/moon-mood-tracker-journal/id6773049470",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49614056",
+    "createdAt": "2026-09-08T20:03:21.386Z"
+  },
+  {
     "slug": "sharp-github",
     "title": "sharp",
     "shortDescription": "Control your social media feed, not the other way around.",
