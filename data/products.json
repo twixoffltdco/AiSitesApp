@@ -1,5 +1,244 @@
 [
   {
+    "slug": "brier-github",
+    "title": "brier",
+    "shortDescription": "Anyone can predict the future. Almost nobody keeps the receipt. A hash-chained prediction ledger for LLMs — sealed before the answer exists…",
+    "fullDescription": "Anyone can predict the future. Almost nobody keeps the receipt. A hash-chained prediction ledger for LLMs — sealed before the answer exists, graded with proper scoring rules.\n\nАвтор: Noisyxl. Найдено в GitHub Trending (AI-тематика). ⭐ 20 звёзд.",
+    "url": "brier.watch",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "llm",
+      "robinhood-chain",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1359179010",
+    "createdAt": "2026-09-08T13:18:42.193Z"
+  },
+  {
+    "slug": "refund-anything-ai-prompt-github",
+    "title": "refund-anything-ai-prompt",
+    "shortDescription": "AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdi…",
+    "fullDescription": "AI prompt that gets your money back — subscriptions, digital purchases, bookings. Polite letter first, legal escalation second. 30+ jurisdictions.\n\nАвтор: paveldevyatov. Найдено в GitHub Trending (AI-тематика). ⭐ 16 звёзд.",
+    "url": "https://github.com/paveldevyatov/refund-anything-ai-prompt",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "chargeback",
+      "chatgpt",
+      "claude",
+      "consumer-rights",
+      "prompt",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1361228049",
+    "createdAt": "2026-09-08T13:18:42.193Z"
+  },
+  {
+    "slug": "ai-level-check-github",
+    "title": "ai-level-check",
+    "shortDescription": "AI 幾級了 — What level is your AI usage? Reads local agent logs and writes an LV0–LV5 report. No ranking.",
+    "fullDescription": "AI 幾級了 — What level is your AI usage? Reads local agent logs and writes an LV0–LV5 report. No ranking.\n\nАвтор: Raymondhou0917. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://ai.lifehacker.tw/reports/ai-level-check-demo/",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "claude-code",
+      "productivity",
+      "skill",
+      "traditional-chinese",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1360940959",
+    "createdAt": "2026-09-08T13:18:42.193Z"
+  },
+  {
+    "slug": "manymux-a-terminal-session-multiplexer-hn",
+    "title": "Manymux: A Terminal Session Multiplexer",
+    "shortDescription": "Hello HN. A few weeks ago I built manymux to be able to have multiple sessions in different hosts accessible from a single point. I recentl…",
+    "fullDescription": "Hello HN. A few weeks ago I built manymux to be able to have multiple sessions in different hosts accessible from a single point. I recently found out about herdr and thought it is a nice comparison since I dont really like the UI of herdr and manymux is just not AI-focused nor a replacement for tmux, rather just a way to access your sessions in a single way. I am trying to keep it simple. I&#x27;d like to know your opinions! PD: yes, it is &quot;vibecoded&quot;, please refrain from highlighting this point.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://rayfish.xyz/blog/03-introducing-manymux",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49609923",
+    "createdAt": "2026-09-08T13:18:42.052Z"
+  },
+  {
+    "slug": "inspyry-ai-based-svg-generator-platform-hn",
+    "title": "Inspyry – AI Based SVG Generator Platform",
+    "shortDescription": "Also has an agent skill https:&#x2F;&#x2F;github.com&#x2F;drjzlyan&#x2F;inspyry-vector-generator-skill that can be used to connect your cod…",
+    "fullDescription": "Also has an agent skill https:&#x2F;&#x2F;github.com&#x2F;drjzlyan&#x2F;inspyry-vector-generator-skill that can be used to connect your coding agents to the platform for generating svg images for your development\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://inspyry.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49609593",
+    "createdAt": "2026-09-08T13:18:42.052Z"
+  },
+  {
+    "slug": "ai-means-the-end-of-software-as-we-know-it-hn",
+    "title": "AI means the end of software as we know it",
+    "shortDescription": "As agents scale in intelligence per token per watt, software architecture is starting to shift: away from CRUD databases and directional tr…",
+    "fullDescription": "As agents scale in intelligence per token per watt, software architecture is starting to shift: away from CRUD databases and directional tree structures, toward multidimensional hypergraphs where knowledge, governance, and code are all the same kind of node. No single human can hold that structure in their head at once — but an agent can traverse it at inference speed. ILC is our open-source infrastructure project: a self-compiling morphogenetic hypergraph where the software literally builds itself from the same structure it uses to organize knowledge and settle it&#x27;s own governance and disputes. Thinking and code, becoming one thing.. This ILC open source project is moving the needle towards that. Thanks for your critical feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/jamison/ilc/blob/main/HUMANS.md",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49609563",
+    "createdAt": "2026-09-08T13:18:42.052Z"
+  },
+  {
+    "slug": "arrowmetal-apache-arrow-compute-on-apple-silicon-gpus-via-metal-hn",
+    "title": "ArrowMetal – Apache Arrow Compute on Apple Silicon GPUs via Metal",
+    "shortDescription": "Проект «ArrowMetal – Apache Arrow Compute on Apple Silicon GPUs via Metal», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ArrowMetal – Apache Arrow Compute on Apple Silicon GPUs via Metal», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://arrowmetal.org",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49609483",
+    "createdAt": "2026-09-08T13:18:42.052Z"
+  },
+  {
+    "slug": "a-free-ai-plugin-for-google-ads-console-and-analytics-hn",
+    "title": "A Free AI Plugin for Google Ads, Console and Analytics",
+    "shortDescription": "Проект «A Free AI Plugin for Google Ads, Console and Analytics», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A Free AI Plugin for Google Ads, Console and Analytics», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://unfetch.com/plugin",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49609074",
+    "createdAt": "2026-09-08T13:18:42.052Z"
+  },
+  {
+    "slug": "stateful-ai-agent-on-cloudflare-workers-free-tier-with-evals-hn",
+    "title": "Stateful AI agent on Cloudflare Workers free tier, with evals",
+    "shortDescription": "Проект «Stateful AI agent on Cloudflare Workers free tier, with evals», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Stateful AI agent on Cloudflare Workers free tier, with evals», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/DomWane/workers-personal-agent",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49609064",
+    "createdAt": "2026-09-08T13:18:42.052Z"
+  },
+  {
+    "slug": "nexconn-free-cross-platform-chat-sdk-with-native-push-hn",
+    "title": "Nexconn – Free cross-platform chat SDK with native push",
+    "shortDescription": "Проект «Nexconn – Free cross-platform chat SDK with native push», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Nexconn – Free cross-platform chat SDK with native push», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.nexconn.ai/free-chat-api",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49609053",
+    "createdAt": "2026-09-08T13:18:42.052Z"
+  },
+  {
+    "slug": "fraise-a-memory-database-for-ai-agents-hn",
+    "title": "Fraise: a memory database for AI agents",
+    "shortDescription": "Fraise is a memory database for AI agents — a single binary that stores facts as a temporal graph of facts, topics and entities, queried in…",
+    "fullDescription": "Fraise is a memory database for AI agents — a single binary that stores facts as a temporal graph of facts, topics and entities, queried in a small language with two verbs: ``` remember &#x27;acme moved to annual billing&#x27; topic:billing entity:acme recall billing entity:acme since:30d top:5 ``` Two verbs because the caller pays for every token it reads back. A recall is ranked and capped rather than exhaustive, with recent facts outranking older ones. Unlike most memory layers that use existing databases (vector, graph) to index data, Fraise provides a lightweight, no infrastructure layer that is designed to be used directly by agents: hence the simple query language to manage memory. Fraise has a hybrid (graph, text and vector) retrieval engine: text and vector are used to find seeds, which are starting points for the graph search. The Fraise graph is bipartite: facts linked to entities and &#x2F; or topics. It ships an MCP server (that I actually use now with my Claude Code sessions). Which means that memory persists across sessions. You can use `claude mcp add fraise -- fraise mcp` to set it up. It also supports Codex (all instructions available in the docs). I benchmarked it against mem0, Letta, Graphiti, EverOS and cognee on LoCoMo, with every system ingesting the same conversations using the same extraction model and the same embedding model, and answering the same questions. Retrieval recall at k=10: 0.893 against a best of 0.897, at 0.18s p50 (twice as fast as the next system) and about a third of the tokens of the highest scorer. Scalability-wise, writes are essentially linear, but reads grow linearly with vertex degree (e.g. a topic with 30K facts attached costs about 55× than one with 500). This is 0.1.0 so plenty of work to do. As mentioned above, scalability with adversarial graph topologies, but also persistency: for now Fraise is in memory with no file storage. This is the first feature for 0.2.0. If this is a topic that is of interest, I&#x27;d love to chat, or if you have any feedback feel free to reach out! Repo: https:&#x2F;&#x2F;github.com&#x2F;FraiseHQ&#x2F;fraise Docs: https:&#x2F;&#x2F;docs.getfraise.dev\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://docs.getfraise.dev",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49609014",
+    "createdAt": "2026-09-08T13:18:42.052Z"
+  },
+  {
+    "slug": "a-browser-ide-for-m68000-z80-assembly-and-more-with-graphics-hn",
+    "title": "A browser IDE for m68000, Z80 assembly (and more), with graphics",
+    "shortDescription": "Asm Editor is an open-source browser IDE for writing, running, and debugging assembly. It currently supports M68K, Z80, MIPS, RISC-V (32- a…",
+    "fullDescription": "Asm Editor is an open-source browser IDE for writing, running, and debugging assembly. It currently supports M68K, Z80, MIPS, RISC-V (32- and 64-bit), and x86-64. The debugger includes breakpoints, backward stepping, execution history, register and memory inspection, and other tools intended to make assembly easier to understand. I recently added graphics, keyboard, and mouse support, so it’s now possible to build small games and other interactive programs. The project is aimed primarily at university students learning assembly. The M68K emulator takes inspiration from Easy68K, while the MIPS emulator uses the same emulator as MARS. Both are commonly used in computer science courses. I’m also working on interactive courses for those architectures, allowing students to learn and experiment directly in the app. The app also has architecture documentation, shareable files, project templates, and tools for professors to create exams. You can create a project from one of the templates to quickly try it out. I’d love to hear your feedback, particularly from people who teach or have learned assembly. Demo: https:&#x2F;&#x2F;asm-editor.specy.app&#x2F;projects&#x2F;create (pick the language and template you prefer) Repo: https:&#x2F;&#x2F;github.com&#x2F;Specy&#x2F;asm-editor\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://asm-editor.specy.app/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49608665",
+    "createdAt": "2026-09-08T13:18:42.052Z"
+  },
+  {
+    "slug": "wirebot-talk-to-your-codex-in-messengers-hn",
+    "title": "Wirebot – talk to your Codex in messengers",
+    "shortDescription": "Проект «Wirebot – talk to your Codex in messengers», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Wirebot – talk to your Codex in messengers», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://wirebot.ai/codex",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49607899",
+    "createdAt": "2026-09-08T13:18:42.052Z"
+  },
+  {
+    "slug": "pomeroy-v1-give-any-ai-assistant-secure-access-to-native-macos-apps-hn",
+    "title": "Pomeroy v1, give any AI assistant secure access to native macOS apps",
+    "shortDescription": "When I launched Pomeroy last week, I knew I was solving a problem, but I didn&#x27;t understand the scale! Pretty overwhelmed by the respon…",
+    "fullDescription": "When I launched Pomeroy last week, I knew I was solving a problem, but I didn&#x27;t understand the scale! Pretty overwhelmed by the response, and have worked over the weekend to make it EVEN better... So... what could better than giving Claude secure access to your native Apple MacOS apps you ask?.. well, how about connecting ANY AI assistant? That&#x27;s right... Pomeroy v1 is here, and it&#x27;s no longer Claude-specific. You can now connect ANY AI assistant to it - Claude, Cursor, Codex, VSCode, Perplexity or even Raycast... the world is your oyster! Same principles apply, nothing leaves your Mac - your assistant gets local-only access to only the apps&#x2F;tools you allow, your data isn&#x27;t getting piggybacked through any data-centres.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://pomeroy.app/connect",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49607578",
+    "createdAt": "2026-09-08T13:18:42.052Z"
+  },
+  {
     "slug": "inbox-job-tracker-github",
     "title": "inbox-job-tracker",
     "shortDescription": "An AI agent that reads your job-application replies and writes the spreadsheet. Ships as a Claude Code skill + subagent: rules settle the o…",
