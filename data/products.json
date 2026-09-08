@@ -1,5 +1,65 @@
 [
   {
+    "slug": "inbox-job-tracker-github",
+    "title": "inbox-job-tracker",
+    "shortDescription": "An AI agent that reads your job-application replies and writes the spreadsheet. Ships as a Claude Code skill + subagent: rules settle the o…",
+    "fullDescription": "An AI agent that reads your job-application replies and writes the spreadsheet. Ships as a Claude Code skill + subagent: rules settle the obvious mail for free, the agent judges what they can't call. Gmail/IMAP and Outlook.\n\nАвтор: michaelxu-dev. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/michaelxu-dev/inbox-job-tracker",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "anthropic",
+      "ats",
+      "claude",
+      "claude-code",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1358715819",
+    "createdAt": "2026-09-08T08:45:03.753Z"
+  },
+  {
+    "slug": "gravity-github",
+    "title": "gravity",
+    "shortDescription": "Gravity — a desktop workspace for AI coding agents",
+    "fullDescription": "Gravity — a desktop workspace for AI coding agents\n\nАвтор: ahilles107. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://getgravity.build",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude-code",
+      "macos",
+      "multi-agent",
+      "rust",
+      "tauri",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1360775796",
+    "createdAt": "2026-09-08T08:45:03.753Z"
+  },
+  {
+    "slug": "am-i-replacable-a-harness-to-help-humans-keep-up-with-ai-hn",
+    "title": "Am I replacable – a harness to help humans keep up with AI",
+    "shortDescription": "Realised 1. There is a growing fear around being replacable and ai making humans dumber since we dont have to critically think as much now.…",
+    "fullDescription": "Realised 1. There is a growing fear around being replacable and ai making humans dumber since we dont have to critically think as much now. 2. It is incredibly valuable to see where you stand against AI, and improve yourself, so that you can become a better user(prompter) of AI. Lead me to build this MVP. this only tries to capture the context window side of the intelligence we might be losing by using AI more and more. There are many other verticals (attention, long term &#x2F; short term memory, image, video etc) which can be added too if this idea resonates with people, maybe even a full blown harness which has the sole goal of being for humans :) Let me know what you guys think :) thanks! do reach out at kumarshreyak@gmail.com, to discuss if this resonated with you :D\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://amireplaceable.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49606720",
+    "createdAt": "2026-09-08T08:45:03.726Z"
+  },
+  {
     "slug": "aiintegratedpromptglossary-github",
     "title": "ai_integrated_prompt_glossary",
     "shortDescription": "240 practical AI prompting terms for design, video & development. Free Korean PDF and web reference, with English examples.",
