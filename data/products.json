@@ -1,5 +1,258 @@
 [
   {
+    "slug": "sharp-github",
+    "title": "sharp",
+    "shortDescription": "Control your social media feed, not the other way around.",
+    "fullDescription": "Control your social media feed, not the other way around.\n\nАвтор: tshmieldev. Найдено в GitHub Trending (AI-тематика). ⭐ 13 звёзд.",
+    "url": "https://github.com/tshmieldev/sharp",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "focus-management",
+      "focus-tool",
+      "productivity",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1361152392",
+    "createdAt": "2026-09-08T17:19:34.443Z"
+  },
+  {
+    "slug": "loopera-github",
+    "title": "loopera",
+    "shortDescription": "A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.",
+    "fullDescription": "A hypothesis-driven AI agent for fundamental factor research, with evidence-gated validation and research memory.\n\nАвтор: Loopera-ai. Найдено в GitHub Trending (AI-тематика). ⭐ 13 звёзд.",
+    "url": "loopera.cn",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "quant",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1361444420",
+    "createdAt": "2026-09-08T17:19:34.443Z"
+  },
+  {
+    "slug": "claude-outreach-github",
+    "title": "claude-outreach",
+    "shortDescription": "Universal B2B outreach skill for Claude Code. 16 sub-skills + 5 sub-agents: ICP targeting, lead sourcing, email finder, phone finder, verif…",
+    "fullDescription": "Universal B2B outreach skill for Claude Code. 16 sub-skills + 5 sub-agents: ICP targeting, lead sourcing, email finder, phone finder, verification, AI personalization, multichannel sequences, deliverability, campaign launch, reply handling and GDPR compliance.\n\nАвтор: emelia-io. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://emelia.io",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "ai-sdr",
+      "b2b",
+      "claude-code",
+      "claude-code-skill",
+      "cold-email",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1361051578",
+    "createdAt": "2026-09-08T17:19:34.443Z"
+  },
+  {
+    "slug": "x402-vercel-gateway-serverless-http-402-for-fastapi-hn",
+    "title": "X402 Vercel Gateway – Serverless HTTP 402 for FastAPI",
+    "shortDescription": "Проект «X402 Vercel Gateway – Serverless HTTP 402 for FastAPI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «X402 Vercel Gateway – Serverless HTTP 402 for FastAPI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/roblambert9/x402-vercel-gateway",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49613301",
+    "createdAt": "2026-09-08T17:19:34.381Z"
+  },
+  {
+    "slug": "sparrow-2-noise-cancellation-isnt-designed-for-conversational-ai-hn",
+    "title": "Sparrow-2 – Noise cancellation isn't designed for conversational AI",
+    "shortDescription": "Hey there, I’m Brian. I&#x27;ve been shipping conversational models at Tavus for the past two years. I want to tell you about our latest au…",
+    "fullDescription": "Hey there, I’m Brian. I&#x27;ve been shipping conversational models at Tavus for the past two years. I want to tell you about our latest audio-understanding&#x2F;turn-taking model: Sparrow-2! It’s a new category of model and a unique new approach to conversational flow understanding. Earlier this year we launched Sparrow-1, (at the time) our SoTA turn-taking model. Since our Sparrow-1 launch, I’ve spent a lot of time listening to humans talking and trying to really understand how people know when to talk, when to listen, and when to wait. I’ve also been hunting down failure modes of the current SoTA models. And while Sparrow-1 is great, there are some failure patterns I see. We tried solving the problems with existing approaches, but solving one problem only created another. Current turn-taking models (like Sparrow-1) use noise cancellation to strip background sound, leaving only basic prosody and phonetic word cues to manage turns. Non-transcribable audio such as breathing, sighs, and environmental sounds provides critical context that humans use to hold or signal turn changes. This is because these models are primarily focused on verbal activity. Treating non-verbal audio as background noise discards vital conversational data, destroying the natural flow of dialogue. Now, with Sparrow-2, instead of modelling just the primary speaker’s verbal audio, we’ve trained a model with access to all the sounds and let it decide what matters and what does not when it comes to conversational flow. Our new model continuously streams in audio and is able to understand semantics, prosody, timing, speaker identity, sighs, breaths, back-channels, interruptions, background speech, and unintelligible audio with the goal of understanding what the agent should do given the state of the audio. Sparrow-2 recently ranked #1 on Sesame’s new Turnbench, but that’s only part of the equation when it comes to good conversation flow. Turn-taking is good for timing, but models should provide more information downstream especially in situations where noise impacts conversational quality. Sparrow-2 fits into our larger model family and is semi-duplex. For example if the user is in a room that’s too noisy, now the bot can ask the user to move to a quieter space. It also considers the timing of sound in relation to the AI speech as well as the user’s. This helps it to disentangle normal speech from interruptions and back-channels. Another added benefit of our approach to Sparrow-2 is to finally crack the cocktail party problem: how to have human-like conversations 1:1 in noisy environments, without losing the signals we rely upon for conversational flow. By allowing all sound to be learned, the model naturally learns to focus on what matters and transcends the rest. Noise understanding lets voice AI filter out background speech and ambient chaos, whether it&#x27;s a kiosk in a noisy lobby, a shop assistant on a busy floor, or an interviewee in a cafe. When noise overwhelms the audio, the AI behaves like a human: it simply asks you to speak up, move, or swap mics. I’d love for you guys to give it a try and let me know what you think and feel. You can try it here: https:&#x2F;&#x2F;sparrow2.tavuslabs.org&#x2F; I also wrote up some technical details about the model architecture here: https:&#x2F;&#x2F;www.tavus.io&#x2F;blog&#x2F;sparrow-2\n\nНайдено в разделе Show HN на Hacker News. 👍 7 баллов.",
+    "url": "https://sparrow2.tavuslabs.org/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49612459",
+    "createdAt": "2026-09-08T17:19:34.381Z"
+  },
+  {
+    "slug": "posterlet-free-ai-poster-maker-unlimited-hn",
+    "title": "Posterlet – Free AI poster maker, unlimited",
+    "shortDescription": "Feel free to use it. Enjoy.",
+    "fullDescription": "Feel free to use it. Enjoy.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://posterlet.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49612451",
+    "createdAt": "2026-09-08T17:19:34.381Z"
+  },
+  {
+    "slug": "training-rl-model-to-race-in-trackmania-hn",
+    "title": "Training RL model to race in TrackMania",
+    "shortDescription": "Проект «Training RL model to race in TrackMania», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Training RL model to race in TrackMania», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://antonkasyanov.substack.com/p/teaching-an-ai-to-drive-trackmania",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49612300",
+    "createdAt": "2026-09-08T17:19:34.381Z"
+  },
+  {
+    "slug": "deepmemhybrid-retrieval-memory-for-ai-agents-vectorbm25time-decay-hn",
+    "title": "DeepMem·hybrid-retrieval memory for AI Agents – Vector+BM25+Time-Decay",
+    "shortDescription": "Проект «DeepMem·hybrid-retrieval memory for AI Agents – Vector+BM25+Time-Decay», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «DeepMem·hybrid-retrieval memory for AI Agents – Vector+BM25+Time-Decay», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/deepmemteam/deepmem",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49612293",
+    "createdAt": "2026-09-08T17:19:34.381Z"
+  },
+  {
+    "slug": "built-myself-a-super-youtube-post-prod-studio-hn",
+    "title": "Built myself a super YouTube post-prod studio",
+    "shortDescription": "i just want to film myself rambling and all the cutting, grading, uploading, thumbs, short generation is done for me. 31k lines of code for…",
+    "fullDescription": "i just want to film myself rambling and all the cutting, grading, uploading, thumbs, short generation is done for me. 31k lines of code for now. when you&#x27;re too poor to afford an editor, you pay for claude code max to build one there&#x27;s a the &quot;smart cutting&quot; that saves me 95% of the time cutting stuff out from a semantical point of view (it turns it into a DaVinci Resolve timeline that i then import). there&#x27;s a thumbnail generator (but i actually started to use the psd template way, where the background, text and contrast&#x2F;brightness only are changed, and basically there&#x27;s no ai involved, ai thumbnails don&#x27;t perform well, i was told) also a shorts creator (it has a ton of internal steps) and there&#x27;s also the autoupload that generates some titles, description, chapters, tags etc. no screenshot of that i finally started my yt era. optimizing this thought-to-posted-video cycle makes me comfortable spending time actually filming and sharing my ideas\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://twitter.com/xucian_/status/2096626717531992342",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49611999",
+    "createdAt": "2026-09-08T17:19:34.381Z"
+  },
+  {
+    "slug": "pollium-a-new-way-to-study-with-ai-hn",
+    "title": "Pollium – A new way to study with AI",
+    "shortDescription": "Проект «Pollium – A new way to study with AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Pollium – A new way to study with AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://learn.pollium.io",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49611974",
+    "createdAt": "2026-09-08T17:19:34.381Z"
+  },
+  {
+    "slug": "roomantic-see-if-that-piece-furniture-fits-before-buying-it-hn",
+    "title": "Roomantic – See if that piece furniture fits before buying it",
+    "shortDescription": "Roomantic is a project I started working on earlier this year when I learned that iPhone Pro models have a LiDAR scanner and almost no prac…",
+    "fullDescription": "Roomantic is a project I started working on earlier this year when I learned that iPhone Pro models have a LiDAR scanner and almost no practical apps that take advantage of it. It uses Apple’s RoomPlan API to generate floor plans, and then allows you to paste in links to furniture and visualize if it would fit into your space. Every feature is free, a subscription option exists if you want unlimited furniture placements (since those actually cost me money). I tried my best to make the app beautiful, since features are now so cheap to build using AI, so any feedback would be appreciated. It primarily supports U.S. retailers, but if there is any international interest, I’d be happy to build that out in the future. Thanks!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://apps.apple.com/us/app/roomantic-furniture-planner/id6759999318",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49611224",
+    "createdAt": "2026-09-08T17:19:34.381Z"
+  },
+  {
+    "slug": "edge-ai-device-that-analyzes-my-cannabis-grow-nothing-leaves-the-lan-hn",
+    "title": "Edge-AI device that analyzes my cannabis grow, nothing leaves the LAN",
+    "shortDescription": "Проект «Edge-AI device that analyzes my cannabis grow, nothing leaves the LAN», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Edge-AI device that analyzes my cannabis grow, nothing leaves the LAN», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://croplock.com/blog/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49611204",
+    "createdAt": "2026-09-08T17:19:34.381Z"
+  },
+  {
+    "slug": "endframe-demos-launch-videos-shorts-from-the-ai-plan-you-pay-for-hn",
+    "title": "EndFrame – Demos, launch videos, shorts from the AI plan you pay for",
+    "shortDescription": "Проект «EndFrame – Demos, launch videos, shorts from the AI plan you pay for», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «EndFrame – Demos, launch videos, shorts from the AI plan you pay for», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://endframe.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49611174",
+    "createdAt": "2026-09-08T17:19:34.381Z"
+  },
+  {
+    "slug": "sitetell-finds-the-areas-of-your-site-that-read-as-ai-generic-hn",
+    "title": "SiteTell: finds the areas of your site that read as AI-generic",
+    "shortDescription": "Hey everyone, I built this product called SiteTell. You put in your website url, it returns a list of all of the things across the site tha…",
+    "fullDescription": "Hey everyone, I built this product called SiteTell. You put in your website url, it returns a list of all of the things across the site that get flagged as likely to be AI-written&#x2F;AI-generic. It works against a curated rule set (which will obviously get updated as AI models update and evolve) and then you can fix these issues and get a PDF&#x2F;CSV&#x2F;JSON file that you can download to either take the suggested fixes yourself and apply them, or use the CSV&#x2F;JSON file to drop into your agent for it to fix autonomously within minutes. I actually ran it through my first copy of SiteTell and my rule set gave me an overall score of 6&#x2F;100. Woops. Google updated its core rules in February 2026. The important thing to note is that it does not punish AI-written content. It instead punishes thin content, or generic content. The stuff that AI will typically write if you don&#x27;t go and edit it after. SiteTell can fix this by taking these generic, common issues such as stock AI openers (think &#x27;in today&#x27;s fast paced world&#x27;), AI vocabulary (see &#x27;seamlessly integrates&#x27;) or far more subtle things that once you notice, you see everywhere. For example, consecutive paragraphs within 8 or so words of the same length. The other way I think SiteTell helps is through trust. Increasingly if you go to a landing page, or even a whole site, that reads generically and has the typical AI tells (em-dashes etc...) it instantly loses some amount of intangible trust with the customer which could be costing you customers if you run a site with a lot of written copy. SiteTell also aims to fix this. The rule set is really the main product in my opinion. It&#x27;s about 200 rules covering vocabulary, sentence structure, hedging, and some layout patterns, built from public slop-word lists, a corpus diff against pre-2022 marketing copy, and a lot of manual tuning against real sites. False positives are the hard part, particularly with technical writing where precise language reads as formulaic. Because of the false positive situation, if a user chooses to go through with the fixes they can pick and choose what parts actually need fixing. The customer gets granular control and gets to essentially remove the false positives before the fix stage. Detection is pure regex and heuristics, so scanning is free and needs no signup. Rewrites cost money because they hit an API, so those are paid. Stack is Next.js, Supabase, Gemini Flash for the rewrites only.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.getsitetell.com/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49610677",
+    "createdAt": "2026-09-08T17:19:34.381Z"
+  },
+  {
+    "slug": "ffmpeg-commander-a-command-generator-for-common-encoding-workflows-hn",
+    "title": "FFmpeg Commander – A command generator for common encoding workflows",
+    "shortDescription": "I originally built this around 7 years ago in Vue2 and Bootstrap as a simple static frontend tool to generate common ffmpeg commands. I rec…",
+    "fullDescription": "I originally built this around 7 years ago in Vue2 and Bootstrap as a simple static frontend tool to generate common ffmpeg commands. I recently ported it over to Vite&#x2F;React&#x2F;Tailwind via Claude (Opus 5) and thought it did a pretty good job. So figured I&#x27;d re-share it again as V2. Quite impressed how fast AI was able to port this over. It made me think about revitalizing some old projects. :)\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://ffmpeg-commander.com/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49610595",
+    "createdAt": "2026-09-08T17:19:34.381Z"
+  },
+  {
     "slug": "brier-github",
     "title": "brier",
     "shortDescription": "Anyone can predict the future. Almost nobody keeps the receipt. A hash-chained prediction ledger for LLMs — sealed before the answer exists…",
