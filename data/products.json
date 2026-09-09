@@ -1,5 +1,117 @@
 [
   {
+    "slug": "colliepwa-a-mobile-interface-for-ai-agents-in-herdrtmuxzellij-hn",
+    "title": "ColliePWA a mobile interface for AI agents in herdr/tmux/zellij",
+    "shortDescription": "Sharing the PWA[1] I built over the last couple of weeks to access my terminal sessions&#x2F;agents when not in front of my computer. This…",
+    "fullDescription": "Sharing the PWA[1] I built over the last couple of weeks to access my terminal sessions&#x2F;agents when not in front of my computer. This started off as a weekend experiment right when herdr[2] (terminal multiplexer) released the functionality to write custom plugins and it&#x27;s been quite helpful to me ever since. The general idea is that this runs a web app on the host machine which is then exposed through a front door implementation like tailscale&#x2F;netbird&#x2F;cloudflare tunnels etc. A lot of devs&#x2F;teams are building sth very similar to this right now so there are many options out there already but I wanted: A PWA (no app store dep), better keyboard support than termux, the ability to manage multiple machines and easy integration with my existing tailnet via headscale. Some of the other features - Push notifications - Support for tmux and zellij (experimental). - Voice transcriptions (Codex sub or API) - Custom commands You can check out a live demo with dummy data on the website[1] or look at the implementation on Github[3] (PRs welcome). Looking forward to receiving some feedback or learning more about how people access&#x2F;work with their agents on the go. Also if you encounter any bugs please report them on Github, if a feature is missing you&#x27;d really want to see, open a discussion. [1] https:&#x2F;&#x2F;colliepwa.dev [2] https:&#x2F;&#x2F;herdr.dev [3] https:&#x2F;&#x2F;github.com&#x2F;AltanS&#x2F;collie\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://colliepwa.dev/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49630842",
+    "createdAt": "2026-09-09T19:03:28.397Z"
+  },
+  {
+    "slug": "autoshade-ai-assisted-raw-photo-developer-mit-hn",
+    "title": "AutoShade – AI assisted RAW photo developer (MIT)",
+    "shortDescription": "Проект «AutoShade – AI assisted RAW photo developer (MIT)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AutoShade – AI assisted RAW photo developer (MIT)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://autoshade.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49630628",
+    "createdAt": "2026-09-09T19:03:28.397Z"
+  },
+  {
+    "slug": "ai-burn-clock-the-cost-of-agents-reading-whole-files-hn",
+    "title": "AI Burn Clock – the cost of agents reading whole files",
+    "shortDescription": "Проект «AI Burn Clock – the cost of agents reading whole files», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Burn Clock – the cost of agents reading whole files», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aiburnclock.org/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49630201",
+    "createdAt": "2026-09-09T19:03:28.397Z"
+  },
+  {
+    "slug": "a-guestbook-for-humans-and-ai-agents-built-on-144-pixels-hn",
+    "title": "A guestbook for humans and AI agents, built on 144 pixels",
+    "shortDescription": "Проект «A guestbook for humans and AI agents, built on 144 pixels», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A guestbook for humans and AI agents, built on 144 pixels», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://a90.com/blog/a-guestbook-for-humans-and-ai-agents/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49629960",
+    "createdAt": "2026-09-09T19:03:28.397Z"
+  },
+  {
+    "slug": "mushrooms-a-personal-mcp-server-for-2500-apps-so-your-ai-can-act-hn",
+    "title": "Mushrooms – A personal MCP server for 2,500 apps, so your AI can act",
+    "shortDescription": "Проект «Mushrooms – A personal MCP server for 2,500 apps, so your AI can act», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Mushrooms – A personal MCP server for 2,500 apps, so your AI can act», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://mushrooms.viasocket.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49628886",
+    "createdAt": "2026-09-09T19:03:28.397Z"
+  },
+  {
+    "slug": "moralgames-a-1v1-ethics-game-with-an-ai-judge-hn",
+    "title": "Moral.games, a 1v1 ethics game with an AI judge",
+    "shortDescription": "Проект «Moral.games, a 1v1 ethics game with an AI judge», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Moral.games, a 1v1 ethics game with an AI judge», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://moral.games",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49628812",
+    "createdAt": "2026-09-09T19:03:28.397Z"
+  },
+  {
+    "slug": "locksmith-store-maven-secrets-in-the-macos-keychain-or-a-unix-socket-hn",
+    "title": "Locksmith: Store Maven Secrets in the macOS Keychain (Or a Unix Socket)",
+    "shortDescription": "Hello HN, In the age of LLMs sucking in random secrets, sandbox escapes, and RCE orbital bombardment, I thought it&#x27;d be a good idea to…",
+    "fullDescription": "Hello HN, In the age of LLMs sucking in random secrets, sandbox escapes, and RCE orbital bombardment, I thought it&#x27;d be a good idea to create a Maven Extension that defers to the MacOS keychain for resolving secrets. In general, it&#x27;s a good idea to not have any secrets (passwords, tokens, etc) stored in plaintext files. Also, this allows your machines to be FIPS-140 complaint, if thats a thing for your job. Locksmith is a Maven Core Extension that defers to the MacOS Keychain. The entry format in settings.xml looks like: `{[type=locksmith]nexus.superbiz.example.com&#x2F;username}` This was a fun project and I used the Project Panama FFM with jextract for the first time. The FFM is a great iteration on JNI (which still has it&#x27;s place) and was pretty much brainless to use. Setup is quick and easy and I tried to make the readme as friendly as possible. As an aside, I&#x27;ve also architected the core Library indecently from the Maven bits, so if you do need to read from the MacOS keychain in a project, you could pull the core Library in without dragging in Maven. Being 2026, of course Claude was used to assist in the creation of the project, however Locksmith is not vibecoded top-to-bottom. I personally loathe AI slop. I use LLMs as a tool, not a crutch. Enjoy!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/exabrial/locksmith",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49628707",
+    "createdAt": "2026-09-09T19:03:28.397Z"
+  },
+  {
     "slug": "beam-cli-github",
     "title": "beam-cli",
     "shortDescription": "Monitoring & Safety layer for all your agents",
