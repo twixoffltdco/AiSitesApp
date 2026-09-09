@@ -1,5 +1,129 @@
 [
   {
+    "slug": "ironloop-github",
+    "title": "ironloop",
+    "shortDescription": "Verification-first AI-assisted development harness. 5 layers from spec to pentest.",
+    "fullDescription": "Verification-first AI-assisted development harness. 5 layers from spec to pentest.\n\nАвтор: edouard-claude. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://github.com/edouard-claude/ironloop",
+    "category": "ai-tool",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "brownfield",
+      "chaos-engineering",
+      "claude-code",
+      "cursor",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1360843471",
+    "createdAt": "2026-09-09T11:41:09.401Z"
+  },
+  {
+    "slug": "research-workbench-assistant-github",
+    "title": "research-workbench-assistant",
+    "shortDescription": "Local-first research memory for Codex: checkpoints, progress ledgers, and Markdown/JSON paper notes. Early alpha.",
+    "fullDescription": "Local-first research memory for Codex: checkpoints, progress ledgers, and Markdown/JSON paper notes. Early alpha.\n\nАвтор: z-liu-xiugou. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/z-liu-xiugou/research-workbench-assistant",
+    "category": "chatbot",
+    "tags": [
+      "academic-workflow",
+      "ai",
+      "codex",
+      "knowledge-graph",
+      "literature-review",
+      "local-first",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1359976034",
+    "createdAt": "2026-09-09T11:41:09.401Z"
+  },
+  {
+    "slug": "checkstrip-ai-watermarks-c2pa-and-hidden-unicode-from-files-hn",
+    "title": "Check/strip AI watermarks (C2PA) and hidden Unicode from files",
+    "shortDescription": "Проект «Check/strip AI watermarks (C2PA) and hidden Unicode from files», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Check/strip AI watermarks (C2PA) and hidden Unicode from files», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://remove-ai-watermark.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49624208",
+    "createdAt": "2026-09-09T11:41:09.262Z"
+  },
+  {
+    "slug": "i-benchmarked-seedance-25s-30s-one-take-video-against-3-models-hn",
+    "title": "I benchmarked Seedance 2.5's 30s one-take video against 3 models",
+    "shortDescription": "Проект «I benchmarked Seedance 2.5's 30s one-take video against 3 models», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I benchmarked Seedance 2.5's 30s one-take video against 3 models», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://videoall.ai/seedance-2-5",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49624175",
+    "createdAt": "2026-09-09T11:41:09.263Z"
+  },
+  {
+    "slug": "i-measured-what-newborns-can-see-and-built-videos-around-it-hn",
+    "title": "I measured what newborns can see and built videos around it",
+    "shortDescription": "Проект «I measured what newborns can see and built videos around it», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I measured what newborns can see and built videos around it», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://dotanddashsensory.com/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49623898",
+    "createdAt": "2026-09-09T11:41:09.263Z"
+  },
+  {
+    "slug": "aer-a-subjectless-protocol-anchored-in-tpm-20-and-wasm-receipts-hn",
+    "title": "AER – A subjectless protocol anchored in TPM 2.0 and WASM receipts",
+    "shortDescription": "Проект «AER – A subjectless protocol anchored in TPM 2.0 and WASM receipts», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AER – A subjectless protocol anchored in TPM 2.0 and WASM receipts», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://medium.com/@team-sequence/designing-a-subjectless-distributed-protocol-for-autonomous-machines-and-ai-agents-aer-autonomous-33a81e77e784",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49622818",
+    "createdAt": "2026-09-09T11:41:09.263Z"
+  },
+  {
+    "slug": "t3rnel-browser-drive-the-browser-youre-signed-into-hn",
+    "title": "T3rnel Browser – drive the browser you're signed into",
+    "shortDescription": "T3rnel Browser is a browser extension + MCP bridge that gives an AI agent the browser you are already signed into, instead of launching a f…",
+    "fullDescription": "T3rnel Browser is a browser extension + MCP bridge that gives an AI agent the browser you are already signed into, instead of launching a fresh automated browser and asking it to re-authenticate. The side panel lets a human see what the agent is doing and refuse actions. It now supports 24 languages, light&#x2F;dark modes, React inspection, cache&#x2F;hard reload, an infinite-scroll stop guard, and dark-mode PDF export.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://t3ratech.github.io/t3rnel-browser-plugin/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49622707",
+    "createdAt": "2026-09-09T11:41:09.263Z"
+  },
+  {
     "slug": "linktokenview-docs-github",
     "title": "linktokenview-docs",
     "shortDescription": "LinkTokenView（联视未来）国产大模型 Token API 聚合平台，提供 OpenAI 兼容接口，统一调用 DeepSeek、Kimi、GLM、通义千问 等模型，支持 Token Plan 与 Coding Plan。支持Codex、Claude、Harness、W…",
