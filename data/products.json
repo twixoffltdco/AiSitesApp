@@ -1,5 +1,171 @@
 [
   {
+    "slug": "linktokenview-docs-github",
+    "title": "linktokenview-docs",
+    "shortDescription": "LinkTokenView（联视未来）国产大模型 Token API 聚合平台，提供 OpenAI 兼容接口，统一调用 DeepSeek、Kimi、GLM、通义千问 等模型，支持 Token Plan 与 Coding Plan。支持Codex、Claude、Harness、W…",
+    "fullDescription": "LinkTokenView（联视未来）国产大模型 Token API 聚合平台，提供 OpenAI 兼容接口，统一调用 DeepSeek、Kimi、GLM、通义千问 等模型，支持 Token Plan 与 Coding Plan。支持Codex、Claude、Harness、WorkBuddy等各类Agent工具。\n\nАвтор: yinyuepingguo. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://linktokenview.com",
+    "category": "developer",
+    "tags": [
+      "agent",
+      "ai",
+      "claude",
+      "codex",
+      "coding-plan",
+      "codingplan",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1361363342",
+    "createdAt": "2026-09-09T06:20:32.086Z"
+  },
+  {
+    "slug": "ai-first-open-source-alternative-to-microsoft-and-google-office-hn",
+    "title": "AI-first open-source alternative to Microsoft and Google Office",
+    "shortDescription": "InjOffice — AI-first open-source alternative to Microsoft Office and Google Workspace",
+    "fullDescription": "InjOffice — AI-first open-source alternative to Microsoft Office and Google Workspace\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/injectinglabs/injoffice",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49621425",
+    "createdAt": "2026-09-09T06:20:31.819Z"
+  },
+  {
+    "slug": "estimate-your-ai-co2-footprint-hn",
+    "title": "Estimate your AI CO2 footprint",
+    "shortDescription": "Проект «Estimate your AI CO2 footprint», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Estimate your AI CO2 footprint», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://llmfootprint.fyi/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49621246",
+    "createdAt": "2026-09-09T06:20:31.819Z"
+  },
+  {
+    "slug": "free-ai-image-tools-no-signup-hn",
+    "title": "Free AI image tools, no signup",
+    "shortDescription": "Проект «Free AI image tools, no signup», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Free AI image tools, no signup», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://freeaiimage.io",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49621194",
+    "createdAt": "2026-09-09T06:20:31.819Z"
+  },
+  {
+    "slug": "korean-filings-with-minute-level-receipt-times-and-what-happened-next-hn",
+    "title": "Korean filings with minute-level receipt times, and what happened next",
+    "shortDescription": "Проект «Korean filings with minute-level receipt times, and what happened next», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Korean filings with minute-level receipt times, and what happened next», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://aikstockdata.com/en/api",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49621155",
+    "createdAt": "2026-09-09T06:20:31.819Z"
+  },
+  {
+    "slug": "aish-warp-style-ai-command-suggestions-in-300-lines-of-zsh-hn",
+    "title": "Aish – Warp-style AI command suggestions in 300 lines of Zsh",
+    "shortDescription": "Проект «Aish – Warp-style AI command suggestions in 300 lines of Zsh», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Aish – Warp-style AI command suggestions in 300 lines of Zsh», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/oguzbilgic/aish",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49621148",
+    "createdAt": "2026-09-09T06:20:31.819Z"
+  },
+  {
+    "slug": "github-actions-aibom-generation-hn",
+    "title": "GitHub Actions Aibom Generation",
+    "shortDescription": "Проект «GitHub Actions Aibom Generation», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «GitHub Actions Aibom Generation», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/marketplace/actions/generate-operational-aibom",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49620825",
+    "createdAt": "2026-09-09T06:20:31.819Z"
+  },
+  {
+    "slug": "making-an-app-to-organize-all-basic-aspects-of-modern-life-hn",
+    "title": "Making an app to organize all basic aspects of modern life",
+    "shortDescription": "Hi, I am building a FOSS life-management app. Desktop &amp; mobile. Bills, recipes, inventory, goals, ideas, general notes, reminders with…",
+    "fullDescription": "Hi, I am building a FOSS life-management app. Desktop &amp; mobile. Bills, recipes, inventory, goals, ideas, general notes, reminders with alarm sounds... You can use AI to push&#x2F;get data on it (completely optional, nothing built-in into it). You can disable features. You can self-host and run your own instance, same app with the same capabilities. I&#x27;ve been developing it for 6 months already, for my personal usage, and have recently released it under a FOSS license. The code is available at https:&#x2F;&#x2F;github.com&#x2F;ontoplano&#x2F;ontoplano Any feedback is appreciated!\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://demo.ontoplano.com",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49620451",
+    "createdAt": "2026-09-09T06:20:31.820Z"
+  },
+  {
+    "slug": "raven-encrypted-messages-hidden-inside-ordinary-text-hn",
+    "title": "Raven – Encrypted messages hidden inside ordinary text",
+    "shortDescription": "Solo dev. built in my spare time. Raven uses a combination of steganography and cryptography to create a metadata resistant messenger. It e…",
+    "fullDescription": "Solo dev. built in my spare time. Raven uses a combination of steganography and cryptography to create a metadata resistant messenger. It encrypts any piece of text on your device and stores the ciphertext on Solana. It works pairwise with keys, users decrypt locally on their device- no accounts. I do run the relayer and a retention sweeper (not claiming peer to peer). One more thing, every write is signed by the same pool wallet, so anyone can see volume&#x2F;timing. Check the white paper below and there’s been no audit. Several variations include: public, private, and stealth (for fun, i’ve hidden a public raven in this post) White Paper: https:&#x2F;&#x2F;oara.ai&#x2F;raven-whitepaper The crypto and encoding core is open source. Apps are not open yet. Open source: https:&#x2F;&#x2F;github.com&#x2F;OAraLabs&#x2F;raven-core iOS: https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;raven-hidden-messages&#x2F;id677947... Chrome: https:&#x2F;&#x2F;chromewebstore.google.com&#x2F;detail&#x2F;raven-%E2%80%94-hid... For fun public raven read key: https:&#x2F;&#x2F;sendraven.ink&#x2F;k&#x2F;Ot2YzGEoYYaMN1Uc\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://sendraven.ink",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49620394",
+    "createdAt": "2026-09-09T06:20:31.820Z"
+  },
+  {
+    "slug": "merchant-outcome-source-first-catalog-qa-charged-per-qualified-row-hn",
+    "title": "Merchant Outcome – Source-first catalog QA, charged per qualified row",
+    "shortDescription": "Проект «Merchant Outcome – Source-first catalog QA, charged per qualified row», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Merchant Outcome – Source-first catalog QA, charged per qualified row», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://merchant.ainetcafe.com/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49619630",
+    "createdAt": "2026-09-09T06:20:31.820Z"
+  },
+  {
     "slug": "cs50-ai-github",
     "title": "CS50-AI",
     "shortDescription": "This is document for CS50 AI from CS50X Persian official team of harvard university cs50 ",
