@@ -1,5 +1,37 @@
 [
   {
+    "slug": "bineuron-ai-code-assistant-that-runs-100-locally-hn",
+    "title": "BiNeuron – AI code assistant that runs 100% locally",
+    "shortDescription": "Проект «BiNeuron – AI code assistant that runs 100% locally», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «BiNeuron – AI code assistant that runs 100% locally», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/just-not-google/BiNeuron",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49634663",
+    "createdAt": "2026-09-09T21:49:03.895Z"
+  },
+  {
+    "slug": "cross-platform-computer-use-mcp-server-built-in-rust-hn",
+    "title": "Cross-platform computer use MCP server built in Rust",
+    "shortDescription": "Проект «Cross-platform computer use MCP server built in Rust», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Cross-platform computer use MCP server built in Rust», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/zavora-ai/computer-use-mcp",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49633155",
+    "createdAt": "2026-09-09T21:49:03.895Z"
+  },
+  {
     "slug": "colliepwa-a-mobile-interface-for-ai-agents-in-herdrtmuxzellij-hn",
     "title": "ColliePWA a mobile interface for AI agents in herdr/tmux/zellij",
     "shortDescription": "Sharing the PWA[1] I built over the last couple of weeks to access my terminal sessions&#x2F;agents when not in front of my computer. This…",
