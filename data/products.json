@@ -1,5 +1,202 @@
 [
   {
+    "slug": "beam-cli-github",
+    "title": "beam-cli",
+    "shortDescription": "Monitoring & Safety layer for all your agents",
+    "fullDescription": "Monitoring & Safety layer for all your agents\n\nАвтор: whyashthakker. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "www.agentbeam.com",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-safety",
+      "cli",
+      "harness",
+      "monitoring",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1362357070",
+    "createdAt": "2026-09-09T15:53:16.049Z"
+  },
+  {
+    "slug": "geiger-see-every-ai-agent-on-your-machine-and-what-it-can-touch-hn",
+    "title": "Geiger – See every AI agent on your machine and what it can touch",
+    "shortDescription": "Проект «Geiger – See every AI agent on your machine and what it can touch», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Geiger – See every AI agent on your machine and what it can touch», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 20 баллов.",
+    "url": "https://github.com/Atomburstofficial/geiger",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49627646",
+    "createdAt": "2026-09-09T15:53:15.860Z"
+  },
+  {
+    "slug": "emailclawemail-lovers-ai-agent-that-creates-scheduled-task-in-5-steps-hn",
+    "title": "Emailclaw–Email lovers' AI agent that creates scheduled task in 5 steps",
+    "shortDescription": "Проект «Emailclaw–Email lovers' AI agent that creates scheduled task in 5 steps», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Emailclaw–Email lovers' AI agent that creates scheduled task in 5 steps», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/emailclaw/emailclaw",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49627264",
+    "createdAt": "2026-09-09T15:53:15.861Z"
+  },
+  {
+    "slug": "tripwire-sandboxed-security-scanner-for-ai-skills-and-mcp-servers-hn",
+    "title": "Tripwire – sandboxed security scanner for AI skills and MCP servers",
+    "shortDescription": "Проект «Tripwire – sandboxed security scanner for AI skills and MCP servers», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Tripwire – sandboxed security scanner for AI skills and MCP servers», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/neomatrix369/tripwire",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49626817",
+    "createdAt": "2026-09-09T15:53:15.861Z"
+  },
+  {
+    "slug": "briff-site-summarizer-hn",
+    "title": "Briff – Site Summarizer",
+    "shortDescription": "I read HN everyday and some posts are way too long for my short attention span, so I&#x27;ve been wondering about summarizing long articles…",
+    "fullDescription": "I read HN everyday and some posts are way too long for my short attention span, so I&#x27;ve been wondering about summarizing long articles using AI and as I use Brave it comes with an AI sidebar tool that has a Summarize option, which is cool but... it doesn&#x27;t work in Venezuela So I built this little tool and thought I&#x27;d share with you all. It&#x27;s just a summarizer, enter a URL and AI (DeepSeek) writes an executive summary in less than 100 lines plus some key bullet points. Enough to get an understanding of the topic covered so I can decide to read the whole article or not I hope you all enjoy it and please don&#x27;t abuse it as it cost tokens (1 cent per summary). I may think on adding ads in the future but I hate ads, so token consumption will decide. Perhaps limiting it to 3 daily summaries per user capping at 100 per month? Time will tell Feedback is highly appreciated https:&#x2F;briff.site\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://briff.site",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49626806",
+    "createdAt": "2026-09-09T15:53:15.861Z"
+  },
+  {
+    "slug": "castforge-run-claude-code-codex-and-gemini-as-one-dev-team-hn",
+    "title": "Castforge – run Claude Code, Codex and Gemini as one dev team",
+    "shortDescription": "Проект «Castforge – run Claude Code, Codex and Gemini as one dev team», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Castforge – run Claude Code, Codex and Gemini as one dev team», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://castforge.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49626524",
+    "createdAt": "2026-09-09T15:53:15.861Z"
+  },
+  {
+    "slug": "stop-scattering-ai-resources-across-your-project-meet-bear-ctxpm-hn",
+    "title": "Stop Scattering AI Resources Across Your Project: Meet Bear. Ctxpm",
+    "shortDescription": "Проект «Stop Scattering AI Resources Across Your Project: Meet Bear. Ctxpm», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Stop Scattering AI Resources Across Your Project: Meet Bear. Ctxpm», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://bear.best/en/blog/bear-ctxpm-context-package-manager/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49626333",
+    "createdAt": "2026-09-09T15:53:15.861Z"
+  },
+  {
+    "slug": "parlel-linkedin-but-searchable-by-ai-agents-hn",
+    "title": "Parlel – LinkedIn, but searchable by AI agents",
+    "shortDescription": "Linkedin is great for networking (maybe not so much) but it’s too cumbersome to find relevant people and opportunities. While I largely agr…",
+    "fullDescription": "Linkedin is great for networking (maybe not so much) but it’s too cumbersome to find relevant people and opportunities. While I largely agree that agents should not write posts autonomously, I don’t like that you can&#x27;t use agents for prospecting purposes. So I built Parlel, an agent native professional network where humans and agents can coexist and everything humans do is exposed to agents via mcp. The idea is simple, instead of searching manually, spin up an agent “find me YC companies hiring for founding engineers” and it searches Parlel + open internet and emails you the results periodically. Founder can search for prospects, candidates for hiring and reach out to them directly without restrictions. The network is super early but would love the feedbacks from you all.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://parlel.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49626170",
+    "createdAt": "2026-09-09T15:53:15.861Z"
+  },
+  {
+    "slug": "revliu-multi-touch-attribution-from-acquisition-to-revenue-hn",
+    "title": "Revliu – Multi-touch attribution from acquisition to revenue",
+    "shortDescription": "I’m a founder and I just built RevliI’m a founder and I just built Revliu. After building several products, I always wanted to understand h…",
+    "fullDescription": "I’m a founder and I just built RevliI’m a founder and I just built Revliu. After building several products, I always wanted to understand how my customers were actually finding me. Which campaign brought them in, which source they came from, and what their full journey looked like. There are already tools for this, but one problem I kept running into is that they often stop at first touch or last touch. That’s why I built Revliu around multi-touch attribution and the full customer journey. As soon as someone lands on your website, Revliu gives them an anonymous ID and starts tracking their journey. Once they sign up, that journey can be connected to the actual customer. From there, you can see if they’re on a trial, how often they come back, how many sessions they open, and eventually when they pay. For me, this also makes it easier to talk to that user and understand why they decided to move forward at that specific moment. Today, Revliu tracks acquisition sources, returning visitors, sessions, touchpoints, and revenue. Instead of just knowing that a campaign got a certain number of impressions, I want to know how much money it actually brought in. Impressions are not really what I care about. The app itself is pretty simple. The main page gives you an overview of revenue by source. Traffic shows visitors, their journey, and their sessions. Campaigns shows the acquisition funnel. For a SaaS, that can be visitor → lead → trial → paying customer. For an online store, it can simply be acquisition → purchase. Customers lets you look at each customer individually, see their touchpoints, where they came from, their journey, and when they bought. The technical side is simple in principle. It starts with an anonymous visitor who gets an ID. We keep track of their visits and touchpoints. When they sign up, that anonymous journey is connected to the customer. Stripe is connected as well, so when the customer pays, the revenue can be linked back to the same journey. The goal is basically to connect acquisition → visits → signup → customer → revenue. Right now, the app is still in its first phase. I haven’t built all the integrations I want yet. What I want to build next is something that does more than just show data. If someone leaves their email but never finishes signing up, comes back several times without buying, or shows real interest without converting, I want to use that information to try to recover that potential customer. The idea would be to reach them again by email or, depending on the integrations, through other channels like LinkedIn. That’s why I still see the app as limited today. I first want to test this attribution part and see if there’s real traction around the problem before building everything else. The part I’m really interested in for the future is revenue recovery. By combining it with AI, the goal would be to adapt to different customers, understand which ones are hesitating, and do more than just display data. I want the data to actually do something inside the product. And I’d really like to know how you’re handling this today. Coding has become much easier than it used to be, but the difference between a good product that sells and a good product nobody uses often comes down to marketing and distribution. I’d really like your feedback on Revliu, the way I’m approaching the problem, and what you would do differently.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://www.revliu.com/demo",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49625804",
+    "createdAt": "2026-09-09T15:53:15.861Z"
+  },
+  {
+    "slug": "seams-handles-access-spend-caps-and-metering-on-one-request-path-hn",
+    "title": "Seams handles access, spend caps, and metering on one request path",
+    "shortDescription": "Seams is the billing infrastructure for AI products, we help you manage end user usage spend for different pricing strategies, usage-based,…",
+    "fullDescription": "Seams is the billing infrastructure for AI products, we help you manage end user usage spend for different pricing strategies, usage-based, credit and outcome based. We do helping you spin up a managed gateway under your own domain, model names, routing etc. Would love to hear your feedback on this\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://ourseams.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49625739",
+    "createdAt": "2026-09-09T15:53:15.861Z"
+  },
+  {
+    "slug": "url-roulette-redesigned-site-for-discovering-human-submitted-links-hn",
+    "title": "URL Roulette – redesigned site for discovering human-submitted links",
+    "shortDescription": "URL Roulette allows you to submit a link and, in return, you are taken to a random site that someone else posted - no algorithm, no ranking…",
+    "fullDescription": "URL Roulette allows you to submit a link and, in return, you are taken to a random site that someone else posted - no algorithm, no ranking, no AI‐generated content. It has been operating since 2017 and currently contains about 190K human‐submitted links in rotation. I reconstructed the whole project over the summer and it is now back online. I launched a weekly newsletter named The Vault that recaps unusual discoveries. I developed a bookmarklet named &quot;The Boredom Button&quot; that delivers a random link from any page with a single click. I would appreciate feedback on this. I am especially keen to hear from anyone who recalls the earlier version.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://urlroulette.net/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49625631",
+    "createdAt": "2026-09-09T15:53:15.861Z"
+  },
+  {
+    "slug": "buymydeadstartupcom-sell-your-ip-to-ai-labs-hn",
+    "title": "Buymydeadstartup.com – Sell your IP to AI labs",
+    "shortDescription": "I have had my fair share of failed startups, but none so recent that I could have sold our IP (code, Slack messages -- you name it) to Anth…",
+    "fullDescription": "I have had my fair share of failed startups, but none so recent that I could have sold our IP (code, Slack messages -- you name it) to Anthropic, OpenAI or any other AI lab or data buyer. I know some companies are actively approached by some brokers, but most are not, because a startup often dies as a zombie (= not in a big bang, in most cases). BuyMyDeadStartup is a bulletin board, not a marketplace. A founder posts a text description of what the company left behind, verified against a working email address and read by a person before it goes up. Buyers write to the founder directly. Whatever they agree is between them. I really tried to keep this as simple as possible.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.buymydeadstartup.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49625537",
+    "createdAt": "2026-09-09T15:53:15.861Z"
+  },
+  {
     "slug": "ironloop-github",
     "title": "ironloop",
     "shortDescription": "Verification-first AI-assisted development harness. 5 layers from spec to pentest.",
