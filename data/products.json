@@ -1,5 +1,21 @@
 [
   {
+    "slug": "ambient-context-v100-missing-context-for-ai-assistants-hn",
+    "title": "Ambient Context v1.0.0 (Missing context for AI assistants)",
+    "shortDescription": "The other week I posted a concept to use the macOS Accessibility API to capture the text on your screen into a markdown file. It seemed to…",
+    "fullDescription": "The other week I posted a concept to use the macOS Accessibility API to capture the text on your screen into a markdown file. It seemed to be interesting with 150+ github stars. I&#x27;ve done a bunch of updates and packaged them into a signed macOS app. One of the biggest changes was moving away from &#x27;one context file per day&#x27; to three markdown files for apps, website, and messages. I then run Andrej Karpathy&#x27;s LLM Wiki process to turn into a simple knowledge base for the day. This is then used by a smarter model to synthesise into a daily overview. Let me know what you think Original: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49429095\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/dragthelake/ambient-context/releases",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49636194",
+    "createdAt": "2026-09-09T23:49:18.764Z"
+  },
+  {
     "slug": "bineuron-ai-code-assistant-that-runs-100-locally-hn",
     "title": "BiNeuron – AI code assistant that runs 100% locally",
     "shortDescription": "Проект «BiNeuron – AI code assistant that runs 100% locally», опубликован сообществом Hacker News.",
