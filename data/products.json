@@ -1,5 +1,161 @@
 [
   {
+    "slug": "cs50-ai-github",
+    "title": "CS50-AI",
+    "shortDescription": "This is document for CS50 AI from CS50X Persian official team of harvard university cs50 ",
+    "fullDescription": "This is document for CS50 AI from CS50X Persian official team of harvard university cs50 \n\nАвтор: cs50-persian. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://cs50xpersian.ir/product/%d8%af%d9%88%d8%b1%d9%87-%d8%b5%d9%81%d8%b1%d8%aa%d8%a7%d8%b5%d8%af-%d9%87%d9%88%d8%b4-%d9%85%d8%b5%d9%86%d9%88%d8%b9%db%8c-cs50ai/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "cs50",
+      "cs50-persian",
+      "cs50ai",
+      "cs50ai2024",
+      "cs50ai2025",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1361723214",
+    "createdAt": "2026-09-09T01:01:52.931Z"
+  },
+  {
+    "slug": "alanstudio-framework-github",
+    "title": "alanstudio-framework",
+    "shortDescription": "Alan Studios Framework — harness thin para criar e evoluir games com IA. Não é um motor.",
+    "fullDescription": "Alan Studios Framework — harness thin para criar e evoluir games com IA. Não é um motor.\n\nАвтор: oalanicolas. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://games.alanicolas.com/framework",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "game-development",
+      "games",
+      "harness",
+      "python",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1361815041",
+    "createdAt": "2026-09-09T01:01:52.931Z"
+  },
+  {
+    "slug": "agentmeld-github",
+    "title": "agentmeld",
+    "shortDescription": "One AI context, every agent. Symlink-first, always-on sync of instructions, rules, skills, agents, commands and MCP config across every AI…",
+    "fullDescription": "One AI context, every agent. Symlink-first, always-on sync of instructions, rules, skills, agents, commands and MCP config across every AI coding tool.\n\nАвтор: moneytool. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/moneytool/agentmeld",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "agents-md",
+      "ai",
+      "claude",
+      "copilot",
+      "cursor",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1359675549",
+    "createdAt": "2026-09-09T01:01:52.931Z"
+  },
+  {
+    "slug": "ngram-github",
+    "title": "ngram",
+    "shortDescription": "Persistent agents. Spatial presence.",
+    "fullDescription": "Persistent agents. Spatial presence.\n\nАвтор: ngramspatial. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://ngram.space",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "augmented-reality",
+      "spatial-computing",
+      "webxr",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1360599100",
+    "createdAt": "2026-09-09T01:01:52.931Z"
+  },
+  {
+    "slug": "mcp-starter-kit-github",
+    "title": "MCP-STARTER-KIT",
+    "shortDescription": "Build a secure, production-ready MCP server for any project — connect Claude, ChatGPT & any AI agent to your backend with a URL + API key.…",
+    "fullDescription": "Build a secure, production-ready MCP server for any project — connect Claude, ChatGPT & any AI agent to your backend with a URL + API key. Streamable HTTP + stdio + OAuth 2.0 (PKCE).\n\nАвтор: fdhhhdjd. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://codewebkhongkho.com",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "api",
+      "chatgpt",
+      "claude",
+      "llm-tools",
+      "mcp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1360282330",
+    "createdAt": "2026-09-09T01:01:52.931Z"
+  },
+  {
+    "slug": "volanti-open-source-acoustic-detector-for-fibre-optic-fpv-drones-hn",
+    "title": "VolAnti – Open-source acoustic detector for fibre-optic FPV drones",
+    "shortDescription": "This project has been a month in the making, and 9 fully functional units will be sent tomorrow to an undisclosed civilian site across the…",
+    "fullDescription": "This project has been a month in the making, and 9 fully functional units will be sent tomorrow to an undisclosed civilian site across the Israel - Lebanon border. All of my findings are shared online to anyone on the globe who could benefit from them, or make their own units. I&#x27;m an engineering student at the University of York, originally from Israel, studying in England. I too often have been hearing about tragic cases involving civilians in war zones being chased and attacked by small FPV drones mounted with an explosive. Especially around the north of Israel, Ukraine and Russian. My intentions for this project were clear: create a device small, portable and cheap enough for civilian use, that could drastically change the outcome of a drone infiltration through early alerting. I decided to dedicate a month of my summer to go back to the university labs and to work on this as personal project. These drone attacks are not run on normal wireless drones, instead they are run on small FPV drones that are connected to the operator through a long spool of fibre optic cable. This simply means that drone detection through Radio, the current industry standard, is not applicable. My solution was to build an acoustic detector. A device that uses 4 MEMS microphones to capture the drone&#x27;s propellers&#x27; emitted noise as they cut through the air, runs that data through several algorithms to enhance the SNR, reduce noise (directional, possible confusers), recognises their comb looking shape when plotted by frequency, and alert the user through multiple outputs (display, beeper, buzzer, led) along with alerting all nearby units using a LoRa module also fitted in the device. The units have been tested against a custom drone rig, housing the exact same specs as the drones used in the Israel-Lebanon border (four 2807 motors, 7 in tri blades, FPV airframe), which was stationed 104.2m away from the device in a street with passer-by&#x27;s and mild wind. That test ran successfully and the device was able to detect the drone. This device was built for detection and alerting only, so no jamming. Every online resource i could think of in regarding this project exists in the Github, along with a neat website that shows off more media with explanations, also housing a live detector simulation that runs in the browser: https:&#x2F;&#x2F;volantitech.com&#x2F;#simulator\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/agamrossen/VolAnti",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49618955",
+    "createdAt": "2026-09-09T01:01:52.832Z"
+  },
+  {
+    "slug": "ai-stack-selector-tool-hn",
+    "title": "AI Stack Selector Tool",
+    "shortDescription": "Проект «AI Stack Selector Tool», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Stack Selector Tool», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://augmentorlabs.com/manifest",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49618824",
+    "createdAt": "2026-09-09T01:01:52.832Z"
+  },
+  {
+    "slug": "mactap-use-knocks-on-your-macbook-as-shortcuts-hn",
+    "title": "MacTap, use knocks on your MacBook as shortcuts",
+    "shortDescription": "I was playing with the motion sensor inside my MacBook and noticed that knocks on the aluminum next to the trackpad showed up very clearly.…",
+    "fullDescription": "I was playing with the motion sensor inside my MacBook and noticed that knocks on the aluminum next to the trackpad showed up very clearly. That turned into MacTap. You can map different knock patterns to actions like copy, paste, screenshots, AI actions, music controls, and more. It runs locally and it’s open source.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://mactap.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49618740",
+    "createdAt": "2026-09-09T01:01:52.832Z"
+  },
+  {
     "slug": "tokentab-github-3",
     "title": "tokentab",
     "shortDescription": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
