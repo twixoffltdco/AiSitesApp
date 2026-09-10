@@ -1,5 +1,133 @@
 [
   {
+    "slug": "swiftcruit-ai-assisted-technical-assessment-platform-hn",
+    "title": "Swiftcruit – AI assisted technical assessment platform",
+    "shortDescription": "the platform can create highly relevant real world assessments from just the JD, candidates can solve the problem in our ai assisted IDE ge…",
+    "fullDescription": "the platform can create highly relevant real world assessments from just the JD, candidates can solve the problem in our ai assisted IDE generating detailed scorecards including how they use AI. the demo shows the core features. would love the feedback. how are you judging AI proficiency in technical interviews ?\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://www.swiftcruit.ai/tools/assessment-question-generator",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49642903",
+    "createdAt": "2026-09-10T13:00:33.775Z"
+  },
+  {
+    "slug": "i-graded-200-ai-toolsapps-and-track-any-changes-in-their-policies-hn",
+    "title": "I graded 200 AI tools/apps and track any changes in their policies",
+    "shortDescription": "Hi all, Given the recent OpenAI saga with the Navier–Stokes problem, I thought it would be a good time to show my latest project. The site…",
+    "fullDescription": "Hi all, Given the recent OpenAI saga with the Navier–Stokes problem, I thought it would be a good time to show my latest project. The site pulls policies from 200+ websites, keeps track of them and compares them to any changes. I then grade the companies (A-F + Unclear) and I have emailed all of the companies that have been graded D or below. Where applicable, such as with OpenAI, I&#x27;ve provided instructions on how users can opt-out of their data being used for training. Findings of note so far: - 80 tools train on you by default. 55 don&#x27;t let you opt-in and four do, but you have to pay. - 106 tools don&#x27;t say if they do or don&#x27;t train on your data&#x2F;usage. - Only 36 (16%) say that they do not train on your data. - One company, FastMail, made a change to their policy based on my feedback&#x2F;grading. If you have any feedback, suggestions or concerns please let me know! I&#x27;m trying to improve this as and when I can. Also let me know if you have a specific app&#x2F;tool in mind you&#x27;d like for me to grade&#x2F;track.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://isittrainingonme.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49642791",
+    "createdAt": "2026-09-10T13:00:33.776Z"
+  },
+  {
+    "slug": "oracle-forms-to-java-a-two-week-ai-migration-experiment-hn",
+    "title": "Oracle Forms to Java: A Two-Week AI Migration Experiment",
+    "shortDescription": "Проект «Oracle Forms to Java: A Two-Week AI Migration Experiment», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Oracle Forms to Java: A Two-Week AI Migration Experiment», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://vaadin.com/blog/oracle-forms-to-java-a-two-week-ai-migration-experiment",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49642379",
+    "createdAt": "2026-09-10T13:00:33.776Z"
+  },
+  {
+    "slug": "listpro-turn-product-screenshots-into-launch-assets-hn",
+    "title": "Listpro – Turn product screenshots into launch assets",
+    "shortDescription": "I am a true believer in &quot;throwing things at the wall and seeing what sticks&quot; ideology so I&#x27;ve built products for multiple ma…",
+    "fullDescription": "I am a true believer in &quot;throwing things at the wall and seeing what sticks&quot; ideology so I&#x27;ve built products for multiple marketplaces- Shopify, Notion, mondaydotcom &amp; also SaaS. While AI coding made building faster, launching was my big problem. Marketplaces and launch platforms (Product hunt, appsumo etc) are a sea of products and it&#x27;s really tough to pass them with average looking launch assets. I&#x27;m not a designer, nor do I find it sensible to pay for a monthly subscription when the launch is not a weekly thing (not yet atleast). So I kept facing this issue again and again when I&#x27;d spend hours and hours just researching good visual trends, references, then struggling to get a decent looking outcome right on canva. My goal was not to make my product look like a shiny bright thing - but to make sure people understand what it&#x27;s meant to do in one glance, rather than scrolling through busy screenshots. By my 10th product, I&#x27;d landed on a system that produced high quality gallery assets that I was confident to use - designed specific to the product I’d launch. So I shared the workflow with a few friends and they found it quite nice. It helped their products gain more visibility - visitors could actually understand what your product does without the mental load of looking at a screenshot. So I made this into product and made it available to everyone. Upload the most basic resources : product URL and raw screenshots to generate the whole kit - cover images, launch video, feature cards to explain each functionality. Still in beta. Curious how people use it and what results it brings for them.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://listpro.app",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49642350",
+    "createdAt": "2026-09-10T13:00:33.776Z"
+  },
+  {
+    "slug": "security-cards-reducing-insecure-ai-generated-code-by-72-hn",
+    "title": "Security Cards – Reducing insecure AI-generated code by 72%",
+    "shortDescription": "AI coding agents often generate functionally correct but insecure code. To address this issue, we have open-sourced Security Cards, targete…",
+    "fullDescription": "AI coding agents often generate functionally correct but insecure code. To address this issue, we have open-sourced Security Cards, targeted security guidance for 80+ widely used libraries across 13 programming languages. Our evaluation shows that the Security Cards reduce the rate of insecure code generation by up to 72.3% in Claude Code with Opus 4.7. You can find these security cards on GitHub ( https:&#x2F;&#x2F;github.com&#x2F;Reware-Labs&#x2F;securitycards ) or on our website ( https:&#x2F;&#x2F;securitycards.rewarelabs.com&#x2F; ) We are planning to constantly support more languages and libraries, and we’d be glad to hear your feedback, especially on where these cards would be most useful in your workflow, and which libraries we should support next.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://www.rewarelabs.com/blog/introducing-security-cards/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49642340",
+    "createdAt": "2026-09-10T13:00:33.776Z"
+  },
+  {
+    "slug": "community-curated-list-of-310-ai-providers-offering-43k-free-credits-hn",
+    "title": "Community curated list of 310 AI providers offering $4.3k free credits",
+    "shortDescription": "Hey people! I have been compiling a directory of AI API providers which provide a combined total of $4.3k in free API credits and I&#x27;m…",
+    "fullDescription": "Hey people! I have been compiling a directory of AI API providers which provide a combined total of $4.3k in free API credits and I&#x27;m super proud of it so far. It serves as a community-curated directory. Everyone can review, upvote and edit API providers to keep the directory honest and accurate. After tons of hours I&#x27;ve managed to compile a database of 310 API providers. The directory also allows you to link all 310 API providers, to create one OpenAI- and Claude-compatible gateway then route any model, through any vendor - via a single URL with failover aliases, daily spend caps and per-request compute metering you can audit line by line. I have not found another project that offers an organized, community-curated system for AI API providers on the same scale as this one. There is a submission feature so you can submit your favorite AI API providers for free.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.uprouter.online/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49641128",
+    "createdAt": "2026-09-10T13:00:33.776Z"
+  },
+  {
+    "slug": "stroq-a-firewall-that-knows-why-your-ai-agent-ran-that-command-hn",
+    "title": "Stroq – a firewall that knows why your AI agent ran that command",
+    "shortDescription": "Проект «Stroq – a firewall that knows why your AI agent ran that command», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Stroq – a firewall that knows why your AI agent ran that command», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/AGGIB/Stroq",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49640660",
+    "createdAt": "2026-09-10T13:00:33.776Z"
+  },
+  {
+    "slug": "starkomand-mission-control-for-your-agents-one-canvas-hn",
+    "title": "Starkomand – Mission Control for Your Agents. One Canvas",
+    "shortDescription": "I use Excalidraw and iTerm a lot. So I decided to build a canvas where I can launch and manage my agents using the AI subscriptions I alrea…",
+    "fullDescription": "I use Excalidraw and iTerm a lot. So I decided to build a canvas where I can launch and manage my agents using the AI subscriptions I already have. I also added built-in MCP tools that let agents create diagrams, turn GitHub issues into sticky notes, and more. I control most things with my voice. It can run Parakeet locally, or you can switch to GPT Realtime instead. I tried to keep everything super minimal and clean. I’d say it’s worth checking out. Cheers!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://starkomand.com/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49640659",
+    "createdAt": "2026-09-10T13:00:33.776Z"
+  },
+  {
     "slug": "tracordrelease-github",
     "title": "tracord_release",
     "shortDescription": "迹录 Tracord ——基于本地大模型多智能体的智能旅行规划助手 / AI travel planner with local LLM multi-agents — light up visited cities on a map, log expenses with one…",
