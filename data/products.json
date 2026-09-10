@@ -1,5 +1,97 @@
 [
   {
+    "slug": "routevscode-github",
+    "title": "routeVSCODE",
+    "shortDescription": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
+    "fullDescription": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router\n\nАвтор: yudaprasetya007. Найдено в GitHub Trending (AI-тематика). ⭐ 326 звёзд.",
+    "url": "https://github.com/yudaprasetya007/routeVSCODE#readme",
+    "category": "ai-tool",
+    "tags": [
+      "9router",
+      "ai",
+      "chatgpt",
+      "claude",
+      "copilot",
+      "deepseek",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1363388578",
+    "createdAt": "2026-09-10T03:00:07.412Z"
+  },
+  {
+    "slug": "freemodels-proxy-github",
+    "title": "FreeModels-Proxy",
+    "shortDescription": "OpenAI-compatible local API proxy for FreeModels Chat and Cherry Studio.",
+    "fullDescription": "OpenAI-compatible local API proxy for FreeModels Chat and Cherry Studio.\n\nАвтор: rkfcode. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/rkfcode/FreeModels-Proxy",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "cherry-studio",
+      "claude",
+      "claude-code",
+      "fastapi",
+      "freemodels",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1362913718",
+    "createdAt": "2026-09-10T03:00:07.413Z"
+  },
+  {
+    "slug": "find-your-next-client-on-x-hn",
+    "title": "Find your next client on X",
+    "shortDescription": "Your next customer is talking on X. Tiny finds the right posts. You start the conversation.",
+    "fullDescription": "Your next customer is talking on X. Tiny finds the right posts. You start the conversation.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://tiny.opencreators.ai",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49637541",
+    "createdAt": "2026-09-10T03:00:07.668Z"
+  },
+  {
+    "slug": "kin-a-code-repository-built-for-ai-and-the-people-working-with-it-hn",
+    "title": "Kin – A code repository built for AI and the people working with it",
+    "shortDescription": "Проект «Kin – A code repository built for AI and the people working with it», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Kin – A code repository built for AI and the people working with it», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/firelock-ai/kin",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49636442",
+    "createdAt": "2026-09-10T03:00:07.668Z"
+  },
+  {
+    "slug": "botbin-pastebin-for-ai-agent-artifacts-hn",
+    "title": "Botbin – Pastebin for AI agent artifacts",
+    "shortDescription": "Проект «Botbin – Pastebin for AI agent artifacts», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Botbin – Pastebin for AI agent artifacts», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://botbin.io/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49636340",
+    "createdAt": "2026-09-10T03:00:07.668Z"
+  },
+  {
     "slug": "ambient-context-v100-missing-context-for-ai-assistants-hn",
     "title": "Ambient Context v1.0.0 (Missing context for AI assistants)",
     "shortDescription": "The other week I posted a concept to use the macOS Accessibility API to capture the text on your screen into a markdown file. It seemed to…",
