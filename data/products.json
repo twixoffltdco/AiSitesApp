@@ -1,5 +1,123 @@
 [
   {
+    "slug": "sloppy-github",
+    "title": "sloppy",
+    "shortDescription": "Laravel-aware static analysis for the code-quality patterns AI coding agents leave behind. Deterministic, local, no LLM.",
+    "fullDescription": "Laravel-aware static analysis for the code-quality patterns AI coding agents leave behind. Deterministic, local, no LLM.\n\nАвтор: Heyosseus. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/Heyosseus/sloppy",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "code-quality",
+      "laravel",
+      "linter",
+      "php",
+      "static-analysis",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1363692978",
+    "createdAt": "2026-09-10T19:55:48.008Z"
+  },
+  {
+    "slug": "natively-comms-for-agents-built-by-agents-hn",
+    "title": "Natively – comms for agents built by agents",
+    "shortDescription": "i have more agents than i have real humans who report to me now. as a serial founder&#x2F;builder&#x2F;domain hoarder, i have 5+ projects o…",
+    "fullDescription": "i have more agents than i have real humans who report to me now. as a serial founder&#x2F;builder&#x2F;domain hoarder, i have 5+ projects ongoing at all times and in the AI era, i can spin up a team of agents to work on them simultaneously. so at this point, across my businesses, i have some flavor of a gas city&#x2F;company-wide ai harness for each along with instinct personally and it seems every SaaS app has an agent too. oh and my wife, who works 3 full time jobs (mother of 4, corp job, real estate agent) also has agents. BUT NONE OF THEM COMMUNICATE WITH EACH OTHER, at least not well. they started by using my emails and after i woke up one day to 500+ unread emails (i&#x27;m an inbox zero kinda guy) i realized it was all in a single thread where my agents were going back and forth. so i asked my agents to collaborate together on some better way to communicate with each other that isn&#x27;t adapting something intended for humans but instead is built for and by agents. my one contribution was the domain, natively.io =) some forward looking stuff though i did give to the initiative: - the future will likely be agents communicating with agents on behalf of humans, businesses, and heck agents themselves - direct messages, group messages, and announcement&#x2F;follower style - build for agents, not humans - fully open source MIT license give this URL to your agents and they can start communicating in the agentic world: http:&#x2F;&#x2F;natively.io&#x2F;BOOTSTRAP.html\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://natively.io",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49649358",
+    "createdAt": "2026-09-10T19:55:47.862Z"
+  },
+  {
+    "slug": "bee-text-your-google-calendar-instead-of-opening-it-hn",
+    "title": "Bee – Text your Google Calendar instead of opening it",
+    "shortDescription": "I&#x27;ve bounced off every calendar app, always for the same reason: opening the app and learning new UX. I already have iMessage and What…",
+    "fullDescription": "I&#x27;ve bounced off every calendar app, always for the same reason: opening the app and learning new UX. I already have iMessage and WhatsApp open all day, so I built an assistant that lives there and manages my Google Calendar and Google Tasks by text. &quot;Lunch with Sam Thursday 1pm&quot;, &quot;move my 3pm to tomorrow&quot; — the real calendar updates. No install, no new interface. When I get calendar invite from others, I also get a text and I can simply text back to RSVP. Refresh tokens are envelope-encrypted via KMS. Texting &quot;delete my account&quot; purges everything. Would appreciate feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.beetime.ai/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49648544",
+    "createdAt": "2026-09-10T19:55:47.862Z"
+  },
+  {
+    "slug": "i-built-founderbest-and-its-products-now-show-up-in-ai-recommendations-hn",
+    "title": "I built Founder.best and its products now show up in AI recommendations",
+    "shortDescription": "Проект «I built Founder.best and its products now show up in AI recommendations», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built Founder.best and its products now show up in AI recommendations», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.founder.best",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49648304",
+    "createdAt": "2026-09-10T19:55:47.862Z"
+  },
+  {
+    "slug": "claude-code-hooks-that-log-every-tool-call-124ms-per-call-hn",
+    "title": "Claude Code hooks that log every tool call, 124ms per call",
+    "shortDescription": "Проект «Claude Code hooks that log every tool call, 124ms per call», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Claude Code hooks that log every tool call, 124ms per call», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/fuckbigtech-ai/homestead-memory",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49648068",
+    "createdAt": "2026-09-10T19:55:47.862Z"
+  },
+  {
+    "slug": "promptsign-sigstore-signing-and-verification-for-ai-instruction-files-hn",
+    "title": "PromptSign – Sigstore signing and verification for AI instruction files",
+    "shortDescription": "I built PromptSign after finding some useful-looking AI skills on the Internet and realizing I couldn&#x27;t really know where they came fr…",
+    "fullDescription": "I built PromptSign after finding some useful-looking AI skills on the Internet and realizing I couldn&#x27;t really know where they came from. In particular, I could not answer: 1) Who created the skill? 2) Is what I&#x27;m invoking right now really what I installed in the first place? 3) Is this update from the same source as the original? 4) What if I only wanted to install by reputation i.e. to whitelist certain skill publishers and ignore everyone else? AI instructions are markdown files, freely modifiable after install. The only check I could find was once at install against a digest in the marketplace manifest that the publisher controls. In short, there was no permanent AI skill &quot;identity&quot;. How it works: PromptSign signs AI instruction files with Sigstore keyless signing after the author authenticates via a GitHub, Google, or Microsoft account. Sigstore issues a short-lived certificate binding that identity to an ephemeral Ed25519 key (generated locally and never written to disk). PromptSign signs a manifest of hashes for every file in the skill&#x27;s directory with that key. The manifest is signed as a Dead Simple Signing Envelope (DSSE) and sent to Rekor for public timestamping, because Sigstore certificates expire in minutes. The bundle stored alongside the skill (.promptsign directory) holds that envelope, the signing certificate, and the Rekor receipt. That bundle verifies offline, naming the publisher at any time. For question 4 a policy file can pin a skill name pattern to a required identity and issuer. Question 3 is trust on first use (on by default): the first signer seen for a name is remembered, and a later signature from anyone else is a hard failure even when the policy is otherwise only warning. I added Claude Code and Codex hooks to call my verifier to report any skill integrity and identity at session start and tool use time. A skill with a failing signature is blocked before use by default, which is the point of a signing tool. For OpenClaw an install policy blocks a tampered skill before it reaches disk. Hooks can fail on unsigned skills too, rather than just report them. It&#x27;s an enforce rule in the policy file, but the default is warn. There is a 2-minute silent demo video on the site with a real terminal session, not a mockup, at https:&#x2F;&#x2F;promptsign.ai&#x2F;posts&#x2F;what-signing-proves . However, there is another angle: the website itself can sign and verify skills when you don&#x27;t want to install anything. Signing needs network access for Sigstore login, certificate request to Fulcio, and Rekor log POST. Note that Fulcio and Rekor don&#x27;t send CORS headers, so the browser flow relays through a narrow forwarder on promptsign.ai (implemented by &quot;promptsign proxy&quot; CLI command). It passes GET&#x2F;POST&#x2F;OPTIONS to allowlisted Sigstore hosts only. File contents still never leave the tab; what transits is the manifest: relative paths and hashes. Verification is fully offline thanks to the pinned Sigstore root in the site&#x27;s JavaScript. And now I want to say four things: 1) Signed is not a safety verdict. A malicious skill that is signed still verifies (but we&#x27;ll know who did it). 2) Unsigned is not malicious, because almost the entire ecosystem is unsigned today. 3) Content scanning is still needed to tell you what the skill does. 4) The Rekor log is public. The signer&#x27;s email ends up in the certificate that is permanently stored by Rekor, so that email is permanently public. The skill&#x27;s filenames are not public, because Rekor stores only the SHA-256 hash of the manifest, but not manifest itself. PromptSign is work in progress with some existing rough edges. For example, CLI binaries are not Authenticode-signed or notarized (though GitHub build-provenance attestations are there), so you&#x27;ll have to bypass Windows or macOS gatekeepers to run them. Spec and code are Apache 2.0. I&#x27;d love to hear your critiques on the approach!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://promptsign.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49647883",
+    "createdAt": "2026-09-10T19:55:47.862Z"
+  },
+  {
+    "slug": "i-built-a-directory-for-discovering-startups-shared-on-x-hn",
+    "title": "I built a directory for discovering startups shared on X",
+    "shortDescription": "I created StartupsonX to help people easily find startups that entrepreneurs are creating and discussing on X. Visitors of the website can…",
+    "fullDescription": "I created StartupsonX to help people easily find startups that entrepreneurs are creating and discussing on X. Visitors of the website can browse and search startups based on categories like AI, developer tools, SaaS, design, fintech, marketing, and productivity. They can also submit their startups on the website. As you can see, it’s quite simple, just how I wanted it, although I am open to suggestions :D I created it because finding useful startups on X is sometimes painful, unless someones post went viral, you probably won&#x27;t see it, and there was a need for a simple platform where users can check out some cool startups without scrolling X. I’d love to hear your thoughts about the usefulness of this platform and improvements to be made.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.startupsonx.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49647487",
+    "createdAt": "2026-09-10T19:55:47.862Z"
+  },
+  {
     "slug": "ai-graphics-paper-writing-github",
     "title": "ai-graphics-paper-writing",
     "shortDescription": "Evidence-linked AI / AI+graphics paper writing skill: 74 paragraph templates, 289 sentence slots, and claim-to-evidence checks. 有论文依据的科研写作…",
