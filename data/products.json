@@ -1,5 +1,37 @@
 [
   {
+    "slug": "stitchwink-cross-stitch-pattern-making-with-ai-hn",
+    "title": "Stitchwink – Cross-stitch pattern making with AI",
+    "shortDescription": "My wife has been cross stitching since she was a child and I wanted to make a tool where she could generate her own custom patterns: https:…",
+    "fullDescription": "My wife has been cross stitching since she was a child and I wanted to make a tool where she could generate her own custom patterns: https:&#x2F;&#x2F;stitchwink.com&#x2F; You can try chatgpt or other AI tools but the problem is that they don&#x27;t create real patterns. They look good at first glance but it&#x27;s not actually a physically realizable pattern when you look at the details. The way it works is pretty simple, you use text (&amp; optional images) to create and edit patterns. There&#x27;s also a built in editor to manually change any of the stitches. It&#x27;s not perfect but with a few manual edits, she&#x27;s been able to create some awesome patterns. Here are a few one the ones she&#x27;s made: https:&#x2F;&#x2F;stitchwink.com&#x2F;share&#x2F;8efdff80-2a21-4e7f-8122-553ca94... https:&#x2F;&#x2F;stitchwink.com&#x2F;share&#x2F;ab47a0bf-afbc-44ff-90ad-9128535... https:&#x2F;&#x2F;stitchwink.com&#x2F;share&#x2F;201fa791-39a1-4684-9f3e-2539a62... https:&#x2F;&#x2F;stitchwink.com&#x2F;share&#x2F;dcdf06be-fe2b-4353-85e5-3eede41...\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://stitchwink.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49650254",
+    "createdAt": "2026-09-10T22:16:20.576Z"
+  },
+  {
+    "slug": "charter-operate-production-safe-agents-that-run-on-your-own-infra-hn",
+    "title": "Charter – Operate production-safe agents that run on your own infra",
+    "shortDescription": "Even though everyone is talking about AI agents doing everything for them at work, many companies aren&#x27;t using autonomous agents for t…",
+    "fullDescription": "Even though everyone is talking about AI agents doing everything for them at work, many companies aren&#x27;t using autonomous agents for things like internal ops&#x2F;infra tasks. Usually it&#x27;s because of the complexity of bootstrapping an agent from scratch that’s production-safe (won’t spend all your company’s budget, burn through compute costs because it runs too often, or call a tool that breaks a customer). Even with today&#x27;s agent-building frameworks, running agents reliably in production often means stitching together LangChain, Temporal, observability tools, approval systems, and custom guardrail logic. And that’s just for running an agent safely: there also has to be a management system so someone can observe and operate all their agents (upgrade it, roll it back, stop it). We wanted to build the end-to-end internal agent infrastructure that every company has to build today to use production-safe agents internally as an open-source platform. The important thing is that getting an agent running safely is quick and simple: someone can first define their agent tying it to a version, and their lifecycle and runtime policies in YAML. Next they register their agents on workers in YAML and run those workers wherever they want. This means that if one AKS cluster has permissions for the tools needed for agents X and Y and another has permissions for agents A and B, they would each register those agents on their respective clusters. Finally they can use the CLI to apply and run the agent, and then manage it with approvals, responding to questions its asking, upgrade it&#x2F;roll it back&#x2F;pause it (via either CLI or a UI&#x2F;portal running on localhost that are communicating with the control plane). Some of the agent lifecycle management can be automated by the system: metric-based lifecycle policies make it so a user can say “if this new agent version I’m trying out (with a different prompt) fails 10 times, roll it back to the old version” or “if the new agent version is spending over a certain amount in the last 5 runs block it from being run anymore till I debug and resume it”. This is useful for teams that want to run many agents without needing someone on standby to intervene if something goes wrong on any one of them. The control plane is self-hostable or can be run via a managed cloud offering, and the self-hostable option combined with someone doing local inference is actually a completely air-gapped system. Give it a try: https:&#x2F;&#x2F;github.com&#x2F;boundflow&#x2F;charter and let us know what you think.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/boundflow/charter",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49649759",
+    "createdAt": "2026-09-10T22:16:20.576Z"
+  },
+  {
     "slug": "sloppy-github",
     "title": "sloppy",
     "shortDescription": "Laravel-aware static analysis for the code-quality patterns AI coding agents leave behind. Deterministic, local, no LLM.",
