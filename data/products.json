@@ -1,5 +1,43 @@
 [
   {
+    "slug": "tracordrelease-github",
+    "title": "tracord_release",
+    "shortDescription": "迹录 Tracord ——基于本地大模型多智能体的智能旅行规划助手 / AI travel planner with local LLM multi-agents — light up visited cities on a map, log expenses with one…",
+    "fullDescription": "迹录 Tracord ——基于本地大模型多智能体的智能旅行规划助手 / AI travel planner with local LLM multi-agents — light up visited cities on a map, log expenses with one sentence, and generate executable day-by-day itineraries from plain language.\n\nАвтор: zapsyq. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://github.com/zapsyq/tracord_release",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-agent",
+      "android",
+      "flutter",
+      "langchain",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1361211094",
+    "createdAt": "2026-09-10T08:02:44.009Z"
+  },
+  {
+    "slug": "doogi-explore-multiple-ai-responses-and-conversation-paths-hn",
+    "title": "Doogi – Explore multiple AI responses and conversation paths",
+    "shortDescription": "Hello, Since I was disappointed with the linear way of interacting with AI, so I built a tool that lets you explore multiple responses and…",
+    "fullDescription": "Hello, Since I was disappointed with the linear way of interacting with AI, so I built a tool that lets you explore multiple responses and conversation paths. I’ve tried adding various handy features, and I’d like to hear your feedback. https:&#x2F;&#x2F;doogi.it . The interface is node-based, so it&#x27;s currently optimized for desktop. :)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://doogi.it/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49638994",
+    "createdAt": "2026-09-10T08:02:43.692Z"
+  },
+  {
     "slug": "routevscode-github",
     "title": "routeVSCODE",
     "shortDescription": "⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat via 9Router",
