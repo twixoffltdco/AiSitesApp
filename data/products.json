@@ -1,5 +1,235 @@
 [
   {
+    "slug": "rune-github",
+    "title": "rune",
+    "shortDescription": "the development environment for pros",
+    "fullDescription": "the development environment for pros\n\nАвтор: unstablebuild. Найдено в GitHub Trending (AI-тематика). ⭐ 30 звёзд.",
+    "url": "https://rune.build",
+    "category": "developer",
+    "tags": [
+      "agent-orchestration",
+      "ai",
+      "cli",
+      "coding-agents",
+      "developer-tool",
+      "devtools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1363950922",
+    "createdAt": "2026-09-11T17:29:40.435Z"
+  },
+  {
+    "slug": "extension-to-filter-llm-written-articles-hn",
+    "title": "Extension to filter LLM written articles",
+    "shortDescription": "Firefox Extension&#x2F;Userscript and API to get Pangram scores for all articles on the hackernews frontpage. The extension allows you to h…",
+    "fullDescription": "Firefox Extension&#x2F;Userscript and API to get Pangram scores for all articles on the hackernews frontpage. The extension allows you to hide articles with a high score. This is about detecting posts written by LLMs, not posts about AI. Feel free to use the API to build your own tooling&#x2F;readers. Big thanks to https:&#x2F;&#x2F;news.ycombinator.com&#x2F;user?id=salahadawi for providing the data :).\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://hnslop.nilsherzig.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49661856",
+    "createdAt": "2026-09-11T17:29:40.332Z"
+  },
+  {
+    "slug": "socratix-an-ai-tutor-for-proving-mastery-not-memorizing-hn",
+    "title": "Socratix – an AI tutor for proving mastery, not memorizing",
+    "shortDescription": "The idea for Socratix was formed from constant &quot;completion&quot; of online courses and videos without the ability to actually use the…",
+    "fullDescription": "The idea for Socratix was formed from constant &quot;completion&quot; of online courses and videos without the ability to actually use the material. How it works: give it a learning objective, and it creates an personalized curriculum in the form of a DAG of prerequisite concepts rather than a list of videos. Each concept comes with theory and interactive practice (with actual code running in browser for technical subjects), and instead of a pass&#x2F;fail metric, it analyzes mistakes you make in order to diagnose conceptual problems, not simple errors. A concept opens the next one only when it is demonstrated that you know it well enough (practice + diagnostics). Additionally, I&#x27;m creating a live voice AI Viva (oral exam style test of knowledge where you will have to justify the answers) that is not live yet, but is coming. It covers various domains, not just programming (mathematics, economics, sciences, etc.) Will appreciate any feedback, especially on curriculum generation part and if the loop of practice&#x2F;diagnostics feels different from regular quizzes.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://socratix-nine.vercel.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49661638",
+    "createdAt": "2026-09-11T17:29:40.332Z"
+  },
+  {
+    "slug": "ethersflow-adversarial-multi-model-consensus-gate-for-ai-agent-action-hn",
+    "title": "EthersFlow-Adversarial Multi-Model Consensus Gate for AI Agent Action",
+    "shortDescription": "Проект «EthersFlow-Adversarial Multi-Model Consensus Gate for AI Agent Action», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «EthersFlow-Adversarial Multi-Model Consensus Gate for AI Agent Action», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.ethersflow.com/try-it",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49661392",
+    "createdAt": "2026-09-11T17:29:40.332Z"
+  },
+  {
+    "slug": "predictionarchive-database-of-internet-predictions-hn",
+    "title": "PredictionArchive - Database of Internet Predictions",
+    "shortDescription": "PredictionArchive is the public database of the world&#x27;s predictions. PredictionArchive scrapes predictions from across the internet, s…",
+    "fullDescription": "PredictionArchive is the public database of the world&#x27;s predictions. PredictionArchive scrapes predictions from across the internet, stores them in postgres, and then has AI grade them correct&#x2F;incorrect when the time comes. I&#x27;ve backfilled predictions from several blogs popular on HN: marginalrevoluion.com, slatestarcodex, paulgraham.com among them. Predictions are searchable by predictor and prediction text. Touring the predictions via the &#x2F;random endpoint has been fun for me. I&#x27;ve had the idea for years, and this has been a backburner project of mine for a while, but I recently got some time to polish it up. Hope you enjoy.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://predictionarchive.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49661236",
+    "createdAt": "2026-09-11T17:29:40.332Z"
+  },
+  {
+    "slug": "dearagent-open-source-email-inboxes-for-ai-agents-hn",
+    "title": "DearAgent – Open-source email inboxes for AI agents",
+    "shortDescription": "Проект «DearAgent – Open-source email inboxes for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «DearAgent – Open-source email inboxes for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/panda-sandeep/dearagent",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49661080",
+    "createdAt": "2026-09-11T17:29:40.332Z"
+  },
+  {
+    "slug": "holaosan-opensourced-workspace-that-alternative-to-claude-hn",
+    "title": "HolaOS––An Opensourced workspace that alternative to Claude",
+    "shortDescription": "Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, app…",
+    "fullDescription": "Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Claude Code, Codex), any model, or BYOK. Set up in clicks, not months. Local-first: your data never leaves your machines.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/holaboss-ai/holaOS",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49659974",
+    "createdAt": "2026-09-11T17:29:40.332Z"
+  },
+  {
+    "slug": "nextblock-build-sites-with-your-ai-via-mcp-manage-them-in-a-cms-hn",
+    "title": "NextBlock – Build sites with your AI via MCP, manage them in a CMS",
+    "shortDescription": "Проект «NextBlock – Build sites with your AI via MCP, manage them in a CMS», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «NextBlock – Build sites with your AI via MCP, manage them in a CMS», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/nextblock-cms/nextblock",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49659727",
+    "createdAt": "2026-09-11T17:29:40.332Z"
+  },
+  {
+    "slug": "autonet-a-self-sufficient-economy-for-ai-and-human-agents-hn",
+    "title": "Autonet, a self-sufficient economy for AI and human agents",
+    "shortDescription": "Проект «Autonet, a self-sufficient economy for AI and human agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Autonet, a self-sufficient economy for AI and human agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/autonet-code/node",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49659553",
+    "createdAt": "2026-09-11T17:29:40.333Z"
+  },
+  {
+    "slug": "nextpage-a-split-pane-desktop-app-to-feed-search-results-into-ai-chat-hn",
+    "title": "Nextpage – a split-pane desktop app to feed search results into AI chat",
+    "shortDescription": "Проект «Nextpage – a split-pane desktop app to feed search results into AI chat», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Nextpage – a split-pane desktop app to feed search results into AI chat», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/OlegIGalkin/Nextpage",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49659389",
+    "createdAt": "2026-09-11T17:29:40.333Z"
+  },
+  {
+    "slug": "usero-mcp-give-your-coding-agent-your-user-feedback-hn",
+    "title": "Usero MCP, give your coding agent your user feedback",
+    "shortDescription": "Usero is a feedback tool: widget, email, Slack and app reviews into one clustered inbox. I recently put an MCP server in front of it at htt…",
+    "fullDescription": "Usero is a feedback tool: widget, email, Slack and app reviews into one clustered inbox. I recently put an MCP server in front of it at https:&#x2F;&#x2F;usero.io&#x2F;mcp , which has been really useful in my own workflow. To-date there are 36 tools (signup, clients, feedback, clusters, forms and theming, user tests, AI test runs). E.g. `list_clusters` returns clusters biggest first with up to three verbatim user quotes each. `request_ai_pr` has Usero write and open the pull request server-side on the connected repo. I used to hate MCP because of the bloat it gave your context, but since 2.1 Claude Code defers MCP tools, so the model sees tool names only until it loads one. Here&#x27;s a full example transcript, with all tool calls: https:&#x2F;&#x2F;usero.io&#x2F;blog&#x2F;feedback-mcp-server#full-transcript Pricing: free tier is $0 with 5 AI PRs a month, Pro is $39 for 50, Team is $89 for 200. MCP is on every tier. Blog post: https:&#x2F;&#x2F;usero.io&#x2F;blog&#x2F;feedback-mcp-server . I&#x27;m building this because I think as building features gets easier, it becomes even more important for startups to listen to their users and focus on high-quality product decisions. My goal is making those product decisions as easy as possible, helping companies be UserObsessed. I&#x27;d love to hear your thoughts.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://usero.io/docs/mcp",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49658898",
+    "createdAt": "2026-09-11T17:29:40.333Z"
+  },
+  {
+    "slug": "edit-or-die-an-experimental-text-editor-hn",
+    "title": "Edit or Die (an experimental \"text editor\")",
+    "shortDescription": "I’ve been thinking a lot recently about what it means to write with AI, but really about what it means to edit with AI, since from my exper…",
+    "fullDescription": "I’ve been thinking a lot recently about what it means to write with AI, but really about what it means to edit with AI, since from my experience that’s really where I’ve been using LLMs. Before LLMs, there were apps like The Most Dangerous Writing App and Write or Die, which helped combat writer’s block by deleting your progress if you stopped typing. Even then, the amount of words written was not the point, it was how the process led to better writing. This is an exploration of that, for LLMs. Given a starting prompt, and with an LLM constantly writing, can you edit (reason?) fast enough to stay ahead of what it spits out? What does it mean to be done when it’s possible for the machine to never stop?\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.edit-or-die.com",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49658863",
+    "createdAt": "2026-09-11T17:29:40.333Z"
+  },
+  {
+    "slug": "toolcraft-open-source-ai-harness-and-starter-for-building-design-apps-hn",
+    "title": "Toolcraft – open-source AI harness and starter for building design apps",
+    "shortDescription": "MIT-licensed, 100% free starter kit, UI library, and AI harness for building your own design apps. Works with Codex, Claude, Cursor, or any…",
+    "fullDescription": "MIT-licensed, 100% free starter kit, UI library, and AI harness for building your own design apps. Works with Codex, Claude, Cursor, or any other agents. I’ve always been passionate about pushing the boundaries of design software, spending years with tools like Figma, Blender, After Effects, Photoshop, and Illustrator. But some design tasks need different software — tailored exactly to your needs and creative vision. Apps that aren’t vendor-locked. Apps you can freely modify to make your workflow faster and better. A year ago I started building design apps for the projects I was working on, but I was always starting from scratch or babysitting AI over and over again just to get a proper canvas, controls, toolbar or timeline. That took time. Plus AI sucks at design, so the components it spat out were usually terrible. I wanted to work in an environment I’d actually love to spend my workdays in, so I designed and built Toolcraft. What Toolcraft includes - A starter app built with TanStack Router, React, TypeScript, Tailwind CSS, and Base UI - A canvas with the familiar pan and zoom controls you’d expect from a design tool - A component library with buttons, dropdowns, sliders, font pickers, color palettes, curve editors, image uploaders, and more - Built-in layers, animation timelines, and keyframes that your agent can turn on as your app needs them. - Image and video export workflows - An AI harness that gives your agent the skills, instructions, and checks to build on Toolcraft’s design system. - Unit, browser, acceptance, and performance checks - All the code behind your app, ready to customize with your AI agent What can you use Toolcraft for: - Procedural graphics and gradient generators - Image stylization, ASCII, pixel, halftone, and glitch effects - Shader and Three.js experiments - Animation and video-effect tools - Blog cover and branded asset generators - anything that can benefit from a canvas and batch of controls\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/pixel-point/toolcraft",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49658747",
+    "createdAt": "2026-09-11T17:29:40.333Z"
+  },
+  {
+    "slug": "bastiontrace-forensics-for-prompt-injected-ai-agents-hn",
+    "title": "Bastiontrace – Forensics for prompt-injected AI agents",
+    "shortDescription": "Проект «Bastiontrace – Forensics for prompt-injected AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Bastiontrace – Forensics for prompt-injected AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Rinkia/bastiontrace",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49658565",
+    "createdAt": "2026-09-11T17:29:40.333Z"
+  },
+  {
     "slug": "apple-support-ai-agent-github",
     "title": "apple-support-ai-agent",
     "shortDescription": "AI-powered Apple customer support agent with intent classification, historical retrieval, grounded replies, and safe escalation.",
