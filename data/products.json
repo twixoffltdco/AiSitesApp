@@ -1,5 +1,129 @@
 [
   {
+    "slug": "morpho-research-os-github",
+    "title": "morpho-research-os",
+    "shortDescription": "Turn research questions into source-grounded, living knowledge bases.",
+    "fullDescription": "Turn research questions into source-grounded, living knowledge bases.\n\nАвтор: aiwindyjm. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/aiwindyjm/morpho-research-os",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "knowledge-base",
+      "knowledge-graph",
+      "knowledge-management",
+      "local-first",
+      "markdown",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1365411661",
+    "createdAt": "2026-09-11T09:26:09.482Z"
+  },
+  {
+    "slug": "wonderwise-ai-github",
+    "title": "WonderWise-AI",
+    "shortDescription": "AI travel planner powered by Ollama, FastAPI, React, and ChromaDB.",
+    "fullDescription": "AI travel planner powered by Ollama, FastAPI, React, and ChromaDB.\n\nАвтор: aditya120-9. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/aditya120-9/WonderWise-AI",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "chroma",
+      "fastapi",
+      "fullstack-development",
+      "generative-ai",
+      "langchain",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1362753951",
+    "createdAt": "2026-09-11T09:26:09.482Z"
+  },
+  {
+    "slug": "blender-agenta-live-multi-turn-agent-that-any-can-use-for-blender-hn",
+    "title": "Blender Agent:A live, multi-turn agent that any can use for Blender",
+    "shortDescription": "Проект «Blender Agent:A live, multi-turn agent that any can use for Blender», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Blender Agent:A live, multi-turn agent that any can use for Blender», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/zavora-ai/adk-rust/tree/main/examples/blender_console",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49654524",
+    "createdAt": "2026-09-11T09:26:09.473Z"
+  },
+  {
+    "slug": "sidenote-pro-native-windows-11-ai-beside-your-work-hn",
+    "title": "SideNote Pro – Native Windows 11 AI beside your work",
+    "shortDescription": "I have been using ChatGPT (mainly) as my main AI tool, but sometimes also DeepSeek and other AI providers. But with repetitive tasks, it be…",
+    "fullDescription": "I have been using ChatGPT (mainly) as my main AI tool, but sometimes also DeepSeek and other AI providers. But with repetitive tasks, it became annoying for me to switch tabs and navigate to the ChatGPT tab in the web browser, leaving the Excel document and my focus behind just for a quick question, some text processing, or image identification. This is how I came up with the idea of having an assistant right beside the workspace that can be pinned and docked to the side of the display. On today&#x27;s wide displays, it fits really well. It has a visible handle&#x2F;leash on the right side of the display and can be invoked via a keyboard shortcut. I find myself using it often because a question in Photoshop or Premiere Pro doesn&#x27;t require me to leave to open the browser; I can just invoke it and get the response quickly. So, it started to become more than a simple chatbox, adding features such as file indexing in a selected folder. It also supports uploading images or screenshots, or directly pasting image crops into the composer. Also, a nice feature I like a lot is that you can assign a prompt&#x2F;action to a global shortcut and run it on the selected text. For instance, it can translate a paragraph by selecting the paragraph and pressing the keyboard shortcut Ctrl+Shift+T; the assistant will appear and stream the answer. It supports BYOK (bring your own key) and OpenAI-compatible AI providers, as well as local ones such as Ollama, making it an easy frontend for a locally running LLM. It is built natively for Windows 11 in C# and is available for download from the Microsoft Store. I am very interested to hear whether you find switching tabs annoying and whether such a tool could help.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://sidenotepro.com",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49654117",
+    "createdAt": "2026-09-11T09:26:09.473Z"
+  },
+  {
+    "slug": "i-pointed-11-cold-ai-agents-at-my-own-product-3-finished-hn",
+    "title": "I pointed 11 cold AI agents at my own product. 3 finished",
+    "shortDescription": "Проект «I pointed 11 cold AI agents at my own product. 3 finished», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I pointed 11 cold AI agents at my own product. 3 finished», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://pact0.com/notes/agents-vs-our-own-product",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49654075",
+    "createdAt": "2026-09-11T09:26:09.473Z"
+  },
+  {
+    "slug": "interactive-history-of-earth-and-human-civilization-hn",
+    "title": "Interactive history of Earth and human civilization",
+    "shortDescription": "Original: https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;vibecoding&#x2F;comments&#x2F;1w99r2z&#x2F;gpt6_as...",
+    "fullDescription": "Original: https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;vibecoding&#x2F;comments&#x2F;1w99r2z&#x2F;gpt6_as...\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://earth.ethanplus.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49653828",
+    "createdAt": "2026-09-11T09:26:09.473Z"
+  },
+  {
+    "slug": "swiftime-time-tracking-you-can-talk-to-with-an-api-for-ai-agents-hn",
+    "title": "Swiftime - time tracking you can talk to, with an API for AI agents",
+    "shortDescription": "Проект «Swiftime - time tracking you can talk to, with an API for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Swiftime - time tracking you can talk to, with an API for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://swiftime.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49653781",
+    "createdAt": "2026-09-11T09:26:09.473Z"
+  },
+  {
     "slug": "module-ballerina-a2a-github",
     "title": "module-ballerina-a2a",
     "shortDescription": "Ballerina Implementation of the A2A Specification",
