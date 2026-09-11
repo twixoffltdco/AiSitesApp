@@ -1,5 +1,154 @@
 [
   {
+    "slug": "module-ballerina-a2a-github",
+    "title": "module-ballerina-a2a",
+    "shortDescription": "Ballerina Implementation of the A2A Specification",
+    "fullDescription": "Ballerina Implementation of the A2A Specification\n\nАвтор: ballerina-platform. Найдено в GitHub Trending (AI-тематика). ⭐ 10 звёзд.",
+    "url": "https://github.com/ballerina-platform/module-ballerina-a2a",
+    "category": "ai-tool",
+    "tags": [
+      "a2a",
+      "agent",
+      "ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1363484225",
+    "createdAt": "2026-09-11T04:58:14.954Z"
+  },
+  {
+    "slug": "tracecrate-github",
+    "title": "tracecrate",
+    "shortDescription": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No back…",
+    "fullDescription": "Local-first AI agent trace workbench. Inspect Claude Code, Codex and OTLP logs, compare runs, and export privacy-conscious reports. No backend or API keys.\n\nАвтор: FankChen. Найдено в GitHub Trending (AI-тематика). ⭐ 10 звёзд.",
+    "url": "https://fankchen.github.io/tracecrate/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "local-first",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1363827742",
+    "createdAt": "2026-09-11T04:58:14.954Z"
+  },
+  {
+    "slug": "tessra-github",
+    "title": "tessra",
+    "shortDescription": "The version control system for the era of AI.",
+    "fullDescription": "The version control system for the era of AI.\n\nАвтор: NitrusAphalion. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/NitrusAphalion/tessra",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "git",
+      "swarm",
+      "vcs",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1363533417",
+    "createdAt": "2026-09-11T04:58:14.954Z"
+  },
+  {
+    "slug": "deepseek-github",
+    "title": "deepseek",
+    "shortDescription": "Unofficial Node.js client for DeepSeek Chat with multi-turn conversations, streaming, file attachments, thinking mode, web search, and sess…",
+    "fullDescription": "Unofficial Node.js client for DeepSeek Chat with multi-turn conversations, streaming, file attachments, thinking mode, web search, and session management.\n\nАвтор: GunturBalantara. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/GunturBalantara/deepseek",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "api-client",
+      "chatbot",
+      "deepseek",
+      "deepseek-ai",
+      "deepseek-client",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1362626933",
+    "createdAt": "2026-09-11T04:58:14.954Z"
+  },
+  {
+    "slug": "certarena-free-ai-certification-simulator-zero-deps-native-node-24-hn",
+    "title": "CertArena – Free AI certification simulator (zero deps, native Node 24)",
+    "shortDescription": "Проект «CertArena – Free AI certification simulator (zero deps, native Node 24)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «CertArena – Free AI certification simulator (zero deps, native Node 24)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aicertarena.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49653516",
+    "createdAt": "2026-09-11T04:58:14.774Z"
+  },
+  {
+    "slug": "kern-agent-see-inside-your-agents-brain-hn",
+    "title": "Kern Agent – See inside your agent's brain",
+    "shortDescription": "Проект «Kern Agent – See inside your agent's brain», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Kern Agent – See inside your agent's brain», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/oguzbilgic/kern-ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49652648",
+    "createdAt": "2026-09-11T04:58:14.774Z"
+  },
+  {
+    "slug": "til-in-ai-hn",
+    "title": "TIL in AI",
+    "shortDescription": "Проект «TIL in AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «TIL in AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://buildyard.ai/til",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49652235",
+    "createdAt": "2026-09-11T04:58:14.774Z"
+  },
+  {
+    "slug": "learn-programming-by-building-something-you-want-hn",
+    "title": "Learn programming by building something you want",
+    "shortDescription": "Проект «Learn programming by building something you want», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Learn programming by building something you want», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://codeset.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49651917",
+    "createdAt": "2026-09-11T04:58:14.774Z"
+  },
+  {
     "slug": "booksource-checker-github",
     "title": "booksource-checker",
     "shortDescription": "书源助手：开源阅读书源批量检测 / 分组筛选 / 网址生成书源初稿 / 日志导出（AI 创作）",
