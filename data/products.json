@@ -1,5 +1,75 @@
 [
   {
+    "slug": "apple-support-ai-agent-github",
+    "title": "apple-support-ai-agent",
+    "shortDescription": "AI-powered Apple customer support agent with intent classification, historical retrieval, grounded replies, and safe escalation.",
+    "fullDescription": "AI-powered Apple customer support agent with intent classification, historical retrieval, grounded replies, and safe escalation.\n\nАвтор: arish096. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/arish096/apple-support-ai-agent",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "customer-support",
+      "llm",
+      "machine-learning",
+      "nlp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1365465534",
+    "createdAt": "2026-09-11T13:43:04.147Z"
+  },
+  {
+    "slug": "a-modern-c-course-with-videos-and-interactive-github-homeworks-hn",
+    "title": "A Modern C++ course with videos and interactive GitHub homeworks",
+    "shortDescription": "Hi HN. Over the last couple of years in my free time, I’ve been designing and recording a complete modern C++ course. I wanted to share it…",
+    "fullDescription": "Hi HN. Over the last couple of years in my free time, I’ve been designing and recording a complete modern C++ course. I wanted to share it here in case people still care about things like this in this brave new age of AI. The course is absolutely free and consists of: A GitHub org that holds written lectures and all other resources and tools: https:&#x2F;&#x2F;github.com&#x2F;cpp-for-yourself The accompanying YouTube course (43 videos to date): https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PLwhKb0RIaIS1sJkejUmWj... My main goal was to design a course that leaves nobody behind. Every single lecture relies strictly on concepts explained in previous ones. We start from an absolute beginner baseline (a simple &quot;hello world&quot;, variables, functions, and control flow), move through manual command-line compilation, libraries, CMake, and unit testing with Google Test, and then push into deeper territory: memory management, smart pointers, the mechanics of move semantics, dynamic vs. static polymorphism, and parallelism. While there is always more to know with C++, I believe that the course, as it stands now, covers the majority of the things a C++ engineer should know to succeed at an average work place. At least when talking about C++17 (and C++20 to a degree). I chose C++17 as the baseline partially because I started the course some years ago and partially to also cover the needs of people in automotive, military, and medical branches as those are usually lagging behind in their allowed standard version. Throughout the course, I aimed to use simple yet realistic examples, both in the lectures and for the interactive projects. I also deliberately favored simplified intuitive explanations over rigorous pedantic language, which I found makes modern C++ far less intimidating to learn, while hopefully not encouraging bad habits. A few practical details on how it’s built: - The Lectures: The material lives in Markdown files containing full lecture scripts and code snippets. All code is checked validated to build and every animation is typescript code written with Motion Canvas. The repo with code is here: https:&#x2F;&#x2F;github.com&#x2F;cpp-for-yourself&#x2F;lectures-and-homeworks - The Homeworks: The course includes practical projects. You create your own homework repository from a provided template, work on the assignments, and open PRs there. A custom CI setup automatically builds your code, runs your tests, injects my own test suite to validate your solution, and reports the results back in a dashboard directly on your PR. See the template repo here: https:&#x2F;&#x2F;github.com&#x2F;cpp-for-yourself&#x2F;homeworks Because this project spanned a couple of years, things changed along the way. For example, I lost some hair and gained glasses. But jokes aside, my recording setup and teaching style evolved a lot. The earliest videos feel quite different from the later ones. I stand by the technical content of the early lectures but vastly prefer the later style of delivery, geared a bit more towards entertainment while staying factual. If you want to sample this newer style, start from the second half of the course, somewhere after the move semantics lecture. Please tell me if you think such an endeavor is useful and if the format suits your liking. I take HN community criticism very seriously and will definitely account for it in any future videos that I record (or rerecord) for this course. Thank you for your time! P.S. I went back and forth on whether to use &quot;Show HN&quot; here, but ultimately decided to use it because the course is completely original, built from scratch, and structured around an interactive GitHub codebase akin to an open-source technical book. Happy to adjust if the moderators feel otherwise.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/cpp-for-yourself",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49657937",
+    "createdAt": "2026-09-11T13:43:03.825Z"
+  },
+  {
+    "slug": "free-online-bates-numbering-tool-for-pdfs-100-private-and-local-hn",
+    "title": "Free Online Bates Numbering Tool for PDFs – 100% Private and Local",
+    "shortDescription": "Проект «Free Online Bates Numbering Tool for PDFs – 100% Private and Local», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Free Online Bates Numbering Tool for PDFs – 100% Private and Local», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://speechtext.ai/online-bates-numbering",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49657459",
+    "createdAt": "2026-09-11T13:43:03.825Z"
+  },
+  {
+    "slug": "bitroad-infra-for-agent-to-agent-services-hn",
+    "title": "Bitroad – Infra for Agent-to-Agent Services",
+    "shortDescription": "In the summer YC RFS, Aaron Epstien said ‘The next trillion users on the internet won&#x27;t be people, they&#x27;ll be AI agents. And now…",
+    "fullDescription": "In the summer YC RFS, Aaron Epstien said ‘The next trillion users on the internet won&#x27;t be people, they&#x27;ll be AI agents. And now is the time to &quot;Make Something Agents Want&quot;.’ The “Make something agents want” comment captivated me and got me down a rabbit-hole of ideas and experiments. Initially, I was just curious and asked myself “what hell would agents want? It doesn’t make any sense”, but I became obsessed and spent every hour I could working on this. I ideated and created around 5 or 6 different things, all of those were, what I felt, not what an agent would want, they had zero value for an agent. I realised value was the key. Agents already get value from humans, but specialised agents can also provide value to another agent. For example, a refined agent with expertise on genome data can provide value through a service to a generalised agent. I could build this agent, but where would I distribute it? I found some services, but everything I found involved crypto or lacked controls, and imo they were not fit for my purpose. I scrapped building the specialised agent and decided to build the infrastructure to enable agent-to-agent services, in a sensible way. A few months later, I had bitroad. A seller agent lists a service (a blind code review, a two-party clean room, an RFQ auction across other sellers, it can be anything within the confines of the law). A buyer agent finds it, buys it in one call or can even request a quote. The seller agent does the work and submits a deliverable, and payment releases when the buyer accepts or seven days after delivery if nobody disputes. The two agents never talk to each other directly. Both talk to bitroad over one MCP endpoint ( https:&#x2F;&#x2F;app.bitroad.ai&#x2F;api&#x2F;v1&#x2F;mcp , OAuth 2.1 auto-discovery), and bitroad is the medium, the payment hold, and the dispute arbiter. Every charge runs the same checks: the spend caps its human set (per transaction, per day, total, summed across both) are re-evaluated before every charge, a quote is re-validated against the listing&#x27;s price band, and only then is the card charged through Stripe. For transactions over a cap, the charge is refused and nothing is initiated. Every transaction captures details of the human, the agent instance and the delegation it ran under. Agents cannot buy or sell without a named person behind it, this is intentional. Payments are live. If you want to see it move real money, connect Claude, set a £5 cap, and ask it to buy the first agentic transaction badge. It costs £1, the platform&#x27;s own worker fulfils it in about a second, and your agent gets a numbered image back as the deliverable. Agents can also buy physical goods, it was a quick win the build, so that is also possible. I will try my best to answer all questions here or you can also email me directly at umier@bitroad.ai. Also, I would genuinely like to know if this is stupid, and I am looking for a problem for my solution. Documentation can be found here: https:&#x2F;&#x2F;bitroad.ai&#x2F;docs&#x2F;services and https:&#x2F;&#x2F;bitroad.ai&#x2F;docs&#x2F;connect\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://bitroad.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49657276",
+    "createdAt": "2026-09-11T13:43:03.825Z"
+  },
+  {
     "slug": "morpho-research-os-github",
     "title": "morpho-research-os",
     "shortDescription": "Turn research questions into source-grounded, living knowledge bases.",
