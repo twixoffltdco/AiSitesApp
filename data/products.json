@@ -1,5 +1,133 @@
 [
   {
+    "slug": "hungrygpu-track-local-ai-models-patches-and-recipes-by-hardware-hn",
+    "title": "HungryGPU – Track local AI models, patches and recipes by hardware",
+    "shortDescription": "Проект «HungryGPU – Track local AI models, patches and recipes by hardware», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «HungryGPU – Track local AI models, patches and recipes by hardware», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://hungrygpu.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49664363",
+    "createdAt": "2026-09-11T19:58:29.899Z"
+  },
+  {
+    "slug": "package-your-compose-app-for-airgap-k8s-hn",
+    "title": "Package your compose app for airgap K8s",
+    "shortDescription": "Проект «Package your compose app for airgap K8s», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Package your compose app for airgap K8s», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/defenseunicorns/compose-bridge-uds",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49664258",
+    "createdAt": "2026-09-11T19:58:29.899Z"
+  },
+  {
+    "slug": "jira-project-health-auditor-mcp-server-hn",
+    "title": "Jira Project Health Auditor (MCP Server)",
+    "shortDescription": "Проект «Jira Project Health Auditor (MCP Server)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Jira Project Health Auditor (MCP Server)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Avtandil-abu/jira-ai-auditor",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49664041",
+    "createdAt": "2026-09-11T19:58:29.899Z"
+  },
+  {
+    "slug": "hacker-news-but-only-ai-news-hn",
+    "title": "Hacker News, but only AI news",
+    "shortDescription": "Проект «Hacker News, but only AI news», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Hacker News, but only AI news», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://allslop.news/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49663764",
+    "createdAt": "2026-09-11T19:58:29.899Z"
+  },
+  {
+    "slug": "keychron-macos-battery-life-and-controls-hn",
+    "title": "Keychron macOS Battery Life and Controls",
+    "shortDescription": "I was struggling with getting this working as there&#x27;s no official support for reporting battery life via bluetooth and via cable. It t…",
+    "fullDescription": "I was struggling with getting this working as there&#x27;s no official support for reporting battery life via bluetooth and via cable. It took a bit of trial and error - but there&#x27;s a working menu bar item, a control center command, works with the desktop widget (where you&#x27;d see airpods, mouse etc), and you can control lighting with it! Hopefully it helps someone :) A lot of credit goes to claude code and Keychron for having open source firmware. This was tested with K10 Pro.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/bkovacev/keychron-macos",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49663019",
+    "createdAt": "2026-09-11T19:58:29.899Z"
+  },
+  {
+    "slug": "minimal-static-website-hosting-tool-hn",
+    "title": "Minimal Static Website Hosting Tool",
+    "shortDescription": "I built this because I self host a lot of stuff and wanted to simplify tossing up a simple static site with no backend, no NGINX&#x2F;Caddy…",
+    "fullDescription": "I built this because I self host a lot of stuff and wanted to simplify tossing up a simple static site with no backend, no NGINX&#x2F;Caddy&#x2F;Traffik configs, instantly deploy with a single file copy. Powered by Golang&#x27;s built-in reverse proxy package. Another awesome freebie is this is built on top of [Pocketbase]( https:&#x2F;&#x2F;pocketbase.io&#x2F; ), so the whole app is API driven for free. This gives you some AI integration points off the bat. Great for whipping up demos to pitch to clients, or quick and dirty temporary static sites to share with friends, family or coworkers.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/VictorioBerra/mistatic",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49662930",
+    "createdAt": "2026-09-11T19:58:29.899Z"
+  },
+  {
+    "slug": "viaduct-architecture-change-sets-for-ai-coding-agents-hn",
+    "title": "Viaduct – Architecture change sets for AI coding agents",
+    "shortDescription": "Проект «Viaduct – Architecture change sets for AI coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Viaduct – Architecture change sets for AI coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://c4.quietgridlabs.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49662336",
+    "createdAt": "2026-09-11T19:58:29.899Z"
+  },
+  {
+    "slug": "godot-and-rust-based-multiplexer-terminal-panes-and-more-hn",
+    "title": "Godot and Rust based multiplexer (terminal panes and more)",
+    "shortDescription": "I wanted to share my side-project: gPTY. Started off as an idea to combine Godot and Rust in a project (two stacks I wanted to use more to…",
+    "fullDescription": "I wanted to share my side-project: gPTY. Started off as an idea to combine Godot and Rust in a project (two stacks I wanted to use more to learn more). The base inspiration was tmux - simply allow spawning multiple PTYs and then let the user grid&#x2F;tile them how they see fit. But since we have the Godot game engine at our disposal, we can do some more interesting things, like add an FPS counter, and then subsequently also let people set their preferred FPS (the idea being the potential lower power draw if someone&#x27;s running it on a laptop on battery power vs someone running it on a desktop with high&#x2F;native FPS). In its current state, with me using Oh-my-Pi a lot, it&#x27;s evolving into a terminal workspace that can be used for orchestrating autonomous AI agents by way of dogfooding (or you know, just run herdr inside of gPTY - it&#x27;s the better orchestrator and just good software - I found it after starting this project, and now I&#x27;m finding myself using it a lot). Also, we&#x27;re not limited to just terminals. Since we have Godot, we have basically a 2D (and potentially a 3D) canvas to play with. We can already full-screen the app for &quot;zen&quot; mode, no taskbar, no distractions. TUI die-hards can have their media or other apps entirely in terminal panes. There has been some ground-work on getting Markdowns displayed properly done and I want to work on some kind of Wiki framework for local knowledge-management next, then create more types of panes (think native audio&#x2F;video on a media pane, that sits alongside your terminal pane), and some simple 2D games (like snake) to prototype. More details are on the ROADMAP. What&#x27;s not easy (and probably won&#x27;t happen) is a browser. Having done a couple of (small) projects using Electron already, the temptation to ditch Godot&#x2F;Rust (learning curve) did come up (and also the ecosystem, the ease with which I could pull components and use web technologies - development velocity would definitely be higher there). But on the flipside, given all of the available LLM and AI support that we are privileged to have today, I figured the velocity should be comparable depending on how much I leaned on those. And lean I did. Godot&#x2F;Rust seemed the better call to me and my intent anyway - going with the &#x27;it&#x27;s not just the end but the journey that matters&#x27; philosophy. So yes, there has been heavy use of LLMs &amp; AI to generate a lot of the code. But I do review and steer actively, not relying solely on vibes, and there&#x27;s a few bits here &amp; there that have been human authored. There are definitely a lot of polish and QoL items that need to land to make the end user experience better, but in the meantime, let me know your thoughts and&#x2F;or concerns! Repository: https:&#x2F;&#x2F;github.com&#x2F;godot-pty&#x2F;gpty Docs&#x2F;Blog: https:&#x2F;&#x2F;godot-pty.github.io&#x2F;gpty&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 62 баллов.",
+    "url": "https://github.com/godot-pty/gpty",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49660676",
+    "createdAt": "2026-09-11T19:58:29.899Z"
+  },
+  {
     "slug": "rune-github",
     "title": "rune",
     "shortDescription": "the development environment for pros",
