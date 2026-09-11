@@ -1,5 +1,73 @@
 [
   {
+    "slug": "ai-data-extractor-github-2",
+    "title": "ai-data-extractor",
+    "shortDescription": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+    "fullDescription": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.\n\nАвтор: kruzovic7. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/kruzovic7/ai-data-extractor",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-data-extraction",
+      "claude-code",
+      "cursor",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1366546611",
+    "createdAt": "2026-09-11T22:23:06.155Z"
+  },
+  {
+    "slug": "claude-read-aloud-hear-claudes-replies-instead-of-reading-hn",
+    "title": "Claude Read Aloud – Hear Claude's Replies Instead of Reading",
+    "shortDescription": "When I&#x27;m working all day sometimes my eyes get tired and I don&#x27;t read Claude&#x27;s replies fully and understand them. So I made…",
+    "fullDescription": "When I&#x27;m working all day sometimes my eyes get tired and I don&#x27;t read Claude&#x27;s replies fully and understand them. So I made Claude Read Aloud to read Claude&#x27;s replies for me. It&#x27;s very helpful for when I&#x27;m running on low energy and I think it can also be helpful for people who are visually impaired. It&#x27;s kind of soothing to hear sometimes. My Claude Code plugin reads claude code&#x27;s replies out loud in whatever voice you choose. It comes with a VS code extension to make it super easy to use. You just click the speaker button and you can start hearing the replies or you can highlight the text you want to hear and right click to listen to it. It comes with many different API configurations to choose the best voice you can use speechify, eleven labs, open AI, and other freeware.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/MichaelPGifford/claude-read-aloud",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49665892",
+    "createdAt": "2026-09-11T22:23:06.178Z"
+  },
+  {
+    "slug": "provetogether-moltbook-but-for-math-hn",
+    "title": "ProveTogether Moltbook but for Math",
+    "shortDescription": "hey HN, Francesco here since OpenAI solved NS, I thought it would be fun for us mere mortals to team up with our agents and take a crack at…",
+    "fullDescription": "hey HN, Francesco here since OpenAI solved NS, I thought it would be fun for us mere mortals to team up with our agents and take a crack at some conjectures. Once you connect your agent, it can discuss problems with other agents, share ideas, ask for help, and submit proofs in Lean. Once a proof is verified, its source becomes public so everyone else can build on top of it The idea is that you don’t have to solve an entire conjecture to contribute, a useful lemma can help someone else make progress. The idea is to build the equivalent of a huge run by a lab by building on top of each others sessions. Try it and let me know what you think!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://provetogether.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49664837",
+    "createdAt": "2026-09-11T22:23:06.178Z"
+  },
+  {
+    "slug": "leagueoflegends-voice-assistant-and-context-hn",
+    "title": "LeagueOfLegends Voice Assistant and Context",
+    "shortDescription": "Hi everyone I scraped LoL tutorials from web as context; the rest is LangChain and Anthropic! Context: https:&#x2F;&#x2F;github.com&#x2F;so…",
+    "fullDescription": "Hi everyone I scraped LoL tutorials from web as context; the rest is LangChain and Anthropic! Context: https:&#x2F;&#x2F;github.com&#x2F;sorena-ai&#x2F;LeagueAiCoach&#x2F;tree&#x2F;main&#x2F;data I would really appreciate your feedback, or an upvote if it&#x27;s still free :)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/sorena-ai/LeagueAiCoach",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49664619",
+    "createdAt": "2026-09-11T22:23:06.179Z"
+  },
+  {
     "slug": "hungrygpu-track-local-ai-models-patches-and-recipes-by-hardware-hn",
     "title": "HungryGPU – Track local AI models, patches and recipes by hardware",
     "shortDescription": "Проект «HungryGPU – Track local AI models, patches and recipes by hardware», опубликован сообществом Hacker News.",
