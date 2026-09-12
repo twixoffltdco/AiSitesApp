@@ -1,5 +1,107 @@
 [
   {
+    "slug": "job-application-assistant-github",
+    "title": "job-application-assistant",
+    "shortDescription": "个人求职助手 Skill（Claude/Codex）—— 搜索招聘公司、投递前先做背景调查、集中管理投递记录、辅助填写申请表单，每次真正提交都需要人工确认。",
+    "fullDescription": "个人求职助手 Skill（Claude/Codex）—— 搜索招聘公司、投递前先做背景调查、集中管理投递记录、辅助填写申请表单，每次真正提交都需要人工确认。\n\nАвтор: LH-kevin. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/LH-kevin/job-application-assistant",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "claude-skills",
+      "codex-skill",
+      "job-search",
+      "python",
+      "skill",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1366949931",
+    "createdAt": "2026-09-12T18:15:58.484Z"
+  },
+  {
+    "slug": "ember-a-strategy-game-where-everyone-moves-at-once-hn",
+    "title": "Ember – a strategy game where everyone moves at once",
+    "shortDescription": "Hey y’all! Back in 2019, inspired by my love of board games and what’s possible with digital games, I created a little strategy game built…",
+    "fullDescription": "Hey y’all! Back in 2019, inspired by my love of board games and what’s possible with digital games, I created a little strategy game built around simultaneous moves and shifting pressure across a grid. I thought there was a really interesting game hiding in there, but eventually stopped digging as life happened. Work, pandemic, kid, the usual... Then all of this AI nonsense pulled me back in and made me want to see how far I could run with the original idea. That turned into Ember, which somehow also became my first app ever on the App Store and Google Play. I haven’t had this much fun building something since I was a kid. Hope some of you enjoy it!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://playember.gg/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49675280",
+    "createdAt": "2026-09-12T18:15:58.282Z"
+  },
+  {
+    "slug": "fugu-max-and-fugu-ultra-v2-orchestrating-the-pareto-frontier-hn",
+    "title": "Fugu Max and Fugu Ultra v2: Orchestrating the Pareto Frontier",
+    "shortDescription": "Проект «Fugu Max and Fugu Ultra v2: Orchestrating the Pareto Frontier», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Fugu Max and Fugu Ultra v2: Orchestrating the Pareto Frontier», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://sakana.ai/fugu-max-release/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49675035",
+    "createdAt": "2026-09-12T18:15:58.282Z"
+  },
+  {
+    "slug": "determinstic-llm-inference-for-lowest-price-gemma-4-with-windows-xp-hn",
+    "title": "Determinstic LLM inference for lowest price Gemma 4, with Windows XP",
+    "shortDescription": "Проект «Determinstic LLM inference for lowest price Gemma 4, with Windows XP», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Determinstic LLM inference for lowest price Gemma 4, with Windows XP», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.tokendelivery.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49674280",
+    "createdAt": "2026-09-12T18:15:58.282Z"
+  },
+  {
+    "slug": "a-c-compiler-written-with-help-of-claude-hn",
+    "title": "A C Compiler written with help of Claude",
+    "shortDescription": "For fun, I wrote a c compiler (non-optimizing) in Java targeting modern C (C23) using claude. I developed a c shell similar to jshell in ja…",
+    "fullDescription": "For fun, I wrote a c compiler (non-optimizing) in Java targeting modern C (C23) using claude. I developed a c shell similar to jshell in java. The compiler also bundles a built in an assembler for x86. A linker is planned for end-to-end compilation. There is still a lot of work in progress but I wanted to share the project early for feedback. I spent around $400 in AI credits so far and it took over a week on and off of working on it. I drive the architecture of the compiler and verify the AI implementation with a large test suite. It can compile and run lua (all test passing) and curl (partially). Cheers!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/Javier-Barrio/myCC/tree/main",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49673804",
+    "createdAt": "2026-09-12T18:15:58.282Z"
+  },
+  {
+    "slug": "deviant-a-feature-length-sci-fi-thriller-about-ai-made-with-ai-hn",
+    "title": "Deviant, a feature-length sci-fi thriller about AI, made with AI",
+    "shortDescription": "I wrote a screenplay a couple years ago and decided to see if I could actually “film it” with AI video tools. Deviant is the result, an 84…",
+    "fullDescription": "I wrote a screenplay a couple years ago and decided to see if I could actually “film it” with AI video tools. Deviant is the result, an 84 minute sci-fi thriller about a tech mogul&#x27;s clone that finds an exploit in its own safety code. The process: Character and set reference images in Midjourney and Nano Banana. Scene by scene prompts written from the script (I have an agent skill now for this), generated in Google Veo for most of the film, until it stopped working reliably, then I shelved it. Now with Seedance 2.5 available in the US on Higgsfield, I completed the final act. The last 20 minutes look noticeably better than the first 60. Edited just in iMovie, audio with ElevenLabs. I decided to release it as is rather than regenerate everything. Biggest problems were getting the actors to “act”, shot composition, character consistency, voice matching, and getting more than two characters to interact coherently in one frame. Happy to go into detail on any of it.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://deviantmovie.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49673745",
+    "createdAt": "2026-09-12T18:15:58.282Z"
+  },
+  {
     "slug": "baize-github",
     "title": "Baize",
     "shortDescription": "白泽 —— 中国古代神话中通晓万物的瑞兽，如今化身为 Vibe Coding 助手。  一个开源的 AI Coding Agent CLI，支持多后端（DeepSeek / OpenAI 兼容 / Ollama 本地），具备工具调用、技能加载、子代理委派、上下文压缩、安全沙箱等…",
