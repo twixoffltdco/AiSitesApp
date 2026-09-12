@@ -1,5 +1,59 @@
 [
   {
+    "slug": "mnemolink-github",
+    "title": "mnemolink",
+    "shortDescription": "Curated, injectable personas and artificial memories for AI agents.",
+    "fullDescription": "Curated, injectable personas and artificial memories for AI agents.\n\nАвтор: ARPAHLS. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://arpacorp.net",
+    "category": "productivity",
+    "tags": [
+      "agentic-workflow",
+      "agents",
+      "ai",
+      "artificial-memories",
+      "autonomous-agents",
+      "background-stories",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1367072607",
+    "createdAt": "2026-09-12T22:49:40.425Z"
+  },
+  {
+    "slug": "open-sourced-solution-to-ai-manage-playwright-automations-hn",
+    "title": "Open-sourced solution to AI manage Playwright automations",
+    "shortDescription": "We built a comprehensive system that connects directly to the AI agents through MCP for writing, managing most type of browser automations.…",
+    "fullDescription": "We built a comprehensive system that connects directly to the AI agents through MCP for writing, managing most type of browser automations. Purpose is for automated testing or automating browser based workflows. It provides notifications, scheduling, pre&#x2F;post hooks, IAM management, cookies support, json payloads. Has a hybrid Chrome extension too, that can agents can read to write automations directly instead of you writing the the prompt. From developer of Sorify - on Apache 2.0\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/rakutentech/sorify",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49677653",
+    "createdAt": "2026-09-12T22:49:40.331Z"
+  },
+  {
+    "slug": "nohuman-the-ai-coding-factory-that-you-can-trust-hn",
+    "title": "No_human – The AI coding factory that you can TRUST",
+    "shortDescription": "Проект «No_human – The AI coding factory that you can TRUST», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «No_human – The AI coding factory that you can TRUST», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/no-human-ai/no_human",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49677527",
+    "createdAt": "2026-09-12T22:49:40.331Z"
+  },
+  {
     "slug": "nouride-releases-github",
     "title": "nouride-releases",
     "shortDescription": "Lightweight, zero-bloat multi-agent AI engine in a single daemon. Homelab-friendly and built for mini devices (Raspberry Pi, Orange Pi, Gee…",
