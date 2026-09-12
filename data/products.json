@@ -1,5 +1,75 @@
 [
   {
+    "slug": "notestar-github",
+    "title": "notestar",
+    "shortDescription": "【以翁法罗斯之名，开启知识星图的冒险】  还在对着网课手忙脚乱抄笔记？ 还在让录屏文件躺在硬盘里吃灰？ 还在复习时像无地图开荒一样找不到方向？  **笔记星图・NoteStar**，以翁法罗斯美学重构网课学习全流程， ",
+    "fullDescription": "【以翁法罗斯之名，开启知识星图的冒险】  还在对着网课手忙脚乱抄笔记？ 还在让录屏文件躺在硬盘里吃灰？ 还在复习时像无地图开荒一样找不到方向？  **笔记星图・NoteStar**，以翁法罗斯美学重构网课学习全流程， \n\nАвтор: aipaigyx. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://space.bilibili.com/12644772",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "anime",
+      "desktop-app",
+      "electron",
+      "learning",
+      "local-first",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1363336143",
+    "createdAt": "2026-09-12T12:48:41.601Z"
+  },
+  {
+    "slug": "liniora-ever-thought-about-replacing-your-project-manager-hn",
+    "title": "Liniora – Ever thought about replacing your project manager?",
+    "shortDescription": "Hi HN, the title could be a little bit aggressive sorry for that... Basically i am Computer engineer graduated recently but i was and still…",
+    "fullDescription": "Hi HN, the title could be a little bit aggressive sorry for that... Basically i am Computer engineer graduated recently but i was and still working remotely for approx. 3 years with the same foreign company in EU. and i noticed that we are always somehow lose the context of a ticket -- even though we are using the popular project management systems -- so i decided why not build something that can fix our context loosing problems and with some improvements. here i created Liniora. an AI powered project management system. basically the core idea is to link the tools that we use to gather information about tickets in one place. i integrated Google meet for the meetings transcripts so you do your meeting it automatically got registered and indexed. You discuss about a bug in Slack thread so you mention @Liniora app and it will handle the bug context and create a ticket for you. We have the version control also connected so you create a ticket with ability of creating a separate branch with one-click for both Gitlab and Github. you have as well the Pull request controlled in our place inside the app. lets suppose you have a ticket and you created a branch called &#x27;USER-325-create-login-form&#x27; then you merged to staging or production ? it will be automatically flagged with staging&#x2F;production badge so you know what tickets are done. there are a lot of interesting features i wanted to describe but i will just let you guys discover and i will be very happy about your feedback. Thanks\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://liniora.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49671542",
+    "createdAt": "2026-09-12T12:48:41.319Z"
+  },
+  {
+    "slug": "tattoopreview-ai-a-planning-workflow-for-tattoo-artist-conversations-hn",
+    "title": "TattooPreview AI – a planning workflow for tattoo artist conversations",
+    "shortDescription": "Проект «TattooPreview AI – a planning workflow for tattoo artist conversations», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «TattooPreview AI – a planning workflow for tattoo artist conversations», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://tattoopreviewai.com",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49671355",
+    "createdAt": "2026-09-12T12:48:41.319Z"
+  },
+  {
+    "slug": "i-wrote-a-book-on-using-ai-in-game-design-production-free-on-github-hn",
+    "title": "I wrote a book on using AI in game design production (free on GitHub)",
+    "shortDescription": "Проект «I wrote a book on using AI in game design production (free on GitHub)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I wrote a book on using AI in game design production (free on GitHub)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/eremes81/game-design-ai-practice-en",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49671342",
+    "createdAt": "2026-09-12T12:48:41.319Z"
+  },
+  {
     "slug": "apipig-github",
     "title": "apipig",
     "shortDescription": "free ai gateway 免费 ai 网关，企业级内部 AI 中转服务（ai中转站）。",
