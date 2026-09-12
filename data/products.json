@@ -1,5 +1,41 @@
 [
   {
+    "slug": "baize-github",
+    "title": "Baize",
+    "shortDescription": "白泽 —— 中国古代神话中通晓万物的瑞兽，如今化身为 Vibe Coding 助手。  一个开源的 AI Coding Agent CLI，支持多后端（DeepSeek / OpenAI 兼容 / Ollama 本地），具备工具调用、技能加载、子代理委派、上下文压缩、安全沙箱等…",
+    "fullDescription": "白泽 —— 中国古代神话中通晓万物的瑞兽，如今化身为 Vibe Coding 助手。  一个开源的 AI Coding Agent CLI，支持多后端（DeepSeek / OpenAI 兼容 / Ollama 本地），具备工具调用、技能加载、子代理委派、上下文压缩、安全沙箱等完整能力。在终端即可与 AI 结对编程。\n\nАвтор: Xu123-Bob. Найдено в GitHub Trending (AI-тематика). ⭐ 14 звёзд.",
+    "url": "https://github.com/Xu123-Bob/Baize",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-coding",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1366971725",
+    "createdAt": "2026-09-12T15:58:43.315Z"
+  },
+  {
+    "slug": "mcp-that-gives-codexclaude-your-seo-and-ai-visibility-data-hn",
+    "title": "MCP that gives Codex/Claude your SEO and AI visibility data",
+    "shortDescription": "What if questions like these just worked: How do I rank higher in Google and AI? Where are my competitors showing up? Which buyer prompts n…",
+    "fullDescription": "What if questions like these just worked: How do I rank higher in Google and AI? Where are my competitors showing up? Which buyer prompts name them instead of us? What should I fix first? Now they do.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://bloomiro.com/mcp",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49673524",
+    "createdAt": "2026-09-12T15:58:43.275Z"
+  },
+  {
     "slug": "notestar-github",
     "title": "notestar",
     "shortDescription": "【以翁法罗斯之名，开启知识星图的冒险】  还在对着网课手忙脚乱抄笔记？ 还在让录屏文件躺在硬盘里吃灰？ 还在复习时像无地图开荒一样找不到方向？  **笔记星图・NoteStar**，以翁法罗斯美学重构网课学习全流程， ",
