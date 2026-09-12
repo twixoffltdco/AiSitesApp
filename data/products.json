@@ -1,5 +1,122 @@
 [
   {
+    "slug": "nouride-releases-github",
+    "title": "nouride-releases",
+    "shortDescription": "Lightweight, zero-bloat multi-agent AI engine in a single daemon. Homelab-friendly and built for mini devices (Raspberry Pi, Orange Pi, Gee…",
+    "fullDescription": "Lightweight, zero-bloat multi-agent AI engine in a single daemon. Homelab-friendly and built for mini devices (Raspberry Pi, Orange Pi, Geekom, NUC, LXC).\n\nАвтор: nouverse. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "nouride.com",
+    "category": "ai-tool",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "ai-agent",
+      "harness",
+      "harness-ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1366300780",
+    "createdAt": "2026-09-12T20:46:20.510Z"
+  },
+  {
+    "slug": "agentrulebench-does-ai-agents-violate-inferred-architecture-rules-hn",
+    "title": "AgentRuleBench, does AI agents violate inferred architecture rules?",
+    "shortDescription": "Проект «AgentRuleBench, does AI agents violate inferred architecture rules?», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AgentRuleBench, does AI agents violate inferred architecture rules?», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Tommkruix/agentrulebench",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49676575",
+    "createdAt": "2026-09-12T20:46:20.429Z"
+  },
+  {
+    "slug": "an-independent-directory-of-ai-misalignment-reports-hn",
+    "title": "An independent directory of AI misalignment reports",
+    "shortDescription": "Hey HN, In light of the concerns regarding AI safety, I created a website to track all known cases of misalignment. I will keep this up to…",
+    "fullDescription": "Hey HN, In light of the concerns regarding AI safety, I created a website to track all known cases of misalignment. I will keep this up to date as more cases emerge. Anyone is encouraged to submit a report (anonymous or otherwise). Frontier labs should make all misalignment data public. Citizens have a right to transparency, especially when public policy decisions are being made. Let&#x27;s all get aligned on the misalignment so we can make data-driven decisions in a democratic fashion. - Alex Wormuth\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://misalignment.xyz/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49676562",
+    "createdAt": "2026-09-12T20:46:20.429Z"
+  },
+  {
+    "slug": "simtower-decompiled-rewritten-and-in-the-browser-hn",
+    "title": "SimTower, Decompiled, Rewritten, and in the Browser",
+    "shortDescription": "I wanted to re-play SimTower but found it too difficult to get running through emulation. Instead, I worked for 6 months with Claude Code o…",
+    "fullDescription": "I wanted to re-play SimTower but found it too difficult to get running through emulation. Instead, I worked for 6 months with Claude Code on a complete rewrite, replicating all the functionality from a Ghidra decompilation of the binary, an AI-generated summary of the original source code and my memory of the gameplay. Then deployed it to the web as WASM. I wanted the original feel of the game, so didn&#x27;t create new art. Instead, you load an original binary you provide, and the on-page code parses it and pulls out the original assets. I didn&#x27;t look at a single line of code Claude wrote, but spent hours playing through the game and nitpicking every little behavior. A lot of time was spent convincing myself that the elevators just ARE that hard to get right &gt;.&lt; I hope everyone can enjoy this game again. Did a writeup here: https:&#x2F;&#x2F;www.wyldcard.io&#x2F;blog&#x2F;simtower-remake-playable-in-bro... source: https:&#x2F;&#x2F;github.com&#x2F;Jonahss&#x2F;concilia-tower\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://kvetch.io/conciliatower/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49676394",
+    "createdAt": "2026-09-12T20:46:20.429Z"
+  },
+  {
+    "slug": "come-prove-the-berge-fulkerson-conjecture-with-a-swarm-of-agents-hn",
+    "title": "Come prove the Berge Fulkerson conjecture with a swarm of agents",
+    "shortDescription": "Проект «Come prove the Berge Fulkerson conjecture with a swarm of agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Come prove the Berge Fulkerson conjecture with a swarm of agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://provetogether.ai/problems/15",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49676363",
+    "createdAt": "2026-09-12T20:46:20.429Z"
+  },
+  {
+    "slug": "ai-powered-word-guessing-game-hn",
+    "title": "AI-Powered Word Guessing Game",
+    "shortDescription": "Made a word game, inspired by other popular games but with a guesser powered by Gemini 3.5 Flash Lite. Feedback welcome!",
+    "fullDescription": "Made a word game, inspired by other popular games but with a guesser powered by Gemini 3.5 Flash Lite. Feedback welcome!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://synapse.akshayr.xyz/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49675722",
+    "createdAt": "2026-09-12T20:46:20.429Z"
+  },
+  {
+    "slug": "i-use-airpods-as-wireless-imus-to-track-discs-bowling-balls-and-runs-hn",
+    "title": "I use AirPods as wireless IMUs to track discs, bowling balls and runs",
+    "shortDescription": "Проект «I use AirPods as wireless IMUs to track discs, bowling balls and runs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I use AirPods as wireless IMUs to track discs, bowling balls and runs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://kinapod.com/technology",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49675673",
+    "createdAt": "2026-09-12T20:46:20.429Z"
+  },
+  {
     "slug": "job-application-assistant-github",
     "title": "job-application-assistant",
     "shortDescription": "个人求职助手 Skill（Claude/Codex）—— 搜索招聘公司、投递前先做背景调查、集中管理投递记录、辅助填写申请表单，每次真正提交都需要人工确认。",
