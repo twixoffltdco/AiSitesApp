@@ -1,5 +1,90 @@
 [
   {
+    "slug": "apipig-github",
+    "title": "apipig",
+    "shortDescription": "free ai gateway 免费 ai 网关，企业级内部 AI 中转服务（ai中转站）。",
+    "fullDescription": "free ai gateway 免费 ai 网关，企业级内部 AI 中转服务（ai中转站）。\n\nАвтор: aizuda. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://apipig.aizuda.com/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "gateway",
+      "llm",
+      "newapi",
+      "sub2api",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1366998439",
+    "createdAt": "2026-09-12T09:00:10.648Z"
+  },
+  {
+    "slug": "sharpniq-ai-powered-tool-to-unblur-images-online-hn",
+    "title": "Sharpniq – AI-powered tool to unblur images online",
+    "shortDescription": "Sharpniq is an AI-powered unblur image tool that sharpens blurry photos and restores image clarity online in seconds, with no software inst…",
+    "fullDescription": "Sharpniq is an AI-powered unblur image tool that sharpens blurry photos and restores image clarity online in seconds, with no software installation required.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://unblurimage.me",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49670159",
+    "createdAt": "2026-09-12T09:00:10.670Z"
+  },
+  {
+    "slug": "spitewareai-a-catalog-of-apps-built-out-of-spite-at-unfair-pricing-hn",
+    "title": "Spiteware.ai – A catalog of apps built out of spite at unfair pricing",
+    "shortDescription": "A catalog of apps people built because the paid tool wasn&#x27;t worth the price. Static site, source on GitHub with the criteria for what…",
+    "fullDescription": "A catalog of apps people built because the paid tool wasn&#x27;t worth the price. Static site, source on GitHub with the criteria for what counts. An agent finds candidates each morning; I approve every listing by hand. Send me apps I&#x27;ve missed.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://spiteware.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49669863",
+    "createdAt": "2026-09-12T09:00:10.671Z"
+  },
+  {
+    "slug": "i-turn-airtable-exports-into-real-postgres-schemasfks-not-csvs-hn",
+    "title": "I turn Airtable exports into real Postgres schemas(FKs, not CSVs)",
+    "shortDescription": "Проект «I turn Airtable exports into real Postgres schemas(FKs, not CSVs)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I turn Airtable exports into real Postgres schemas(FKs, not CSVs)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.atmigrator.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49669672",
+    "createdAt": "2026-09-12T09:00:10.671Z"
+  },
+  {
+    "slug": "dont-hit-send-the-model-answers-while-you-type-hn",
+    "title": "Don't Hit Send – the model answers while you type",
+    "shortDescription": "Type. The model is already answering. There is no send button. Left pane is one long draft. Right pane is a stack of replies. Pause for ~35…",
+    "fullDescription": "Type. The model is already answering. There is no send button. Left pane is one long draft. Right pane is a stack of replies. Pause for ~350ms and it fires a normal streaming chat completion with the whole draft. Type again and it aborts the last request if that reply never produced text; if it did, that bubble stays and a new one stacks. Bubbles never rewrite. Enter is a newline. That is overlapping unary streams, not a duplex socket. Same shape as ghost-text, pointed at a conversation instead of a code line. The bit that took the work is the hold: do not fire on &quot;and N&quot; while someone is still typing &quot;and NASA&quot;. git clone https:&#x2F;&#x2F;github.com&#x2F;scalattice&#x2F;dont-hit-send.git cd dont-hit-send export SCALATTICE_API_KEY=slt_... # or OPENAI_API_KEY + OPENAI_BASE_URL .&#x2F;run.sh # http:&#x2F;&#x2F;127.0.0.1:8766 Stdlib Python, MIT, key stays on your machine. Defaults to Scalattice OpenAI-compat; any host that speaks &#x2F;v1&#x2F;chat&#x2F;completions works from Settings or env. Browser demo on our inference platform (sign-in after a short try): https:&#x2F;&#x2F;scalattice.com&#x2F;dont-hit-send&#x2F; Why&#x27;ve we built this? The conventional AI chat interface is overdone and lacks innovation, I&#x27;ve personally been building agentic software for a while now and feel a lack of innovation in the interactivity. This is a step towards trialling some different inference interfaces!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/scalattice/dont-hit-send",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49669012",
+    "createdAt": "2026-09-12T09:00:10.671Z"
+  },
+  {
     "slug": "fog-20-i-removed-the-ai-auto-organizing-i-built-my-first-app-around-hn",
     "title": "Fog 2.0: I removed the AI auto-organizing I built my first app around",
     "shortDescription": "Hey everyone, This is my first time posting on Show HN, so hello there. Back in March, I launched my first app on the App Store. It was a n…",
