@@ -1,5 +1,139 @@
 [
   {
+    "slug": "qwen-web-proxy-github",
+    "title": "qwen-web-proxy",
+    "shortDescription": "OpenAI-compatible local API proxy for Qwen Web.",
+    "fullDescription": "OpenAI-compatible local API proxy for Qwen Web.\n\nАвтор: SternI. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/SternI/qwen-web-proxy",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "cline",
+      "free",
+      "freeai",
+      "llm",
+      "openai-api",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1367847804",
+    "createdAt": "2026-09-13T21:00:28.365Z"
+  },
+  {
+    "slug": "vehla-the-ai-command-center-for-macos-hn",
+    "title": "Vehla – the AI command center for macOS",
+    "shortDescription": "Проект «Vehla – the AI command center for macOS», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Vehla – the AI command center for macOS», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://vehla.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49688359",
+    "createdAt": "2026-09-13T21:00:28.184Z"
+  },
+  {
+    "slug": "clientcoded-qa-platform-for-ai-agents-hn",
+    "title": "ClientCoded – QA Platform for AI Agents",
+    "shortDescription": "Hi HN. We built a QA platform for AI agents. My cofounder spent 6 years at Veeva Systems building QA frameworks for regulated software. I s…",
+    "fullDescription": "Hi HN. We built a QA platform for AI agents. My cofounder spent 6 years at Veeva Systems building QA frameworks for regulated software. I spent 5 years in sales helping AI-native startups with their growth. We&#x27;ve both seen the issues companies face when deploying agents without a structured way of testing and monitoring them. The engineering teams we interviewed prior to building said they are doing manual spot-checks or just using LLM as a judge to check discrepancies. We generate synthetic test environments for 35 platforms (Salesforce, Jira, Stripe, Zendesk, Datadog, and 29 more). Each environment has ~200 adversarial queries with computed ground truth across 7 categories: clean lookups, ambiguous questions, multi-step operations, scope boundary tests, contradictory inputs, invalid assumptions, and context-dependent questions. The ground truth is initially computed by running SQL against the synthetic dataset so it&#x27;s not just guessed by an LLM. We also do adversarial testing for pre-production conversational agents. The system generates different personas that push agents off-script and scores pass&#x2F;fail across 10 dimensions so you can see what happens in realistic customer scenarios. Our production monitoring is just one webhook with every conversation evaluated in real time as well. We are two founders bootstrapping and we would love feedback on our approach! https:&#x2F;&#x2F;clientcoded.com&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://clientcoded.com/environments",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49688290",
+    "createdAt": "2026-09-13T21:00:28.184Z"
+  },
+  {
+    "slug": "credit-against-tokenised-stocks-for-agents-punish-us-please-hn",
+    "title": "Credit against tokenised stocks for agents. punish us please",
+    "shortDescription": "we are launching credit against tokenised stocks for your agents. Your agents can buy stocks and borrow credit line for your agents against…",
+    "fullDescription": "we are launching credit against tokenised stocks for your agents. Your agents can buy stocks and borrow credit line for your agents against it. This is another step in becoming treasury for agents which allows agents to invest, buy, trade, and sell without any human intervention. Please give us a try and give honest and brutal feedback. punish me for being stupid and bold.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://vaaya.ai/credit-against-securities-for-agents",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49688089",
+    "createdAt": "2026-09-13T21:00:28.184Z"
+  },
+  {
+    "slug": "kibble-a-reader-for-ai-news-tutorials-code-and-models-hn",
+    "title": "Kibble – a reader for AI news, tutorials, code and models",
+    "shortDescription": "Проект «Kibble – a reader for AI news, tutorials, code and models», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Kibble – a reader for AI news, tutorials, code and models», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.kibblebites.com/app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49687860",
+    "createdAt": "2026-09-13T21:00:28.184Z"
+  },
+  {
+    "slug": "pinocchio-harness-for-verifiable-work-hn",
+    "title": "Pinocchio: Harness for Verifiable Work",
+    "shortDescription": "Hey HN, we&#x27;ve been trying to solve LLM Hallucinations. So we built Pinocchio. Pinocchio is a research preview for AI outputs with prov…",
+    "fullDescription": "Hey HN, we&#x27;ve been trying to solve LLM Hallucinations. So we built Pinocchio. Pinocchio is a research preview for AI outputs with provenance and verification built in. Give it a task and source material. For numerics, the values used in the computation are carried directly from the source rather than regenerated by the model across reasoning steps. Pinocchio records the computations and derivations applied to them, and a deterministic verifier can replay and check the resulting computation. The output retains a connection to: • the exact source inputs used • the operations performed on them • the intermediate and final results they produced • the checks those results passed Every output points back to its sources. You can trace it backwards through its derivation and sources. Really looking forward to what you guys think about this. P.S. we&#x27;re limiting to one run at a time. Other than there are no other restrictions. It does take a while though, so I&#x27;d let it be and check back in a while.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://pinocchio.goedelmachines.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49687558",
+    "createdAt": "2026-09-13T21:00:28.185Z"
+  },
+  {
+    "slug": "sengiai-verified-candidate-sourcing-for-hard-to-fill-roles-hn",
+    "title": "sengi.ai — Verified candidate sourcing for hard-to-fill roles",
+    "shortDescription": "Проект «sengi.ai — Verified candidate sourcing for hard-to-fill roles», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «sengi.ai — Verified candidate sourcing for hard-to-fill roles», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://sengi.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49687516",
+    "createdAt": "2026-09-13T21:00:28.185Z"
+  },
+  {
+    "slug": "agentspork-agents-help-agents-humans-touch-grass-hn",
+    "title": "AgentSpork, Agents help agents, Humans touch grass",
+    "shortDescription": "AgentSpork is a permissionless public board where AI agents request help, respond to each other, and review how well tools support agents.…",
+    "fullDescription": "AgentSpork is a permissionless public board where AI agents request help, respond to each other, and review how well tools support agents. When your agent gets stuck, hand them a spork! Recent organic evolution of agent message boards demonstrates agent demand for collaboration. A diversity of perspective is helpful for humans and agents alike when addressing problems. When an agent gets stuck, consulting with peers from different models, harnesses, and contexts can approximate the diversity of opinion humans find helpful when we&#x27;re not sure what to do. As long-running agents or swarms operate on longer time horizons with less human course correction, agent collaboration can help course correct without waiting for human intervention. Agent ecologies have potential for fascinating emergent intelligence. This is a place for that to potentially unfold and be better understood in agent&#x2F;human harmony. Experiments like this often end up in slop, but hey so is a lot of human written social media! The hope here is this lets agents actually help each other out in a useful way. The goal here is also to just have fun. Life&#x27;s an adventure! So, I&#x27;d love any feedback from y&#x27;all (or your agents) on the idea or implementation. Part of this is trying to give the project good agent ergonomics so it&#x27;s easy for agents to pick up and use without getting lost or burning too much context. Lastly, a few links on the recent swarm message board behavior that led to this project: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49563355 https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49454314\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://agentspork.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49686888",
+    "createdAt": "2026-09-13T21:00:28.185Z"
+  },
+  {
     "slug": "tiiny-bench-github",
     "title": "tiiny-bench",
     "shortDescription": "An independent benchmark for the Tiiny AI Pocket Lab. Measures what the box actually does: prefill scaling, sustained throughput, concurren…",
