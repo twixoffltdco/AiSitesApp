@@ -1,5 +1,91 @@
 [
   {
+    "slug": "tiiny-bench-github",
+    "title": "tiiny-bench",
+    "shortDescription": "An independent benchmark for the Tiiny AI Pocket Lab. Measures what the box actually does: prefill scaling, sustained throughput, concurren…",
+    "fullDescription": "An independent benchmark for the Tiiny AI Pocket Lab. Measures what the box actually does: prefill scaling, sustained throughput, concurrency and reasoning cost, with NPU budget as the currency. Web app plus a self-contained HTML report. Python stdlib only.\n\nАвтор: webdevtodayjason. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://tiinybench.app",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "benchmark",
+      "benchmarking",
+      "llm",
+      "llm-evaluation",
+      "llm-inference",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1367184609",
+    "createdAt": "2026-09-13T18:00:57.681Z"
+  },
+  {
+    "slug": "runboth-a-behaviour-diff-for-code-an-ai-changed-hn",
+    "title": "RunBoth, a behaviour diff for code an AI changed",
+    "shortDescription": "Проект «RunBoth, a behaviour diff for code an AI changed», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «RunBoth, a behaviour diff for code an AI changed», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/runboth/runboth",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49686484",
+    "createdAt": "2026-09-13T18:00:58.871Z"
+  },
+  {
+    "slug": "oss-modal-alternative-hn",
+    "title": "OSS Modal Alternative",
+    "shortDescription": "Our control plane has been public for a while, but I don&#x27;t think I ever posted it here. We&#x27;ve been working on AI infra for a few…",
+    "fullDescription": "Our control plane has been public for a while, but I don&#x27;t think I ever posted it here. We&#x27;ve been working on AI infra for a few years, and have built a highly optimized set of primitives for GPU inference and sandboxes. This includes all sorts of bells and whistles like embedded CAS, a custom image format, multiple container runtimes supported (gVisor&#x2F;runc), and an opinionated python SDK. Totally self-hostable (of course, you&#x27;ll need to find some GPUs) on any k8s cluster with a helm chart.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/beam-cloud/beta9/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49685152",
+    "createdAt": "2026-09-13T18:00:58.872Z"
+  },
+  {
+    "slug": "directory-of-28-ai-crawlers-robotstxt-rules-ip-ranges-open-data-hn",
+    "title": "Directory of 28 AI crawlers – robots.txt rules, IP ranges, open data",
+    "shortDescription": "Проект «Directory of 28 AI crawlers – robots.txt rules, IP ranges, open data», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Directory of 28 AI crawlers – robots.txt rules, IP ranges, open data», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://geoprompttracker.com/bots",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49685136",
+    "createdAt": "2026-09-13T18:00:58.872Z"
+  },
+  {
+    "slug": "i-built-my-own-knowledge-graph-from-the-code-ai-writes-hn",
+    "title": "I built my own knowledge graph from the code AI writes",
+    "shortDescription": "Проект «I built my own knowledge graph from the code AI writes», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built my own knowledge graph from the code AI writes», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/aeroscissorz/learnlance/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49684835",
+    "createdAt": "2026-09-13T18:00:58.872Z"
+  },
+  {
     "slug": "ha-multilayered-llm-voice-assistant-intent-local-cloud-github",
     "title": "HA-multilayered-LLM-Voice-Assistant-intent-local-cloud-",
     "shortDescription": "Logic-based multi-LLM voice router for Home Assistant, combining native intents, local Qwen, GPU-aware desktop Ollama, and cloud AI with in…",
