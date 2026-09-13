@@ -1,5 +1,81 @@
 [
   {
+    "slug": "cc-monitor-github",
+    "title": "CC-Monitor",
+    "shortDescription": "Claude Code Monitor : Monitor & audit every action Claude Code takes on your computer.",
+    "fullDescription": "Claude Code Monitor : Monitor & audit every action Claude Code takes on your computer.\n\nАвтор: cn0xroot. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/cn0xroot/CC-Monitor",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "anthropic",
+      "anthropic-claude",
+      "anthropics",
+      "cc-monitor",
+      "claude",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1367351165",
+    "createdAt": "2026-09-13T11:03:47.012Z"
+  },
+  {
+    "slug": "nexoravm-github",
+    "title": "NexoraVM",
+    "shortDescription": "Windows-first desktop virtualization and AI workspace built with Tauri, React, TypeScript, and Rust, with QEMU planned as the virtualizatio…",
+    "fullDescription": "Windows-first desktop virtualization and AI workspace built with Tauri, React, TypeScript, and Rust, with QEMU planned as the virtualization backend.\n\nАвтор: vmDeshpande. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/vmDeshpande/NexoraVM",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-workspaces",
+      "desktop-application",
+      "local-ai",
+      "nexoravm",
+      "open-source",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1365678471",
+    "createdAt": "2026-09-13T11:03:47.012Z"
+  },
+  {
+    "slug": "as-an-engineer-a-skill-to-make-ai-treat-you-like-an-engineer-hn",
+    "title": "As-an-engineer – A skill to make AI treat you like an engineer",
+    "shortDescription": "Проект «As-an-engineer – A skill to make AI treat you like an engineer», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «As-an-engineer – A skill to make AI treat you like an engineer», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/mayooot/as-an-engineer",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49682263",
+    "createdAt": "2026-09-13T11:03:46.815Z"
+  },
+  {
+    "slug": "how-llms-work-explained-through-music-football-or-cricket-analogies-hn",
+    "title": "How LLMs work, explained through music, football or cricket analogies",
+    "shortDescription": "Проект «How LLMs work, explained through music, football or cricket analogies», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «How LLMs work, explained through music, football or cricket analogies», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://understand-ai.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49681313",
+    "createdAt": "2026-09-13T11:03:46.816Z"
+  },
+  {
     "slug": "finn-portfolio-github",
     "title": "Finn-portfolio",
     "shortDescription": "Personal portfolio for Saw Lwin Htoo (Finn) — shipped work including a shop POS, StudyMate AI, and Dairy Flat Air. React, TypeScript, Vite,…",
