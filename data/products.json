@@ -1,5 +1,65 @@
 [
   {
+    "slug": "finn-portfolio-github",
+    "title": "Finn-portfolio",
+    "shortDescription": "Personal portfolio for Saw Lwin Htoo (Finn) — shipped work including a shop POS, StudyMate AI, and Dairy Flat Air. React, TypeScript, Vite,…",
+    "fullDescription": "Personal portfolio for Saw Lwin Htoo (Finn) — shipped work including a shop POS, StudyMate AI, and Dairy Flat Air. React, TypeScript, Vite, Tailwind.\n\nАвтор: Gooniez3. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://finn-portfolio-blush.vercel.app",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "framer-motion",
+      "full-stack",
+      "personal-website",
+      "portfolio",
+      "react",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1366585004",
+    "createdAt": "2026-09-13T05:38:44.889Z"
+  },
+  {
+    "slug": "explain-diff-html-github",
+    "title": "explain-diff-html",
+    "shortDescription": "Turn pull requests and code diffs into interactive HTML walkthroughs that explain the logical flow of a change.",
+    "fullDescription": "Turn pull requests and code diffs into interactive HTML walkthroughs that explain the logical flow of a change.\n\nАвтор: malav2110. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/malav2110/explain-diff-html",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude-code",
+      "claude-skills",
+      "code-understanding",
+      "developer-tools",
+      "learning",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1367634272",
+    "createdAt": "2026-09-13T05:38:44.889Z"
+  },
+  {
+    "slug": "astah-pro-mcp-enabling-ai-powered-uml-modeling-hn",
+    "title": "Astah Pro MCP – Enabling AI-Powered UML Modeling",
+    "shortDescription": "This MCP plugin implements a &quot;Programmatic Tool Calling&quot; mode, inspired by the idea described in this Anthropic article ( https:&…",
+    "fullDescription": "This MCP plugin implements a &quot;Programmatic Tool Calling&quot; mode, inspired by the idea described in this Anthropic article ( https:&#x2F;&#x2F;www.anthropic.com&#x2F;engineering&#x2F;advanced-tool-use ).\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/takaakit/astah-pro-mcp",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49679590",
+    "createdAt": "2026-09-13T05:38:44.739Z"
+  },
+  {
     "slug": "audiyo-github",
     "title": "Audiyo",
     "shortDescription": "Memory-efficient text-to-audio generation and LoRA fine-tuning for Stable Audio Open.",
