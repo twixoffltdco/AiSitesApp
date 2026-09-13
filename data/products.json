@@ -1,5 +1,81 @@
 [
   {
+    "slug": "ha-multilayered-llm-voice-assistant-intent-local-cloud-github",
+    "title": "HA-multilayered-LLM-Voice-Assistant-intent-local-cloud-",
+    "shortDescription": "Logic-based multi-LLM voice router for Home Assistant, combining native intents, local Qwen, GPU-aware desktop Ollama, and cloud AI with in…",
+    "fullDescription": "Logic-based multi-LLM voice router for Home Assistant, combining native intents, local Qwen, GPU-aware desktop Ollama, and cloud AI with intelligent fallback.\n\nАвтор: steverhysjenks. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/steverhysjenks/HA-multilayered-LLM-Voice-Assistant-intent-local-cloud-",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "home-assistant",
+      "home-automation",
+      "litellm",
+      "llm",
+      "multi-llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1368343355",
+    "createdAt": "2026-09-13T14:58:20.426Z"
+  },
+  {
+    "slug": "ctxpack-github",
+    "title": "ctxpack",
+    "shortDescription": "Pack a git repo into an LLM prompt. Gitignore, token budget, secret redaction. npx @kodyazicam/ctxpack",
+    "fullDescription": "Pack a git repo into an LLM prompt. Gitignore, token budget, secret redaction. npx @kodyazicam/ctxpack\n\nАвтор: KodYazicam. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/KodYazicam/ctxpack",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "chatgpt",
+      "cli",
+      "developer-tools",
+      "llm",
+      "prompt",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1367692937",
+    "createdAt": "2026-09-13T14:58:20.426Z"
+  },
+  {
+    "slug": "i-built-a-day-by-day-timeline-of-the-ai-boom-20172026-437-events-hn",
+    "title": "I built a day-by-day timeline of the AI boom (2017–2026, 437 events)",
+    "shortDescription": "Проект «I built a day-by-day timeline of the AI boom (2017–2026, 437 events)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built a day-by-day timeline of the AI boom (2017–2026, 437 events)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.aihistory.live/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49683798",
+    "createdAt": "2026-09-13T14:58:20.272Z"
+  },
+  {
+    "slug": "i-built-threadshelf-to-reuse-hard-to-export-ai-chats-like-openrouter-hn",
+    "title": "I built ThreadShelf to reuse hard-to-export AI chats like OpenRouter",
+    "shortDescription": "My AI chats were split between OpenRouter, AI Studio and LM Studio. There was no good way to search or reuse them and OpenRouter had no pro…",
+    "fullDescription": "My AI chats were split between OpenRouter, AI Studio and LM Studio. There was no good way to search or reuse them and OpenRouter had no proper bulk export, so I built one.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/ChrystianSchutz/ThreadShelf",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49683327",
+    "createdAt": "2026-09-13T14:58:20.273Z"
+  },
+  {
     "slug": "cc-monitor-github",
     "title": "CC-Monitor",
     "shortDescription": "Claude Code Monitor : Monitor & audit every action Claude Code takes on your computer.",
