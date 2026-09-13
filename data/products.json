@@ -1,5 +1,108 @@
 [
   {
+    "slug": "audiyo-github",
+    "title": "Audiyo",
+    "shortDescription": "Memory-efficient text-to-audio generation and LoRA fine-tuning for Stable Audio Open.",
+    "fullDescription": "Memory-efficient text-to-audio generation and LoRA fine-tuning for Stable Audio Open.\n\nАвтор: TeamAudiyo. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/TeamAudiyo/Audiyo",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "audiyo",
+      "huggingface",
+      "ml",
+      "speech",
+      "stable-audio-open-1",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1366223144",
+    "createdAt": "2026-09-13T00:36:20.542Z"
+  },
+  {
+    "slug": "raduo-github",
+    "title": "RaDUO",
+    "shortDescription": "RaDUO turns live radio broadcasts into multilingual STT datasets for ASR research. It records stations in parallel, splits streams into cli…",
+    "fullDescription": "RaDUO turns live radio broadcasts into multilingual STT datasets for ASR research. It records stations in parallel, splits streams into clips, transcribes audio, extracts quality features, and stores searchable metadata. Includes 16 kHz mono WAVs, transcripts, station info, languages, and optional word timings.\n\nАвтор: osscv. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://www.dkly.net/projects/9",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "dataset",
+      "dataset-creation",
+      "dataset-generation",
+      "dataset-generator",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1367455741",
+    "createdAt": "2026-09-13T00:36:20.542Z"
+  },
+  {
+    "slug": "indus-github",
+    "title": "indus",
+    "shortDescription": "A falsifiable computational workbench for an undeciphered script. This repository asks what can be learned from sign order, repetition, arc…",
+    "fullDescription": "A falsifiable computational workbench for an undeciphered script. This repository asks what can be learned from sign order, repetition, archaeological metadata, and conservative external anchors without pretending that statistical labels are translations.\n\nАвтор: sriharideveloper. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://indusdecoded.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "computational-linguistics",
+      "indus",
+      "research",
+      "script",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1366221644",
+    "createdAt": "2026-09-13T00:36:20.542Z"
+  },
+  {
+    "slug": "claude-spring-architect-github",
+    "title": "claude-spring-architect",
+    "shortDescription": "Generates Spring Boot projects ready for AI-assisted coding. Ships Claude Code skills/agents/hooks that enforce DDD, dependency direction,…",
+    "fullDescription": "Generates Spring Boot projects ready for AI-assisted coding. Ships Claude Code skills/agents/hooks that enforce DDD, dependency direction, and naming across the whole stack — domain, persistence, REST, messaging, tests — so AI-written code stays on-architecture.\n\nАвтор: ice-lfernandes. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/ice-lfernandes/claude-spring-architect",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-code-skills",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1366198527",
+    "createdAt": "2026-09-13T00:36:20.542Z"
+  },
+  {
+    "slug": "a-technical-book-for-the-age-of-ai-hn",
+    "title": "A Technical Book for the Age of AI",
+    "shortDescription": "As AI increasingly answers &quot;how,&quot; this book focuses on &quot;why.&quot; Rather than focusing on how to build software, it asks wh…",
+    "fullDescription": "As AI increasingly answers &quot;how,&quot; this book focuses on &quot;why.&quot; Rather than focusing on how to build software, it asks why programming matters.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://codeberg.org/juurej/p4cu",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49678282",
+    "createdAt": "2026-09-13T00:36:20.331Z"
+  },
+  {
     "slug": "mnemolink-github",
     "title": "mnemolink",
     "shortDescription": "Curated, injectable personas and artificial memories for AI agents.",
