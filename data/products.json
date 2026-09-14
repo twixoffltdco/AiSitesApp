@@ -1,5 +1,247 @@
 [
   {
+    "slug": "tinynpu4-github",
+    "title": "TinyNPU4",
+    "shortDescription": "Tiny Tapeout INT4 neural-network accelerator (64-4-1) that classifies 8x8 grayscale images as Cat or Dog, with dual MAC lanes and a Cocotb…",
+    "fullDescription": "Tiny Tapeout INT4 neural-network accelerator (64-4-1) that classifies 8x8 grayscale images as Cat or Dog, with dual MAC lanes and a Cocotb testbench.\n\nАвтор: Essam-Elkholy. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://gds-explorer.tinytapeout.com/viewer?file=https://essam-elkholy.github.io/TinyNPU4/tinytapeout.oas&pdk=ihp-sg13g2",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-accelerator",
+      "asic",
+      "chip",
+      "ieee",
+      "machine-learning",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1368816483",
+    "createdAt": "2026-09-14T19:00:48.734Z"
+  },
+  {
+    "slug": "llm-language-learning-github",
+    "title": "Llm-language-learning",
+    "shortDescription": "🚀 **A curated guide & tools for developers to master spoken English, pass remote technical interviews, and get fluent with AI companions l…",
+    "fullDescription": "🚀 **A curated guide & tools for developers to master spoken English, pass remote technical interviews, and get fluent with AI companions like LingChat. Say goodbye to \"Silent English\"!**\n\nАвтор: photolensfocus. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/photolensfocus/Llm-language-learning",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-tutor",
+      "career-development",
+      "english-learning",
+      "interview-preparation",
+      "lingchat",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1369618603",
+    "createdAt": "2026-09-14T19:00:48.734Z"
+  },
+  {
+    "slug": "deepseek-web-proxy-github",
+    "title": "deepseek-web-proxy",
+    "shortDescription": "OpenAI-compatible local API proxy for DeepSeek Web.",
+    "fullDescription": "OpenAI-compatible local API proxy for DeepSeek Web.\n\nАвтор: SternI. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/SternI/deepseek-web-proxy",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "cline",
+      "deepseek",
+      "deepseek-api",
+      "deepseek-r1",
+      "free",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1367247166",
+    "createdAt": "2026-09-14T19:00:48.734Z"
+  },
+  {
+    "slug": "kario-ai-native-motion-graphics-editor-hn",
+    "title": "Kario – AI Native Motion Graphics Editor",
+    "shortDescription": "Hey HN, I built https:&#x2F;&#x2F;karioai.com , a web editor for creating motion graphics videos, whilst letting you perfect tiny details l…",
+    "fullDescription": "Hey HN, I built https:&#x2F;&#x2F;karioai.com , a web editor for creating motion graphics videos, whilst letting you perfect tiny details like easing. My thesis is that since design is an art, collaborating with the AI on the same canvas instead of outsourcing the entire design to it provides a great balance between creativity and speed. I created this sample video (inspired by Linear) in Kario to explain how it works: https:&#x2F;&#x2F;www.karioai.com&#x2F;share&#x2F;6uHru-GZmA?export=JO0aFTKeDT Happy to chat about the AI or dev stack behind the product. Let me know if you have any questions&#x2F;comments&#x2F;feature requests!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.karioai.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49702066",
+    "createdAt": "2026-09-14T19:00:48.661Z"
+  },
+  {
+    "slug": "ringee-open-source-human-and-ai-calling-hn",
+    "title": "Ringee – Open-source human and AI calling",
+    "shortDescription": "Проект «Ringee – Open-source human and AI calling», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Ringee – Open-source human and AI calling», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.ringee.io",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49701510",
+    "createdAt": "2026-09-14T19:00:48.661Z"
+  },
+  {
+    "slug": "threshyr-an-offline-automatic-time-tracker-with-on-device-ai-hn",
+    "title": "Threshyr – An offline automatic time tracker with on-device AI",
+    "shortDescription": "I&#x27;ve built and continuously improved Threshyr based on the problem I faced myself. I was working on more than 3 projects at one time.…",
+    "fullDescription": "I&#x27;ve built and continuously improved Threshyr based on the problem I faced myself. I was working on more than 3 projects at one time. At the end of any day&#x2F;week&#x2F;month if I had to calculate how many hours I have worked on each one, I would always not be able to calculate an accurate time. Because I had to just reconstruct it from memory instead of any real record. Every tracker I tried solved this either by: - sending my activity to their cloud or - by making me press start and stop, which I most of the time forget or - requires a monthly subscription. So I built Threshyr to address all of these pain points. It is a background time tracker for Windows and macOS. It runs entirely locally, recording the duration and window title for active application and active browser(excluding Firefox) domain locally on your machine. It comes up with predefined categories for installed application and browser domain. Each category can be marked as Productive(green color), Neutral(gray color) and Unproductive(red color). Users can modify predefined and can also create their own custom categories. Threshyr utilizes categories, tagging rules and light weight offline AI model called Threshyr AI to classify activity for projects. Users can review the activity classified by Threshyr-AI, can modify the project or even create rules based on the classification. As users review more and more activities, Threshyr-AI gets more accurate with each review. Threshyr lets users see how focused they were, how often and for how long they were distracted, and what was their duration for their productive and unproductive apps and domains. Threshyr also calculates hourly and fixed totals for client projects. Privacy is the core constraint I built this around: - No account, no password, no email required. - No keystroke logging, no screenshots, no behavioral analytics. - Zero cloud inference. - There are exactly two daily network calls: an anonymous daily ping to check for version updates and an active user ping. Threshyr is closed source right now. I am a solo developer in Pakistan trying to build a longer term and sustainable alternative to expensive time trackers. Right now, it is in pre-release. It is completely free to use with no obligation to pay (though there is an optional early-purchase at $29&#x2F;year if you want to support it). After the pre-release ends Threshyr will be priced at $58 per year. No monthly subscription. I might add a lifetime price. Linux builds and team features are not available yet. Threshyr does not support Firefox I’d appreciate any feedback from the community, especially on how well the classification and tagging rules work for your specific workflows. Also let me know your thoughts about a lifetime price. I&#x27;ll be in the thread to answer any questions.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://threshyr.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49701054",
+    "createdAt": "2026-09-14T19:00:48.661Z"
+  },
+  {
+    "slug": "vedic-astrology-chart-free-d1d9-birth-chart-with-ai-insights-hn",
+    "title": "Vedic Astrology Chart – free D1/D9 birth chart with AI insights",
+    "shortDescription": "Проект «Vedic Astrology Chart – free D1/D9 birth chart with AI insights», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Vedic Astrology Chart – free D1/D9 birth chart with AI insights», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://vedicastrologychart.org/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49700572",
+    "createdAt": "2026-09-14T19:00:48.661Z"
+  },
+  {
+    "slug": "mcp-harbor-an-mcp-registry-hn",
+    "title": "MCP Harbor – An MCP Registry",
+    "shortDescription": "Please submit your own MCP servers to be considered for the registry!",
+    "fullDescription": "Please submit your own MCP servers to be considered for the registry!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://ai.mcpharbor.dev/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49700175",
+    "createdAt": "2026-09-14T19:00:48.661Z"
+  },
+  {
+    "slug": "rebuno-an-open-source-runtime-for-production-agents-hn",
+    "title": "Rebuno - An open-source runtime for production agents",
+    "shortDescription": "I have been building Rebuno, an open-source execution runtime for operating AI agents in production. It manages execution state and guardra…",
+    "fullDescription": "I have been building Rebuno, an open-source execution runtime for operating AI agents in production. It manages execution state and guardrails across agents built with different frameworks. Agents run as HTTP services. Rebuno dispatches work through signed webhooks and keeps execution state in Postgres. Agents submit tool and model calls to Rebuno as steps before executing them. For each new step, Rebuno evaluates per-agent YAML policies, independently of the model&#x27;s prompt. It can allow the call, deny it, or hold it for human approval. The agent executes permitted calls and reports their outcomes. Policy decisions and step outcomes are both recorded in one append-only event log. After an interruption, the agent starts its handler from the top. Steps with recorded outcomes return those outcomes instead of executing again. A crash can also leave a tool with no recorded outcome. Tools marked safe_to_retry run again, and tools marked at_most_once fail as indeterminate. How the agent handles an indeterminate step is up to its implementation. There are Python and TypeScript SDKs, and the repo includes examples using LangChain, CrewAI, Pydantic AI, Vercel AI SDK, and Mastra. Rebuno is free to self-host and released under the MIT licensed. I&#x27;d be interested in hearing how others are running or operating agents in production. Blog post with diagrams: https:&#x2F;&#x2F;rebuno.io&#x2F;blog&#x2F;introducing-rebuno Getting started: https:&#x2F;&#x2F;docs.rebuno.io&#x2F;getting-started\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/rebuno/rebuno",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49699591",
+    "createdAt": "2026-09-14T19:00:48.661Z"
+  },
+  {
+    "slug": "agentdrive-persistent-versioned-file-storage-for-ai-agents-hn",
+    "title": "AgentDrive – persistent, versioned file storage for AI agents",
+    "shortDescription": "We’re opening the private beta for AgentDrive, a persistent file&#x2F;workspace layer for AI agents. AgentDrive gives agents: - Versioned a…",
+    "fullDescription": "We’re opening the private beta for AgentDrive, a persistent file&#x2F;workspace layer for AI agents. AgentDrive gives agents: - Versioned artifacts and folders - Hosted MCP access for coding agents - Direct upload sessions for larger files - Share links and controlled public publishing - Workspace-scoped authorization and auditability - Many supported file formats such as MD, HTML, JSON, images, videos, and even spreadsheets The MCP surface is intentionally narrow and reviewed rather than exposing the entire storage API. It’s a private beta, so some features are deliberately out of scope for now. See more details: https:&#x2F;&#x2F;tokencanopy.com&#x2F;products&#x2F;agentdrive Try the beta: https:&#x2F;&#x2F;app.tokencanopy.com&#x2F;drive&#x2F; For MCP clients: claude mcp add --transport http --scope user agentdrive https:&#x2F;&#x2F;drive.mcp.tokencanopy.com&#x2F;mcp claude mcp login agentdrive codex mcp add agentdrive --url https:&#x2F;&#x2F;drive.mcp.tokencanopy.com&#x2F;mcp codex mcp login agentdrive A public API&#x2F;SDK integration experience is on the roadmap so that you can use AgentDrive in your product, but it is not available as a beta user interface today. We’d especially appreciate feedback on: 1. Was connecting and using AgentDrive through MCP clear? 2. Which tools or storage primitives are missing? 3. What would be the first workflow you ask your agents do with AgentDrive? Open source repo is also on the roadmap so that you can host it on your own infrastructure! Sign up at tokencanopy.com for more future updates. Any feedback or feature requests can be sent to support@team.tokencanopy.com. You can reach out to me directly at josh@tokencanopy.com I&#x27;d love to personally connect with more founders and developers who are building in the coding agent infra space: https:&#x2F;&#x2F;github.com&#x2F;jiashuoz\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://tokencanopy.com/products/agentdrive",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49699287",
+    "createdAt": "2026-09-14T19:00:48.661Z"
+  },
+  {
+    "slug": "nari-qwen3-tts-and-qwen3-asr-high-accuracy-low-latency-and-cost-hn",
+    "title": "Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+    "shortDescription": "Hey HN, Toby from Nari Labs here. We&#x27;ve been working on making OSS speech models super-fast. Last year, we built Dia, the first OSS te…",
+    "fullDescription": "Hey HN, Toby from Nari Labs here. We&#x27;ve been working on making OSS speech models super-fast. Last year, we built Dia, the first OSS text-to-speech model capable of doing natural dialogue. Since then, so many more great speech models have been released to the public. But the market is still dominated by closed source models. We think that&#x27;s an inference problem. Existing systems such as vLLM &#x2F; SGLang are not well suited for multimodal inference. To prove this, we built an inference engine specialized for Qwen3-TTS and open-sourced it ( https:&#x2F;&#x2F;github.com&#x2F;nari-labs&#x2F;nari-qwen3-tts ). Running at sub-50 ms latency at 10 RPS, this showed open models can be run much faster and cheaper. Since then, we&#x27;ve been working hard to bring cheap, fast, and high quality serving to all. And we&#x27;ve even beat closed models at their game! Measured on the highly cited Coval (YC S24) voice AI benchmarks, our Qwen3-TTS endpoint not just is #2 in latency, but #1 in accuracy (WER) compared to 11Labs, Cartesia etc. while being the cheapest endpoint. Our Qwen3-ASR endpoint has the lowest latency and #2 accuracy, just 0.1% away from #1. It is the second cheapest model on the list. It took a lot of clever inference engineering to make these models quick, perform well while keeping costs low. Interestingly, Alibaba&#x27;s official endpoints seem to perform worse in terms of accuracy and latency compared to ours. But nonetheless, much love to the Qwen team for OSS-ing these amazing speech models. We want to continue to push prices down to make speech technology a commodity - so that every app can have great TTS and STT without worrying about unit costs. We&#x27;re also working on other parts of audio such as diarization - as well as video and world model inference. More to come!\n\nНайдено в разделе Show HN на Hacker News. 👍 12 баллов.",
+    "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49699267",
+    "createdAt": "2026-09-14T19:00:48.662Z"
+  },
+  {
+    "slug": "local-catalog-of-3k-agent-skills-with-a-static-risk-scan-hn",
+    "title": "Local catalog of 3k agent skills with a static risk scan",
+    "shortDescription": "Проект «Local catalog of 3k agent skills with a static risk scan», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Local catalog of 3k agent skills with a static risk scan», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/xm1k3/ai-community-skills",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49698971",
+    "createdAt": "2026-09-14T19:00:48.662Z"
+  },
+  {
+    "slug": "push-notifications-for-hacker-news-hn",
+    "title": "Push Notifications for Hacker News",
+    "shortDescription": "Hey all, James here (creator of Hazumi for HN), after years of working on Hazumi for iOS&#x2F;Apple Watch, I finally brought all the app&#x…",
+    "fullDescription": "Hey all, James here (creator of Hazumi for HN), after years of working on Hazumi for iOS&#x2F;Apple Watch, I finally brought all the app&#x27;s features to Web with tons more that I think you&#x27;re gonna love Radar - watch any post for changes, you get a browser push notification - set a custom topic or select from what&#x27;s there, when it&#x27;s posted you get a browser push notification Profiles - you can view any profile and browse their latest activity, posts, comments and stats Feeds - add custom RSS feeds to your home page - add an automatically refreshing HN search feed for topics your interested in on HN Posts - each post is enriched with SEO metadata pulled from the linked site - AI summary of the story too Weekly digest - an in app weekly newsletter (automatically compiled top weekly stories and their summaries) Bookmarks - not much to say here but collect stories and organize them as you want I&#x27;d love to hear what you think, how I can improve it, what you want added Thanks! James\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.hazumi.news",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49698741",
+    "createdAt": "2026-09-14T19:00:48.662Z"
+  },
+  {
+    "slug": "prmptree-ai-email-agent-with-a-trust-dial-not-an-onoff-switch-hn",
+    "title": "Prmptree – AI email agent with a trust dial, not an on/off switch",
+    "shortDescription": "Проект «Prmptree – AI email agent with a trust dial, not an on/off switch», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Prmptree – AI email agent with a trust dial, not an on/off switch», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.prmptree.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49697407",
+    "createdAt": "2026-09-14T19:00:48.662Z"
+  },
+  {
     "slug": "hk-github",
     "title": "hk",
     "shortDescription": "HK is a unified neural model format and framework built in native Zig, designed to replace SafeTensors, GGUF, and PyTorch checkpoints. Feat…",
