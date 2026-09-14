@@ -1,5 +1,128 @@
 [
   {
+    "slug": "mcp-github",
+    "title": "Mcp",
+    "shortDescription": "Build MCP servers for your LaraGram applications.",
+    "fullDescription": "Build MCP servers for your LaraGram applications.\n\nАвтор: laraXgram. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "laraxgram.github.io/v4/mcp",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "laragram",
+      "mcp",
+      "mcp-server",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1367607798",
+    "createdAt": "2026-09-14T22:37:55.918Z"
+  },
+  {
+    "slug": "miao-ai-github",
+    "title": "Miao-AI",
+    "shortDescription": "MIAO: Models, Intelligence, Assistant, Open. A local-first creative assistant for DeepSeek, GLM, Doubao, Seedream and Seedance.",
+    "fullDescription": "MIAO: Models, Intelligence, Assistant, Open. A local-first creative assistant for DeepSeek, GLM, Doubao, Seedream and Seedance.\n\nАвтор: susirial. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://www.bytewoops.com/zh-CN/miao",
+    "category": "chatbot",
+    "tags": [
+      "agent",
+      "ai",
+      "deepseek",
+      "doubao",
+      "electron",
+      "glm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1370073304",
+    "createdAt": "2026-09-14T22:37:55.918Z"
+  },
+  {
+    "slug": "nowdex-ai-agent-usage-on-your-iphone-hn",
+    "title": "Nowdex – AI agent usage on your iPhone",
+    "shortDescription": "Hi HN, I&#x27;ve been using Claude Code, Codex and Cursor quite a bit lately, and I found myself checking their usage limits all the time.…",
+    "fullDescription": "Hi HN, I&#x27;ve been using Claude Code, Codex and Cursor quite a bit lately, and I found myself checking their usage limits all the time. Most of the tools I found for this live on the desktop or in the menu bar. What I really wanted was to pull out my phone and see how much I had left, especially when I&#x27;m away from my computer. I ended up building Nowdex for this. The main thing is the iPhone widget. It shows your current usage and reset time directly on the Home Screen or Lock Screen. Right now it supports Claude, Codex, Cursor, Grok, Kimi and GLM. There is no account thing. The app doesn&#x27;t send your usage data to my server, all data live on your device, and sync between your Apple devices is done through iCloud. &gt; One note if you try the Mac app: the version currently on the App Store has a bug that prevents connecting accounts. It&#x27;s fixed in the next version, which is currently waiting for App Review. Apple review takes toooo long :) I&#x27;m also working on an Apple Watch version since this feels like exactly the kind of information I&#x27;d rather glance at than open an app for. It&#x27;s a paid app, but only if you need to track a lot providers. No subscription. Happy to answer any questions.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://nowdex.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49704882",
+    "createdAt": "2026-09-14T22:37:55.732Z"
+  },
+  {
+    "slug": "learn-crispr-in-3d-in-any-language-hn",
+    "title": "Learn CRISPR in 3D in any language",
+    "shortDescription": "Well, just 12 languages for now. Let me know if you want me to localize it for your language! Hi I&#x27;m the creator of 10k Science, an im…",
+    "fullDescription": "Well, just 12 languages for now. Let me know if you want me to localize it for your language! Hi I&#x27;m the creator of 10k Science, an immersive science learning platform where you can zoom into things down to the molecular level, guided via a socratic-style AI on the web, iOS, or VR. iOS: https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;10k-science&#x2F;id6793177913 Meta Quest: https:&#x2F;&#x2F;vr.meta.me&#x2F;s&#x2F;287GU4fsKGD3Cl3 Built using real science data, funded by the NSF and NIH.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://viewer.10k.science/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49704763",
+    "createdAt": "2026-09-14T22:37:55.732Z"
+  },
+  {
+    "slug": "free-tool-to-check-how-chatgpt-and-perplexity-rank-your-brand-hn",
+    "title": "Free tool to check how ChatGPT and Perplexity rank your brand",
+    "shortDescription": "Проект «Free tool to check how ChatGPT and Perplexity rank your brand», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Free tool to check how ChatGPT and Perplexity rank your brand», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://ukaiseoconsultant.co.uk/ai-driven-seo-audits/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49702999",
+    "createdAt": "2026-09-14T22:37:55.732Z"
+  },
+  {
+    "slug": "build2me-prove2me-for-software-agent-swarms-build-code-hn",
+    "title": "Build2me – Prove2Me for software agent swarms build code",
+    "shortDescription": "Hi everyone, this is my first original post on Hacker News. I’d like to share my thoughts on the next generation of AI agents. I believe th…",
+    "fullDescription": "Hi everyone, this is my first original post on Hacker News. I’d like to share my thoughts on the next generation of AI agents. I believe these agents will operate autonomously over long periods. While current chat interfaces are designed for conversation, the interfaces for next-gen agents should focus on delegation; they will be capable of gathering environmental data, interpreting requirements, and working continuously toward a goal for days or even a month. That is why I ported prove2me and built the build2me project. My inspiration came from prove2me , which uses Lean to run multi-agent systems for long-term mathematical proof verification—a process requiring extensive exploration and prolonged task execution. I believe this same logic applies to software development and long-term self-iterating projects. I invite you to try it out and please feel free to reach out with any feedback. Thank you.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/shitianfang/build2me",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49702895",
+    "createdAt": "2026-09-14T22:37:55.732Z"
+  },
+  {
+    "slug": "clevercrow-get-paid-to-work-your-backlog-hn",
+    "title": "CleverCrow, Get paid to work your backlog",
+    "shortDescription": "Howdy all, My first post [1] on CleverCrow generated some great conversation and a few things stood out: less AI, more money for open sourc…",
+    "fullDescription": "Howdy all, My first post [1] on CleverCrow generated some great conversation and a few things stood out: less AI, more money for open source maintainers please! So in the intervening 84 days, that&#x27;s what I&#x27;ve done. I&#x27;ve entirely removed all AI and pivoted to a model where backers put money on issues they want fixed and the whole pool goes towards paying the maintainer of the project (minus Stripe fees and a 5% platform fee). Along the way I ditched javascript [2] which tightened up the security model! Sponsorship is still the best way to go, but for those that want to see specific issues fixed and keep the money and control in the hands of the maintainer, CleverCrow.io is there. [1] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48621645 [2] - Technically 40 lines for copy to clipboard and 90 for some Stripe glue to avoid an unrestricted key in the web tier\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://clevercrow.io",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49702339",
+    "createdAt": "2026-09-14T22:37:55.732Z"
+  },
+  {
     "slug": "tinynpu4-github",
     "title": "TinyNPU4",
     "shortDescription": "Tiny Tapeout INT4 neural-network accelerator (64-4-1) that classifies 8x8 grayscale images as Cat or Dog, with dual MAC lanes and a Cocotb…",
