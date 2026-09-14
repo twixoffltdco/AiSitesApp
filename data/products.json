@@ -1,5 +1,194 @@
 [
   {
+    "slug": "cursi-github",
+    "title": "cursi",
+    "shortDescription": "AI that appears where you're already working. Press one shortcut. The panel appears at your cursor, already loaded with what you copied. Ge…",
+    "fullDescription": "AI that appears where you're already working. Press one shortcut. The panel appears at your cursor, already loaded with what you copied. Get your answer. Dismiss. Done.\n\nАвтор: ahanaftanvir40. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://cursi-blond.vercel.app",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-tools",
+      "electron-app",
+      "electron-builder",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1367662363",
+    "createdAt": "2026-09-14T06:42:19.759Z"
+  },
+  {
+    "slug": "happy-quick-ai-github",
+    "title": "happy-quick-ai",
+    "shortDescription": "AI assistant extension for getdroppy.app",
+    "fullDescription": "AI assistant extension for getdroppy.app\n\nАвтор: SoyAndreb. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/SoyAndreb/happy-quick-ai",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "droplet",
+      "droppy",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1369060571",
+    "createdAt": "2026-09-14T06:42:19.759Z"
+  },
+  {
+    "slug": "cosmmd-github",
+    "title": "CosMMD",
+    "shortDescription": "🎭 One photo → Nano Banana Pro T pose → Tripo 3D → MMD dance. 仅凭一张照片，让角色跳起 MMD！Tripo API + Blender, appearance-preserving rigging, articula…",
+    "fullDescription": "🎭 One photo → Nano Banana Pro T pose → Tripo 3D → MMD dance. 仅凭一张照片，让角色跳起 MMD！Tripo API + Blender, appearance-preserving rigging, articulated fingers, and a real 12-second before/after demo. Agent-guided, with reproducible repair recipes.\n\nАвтор: CyclopsRay. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/CyclopsRay/2DCosplayerToMMD",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "blender",
+      "character-animation",
+      "cosplay",
+      "image-to-3d",
+      "mikumiku-dance",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1368773188",
+    "createdAt": "2026-09-14T06:42:19.759Z"
+  },
+  {
+    "slug": "anti-ai-slop-a-4-staged-skill-to-detect-and-remove-any-ai-writing-slop-hn",
+    "title": "Anti-AI-slop: a 4 staged skill to detect and remove any AI writing slop",
+    "shortDescription": "catches 41 different slop patterns: • ~120 ai words, ~100 phrases • em dashes, emoji bullets, title case headings • watermarks, negative pa…",
+    "fullDescription": "catches 41 different slop patterns: • ~120 ai words, ~100 phrases • em dashes, emoji bullets, title case headings • watermarks, negative parallelism, colon reveals, throat-clearing openers 4 gates: 1. sanitize invisible chars 2. remove common ai words&#x2F;chars 3. an agent reviews original vs rewrite, loops back for failed reviews 4. optional: a parallel agent uses a different model to generate additional review + score Works with any of your AI agents.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/misbahsy/anti-ai-slop",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49692619",
+    "createdAt": "2026-09-14T06:42:19.670Z"
+  },
+  {
+    "slug": "like-leetcode-but-multi-file-and-multi-step-hn",
+    "title": "Like LeetCode, but multi-file and multi-step",
+    "shortDescription": "On LeetCode you write one function, it passes, and you&#x27;re done. Most AI labs such as Anthropic and OpenAI, as well as some big tech co…",
+    "fullDescription": "On LeetCode you write one function, it passes, and you&#x27;re done. Most AI labs such as Anthropic and OpenAI, as well as some big tech companies such as Meta, Snowflake and Databricks, don&#x27;t stop in one function and instead ask multi-step questions that are closer to real-world problems. Say you&#x27;re building a key-value store. Step 1 is get, set, delete, count. Once your tests pass, Step 2 unlocks: expiring keys. Then nested transactions. Then atomic batches. I built this because I couldn&#x27;t find a good place to practice for multi-step, multi-file questions. The questions are based on ones people have reported from those loops. Check it out at https:&#x2F;&#x2F;loopprep.dev . There are 24 questions, 3 free, and no signup to try them. Happy to answer questions.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://loopprep.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49692593",
+    "createdAt": "2026-09-14T06:42:19.670Z"
+  },
+  {
+    "slug": "kepil-passport-mandate-and-tamper-evident-journal-for-ai-agents-hn",
+    "title": "Kepil – passport, mandate and tamper-evident journal for AI agents",
+    "shortDescription": "Проект «Kepil – passport, mandate and tamper-evident journal for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Kepil – passport, mandate and tamper-evident journal for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/oleg-vdv/kepil",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49692366",
+    "createdAt": "2026-09-14T06:42:19.670Z"
+  },
+  {
+    "slug": "i-was-frustrated-with-ai-giving-confident-answereven-when-it-was-wrong-hn",
+    "title": "I was frustrated with AI giving confident answer,Even when it was wrong",
+    "shortDescription": "Проект «I was frustrated with AI giving confident answer,Even when it was wrong», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I was frustrated with AI giving confident answer,Even when it was wrong», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://demo.aqqai.in",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49692144",
+    "createdAt": "2026-09-14T06:42:19.671Z"
+  },
+  {
+    "slug": "3dbae-is-changing-the-game-of-real-time-ai-renddering-hn",
+    "title": "3dbae is changing the game of Real Time AI Renddering",
+    "shortDescription": "Проект «3dbae is changing the game of Real Time AI Renddering», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «3dbae is changing the game of Real Time AI Renddering», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://3dbae.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49691859",
+    "createdAt": "2026-09-14T06:42:19.671Z"
+  },
+  {
+    "slug": "replay-audit-silent-prompt-cache-misses-in-ai-agent-transcripts-hn",
+    "title": "Replay – Audit silent prompt cache misses in AI agent transcripts",
+    "shortDescription": "I built Replay because AI agent bills spike without a single warning or error in your logs when a prompt cache breaks. Whether your team ru…",
+    "fullDescription": "I built Replay because AI agent bills spike without a single warning or error in your logs when a prompt cache breaks. Whether your team runs Claude Code, Cursor, or Aider, the provider just silently re-bills your entire conversation history at cold-write prices instead of cached read prices. Replay is a zero-telemetry, zero-dependency local Go CLI that forensically reads your on-disk log transcripts, replays them against reverse-engineered provider caching state-machines, and names the exact turn the cache broke, the cause, and the exact token leakage. Repo: https:&#x2F;&#x2F;github.com&#x2F;RedRobotKK&#x2F;Replay Core Subcommands (What it actually does): - `replay` : Computes total avoidable re-billed cost across your local transcripts. - `replay diff &lt;transcript&gt;` : Pinpoints the exact turn the cache sharded and why. - `replay advise &lt;dir&gt;` : Outputs structural prompt optimization adjustments based on your history. - `replay context &lt;transcript&gt;` : Ranks and isolates exactly what content is bloat-filling your context window. - `replay route &lt;dir&gt; --to &lt;model&gt;` : Simulates what switching models would cost, factoring cold-start prefixes. Why Go &#x2F; Design Constraints: 1. Zero Dependency: Avoids messing with Python virtual environments or Docker runtimes for local diagnostics. 2. 100% Sandboxed: Absolutely no remote tracking, cloud accounts, or telemetry. Your prompt text never leaves your machine. 3. Mutant Testing Isolation: Keeps 76 real past defects frozen as re-runnable mutants to enforce code stability. It&#x27;s completely free and source-available (BUSL 1.1). To check your local developer logs or audit the setup script before running, use: curl -fsSL https:&#x2F;&#x2F;replay.doctor | less\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://replay.doctor/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49691257",
+    "createdAt": "2026-09-14T06:42:19.671Z"
+  },
+  {
+    "slug": "imageaicraft-gpt-image-2-image-generator-and-editor-hn",
+    "title": "Imageaicraft] – GPT Image 2 Image Generator and Editor",
+    "shortDescription": "GPT Image 2 AI Image Generator &amp; Editor for Text-to-Image and Image-to-Image Creation",
+    "fullDescription": "GPT Image 2 AI Image Generator &amp; Editor for Text-to-Image and Image-to-Image Creation\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://imageaicraft.com",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49691183",
+    "createdAt": "2026-09-14T06:42:19.671Z"
+  },
+  {
+    "slug": "i-made-a-tiny-moeengram-viz-tool-hn",
+    "title": "I made a tiny MoE/Engram viz tool",
+    "shortDescription": "As part of a ML study group I&#x27;ve been building tools to experiment with ML concepts. I use AI Coding agents to develop software, mostl…",
+    "fullDescription": "As part of a ML study group I&#x27;ve been building tools to experiment with ML concepts. I use AI Coding agents to develop software, mostly cloud-based but I keep trying local LLMs on 12G, 16G, and 24G VRAM GPUs. Freetoken has made it possible to run larger MoE models on smaller GPUs. This inspired me to use my ML tools to build a tiny MoE model from scratch so I can experiment with different agent optimizations and things like Engram, recursive models, hierarchical modeles, KV Cache compression etc. My link above shows results of building different tiny models, one dense, the rest MoE variants. There is a lot of code and tooling behind this. Goals: - build tiny MoE models that run in a browser to give interactive help (today I use deterministic matchers to respond to user queries; still researching how to improve this with better trained MoE models). - build tiny MoE models that run on small ARM and RISC-V development boards, possibly using NPUs (using no_std Rust). My tools are an alternative to Python, ML libraries, Jupyter notebooks, and Google Colab. My approach is a REPL and&#x2F;or AOT Compilable array-programming DSL written in Rust. This language has ML concepts as first class language elements and built in visualization primitives. It runs in a browser via WASM. It runs at the CLI on both Apple and Linux (supporting Apple GPU and NVIDIA GPU libraries, Ollama-based REPL context-senstive help). It is extensible via dyamic plug-in Rust libraries. I have created many demo repos showing how to use this ML array language for ML tasks, learning Math concepts, general purpose programming. You can build desktop apps, (Ruby on Rails inspired) CRUD apps. So you can create ML experiments and visualize data in the browser or on the desktop. It also supports Emacs org-mode for literate programming. This tiny MOE Microscope is just my latest demo of this approach. I hope it helps someone learn more about MoE experts, routing, Engram, etc. It helped me learn more.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://sw-ml-study.github.io/moe-microscope/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49690947",
+    "createdAt": "2026-09-14T06:42:19.671Z"
+  },
+  {
     "slug": "lulu-drawer-github",
     "title": "lulu-drawer",
     "shortDescription": "One text protocol for diagrams — AI writes it, you edit on the canvas, both stay in sync.",
