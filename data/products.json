@@ -1,5 +1,123 @@
 [
   {
+    "slug": "agentscope-java-github",
+    "title": "agentscope-java",
+    "shortDescription": "Build distributed, production-grade, long-running agents.",
+    "fullDescription": "Build distributed, production-grade, long-running agents.\n\nАвтор: agentscope-java. Найдено в GitHub Trending (AI-тематика). ⭐ 22 звёзд.",
+    "url": "https://java.agentscope.io/",
+    "category": "developer",
+    "tags": [
+      "adk",
+      "agent",
+      "agent-framework",
+      "agentic",
+      "agentic-ai",
+      "agentscope",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1369766052",
+    "createdAt": "2026-09-15T11:58:24.857Z"
+  },
+  {
+    "slug": "restarted-a-2026-remake-of-the-classic-2015-startup-generator-hn",
+    "title": "Restarted – a 2026 remake of the classic 2015 startup generator",
+    "shortDescription": "The original startup website generator by Tiff Zhang and Mike Bradley landed on Hacker News in April 2015 and has been one of my favorite l…",
+    "fullDescription": "The original startup website generator by Tiff Zhang and Mike Bradley landed on Hacker News in April 2015 and has been one of my favorite little novelties of that era ever since. It perfectly captures the saturated colors, cliché hero shots, gimmicky names, buzzword-heavy slogans, and proudly hirsute team photos of the time. A lot has changed since then, so I thought it would be fun to make a contemporary remake: https:&#x2F;&#x2F;restarted.io&#x2F; By default you get the minimalist aesthetic and clean-cut faces of 2026. The classic 2015 look is still available — just click the link at the bottom of the page or change the “z” parameter in the URL to the more familiar “s”. The universe of partner sites and competing startups is just as expansive as it ever was. The original site is entirely client-side and requires downloading all of the data tables locally. It leans on a mix of jQuery 1.11.2, Bootstrap 3.3.2, and Font Awesome 4.3.0, and if you view the source, it instantly gives away all of its secrets. For restarted.io I replaced all of that with a server-side renderer written in Go, so this time view-source tells you nothing. There are many Easter eggs in there — see how many you can find before I write them up. My original goal was to stay faithful to the 2015 appearance, and that turned out to be a technical adventure. The original&#x27;s sine-based random number generator is... the worst, and different implementations of sine give different results. The eventual solution was to extract the exact sine function from Chrome’s V8 engine, as vendored C behind cgo and as a line-by-line Go port that keeps cgo optional, so the seeds and results line up the way they used to. Both are checked against V8’s own test cases. Then I discovered a bug in the original code that made half of its vocabulary unreachable — the first half of the verb table and the second half of the noun table, exactly complementary, so nothing about the output ever looked truncated. My goal then shifted from remaking the generator as it was in 2015 to remaking the site as the authors intended it to be in 2015. Over the years several people asked for their photos to be removed, so the remake instead draws from a broad pool of era-appropriate AI-generated profiles. A perceptual hash helps keep everyone looking distinct, and there’s a bit of extra care to make sure the Wang Fangs of the world don’t appear as Irish lasses. The hero image pool is much larger now, and all the old Rio de Janeiro shots have been retired, though you’ll still recognize plenty of the 2015 photos. Have fun poking around!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://restarted.io/?z=477799172922",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49710968",
+    "createdAt": "2026-09-15T11:58:24.620Z"
+  },
+  {
+    "slug": "lm-kit-one-private-ai-on-your-infrastructure-hn",
+    "title": "LM-Kit One – private AI on your infrastructure",
+    "shortDescription": "Проект «LM-Kit One – private AI on your infrastructure», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «LM-Kit One – private AI on your infrastructure», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://lm-kit.com/products/lm-kit-one/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49710060",
+    "createdAt": "2026-09-15T11:58:24.620Z"
+  },
+  {
+    "slug": "knecht-a-tool-for-building-software-factories-for-agencies-hn",
+    "title": "Knecht, a tool for building software factories for agencies",
+    "shortDescription": "An agent that only reads and writes code is guessing whether its changes work. To maintain many projects I need one that can boot the app,…",
+    "fullDescription": "An agent that only reads and writes code is guessing whether its changes work. To maintain many projects I need one that can boot the app, run migrations, hit the page and read the actual error. So I built Knecht. A Self-hostable tool. You connect your GitHub repos and it starts each project in an isolated Docker sandbox, generated with DDEV. Inside, an agent can do what a developer does locally. Reproduce a bug, run migrations, open the page in the browser etc. Workflows can be started by triggers (Jira tickets, GitHub issues, PRs..) and can run across all projects at once, mixing AI agent steps with deterministic steps, similar to n8n. Knecht is in beta and I am looking for people who maintain many projects. Works best with DDEV projects. https:&#x2F;&#x2F;github.com&#x2F;knecht-works&#x2F;knecht-cloud https:&#x2F;&#x2F;knecht.works&#x2F;updates&#x2F;beta-tester\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://knecht.works",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49709714",
+    "createdAt": "2026-09-15T11:58:24.620Z"
+  },
+  {
+    "slug": "spec-sheets-for-humans-who-you-are-and-how-to-work-with-you-hn",
+    "title": "Spec sheets for humans – who you are and how to work with you",
+    "shortDescription": "What started as a joke (as I had the domain) turned into an MVP. Usefulness is... so far, questionable? But there are use cases where this…",
+    "fullDescription": "What started as a joke (as I had the domain) turned into an MVP. Usefulness is... so far, questionable? But there are use cases where this kind of spec could come in handy. My own spec lives at https:&#x2F;&#x2F;spec.md&#x2F;allan . Add .md to the end and you will get the markdown version. Shareable with AI agents to give them context about you or the people you work with. Feedback welcome!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://spec.md",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49709631",
+    "createdAt": "2026-09-15T11:58:24.621Z"
+  },
+  {
+    "slug": "a-reader-ranked-indian-news-platform-powered-by-feed-hn",
+    "title": "A reader ranked Indian news platform powered by feed",
+    "shortDescription": "Lokutu news brings together news articles from different sources and presents them in a simple, reader-focused format. Articles are ranked…",
+    "fullDescription": "Lokutu news brings together news articles from different sources and presents them in a simple, reader-focused format. Articles are ranked based on reader votes. The aim is to highlight the stories that readers consider important, rather than relying solely on popularity or engagement. All articles are fetched at 07 AM IST everyday and only the articles fetched on the same date are shown. The site is more similar to a newpaper, rather than real time news websites or applications.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://news.lokutu.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49709349",
+    "createdAt": "2026-09-15T11:58:24.621Z"
+  },
+  {
+    "slug": "jinfer-ai-inference-engine-for-the-jvm-ai-in-a-jar-hn",
+    "title": "Jinfer – AI inference engine for the JVM. AI in a jar",
+    "shortDescription": "Hi HN, Some would call AI on the JVM quixotic. And so, Quixotic AI was born. jinfer is an inference engine for the JVM: chat, vision, audio…",
+    "fullDescription": "Hi HN, Some would call AI on the JVM quixotic. And so, Quixotic AI was born. jinfer is an inference engine for the JVM: chat, vision, audio, embeddings, reranking, and TTS. No Python runtime, no ONNX, no Docker containers, no sidecar process, no IPC. Finally, AI in a jar. The stack underneath is built for the JVM rather than bolted onto it: toknroll: pure-Java tokenizers, zero dependencies gguf &#x2F; safetensors: read and write llama.cpp and HuggingFace model formats jam: quantized matmul kernels, competitive with llama.cpp on CPU jota: Tensor API targeting Java, C, CUDA, HIP, Metal, OpenCL, and Mojo It ships with integrations for Spring AI and LangChain4j, and is compatible with GraalVM Native Image for low-overhead, self-contained binaries with millisecond startup. This is an early release (CPU only): I&#x27;d especially like feedback on the API surface. Site: https:&#x2F;&#x2F;qxotic.ai Repo: https:&#x2F;&#x2F;github.com&#x2F;qxoticai&#x2F;qxotic\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://qxotic.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49708628",
+    "createdAt": "2026-09-15T11:58:24.621Z"
+  },
+  {
     "slug": "aiguard-github",
     "title": "AiGuard",
     "shortDescription": "AiGuard —— 本地优先的 AI 流量安全网关：本机 MITM 代理只接管 AI 域名，请求侧脱敏、响应侧流式还原，并识别七类风险信号。原文不落盘、不上传。（注意如果你需要模型直接使用token或者其他密钥进行操作，请放入白名单或关闭该功能！！！！）",
