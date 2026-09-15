@@ -1,5 +1,181 @@
 [
   {
+    "slug": "i-solved-a-12yr-math-problem-using-ai-formalized-awaiting-review-pdf-hn",
+    "title": "I solved a 12yr math problem using AI (formalized; awaiting review) [pdf]",
+    "shortDescription": "Проект «I solved a 12yr math problem using AI (formalized; awaiting review) [pdf]», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I solved a 12yr math problem using AI (formalized; awaiting review) [pdf]», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://raw.githubusercontent.com/kbr-/math-research/3979e0cc0a75dde9b845df7ec8869d033dfcd8d4/publications/bit-php-resolution-over-parities/whitepaper.pdf",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49717545",
+    "createdAt": "2026-09-15T19:58:39.649Z"
+  },
+  {
+    "slug": "know-which-pull-request-to-review-next-hn",
+    "title": "Know Which Pull Request to Review Next",
+    "shortDescription": "Проект «Know Which Pull Request to Review Next», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Know Which Pull Request to Review Next», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.coderabbit.ai/blog/coderabbit-triage",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49716838",
+    "createdAt": "2026-09-15T19:58:39.649Z"
+  },
+  {
+    "slug": "mymarkdown-make-ai-markdown-easier-to-read-hn",
+    "title": "MyMarkdown – Make AI Markdown easier to read",
+    "shortDescription": "I made a small free tool for humans (not AI) to read Markdown faster. If you build AI tools, you probably read a lot of Markdown. And you m…",
+    "fullDescription": "I made a small free tool for humans (not AI) to read Markdown faster. If you build AI tools, you probably read a lot of Markdown. And you may have noticed that as it gets bigger, it gets harder for human eyes to digest. Here, just paste your Markdown, and it makes it cleaner and easier to read. It also makes JSON much nicer, which I needed a lot. It’s free. Maybe useful for other people building AI too.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://mymarkdown.site",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49716619",
+    "createdAt": "2026-09-15T19:58:39.649Z"
+  },
+  {
+    "slug": "a-writing-coach-thats-not-allowed-to-write-your-sentences-hn",
+    "title": "A writing coach that's not allowed to write your sentences",
+    "shortDescription": "Hi HN, I&#x27;m the technical advisor and one of the co-founders for Oghmere ( https:&#x2F;&#x2F;oghmere.com ), a writing tool for people w…",
+    "fullDescription": "Hi HN, I&#x27;m the technical advisor and one of the co-founders for Oghmere ( https:&#x2F;&#x2F;oghmere.com ), a writing tool for people who care about the integrity and authenticity of their writing, including journalists, essayists, newsletter writers. Along with inkandops and notgrrly, we are bootstrapping this project to make sure we can focus on building AI tools that benefit authors without replacing them. It is very easy today for anyone to fire up a chatbot or other AI tool to write for them, and it’s a really useful tool that I use every day at my $dayjob, or to summarize and review topics I am researching or working on, but those generated texts aren’t something I care about the authenticity because they are steps to getting a job done. When I write my own opinions, fiction, or D&amp;D content, I don’t want to use generated text, I want to exercise my mind and creativity. That is the constraint we care most about in Oghmere: the AI is not allowed to generate, autocomplete, or rewrite your prose. It can ask questions and point at things in a draft you already wrote, it can even suggest changes you can make, but that&#x27;s it. This isn&#x27;t a limitation of a capability - we use Anthropic models, and are experimenting with other providers as well; they are fully capable of writing the sentence or generating text for you, but building that authenticity and working to retain it is the core tenet of the product and platform that we enforce. If you want to know how it actually holds together: there&#x27;s an authoring pipeline: Voice (built from writing that you provide, or an interview to define a target Voice) → Brief → Outline → Editor Each stage is optional, but they all yield structured data from author interactions that steers the guidance that the coaches provide. We enforce the constraints on AI authorship very simply; the AI tools that can provide coaching and feedback don’t have a mechanism to update the document directly, they can only provide review comments and feedback. There is a tooling surface for deterministic reviews like spellcheck and grammar check to recommend and apply changes, but if an author wants to leverage AI feedback, they have to rewrite their prose themselves. In addition to the coaching and feedback, we are also building in research tooling, and project and document knowledge bases, and AI powered author feedback that assess how you are writing and where you can improve. We also have a weekly writing challenge that allows authors to stretch and grow! Writing, editing, version history, and export are free and unmetered, with some AI powered wizards that can help customize and tailor the experience. There are no direct charges for basic editor features, but all AI and some other capabilities consume credits, all of which are indicated in the UX, examples include coaching passes, a voice-calibration pass, a research query. We hope to change the dependency on credits in the future, but we are still working out the longer term billing&#x2F;pricing model. You can try it without signing up using our test page (metered to 5 coaching passes): https:&#x2F;&#x2F;app.oghmere.com&#x2F;try&#x2F;HACKERNEWS2026 After you try it out, or if you want to skip trying it first, you can sign up for a free account (no card required) that includes a bundle of free credits at https:&#x2F;&#x2F;app.oghmere.com&#x2F;campaign&#x2F;HACKERNEWS2026 We would really love your feedback as we speed towards a general release, and we are happy to answer questions about how it was built and what we are planning for the future! Yvan (ygjb), Monique (inkandops), and Sandhya (notgrrly)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://app.oghmere.com/try/HACKERNEWS2026",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49716388",
+    "createdAt": "2026-09-15T19:58:39.649Z"
+  },
+  {
+    "slug": "free-tool-that-checks-if-your-etsyshopify-listing-is-eu-ready-hn",
+    "title": "Free tool that checks if your Etsy/Shopify listing is EU-ready",
+    "shortDescription": "Проект «Free tool that checks if your Etsy/Shopify listing is EU-ready», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Free tool that checks if your Etsy/Shopify listing is EU-ready», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://claude.ai/artifact/1rTtc9idTXFBcsuhPqJDoU",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49715824",
+    "createdAt": "2026-09-15T19:58:39.649Z"
+  },
+  {
+    "slug": "kobra-a-shadcn-alternative-focused-on-design-quality-hn",
+    "title": "Kobra – a Shadcn alternative focused on design quality",
+    "shortDescription": "I feel like especially post-AI, most agents default to the same Next.js &#x2F; Tailwind &#x2F; shadcn stack. It’s great for getting somethi…",
+    "fullDescription": "I feel like especially post-AI, most agents default to the same Next.js &#x2F; Tailwind &#x2F; shadcn stack. It’s great for getting something working fast, but the end result often looks and feels the same and has almost become synonymous with AI slop atp. And when your landing page looks like it was one-shotted at 2am, ppl will assume that quality translates over to your product too. Kobra is my attempt at fixing that, it&#x27;s a 1:1 replacement for shadcn&#x2F;ui and also uses the new shadcn&#x2F;lint library to help your agents maintain consistency. Heavy emphasis on stronger visual defaults and delightful interactions w&#x2F; motion.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://kobra.systems/components/input-otp",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49715737",
+    "createdAt": "2026-09-15T19:58:39.649Z"
+  },
+  {
+    "slug": "daidocs-ai-memory-as-a-plain-text-file-format-not-a-service-hn",
+    "title": "DaiDocs, AI memory as a plain-text file format, not a service",
+    "shortDescription": "Проект «DaiDocs, AI memory as a plain-text file format, not a service», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «DaiDocs, AI memory as a plain-text file format, not a service», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/Kerneta/daidocs",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49715672",
+    "createdAt": "2026-09-15T19:58:39.649Z"
+  },
+  {
+    "slug": "airmailai-a-byok-llm-chat-app-with-a-browser-extension-backend-hn",
+    "title": "AirmailAI, a BYOK LLM chat app with a browser extension backend",
+    "shortDescription": "Hi everybody! I recently launched AirmailAI: a fast, secure, and private bring-your-own-keys LLM chat app that uses a browser extension as…",
+    "fullDescription": "Hi everybody! I recently launched AirmailAI: a fast, secure, and private bring-your-own-keys LLM chat app that uses a browser extension as the backend. FAQ and design&#x2F;security info is available on the website. Happy to answer any questions!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://airmailai.net/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49715574",
+    "createdAt": "2026-09-15T19:58:39.649Z"
+  },
+  {
+    "slug": "tabpfn-35-a-tabular-foundation-model-for-messy-real-world-tables-hn",
+    "title": "TabPFN-3.5, a Tabular Foundation Model for messy real-world tables",
+    "shortDescription": "Проект «TabPFN-3.5, a Tabular Foundation Model for messy real-world tables», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «TabPFN-3.5, a Tabular Foundation Model for messy real-world tables», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 8 баллов.",
+    "url": "https://priorlabs.ai/technical-reports/tabpfn-3-5",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49715384",
+    "createdAt": "2026-09-15T19:58:39.649Z"
+  },
+  {
+    "slug": "scoopkit-an-ai-news-api-that-returns-events-not-articles-hn",
+    "title": "Scoopkit – An AI news API that returns events, not articles",
+    "shortDescription": "Проект «Scoopkit – An AI news API that returns events, not articles», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Scoopkit – An AI news API that returns events, not articles», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://scoopkit.dev/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49715271",
+    "createdAt": "2026-09-15T19:58:39.649Z"
+  },
+  {
+    "slug": "constraint-programming-in-your-ai-agent-hn",
+    "title": "Constraint Programming in Your AI Agent",
+    "shortDescription": "Проект «Constraint Programming in Your AI Agent», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Constraint Programming in Your AI Agent», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/carban/minizinc-mcp",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49715171",
+    "createdAt": "2026-09-15T19:58:39.649Z"
+  },
+  {
     "slug": "modelnap-github",
     "title": "modelnap",
     "shortDescription": "Let idle local LLMs sleep and get your Mac's memory back. A native macOS menu bar app to turn Ollama on and off and auto-free idle model RA…",
