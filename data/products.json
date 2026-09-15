@@ -1,5 +1,117 @@
 [
   {
+    "slug": "aiguard-github",
+    "title": "AiGuard",
+    "shortDescription": "AiGuard —— 本地优先的 AI 流量安全网关：本机 MITM 代理只接管 AI 域名，请求侧脱敏、响应侧流式还原，并识别七类风险信号。原文不落盘、不上传。（注意如果你需要模型直接使用token或者其他密钥进行操作，请放入白名单或关闭该功能！！！！）",
+    "fullDescription": "AiGuard —— 本地优先的 AI 流量安全网关：本机 MITM 代理只接管 AI 域名，请求侧脱敏、响应侧流式还原，并识别七类风险信号。原文不落盘、不上传。（注意如果你需要模型直接使用token或者其他密钥进行操作，请放入白名单或关闭该功能！！！！）\n\nАвтор: Technicalflight. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/Technicalflight/AiGuard",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "agents",
+      "ai",
+      "rust",
+      "security",
+      "security-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1369771755",
+    "createdAt": "2026-09-15T06:24:57.187Z"
+  },
+  {
+    "slug": "ai-product-starter-kit-github",
+    "title": "ai-product-starter-kit",
+    "shortDescription": "非技术产品经理/学生从想法到上线的 AI 产品开发开箱工具包（规则卡 + 三份技术手册 + 操作手册）",
+    "fullDescription": "非技术产品经理/学生从想法到上线的 AI 产品开发开箱工具包（规则卡 + 三份技术手册 + 操作手册）\n\nАвтор: hubooooooo. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/hubooooooo/ai-product-starter-kit",
+    "category": "no-code",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-product",
+      "llm",
+      "no-code",
+      "product-management",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1370264888",
+    "createdAt": "2026-09-15T06:24:57.187Z"
+  },
+  {
+    "slug": "opencode-dog-bark-github",
+    "title": "opencode-dog-bark",
+    "shortDescription": "opencode 智能体思考时循环播放逐渐加速的“大狗叫”，思考结束播放 5 秒长嚎“叫~~~~~~”。",
+    "fullDescription": "opencode 智能体思考时循环播放逐渐加速的“大狗叫”，思考结束播放 5 秒长嚎“叫~~~~~~”。\n\nАвтор: linksoceancat. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/linksoceancat/opencode-dog-bark",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "bark",
+      "dog",
+      "opencode-plugin",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1370087193",
+    "createdAt": "2026-09-15T06:24:57.187Z"
+  },
+  {
+    "slug": "chronicle-local-first-open-source-authoring-software-for-writers-hn",
+    "title": "Chronicle – Local-first, open-source authoring software for writers",
+    "shortDescription": "About a year and a half ago I started my writing journey by beginning to work on my first novella. During this time, I felt the need for di…",
+    "fullDescription": "About a year and a half ago I started my writing journey by beginning to work on my first novella. During this time, I felt the need for different tools, like a timeline editor, a character sheet and so on, features that were not available on normal text editors. Later I discovered that I needed an Epub exporter, cover designer and more. I also wanted something AI-free, something private. It is important for me as a debut author to know that it is my writing, not an AI&#x27;s and that it wont be used for AI training. So most cloud services were an instant &quot;NO&quot; from me. Being a software engineer by day, I decided that instead of paying hundreds of dollars for the needed tools, I could just make them the way I wanted them to be. Eventually I decided to bundle them together, polish them and add more feature. So, this is how Chronicle was born. Chronicle is a complete writing and authoring tool for writers. It offers features that other companies charge tens or even hundreds of dollars, while delivering (in my opinion) and inferior experience. I also wanted Chronicle to work fully offline, not use Gen AI in the writing process, and provide a privacy-first experience. Among the features are: - full-featured text editor with comments supports - timeline editor - character sheet - locations codex - Epub reader and exporter (including editing Epub Metadata) - Cover designer - Fully-local TTS using KokoroJS Text-to-Speech for help in proofreading - Themes - Private Cloud-storage support with WebDAV - and many more And I made Chronicle not only free, but fully open-source. You can check the source code on Github, launch the online editor which supports almost all features, or download the app for both Windows and MacOS. I would love to hear feedback. Disclaimer: In the development process I did use AI. The app is NOT made entirely by AI, but being a back-end developer mostly, I did use AI for parts related to the user interface, themes, fix some bugs and to bridge knowledge gaps I had.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://pazvanti.github.io/Chronicle/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49708069",
+    "createdAt": "2026-09-15T06:24:57.017Z"
+  },
+  {
+    "slug": "white-label-ai-voice-and-chat-agent-platform-for-resellers-hn",
+    "title": "White-label AI voice and chat agent platform for resellers",
+    "shortDescription": "Проект «White-label AI voice and chat agent platform for resellers», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «White-label AI voice and chat agent platform for resellers», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.famulor.io/whitelabel",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49708001",
+    "createdAt": "2026-09-15T06:24:57.018Z"
+  },
+  {
+    "slug": "sunk-cost-how-long-until-a-local-llm-rig-pays-for-itself-hn",
+    "title": "Sunk Cost – How long until a local LLM rig pays for itself?",
+    "shortDescription": "I kept hearing &quot;just buy a Mac and run models locally, it pays for itself&quot; and wanted to check. Sunk Cost takes a machine, a mode…",
+    "fullDescription": "I kept hearing &quot;just buy a Mac and run models locally, it pays for itself&quot; and wanted to check. Sunk Cost takes a machine, a model and how many tokens you use a day, and works out how long the hardware takes to pay back against renting the same model by the token. Obviously there are other reasons to buy your own hardware aside from just saving money on llms but this is just looking at it from a raw cost saving perspective. If you have any ideas on how I can make this more helpful lmk!\n\nНайдено в разделе Show HN на Hacker News. 👍 42 баллов.",
+    "url": "https://sunkcost.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49706656",
+    "createdAt": "2026-09-15T06:24:57.018Z"
+  },
+  {
     "slug": "medula-github",
     "title": "medula",
     "shortDescription": "🧬 control your app from inside it",
