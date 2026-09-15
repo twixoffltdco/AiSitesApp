@@ -1,5 +1,289 @@
 [
   {
+    "slug": "modelnap-github",
+    "title": "modelnap",
+    "shortDescription": "Let idle local LLMs sleep and get your Mac's memory back. A native macOS menu bar app to turn Ollama on and off and auto-free idle model RA…",
+    "fullDescription": "Let idle local LLMs sleep and get your Mac's memory back. A native macOS menu bar app to turn Ollama on and off and auto-free idle model RAM. Free and open source.\n\nАвтор: eriktaveras. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://modelnap.com",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "apple-silicon",
+      "llm",
+      "local-llm",
+      "macos",
+      "macos-app",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1370829583",
+    "createdAt": "2026-09-15T16:40:20.095Z"
+  },
+  {
+    "slug": "ai-prd-generator-github",
+    "title": "ai-prd-generator",
+    "shortDescription": "AI-powered PRD Generator Skill — Generate Product Requirements Documents through warm conversational interviews. Works with Claude Code, Co…",
+    "fullDescription": "AI-powered PRD Generator Skill — Generate Product Requirements Documents through warm conversational interviews. Works with Claude Code, Codex, OpenCode, Hermes.\n\nАвтор: Vann4799. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Vann4799/ai-prd-generator",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "claude-code",
+      "codex",
+      "documentation",
+      "fable-5",
+      "generator",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1370918731",
+    "createdAt": "2026-09-15T16:40:20.095Z"
+  },
+  {
+    "slug": "an-open-source-safety-layer-for-ai-agent-actions-hn",
+    "title": "An open source safety layer for AI agent actions",
+    "shortDescription": "Проект «An open source safety layer for AI agent actions», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An open source safety layer for AI agent actions», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/CTRLRun/ctrlrun",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49714619",
+    "createdAt": "2026-09-15T16:40:19.994Z"
+  },
+  {
+    "slug": "voice-ai-that-runs-on-cpus-hn",
+    "title": "Voice AI that runs on CPUs",
+    "shortDescription": "Проект «Voice AI that runs on CPUs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Voice AI that runs on CPUs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://lokutor.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49714400",
+    "createdAt": "2026-09-15T16:40:19.994Z"
+  },
+  {
+    "slug": "leo-a-markdown-engineering-process-for-ai-coding-agents-hn",
+    "title": "Leo – a Markdown engineering process for AI coding agents",
+    "shortDescription": "Проект «Leo – a Markdown engineering process for AI coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Leo – a Markdown engineering process for AI coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/alex-zaporozhan/leo",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49714211",
+    "createdAt": "2026-09-15T16:40:19.994Z"
+  },
+  {
+    "slug": "pizza-bot-an-inbox-for-ai-agents-that-work-in-the-background-hn",
+    "title": "Pizza Bot – An inbox for AI agents that work in the background",
+    "shortDescription": "Проект «Pizza Bot – An inbox for AI agents that work in the background», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Pizza Bot – An inbox for AI agents that work in the background», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/pizza-bot-app/pizza-bot",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49713894",
+    "createdAt": "2026-09-15T16:40:19.994Z"
+  },
+  {
+    "slug": "visual-html-a-source-preserving-wysiwyg-editor-for-ai-generated-html-hn",
+    "title": "Visual HTML – a source-preserving WYSIWYG editor for AI-generated HTML",
+    "shortDescription": "Проект «Visual HTML – a source-preserving WYSIWYG editor for AI-generated HTML», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Visual HTML – a source-preserving WYSIWYG editor for AI-generated HTML», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://kong75.github.io/visual-html-editor/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49713864",
+    "createdAt": "2026-09-15T16:40:19.994Z"
+  },
+  {
+    "slug": "loongforge-train-llms-vlms-diffusion-and-embodied-models-faster-hn",
+    "title": "LoongForge-Train LLMs, VLMs, diffusion and embodied models, faster",
+    "shortDescription": "LoongForge is an open-source training framework developed by the Baidu AI Cloud Baige team, built to deliver faster training for mainstream…",
+    "fullDescription": "LoongForge is an open-source training framework developed by the Baidu AI Cloud Baige team, built to deliver faster training for mainstream LLMs, VLMs, diffusion, and embodied models, thereby significantly reducing costs.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/baidu-baige/LoongForge",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49713630",
+    "createdAt": "2026-09-15T16:40:19.994Z"
+  },
+  {
+    "slug": "trendradar-for-horizon-scanning-and-foresight-hn",
+    "title": "Trendradar for Horizon Scanning and Foresight",
+    "shortDescription": "This is an update to our old Trendradar ( https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=45332076 ) # What changed * This trend radar…",
+    "fullDescription": "This is an update to our old Trendradar ( https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=45332076 ) # What changed * This trend radar focuses on trends in general (not only technological trends as the previous ones) * This trend radar splits individual trends into granular signals, and each signal is based one 3 or more individual sources. The idea is to provide companies a data-driven scan of the environment (horizon scanning) as a basis. With this basis, they can derive conclusions about the direction of a market. Although V2, there are still a few issues to fix, especially around self-reporting &amp; PR sources which tend to overrepresent trends. Furthermore, we are planning on expanding it to include a more diverse set of sources (especially patents &amp; GitHub), to catch changes even earlier. Ironically, AI has made web scraping per se cheaper, but overall it seems that the total costs (as a consequence of complexity and the sheer number of content) have increased.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://technologieradar.tryresearchly.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49713580",
+    "createdAt": "2026-09-15T16:40:19.994Z"
+  },
+  {
+    "slug": "epistemic-physics-bayesian-special-relativity-hn",
+    "title": "Epistemic Physics: Bayesian Special Relativity",
+    "shortDescription": "hihi hn! i made a blog post describing my framework for how to connect epistemology, statistics, physics, and other fields together! the gi…",
+    "fullDescription": "hihi hn! i made a blog post describing my framework for how to connect epistemology, statistics, physics, and other fields together! the gist of it is you treat probability as relativistic velocity, and evidence as spacetime. the post is completely and painstakingly handwritten, though i used ai for the interactive demos, some double checking, and some brainstorming. let me know what you think! i welcome corrections, suggestions, and comments, though the commenting system on my blog is untested (might be better to comment here on hn) also i know some people probably won&#x27;t like the font flair; feel free to click the a&#x2F;A button in the top right corner (or in the right menu on mobile) to switch it to normal caps if my blog goes down i archived it here https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260915142755&#x2F;https:&#x2F;&#x2F;raia.fun&#x2F;...\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://raia.fun/blog/ep-001-bayesian-special-relativity",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49713322",
+    "createdAt": "2026-09-15T16:40:19.994Z"
+  },
+  {
+    "slug": "loss-a-tiny-satire-about-ai-progress-hn",
+    "title": "Loss. a tiny satire about AI progress",
+    "shortDescription": "I wanted to parody where AI seems to be heading. You start as a manual inference unit pressing a button for the next token, then systems ta…",
+    "fullDescription": "I wanted to parody where AI seems to be heading. You start as a manual inference unit pressing a button for the next token, then systems take over; agents, sub-agents, approvals, swarms. It’s Universal Paperclips for the agentic AI era, and a small exploration of where predicting the next token might eventually take us. What’s the worst that could happen?\n\nНайдено в разделе Show HN на Hacker News. 👍 11 баллов.",
+    "url": "https://workatloss.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49712891",
+    "createdAt": "2026-09-15T16:40:19.994Z"
+  },
+  {
+    "slug": "eacl-is-a-situated-rebac-authorization-library-for-datomic-and-datahike-hn",
+    "title": "EACL is a situated ReBAC authorization library for Datomic and Datahike",
+    "shortDescription": "EACL is a situated ReBAC authorization library inspired by SpiceDB &amp; Google Zanzibar, built in Clojure and backed by Datomic Pro, Datah…",
+    "fullDescription": "EACL is a situated ReBAC authorization library inspired by SpiceDB &amp; Google Zanzibar, built in Clojure and backed by Datomic Pro, Datahike, Datalevin or DataScript. EACL is suitable for multi-Peer deployments. I have been working on EACL for ~2 years in my personal capacity and I use it in all my Clojure projects now. - You can try the EACL performance demo: https:&#x2F;&#x2F;demo.eacl.dev&#x2F; - And play with EACL Drive, a toy clone of Google Drive: https:&#x2F;&#x2F;drive.eacl.dev&#x2F; (runs in-browser on DataScript) EACL can efficiently answer questions like: - &quot;Does &lt;subject&gt; have &lt;permission&gt; on &lt;resource&gt;?&quot; via `eacl&#x2F;can?` or `eacl&#x2F;check-permission` - &quot;Which &lt;resources&gt; does &lt;subject&gt; have &lt;permission&gt; for?&quot; via `eacl&#x2F;lookup-resources` - &quot;Which &lt;subjects&gt; have &lt;permission&gt; on &lt;resource&gt;?&quot; via `eacl&#x2F;lookup-subjects` EACL supports four Consistency Modes that map to SpiceDB&#x27;s consistency semantics, so you can run these queries against the database as-of now, or &lt;N seconds ago&gt; via `at-least-as-fresh` semantics for better cache reuse. SpiceDB is the most faithful open-source implementation of Google Zanzibar, and is used OpenAI, Reddit and Netflix. Zanzibar powers Google Drive, YouTube, Gmail and Google Calendar, serving billions of authorization requests per day over billions of Relationships. &quot;Situated&quot; here means that permission data co-exist with your application data. This has several advantages over external AuthZ: - Reduced network latency (no network hop to external system), - Strong local consistency, - Scale reads by scaling Peers horizontally, and - Real-time UI view maintenance – tail the tx-log and run `eacl&#x2F;lookup-subjects` for changed permissioned entities and notify online users of novelty, instead of polling or re-querying for all online users. Rationale: I spent the better half of 2024 integrating with SpiceDB at a former employer. SpiceDB is great, but it becomes non-trivial to keep an external authorization system in-sync, especially when there is an impedance mismatch between your data and SpiceDB’s 3-tuple Relationship schema. Plus, you also have to deal with eventual consistency. So, you change your data model to match the Spice schema to make syncing easier. Now you can tail the transactor log via `d&#x2F;listener` and write Relationship changes 1-for-1. But once you do that, you might as well run your permission queries in your application and then you have one less system to deal with...and this is exactly what EACL does. You still retain the option to migrate to SpiceDB later. EACL is aimed at a different scale from SpiceDB: Spice is benchmarked against 100B Relationships. EACL aims for ~1-100M Relationships in a situated environment, but there is no reason it won&#x27;t scale further if you scale out Peers. EACL is open-source under EPL 2.0.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/theronic/eacl",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49712785",
+    "createdAt": "2026-09-15T16:40:19.994Z"
+  },
+  {
+    "slug": "bulkgrid-search-websites-and-github-repositories-from-your-ai-agent-hn",
+    "title": "Bulkgrid – Search websites and GitHub repositories from your AI agent",
+    "shortDescription": "Bulkgrid gives AI agents searchable knowledge from sources you choose and trust. You can use existing public sources or index a website or…",
+    "fullDescription": "Bulkgrid gives AI agents searchable knowledge from sources you choose and trust. You can use existing public sources or index a website or GitHub repository. Bulkgrid will process the content, check for changes automatically and provide relevant passages with references for your AI agent. The sources can also be curated into collections if you have agents that are doing recurring work and need reliable knowledge for that. Private repositories can be connected through GitHub and stay private to your workspace. You can connect through MCP, REST API or TypeScript and Python SDKs or use our CLI. Any feedback would be welcome! Website: https:&#x2F;&#x2F;bulkgrid.com Repository: https:&#x2F;&#x2F;github.com&#x2F;bulkgrid&#x2F;bulkgrid\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://bulkgrid.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49712405",
+    "createdAt": "2026-09-15T16:40:19.994Z"
+  },
+  {
+    "slug": "capsule-single-file-web-apps-that-save-their-data-into-sqlite-hn",
+    "title": "Capsule – Single-file web apps that save their data into SQLite",
+    "shortDescription": "Hey HN, I always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and…",
+    "fullDescription": "Hey HN, I always had the problem that building HTML pages is really simple now, but trying to save data required hosting it somewhere, and sharing it afterwards was not easy. Over the last few months, I&#x27;ve been building an app called Capsule (it’s also the file extension name) written in Rust with Tauri 2.0 that allows packing an HTML app and its data into a single SQLite file. The HTML file and any related assets are directly embedded in the database. User data can either be saved as a localStorage key&#x2F;value store or via a MongoDB-inspired collections API as documents, saved in a table in the file. You can also save other assets, like PDF files or images, directly in the database to keep different documents together. All data can be easily exported to CSV or JSON if needed. Privacy and security were a big priority for me, so documents cannot do anything out of the box. They don’t have direct access to the file system and they require permission to access the internet. The permission model is still something I’m working to improve. Capsule documents can also use local or remote AI models for document specific AI features. One downside with this approach is that multiple people working on it will create different copies. To make it possible to merge different copies of the same file, each data entry has a unique UUID and timestamp. I’m planning to open up the file format specification for the 1.0 version of the app so other apps can read or write Capsule files. You can try it out in the web preview at https:&#x2F;&#x2F;withcapsule.app&#x2F;preview with pre-built templates or use any AI provider of your choice to create a custom, Capsule-optimized app by using the following prompt: &quot;Please read the app wizard instructions at https:&#x2F;&#x2F;withcapsule.app&#x2F;prompt.txt and help me design an app.“ I’m still working on the file format but there are migrations for each new version, so data should never be lost when using newer versions of the app in the future. Please let me know if you have any ideas or use cases where this might make sense or does not work.\n\nНайдено в разделе Show HN на Hacker News. 👍 123 баллов.",
+    "url": "https://withcapsule.app/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49712278",
+    "createdAt": "2026-09-15T16:40:19.994Z"
+  },
+  {
+    "slug": "llmbridge-a-c-llm-gateway-with-sub-millisecond-overhead-hn",
+    "title": "Llmbridge, a C++ LLM gateway with sub-millisecond overhead",
+    "shortDescription": "Проект «Llmbridge, a C++ LLM gateway with sub-millisecond overhead», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Llmbridge, a C++ LLM gateway with sub-millisecond overhead», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/kottos-ai/llmbridge",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49712158",
+    "createdAt": "2026-09-15T16:40:19.994Z"
+  },
+  {
+    "slug": "prokop-open-source-ai-coding-workspace-with-cross-project-memory-hn",
+    "title": "Prokop – Open-source AI coding workspace with cross-project memory",
+    "shortDescription": "Проект «Prokop – Open-source AI coding workspace with cross-project memory», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Prokop – Open-source AI coding workspace with cross-project memory», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/capek-dev/prokop",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49712098",
+    "createdAt": "2026-09-15T16:40:19.994Z"
+  },
+  {
+    "slug": "nenya-0-deps-ai-gateway-redacts-secrets-before-they-reach-providers-hn",
+    "title": "Nenya – 0-deps AI gateway redacts secrets before they reach providers",
+    "shortDescription": "Проект «Nenya – 0-deps AI gateway redacts secrets before they reach providers», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Nenya – 0-deps AI gateway redacts secrets before they reach providers», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/gumieri/nenya",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49711809",
+    "createdAt": "2026-09-15T16:40:19.994Z"
+  },
+  {
     "slug": "agentscope-java-github",
     "title": "agentscope-java",
     "shortDescription": "Build distributed, production-grade, long-running agents.",
