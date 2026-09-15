@@ -1,5 +1,147 @@
 [
   {
+    "slug": "medula-github",
+    "title": "medula",
+    "shortDescription": "🧬 control your app from inside it",
+    "fullDescription": "🧬 control your app from inside it\n\nАвтор: posva. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://github.com/posva/medula",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "codex",
+      "debug",
+      "devtools",
+      "mcp",
+      "next",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1369664553",
+    "createdAt": "2026-09-15T01:09:19.760Z"
+  },
+  {
+    "slug": "ferrin-github",
+    "title": "ferrin",
+    "shortDescription": "AI SDK for Rust: text generation, streaming, tools with approval, agents, structured output, MCP client and more modalities across OpenAI,…",
+    "fullDescription": "AI SDK for Rust: text generation, streaming, tools with approval, agents, structured output, MCP client and more modalities across OpenAI, Anthropic, Google and OpenAI-compatible providers\n\nАвтор: f4tumnigrum. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/f4tumnigrum/ferrin",
+    "category": "developer",
+    "tags": [
+      "agents",
+      "ai",
+      "anthropic",
+      "gemini",
+      "llm",
+      "mcp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1367855281",
+    "createdAt": "2026-09-15T01:09:19.761Z"
+  },
+  {
+    "slug": "dsh-deepseek-web-github",
+    "title": "dsh-deepseek-web",
+    "shortDescription": "DeepSeek Harness 插件：侧边栏内嵌[chat.deepseek.com](https://chat.deepseek.com)网页版对话，无需 API Key，不消耗 DSH 会话 Token，支持 Web 与 Electron 桌面端。",
+    "fullDescription": "DeepSeek Harness 插件：侧边栏内嵌[chat.deepseek.com](https://chat.deepseek.com)网页版对话，无需 API Key，不消耗 DSH 会话 Token，支持 Web 与 Electron 桌面端。\n\nАвтор: RUO-MO. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/RUO-MO/dsh-deepseek-web",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "electron",
+      "plugin",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1368524104",
+    "createdAt": "2026-09-15T01:09:19.761Z"
+  },
+  {
+    "slug": "nanogpt-amp-github",
+    "title": "nanogpt-amp",
+    "shortDescription": "My take on nanoGPT, implementing Automatic Mixed Precision and support for HF datasets.",
+    "fullDescription": "My take on nanoGPT, implementing Automatic Mixed Precision and support for HF datasets.\n\nАвтор: shreyanth-sureshkrishnaa. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/shreyanth-sureshkrishnaa/nanogpt-amp",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "colab-notebook",
+      "gpt",
+      "llms",
+      "nanogpt",
+      "pytorch",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1368624200",
+    "createdAt": "2026-09-15T01:09:19.761Z"
+  },
+  {
+    "slug": "real-time-smoke-fire-detection-system-github",
+    "title": "Real-Time-Smoke-Fire-Detection-System",
+    "shortDescription": "This end-to-end Computer Vision application uses custom-trained YOLO11 weights to detect fire and smoke across multiple input sources, incl…",
+    "fullDescription": "This end-to-end Computer Vision application uses custom-trained YOLO11 weights to detect fire and smoke across multiple input sources, including images, videos, and live webcam streams.\n\nАвтор: mirzayasirabdullahbaig07. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://real-time-smoke-fire-detection-system.streamlit.app/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "computer-vision",
+      "cv",
+      "fire-detection",
+      "machine-learning",
+      "python",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1368432039",
+    "createdAt": "2026-09-15T01:09:19.761Z"
+  },
+  {
+    "slug": "superopt-linux-shortcuts-on-mac-hn",
+    "title": "SuperOpt – Linux Shortcuts on Mac",
+    "shortDescription": "so as a long time Fedora user I just got a macbook for work. while it&#x27;s so much faster than my old Fedora-based work laptop, it&#x27;s…",
+    "fullDescription": "so as a long time Fedora user I just got a macbook for work. while it&#x27;s so much faster than my old Fedora-based work laptop, it&#x27;s also running macOS... which I really don&#x27;t want to learn or get used to. i tried a Fedora VM on the Macbook and even then the modifier keys are still garbled. my friends kept telling i&#x27;d simply get used to macOS but i&#x27;d like to stick to what i know.. instead of spending some time adjusting to macOS, i spent a few days with an LLM to create a program which uses macOS accessibility features as well as private APIs to make the experience as close to my Fedora computer as possible. it adds some features like a close button in mission control, &quot;snap assist&quot; from windows 10, and the option to remap various keyboard shortcuts to their &quot;normal&quot; equivalents (e.g., ctrl+c -&gt; cmd+c). of course everything can be turned individually on or off. i feel a lot more confident using macOS now after this now that the majority of my muscle memory can transfer over to macos. since the code is written by AI it&#x27;s licensed under WTFPL. (are AI-generated works even copyrightable?) source code is here: https:&#x2F;&#x2F;github.com&#x2F;logonoff&#x2F;superopt\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://logonoff.co/superopt/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49706269",
+    "createdAt": "2026-09-15T01:09:19.640Z"
+  },
+  {
+    "slug": "an-open-source-control-plane-for-your-companys-ai-agents-hn",
+    "title": "An open-source control plane for your company's AI agents",
+    "shortDescription": "Проект «An open-source control plane for your company's AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An open-source control plane for your company's AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/vstorm-co/agenticos",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49705577",
+    "createdAt": "2026-09-15T01:09:19.641Z"
+  },
+  {
     "slug": "mcp-github",
     "title": "Mcp",
     "shortDescription": "Build MCP servers for your LaraGram applications.",
