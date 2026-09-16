@@ -1,5 +1,97 @@
 [
   {
+    "slug": "kindle-anki-github",
+    "title": "kindle-anki",
+    "shortDescription": "Study Anki .apkg decks on a jailbroken Kindle with KOReader. Desktop converter + KOReader plugin. Not official Anki.",
+    "fullDescription": "Study Anki .apkg decks on a jailbroken Kindle with KOReader. Desktop converter + KOReader plugin. Not official Anki.\n\nАвтор: yizhixiaoheigou. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/yizhixiaoheigou/kindle-anki",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "anki",
+      "eink",
+      "flashcards",
+      "kindle",
+      "koreader",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1370714199",
+    "createdAt": "2026-09-16T06:23:53.304Z"
+  },
+  {
+    "slug": "ivxai-app-github",
+    "title": "ivxai-app",
+    "shortDescription": "Desktop and Mobile App for ivx AI Chat Interface ",
+    "fullDescription": "Desktop and Mobile App for ivx AI Chat Interface \n\nАвтор: ivxlabs. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://ai.ivx.run/chat",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-tools",
+      "artificial-intelligence",
+      "chat-app",
+      "chat-application",
+      "chatapp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1369533004",
+    "createdAt": "2026-09-16T06:23:53.304Z"
+  },
+  {
+    "slug": "alternative-linux-builder-for-nix-on-darwin-hn",
+    "title": "(alter)native-Linux-builder for Nix on Darwin",
+    "shortDescription": "A swift-based binary that can be used as an external builder for nix (via external-builders experimental feature) to build linux packages o…",
+    "fullDescription": "A swift-based binary that can be used as an external builder for nix (via external-builders experimental feature) to build linux packages on darwin without having to setup a full remote build VM. This project aims to reproduce the functionality of Determinate Nix&#x27;s native-linux-builder for upstream Nix installs. It also provides a Nix-darwin module to configure the external builder.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/quinneden/alternative-linux-builder",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49721253",
+    "createdAt": "2026-09-16T06:23:53.190Z"
+  },
+  {
+    "slug": "whop-video-downloader-hn",
+    "title": "Whop Video Downloader",
+    "shortDescription": "Keep learning when you&#x27;re away from Wi-Fi. Whop Video Downloader lets you save supported Whop course videos to your computer and revis…",
+    "fullDescription": "Keep learning when you&#x27;re away from Wi-Fi. Whop Video Downloader lets you save supported Whop course videos to your computer and revisit them whenever it suits you.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://chromewebstore.google.com/detail/whop-video-downloader/aijaloilljdgamclcoababimlnahoemm",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49721211",
+    "createdAt": "2026-09-16T06:23:53.190Z"
+  },
+  {
+    "slug": "thurbox-a-tmux-based-tui-and-cli-for-local-ai-agent-orchestration-hn",
+    "title": "Thurbox – A tmux-based TUI and CLI for local AI agent orchestration",
+    "shortDescription": "Проект «Thurbox – A tmux-based TUI and CLI for local AI agent orchestration», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Thurbox – A tmux-based TUI and CLI for local AI agent orchestration», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/Thurbeen/thurbox",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49721082",
+    "createdAt": "2026-09-16T06:23:53.190Z"
+  },
+  {
     "slug": "autoreview-github",
     "title": "AutoReview",
     "shortDescription": "AI-powered Google Business Profile review management with human approval, risk controls, and auditable publishing workflows.",
