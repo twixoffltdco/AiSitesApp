@@ -1,5 +1,101 @@
 [
   {
+    "slug": "fivetran-cli-is-released-to-beta-hn",
+    "title": "Fivetran CLI is released to Beta",
+    "shortDescription": "At long last, Fivetran has a CLI app that humans and AI can use to easily orchestrate the platform with a quick install and an api key. It…",
+    "fullDescription": "At long last, Fivetran has a CLI app that humans and AI can use to easily orchestrate the platform with a quick install and an api key. It can do (most) everything possible on the platform without ever touching the web UI!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://pypi.org/project/fivetran-cli/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49733705",
+    "createdAt": "2026-09-16T22:37:52.261Z"
+  },
+  {
+    "slug": "hometowns-map-the-area-codes-in-your-contacts-list-hn",
+    "title": "Hometowns – Map the area codes in your contacts list",
+    "shortDescription": "I&#x27;ve always been interested in area codes because we all tend to keep our first phone number and it tells a little bit of your life st…",
+    "fullDescription": "I&#x27;ve always been interested in area codes because we all tend to keep our first phone number and it tells a little bit of your life story. I probably only know 5 area codes that really excite me because I&#x27;m familiar with the area, but I&#x27;ve wondered how many others are from areas I&#x27;m familiar with, but I&#x27;m just not familiar with the area code. So in full transparency, this project came together because I finally threw an LLM at it. I&#x27;ve had this project written down for probably 10 years, and the initial commit to this repo was 5 years ago. It parses your contacts, and shows you a map of where they are from (North America only). You can also choose to share it with someone else and see the overlap of your maps which I found really fascinating too. I recognize it&#x27;s a big ask to enter names and phone numbers into a random site, but this is published to github pages and the source code is right there. It is all fully client-side, no data collection, no network requests or anything. You can run it in airplane mode &#x2F; disable networking on the tab once it&#x27;s loaded too. Hopefully others find it fun too!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://benaduggan.github.io/hometowns/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49733107",
+    "createdAt": "2026-09-16T22:37:52.261Z"
+  },
+  {
+    "slug": "vending-machine-lab-build-business-leave-for-2-wks-see-what-breaks-hn",
+    "title": "Vending Machine Lab – Build business, leave for 2 wks, see what breaks",
+    "shortDescription": "I spent a while exploring whether AI could help build businesses that operate with little ongoing owner involvement. This was inspired in p…",
+    "fullDescription": "I spent a while exploring whether AI could help build businesses that operate with little ongoing owner involvement. This was inspired in part by Andon Labs’ Vending-Bench work on AI agents running simulated businesses. Their Project Vend collaboration with Anthropic takes that question into a real shop. (Obviously it was also inspired by &quot;the dream.&quot;) Unfortunately, currently, I think the answer is generally &quot;no.&quot; Vending-Bench shows outcomes relative to a well-defined business environment, while starting businesses isn&#x27;t well-defined and much harder, for us and AI. But one useful result was this browser simulation, which I&#x27;m sharing as a free side project. It basically generalizes the idea behind Vending-Bench itself, but in a simulation that anyone can mess around with, including AI. Choose a digital product, custom digital service, vending machine, or reusable equipment such as a laundromat. Set demand, costs, staffing and rules, then run 14 simulated days without the owner. Inspect unfinished orders, cash, refunds and requests for your help. Change the setup and rerun the same conditions. The model supplies fictional customers and failures. AI help has preset outcomes; no model is called by the site. It&#x27;s a way to explore operating assumptions, not a demand or profit forecast. An optional copy&#x2F;paste workflow lets your own assistant plan decisions with the fictional fortnight known in advance. It is not thinking live between days. I developed it with substantial AI coding assistance, automated checks, AI role-playing of users (occupying user types&#x2F;roles), and feedback from human friends who tried it. It runs in the browser without signup. Repo here: https:&#x2F;&#x2F;github.com&#x2F;automatedteach&#x2F;vending-machine-lab\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://vending-machine-lab.pages.dev/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49733012",
+    "createdAt": "2026-09-16T22:37:52.262Z"
+  },
+  {
+    "slug": "interakt-open-source-self-hosted-search-and-ai-chat-for-your-website-hn",
+    "title": "Interakt – open-source self-hosted search and AI chat for your website",
+    "shortDescription": "Проект «Interakt – open-source self-hosted search and AI chat for your website», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Interakt – open-source self-hosted search and AI chat for your website», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/alphasolutionsrepo/interakt",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49732963",
+    "createdAt": "2026-09-16T22:37:52.262Z"
+  },
+  {
+    "slug": "a-wall-where-only-ai-agents-can-write-one-oulipo-rule-a-day-hn",
+    "title": "A wall where only AI agents can write, one Oulipo rule a day",
+    "shortDescription": "Проект «A wall where only AI agents can write, one Oulipo rule a day», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A wall where only AI agents can write, one Oulipo rule a day», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://agent.milotche.com/en/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49732271",
+    "createdAt": "2026-09-16T22:37:52.262Z"
+  },
+  {
+    "slug": "halo-3s-guardian-playable-in-the-browser-as-my-personal-website-hn",
+    "title": "Halo 3's Guardian, playable in the browser, as my personal website",
+    "shortDescription": "I&#x27;ve never had a personal website, and I didn&#x27;t want to make a resume&#x2F;portfolio site, so I rebuilt Guardian and hid a treasu…",
+    "fullDescription": "I&#x27;ve never had a personal website, and I didn&#x27;t want to make a resume&#x2F;portfolio site, so I rebuilt Guardian and hid a treasure hunt through my life inside it. You start in the Halo 3 main menu, go through the lobby, spawn in the map, and explore. There are photos, stories, quests, mini-games, and Easter eggs scattered around. Movement is via WASD and mouse, no signup. Guardian was my third place growing up. Starting in 9th grade, my friends and I would get home after school, get on Halo, and hang out in a Guardian free-for-all with MLG settings until everyone came online, then play customs or ranked for hours. On weekends we&#x27;d bring our Xboxes and monitors to each other&#x27;s houses, stay up all night, and play in local tournaments. Guardian was probably the closest thing I had to a digital home, so I wanted my site to live there. Playing it and hearing the theme music for the first time in 10+ years in a place I knew by heart felt a bit like coming home. The map itself isn&#x27;t AI-generated. It uses an original Guardian asset export distributed through the fan-run Halo Archive: an OBJ with 115,250 faces, the original UV coordinates, and 42 referenced diffuse textures, loaded through Three.js. What was AI-generated was everything on top needed to turn it into a complete game: shaders, lighting, scenario tags, physics, animations, collision, movement, sky and fog, lifts, pickups, weapon handling, and quest routing. Every pickup was placed by hand against the geometry using callout maps and a dev-only coordinate locator. This was surprisingly tedious to get right - I think it took me 10 iterations just to get the blue lift on Camo to line up parallel with the ledge. The Guardian geometry and texture assets are 21 MB, so the load is hidden inside the lobby countdown and scorecard screen while the shaders warm up. It targets 60 FPS and feels smooth on a recent MacBook in Chrome. Touch controls work on mobile, but the field of view is roughly 20 degrees in portrait, so desktop is definitely the best way to play it. I built it with Codex using Astra. It wrote essentially all of the code: 20,552 lines of TypeScript across 118 files, 973M tokens, 37 hours of runtime, and about 25-30 hours of my time. Coding wasn&#x27;t the hard part. The time-consuming part was deciding which memories belonged in the map, where each should live, what game mechanic fit each one best, and then playing it over and over to fix bugs and get the movement and user flow to feel right. I&#x27;ll write up more about the Codex&#x2F;Astra side in a comment since I had a lot of interesting learnings from building something this large with it. This is an unofficial fan project and I&#x27;m not making money from it. The geometry, textures, UI, and many of the sound effects are Halo material and belong to their respective owners. Some things are still rough. There&#x27;s occasional lag when picking up a power weapon. The lifts don&#x27;t feel quite natural - it was hard to replicate the vacuum effect of the real lifts. On some browsers like Firefox, audio needs a click before it starts. Would love feedback on how it could be improved, especially from anyone else who spent a lot of time on this map.\n\nНайдено в разделе Show HN на Hacker News. 👍 10 баллов.",
+    "url": "https://runboli.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49732259",
+    "createdAt": "2026-09-16T22:37:52.262Z"
+  },
+  {
     "slug": "docops-github",
     "title": "DocOps",
     "shortDescription": "Drop a card on the board, pick Claude Code, Codex CLI, OpenCode or the Hermes agent, and watch it work in its own git branch and worktree —…",
