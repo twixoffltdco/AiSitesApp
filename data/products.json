@@ -1,5 +1,167 @@
 [
   {
+    "slug": "thinkingspace-github",
+    "title": "Thinkingspace",
+    "shortDescription": "非线性 AI 思维工作空间：以 Topic 为认知单元、以 Branch 扩展思考、以 Map 导航全局，把 AI 对话从一条时间线变成可以探索的思维空间。",
+    "fullDescription": "非线性 AI 思维工作空间：以 Topic 为认知单元、以 Branch 扩展思考、以 Map 导航全局，把 AI 对话从一条时间线变成可以探索的思维空间。\n\nАвтор: Tommy-hang. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://tommy-hang.github.io/Thinkingspace/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "byok",
+      "conversation-map",
+      "deepseek",
+      "knowledge-graph",
+      "knowledge-management",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1371061287",
+    "createdAt": "2026-09-16T11:54:42.120Z"
+  },
+  {
+    "slug": "who-let-the-agents-act-github",
+    "title": "Who-Let-The-Agents-Act",
+    "shortDescription": "Who Let the Agents Act? is an interactive agentic-security lab exploring how AI agents use tools, access data, and make decisions. Compare…",
+    "fullDescription": "Who Let the Agents Act? is an interactive agentic-security lab exploring how AI agents use tools, access data, and make decisions. Compare vulnerable, prompt-only, and hardened agents to see why prompts are not security boundaries and how authorization, least privilege, data projection, output controls, etc. keep agents safe.\n\nАвтор: rewanthtammana. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://rewanthtammana.com/who-let-the-agents-act/",
+    "category": "ai-tool",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "ai-security",
+      "infosec",
+      "security",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1369603910",
+    "createdAt": "2026-09-16T11:54:42.120Z"
+  },
+  {
+    "slug": "tufanai-github",
+    "title": "TufanAI",
+    "shortDescription": "🌪️ Run 100B Frontier AI on 8GB RAM Potato PCs without GPU. Ultra-lightweight (100MB) Ollama & LM Studio alternative with autonomous agent…",
+    "fullDescription": "🌪️ Run 100B Frontier AI on 8GB RAM Potato PCs without GPU. Ultra-lightweight (100MB) Ollama & LM Studio alternative with autonomous agent tools.\n\nАвтор: CyberPrince-Alien. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://cyberprince-alien.github.io/TufanAI/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "android",
+      "autonomous-agents",
+      "deepseek-r1",
+      "lmstudio-alternative",
+      "local-llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1369897289",
+    "createdAt": "2026-09-16T11:54:42.120Z"
+  },
+  {
+    "slug": "freeform-one-click-shareable-ai-generated-apps-hn",
+    "title": "Freeform – One click shareable AI generated apps",
+    "shortDescription": "TLDR: Curious if YC startup requests are a valid take, so I built freeform in a weekend. Storytime: I’ve been working on a startup for a wh…",
+    "fullDescription": "TLDR: Curious if YC startup requests are a valid take, so I built freeform in a weekend. Storytime: I’ve been working on a startup for a while (another context layer startup) and one night while I had One Piece playing in the background and I was going through YCs request for startups list. I was watching the videos and reading the transcripts when two of them particularly stood out to me: cloud for small apps and shareable apps. Specifically the quote “AI hasn&#x27;t had its multiplayer moment yet”. I had an idea floating in my head for a collaborative app which I thought would be nice to have and haven’t seen anyone implement anything like it yet (maybe so, I live under a rock). So having a free weekend and a claude pro subscription I started building Freeform. I didn’t count how many hours it took overall but it was about ~4.5 days total. I figured I should post about it since I’m curious if YCs startup direction is… well.. market driven. Anyway, this isn’t a reflection of YCs predictions obviously but more so a loose experiment of my interpretation and implementation of said ideas. Application: Freeform. What is it? I’d loosely describe it as an ai canva since a lot of the direct output is design driven and based on what you see. However, I think the functionality exceeds that as each applet is its own sandboxed environment with persistent storage. This and being able to inject your own api keys or just random links from the web (ie unsplash) results in some pretty interesting creations. The core component I wanted was sharing and collaboration, so I designed the entire idea around sharing links, previewing, and simultaneous prompt based collaboration with versioning. Anyway, try it out I hope you like it :) Try it here: https:&#x2F;&#x2F;sharefreeform.com Some stuff I made: A product page with stripe integration on checkout: https:&#x2F;&#x2F;sharefreeform.com&#x2F;a&#x2F;d0e55aff-8aec-45dc-9874-5dc1b943... A record player that plays midi and itunes music: https:&#x2F;&#x2F;sharefreeform.com&#x2F;a&#x2F;661d308e-1751-49c3-bd68-f7a58c05... PS: I didn’t put a lot of credits to the llm or sandbox pool so if you run into any issues (or bugs) just shoot me an email here: hello@sharefreeform.com Also if you decide to make something feel free to email it to me or post it in the thread Thanks!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://sharefreeform.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49725268",
+    "createdAt": "2026-09-16T11:54:41.931Z"
+  },
+  {
+    "slug": "gescom-minidisc-runner-88-tracks-88-possible-orders-hn",
+    "title": "Gescom MiniDisc Runner – 88 tracks, 88! possible orders",
+    "shortDescription": "NOTE: For a full backstory on this project, please see my blog post here which explains the absurd mathematics behind this unique music alb…",
+    "fullDescription": "NOTE: For a full backstory on this project, please see my blog post here which explains the absurd mathematics behind this unique music album. I hope you enjoy it! Blog Post: https:&#x2F;&#x2F;ei3lh.eu&#x2F;2026&#x2F;09&#x2F;13&#x2F;gescom-minidisc-and-mind-bogglin... Hello! I made a small Python program to solve a completely unnecessary problem: listening to Gescom&#x27;s 1998 &#x27;MiniDisc&#x27; album in every possible order. The album has 88 pieces, which gives us: 88! = 1.8548264225739844 × 10^134 possible sequences. Obviously, making a playlist containing all of them would incur a slight storage problem! So instead, &#x27;Gescom Runner&#x27; generates one 88-track M3U at a time, hands it to VLC (or player of your choice), waits for the playlist to finish, records where it got to, and generates the next permutation. It can resume after rebooting, jump directly to a particular permutation, and doesn&#x27;t need to store the astronomical number of playlists. The complete journey would take approximately 2.37 × 10^130 years, so I&#x27;m reasonably confident nobody will be filing a completion report anytime soon! For transparency, I used AI and Wolfram to help write and document the code, and I&#x27;ve included that disclosure in the repository readme.md. The music isn&#x27;t included — you provide your own legally obtained copy. GitHub: https:&#x2F;&#x2F;github.com&#x2F;EI3LH&#x2F;Gescom-MiniDisc-Runner I am no mathematician or hardcore developer, just a (very amateur) curious hobbyist, but I am particularly interested in whether there are interesting ways to improve the permutation generation, playback handling, or the general absurdity of the project. Thank you! EI3LH\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/EI3LH/Gescom-MiniDisc-Runner",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49724628",
+    "createdAt": "2026-09-16T11:54:41.931Z"
+  },
+  {
+    "slug": "modern-rss-reader-with-social-capabilities-based-on-at-proto-hn",
+    "title": "Modern RSS reader with social capabilities based on AT Proto",
+    "shortDescription": "Hey HN! The web is a bit broken and looking at social medias like X makes me a bit depressed. I feel like the original content that we had…",
+    "fullDescription": "Hey HN! The web is a bit broken and looking at social medias like X makes me a bit depressed. I feel like the original content that we had before on a multitude of website has been replaced by ton of click-bait content that just want impressions and reactions. I would like us to go back to simpler times, where everyone had their publishing space (their website, or an hosted solution) and everyone could subscribe to it in their own software and do what they want with their feed. I still think that social is important, like sharing, because afterall it&#x27;s what made social networks interesting in the first place, but it should happen outside of where the content is. That&#x27;s why I wanted to build an RSS reader that is respectful of this principle of federation: no in-app reader, just RSS subscriptions. And I&#x27;ve added social capabilities based on the AT Protocol, like sharing &#x2F; liking and following people. The project was coded with AI, but it&#x27;s my convictions that I&#x27;ve put it in. It&#x27;s self-hostable and I hope that more and more people will be convinced to publish on their own website instead of X &#x2F; Bluesky.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://sunred.app/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49724533",
+    "createdAt": "2026-09-16T11:54:41.932Z"
+  },
+  {
+    "slug": "i-built-a-digital-wrap-tool-for-tesla-owners-hn",
+    "title": "I built a digital wrap tool for Tesla owners",
+    "shortDescription": "A while ago, I showed some friends a Tesla digital wrap I&#x27;d made in Photoshop. These wraps change how the car model looks on the Tesla…",
+    "fullDescription": "A while ago, I showed some friends a Tesla digital wrap I&#x27;d made in Photoshop. These wraps change how the car model looks on the Tesla screen and in the app. They asked me how I&#x27;d made it, so I shared a tutorial with them. But they weren&#x27;t familiar with Photoshop and eventually gave up. I also saw other Tesla owners online running into the same problem. So I built Tesla Wrap Studio using the official templates from Tesla&#x27;s GitHub repository. It has a gallery of ready-made wraps you can download for free, plus an online editor for creating your own designs. You can work with your own images and text, see the results in 3D as you edit, or use AI to generate a design.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://teslawrap.studio",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49724174",
+    "createdAt": "2026-09-16T11:54:41.932Z"
+  },
+  {
+    "slug": "ai-accounting-harness-for-finance-teams-hn",
+    "title": "AI accounting harness for finance teams",
+    "shortDescription": "We&#x27;ve been working on solving accounting and making it truly autonomous and silent. looking for critical feedback &amp; if this is som…",
+    "fullDescription": "We&#x27;ve been working on solving accounting and making it truly autonomous and silent. looking for critical feedback &amp; if this is something you&#x27;d like to use lmk Solving for India currently, expanding to other geo soon.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://totumai.in",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49723789",
+    "createdAt": "2026-09-16T11:54:41.932Z"
+  },
+  {
+    "slug": "nerdulator-put-something-in-get-everything-out-no-ai-hn",
+    "title": "Nerdulator – put something in, get everything out (no AI)",
+    "shortDescription": "Проект «Nerdulator – put something in, get everything out (no AI)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Nerdulator – put something in, get everything out (no AI)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://nerdulator.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49722848",
+    "createdAt": "2026-09-16T11:54:41.932Z"
+  },
+  {
     "slug": "kindle-anki-github",
     "title": "kindle-anki",
     "shortDescription": "Study Anki .apkg decks on a jailbroken Kindle with KOReader. Desktop converter + KOReader plugin. Not official Anki.",
