@@ -1,5 +1,273 @@
 [
   {
+    "slug": "aiguard-github-2",
+    "title": "AiGuard",
+    "shortDescription": "AiGuard —— 本地优先的 AI 流量安全网关：本机 MITM 代理只接管 AI 域名，请求侧脱敏、响应侧流式还原，并识别七类风险信号。原文不落盘、不上传。（注意如果你需要模型直接使用token或者其他密钥进行操作，请放入白名单或关闭该功能！！！！）",
+    "fullDescription": "AiGuard —— 本地优先的 AI 流量安全网关：本机 MITM 代理只接管 AI 域名，请求侧脱敏、响应侧流式还原，并识别七类风险信号。原文不落盘、不上传。（注意如果你需要模型直接使用token或者其他密钥进行操作，请放入白名单或关闭该功能！！！！）\n\nАвтор: Technicalflight. Найдено в GitHub Trending (AI-тематика). ⭐ 11 звёзд.",
+    "url": "https://technicalflight.github.io/AiGuard/",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "agents",
+      "ai",
+      "rust",
+      "security",
+      "security-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1369771755",
+    "createdAt": "2026-09-16T16:05:33.188Z"
+  },
+  {
+    "slug": "runntime-github",
+    "title": "runntime",
+    "shortDescription": "High-performance neural networks engine for web, built on top of TypeGPU",
+    "fullDescription": "High-performance neural networks engine for web, built on top of TypeGPU\n\nАвтор: software-mansion. Найдено в GitHub Trending (AI-тематика). ⭐ 9 звёзд.",
+    "url": "http://docs.swmansion.com/runntime/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "computer-vision",
+      "edge",
+      "llm",
+      "ml",
+      "nlp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1369959763",
+    "createdAt": "2026-09-16T16:05:33.188Z"
+  },
+  {
+    "slug": "put-an-ai-agent-on-a-facetime-audiovideo-call-open-source-webrtc-hn",
+    "title": "Put an AI agent on a FaceTime audio/video call (open source, WebRTC)",
+    "shortDescription": "Hey everyone, Gary here from Chert (YC P26). We just open-sourced a framework for putting AI agents on FaceTime audio&#x2F;video calls: htt…",
+    "fullDescription": "Hey everyone, Gary here from Chert (YC P26). We just open-sourced a framework for putting AI agents on FaceTime audio&#x2F;video calls: https:&#x2F;&#x2F;github.com&#x2F;cherthq&#x2F;chert-facetime-opensource . There&#x27;s also a managed inbound&#x2F;outbound API if you don&#x27;t want to run it yourself: https:&#x2F;&#x2F;www.trychert.com&#x2F;facetime . Demo you can try right now: https:&#x2F;&#x2F;www.trychert.com&#x2F;facetime Demo of the BYOR (Bring Your Own Room) feature: https:&#x2F;&#x2F;screen.studio&#x2F;share&#x2F;v0KPoTpm Why video, and why FaceTime specifically: An agent that can see and show unlocks things voice and text can’t, such as screen sharing, live coaching, or even just a more immersive experience. But every video agent tool today puts you into either an embedded widget or a Zoom&#x2F;Google Meet link. Those feel salesy and formal. There’s clearly a missing deployment layer. FaceTime is the opposite. It is the most personal, trusted, and familiar video channel millions of people already use. For WebRTC and video agents to truly become as widespread as VoIP, they need to meet people where they already are. Why it’s hard: FaceTime not only doesn’t have an open API, but it&#x27;s not even scriptable with AppleScript. We solved this by driving the FaceTime UI programmatically and routing the agent&#x27;s audio and video through physical loopback machines. It&#x27;s an early prototype, but we think it&#x27;s the right bet. Video agents and WebRTC will eventually replace VoIP as the dominant channel of human-agent interaction, and when that happens, they have to meet people where they&#x27;re already most comfortable. Please try it out and share any feedback or anything interesting you build on FaceTime. All comments welcome!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/cherthq/chert-facetime-opensource",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49728749",
+    "createdAt": "2026-09-16T16:05:33.113Z"
+  },
+  {
+    "slug": "an-mcp-server-that-lets-ai-agents-create-send-and-analyze-surveys-hn",
+    "title": "An MCP server that lets AI agents create, send and analyze surveys",
+    "shortDescription": "Проект «An MCP server that lets AI agents create, send and analyze surveys», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An MCP server that lets AI agents create, send and analyze surveys», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.zigpoll.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49728735",
+    "createdAt": "2026-09-16T16:05:33.114Z"
+  },
+  {
+    "slug": "cleanroom-an-ai-coding-agent-you-can-learn-from-at-your-own-pace-hn",
+    "title": "Cleanroom – An AI coding agent you can learn from at your own pace",
+    "shortDescription": "Проект «Cleanroom – An AI coding agent you can learn from at your own pace», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Cleanroom – An AI coding agent you can learn from at your own pace», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/Ag3497120/cleanroom",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49728719",
+    "createdAt": "2026-09-16T16:05:33.114Z"
+  },
+  {
+    "slug": "wenlan-a-living-wiki-ai-keeps-current-without-overwriting-your-edits-hn",
+    "title": "Wenlan – a living wiki AI keeps current without overwriting your edits",
+    "shortDescription": "Проект «Wenlan – a living wiki AI keeps current without overwriting your edits», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Wenlan – a living wiki AI keeps current without overwriting your edits», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/7xuanlu/wenlan",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49728059",
+    "createdAt": "2026-09-16T16:05:33.114Z"
+  },
+  {
+    "slug": "swift-qwen38-27b-583-thinking-x195-speed-accuracy-of-xhigh-hn",
+    "title": "Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
+    "shortDescription": "Hi everybody, we post-trained Qwen 3.8 27B to be more efficient by figuring out which tokens were linked to overthinking and penalizing the…",
+    "fullDescription": "Hi everybody, we post-trained Qwen 3.8 27B to be more efficient by figuring out which tokens were linked to overthinking and penalizing them without &quot;attacking&quot; the reasoning length directly then fixed the accuracy with a bit of secret sauce (hint On-Policy Distillation) and achieved great results (-58% length, 1.95x speed up, &lt;1% accuracy loss) so we wanted to open-source it and hear the feedback of the community. This is the link to the model: https:&#x2F;&#x2F;huggingface.co&#x2F;ukisai&#x2F;Swift-Qwen3.8-27b &#x2F; It&#x27;s at 80k downloads in 3 days with independent evals here: https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;LocalLLaMA&#x2F;comments&#x2F;1wg7dd5&#x2F;ukisai_... We are also providing a Free Research Purpose API (OpenAI compatible), courtesy of Nvidia who were kind enough to provide us with the GPUs. It&#x27;s limited at 5RPM. https:&#x2F;&#x2F;ukisai.com&#x2F;api&#x2F;swift&#x2F;v1&#x2F;models We also made a GGUF (Q1-Q8): https:&#x2F;&#x2F;huggingface.co&#x2F;ukisai&#x2F;Swift-Qwen3.8-27B-GGUF and there&#x27;s also a few nice community quants with even lower&#x2F;higher precision (Bartowski: https:&#x2F;&#x2F;huggingface.co&#x2F;bartowski&#x2F;ukisai_Swift-Qwen3.8-27b-GG... ). The community also created amazing MLX, NVFP4, W4A16 and Uncensored versions you can find on Huggingface. IMPORTANT: Our training approach is not a replacement for the reasoning effort settings, chat templates or token caps but is complementary and targets a completely separate issue (overthinking and &quot;anxiety-like&quot; reasoning loops prior seen in PTQ, but as far as we identified also prominent in BF16 of this size class LLMs as well). Contrary to popular belief, these specific patterns do not contribute to answer quality when properly targeted. (our thesis being: reasoning length IS extremely important and should NOT be shortened by force, but rather optimized). This is also demonstrated bellow in our xhigh vs medium effort benchmark. The goal is to keep xhigh accuracy while reducing only the unnecessary part of thinking. The TLDR of our thought process, research, training and a link to the Meta paper that inspired us is in the first comment. The benchmarks: Swift-27B vs Qwen3.8-27B (BF16, all benchmarks ran x5, thinking effort xhigh) GPQA-Diamond: 88.4% -&gt; 88.3%, 58% fewer median tokens LiveCodeBench v6: 76.8% -&gt; 81.6% (+4.8pp, due to default truncation in LCB it is not performance gain), 46% fewer median thinking tokens Terminal-Bench 2.1: 66.7% -&gt; 65.8%, 39% fewer median tokens MMLU-Pro: 85.5% -&gt; 85.0%, 28% fewer median tokens C-Eval: 90.0% -&gt; 90.6%, 19% fewer median tokens IFBench: 73.5% -&gt; 71.8%, 51% fewer median tokens AIME 2026: 98.7% -&gt; 94.0%, 50% fewer median tokens HMMT (Nov 2025): 99.3% -&gt; 96.0%, 46% fewer median tokens ERQA (vision): 67.5% -&gt; 66.3%, 55% fewer median tokens Token savings hold at every reasoning effort (mean thinking reduction): xhigh 41%, medium 23%, low 26% (albeit with accuracy loses of 1-4% on medium and 1-2% on low which we need further testing for) Swift at xhigh vs the base&#x27;s own effort settings on GPQA-Diamond (198 questions x 5 seeds): Base xhigh: 88.4%, 6,642 median tokens Swift xhigh: 88.3%, 2,771 median tokens Base medium: 84.1%, 1,753 median tokens So Swift keeps xhigh accuracy at under half the tokens, and beats base-medium by 4pp at roughly 1.6x its tokens. End note: While we are keen on complete open-source, we still need to keep a part of our training and data private, being a new lab. The license is not Apache 2.0, but it only affects companies &gt;$1M. We hope this does not pose a problem for the community and are open to feedback on it. We want to contribute as much as possible to the community and would really appreciate feedback on our work, quantization or Swift model requests. We are working on Swift 3.8 Flash Next and have so far gotten up to -53% thinking token usage. We have strong indicators our methodology is reproducible on other model families as well and are asking the community which ones you want us to optimize next.\n\nНайдено в разделе Show HN на Hacker News. 👍 11 баллов.",
+    "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49727511",
+    "createdAt": "2026-09-16T16:05:33.114Z"
+  },
+  {
+    "slug": "zoom-meeting-for-agent-sessions-hn",
+    "title": "Zoom Meeting for Agent Sessions",
+    "shortDescription": "Проект «Zoom Meeting for Agent Sessions», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Zoom Meeting for Agent Sessions», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.sharednet.ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49727409",
+    "createdAt": "2026-09-16T16:05:33.114Z"
+  },
+  {
+    "slug": "a-stateful-llm-api-that-works-across-providers-hn",
+    "title": "A Stateful LLM API that works across providers",
+    "shortDescription": "For the last year we&#x27;ve been building AI workspaces. With every new product, we found ourselves rebuilding the same context layer and…",
+    "fullDescription": "For the last year we&#x27;ve been building AI workspaces. With every new product, we found ourselves rebuilding the same context layer and infrastructure. We tried existing solutions, but we&#x27;d either have to lock into one provider or have to manage the storage infrastructure. What we wanted was an API that&#x27;s stateful and isn&#x27;t tied to a specific provider. So that we didn&#x27;t have to think about compaction, differing schemas, or running the infrastructure ourselves. Since we&#x27;d already built most of the constituent parts, we’ve decided to release Twigg. The API is deliberately simple. You create a chat and get back an ID. When you have a new prompt or tool result, you send that plus the ID. There&#x27;s no need to store or manage context yourself. It appends the new prompt and assembles the history for you. To switch models, you change one field in the next request. The dashboard covers most of what you&#x27;d want to configure: tool schemas, system prompts, context window limits and retention settings. We&#x27;d like to hear from anyone who has run into the same problems. How are you hosting your context right now, and what would make you not want to hand it to a third party?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://twigg.ai",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49727072",
+    "createdAt": "2026-09-16T16:05:33.114Z"
+  },
+  {
+    "slug": "skill-to-generate-change-preview-pages-hn",
+    "title": "Skill to generate change preview pages",
+    "shortDescription": "To review diffs more easily, I created a `&#x2F;change-preview` skill to generate a page that combines the following: - Before&#x2F;After s…",
+    "fullDescription": "To review diffs more easily, I created a `&#x2F;change-preview` skill to generate a page that combines the following: - Before&#x2F;After screenshots and&#x2F;or videos - Diagrams if no screenshots applicable - Annotations on the screenshots of things that have changed in the UI - Code diffs alongside AI summaries of why that code was changed - Steps to reproduce if I want to test changes manually Now I can run a few agents in parallel, get them to spin up a change preview page once done, and verify it&#x27;s done the right thing by having the diff, before&#x2F;after videos, etc. all in one place. Brief demo here: https:&#x2F;&#x2F;steveharrison.dev&#x2F;reviewing-ai-work-with-change-prev...\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/steveharrison/change-preview",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49726919",
+    "createdAt": "2026-09-16T16:05:33.114Z"
+  },
+  {
+    "slug": "texposit-feature-rich-latex-and-markdown-editor-hn",
+    "title": "TeXposit – Feature rich LaTeX and Markdown editor",
+    "shortDescription": "Online collaborative editor with LaTeX, Markdown, LaTeX+Markdown Hybrid and WYSIWYG Markdown support, AI assistant (BYOK and Ollama support…",
+    "fullDescription": "Online collaborative editor with LaTeX, Markdown, LaTeX+Markdown Hybrid and WYSIWYG Markdown support, AI assistant (BYOK and Ollama support!), live collaboration and more fun things. API is also available: https:&#x2F;&#x2F;app.texposit.com&#x2F;api-reference , you can use it to integrate with Discord bots, AI agents, filesystem syncing, bulk project processing or anything you can imagine. Have fun!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://texposit.com",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49726778",
+    "createdAt": "2026-09-16T16:05:33.114Z"
+  },
+  {
+    "slug": "legion-ai-agents-that-write-sandboxed-lua-inside-your-elixir-app-hn",
+    "title": "Legion – AI agents that write sandboxed Lua inside your Elixir app",
+    "shortDescription": "Проект «Legion – AI agents that write sandboxed Lua inside your Elixir app», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Legion – AI agents that write sandboxed Lua inside your Elixir app», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 8 баллов.",
+    "url": "https://legion.swmansion.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49726662",
+    "createdAt": "2026-09-16T16:05:33.114Z"
+  },
+  {
+    "slug": "ai-subtools-40-free-online-tools-no-sign-up-100-client-side-hn",
+    "title": "AI Subtools – 40 free online tools, no sign-up, 100% client-side",
+    "shortDescription": "Проект «AI Subtools – 40 free online tools, no sign-up, 100% client-side», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Subtools – 40 free online tools, no sign-up, 100% client-side», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aisubtools.xyz/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49726498",
+    "createdAt": "2026-09-16T16:05:33.114Z"
+  },
+  {
+    "slug": "airmash-html5-massively-multiplayer-missile-warfare-hn",
+    "title": "Airmash – HTML5 Massively Multiplayer Missile Warfare",
+    "shortDescription": "This is the official reboot of the 2017 hit game. Back then it was #1 post on HN for 3 consecutive days: https:&#x2F;&#x2F;news.ycombinator…",
+    "fullDescription": "This is the official reboot of the 2017 hit game. Back then it was #1 post on HN for 3 consecutive days: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=15892066 The game was rewritten from the ground up: New graphics, WebGL shader effects, Map obstacles, Completely new UI, Additional special ability for all aircraft, Daily&#x2F;Weekly&#x2F;Lifetime achievements, Levelling rewards, Loadout system for equipping skins, flags, flairs and titles, 5 game modes: FFA, CTF, Battle Royale, Racing, Zombies, Public leaderboards + player profiles, Paid in-game cosmetics (skins, flags, VIP pass)\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://airma.sh/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49726451",
+    "createdAt": "2026-09-16T16:05:33.114Z"
+  },
+  {
+    "slug": "kaflow-search-a-desktop-tool-for-locally-indexed-kafka-message-search-hn",
+    "title": "Kaflow Search – A desktop tool for locally indexed Kafka message search",
+    "shortDescription": "For a long time, I’ve used Kafka for services for some purpose. like tracing user action log, event sourcing propagation pipeline step proc…",
+    "fullDescription": "For a long time, I’ve used Kafka for services for some purpose. like tracing user action log, event sourcing propagation pipeline step processing and so on. Whenever I use Kafka, I need to set up kafka ecosystem such as, ELK ( Elasticsearch + Logstash + Kibana) for search Kafka messages for service operation, issue trace. and Kafka sink connector for some data forward other persistent DB, and ksqlDB( or Flink ) for count and monitor event stream. With additional infra and software One day, a thought suddenly crossed my mind. That is “Basically Kafka is processing message stream sequentially, with a consumer. It means If I don’t know what the partition and offset of “needle” is, I have to find needle sequentially from beginning. but if I know Kafka message partition and offset, Can I find and access data directly like other DBMS?” ELK is not necessary on my service at that time. Just I need to search trace events and it is in Kafka topic message. All I need to know is where the data I want to find is My desktop and your desktop are too powerful, expensive to use only for web browser operation and AI question agent. Let’s use local disk and local application for indexing storage and search engine about Kafka message. This local-first concept is implemented as “Kaflow Search desktop tool” If you don’t need to keep data for a long time or permanently You don’t have to go through the hassle of installing and managing ELK or other Kafka ecosystem infrastructure Just keep and sync index with Kafka cluster server And find messages you want easily with just this tool installed It will save your operation time. When operating company services, The costs of installing server, managing additional ELK&#x2F;Kafka Connect, ksqlDB instances didn’t come out of my own pocket so I felt free to spend my time and server resources to set additional data pipeline up. but if it is my own service that I afford, I can’t help saving my server cost. I can’t afford the additional infra costs from cloud service (like AWS) I’m not a rich developer, who just has a laptop to develop software. I’ll make the most of my laptop resources, until my service generates enough money, and then I can handle additional server costs. I’ll only use Kafka and this tool on my service, before I really need ELK and other Kafka ecosystem. I dedicate this rich client Kafka tool to developers who, like me, are poor. GitHub : https:&#x2F;&#x2F;github.com&#x2F;whsoul&#x2F;kaflow-search &lt;If you have kafka cluster&gt; =&gt; Download From release assets ( macOS, Windows ) - https:&#x2F;&#x2F;github.com&#x2F;whsoul&#x2F;kaflow-search&#x2F;releases&#x2F;tag&#x2F;v0.1.3 From brew ( macOS ) - brew install --cask whsoul&#x2F;tap&#x2F;kaflow-search &lt;If you don’t have kafka cluster&gt; =&gt; Download demo From release assets ( macOS, Windows ) - https:&#x2F;&#x2F;github.com&#x2F;whsoul&#x2F;kaflow-search&#x2F;releases&#x2F;tag&#x2F;demo-v0... From brew ( macOS ) - brew install --cask whsoul&#x2F;tap&#x2F;kaflow-search-demo Please try my tool ( on your macOS, Windows ) and feedback for me consumer ID, consumer Group do not remain on your cluster. It does only read operation, not managing function ( such as delete, create topic, repartition cluster topic). It normally only reads once messages that you select, and read local-first index for search your message. So feel free to install this. But it is not developer signed.. (Sorry because I’m poor developer..) Please follow this install guide ( https:&#x2F;&#x2F;github.com&#x2F;whsoul&#x2F;kaflow-search#install ) about untrusted developer warning when install and first launch.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://kaflow-search.whsoul-tools.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49726447",
+    "createdAt": "2026-09-16T16:05:33.114Z"
+  },
+  {
+    "slug": "sloptris-if-tetris-was-like-ai-assisted-dev-hn",
+    "title": "Sloptris - If Tetris was like AI-assisted dev",
+    "shortDescription": "Проект «Sloptris - If Tetris was like AI-assisted dev», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Sloptris - If Tetris was like AI-assisted dev», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://tonyalicea.dev/sloptris/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49726430",
+    "createdAt": "2026-09-16T16:05:33.114Z"
+  },
+  {
     "slug": "thinkingspace-github",
     "title": "Thinkingspace",
     "shortDescription": "非线性 AI 思维工作空间：以 Topic 为认知单元、以 Branch 扩展思考、以 Map 导航全局，把 AI 对话从一条时间线变成可以探索的思维空间。",
