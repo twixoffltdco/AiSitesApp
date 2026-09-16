@@ -1,5 +1,241 @@
 [
   {
+    "slug": "docops-github",
+    "title": "DocOps",
+    "shortDescription": "Drop a card on the board, pick Claude Code, Codex CLI, OpenCode or the Hermes agent, and watch it work in its own git branch and worktree —…",
+    "fullDescription": "Drop a card on the board, pick Claude Code, Codex CLI, OpenCode or the Hermes agent, and watch it work in its own git branch and worktree — then review, test and merge from one screen.\n\nАвтор: Oak-AN. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/Oak-AN/DocOps",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-coding",
+      "ai-model",
+      "ai-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1373422513",
+    "createdAt": "2026-09-16T19:38:03.073Z"
+  },
+  {
+    "slug": "kitpro-github",
+    "title": "kitpro",
+    "shortDescription": "Local-first Linux server management for trusted self-hosted apps, AI workloads, and media libraries.",
+    "fullDescription": "Local-first Linux server management for trusted self-hosted apps, AI workloads, and media libraries.\n\nАвтор: KITProHQ. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://kitpro.us/server",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "arch-linux",
+      "debian",
+      "docker",
+      "home-server",
+      "homelab",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1370599351",
+    "createdAt": "2026-09-16T19:38:03.073Z"
+  },
+  {
+    "slug": "in-browser-sanskrit-asr-model-hn",
+    "title": "In-Browser Sanskrit ASR Model",
+    "shortDescription": "Su-śrotā Sanskrit ASR — ONNX &amp; In-Browser INT8 This repository provides ONNX and INT8 quantized exports of Su-śrotā (v13b), a scholar-g…",
+    "fullDescription": "Su-śrotā Sanskrit ASR — ONNX &amp; In-Browser INT8 This repository provides ONNX and INT8 quantized exports of Su-śrotā (v13b), a scholar-grade Sanskrit speech recognition model developed by Prof. Prathosh A P (Indian Institute of Science, Bengaluru). These models allow running Sanskrit ASR 100% serverless in a web browser (via onnxruntime-web) or locally on Mac&#x2F;Linux&#x2F;Windows with zero PyTorch&#x2F;NeMo dependencies. Demo -&gt; https:&#x2F;&#x2F;h3manth.com&#x2F;ai&#x2F;sanskrit-asr&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://huggingface.co/gnumanth/sushrota-sanskrit-asr-onnx",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49731455",
+    "createdAt": "2026-09-16T19:38:02.664Z"
+  },
+  {
+    "slug": "friday-self-hosted-persistent-memory-for-ai-coding-agents-mcp-hn",
+    "title": "Friday – Self-hosted persistent memory for AI coding agents (MCP)",
+    "shortDescription": "Проект «Friday – Self-hosted persistent memory for AI coding agents (MCP)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Friday – Self-hosted persistent memory for AI coding agents (MCP)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://github.com/itskie/friday",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49731353",
+    "createdAt": "2026-09-16T19:38:02.664Z"
+  },
+  {
+    "slug": "tabmail-open-source-ai-email-for-thunderbird-and-iphone-hn",
+    "title": "TabMail. Open-source AI email for Thunderbird and iPhone",
+    "shortDescription": "Hi all, I&#x27;m the sole developer of TabMail. I wanted my email client to have AI features, and ended up making a Thunderbird add-on and…",
+    "fullDescription": "Hi all, I&#x27;m the sole developer of TabMail. I wanted my email client to have AI features, and ended up making a Thunderbird add-on and an iPhone app. I&#x27;ve now open-sourced both under MPL 2.0, and I wanted to share them here to get some community feedback, if possible. I made a short video of both, since it&#x27;s easier to show what they do than explain everything in a post. Hopefully you like it: https:&#x2F;&#x2F;tabmail.ai&#x2F;demos&#x2F;tabmail-promo.mp4 You can review a prepared reply, tell it what to change, or ask questions about your inbox and calendar. On TB, I wanted to do most of this with the keyboard. On the phone, I wanted to just talk to it :) Code: Thunderbird: https:&#x2F;&#x2F;github.com&#x2F;TabMail&#x2F;tabmail-thunderbird iOS: https:&#x2F;&#x2F;github.com&#x2F;TabMail&#x2F;tabmail-ios Note: I have the AI backend closed for now, since it does need me to fish compute from LLM providers, etc. Still, I made the email&#x2F;calendar processing ZDR (zero data retention) since, as a solo dev, I didn&#x27;t want to go through the headache of storing anyone&#x27;s email or calendar data. The content can be sent for AI processing, but isn&#x27;t kept on TabMail&#x27;s servers. Search stays on-device. Anyhow, please try it out! Just trying to share how I wanted email to be with AI features :) Happy to answer questions. Downloads: https:&#x2F;&#x2F;tabmail.ai PS. The Thunderbird add-on uses the Experiments API for things that aren&#x27;t supported in MV3, so I&#x27;m hosting it on my website for now.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://tabmail.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49730649",
+    "createdAt": "2026-09-16T19:38:02.664Z"
+  },
+  {
+    "slug": "i-built-a-router-for-agent-tools-hn",
+    "title": "I built a router for agent tools",
+    "shortDescription": "Проект «I built a router for agent tools», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built a router for agent tools», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 10 баллов.",
+    "url": "https://github.com/monid-ai/monid",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49730644",
+    "createdAt": "2026-09-16T19:38:02.664Z"
+  },
+  {
+    "slug": "typescript-parser-for-aixm-the-faaeurocontrol-aviation-data-format-hn",
+    "title": "TypeScript parser for AIXM, the FAA/EUROCONTROL aviation data format",
+    "shortDescription": "Проект «TypeScript parser for AIXM, the FAA/EUROCONTROL aviation data format», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «TypeScript parser for AIXM, the FAA/EUROCONTROL aviation data format», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/devladpopov/aixm-parser",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49730243",
+    "createdAt": "2026-09-16T19:38:02.664Z"
+  },
+  {
+    "slug": "understanding-your-claude-code-with-trajectory-segmentation-hn",
+    "title": "Understanding your Claude Code with trajectory segmentation",
+    "shortDescription": "Would love to get feedbacks. Feel free to open a PR with features that might be useful for you or fork it and take it off! The goal is to m…",
+    "fullDescription": "Would love to get feedbacks. Feel free to open a PR with features that might be useful for you or fork it and take it off! The goal is to make AI easier to be understood w&#x2F;o having to read the entire long tail of decisions and garbage that claude generated along the way.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/lucastononro/cc-traj-seg",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49730230",
+    "createdAt": "2026-09-16T19:38:02.664Z"
+  },
+  {
+    "slug": "ivxai-chat-ai-client-that-doesnt-track-you-with-a-better-gui-imo-hn",
+    "title": "Ivx/AI Chat, AI client that doesn't track you (with a better GUI imo)",
+    "shortDescription": "Since ChatGPT started pushing ads and somehow my instagram reels started getting more and more related to what I talked with ChatGPT, I dec…",
+    "fullDescription": "Since ChatGPT started pushing ads and somehow my instagram reels started getting more and more related to what I talked with ChatGPT, I decided to get rid of it for good. So I built ivx&#x2F;ai Chat. I know there are many many chat interfaces out there already but this one is special. It is built exactly around what I personally prefer. It is a lightweight, browser-based client with no backend, no accounts, no analytics, and zero telemetry with apps for almost all platforms. Talks directly to the AI provider or connects with your locally running inference. It also supports WebLLM for local in-browser inference in case you dont wanna use any other provider but also supports cloud providers like OpenAI, Anthropic, and OpenRouter. I hope you like it.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ai.ivx.run/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49729796",
+    "createdAt": "2026-09-16T19:38:02.664Z"
+  },
+  {
+    "slug": "opendocbot-bring-your-own-model-to-word-excel-and-powerpoint-hn",
+    "title": "OpenDocBot – bring your own model to Word, Excel and PowerPoint",
+    "shortDescription": "I got tired of the lock-in and black-box nature of AI inside MS Office. One vendor decides which models you can use, where your document da…",
+    "fullDescription": "I got tired of the lock-in and black-box nature of AI inside MS Office. One vendor decides which models you can use, where your document data goes, and what the agent is actually allowed to do. And when it fails, you can&#x27;t see the code or send a PR to add a feature you may need. Many people don&#x27;t have that choice: they&#x27;re forced to use these tools (MS Office) at work. For coding agents we already have open interfaces like OpenCode where you can bring your own key, swap providers and models, run local, inspect everything, etc. I thought &quot;agentic Office&quot; needs the same. So I built OpenDocBot: an agent that runs inside Word, Excel and PowerPoint. Bring your own provider (OpenAI, Anthropic, Gemini, DeepSeek, OpenRouter, Ollama, or your own endpoint &#x2F; custom gateway). It&#x27;s client-side, so document data goes straight to the provider you configure, and the source is public so you can always audit the code and self-host it. I added a few things I thought would be useful: human-in-the-loop approval before any action is applied; file uploads (e.g. building a slide deck from a PDF) with local OCR for scanned documents, and tunable model behavior. Caveat: it&#x27;s early, and Microsoft Marketplace distribution isn&#x27;t live yet, so today you have to sideload it. I know that&#x27;s real friction, I&#x27;m fighting daily with the MS Support team to achieve MS Partner Center account validation. I wrote some scripts that automate the sideloading process, and recorded short videos to make it easier. If you use Office heavily, I&#x27;d love your feedback. Repo: https:&#x2F;&#x2F;github.com&#x2F;opendocbot&#x2F;opendocbot Site + docs: https:&#x2F;&#x2F;opendocbot.com\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://opendocbot.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49729683",
+    "createdAt": "2026-09-16T19:38:02.664Z"
+  },
+  {
+    "slug": "a-coding-agent-from-scratch-hn",
+    "title": "A Coding Agent from Scratch",
+    "shortDescription": "I saw a post about building a coding agent from &quot;first principles&quot; and that inspired me to create my own. I used my own custom Ru…",
+    "fullDescription": "I saw a post about building a coding agent from &quot;first principles&quot; and that inspired me to create my own. I used my own custom Rust-based ML DSL to implement this. The blog post includes link to the repos (MIT Licensed), a video of the agent in action, sample code produced, and an Emacs org-mode literate programming document explaining the implementation and tests. There are links to an interactive playground for the sw-MLPL language. The git repo can be used to run this agent locally on a system with Ollama and a coding LLM. Does not yet connect to cloud LLMs. I hope this helps someone learn how a coding agent can be built. Inspired by (but not ported from) OpenCode.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://blog.softwarewrighter.com/2026/09/16/ai-tools-coding-agent-in-mlpl/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49729456",
+    "createdAt": "2026-09-16T19:38:02.665Z"
+  },
+  {
+    "slug": "i-wont-give-up-on-either-ai-or-being-a-developer-hn",
+    "title": "I won't give up on either AI or being a developer",
+    "shortDescription": "Проект «I won't give up on either AI or being a developer», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I won't give up on either AI or being a developer», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://cleanroom-qvq1xbb8o-ag3497120s-projects.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49729397",
+    "createdAt": "2026-09-16T19:38:02.665Z"
+  },
+  {
+    "slug": "yolo-fps-per-dollar-numbers-for-edge-ai-boards-75-215-hn",
+    "title": "YOLO FPS-per-dollar numbers for edge AI boards ($75-$215)",
+    "shortDescription": "Проект «YOLO FPS-per-dollar numbers for edge AI boards ($75-$215)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «YOLO FPS-per-dollar numbers for edge AI boards ($75-$215)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/chorylee/edge-ai-benchmarks",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49729336",
+    "createdAt": "2026-09-16T19:38:02.665Z"
+  },
+  {
+    "slug": "stopping-ai-agent-swarms-from-hacking-our-systems-hn",
+    "title": "Stopping AI agent swarms from hacking our systems",
+    "shortDescription": "I don&#x27;t trust OpenAI, Anthropic, Google, or any other AI lab to be responsible for protecting my systems from the systems they&#x27;re…",
+    "fullDescription": "I don&#x27;t trust OpenAI, Anthropic, Google, or any other AI lab to be responsible for protecting my systems from the systems they&#x27;re building, yesterday it was Hugging Face unintentionally, tomorrow it could be anyone, even an open-source model and a swarm of agents can do a lot of damage, today&#x27;s security systems understand individual attacks, but not attacks carried out by thousands of agents, here&#x27;s a first version of what I&#x27;m building in the playground for you to play with, and I&#x27;m open to suggestions, opinions, or even roasts.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.inwom.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49729203",
+    "createdAt": "2026-09-16T19:38:02.665Z"
+  },
+  {
     "slug": "aiguard-github-2",
     "title": "AiGuard",
     "shortDescription": "AiGuard —— 本地优先的 AI 流量安全网关：本机 MITM 代理只接管 AI 域名，请求侧脱敏、响应侧流式还原，并识别七类风险信号。原文不落盘、不上传。（注意如果你需要模型直接使用token或者其他密钥进行操作，请放入白名单或关闭该功能！！！！）",
