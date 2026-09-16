@@ -1,5 +1,184 @@
 [
   {
+    "slug": "autoreview-github",
+    "title": "AutoReview",
+    "shortDescription": "AI-powered Google Business Profile review management with human approval, risk controls, and auditable publishing workflows.",
+    "fullDescription": "AI-powered Google Business Profile review management with human approval, risk controls, and auditable publishing workflows.\n\nАвтор: DevvoLazza. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/DevvoLazza/AutoReview",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "automation",
+      "review",
+      "reviews",
+      "typescript",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1372236815",
+    "createdAt": "2026-09-16T01:03:53.598Z"
+  },
+  {
+    "slug": "docs-agent-platform-github",
+    "title": "docs-agent-platform",
+    "shortDescription": "Source repository for WSO2 Agent Manager Platform documentation",
+    "fullDescription": "Source repository for WSO2 Agent Manager Platform documentation\n\nАвтор: wso2. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://wso2.com/agent-platform/docs",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1369404716",
+    "createdAt": "2026-09-16T01:03:53.598Z"
+  },
+  {
+    "slug": "awesome-skillkit-github",
+    "title": "awesome-skillkit",
+    "shortDescription": "Curated Agent Skills scene-packs for AI tools: 27 packs / 113 skills — AI media generation, research & writing, content publishing (18+ Chi…",
+    "fullDescription": "Curated Agent Skills scene-packs for AI tools: 27 packs / 113 skills — AI media generation, research & writing, content publishing (18+ Chinese platforms), dev & ops, office productivity.\n\nАвтор: X33834. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/X33834/awesome-skillkit",
+    "category": "writing",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "ai-agents",
+      "automation",
+      "content-publishing",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1371113697",
+    "createdAt": "2026-09-16T01:03:53.598Z"
+  },
+  {
+    "slug": "jieqi-github",
+    "title": "Jieqi",
+    "shortDescription": "揭棋 (JieQi) — 中国象棋变种人机对战游戏，暗子按格位走子、信息集 AI。Phaser 4 + phaser-mvvm + Cordova 打包 Android。",
+    "fullDescription": "揭棋 (JieQi) — 中国象棋变种人机对战游戏，暗子按格位走子、信息集 AI。Phaser 4 + phaser-mvvm + Cordova 打包 Android。\n\nАвтор: universe-st. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/universe-st/Jieqi",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "android",
+      "chinese-chess",
+      "cordova",
+      "game",
+      "jieqi",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1369532350",
+    "createdAt": "2026-09-16T01:03:53.598Z"
+  },
+  {
+    "slug": "now-you-can-use-web-baseline-timeline-hn",
+    "title": "Now You Can Use – Web Baseline Timeline",
+    "shortDescription": "I wanted an easy way to see what was actually new AND usable on the web, something I wished caniuse had, so I made it (with AI assistance).…",
+    "fullDescription": "I wanted an easy way to see what was actually new AND usable on the web, something I wished caniuse had, so I made it (with AI assistance). I hope others can find some use as well!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://nowyoucanuse.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49720877",
+    "createdAt": "2026-09-16T01:03:53.410Z"
+  },
+  {
+    "slug": "agentready-can-ai-assistants-read-your-site-hn",
+    "title": "AgentReady – can AI assistants read your site?",
+    "shortDescription": "Проект «AgentReady – can AI assistants read your site?», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AgentReady – can AI assistants read your site?», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://shop.lumnika.com/lab/agentready/?src=hackernews-showhn",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49720850",
+    "createdAt": "2026-09-16T01:03:53.410Z"
+  },
+  {
+    "slug": "biom-a-visual-workspace-where-your-ai-agents-work-lands-hn",
+    "title": "Biom – A visual workspace where your AI agents' work lands",
+    "shortDescription": "Проект «Biom – A visual workspace where your AI agents' work lands», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Biom – A visual workspace where your AI agents' work lands», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://www.biom.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49720507",
+    "createdAt": "2026-09-16T01:03:53.410Z"
+  },
+  {
+    "slug": "plurnk-yet-another-ai-harness-hn",
+    "title": "Plurnk (Yet *Another* AI Harness)",
+    "shortDescription": "I am desperate for feedback on my homebrewed harness, &quot;Plurnk.&quot; I&#x27;ve been dogfooding it on my RTX5070Ti with only 16GB VRAM…",
+    "fullDescription": "I am desperate for feedback on my homebrewed harness, &quot;Plurnk.&quot; I&#x27;ve been dogfooding it on my RTX5070Ti with only 16GB VRAM as my daily driver for weeks now and it&#x27;s genuinely better than everything else available (I&#x27;m biased). 1. Curation, not Compaction The model&#x27;s fully responsible (bitter lesson) for deterministically curating its own context. 2. ANTLR Grammar The dozen verbs for the harness are optimized for model pretraining, looking like markdown while being fully integrated with an EBNF grammar that plugs into an AST for superior workflow and recovery. 3. Universal Resources Everything&#x27;s addressable by the model through a pseudo-URI interface, including the log entries. 4. Omnipatterns Everything in the repo goes through treesitters which build a complete graph that the model can search with glob, regex, jsonpath, xpath, graph, and sqlite fulltext. 5. Standards MCP2 tools, AG-UI client interface, A2A &quot;agent to agent&quot;, plugs into everything through OAI spec + models.dev 6. Interfaces CLI, TUI, and a Neovim plugin, easy to extend, very pluggable 7. Lean Agent Service&#x2F;Client architecture with lean TUI allows dozens of agents to run on weak hardware. 200MB footprint. 8. Lean Context Achieves all of the &quot;batteries includes&quot; features of a fat harness while the sysprompt is only slightly larger than pi agent&#x27;s. It started as a proof of concept for my bespoke opinions on what &quot;bitter lesson&quot; actually means, and it&#x27;s gone so well that I believe others trying to build agentic workflows, especially with local and humble constraints, could benefit from the proven concepts.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/plurnk/plurnk",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49720466",
+    "createdAt": "2026-09-16T01:03:53.410Z"
+  },
+  {
+    "slug": "agenttik-work-on-multiple-projects-in-parallel-with-ai-agents-hn",
+    "title": "Agenttik – work on multiple projects in parallel with AI agents",
+    "shortDescription": "Hi! I&#x27;ve been reading HN daily for almost 16 years. Really glad this community exist. This is my first Show HN, so I hope you find thi…",
+    "fullDescription": "Hi! I&#x27;ve been reading HN daily for almost 16 years. Really glad this community exist. This is my first Show HN, so I hope you find this tool useful&#x2F;interesting. During my summer holidays I started playing with latest AI models on personal projects. At one point I started working in parallel with the same project and tried different approaches. The one that worked best for me was to clone the repo and distribute work among different AI workers, work in parallel but with different branches &amp; folders. This allowed me to review and merge work afterwards. The thing is, spawning several agents in parallel was challenging. I could work on multiple features and bugfix at once, but it was hard to keep track what I was working on. I was jumping from one thing to another, and back; from one window to another. Switching tasks like this was mentally exhausting. Holidays were over, and after returning to my day to day work, I continued working using a similar approach not on one, but also on multiple projects, but I still could not find how to work in a more organized way without the mental toll. This space is growing really fast, and I haven&#x27;t been able to find the right tool for myself, so I decided to build my own. I wanted a tool that would help me manage multiple projects at once, work with multiple agents, even from different providers, where I could chose between my personal and work subscriptions depending on the project, where I could easily review changes without leaving the tool if I wanted, or go all in and delegate fully to agents; one where I had quick shortcuts to move around, where I could schedule work or enqueue work for later so agents could work on one task after another. agenttik is my way of tackling this problem to work on multiple projects in parallel, while allowing myself to be on the driver seat. I can give as much autonomy as I want to the agents while keeping things organized in my head. I&#x27;ve been hesitating for hours on whether to submit or not, but hey &quot;if you are not ashamed of your project, you are shipping too late&quot; Honestly, this project has exactly one week of development, started from scratch, and even though it is still early on, it has been extremely useful for me. I&#x27;ve built in a week things that would have taken me months, not only built the tool itself but other projects as well (most of the merit is still on the models used, but would have had no way of distributing all the work, though). Feel free to try. Here&#x27;s how I would get started: - Open a project you already have - Add some general prompt (in the project area) or add to your AGENTS.md&#x2F;CLAUDE.md (to instruct it to do regular commits and&#x2F;or work with branches, and also instructions on how to build effective tests so that it can self-correct). - Chose your subscriptin of choice: Claude Code &#x2F; Open AI subscription &#x2F; ... - Pick big models (Opus High to Max &#x2F; Fable Medium to Max &#x2F; Astra Medium to Max) for bigger autonomy and try not to do hand-holding Finally, start sending&#x2F;enqueuing tasks on all the features you want your product to have, bugfixes, ... use a new prompt per task (Ctrl+T &#x2F; Cmd+T), I recommend using big models to avoid investing your own time reviewing, and then once LLM is done, review and archive that task or continue iterating. Keep adding tasks as you think on them. Add more projects as you start feeling comfortable. It has been really addictive for me to see the speed of development when working like this. I got totally hooked. Speed of iteration is insane. Happy to discuss any feedback you have even if it is about other tools or ways of working with AI these days! I hope you like it!!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/pausan/agenttik",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49720222",
+    "createdAt": "2026-09-16T01:03:53.410Z"
+  },
+  {
+    "slug": "open-source-tool-to-sell-your-claude-code-and-codex-sessions-hn",
+    "title": "Open-source tool to sell your Claude Code and Codex sessions",
+    "shortDescription": "Проект «Open-source tool to sell your Claude Code and Codex sessions», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Open-source tool to sell your Claude Code and Codex sessions», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/cookiy-ai/sell-sessions-skill",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49720176",
+    "createdAt": "2026-09-16T01:03:53.410Z"
+  },
+  {
     "slug": "deepseek-bypass-2026-github",
     "title": "deepseek-bypass-2026",
     "shortDescription": "Unlock DeepSeek V3 and R1 Pro APIs with an OpenAI-compatible wrapper and rotating shared keys. Access powerful DeepSeek models with a simpl…",
