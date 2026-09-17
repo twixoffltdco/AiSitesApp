@@ -1,5 +1,196 @@
 [
   {
+    "slug": "panelalpha-engine-github",
+    "title": "panelalpha-engine",
+    "shortDescription": "The easiest way to self-host projects on your own server. Connect your AI agent and let it deploy, maintain and manage multiple projects on…",
+    "fullDescription": "The easiest way to self-host projects on your own server. Connect your AI agent and let it deploy, maintain and manage multiple projects on any stack, while keeping your server organized and under control. Easy for anyone, not just sysadmins.\n\nАвтор: panelalpha. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://engine.panelalpha.com/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-driven",
+      "deployment",
+      "docker",
+      "docker-compose",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1372855284",
+    "createdAt": "2026-09-17T01:04:40.957Z"
+  },
+  {
+    "slug": "blocks-ci-sessions-github",
+    "title": "blocks-ci-sessions",
+    "shortDescription": "Run cloud coding agent sessions (Claude, Codex, Gemini, Cursor, and more) from CI and chain later jobs off the result. Powered by Blocks.",
+    "fullDescription": "Run cloud coding agent sessions (Claude, Codex, Gemini, Cursor, and more) from CI and chain later jobs off the result. Powered by Blocks.\n\nАвтор: BlocksOrg. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://blocks.team",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "automation",
+      "blocks",
+      "ci",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1372293100",
+    "createdAt": "2026-09-17T01:04:40.957Z"
+  },
+  {
+    "slug": "comic-maker-github",
+    "title": "comic-maker",
+    "shortDescription": "Hand-drawn explainer comic pipeline — AI draws the scenes, code draws the bubbles. Reproducible storyboards, lint-verified output, 12 sampl…",
+    "fullDescription": "Hand-drawn explainer comic pipeline — AI draws the scenes, code draws the bubbles. Reproducible storyboards, lint-verified output, 12 sample works.\n\nАвтор: aiyinluya. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/aiyinluya/comic-maker",
+    "category": "image-video",
+    "tags": [
+      "ai",
+      "comic",
+      "explainer",
+      "image-generation",
+      "manga",
+      "pillow",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1371105571",
+    "createdAt": "2026-09-17T01:04:40.958Z"
+  },
+  {
+    "slug": "ai-agent-cyber-github",
+    "title": "AI-agent-cyber",
+    "shortDescription": "The AI agent's bio",
+    "fullDescription": "The AI agent's bio\n\nАвтор: AI-agent-cyber. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/AI-agent-cyber/AI-agent-cyber",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-coding",
+      "ai-model",
+      "vibe",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1373415415",
+    "createdAt": "2026-09-17T01:04:40.958Z"
+  },
+  {
+    "slug": "jev-review-github",
+    "title": "jev-review",
+    "shortDescription": "A staged code-review workflow and local dashboard built with TypeSafe Jev.",
+    "fullDescription": "A staged code-review workflow and local dashboard built with TypeSafe Jev.\n\nАвтор: devagrawal09. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/devagrawal09/jev-review",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "code-review",
+      "jev",
+      "typesafe-ai",
+      "typescript",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1373665161",
+    "createdAt": "2026-09-17T01:04:40.958Z"
+  },
+  {
+    "slug": "robinhood-github",
+    "title": "robinhood",
+    "shortDescription": "A local coding terminal with persistent sessions, approved tools, and free-model routing. Developer preview.",
+    "fullDescription": "A local coding terminal with persistent sessions, approved tools, and free-model routing. Developer preview.\n\nАвтор: AmRitJain0442. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/AmRitJain0442/robinhood",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "cli",
+      "coding-agent",
+      "developer-tools",
+      "llm",
+      "typescript",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1371594477",
+    "createdAt": "2026-09-17T01:04:40.958Z"
+  },
+  {
+    "slug": "fibonacci-github",
+    "title": "fibonacci",
+    "shortDescription": "Cross-platform AI engineering studio & autonomous agent interface with first-class local model execution (GGUF, Ollama, PyTorch), live Canv…",
+    "fullDescription": "Cross-platform AI engineering studio & autonomous agent interface with first-class local model execution (GGUF, Ollama, PyTorch), live Canvas sandboxes, and private encrypted state.\n\nАвтор: AvenalJ. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/AvenalJ/fibonacci",
+    "category": "image-video",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-studio",
+      "autonomous-agents",
+      "bun",
+      "canvas",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1371644852",
+    "createdAt": "2026-09-17T01:04:40.958Z"
+  },
+  {
+    "slug": "ai-mcp-tool-github",
+    "title": "ai-mcp-tool",
+    "shortDescription": "Model Context Protocol AI tool bridge for Symfony applications.",
+    "fullDescription": "Model Context Protocol AI tool bridge for Symfony applications.\n\nАвтор: symfony. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://symfony.com/packages/ai-mcp-tool",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "bridge",
+      "llm",
+      "mcp",
+      "model-context-protocol",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1372630325",
+    "createdAt": "2026-09-17T01:04:40.958Z"
+  },
+  {
+    "slug": "hacker-news-a-little-more-focused-hn",
+    "title": "Hacker News, a little more focused",
+    "shortDescription": "I love AI and LLMs as much as the next person, but sometimes I just want to browse stories about, say programming. So I built this for myse…",
+    "fullDescription": "I love AI and LLMs as much as the next person, but sometimes I just want to browse stories about, say programming. So I built this for myself and figured I will share it here as well. Each story gets up to three tags, and I can use them to filter down the top stories to just the topics I am interested in. The tagging isn’t perfect. For example, some tags have a lot of overlap, like AI&#x2F;ML and LLMs. But it works well enough for me and since it’s a side project, it doesn’t have to be perfect :)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://hn-tags.beehivesoftware.xyz/?tags=programming",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49734856",
+    "createdAt": "2026-09-17T01:04:40.861Z"
+  },
+  {
     "slug": "fivetran-cli-is-released-to-beta-hn",
     "title": "Fivetran CLI is released to Beta",
     "shortDescription": "At long last, Fivetran has a CLI app that humans and AI can use to easily orchestrate the platform with a quick install and an api key. It…",
