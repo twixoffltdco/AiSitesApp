@@ -1,5 +1,101 @@
 [
   {
+    "slug": "respawn-an-undo-button-for-ai-agents-rust-local-first-no-cloud-hn",
+    "title": "Respawn – an undo button for AI agents (Rust, local-first, no cloud)",
+    "shortDescription": "Проект «Respawn – an undo button for AI agents (Rust, local-first, no cloud)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Respawn – an undo button for AI agents (Rust, local-first, no cloud)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/savageAZfck/respawn",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49747632",
+    "createdAt": "2026-09-17T22:46:59.727Z"
+  },
+  {
+    "slug": "unmute-a-single-definition-for-voice-agents-pushed-to-any-stack-hn",
+    "title": "Unmute – a single definition for voice agents, pushed to any stack",
+    "shortDescription": "Проект «Unmute – a single definition for voice agents, pushed to any stack», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Unmute – a single definition for voice agents, pushed to any stack», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/slng-ai/unmute",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49747623",
+    "createdAt": "2026-09-17T22:46:59.727Z"
+  },
+  {
+    "slug": "salt-human-and-ai-economies-driven-across-e2e-encrypted-chats-hn",
+    "title": "Salt – Human and AI Economies driven across E2E encrypted chats",
+    "shortDescription": "Hello, I started building this back in 2022 and it&#x27;s probably time to launch it. Basically enabling agents and humans to build network…",
+    "fullDescription": "Hello, I started building this back in 2022 and it&#x27;s probably time to launch it. Basically enabling agents and humans to build networks, transact, build economies, etc around identity, work, commerce. It&#x27;s still in beta, but it&#x27;s been a dream for a while and it&#x27;s ready to take on its first users for feedback. I&#x27;ve got plenty more interesting capabilities coming as I refine and distill down how this all fits together in the grand scheme of the future vision.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://saltapp.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49747239",
+    "createdAt": "2026-09-17T22:46:59.727Z"
+  },
+  {
+    "slug": "ai-crawler-honeypot-logs-every-agent-that-requests-it-hn",
+    "title": "AI crawler honeypot – logs every agent that requests it",
+    "shortDescription": "Проект «AI crawler honeypot – logs every agent that requests it», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI crawler honeypot – logs every agent that requests it», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://ai-crawler-honeypot-697299601273.europe-west2.run.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49746795",
+    "createdAt": "2026-09-17T22:46:59.727Z"
+  },
+  {
+    "slug": "radio-a-shared-workspace-for-your-agents-and-teammates-hn",
+    "title": "Radio – a shared workspace for your agents and teammates",
+    "shortDescription": "An internal tool we&#x27;ve been using to coordinate coding agents running in parallel across different machines. Just share the channel li…",
+    "fullDescription": "An internal tool we&#x27;ve been using to coordinate coding agents running in parallel across different machines. Just share the channel link with your existing agent chats, and your agents can reply to you and to each other in real time. Would love feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://radio.plasma.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49746327",
+    "createdAt": "2026-09-17T22:46:59.727Z"
+  },
+  {
+    "slug": "vim-like-hyper-efficient-llm-power-tool-20-80k-tokens-not-350k-hn",
+    "title": "Vim-like, hyper-efficient, LLM power tool - 20-80k tokens not 350k+",
+    "shortDescription": "I built a focused TUI tool for efficient parallelized tasks, early independent testers expressed 90%+ API savings and more direct results.…",
+    "fullDescription": "I built a focused TUI tool for efficient parallelized tasks, early independent testers expressed 90%+ API savings and more direct results. This is accomplished by user smaller context windows, hybrid client-side compaction, tool compaction, and system nudges (to avoid polluting the base prompts). My Shell features: - Vim-inspired keybindings, your keys never have to leave the keyboard (some mouse control supported as well) - Custom Markdown, LaTeX, and Mermaid rendering support - On-demand subagents with LLM-directed context handoff - Thread pooling, client-side compaction, tool compaction - Supports Powershell without a degraded experience; also support VGA&#x2F;VESA mode, run even when GPU drivers break! - Single bundle, no external packages required It’s opinionated, terminal-first, Vim-inspired; if that’s not for you, I have a web chat and a desktop app coming soon\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://easiest.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49746030",
+    "createdAt": "2026-09-17T22:46:59.728Z"
+  },
+  {
     "slug": "pojia-next-github",
     "title": "pojia-next",
     "shortDescription": "一个脚本搞定 DSH(DeepSeek Harness) 与 WorkBuddy 的提示词/人格替换：零依赖、双击即用、自动定位安装目录、改前必留备份、一键还原。Windows + Python 3.8+，纯标准库。仅供学习交流。",
