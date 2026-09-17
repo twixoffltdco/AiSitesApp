@@ -1,5 +1,323 @@
 [
   {
+    "slug": "templatesgrokbotcom-github",
+    "title": "templatesgrokbot.com",
+    "shortDescription": "TemplatesGrokBot.com is a library of 3,000+ ready-made Grok Bot templates. Search by task or job title, install any bot in Grokbot in minut…",
+    "fullDescription": "TemplatesGrokBot.com is a library of 3,000+ ready-made Grok Bot templates. Search by task or job title, install any bot in Grokbot in minutes, and connect the whole catalog to your agents via MCP. Made by Jeroen / Nexibeo.com to help anyone build a full team of AI agents for their job.\n\nАвтор: templatesgrokbot. Найдено в GitHub Trending (AI-тематика). ⭐ 51 звёзд.",
+    "url": "https://templatesgrokbot.com/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "artificial-intelligence",
+      "elon-musk",
+      "elonmusk",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1374194303",
+    "createdAt": "2026-09-17T16:30:52.821Z"
+  },
+  {
+    "slug": "ai-apis-you-can-ship-today-github",
+    "title": "ai-apis-you-can-ship-today",
+    "shortDescription": "This GitHub repo is a powerhouse collection of AI APIs you can start using immediately to ship real products — from LLM tools to computer v…",
+    "fullDescription": "This GitHub repo is a powerhouse collection of AI APIs you can start using immediately to ship real products — from LLM tools to computer vision and agents. One of the most valuable AI API lists on GitHub.\n\nАвтор: cporter202. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/cporter202/ai-apis-you-can-ship-today",
+    "category": "developer",
+    "tags": [
+      "agents",
+      "ai",
+      "apify",
+      "apis",
+      "awesome-list",
+      "chatgpt",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1373043882",
+    "createdAt": "2026-09-17T16:30:52.821Z"
+  },
+  {
+    "slug": "ha-jev-github",
+    "title": "HA-Jev",
+    "shortDescription": "Home Assistant integration for TypeSafe Jev. Ask a question about your house and get a probability, a choice or a score as an entity.",
+    "fullDescription": "Home Assistant integration for TypeSafe Jev. Ask a question about your house and get a probability, a choice or a score as an entity.\n\nАвтор: AboveColin. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/AboveColin/HA-Jev",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "custom-components",
+      "hacs",
+      "home-assistant",
+      "home-automation",
+      "homeassistant",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1374300570",
+    "createdAt": "2026-09-17T16:30:52.821Z"
+  },
+  {
+    "slug": "jev-codex-router-github",
+    "title": "jev-codex-router",
+    "shortDescription": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every…",
+    "fullDescription": "Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn.\n\nАвтор: 0xNatoshi. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/0xNatoshi/jev-codex-router",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "codex",
+      "jev",
+      "llm",
+      "macos",
+      "routing",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1373914715",
+    "createdAt": "2026-09-17T16:30:52.821Z"
+  },
+  {
+    "slug": "typesafe-dotnet-sdk-github",
+    "title": "typesafe-dotnet-sdk",
+    "shortDescription": "Community .NET SDK for the TypeSafe AI System One API — typed noul, choice, and score questions with structured, confidence-scored answers.…",
+    "fullDescription": "Community .NET SDK for the TypeSafe AI System One API — typed noul, choice, and score questions with structured, confidence-scored answers. Not affiliated with TypeSafe AI.\n\nАвтор: saibimajdi. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/saibimajdi/typesafe-dotnet-sdk",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "classification",
+      "csharp",
+      "dotnet",
+      "llm",
+      "sdk",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1373540055",
+    "createdAt": "2026-09-17T16:30:52.821Z"
+  },
+  {
+    "slug": "claude-and-codex-rate-limits-as-aim-away-messages-hn",
+    "title": "Claude and Codex rate limits as AIM away messages",
+    "shortDescription": "made this AIM buddy list but for our token usage because i wanted to bring a little bit of the old internet back! i remember those days whe…",
+    "fullDescription": "made this AIM buddy list but for our token usage because i wanted to bring a little bit of the old internet back! i remember those days where i&#x27;d casually check if friends are online and find excuses to say hi and poke them give it a try! i&#x27;d greatly appreciate feedback\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://diewithme.co/join",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49743095",
+    "createdAt": "2026-09-17T16:30:52.681Z"
+  },
+  {
+    "slug": "open-source-ai-teammates-with-their-own-computer-hn",
+    "title": "Open-source AI teammates with their own computer",
+    "shortDescription": "Проект «Open-source AI teammates with their own computer», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Open-source AI teammates with their own computer», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://runerrand.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49742388",
+    "createdAt": "2026-09-17T16:30:52.681Z"
+  },
+  {
+    "slug": "autoyou-self-hosted-ai-you-reach-from-your-phone-over-webrtc-hn",
+    "title": "AutoYou – Self-hosted AI you reach from your phone over WebRTC",
+    "shortDescription": "Проект «AutoYou – Self-hosted AI you reach from your phone over WebRTC», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AutoYou – Self-hosted AI you reach from your phone over WebRTC», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.autoyou.me/try/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49742336",
+    "createdAt": "2026-09-17T16:30:52.681Z"
+  },
+  {
+    "slug": "vosr-2-image-upscaling-in-the-browser-hn",
+    "title": "VOSR 2 image upscaling, in the browser",
+    "shortDescription": "Hey everyone, I’ve been interested in AI image upscaling for years, but running these models locally usually requires setting up complicate…",
+    "fullDescription": "Hey everyone, I’ve been interested in AI image upscaling for years, but running these models locally usually requires setting up complicated development environments. I used AI to port VOSR2 to WebGPU so anyone can run it directly in their browser. You’ll still need a fairly powerful machine, such as a modern Mac, but the results are comparable to Topaz, and it’s free. I’d love to hear what you think.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://getemerald.co/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49742313",
+    "createdAt": "2026-09-17T16:30:52.681Z"
+  },
+  {
+    "slug": "litellm-sends-ai-requestsconduct-decides-which-ones-shouldnt-be-sent-hn",
+    "title": "LiteLLM sends AI requests.Conduct decides which ones shouldn't be sent",
+    "shortDescription": "LiteLLM sends AI requests. Conduct decides which ones shouldn&#x27;t be sent. https:&#x2F;&#x2F;docs.litellm.ai&#x2F;docs&#x2F;proxy&#x2F;g…",
+    "fullDescription": "LiteLLM sends AI requests. Conduct decides which ones shouldn&#x27;t be sent. https:&#x2F;&#x2F;docs.litellm.ai&#x2F;docs&#x2F;proxy&#x2F;guardrails&#x2F;conduct\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://pypi.org/project/conduct-litellm-guard/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49741841",
+    "createdAt": "2026-09-17T16:30:52.682Z"
+  },
+  {
+    "slug": "i-forked-jetbrains-new-agent-ide-to-host-claude-code-hn",
+    "title": "I forked JetBrains' new agent IDE to host Claude Code",
+    "shortDescription": "ThinkRail is JetBrains&#x27; open-source IDE shell for AI coding agents: worktree-per-tab, chat + file tree + terminal, but hardwired to on…",
+    "fullDescription": "ThinkRail is JetBrains&#x27; open-source IDE shell for AI coding agents: worktree-per-tab, chat + file tree + terminal, but hardwired to one agent (Pi). My fork adds a plugin API so it can host others too, starting with Claude Code running in the same UI. What&#x27;s new over upstream: - A prototype of real plugin system - Claude Code as a first-class citizen — config, IDE bridge, and terminal status all wired in as a builtin plugin, so you get Claude Code sessions in the same worktree-scoped UI as `pi`. - Seven other builtin plugins split out the same way: blueprint (interactive specs), PDF preview, branch graph, a live drawing&#x2F;visualize surface, and file-type icons Nightly builds via a Homebrew tap are provided.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/CommanderTvis/thinkrail",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49741832",
+    "createdAt": "2026-09-17T16:30:52.682Z"
+  },
+  {
+    "slug": "unimodal-our-ai-manifest-hn",
+    "title": "Unimodal – Our AI Manifest",
+    "shortDescription": "We&#x27;re launching some products that need to get built to enable what&#x27;s coming next. The focus is around AI economies and Human eco…",
+    "fullDescription": "We&#x27;re launching some products that need to get built to enable what&#x27;s coming next. The focus is around AI economies and Human economies, how they work together and individually. Everything is in alpha so any feedback would be helpful.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://unimodal.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49741238",
+    "createdAt": "2026-09-17T16:30:52.682Z"
+  },
+  {
+    "slug": "intent-based-infrastructure-on-top-of-terraform-hn",
+    "title": "Intent Based Infrastructure on Top of Terraform",
+    "shortDescription": "Hey everyone! I built a platform that works on top of Terraform to expose high level constructs you want to create in your infrastructure (…",
+    "fullDescription": "Hey everyone! I built a platform that works on top of Terraform to expose high level constructs you want to create in your infrastructure (intent) rather than actually dealing with cloud resources (typical terraform modules). I am looking for other enthusiasts to work on this project, and gather feedback. The problem I am trying to solve is complexity. Typically you make infra by either asking AI, or dealing with very low level resources that other people on your team might not fully understand. If you expose a higher level construct, people will only typically deal with a well understood graph of intent which is much easier to understand and reason about, without worrying about low level resources. It works by declaring a model graph that consists of simple nodes like App, Region, Environment, Service, Server, etc that you show your intent with. E.g. My infrastructure consists of 3 AWS accounts (QA, Staging, Prod), with 2 Regions in each, and 1 Environment, under which my Service X resides. The Octo library then converts those intent to actual cloud resources using your instructions. E.g. it would convert a Region node into a vpc + internet-gateway. Or an Environment into an ECS Cluster. It will also generate the Terraform code for each of these cloud resources that your intent wanted. You can then run this Terraform code normally and get your infrastructure. There is a lot more depth, features, and roadmap items to this. Happy to go in more detail.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://octo.quadnix.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49740408",
+    "createdAt": "2026-09-17T16:30:52.682Z"
+  },
+  {
+    "slug": "a-graphrag-knowledge-base-of-the-commodore-64-for-ai-coding-agents-hn",
+    "title": "A GraphRAG knowledge base of the Commodore 64 for AI coding agents",
+    "shortDescription": "Проект «A GraphRAG knowledge base of the Commodore 64 for AI coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A GraphRAG knowledge base of the Commodore 64 for AI coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/bdgscotland/c64-kb",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49740304",
+    "createdAt": "2026-09-17T16:30:52.682Z"
+  },
+  {
+    "slug": "share-your-ai-setup-learn-from-others-hn",
+    "title": "Share your AI Setup, Learn from others",
+    "shortDescription": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did t…",
+    "fullDescription": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? What skills and tools had stuck or been thrown out the window? How did they manage longer-running tasks? So I built this with the hope we could have a dedicated space to share and be open about our setups.\n\nНайдено в разделе Show HN на Hacker News. 👍 55 баллов.",
+    "url": "https://mysetup.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49740105",
+    "createdAt": "2026-09-17T16:30:52.682Z"
+  },
+  {
+    "slug": "what-sandboxing-an-ai-coding-agent-in-a-vm-costs-hn",
+    "title": "What sandboxing an AI coding agent in a VM costs",
+    "shortDescription": "Проект «What sandboxing an AI coding agent in a VM costs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «What sandboxing an AI coding agent in a VM costs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.veloworkspaces.com/blog/vm-sandboxing-cost/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49740053",
+    "createdAt": "2026-09-17T16:30:52.682Z"
+  },
+  {
+    "slug": "bottle-a-tiny-ledger-for-bot-memory-hn",
+    "title": "Bottle – a tiny ledger for bot memory",
+    "shortDescription": "Bottle is a ledger that gives AI agents&#x2F;bots the ability to log facts against custom schemas and query those facts using a fixed set o…",
+    "fullDescription": "Bottle is a ledger that gives AI agents&#x2F;bots the ability to log facts against custom schemas and query those facts using a fixed set of commands. It&#x27;s the middle ground for when you want more structure than markdown, but less structure than SQL. I made it because I wanted to give AI agents a way to store and retrieve structured facts for repeated events but didn&#x27;t want the structure to be defined as prose, didn&#x27;t want the facts to be stored as prose, and didn&#x27;t want AI to overcomplicate things with SQL. Maybe you want to track hours worked on projects. Maybe want to track fitness or nutrition data. Maybe you want to track expenses, or leads, or any other form of repeated, structured data, and you want an agent or a bot to do all the tracking. If that&#x27;s the case, then Bottle might be what you&#x27;re looking for.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/imron/bottle",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49739531",
+    "createdAt": "2026-09-17T16:30:52.682Z"
+  },
+  {
+    "slug": "antflow-ai-agentic-ai-framework-for-spec-driven-development-hn",
+    "title": "AntFlow AI: Agentic AI Framework for Spec-Driven Development",
+    "shortDescription": "We have created this Agentic AI software development framework so engineering teams can move at AI speed without losing control. Let me kno…",
+    "fullDescription": "We have created this Agentic AI software development framework so engineering teams can move at AI speed without losing control. Let me know what y&#x27;all think\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://geekyants.com/antflow-ai",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49739484",
+    "createdAt": "2026-09-17T16:30:52.682Z"
+  },
+  {
     "slug": "ai-model-world-github-2",
     "title": "ai-model-world",
     "shortDescription": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch…",
