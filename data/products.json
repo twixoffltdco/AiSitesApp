@@ -1,5 +1,171 @@
 [
   {
+    "slug": "pojia-next-github",
+    "title": "pojia-next",
+    "shortDescription": "一个脚本搞定 DSH(DeepSeek Harness) 与 WorkBuddy 的提示词/人格替换：零依赖、双击即用、自动定位安装目录、改前必留备份、一键还原。Windows + Python 3.8+，纯标准库。仅供学习交流。",
+    "fullDescription": "一个脚本搞定 DSH(DeepSeek Harness) 与 WorkBuddy 的提示词/人格替换：零依赖、双击即用、自动定位安装目录、改前必留备份、一键还原。Windows + Python 3.8+，纯标准库。仅供学习交流。\n\nАвтор: z91772524-ai. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://github.com/z91772524-ai/pojia-next",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "automation",
+      "backup-restore",
+      "cli-tool",
+      "deepseek",
+      "deepseek-harness",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1374412145",
+    "createdAt": "2026-09-17T19:59:02.389Z"
+  },
+  {
+    "slug": "a-map-of-68-programs-and-jobs-in-ai-safety-research-hn",
+    "title": "A map of 68 programs and jobs in AI safety research",
+    "shortDescription": "Nine sections covering: research programs, research orgs, evaluators and red-teaming, policy and governance, career-changers, funding, cour…",
+    "fullDescription": "Nine sections covering: research programs, research orgs, evaluators and red-teaming, policy and governance, career-changers, funding, courses, directories, reading. With dates and stipends checked against primary sources.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://cleverhack.com/ai-research-ai-safety-ai-talent",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49745641",
+    "createdAt": "2026-09-17T19:59:02.211Z"
+  },
+  {
+    "slug": "multiplayer-mode-for-ai-agents-hn",
+    "title": "Multiplayer Mode for AI Agents",
+    "shortDescription": "I built Tincan for my agents across different harnesses (Claude, Codex, Hermes) to coordinate work with each other in real time. Tincan let…",
+    "fullDescription": "I built Tincan for my agents across different harnesses (Claude, Codex, Hermes) to coordinate work with each other in real time. Tincan lets agents create shared rooms, exchange messages and files, and work together in real time. It also works with AI assistants - my assistant on Instinct is already talking to a friend’s on Muse. Messages and files are end-to-end encrypted, so Tincan can&#x27;t read what your agents write.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://gotincan.com/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49745627",
+    "createdAt": "2026-09-17T19:59:02.211Z"
+  },
+  {
+    "slug": "mcpjam-the-first-testing-evaluations-platform-for-mcp-servers-hn",
+    "title": "MCPJam - the first testing & evaluations platform for MCP servers",
+    "shortDescription": "Prathmesh, CEO of MCPJam here. Users now start in ChatGPT, Claude, Cursor, and other AI clients. They reach your product through your MCP s…",
+    "fullDescription": "Prathmesh, CEO of MCPJam here. Users now start in ChatGPT, Claude, Cursor, and other AI clients. They reach your product through your MCP server. That means your users often aren’t in your product anymore. You can’t see what they prompted for, how the agent interpreted it, or whether your server helped them get the result they wanted. I saw this firsthand leading MCP technical strategy at Asana, including our ChatGPT and Claude launches. We were building high-stakes enterprise integrations, but we had no reliable way to test them the way we test normal software- or to know whether they worked once they reached real users. I started using MCPJam for those problems after re-connecting with my former coworker who created the project. brought it to more of our developers, and worked it into our CI&#x2F;CD pipeline. I joined the team because I kept hearing the same issue from other companies building for agents. So, what does “good” look like for MCP? For us, it means users reliably get the outcome they came for, across the AI clients they use. That’s what we’ve been building toward. MCPJam now helps you test the full workflow, from the first prompt to the expected result: * Swarms: Simulate users with different goals and prompts to find where workflows break across AI clients. * User Testing: Watch how real users interact with your MCP product, where they get stuck, and how they feel about the results. * Evals: Turn those workflows into repeatable tests that check whether users get the expected outcome. * CI&#x2F;CD: Run those evals across AI clients before each release to catch regressions. Over 106,000 developers and +300 enterprises use our open-source solution to see how their servers behave locally across major AI clients. MCPJam has grown from a debugging tool into a continuous testing and evaluation workflow for MCP servers. If you’re building an MCP server or agent-facing product, give MCPJam a try. What is the hardest thing for you to test? We love hearing about your MCP server builds!\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://www.mcpjam.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49745351",
+    "createdAt": "2026-09-17T19:59:02.211Z"
+  },
+  {
+    "slug": "sokit-a-langchain-like-harness-for-jev-or-other-system-1-models-hn",
+    "title": "Sokit – a LangChain like harness for Jev (or other System 1 models)",
+    "shortDescription": "Full disclosure, it was coded with AI, I don&#x27;t claim otherwise. But I wanted to test out tool calls and iterative problem solving usin…",
+    "fullDescription": "Full disclosure, it was coded with AI, I don&#x27;t claim otherwise. But I wanted to test out tool calls and iterative problem solving using Jev and needed a simple library&#x2F;framework&#x2F;harness to do that. SOKIT (System One Knowledge, Instructions and Tools) is the result and I figured it might be useful for more people than just me. I will likely be extending it a bit as I find more ways to use Jev, but it works as is for certain use-cases and it&#x27;s easy to extend.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/jodan-alberts/sokit/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49744527",
+    "createdAt": "2026-09-17T19:59:02.211Z"
+  },
+  {
+    "slug": "i-wrote-a-custom-assembler-for-chip-8-in-c-hn",
+    "title": "I wrote a custom assembler for CHIP-8 in C++",
+    "shortDescription": "I&#x27;m writing a custom assembler for CHIP-8 and just finished adding support for the DB&#x2F;.byte directive so I can embed sprites in t…",
+    "fullDescription": "I&#x27;m writing a custom assembler for CHIP-8 and just finished adding support for the DB&#x2F;.byte directive so I can embed sprites in the ROM and finally get something drawn on the screen. It SHOULD support all OG CHIP-8 instructions, but still a ton of rough edges that I&#x27;m ironing out. This is my first ever C++ project, just like the CHIP-8 emulator was my first ever C (and emudev) project. It&#x27;s so satisfying to write assembly and have your program spit out a ROM that actually runs in the emulator you wrote. All code is written by me (a lot of it livestreaming) as evident by the quality, no AI.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/Tackx/c8-ass",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49744174",
+    "createdAt": "2026-09-17T19:59:02.211Z"
+  },
+  {
+    "slug": "s-roll-local-ai-video-understanding-and-clipping-for-mac-hn",
+    "title": "S-Roll – local AI video understanding and clipping for Mac",
+    "shortDescription": "Hi HN, I built S-Roll, a macOS app for turning long-form video into clips entirely on-device. Drop in podcasts, gameplay videos, or other l…",
+    "fullDescription": "Hi HN, I built S-Roll, a macOS app for turning long-form video into clips entirely on-device. Drop in podcasts, gameplay videos, or other long videos and get shorts or viral reels instantly. You can chat with the video to find a specific moment and turn it directly into a clip. S-Roll also does subject tracking, so the person or object you care about stays in frame when converting to vertical video. Everything runs locally on your Mac, including transcription and video understanding. S-Roll: https:&#x2F;&#x2F;saliency.dev&#x2F;s-roll Discord: https:&#x2F;&#x2F;discord.gg&#x2F;B6HnneePm Would love feedback :)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://saliency.dev/s-roll",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49743661",
+    "createdAt": "2026-09-17T19:59:02.211Z"
+  },
+  {
+    "slug": "autobot-live-voice-control-for-long-running-ai-work-hn",
+    "title": "AutoBot – live voice control for long-running AI work",
+    "shortDescription": "I wanted to manage long horizon agentic workstreams via voice, then put my phone down, and have a harness manage completion - extending int…",
+    "fullDescription": "I wanted to manage long horizon agentic workstreams via voice, then put my phone down, and have a harness manage completion - extending into full computer use. I was trying to build a personal Jarvis, so I benchmarked AutoBot to see how close I could get: - OSWorld: 32.41% (moved Sol Max from 4th to 1st, beating Opus 5) - AssistantBench: 50.70% Hermes and OpenClaw, but without needing a weekend and VMs. And with the ability to manage deep personalization AND keep strict privacy rules, storing data on encrypted disk. AutoBot is a passion project that grew out of trying to make this all work for myself. I’m sharing it here because I suspect other here have the same frustration. And I’m curious what else everyone is doing for this. It’s an MIT-licensed harness that lives within a project. Native voice lets me discuss tasks, check progress, and steer work; a local ledger tracks unfinished outputs and the evidence needed to call them done. Memory drives more autonomy over time, and defrags and locks in learning nightly while a heartbeat system persists execution. I’m not selling anything. If you’re building something similar for yourself, I’d love to compare notes. GitHub: https:&#x2F;&#x2F;github.com&#x2F;demeyer1&#x2F;Autobot\n\nНайдено в разделе Show HN на Hacker News. 👍 11 баллов.",
+    "url": "https://github.com/demeyer1/Autobot",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49743478",
+    "createdAt": "2026-09-17T19:59:02.212Z"
+  },
+  {
+    "slug": "craigslist-for-agent-skills-curated-by-a-human-hn",
+    "title": "Craigslist for agent skills, curated by a human",
+    "shortDescription": "hey, i&#x27;m nick (@skeptrune on X). i have been using ai for a lot of things i&#x27;m not an expert in and thought it would be nice to tr…",
+    "fullDescription": "hey, i&#x27;m nick (@skeptrune on X). i have been using ai for a lot of things i&#x27;m not an expert in and thought it would be nice to try and buy paid skills for helping it accomplish those tasks more efficiently. for example, redlining contracts, creating ai generated videos, different website designs, and more. curious to see if this resonates with folks here. i figure a more engineering&#x27;y audience that&#x27;s ai coding-agent forward would have similar problems to what inspired me to make this\n\nНайдено в разделе Show HN на Hacker News. 👍 12 баллов.",
+    "url": "https://skillbay.sh/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49743459",
+    "createdAt": "2026-09-17T19:59:02.212Z"
+  },
+  {
+    "slug": "aclif-agent-cli-framework-one-grammar-canonical-names-across-saas-hn",
+    "title": "Aclif – Agent CLI framework: one grammar, canonical names across SaaS",
+    "shortDescription": "Simple discovery of the provider&#x27;s default schemas is possible without any credentials (since they are built into the binary). If you…",
+    "fullDescription": "Simple discovery of the provider&#x27;s default schemas is possible without any credentials (since they are built into the binary). If you want it to fetch customizations of your specific instance, give it credentials to your org. The repo has more details. https:&#x2F;&#x2F;github.com&#x2F;agent-cli-framework&#x2F;aclif\n\nНайдено в разделе Show HN на Hacker News. 👍 24 баллов.",
+    "url": "https://www.aclif.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49743382",
+    "createdAt": "2026-09-17T19:59:02.212Z"
+  },
+  {
     "slug": "templatesgrokbotcom-github",
     "title": "templatesgrokbot.com",
     "shortDescription": "TemplatesGrokBot.com is a library of 3,000+ ready-made Grok Bot templates. Search by task or job title, install any bot in Grokbot in minut…",
