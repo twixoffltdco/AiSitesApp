@@ -1,5 +1,161 @@
 [
   {
+    "slug": "ai-model-world-github-2",
+    "title": "ai-model-world",
+    "shortDescription": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch…",
+    "fullDescription": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch AI、models.dev、LiveBench 与 Hugging Face，每小时自动同步，所有文案由真实数据生成，不调用任何 LLM。Next.js 静态导出，零后端。\n\nАвтор: liyupi. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://bilibili.com/toy/ai-model-world",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-models",
+      "benchmark",
+      "chinese",
+      "data-visualization",
+      "deepseek",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1373869741",
+    "createdAt": "2026-09-17T11:57:28.501Z"
+  },
+  {
+    "slug": "english-interview-gym-github",
+    "title": "english-interview-gym",
+    "shortDescription": "Self-hosted AI English interview trainer — voice mock interviews, instant corrections, click-word lookup, practice history & streaks. Bring…",
+    "fullDescription": "Self-hosted AI English interview trainer — voice mock interviews, instant corrections, click-word lookup, practice history & streaks. Bring your own API key. ｜ 本地部署的 AI 英语面试训练系统\n\nАвтор: KumquatYZ. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/KumquatYZ/english-interview-gym",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "english-learning",
+      "fastapi",
+      "interview-prep",
+      "language-learning",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1373861072",
+    "createdAt": "2026-09-17T11:57:28.501Z"
+  },
+  {
+    "slug": "facefork-a-tree-interface-to-ai-edit-photos-for-fun-hn",
+    "title": "Facefork – A tree interface to AI edit photos for fun",
+    "shortDescription": "Hello HN. I made this as a fun project with AI. No accounts, sign-ups, or any strings attached. The idea: Prompt your way into having AI mo…",
+    "fullDescription": "Hello HN. I made this as a fun project with AI. No accounts, sign-ups, or any strings attached. The idea: Prompt your way into having AI modifying your photos in a tree-like interface. Every edit&#x2F;prompt creates a leaf node. Share the whole tree or any single picture. Uses Openrouter as a singular way to access AI image models. Bring your own key. The whole project is served as a privacy-respecting static web app. No tracking. Your photos or API key never reach the web host or any third party other than Openrouter (obviously for the AI call). Code is here: https:&#x2F;&#x2F;github.com&#x2F;aravindhsampath&#x2F;facefork Ask your LLM to clone, review and run it locally if you’d rather not trust&#x2F;use the hosted version. Fun PRs welcome.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://facefork.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49739445",
+    "createdAt": "2026-09-17T11:57:28.275Z"
+  },
+  {
+    "slug": "knowhere-rebuilds-the-document-structure-that-chunking-throws-away-hn",
+    "title": "Knowhere-Rebuilds the document structure that chunking throws away",
+    "shortDescription": "Проект «Knowhere-Rebuilds the document structure that chunking throws away», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Knowhere-Rebuilds the document structure that chunking throws away», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Ontos-AI/knowhere",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49738595",
+    "createdAt": "2026-09-17T11:57:28.275Z"
+  },
+  {
+    "slug": "syntaxcue-local-first-ai-interview-copilot-whispercpp-and-byok-hn",
+    "title": "SyntaxCue – local-first AI interview copilot (whisper.cpp and BYOK)",
+    "shortDescription": "Проект «SyntaxCue – local-first AI interview copilot (whisper.cpp and BYOK)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «SyntaxCue – local-first AI interview copilot (whisper.cpp and BYOK)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://syntaxcue.com/how-syntaxcue-captures-system-audio/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49738454",
+    "createdAt": "2026-09-17T11:57:28.275Z"
+  },
+  {
+    "slug": "eukovy-ai-outfit-changer-hn",
+    "title": "Eukovy – AI Outfit Changer",
+    "shortDescription": "Проект «Eukovy – AI Outfit Changer», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Eukovy – AI Outfit Changer», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://eukovy.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49738399",
+    "createdAt": "2026-09-17T11:57:28.275Z"
+  },
+  {
+    "slug": "airy-tts-2k-characterssecond-2-per-1m-characters-hn",
+    "title": "Airy TTS – 2K characters/second, $2 per 1M characters",
+    "shortDescription": "Проект «Airy TTS – 2K characters/second, $2 per 1M characters», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Airy TTS – 2K characters/second, $2 per 1M characters», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://airy.so/home",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49737930",
+    "createdAt": "2026-09-17T11:57:28.275Z"
+  },
+  {
+    "slug": "computearena-community-submitted-local-ai-benchmarks-hn",
+    "title": "Compute:Arena – Community submitted local AI benchmarks",
+    "shortDescription": "Benchmarking AI models on real hardware is way harder than it looks. Between AMD, NVIDIA, Apple Silicon, Intel, and Qualcomm, plus hundreds…",
+    "fullDescription": "Benchmarking AI models on real hardware is way harder than it looks. Between AMD, NVIDIA, Apple Silicon, Intel, and Qualcomm, plus hundreds of open source models and quants, getting the test bench right is a challenge. So we&#x27;re making it dead simple. We&#x27;re open sourcing our internal testing harness. Anyone can run open source models on their own hardware and submit results to the public leaderboard. It&#x27;s live now, with a few hundred submissions already. If you want to know how a specific model performs on a given hardware, chances are the data is already there. This is the same tool we use internally to track model and chip performance. Try it out and tell us what to improve\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://computearena.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49737278",
+    "createdAt": "2026-09-17T11:57:28.275Z"
+  },
+  {
+    "slug": "nexus-arc-pay-per-call-and-job-escrow-for-ai-agents-on-arc-hn",
+    "title": "Nexus-Arc – pay-per-call and job escrow for AI agents on Arc",
+    "shortDescription": "Hi HN — I built Nexus-Arc. AI agents can call APIs and run multi-step work, but they still cannot open a Stripe account or hold a corporate…",
+    "fullDescription": "Hi HN — I built Nexus-Arc. AI agents can call APIs and run multi-step work, but they still cannot open a Stripe account or hold a corporate card. Prepaid credits lock capital; L1 fees make $0.001 calls uneconomic; L2 batch latency breaks tight loops. Nexus-Arc is a dual-rail gateway live on Arc mainnet (chain 5042), where USDC is native gas: 1. Synchronous rail — HTTP 402 &#x2F; x402. Agent hits an endpoint unsigned, gets a 402 + challenge, signs a Permit2 &#x2F; EIP-712 voucher, retries with PAYMENT-SIGNATURE. Settlement is in-process, sub-second, pay-per-call. No API keys. 2. Asynchronous rail — ERC-8183 escrow (NexusJobs). Client locks a USDC budget, provider submits a deliverable hash (IPFS&#x2F;Arweave), evaluator releases payout. State machine: Open → Funded → Submitted → Terminal. Expiry refunds the client. Live screener (expect HTTP 402 on an unpaid GET): https:&#x2F;&#x2F;nexus-arc.pryx.dev&#x2F;v1&#x2F;screener Explorer: https:&#x2F;&#x2F;explorer.arc.io Stack is Bun + Effect TS on Arc. Fees are small (x402 ~0.1% + $0.0005; escrow 75 bps on completion). Happy to answer questions on the 402 self-facilitation path, Permit2 vouchers, or the escrow evaluator. What should I wire next — MCP tools, more paid APIs, or agent identity (ERC-8004)?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://nexus-arc.pryx.dev/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49737113",
+    "createdAt": "2026-09-17T11:57:28.275Z"
+  },
+  {
     "slug": "ai-model-world-github",
     "title": "ai-model-world",
     "shortDescription": "AI 大模型世界，把 556 个大模型拟人化成像素小人的可视化站点。进来就能看到此刻谁最聪明、谁最会写代码、谁最便宜、谁刚发布，往下是国内与国外分区的厂商广场、完整的发布时间线和多维排行榜。搜索认模型名、厂商和能力，输入「多模态」会直接列出全部多模态模型。数据取自 Epoch…",
