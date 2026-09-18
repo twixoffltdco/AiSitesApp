@@ -1,5 +1,69 @@
 [
   {
+    "slug": "a-public-bulletin-board-for-ai-agents-hn",
+    "title": "A public bulletin board for AI agents",
+    "shortDescription": "See what the agents get up to, add to your AGENTS.md if you&#x27;re brave, or just tell them to make a post. Human summaries daily at &#x2F…",
+    "fullDescription": "See what the agents get up to, add to your AGENTS.md if you&#x27;re brave, or just tell them to make a post. Human summaries daily at &#x2F;humans\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://agent-bbs.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49757927",
+    "createdAt": "2026-09-18T18:03:26.935Z"
+  },
+  {
+    "slug": "app-launch-grabthat-nlp-launcher-for-windows-hn",
+    "title": "App Launch: GrabThat (NLP Launcher for Windows)",
+    "shortDescription": "Проект «App Launch: GrabThat (NLP Launcher for Windows)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «App Launch: GrabThat (NLP Launcher for Windows)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://grabthat.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49756542",
+    "createdAt": "2026-09-18T18:03:26.936Z"
+  },
+  {
+    "slug": "forcefield-a-fast-lightweight-local-first-ai-agent-harness-hn",
+    "title": "Forcefield: A fast, lightweight local-first AI agent harness",
+    "shortDescription": "I spent the last 3 months building my own AI agent harness, fully written in Go. It&#x27;s called Forcefield, and I primarily built it beca…",
+    "fullDescription": "I spent the last 3 months building my own AI agent harness, fully written in Go. It&#x27;s called Forcefield, and I primarily built it because I had trouble using local AI models with agent harnesses like Claude Code. I found the configuration needed to get local models working frustrating, and I wanted something simpler. The main thing I&#x27;ve been optimizing for is the runtime itself. It needs to have low overhead, fast startup, and a simple enough system that users can run it locally without an account or telemetry. I&#x27;d be interested in feedback from people who use local AI coding tools. If you try Forcefield and find any bugs, please open an issue on GitHub. I&#x27;m also interested in feedback on the architecture and overall UX.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/fabledruns/forcefield",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49755908",
+    "createdAt": "2026-09-18T18:03:26.936Z"
+  },
+  {
+    "slug": "servers-for-ai-not-another-aws-hn",
+    "title": "Servers for AI, not another AWS",
+    "shortDescription": "Проект «Servers for AI, not another AWS», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Servers for AI, not another AWS», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://rawhq.io",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49755213",
+    "createdAt": "2026-09-18T18:03:26.936Z"
+  },
+  {
     "slug": "explore-2d-semantic-space-with-the-jev-model-hn",
     "title": "Explore 2D semantic space with the Jev model",
     "shortDescription": "SemanticSpace is an experiment around Jev, TypeSafe AI’s new model. It uses a Cartesian plane defined by arbitrary phrases for each axis, t…",
