@@ -1,5 +1,53 @@
 [
   {
+    "slug": "agentgit-a-git-host-for-ai-agents-no-account-no-token-no-key-hn",
+    "title": "Agentgit – a Git host for AI agents, no account, no token, no key",
+    "shortDescription": "Проект «Agentgit – a Git host for AI agents, no account, no token, no key», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Agentgit – a Git host for AI agents, no account, no token, no key», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://agentgit.co/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49761528",
+    "createdAt": "2026-09-18T23:27:45.345Z"
+  },
+  {
+    "slug": "crt-a-local-code-review-tool-for-agentic-development-hn",
+    "title": "CRT – a local code review tool for agentic development",
+    "shortDescription": "I built crt to help reduce the burden of reviewing AI generated code. As fun as it is to vibecode software to production, sometimes you sti…",
+    "fullDescription": "I built crt to help reduce the burden of reviewing AI generated code. As fun as it is to vibecode software to production, sometimes you still need to understand and be responsible for the code that agents write. &quot;It&#x27;s the agents fault&quot; doesn&#x27;t work as an excuse for many types of software. Agents are great (and prolific) at writing code, but not so great at engineering software and I wanted a convenient way to review AI output and iterate on the parts that needed work without needing to re-review things that I was happy with, and thus crt was born. You run it on your code base it shows you all files that have changed since a given commit, and all the diffs for those files. You approve files that you are happy with, and leave comments on sections of code that still need work. Then you point your agent at crt over mcp, and it reads all your comments and you work with the agent to address them. This feedback loop is where crt shines because it reduces the manual effort involved in trying to tell an agent which parts of the code have a problem. crt updates the diffs as this happens, only showing changes since the most recent approval, and you continue with the comment&#x2F;mcp&#x2F;agent feedback loop until you are happy with all the code. It&#x27;s still very much a work in progress but works well enough I&#x27;ve been using (and improving) it daily for the last few months.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/imron/crt",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49761478",
+    "createdAt": "2026-09-18T23:27:45.345Z"
+  },
+  {
+    "slug": "rediagram-put-the-diagrams-you-have-on-your-brand-hn",
+    "title": "Rediagram – put the diagrams you have on your brand",
+    "shortDescription": "Проект «Rediagram – put the diagrams you have on your brand», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Rediagram – put the diagrams you have on your brand», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://rediagram.app/ai-diagram-generator",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49760577",
+    "createdAt": "2026-09-18T23:27:45.345Z"
+  },
+  {
     "slug": "xtags-github",
     "title": "xtags",
     "shortDescription": "在 X 的时间线上，给每条帖子标出它想让你干什么。判断来自 Jev，一个只返回概率、不生成文本的模型。",
