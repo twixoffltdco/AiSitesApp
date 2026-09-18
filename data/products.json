@@ -1,5 +1,80 @@
 [
   {
+    "slug": "llm-owasp-lab-github",
+    "title": "LLM-OWASP-LAB",
+    "shortDescription": "Vulnerable AI applications and hands-on labs for learning the OWASP Top 10 for Large Language Model Applications.",
+    "fullDescription": "Vulnerable AI applications and hands-on labs for learning the OWASP Top 10 for Large Language Model Applications.\n\nАвтор: riteshs4hu. Найдено в GitHub Trending (AI-тематика). ⭐ 10 звёзд.",
+    "url": "https://github.com/riteshs4hu/LLM-OWASP-LAB",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "aisecurity",
+      "challenges",
+      "labs",
+      "llm",
+      "owasp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1373039122",
+    "createdAt": "2026-09-18T10:32:11.926Z"
+  },
+  {
+    "slug": "typesafe-ai-rs-github",
+    "title": "typesafe-ai-rs",
+    "shortDescription": "Independent async and blocking Rust SDK for the TypeSafe AI System One API",
+    "fullDescription": "Independent async and blocking Rust SDK for the TypeSafe AI System One API\n\nАвтор: gilljon. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://docs.rs/typesafe-ai-rs",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "api-client",
+      "rust",
+      "rust-sdk",
+      "typesafe",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1373938796",
+    "createdAt": "2026-09-18T10:32:11.926Z"
+  },
+  {
+    "slug": "tuisheet-a-terminal-spreadsheet-compatible-with-openxml-xlsx-files-hn",
+    "title": "tuisheet, a terminal spreadsheet compatible with OpenXML (xlsx) files",
+    "shortDescription": "Presenting tuisheet: A love letter to VisiCalc and Lotus 1-2-3. The motive was to code a programme inspired by VisiCalc and Lotus 1-2-3 int…",
+    "fullDescription": "Presenting tuisheet: A love letter to VisiCalc and Lotus 1-2-3. The motive was to code a programme inspired by VisiCalc and Lotus 1-2-3 interface, running on terminal, but fully compatible with the current universal standard of OpenXML (xlsx files for spreadsheets). Coded in Go lang; apart from my being more familiar with this programming language, it helps making a single executable, low on resources. Also, I like Go&#x27;s compiler ability to cross compile to many platforms and OSes (which I personally often meet through my daily job). By the way, tuisheet is much more thoroughly tested and used on Linux than on Windows (or Solaris, AIX, BSD).\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/krackout/tuisheet",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49752129",
+    "createdAt": "2026-09-18T10:32:11.713Z"
+  },
+  {
+    "slug": "open-source-alternative-to-typesafeai-hn",
+    "title": "Open-Source Alternative to TypeSafe.ai",
+    "shortDescription": "Проект «Open-Source Alternative to TypeSafe.ai», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Open-Source Alternative to TypeSafe.ai», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/TitovDigital/kbai-skill",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49750649",
+    "createdAt": "2026-09-18T10:32:11.713Z"
+  },
+  {
     "slug": "typesafeai-dotnet-sdk-github",
     "title": "typesafeai-dotnet-sdk",
     "shortDescription": "Community .NET SDK for the TypeSafe AI System One API — typed noul, choice, and score questions with structured, confidence-scored answers.…",
