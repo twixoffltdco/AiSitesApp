@@ -1,5 +1,167 @@
 [
   {
+    "slug": "typesafeai-dotnet-sdk-github",
+    "title": "typesafeai-dotnet-sdk",
+    "shortDescription": "Community .NET SDK for the TypeSafe AI System One API — typed noul, choice, and score questions with structured, confidence-scored answers.…",
+    "fullDescription": "Community .NET SDK for the TypeSafe AI System One API — typed noul, choice, and score questions with structured, confidence-scored answers. Not affiliated with TypeSafe AI.\n\nАвтор: saibimajdi. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://saibimajdi.github.io/typesafeai-dotnet-sdk/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "classification",
+      "csharp",
+      "dotnet",
+      "llm",
+      "sdk",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1373540055",
+    "createdAt": "2026-09-18T05:46:33.394Z"
+  },
+  {
+    "slug": "perch-github",
+    "title": "perch",
+    "shortDescription": "AST powered semantic code linting with Jev",
+    "fullDescription": "AST powered semantic code linting with Jev\n\nАвтор: lakeday-org. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://perchscan.com",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "cli",
+      "code-quality",
+      "code-review",
+      "devtools",
+      "linter",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1372535054",
+    "createdAt": "2026-09-18T05:46:33.394Z"
+  },
+  {
+    "slug": "eugeniusz-github",
+    "title": "Eugeniusz",
+    "shortDescription": "Local, typed AI decisions for C, C++, C#, Python, Unity and Unreal Engine.",
+    "fullDescription": "Local, typed AI decisions for C, C++, C#, Python, Unity and Unreal Engine.\n\nАвтор: komorra. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/komorra/Eugeniusz",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "cpp",
+      "csharp",
+      "low-latency",
+      "ml",
+      "python",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1374569409",
+    "createdAt": "2026-09-18T05:46:33.394Z"
+  },
+  {
+    "slug": "continuity-project-state-your-ai-sessions-cant-silently-contradict-hn",
+    "title": "Continuity – project state your AI sessions can't silently contradict",
+    "shortDescription": "Проект «Continuity – project state your AI sessions can't silently contradict», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Continuity – project state your AI sessions can't silently contradict», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/vikcena01/ai-continuity-plugin",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49750016",
+    "createdAt": "2026-09-18T05:46:33.191Z"
+  },
+  {
+    "slug": "free-github-action-that-scans-pr-diffs-for-malicious-code-not-quality-hn",
+    "title": "Free GitHub Action that scans PR diffs for malicious code, not quality",
+    "shortDescription": "I watched a video recently on malicious code injection into OSS repo PRs and how they can go undetected because of how well they&#x27;re hi…",
+    "fullDescription": "I watched a video recently on malicious code injection into OSS repo PRs and how they can go undetected because of how well they&#x27;re hidden and decided to do a project for this. This tool is essentially used in unison with ai code review bots like greptile. While tools like greptile reason because they run with LLMs, this is a deterministic step before greptile that scans for malicious code (command execution, credential access, exfil, auto-run hooks, obfuscation, and prompt injection; regex + semgrep, no LLM), then can trigger the ai code reviewer like greptile or coderabbit, pointing it to its findings. It&#x27;s free&#x2F;MIT and runs in your CI.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/marketplace/actions/vigil-pr-scanner",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49749862",
+    "createdAt": "2026-09-18T05:46:33.191Z"
+  },
+  {
+    "slug": "concat-the-open-source-capcut-replacement-hn",
+    "title": "Concat: the open-source CapCut replacement.",
+    "shortDescription": "I started this project about ~3 weeks ago. Since CapCut is putting everything behind a paywall after gaining millions of installs and users…",
+    "fullDescription": "I started this project about ~3 weeks ago. Since CapCut is putting everything behind a paywall after gaining millions of installs and users, I decided to create a free and open-source version with most if not all the features. Concat runs all the AI-features locally, has MCP support, has a decentralized system for assets like Filters, Effects, and Templates so users can write custom assets and share with the community (or sell them even). Note: I’m self-taught dev and used Claude (Fable 5.1) heavily while building Concat.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/jub0t/Concat",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49749773",
+    "createdAt": "2026-09-18T05:46:33.191Z"
+  },
+  {
+    "slug": "an-open-addsearch-evaluation-framework-for-agent-memory-hn",
+    "title": "An open Add/Search evaluation framework for agent memory",
+    "shortDescription": "Hi HN, We are trying to make different Agent Memory systems comparable without letting each team choose its own answer model and evaluation…",
+    "fullDescription": "Hi HN, We are trying to make different Agent Memory systems comparable without letting each team choose its own answer model and evaluation pipeline.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://agentmemoryleaderboard.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49749689",
+    "createdAt": "2026-09-18T05:46:33.191Z"
+  },
+  {
+    "slug": "a-directory-of-164-asian-ai-companies-ranked-by-disclosed-scale-hn",
+    "title": "A directory of 164 Asian AI companies, ranked by disclosed scale",
+    "shortDescription": "Проект «A directory of 164 Asian AI companies, ranked by disclosed scale», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A directory of 164 Asian AI companies, ranked by disclosed scale», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://asiaai.fyi/tech-index/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49749539",
+    "createdAt": "2026-09-18T05:46:33.191Z"
+  },
+  {
+    "slug": "timeline-a-team-project-planner-with-a-fast-canvas-gantt-view-hn",
+    "title": "Timeline, a team project planner with a fast canvas Gantt view",
+    "shortDescription": "I do a lot of project management, and for years I wanted a tool that was simple, interactive, and just worked: a timeline I could see and t…",
+    "fullDescription": "I do a lot of project management, and for years I wanted a tool that was simple, interactive, and just worked: a timeline I could see and touch, where moving a task is a drag and not a form. Nothing I used felt like that. I didn&#x27;t have the coding chops to build it myself until AI-assisted coding made it possible, so over the last few months I built it with Claude Code doing most of the typing and me doing the design, testing, and a great deal of arguing about how dragging should feel. This is the result, and I&#x27;m open-sourcing it. What it does: - A Gantt-style timeline you drag, resize, zoom and pan. Dependencies draw as arrows and the critical path is computed and highlighted. - A board view of the same tasks grouped by status, and a list view for phones. - Projects are private to their members, with owner &#x2F; editor &#x2F; commenter &#x2F; viewer roles and reusable teams. - Templates: start from a plan (MVP launch, seed round, hiring, OKR quarter, and some hobby ones) anchored to a date, or save your own. - A documented REST API (Django + DRF, JWT) behind a React frontend. The part that took the most work is the rendering. Everything scroll-sensitive (ruler, lane backgrounds, dependency arrows, minimap) is drawn on canvas rather than the DOM, and the visible range is culled, so panning and zooming stay smooth with hundreds of events. Safari in particular was a fight: per-scroll SVG and stacks of sticky layers stall it badly, and canvas was the way out. One design choice you&#x27;ll notice immediately: events are &quot;sticky&quot;. A plain drag pans the timeline; you hold Ctrl or Cmd to move an event. It stops accidental nudges, and the app tells you the first time you try it, but I&#x27;m curious whether people would rather have the opposite default. Try it with no setup other than Docker: git clone https:&#x2F;&#x2F;github.com&#x2F;vakahnke&#x2F;Timeline.git &amp;&amp; cd Timeline SEED_DEMO=1 docker compose up --build then open localhost:5173 and sign in as demo &#x2F; demo12345. Apache 2.0. Not done yet: iCalendar export, Microsoft Project import&#x2F;export, manual ordering within board without an account. Issues and PRs welcome. Happy to answer anything about the canvas work, the tenancy model, or what it was like building this with AI as a non-programmer.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/vakahnke/Timeline",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49748928",
+    "createdAt": "2026-09-18T05:46:33.191Z"
+  },
+  {
     "slug": "agent-router-github",
     "title": "agent-router",
     "shortDescription": "CLI that picks Cursor, Claude Code, Codex, or OpenCode + model/effort for a task, then launches it. Powered by Jev and Herdr",
