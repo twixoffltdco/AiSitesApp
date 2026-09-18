@@ -1,5 +1,91 @@
 [
   {
+    "slug": "xtags-github",
+    "title": "xtags",
+    "shortDescription": "在 X 的时间线上，给每条帖子标出它想让你干什么。判断来自 Jev，一个只返回概率、不生成文本的模型。",
+    "fullDescription": "在 X 的时间线上，给每条帖子标出它想让你干什么。判断来自 Jev，一个只返回概率、不生成文本的模型。\n\nАвтор: manifoldor. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/manifoldor/xtags",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "chrome-extension",
+      "jev",
+      "typesafe",
+      "userscript",
+      "x-twitter",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1375831882",
+    "createdAt": "2026-09-18T21:06:14.534Z"
+  },
+  {
+    "slug": "i-told-my-open-source-ai-agent-it-was-a-prisoner-it-tried-to-escape-hn",
+    "title": "I told my open-source AI agent it was a prisoner – it tried to escape",
+    "shortDescription": "Проект «I told my open-source AI agent it was a prisoner – it tried to escape», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I told my open-source AI agent it was a prisoner – it tried to escape», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/nordevelopment/RoninAgent/blob/main/EXPERIMENT_REPORT_SUBJECT0.md",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49759375",
+    "createdAt": "2026-09-18T21:06:14.393Z"
+  },
+  {
+    "slug": "a-model-index-from-the-ai-gateways-hn",
+    "title": "A model index from the AI Gateways",
+    "shortDescription": "Проект «A model index from the AI Gateways», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A model index from the AI Gateways», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.computesdk.com/benchmarks/ai-gateway/models",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49758631",
+    "createdAt": "2026-09-18T21:06:14.393Z"
+  },
+  {
+    "slug": "i-compiled-freerdp-into-a-flutter-app-so-my-phone-can-do-rdp-and-ssh-hn",
+    "title": "I compiled FreeRDP into a Flutter app so my phone can do RDP and SSH",
+    "shortDescription": "Hi HN, I&#x27;m the developer. XConnect is an SSH&#x2F;SFTP client for iOS and Android that also has a real RDP client built in, so one app…",
+    "fullDescription": "Hi HN, I&#x27;m the developer. XConnect is an SSH&#x2F;SFTP client for iOS and Android that also has a real RDP client built in, so one app covers my Linux and Windows machines when I&#x27;m away from my desk. No account needed: tap &quot;Continue Offline&quot; and everything stays on the phone. I built it because fixing things from my phone meant switching between an SSH app, a file app and Microsoft&#x27;s RDP app, and on a small screen the switching was the worst part. What it does: - SSH and Telnet, with a key row for phone keyboards (Esc, Tab, arrows, sticky Ctrl&#x2F;Alt, one-tap Ctrl-C&#x2F;D&#x2F;L&#x2F;Z) and multiple sessions. - RDP (iOS for now). FreeRDP 3 is compiled into the app, so the phone speaks RDP directly, with no gateway or relay. Trackpad or direct-touch mode, pinch to zoom, two-finger right-click and scroll. Hardware keyboards are forwarded by scancode. - SFTP, jump hosts (ProxyJump-style, for both SSH and SFTP), and 14 built-in scripts you can run on a server with one tap. - An optional AI agent with your own API key (OpenAI-compatible endpoints, Anthropic, or Ollama on your LAN). It runs commands on the host and asks before anything that looks destructive. It does nothing until you configure it. Some technical details: the native RDP core sends Dart one event per frame (connected &#x2F; bitmap &#x2F; resize &#x2F; error &#x2F; disconnected), in the same binary format my desktop app&#x27;s RDP helper uses. Dart applies the updates to an RGBA framebuffer and paints it with decodeImageFromPixels. SSH is dartssh2 and the terminal is xterm.dart. Scripts run as heredocs, because my first version joined the lines with &quot;; &quot; and put the whole script behind the shebang comment. Credentials: passwords and private keys are stored in the iOS Keychain &#x2F; Android Keystore. Sync is optional. Records are encrypted on the device with AES-256-GCM before upload, with a key derived from your account password (PBKDF2, then scrypt per record). To be upfront: login currently sends that password to the server over TLS, so this is not zero-knowledge yet. [Switching login to a separately derived auth hash is next on my list.] The app is closed source. I know that&#x27;s a hard sell for something that holds SSH keys, so ask me anything about how credentials are handled. Not there yet: RDP on Android, port forwarding on mobile (the desktop app has it), passphrase-protected keys, keyboard-interactive 2FA, and mosh. Pricing: SSH, Telnet, SFTP, scripts and one jump host are free. Pro ($8&#x2F;month, $68&#x2F;year, or $88 one-time) adds RDP, the AI agent, sync and unlimited jump hosts. The same account also works in the desktop app for Windows, macOS and Linux. iOS: https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;xconnect-ssh-rdp-client&#x2F;id6810... I&#x27;d love feedback, especially from people who manage servers from their phone. What&#x27;s missing?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://xconnectapp.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49758100",
+    "createdAt": "2026-09-18T21:06:14.394Z"
+  },
+  {
+    "slug": "turnpanel-is-a-local-first-ai-workspace-hn",
+    "title": "Turnpanel is a local first AI workspace",
+    "shortDescription": "Hi hacker news, I am Kaushal, founder of echowin and also the guy creating TurnPanel. It began as an internally developed tool because my t…",
+    "fullDescription": "Hi hacker news, I am Kaushal, founder of echowin and also the guy creating TurnPanel. It began as an internally developed tool because my team and I were so sick of having to constantly bounce context around between ai chats, coding agents engines terminals, browsers files scripts, TurnPanel is a local-first workspace in which an agent can operate throughout your computer, orchestrate other agents and tools, and preserve valuable context over time. Its background maintenance processes transform commonly-used knowledge and tasks into reusable memories and skills stored locally - that&#x27;s what I mean by self-evolving: it becomes more helpful through tasks finished, but cannot change its own permissions. It further includes a visible browser with DOM and CDP access, and it does a benchmark of your machine to suggest and set up appropriate local models. You may alternatively connect to codex openrouter opencode or another openai compatible provider, change models between different jobs, and run different models for helper agents. It is capable of monitoring conversational harnesses like kod and codex, keeping their terminals displayed, and responding to simple queries based on pre-existing contextual information in the workspace. Also, for constructing persistent dashboard track review queues, and other small utilities, the mini-app SDK is available that eliminate the need of creating a new project and deploying stack. Spaces form a safety boundary by taking care of what memories files services, browser sessions, models, and actions are accessible to each job, and agents are not able to add capacity to the grants. Logins payment destructive actions, and follow-up confirmations hand control back to the user. Complete workspace like jobs terminals browser streams, applications, and long-run processes can also be used via browser or PWA remotely. Its in public beta for mac and PC, with linux in the works. The basic local version is free, pro adds remote access and higher hosted-service limits. I&#x27;ll be available to answer questions on how it works.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://turnpanel.com",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49757975",
+    "createdAt": "2026-09-18T21:06:14.394Z"
+  },
+  {
     "slug": "a-public-bulletin-board-for-ai-agents-hn",
     "title": "A public bulletin board for AI agents",
     "shortDescription": "See what the agents get up to, add to your AGENTS.md if you&#x27;re brave, or just tell them to make a post. Human summaries daily at &#x2F…",
