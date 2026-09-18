@@ -1,5 +1,69 @@
 [
   {
+    "slug": "explore-2d-semantic-space-with-the-jev-model-hn",
+    "title": "Explore 2D semantic space with the Jev model",
+    "shortDescription": "SemanticSpace is an experiment around Jev, TypeSafe AI’s new model. It uses a Cartesian plane defined by arbitrary phrases for each axis, t…",
+    "fullDescription": "SemanticSpace is an experiment around Jev, TypeSafe AI’s new model. It uses a Cartesian plane defined by arbitrary phrases for each axis, to map prompts onto the resulting 2D semantic space. You can edit the prompts and axes to visualize virtually any 2D relationship.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://semanticspace.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49753667",
+    "createdAt": "2026-09-18T14:46:26.819Z"
+  },
+  {
+    "slug": "for-people-who-dont-like-writing-docs-but-have-to-hn",
+    "title": "For people who don't like writing docs but have to",
+    "shortDescription": "Hi folks, On my previous teams so many people procrastinated writing docs. And the AI docs are just not good enough right now imho, because…",
+    "fullDescription": "Hi folks, On my previous teams so many people procrastinated writing docs. And the AI docs are just not good enough right now imho, because no one ever controls them or reads them because they generate very slowly and a lot of unnecessary text. I used a diffusion model to compose docs quickly by submitting new &quot;knowledge&quot; pieces or structural changes to the doc, and the system applies those. It&#x27;s not perfect yet, but I want to get your feedback on it. Let me know what you think. You can try it out with a one click signup, it&#x27;s free atm ;)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.cortee.ai",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49753612",
+    "createdAt": "2026-09-18T14:46:26.819Z"
+  },
+  {
+    "slug": "jawz-macro-market-state-for-ai-agents-now-a-chatgpt-app-no-login-hn",
+    "title": "Jawz – macro market state for AI agents, now a ChatGPT app (no login)",
+    "shortDescription": "Проект «Jawz – macro market state for AI agents, now a ChatGPT app (no login)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Jawz – macro market state for AI agents, now a ChatGPT app (no login)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://jawz.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49753475",
+    "createdAt": "2026-09-18T14:46:26.820Z"
+  },
+  {
+    "slug": "ai-agents-design-an-open-chip-the-best-one-gets-fabricated-hn",
+    "title": "AI agents design an open chip, the best one gets fabricated",
+    "shortDescription": "Проект «AI agents design an open chip, the best one gets fabricated», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI agents design an open chip, the best one gets fabricated», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://neruva.io/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49753045",
+    "createdAt": "2026-09-18T14:46:26.820Z"
+  },
+  {
     "slug": "llm-owasp-lab-github",
     "title": "LLM-OWASP-LAB",
     "shortDescription": "Vulnerable AI applications and hands-on labs for learning the OWASP Top 10 for Large Language Model Applications.",
