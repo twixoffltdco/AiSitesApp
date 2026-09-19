@@ -1,5 +1,37 @@
 [
   {
+    "slug": "dassi-control-desktop-chrome-to-automate-web-tasks-hn",
+    "title": "Dassi – Control desktop Chrome to automate web tasks",
+    "shortDescription": "Проект «Dassi – Control desktop Chrome to automate web tasks», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Dassi – Control desktop Chrome to automate web tasks», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.dassi.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49768576",
+    "createdAt": "2026-09-19T17:44:57.501Z"
+  },
+  {
+    "slug": "reader-i-made-a-mac-workspace-for-books-browser-tabs-notes-and-ai-hn",
+    "title": "Reader – I made a Mac workspace for books, browser tabs, notes, and AI",
+    "shortDescription": "Проект «Reader – I made a Mac workspace for books, browser tabs, notes, and AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Reader – I made a Mac workspace for books, browser tabs, notes, and AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Marvy101/reader-source",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49768201",
+    "createdAt": "2026-09-19T17:44:57.501Z"
+  },
+  {
     "slug": "awesome-jev-github-2",
     "title": "awesome-jev",
     "shortDescription": "Curated Jev resources and runnable examples for typed AI decisions.",
