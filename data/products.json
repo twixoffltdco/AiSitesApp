@@ -1,5 +1,183 @@
 [
   {
+    "slug": "clarify-intent-github",
+    "title": "clarify-intent",
+    "shortDescription": "An AI Skill that teaches agents when to ask and when to just do it — minimal questions, no requirements interviews. Beginner-friendly.",
+    "fullDescription": "An AI Skill that teaches agents when to ask and when to just do it — minimal questions, no requirements interviews. Beginner-friendly.\n\nАвтор: Hugo-DDT. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://github.com/Hugo-DDT/clarify-intent",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "agent-skill",
+      "ai",
+      "skill",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1376120645",
+    "createdAt": "2026-09-19T01:27:30.533Z"
+  },
+  {
+    "slug": "awesome-jev-github",
+    "title": "awesome-jev",
+    "shortDescription": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software…",
+    "fullDescription": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities.\n\nАвтор: kraayenjon. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://madewithjev.com",
+    "category": "developer",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "api",
+      "artificial-intelligence",
+      "automation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1376081650",
+    "createdAt": "2026-09-19T01:27:30.534Z"
+  },
+  {
+    "slug": "jev-cli-github",
+    "title": "jev-cli",
+    "shortDescription": "Command-line tool for TypeSafe's Jev AI model",
+    "fullDescription": "Command-line tool for TypeSafe's Jev AI model\n\nАвтор: Nasrallah-AL. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://jevcli.vectorz.app/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "cli",
+      "fact-checking",
+      "guardrails",
+      "jev",
+      "llm-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1375579368",
+    "createdAt": "2026-09-19T01:27:30.534Z"
+  },
+  {
+    "slug": "clean-code-review-github",
+    "title": "clean-code-review",
+    "shortDescription": "Every code file in a pull request, judged against Uncle Bob's Clean Code by TypeSafe's Jev, then reviewed by Luna. Built on eve and Next.js.",
+    "fullDescription": "Every code file in a pull request, judged against Uncle Bob's Clean Code by TypeSafe's Jev, then reviewed by Luna. Built on eve and Next.js.\n\nАвтор: frostney. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://clean-code-review.vercel.app",
+    "category": "developer",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-gateway",
+      "ai-sdk",
+      "clean-code",
+      "code-quality",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1374680589",
+    "createdAt": "2026-09-19T01:27:30.534Z"
+  },
+  {
+    "slug": "pi-skill-orchestrator-github",
+    "title": "pi-skill-orchestrator",
+    "shortDescription": "Pi Skill Orchestrator is a Pi extension for people who use a lot of Agent Skills. It keeps Pi's normal skill autocomplete, but it stops the…",
+    "fullDescription": "Pi Skill Orchestrator is a Pi extension for people who use a lot of Agent Skills. It keeps Pi's normal skill autocomplete, but it stops the complete skill catalog from taking space in the LLM system prompt on every turn. \n\nАвтор: badgids. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/badgids/pi-skill-orchestrator",
+    "category": "ai-tool",
+    "tags": [
+      "agent-orchestration",
+      "agent-skill",
+      "agent-skills",
+      "agents",
+      "ai",
+      "ai-agent",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1376221787",
+    "createdAt": "2026-09-19T01:27:30.534Z"
+  },
+  {
+    "slug": "free-ai-api-directory-github",
+    "title": "free-ai-api-directory",
+    "shortDescription": "⚡ 100+ Verified Free AI APIs (2026) — Permanent Free Tiers, Signup Credits & BYOK Routers for Cursor & Claude Code. Zero Dead Links.",
+    "fullDescription": "⚡ 100+ Verified Free AI APIs (2026) — Permanent Free Tiers, Signup Credits & BYOK Routers for Cursor & Claude Code. Zero Dead Links.\n\nАвтор: viratk-dev. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://freeaiapi.netlify.app/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "api",
+      "claude-code",
+      "cursor",
+      "deepseek",
+      "directory",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1375954884",
+    "createdAt": "2026-09-19T01:27:30.534Z"
+  },
+  {
+    "slug": "an-oss-python-dependency-scanner-for-exploited-unmaintained-packages-hn",
+    "title": "An OSS Python dependency scanner for exploited, unmaintained packages",
+    "shortDescription": "I built an open source python dependency scanner that will scan and flag packages with known exploit CVEs(CISA&#x27;s Known Exploited list…",
+    "fullDescription": "I built an open source python dependency scanner that will scan and flag packages with known exploit CVEs(CISA&#x27;s Known Exploited list and FIRST EPSS) and unmaintained packages that have not had a release or commit in 2 years. Theres also claude hook that will make your AI agent not install these type of packages included in this repo. The full mechanism is in the readme of the project, this was just a brief summary.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/binuka200/package-doctor",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49762076",
+    "createdAt": "2026-09-19T01:27:30.448Z"
+  },
+  {
+    "slug": "do-your-vitamins-work-hn",
+    "title": "Do your vitamins work?",
+    "shortDescription": "I made a tool you can use to evaluate whether the supplements you buy are really effective? Most of this was made before the age of AI but…",
+    "fullDescription": "I made a tool you can use to evaluate whether the supplements you buy are really effective? Most of this was made before the age of AI but I struggled with the technical aspect of how to implement it. So, before when people I knew asked me about supplements i&#x27;d have to answer them 1 by 1. Now I tell them to use the checker. You can request a specific supplement or brand to be researched in our discord https:&#x2F;&#x2F;discord.com&#x2F;invite&#x2F;S7exQU9r9y\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.supplementdex.com/supplement-checker",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49761795",
+    "createdAt": "2026-09-19T01:27:30.448Z"
+  },
+  {
+    "slug": "wcagent-let-use-your-chatgpt-subscription-for-coding-hn",
+    "title": "Wcagent let use your ChatGPT subscription for coding",
+    "shortDescription": "Проект «Wcagent let use your ChatGPT subscription for coding», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Wcagent let use your ChatGPT subscription for coding», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://wcagent.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49761790",
+    "createdAt": "2026-09-19T01:27:30.448Z"
+  },
+  {
     "slug": "agentgit-a-git-host-for-ai-agents-no-account-no-token-no-key-hn",
     "title": "Agentgit – a Git host for AI agents, no account, no token, no key",
     "shortDescription": "Проект «Agentgit – a Git host for AI agents, no account, no token, no key», опубликован сообществом Hacker News.",
