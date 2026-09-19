@@ -1,5 +1,75 @@
 [
   {
+    "slug": "awesome-jev-github-2",
+    "title": "awesome-jev",
+    "shortDescription": "Curated Jev resources and runnable examples for typed AI decisions.",
+    "fullDescription": "Curated Jev resources and runnable examples for typed AI decisions.\n\nАвтор: AppitStudio. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/AppitStudio/awesome-jev",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "awesome",
+      "awesome-list",
+      "decision-making",
+      "jev",
+      "system-one",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1376243548",
+    "createdAt": "2026-09-19T14:38:19.815Z"
+  },
+  {
+    "slug": "weve-built-an-ai-ugc-video-creatorfree-for-one-month-hn",
+    "title": "We've built an AI UGC video creator,free for one month",
+    "shortDescription": "We&#x27;ve built an AI UGC Video Creator,Free for one month.",
+    "fullDescription": "We&#x27;ve built an AI UGC Video Creator,Free for one month.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://kuvu.ai/marketing/ai-ugc",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49766639",
+    "createdAt": "2026-09-19T14:38:19.754Z"
+  },
+  {
+    "slug": "show-hn-hn",
+    "title": "Show HN",
+    "shortDescription": "Super ii Open intelligence, built together. A public AI collaboration hub for discovering, building, and sharing models, datasets, and apps.",
+    "fullDescription": "Super ii Open intelligence, built together. A public AI collaboration hub for discovering, building, and sharing models, datasets, and apps.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://superii.site/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49766549",
+    "createdAt": "2026-09-19T14:38:19.754Z"
+  },
+  {
+    "slug": "kobblestone-minecraft-on-kubernetes-hn",
+    "title": "Kobblestone – Minecraft on Kubernetes",
+    "shortDescription": "Hi folks, just released a personal project of mine, called Kobblestone. Essentially, it&#x27;s an operator for Kubernetes, allowing you to…",
+    "fullDescription": "Hi folks, just released a personal project of mine, called Kobblestone. Essentially, it&#x27;s an operator for Kubernetes, allowing you to manage Minecraft infrastructure on Kubernetes. It&#x27;s not just a small wrapper for deploying servers, it aims to integrate the whole Minecraft ecosystem on Kubernetes (routers, networks, commands, backups, etc.). I&#x27;d highly appreciate your feedback and I am looking forward to potential contributions! Thanks.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/kobblestoneio/kobblestone",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49765874",
+    "createdAt": "2026-09-19T14:38:19.754Z"
+  },
+  {
     "slug": "jev-hub-github",
     "title": "jev-hub",
     "shortDescription": "JEV HUB · X 上关于 TypeSafe AI「系统一模型」Jev 的长文与演示视频聚合（保留原链与作者）｜ 谁是专家 出品",
