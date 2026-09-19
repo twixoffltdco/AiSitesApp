@@ -1,5 +1,37 @@
 [
   {
+    "slug": "jev-to-json-schema-hn",
+    "title": "Jev to JSON-Schema",
+    "shortDescription": "Проект «Jev to JSON-Schema», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Jev to JSON-Schema», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Kiln-AI/jev_jsonschema",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49769277",
+    "createdAt": "2026-09-19T20:00:43.620Z"
+  },
+  {
+    "slug": "stardrift-a-3d-galaxy-of-all-music-to-explore-and-learn-hn",
+    "title": "Stardrift – A 3D galaxy of all music, to explore and learn",
+    "shortDescription": "Music streaming services have tons of music, but no easy way to simply shuffle over all of it, or explore it outside of their recommendatio…",
+    "fullDescription": "Music streaming services have tons of music, but no easy way to simply shuffle over all of it, or explore it outside of their recommendation algorithms. So I took the database of 43m songs from Musicbrainz.org and made my own player, with b̶l̶a̶c̶k̶j̶a̶c̶k̶ ̶a̶n̶d̶ Wikipedia integration and playback via Apples MusicKit, plus a 3D VR version via WebXR. Short demo: https:&#x2F;&#x2F;stardrift.gerlach.dev&#x2F;demo&#x2F;stardrift.mp4 Direct link to the 3D galaxy: https:&#x2F;&#x2F;stardrift.gerlach.dev&#x2F;galaxy That last bit was the most fun to build (with AI help) and thus escalated a bit into a VR playground. 2.3 million stars&#x2F;albums, a custom Three.js UI kit and a bunch of extras to have something to do while the music plays. Like a full-size USS Enterprise to fly around with Jerry Goldsmiths soundtrack. Or a Mahjong game, black hole, Theremin, banana duck etc. Works best on Quest 3 and &#x2F;should&#x2F; be useable on a Vision Pro with gestures. If you have an AVP, I would appreciate feedback, the Xcode simulator only goes so far. The Venn diagram of people liking to explore random music, having an Apple Music account and a VR headset is probably pretty small, but I for one love it and have discovered a bunch of new music and learned a lot. Frontend built with Svelte 5, Three.js, backend PHP. It takes about 50GB in Postgres + ~150GB for cover images. I&#x27;ll keep it online as long as my little VPS doesn&#x27;t melt.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://stardrift.gerlach.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49769137",
+    "createdAt": "2026-09-19T20:00:43.620Z"
+  },
+  {
     "slug": "dassi-control-desktop-chrome-to-automate-web-tasks-hn",
     "title": "Dassi – Control desktop Chrome to automate web tasks",
     "shortDescription": "Проект «Dassi – Control desktop Chrome to automate web tasks», опубликован сообществом Hacker News.",
