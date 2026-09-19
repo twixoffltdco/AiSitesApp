@@ -1,5 +1,81 @@
 [
   {
+    "slug": "skills-github-4",
+    "title": "skills",
+    "shortDescription": "Skills for explaining and summarising AI output: eli5-succinct, simple-summary, summary",
+    "fullDescription": "Skills for explaining and summarising AI output: eli5-succinct, simple-summary, summary\n\nАвтор: isas1. Найдено в GitHub Trending (AI-тематика). ⭐ 26 звёзд.",
+    "url": "https://github.com/isas1/skills",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "aisummarizer",
+      "summarization",
+      "summarizer",
+      "summary",
+      "summary-generator",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1377378103",
+    "createdAt": "2026-09-19T22:23:04.090Z"
+  },
+  {
+    "slug": "jev-use-github",
+    "title": "jev-use",
+    "shortDescription": "Say it, and your Mac does it. A computer-use harness on Jev that reads the screen through Accessibility. Fast, no vision model",
+    "fullDescription": "Say it, and your Mac does it. A computer-use harness on Jev that reads the screen through Accessibility. Fast, no vision model\n\nАвтор: savka777. Найдено в GitHub Trending (AI-тематика). ⭐ 17 звёзд.",
+    "url": "https://github.com/savka777/jev-use",
+    "category": "ai-tool",
+    "tags": [
+      "accessibility",
+      "ai",
+      "ai-agents",
+      "browser-use",
+      "computer-use",
+      "harness",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1377227263",
+    "createdAt": "2026-09-19T22:23:04.090Z"
+  },
+  {
+    "slug": "jev-fly-me-to-the-moon-hn",
+    "title": "Jev, Fly Me to the Moon",
+    "shortDescription": "I built Odyssey, a browser based journey from Earth to lunar orbit. It uses Jev from TypeSafe AI to choose between navigation actions. You…",
+    "fullDescription": "I built Odyssey, a browser based journey from Earth to lunar orbit. It uses Jev from TypeSafe AI to choose between navigation actions. You can watch each decision and the probabilities assigned to the available options as the flight progresses. The simulation provides the trajectory and maneuver timing. Jev chooses bounded attitude and correction actions within it. It’s a simplified cinematic simulation, with a deterministic fallback when the model is unavailable. Give it a go, no signup required.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://fly.rahmanyoonus.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49769916",
+    "createdAt": "2026-09-19T22:23:04.014Z"
+  },
+  {
+    "slug": "play-dss-and-ds2-dictation-files-online-without-uploading-your-audio-hn",
+    "title": "Play DSS and DS2 dictation files online without uploading your audio",
+    "shortDescription": "Проект «Play DSS and DS2 dictation files online without uploading your audio», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Play DSS and DS2 dictation files online without uploading your audio», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://speechtext.ai/online-dss-player",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49769887",
+    "createdAt": "2026-09-19T22:23:04.014Z"
+  },
+  {
     "slug": "jev-to-json-schema-hn",
     "title": "Jev to JSON-Schema",
     "shortDescription": "Проект «Jev to JSON-Schema», опубликован сообществом Hacker News.",
