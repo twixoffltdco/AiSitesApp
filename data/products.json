@@ -1,5 +1,85 @@
 [
   {
+    "slug": "jev-hub-github",
+    "title": "jev-hub",
+    "shortDescription": "JEV HUB · X 上关于 TypeSafe AI「系统一模型」Jev 的长文与演示视频聚合（保留原链与作者）｜ 谁是专家 出品",
+    "fullDescription": "JEV HUB · X 上关于 TypeSafe AI「系统一模型」Jev 的长文与演示视频聚合（保留原链与作者）｜ 谁是专家 出品\n\nАвтор: mizzlelover. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://mizzlelover.github.io/jev-hub/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "awesome-list",
+      "jev",
+      "typesafe",
+      "x-twitter",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1376641124",
+    "createdAt": "2026-09-19T11:20:07.595Z"
+  },
+  {
+    "slug": "al1s-wms-github",
+    "title": "AL1S-WMS",
+    "shortDescription": "Household WMS powered by Maid-AL1S",
+    "fullDescription": "Household WMS powered by Maid-AL1S\n\nАвтор: RicterZ. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/RicterZ/AL1S-WMS",
+    "category": "chatbot",
+    "tags": [
+      "agentic",
+      "ai",
+      "ai-agents",
+      "grocy",
+      "home-erp",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1374187787",
+    "createdAt": "2026-09-19T11:20:07.595Z"
+  },
+  {
+    "slug": "jev-cli-github-2",
+    "title": "jev-cli",
+    "shortDescription": "Small dependency-free CLI for TypeSafe Jev",
+    "fullDescription": "Small dependency-free CLI for TypeSafe Jev\n\nАвтор: tumf. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://docs.typesafe.ai/introduction",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "cli",
+      "jev",
+      "python",
+      "typesafe",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1375177458",
+    "createdAt": "2026-09-19T11:20:07.595Z"
+  },
+  {
+    "slug": "agentmeasure-healthchecks-and-settlement-statements-for-ai-bills-hn",
+    "title": "AgentMeasure – healthchecks and settlement statements for AI bills",
+    "shortDescription": "Проект «AgentMeasure – healthchecks and settlement statements for AI bills», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AgentMeasure – healthchecks and settlement statements for AI bills», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/roy-tong/AgentMeasure",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49764767",
+    "createdAt": "2026-09-19T11:20:07.634Z"
+  },
+  {
     "slug": "ai-engineering-interview-questions-company-wise-github",
     "title": "ai-engineering-interview-questions-company-wise",
     "shortDescription": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
