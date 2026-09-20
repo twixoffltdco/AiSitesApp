@@ -1,5 +1,119 @@
 [
   {
+    "slug": "opencode-telegram-gateway-github",
+    "title": "opencode-telegram-gateway",
+    "shortDescription": "Multi-provider OpenAI-compatible Telegram gateway with sessions, 10k+ proxy pool, admin channel gate, and SQLite state.",
+    "fullDescription": "Multi-provider OpenAI-compatible Telegram gateway with sessions, 10k+ proxy pool, admin channel gate, and SQLite state.\n\nАвтор: TheyanzXD. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/TheyanzXD/opencode-telegram-gateway",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-coding",
+      "ai-model",
+      "ai-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1375779052",
+    "createdAt": "2026-09-20T00:14:27.098Z"
+  },
+  {
+    "slug": "awesome-ai-free-tiers-github",
+    "title": "awesome-ai-free-tiers",
+    "shortDescription": "The definitive, 100% verified directory of AI Free Tiers, rate limits, and budget APIs. Zero hallucinated quotas, step-by-step API key guid…",
+    "fullDescription": "The definitive, 100% verified directory of AI Free Tiers, rate limits, and budget APIs. Zero hallucinated quotas, step-by-step API key guides, and multi-provider fallback architectures.\n\nАвтор: 4pixeltechBR. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/4pixeltechBR/awesome-ai-free-tiers",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "api",
+      "awesome-list",
+      "deepseek",
+      "developer-tools",
+      "free-tier",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1376387739",
+    "createdAt": "2026-09-20T00:14:27.098Z"
+  },
+  {
+    "slug": "awesome-jev-usecases-github",
+    "title": "awesome-jev-usecases",
+    "shortDescription": "Evidence-backed index of real-world Jev (TypeSafe AI System One) use cases: repos, patterns, benchmarks, and measured results",
+    "fullDescription": "Evidence-backed index of real-world Jev (TypeSafe AI System One) use cases: repos, patterns, benchmarks, and measured results\n\nАвтор: anandi1989. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://anandi1989.github.io/awesome-jev-usecases/",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "awesome-list",
+      "benchmark",
+      "browser-agents",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1375566392",
+    "createdAt": "2026-09-20T00:14:27.098Z"
+  },
+  {
+    "slug": "text-me-a-personal-agent-that-learns-your-pace-hn",
+    "title": "Text-me: a personal agent that learns your pace",
+    "shortDescription": "Hey, I built text-me because every productivity app I tried gave me one more place to be and maintain. Meanwhile my life actually happens o…",
+    "fullDescription": "Hey, I built text-me because every productivity app I tried gave me one more place to be and maintain. Meanwhile my life actually happens over email, messages, calendar, college, Kindle, reading, and Substack. And I always have to be somewhere else. So now I send everything to one place, like texting a friend. It separates life from work, and every week it analyzes and gives you a place to start instead of another dashboard. You can connect your email and calendar through Plow. It always asks before changing anything in your calendar or sending a message. And the part that interests me most is that I don&#x27;t have to keep re-sorting twenty things anymore, because it remembers. If I say some activity takes me 45 minutes on average, but I actually take 60, it learns that. So next time, if I write 45 minutes it puts 60, and it keeps adapting my calendar to that. And every morning it can send a newspaper with everything that matters to me: the people I need to answer, what changed overnight, what I have to solve today. It can even send something funny, and that goes to my Kindle. Of course it can go to the printer, email, or the chat, but I send it to my Kindle. It&#x27;s open source and works over iMessage or SMS. I built it during a hackathon, and it came out of my own problems. Now I want something that learns the real pace of life. I&#x27;d love your feedback on what you think should improve.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://aiworthusing.com/agent-index/text-me",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49771206",
+    "createdAt": "2026-09-20T00:14:26.918Z"
+  },
+  {
+    "slug": "i-created-an-open-source-locally-usable-full-fledged-ai-platform-hn",
+    "title": "I created an open source locally usable full fledged AI platform",
+    "shortDescription": "hi to all the readers this post is for my recent opensource project called ENZO now answering what is enzo so enzo is an opensource platfor…",
+    "fullDescription": "hi to all the readers this post is for my recent opensource project called ENZO now answering what is enzo so enzo is an opensource platform where i clubbed all the free available api for anyone use under one hood with more than 2000 models available to use for chatting coding researching and much more now answering the most common question of why you should put your time looking the project so it has few distinct feature meaning it has a dedicated agents tab where you can describe your need and create a special agent just for one specific task with master ability in that domain second it has the ability to connect your gmail drive and calendar and then you can ask it to perform some specific tasks like reading you the most important mail of the day or finding recruiter mails and creating personalized reply based on your data which it stores locally on your device third the coding mode offers a dedicated preview window where you can see your code running and have a look of it feels and edit it in realtime as well as all the modes are packed with dedicated skills which delivers promising results fourth the ui features some additional things such as music tab where you can listen to any music want and it has a custom personalized feature which runs in background and an llm understands your taste and recommends similar kind of music you like fifth the most important why your trust it with your api key then to explain i would say enzo a dedicated vault which manages all your api and to secure it the vault as aes 256 bit encryption which prevents any person or any middle man to look at your api key and since the whole program runs locally on your device you have complete freedom to oversee all the backend work happening and it also features password lock which if you enable saves a backup key and then locks your whole platform work behind a pass screen though it is not foolproof as any third party or malware containing extension can still fetch login tokens from your browser so its security also depends upon how you access it concluding all of it. i urge to anyone who reads this to have a look at the platform even if you hate it just curse it in the comment its fine or if you would like to drop any feedback i would highly encourage that and since its my first work open source platform i know it has a lot of errors and bugs so i apologize upfront for it and if you consider my work worthy please drop a star on the repo that&#x27;ll make my day\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/theguysudo/ENZO",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49771118",
+    "createdAt": "2026-09-20T00:14:26.918Z"
+  },
+  {
+    "slug": "i-am-vibe-coding-a-drone-hn",
+    "title": "I am vibe coding a drone",
+    "shortDescription": "Code is the future of hardware engineering: https:&#x2F;&#x2F;charlesazam.com&#x2F;blog&#x2F;engineering-as-code-manifesto&#x2F;",
+    "fullDescription": "Code is the future of hardware engineering: https:&#x2F;&#x2F;charlesazam.com&#x2F;blog&#x2F;engineering-as-code-manifesto&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://ai-eng-design-production.up.railway.app/login",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49770638",
+    "createdAt": "2026-09-20T00:14:26.918Z"
+  },
+  {
     "slug": "skills-github-4",
     "title": "skills",
     "shortDescription": "Skills for explaining and summarising AI output: eli5-succinct, simple-summary, summary",
