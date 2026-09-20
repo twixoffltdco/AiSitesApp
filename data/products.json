@@ -1,5 +1,65 @@
 [
   {
+    "slug": "reader-source-github",
+    "title": "reader-source",
+    "shortDescription": "Open-source native macOS AI reading workspace for PDF, EPUB, and TXT with highlights, notes, book chat, and local-first storage. Download:…",
+    "fullDescription": "Open-source native macOS AI reading workspace for PDF, EPUB, and TXT with highlights, notes, book chat, and local-first storage. Download: reader.marvy101.com/download\n\nАвтор: Marvy101. Найдено в GitHub Trending (AI-тематика). ⭐ 52 звёзд.",
+    "url": "https://reader.marvy101.com",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "annotations",
+      "books",
+      "epub",
+      "local-first",
+      "macos",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1377373919",
+    "createdAt": "2026-09-20T22:10:24.778Z"
+  },
+  {
+    "slug": "thinkingorbs-github",
+    "title": "ThinkingOrbs",
+    "shortDescription": "Dotted, honestly-3D loading indicators for AI and agent interfaces in SwiftUI. Nine hand-tuned designs, two tuned sizes.",
+    "fullDescription": "Dotted, honestly-3D loading indicators for AI and agent interfaces in SwiftUI. Nine hand-tuned designs, two tuned sizes.\n\nАвтор: haplollc. Найдено в GitHub Trending (AI-тематика). ⭐ 9 звёзд.",
+    "url": "https://github.com/haplollc/ThinkingOrbs",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "animation",
+      "ios",
+      "loading-indicator",
+      "spinner",
+      "swift",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1376804059",
+    "createdAt": "2026-09-20T22:10:24.778Z"
+  },
+  {
+    "slug": "agenttraceobservability-and-runtime-self-healing-engine-for-ai-agents-hn",
+    "title": "AgentTrace–Observability and runtime self-healing engine for AI agents",
+    "shortDescription": "Проект «AgentTrace–Observability and runtime self-healing engine for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AgentTrace–Observability and runtime self-healing engine for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/mohitkumar188/AgentTrace",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49780222",
+    "createdAt": "2026-09-20T22:10:24.560Z"
+  },
+  {
     "slug": "hunch-github",
     "title": "hunch",
     "shortDescription": "Probabilistic control flow for Ruby and Rails - powered by TypeSafe's Jev",
