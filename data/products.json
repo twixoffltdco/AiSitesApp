@@ -1,5 +1,139 @@
 [
   {
+    "slug": "hunch-github",
+    "title": "hunch",
+    "shortDescription": "Probabilistic control flow for Ruby and Rails - powered by TypeSafe's Jev",
+    "fullDescription": "Probabilistic control flow for Ruby and Rails - powered by TypeSafe's Jev\n\nАвтор: carldaws. Найдено в GitHub Trending (AI-тематика). ⭐ 13 звёзд.",
+    "url": "https://github.com/carldaws/hunch",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "jev",
+      "ruby",
+      "ruby-gem",
+      "s1-models",
+      "typesafe",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1376517161",
+    "createdAt": "2026-09-20T17:23:44.867Z"
+  },
+  {
+    "slug": "autopoiesis-concept-for-ai-platforms-shipped-with-repos-hn",
+    "title": "Autopoiesis: Concept for AI platforms shipped with repos",
+    "shortDescription": "Проект «Autopoiesis: Concept for AI platforms shipped with repos», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Autopoiesis: Concept for AI platforms shipped with repos», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://jakobbr.eu/2026/09/20/autopoiesis-concept-for-repos-bringing-their-own-preconfigured-ai-frontend/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49777204",
+    "createdAt": "2026-09-20T17:23:44.756Z"
+  },
+  {
+    "slug": "opensourcedb-tamper-evidentchecksum-backed-decision-and-session-replay-hn",
+    "title": "OpensourceDB Tamper-evident,checksum-backed decision and session replay",
+    "shortDescription": "Audit Trail to make EU AI ACT 12,26 And 50 Compliant Agentic Ai Systems",
+    "fullDescription": "Audit Trail to make EU AI ACT 12,26 And 50 Compliant Agentic Ai Systems\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/ZIZKA-AI-SL/ZizkaDB",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49777181",
+    "createdAt": "2026-09-20T17:23:44.756Z"
+  },
+  {
+    "slug": "swarm-an-offline-family-tree-app-for-macos-hn",
+    "title": "Swarm, an offline family tree app for macOS",
+    "shortDescription": "Hi HN! My wife and I got deep into our family genealogy and wanted to map out all our relatives - but keep the data on our own Macs instead…",
+    "fullDescription": "Hi HN! My wife and I got deep into our family genealogy and wanted to map out all our relatives - but keep the data on our own Macs instead of uploading it to a genealogy service. Nothing we found did that, so we built Swarm, a native macOS app in Swift. It&#x27;s built on GEDCOM 5.5.1, the universal genealogy file standard, so your tree exports cleanly to other ancestry apps if you ever want out. Example trees of famous historical families are included to play with. Features: multiple ancestry views (tree, fan, world map), media files, GEDCOM import&#x2F;export, PDF export, tree merging, and kinship naming. Fully open source, no AI in the app, no internet connection required, no account required. Would appreciate any feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/samoilev/swarm",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49777136",
+    "createdAt": "2026-09-20T17:23:44.756Z"
+  },
+  {
+    "slug": "storeready-which-ai-app-builders-clear-app-store-review-hn",
+    "title": "StoreReady, which AI app builders clear App Store review",
+    "shortDescription": "Проект «StoreReady, which AI app builders clear App Store review», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «StoreReady, which AI app builders clear App Store review», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://storeready.thecompound.tech",
+    "category": "no-code",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49776995",
+    "createdAt": "2026-09-20T17:23:44.756Z"
+  },
+  {
+    "slug": "ai-hack-watch-timeline-and-dataset-of-hacking-incidentsjsonrss-hn",
+    "title": "AI Hack Watch - timeline and dataset of hacking incidents(JSON/RSS)",
+    "shortDescription": "Проект «AI Hack Watch - timeline and dataset of hacking incidents(JSON/RSS)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Hack Watch - timeline and dataset of hacking incidents(JSON/RSS)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://aihackwatch.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49776873",
+    "createdAt": "2026-09-20T17:23:44.756Z"
+  },
+  {
+    "slug": "real-jev-decisions-on-a-simulated-robot-fleet-2457-per-million-hn",
+    "title": "Real Jev decisions on a simulated robot fleet – $24.57 per million",
+    "shortDescription": "Проект «Real Jev decisions on a simulated robot fleet – $24.57 per million», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Real Jev decisions on a simulated robot fleet – $24.57 per million», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/robokrunch/jev-physical-ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49776827",
+    "createdAt": "2026-09-20T17:23:44.756Z"
+  },
+  {
+    "slug": "preuve-ai-stress-test-your-startup-idea-before-you-build-hn",
+    "title": "Preuve AI, stress-test your startup idea before you build",
+    "shortDescription": "Проект «Preuve AI, stress-test your startup idea before you build», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Preuve AI, stress-test your startup idea before you build», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://preuve.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49776459",
+    "createdAt": "2026-09-20T17:23:44.756Z"
+  },
+  {
     "slug": "keep-your-social-media-active-without-posting-every-day-hn",
     "title": "Keep your social media active without posting every day",
     "shortDescription": "Your social media runs itself — post.buzz uses AI agents to create on-brand content and keep your channels active without you having to pos…",
