@@ -1,5 +1,120 @@
 [
   {
+    "slug": "scrapeclaw-github",
+    "title": "ScrapeClaw",
+    "shortDescription": "AI-проект с GitHub без описания.",
+    "fullDescription": "AI-проект с GitHub без описания.\n\nАвтор: YunyiFlux. Найдено в GitHub Trending (AI-тематика). ⭐ 30 звёзд.",
+    "url": "https://github.com/YunyiFlux/ScrapeClaw",
+    "category": "ai-tool",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1375436845",
+    "createdAt": "2026-09-20T09:57:04.468Z"
+  },
+  {
+    "slug": "delightful-cells-reliable-ai-batch-processing-for-spreadsheets-hn",
+    "title": "Delightful Cells – reliable AI batch processing for spreadsheets",
+    "shortDescription": "Проект «Delightful Cells – reliable AI batch processing for spreadsheets», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Delightful Cells – reliable AI batch processing for spreadsheets», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://delightfulcells.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49774124",
+    "createdAt": "2026-09-20T09:57:04.370Z"
+  },
+  {
+    "slug": "ai-facial-attractiveness-model-aligned-with-human-preferences-hn",
+    "title": "AI Facial Attractiveness Model Aligned with Human Preferences",
+    "shortDescription": "Проект «AI Facial Attractiveness Model Aligned with Human Preferences», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Facial Attractiveness Model Aligned with Human Preferences», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://faceanalysisai.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49773871",
+    "createdAt": "2026-09-20T09:57:04.370Z"
+  },
+  {
+    "slug": "i-cleaned-ai-watermarks-from-my-clipboard-hn",
+    "title": "I cleaned AI watermarks from my clipboard",
+    "shortDescription": "Проект «I cleaned AI watermarks from my clipboard», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I cleaned AI watermarks from my clipboard», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.pastezero.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49773825",
+    "createdAt": "2026-09-20T09:57:04.370Z"
+  },
+  {
+    "slug": "will-jev-pull-the-lever-in-the-trolley-problem-hn",
+    "title": "Will Jev pull the lever in the trolley problem?",
+    "shortDescription": "The Jev benchmark you&#x27;ve all been waiting for: Will Jev pull the lever in the trolley problem? Don&#x27;t think too much about it :) P…",
+    "fullDescription": "The Jev benchmark you&#x27;ve all been waiting for: Will Jev pull the lever in the trolley problem? Don&#x27;t think too much about it :) Place whatever you&#x27;d like on each side of the tracks, and GPU (my startup&#x27;s AI system, whee!) will have Jev judge the result. As a bonus, two really good looking SVGs are rendered with gpt-oss-120b for what you place on the tracks. I&#x27;ve made a really high quality thing here. My first impression is that Jev does well! I understand it&#x27;s not exactly designed for this kind of &quot;classification&quot; -- I think -- but I haven&#x27;t been able to get it to pull the lever away from any villains or geese yet. It&#x27;s public against my better judgement. No account necessary, have fun. Side presentation: I&#x27;ve put together a more &quot;serious&quot; harness here if you&#x27;re interested in evaluating Jev for yourself. I&#x27;ve been interested in seeing how well it does if you augment an existing smaller model with it: https:&#x2F;&#x2F;gpu.studio&#x2F;jev\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://gpu.studio/trolley",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49773756",
+    "createdAt": "2026-09-20T09:57:04.370Z"
+  },
+  {
+    "slug": "manifestgo-ai-tuned-for-mv3-extension-boilerplate-and-edge-case-hn",
+    "title": "ManifestGo – AI tuned for MV3 extension boilerplate and edge case",
+    "shortDescription": "Проект «ManifestGo – AI tuned for MV3 extension boilerplate and edge case», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ManifestGo – AI tuned for MV3 extension boilerplate and edge case», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://manifestgo.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49773611",
+    "createdAt": "2026-09-20T09:57:04.370Z"
+  },
+  {
+    "slug": "website-auditor-test-your-brands-ai-visibility-get-growth-plan-hn",
+    "title": "Website Auditor –> Test your brand's AI visibility, get growth plan",
+    "shortDescription": "Hey HN community - Website Auditor crawls and hits 4 AI Assistants (Claude, ChatGPT, Gemini, Perplexity) based on your website&#x27;s detec…",
+    "fullDescription": "Hey HN community - Website Auditor crawls and hits 4 AI Assistants (Claude, ChatGPT, Gemini, Perplexity) based on your website&#x27;s detected business sector with questions based on the market served. If your business comes back in the top five of your market served for that business sector, you are scored. If not, you get a 0. Based on that, I pull the citations AI assistants use to determine ranking, and put together a 90-day growth plan (available with a free trial subscription) for your site. It also checks the standard performance, security functions for your website. Intended audience is small business&#x2F;solo-entrepreneur that cannot afford a marketing budget or paying Ahrefs&#x2F;Semrush but needs to get traction for their business idea. Happy to answer any questions on the architecture or data. Also available as a chrome extension (AI Visibility Score) and MCP. Any feedback appreciated!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://website-auditor.io/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49773112",
+    "createdAt": "2026-09-20T09:57:04.370Z"
+  },
+  {
     "slug": "crispai-github",
     "title": "CrispAI",
     "shortDescription": "Crisp 智能客服助手的自部署版",
