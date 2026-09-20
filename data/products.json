@@ -1,5 +1,40 @@
 [
   {
+    "slug": "crispai-github",
+    "title": "CrispAI",
+    "shortDescription": "Crisp 智能客服助手的自部署版",
+    "fullDescription": "Crisp 智能客服助手的自部署版\n\nАвтор: Haruka-Network. Найдено в GitHub Trending (AI-тематика). ⭐ 10 звёзд.",
+    "url": "https://ai.haruka.cloud/",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "chatbot",
+      "crisp-chat",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1377847730",
+    "createdAt": "2026-09-20T05:10:35.593Z"
+  },
+  {
+    "slug": "architectural-guardrails-for-ai-native-development-hn",
+    "title": "Architectural Guardrails for AI native development",
+    "shortDescription": "Проект «Architectural Guardrails for AI native development», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Architectural Guardrails for AI native development», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/cxgrd/cli",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49772473",
+    "createdAt": "2026-09-20T05:10:35.490Z"
+  },
+  {
     "slug": "opencode-telegram-gateway-github",
     "title": "opencode-telegram-gateway",
     "shortDescription": "Multi-provider OpenAI-compatible Telegram gateway with sessions, 10k+ proxy pool, admin channel gate, and SQLite state.",
