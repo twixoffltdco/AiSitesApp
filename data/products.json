@@ -1,5 +1,151 @@
 [
   {
+    "slug": "jeq-github",
+    "title": "jeq",
+    "shortDescription": "What happens when jev meets jq? Intelligence you can pipe",
+    "fullDescription": "What happens when jev meets jq? Intelligence you can pipe\n\nАвтор: cristianoliveira. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://github.com/cristianoliveira/jeq",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-coding",
+      "ai-tools",
+      "jev",
+      "jq",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1377462717",
+    "createdAt": "2026-09-21T10:57:46.730Z"
+  },
+  {
+    "slug": "lkclean-github",
+    "title": "lkclean",
+    "shortDescription": "Chrome extension that cleans up your LinkedIn feed: hides engagement bait, self-promo and off-topic posts using Jev, TypeSafe AI's typed cl…",
+    "fullDescription": "Chrome extension that cleans up your LinkedIn feed: hides engagement bait, self-promo and off-topic posts using Jev, TypeSafe AI's typed classification model — and explains every decision.\n\nАвтор: stefw. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/stefw/lkclean",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "browser-extension",
+      "chrome-extension",
+      "content-classification",
+      "feed-filter",
+      "jev",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1377513325",
+    "createdAt": "2026-09-21T10:57:46.730Z"
+  },
+  {
+    "slug": "jev-weekend-shopping-chrome-github",
+    "title": "jev-weekend-shopping-chrome",
+    "shortDescription": "把对双休的支持，带进每一次购物。逛淘宝、京东时，JEV 实时猜测商品背后的工作制，疑似非双休直接盖上 PASS。原页生效，边逛边选。",
+    "fullDescription": "把对双休的支持，带进每一次购物。逛淘宝、京东时，JEV 实时猜测商品背后的工作制，疑似非双休直接盖上 PASS。原页生效，边逛边选。\n\nАвтор: littlewindy123. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/littlewindy123/jev-weekend-shopping-chrome",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "chrome-extension",
+      "jd",
+      "jev",
+      "shopping",
+      "taobao",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1379051558",
+    "createdAt": "2026-09-21T10:57:46.730Z"
+  },
+  {
+    "slug": "open-source-ai-employees-hn",
+    "title": "Open Source AI Employees",
+    "shortDescription": "Fable 5 scored 99.19% on WebVoyager a few months ago, a be A benchmark is not your logged-in admin panel. Browser use agents are no longer…",
+    "fullDescription": "Fable 5 scored 99.19% on WebVoyager a few months ago, a be A benchmark is not your logged-in admin panel. Browser use agents are no longer demos. I believe this is a big tipping point. I have been a web developer for most of my career and building with AI agents for nearly four years. Last October I wrote that the missing piece was browser agents reliable enough to leave alone. So I published this open source repo, so everyone can have high quality AI employees. They are, for the most part, agent harness agnostic and can work on any of them. An AI Employee is a folder of plain text routines that covers one business role: SEO, social, sales, support, web dev, ads, launch work, and a chief of staff that reads the other employees&#x27; logs. Eight roles, 60 routines, MIT. They run on your own machine through the agent harness you already use, and they drive your own signed-in browser. Two of the big things that make my agents better: - Recursive self improvement reinforcement - Custom trained recipes to get meaningful work done in browser There&#x27;s also some other neat features and more planned. Like only-when-needed push notifications for Claude Code and other harnesses that support that. I&#x27;m also building in community recipe and ecosystem contribution. Agents may discover workflows or tricks for high level tasks and contribute them to all other agent operators. They run a lot of my own business every day now. One example: full meta ad campaigns, content marketing, SEO, backlink building, community management, app development and management. I recommend you start with one that can take on the work you don&#x27;t want to do. Or replace yourself. Happy to answer any questions.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/markfulton/ai-employees",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49785402",
+    "createdAt": "2026-09-21T10:57:46.426Z"
+  },
+  {
+    "slug": "bitcoin-rs-an-ai-assisted-bitcoin-full-node-in-rust-hn",
+    "title": "Bitcoin-rs – An AI-assisted Bitcoin full node in Rust",
+    "shortDescription": "I’m building bitcoin-rs, an independent Bitcoin full node in Rust, using AI aggressively for implementation. I think Bitcoin is a particula…",
+    "fullDescription": "I’m building bitcoin-rs, an independent Bitcoin full node in Rust, using AI aggressively for implementation. I think Bitcoin is a particularly good target for AI-era development because implementations can be verified against strong external references. In bitcoin-rs, I use libbitcoinkernel as one of the main compatibility oracles.\n\nНайдено в разделе Show HN на Hacker News. 👍 8 баллов.",
+    "url": "https://github.com/gosuda/bitcoin-rs",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49784873",
+    "createdAt": "2026-09-21T10:57:46.426Z"
+  },
+  {
+    "slug": "paste-a-domain-and-watch-four-ai-engines-judge-every-page-hn",
+    "title": "Paste a domain and watch four AI engines judge every page",
+    "shortDescription": "Проект «Paste a domain and watch four AI engines judge every page», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Paste a domain and watch four AI engines judge every page», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.citegraph.app/live",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49784671",
+    "createdAt": "2026-09-21T10:57:46.426Z"
+  },
+  {
+    "slug": "using-qwen-to-track-under-covered-news-hn",
+    "title": "Using Qwen to track under-covered news",
+    "shortDescription": "I&#x27;m helping launch this non-profit site which uses Qwen 3-32b to process thousands of news articles and analyze them by region, public…",
+    "fullDescription": "I&#x27;m helping launch this non-profit site which uses Qwen 3-32b to process thousands of news articles and analyze them by region, public interest, partisan lean, etc. This &quot;Underreported in the US&quot; section features stories covered abroad but have thin or absent coverage in US outlets. More on how we use LLMs below. Would love your feedback, good &#x2F; bad &#x2F; otherwise! https:&#x2F;&#x2F;pressaudit.org&#x2F;AI-ethics\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://pressaudit.org/f/findings/underreported-in-the-us",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49784447",
+    "createdAt": "2026-09-21T10:57:46.426Z"
+  },
+  {
+    "slug": "mini-agi-dynamic-continual-learning-model-trained-on-8gb-vram-hn",
+    "title": "Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+    "shortDescription": "Sorry for the pretentious name, I know, I know.. It just contains all the pieces I would like to see a AGI model to have, and I can&#x27;t…",
+    "fullDescription": "Sorry for the pretentious name, I know, I know.. It just contains all the pieces I would like to see a AGI model to have, and I can&#x27;t stand the temptation. Before throwing rocks at me, please take a glance at the Readme, and I hope it will cover your mood a little bit. So, first of all it does work and you can see the sample from the whole training run here: https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;volotat&#x2F;mini-AGI&#x2F;refs&#x2F;head... Here is the scaling law graph I have so far, and it looks very promising: https:&#x2F;&#x2F;github.com&#x2F;volotat&#x2F;mini-AGI&#x2F;blob&#x2F;main&#x2F;assets&#x2F;scaling... The model was built under my deep dissatisfaction so we cannot really train even moderately big models (1B+ scale) on the consumer&#x27;s hardware. We can inference and fine-tune them for sure, but I would like to have full control over what the model sees over the training run, so it is fully aligned with my interests, not some corporations. I was thinking about for some time and come up with two interesting ideas I thought worth pursuing: MoE with a lot of experts that gets added and pruned from the model while it trains, where only a small subset of of experts are actually in use at any particular moment + batch 1 training on the single continuous stream of data. First allows us to be bounded only by the disk space in terms of number of parameters and load and unload experts only when they are needed. The second (if figured out and it turns out to be doable) allows us to get aways with small VRAM capacity because we do not need to store big randomized batches and their respective gradients. I started brainstorming with Claude and after some time we found an approach that seems to be promising, and low and behold, a few weeks pass and you can see the results yourself. Obviously, I did use AI in the process of making this project and I am pretty sure it would be completely impossible for me to do something like this without it, so I hope it is more than justified. The model is still running over the first of 7.8B characters corpus I selected for training, so the weights are not out yet, and it&#x27;s about a couple weeks of waiting until they are cooked at the current reading speed. And yeah, the model just read continuous interleaved passages from the dataset, each by 32K characters long each as a single stream. Just as you or I would do. The set up seems to be really simple so you can git clone the project, run it and observe everything for yourself. Thanks for your attention.\n\nНайдено в разделе Show HN на Hacker News. 👍 103 баллов.",
+    "url": "https://github.com/volotat/mini-AGI/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49783133",
+    "createdAt": "2026-09-21T10:57:46.427Z"
+  },
+  {
     "slug": "jev-lint-github",
     "title": "jev-lint",
     "shortDescription": "lint text in code by jev scorerer",
