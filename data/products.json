@@ -1,5 +1,208 @@
 [
   {
+    "slug": "awesome-jev-use-cases-github",
+    "title": "awesome-jev-use-cases",
+    "shortDescription": "Awesome list of Jev use cases. Compared with GPT Models (LLMs) across on cost and speed.",
+    "fullDescription": "Awesome list of Jev use cases. Compared with GPT Models (LLMs) across on cost and speed.\n\nАвтор: whyashthakker. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://www.explainx.ai",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "jev",
+      "rlcd",
+      "rlhf",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1377981619",
+    "createdAt": "2026-09-21T00:24:01.754Z"
+  },
+  {
+    "slug": "jev-spec-github",
+    "title": "jev-spec",
+    "shortDescription": "⚡ Specification-Driven Semantic Verification Engine for AI Code & Specs powered by TypeSafe AI Jev",
+    "fullDescription": "⚡ Specification-Driven Semantic Verification Engine for AI Code & Specs powered by TypeSafe AI Jev\n\nАвтор: nozomi-koborinai. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://www.npmjs.com/package/jev-spec",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "jev",
+      "linter",
+      "typesafe-ai",
+      "typescript",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1378100789",
+    "createdAt": "2026-09-21T00:24:01.754Z"
+  },
+  {
+    "slug": "syncytiummd-github",
+    "title": "SyncytiumMD",
+    "shortDescription": "Universal Context, Rules & Handoff Bridge for AI Coding Tools (Cursor, Copilot, Cline, Claude Code, Antigravity, MCP)",
+    "fullDescription": "Universal Context, Rules & Handoff Bridge for AI Coding Tools (Cursor, Copilot, Cline, Claude Code, Antigravity, MCP)\n\nАвтор: mrcbrbn5361. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/mrcbrbn5361/SyncytiumMD",
+    "category": "developer",
+    "tags": [
+      "agent-handoff",
+      "ai",
+      "ai-agents",
+      "ai-coding",
+      "claude-code",
+      "claude-md",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1377030995",
+    "createdAt": "2026-09-21T00:24:01.754Z"
+  },
+  {
+    "slug": "llm-leaderboard-data-github",
+    "title": "llm-leaderboard-data",
+    "shortDescription": "每日自动更新的大模型排行榜（LLM Leaderboard）：聚合 LMArena 人类盲测偏好与 OpenRouter 定价，含综合榜、性价比榜、价格榜、长上下文榜、开源权重榜 5 个维度。",
+    "fullDescription": "每日自动更新的大模型排行榜（LLM Leaderboard）：聚合 LMArena 人类盲测偏好与 OpenRouter 定价，含综合榜、性价比榜、价格榜、长上下文榜、开源权重榜 5 个维度。\n\nАвтор: AmigaMeow. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://17nas.com/llm-leaderboard.php",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-models",
+      "benchmark",
+      "leaderboard",
+      "llm",
+      "llm-evaluation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1377734507",
+    "createdAt": "2026-09-21T00:24:01.754Z"
+  },
+  {
+    "slug": "janus-github",
+    "title": "Janus",
+    "shortDescription": "AI原生开发平台",
+    "fullDescription": "AI原生开发平台\n\nАвтор: yonyong. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/yonyong/Janus",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-coding",
+      "ai-model",
+      "ai-tools",
+      "claude-code",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1376742818",
+    "createdAt": "2026-09-21T00:24:01.754Z"
+  },
+  {
+    "slug": "jev-github",
+    "title": "jev",
+    "shortDescription": "Ruby client for the typesafe AI Jev model",
+    "fullDescription": "Ruby client for the typesafe AI Jev model\n\nАвтор: virolea. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/virolea/jev",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "jev",
+      "ruby",
+      "typesafe",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1377223538",
+    "createdAt": "2026-09-21T00:24:01.754Z"
+  },
+  {
+    "slug": "jevball-github",
+    "title": "jevball",
+    "shortDescription": "22 Jev models, one ball: a 3D football match where every player is its own Jev (TypeSafe AI System One) decision. Watch, or take over the n…",
+    "fullDescription": "22 Jev models, one ball: a 3D football match where every player is its own Jev (TypeSafe AI System One) decision. Watch, or take over the number 9.\n\nАвтор: atarikcaliskan. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://jevball.online",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "cloudflare-workers",
+      "football",
+      "jev",
+      "simulation",
+      "threejs",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1376946779",
+    "createdAt": "2026-09-21T00:24:01.754Z"
+  },
+  {
+    "slug": "aistack-github",
+    "title": "aistack",
+    "shortDescription": "Stay in one AI harness. Route to Grok, Fable or Sol, or run Claude, Codex and Cursor at the same time.",
+    "fullDescription": "Stay in one AI harness. Route to Grok, Fable or Sol, or run Claude, Codex and Cursor at the same time.\n\nАвтор: skyremote. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://navaigate.dev",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "claude-code",
+      "codex",
+      "cursor",
+      "skills",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1377505596",
+    "createdAt": "2026-09-21T00:24:01.754Z"
+  },
+  {
+    "slug": "ai-adoption-survey-census-hn",
+    "title": "AI Adoption Survey (Census)",
+    "shortDescription": "Проект «AI Adoption Survey (Census)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Adoption Survey (Census)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.crawlspider.com/pages/ai-adoption-rate",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49780915",
+    "createdAt": "2026-09-21T00:24:01.640Z"
+  },
+  {
+    "slug": "jevals-replacing-llm-judges-with-typed-jev-decisions-hn",
+    "title": "jevals – replacing LLM judges with typed Jev decisions",
+    "shortDescription": "Проект «jevals – replacing LLM judges with typed Jev decisions», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «jevals – replacing LLM judges with typed Jev decisions», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://github.com/openlayer-ai/jevals",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49780849",
+    "createdAt": "2026-09-21T00:24:01.640Z"
+  },
+  {
     "slug": "reader-source-github",
     "title": "reader-source",
     "shortDescription": "Open-source native macOS AI reading workspace for PDF, EPUB, and TXT with highlights, notes, book chat, and local-first storage. Download:…",
