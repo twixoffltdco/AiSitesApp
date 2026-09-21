@@ -1,5 +1,105 @@
 [
   {
+    "slug": "jev-lint-github",
+    "title": "jev-lint",
+    "shortDescription": "lint text in code by jev scorerer",
+    "fullDescription": "lint text in code by jev scorerer\n\nАвтор: mizchi. Найдено в GitHub Trending (AI-тематика). ⭐ 46 звёзд.",
+    "url": "https://github.com/mizchi/jev-lint",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "jev",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1376978038",
+    "createdAt": "2026-09-21T05:15:44.398Z"
+  },
+  {
+    "slug": "pitago-github",
+    "title": "pitago",
+    "shortDescription": "A polished terminal UI (TUI) for the pi AI coding agent — real-time chat, multi-provider LLMs, tools and sessions. Built with Go and Bubble…",
+    "fullDescription": "A polished terminal UI (TUI) for the pi AI coding agent — real-time chat, multi-provider LLMs, tools and sessions. Built with Go and Bubble Tea.\n\nАвтор: cavaldos. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/cavaldos/pitago",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "bubble-tea",
+      "chatbot",
+      "cli",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1377293518",
+    "createdAt": "2026-09-21T05:15:44.398Z"
+  },
+  {
+    "slug": "jev-notion-github",
+    "title": "jev-notion",
+    "shortDescription": "🚀 Blazing-fast native macOS menu bar companion for Notion. Pure Swift & SwiftUI (<3MB), 8 languages.",
+    "fullDescription": "🚀 Blazing-fast native macOS menu bar companion for Notion. Pure Swift & SwiftUI (<3MB), 8 languages.\n\nАвтор: jeffloo886. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/jeffloo886/jev-notion",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "automation",
+      "developer-tools",
+      "electron-alternative",
+      "machine-learning",
+      "macos",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1378025155",
+    "createdAt": "2026-09-21T05:15:44.398Z"
+  },
+  {
+    "slug": "awesome-agent-apis-github",
+    "title": "awesome-agent-apis",
+    "shortDescription": "660+ muapi-hosted generative-media models plus community-submitted third-party API tools (SEO, enrichment, social, scraping) — one YAML fil…",
+    "fullDescription": "660+ muapi-hosted generative-media models plus community-submitted third-party API tools (SEO, enrichment, social, scraping) — one YAML file per entry, browsable by capability.\n\nАвтор: Anil-matcha. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://muapi.ai/agent-skills",
+    "category": "image-video",
+    "tags": [
+      "agent-apis",
+      "agent-tools",
+      "agentic-ai",
+      "ai",
+      "ai-agent",
+      "ai-models",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1377933628",
+    "createdAt": "2026-09-21T05:15:44.398Z"
+  },
+  {
+    "slug": "gdocs-me-up-a-high-fidelity-google-docs-exporter-hn",
+    "title": "Gdocs-me-up: a high-fidelity Google Docs exporter",
+    "shortDescription": "Over the years I had written dozens of Google Docs documents, that I wanted to post to my website. Not only Google Docs&#x27;s publish feat…",
+    "fullDescription": "Over the years I had written dozens of Google Docs documents, that I wanted to post to my website. Not only Google Docs&#x27;s publish feature is broken and incomplete, Google does not index Google Docs either. So I set out to fix it for myself using AI agents. Sharing here in case someone else finds it useful.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://github.com/behdad/gdocs-me-up",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49781727",
+    "createdAt": "2026-09-21T05:15:44.689Z"
+  },
+  {
     "slug": "awesome-jev-use-cases-github",
     "title": "awesome-jev-use-cases",
     "shortDescription": "Awesome list of Jev use cases. Compared with GPT Models (LLMs) across on cost and speed.",
