@@ -1,5 +1,81 @@
 [
   {
+    "slug": "jeview-github",
+    "title": "jeview",
+    "shortDescription": "An unofficial local visualizer for Jev (TypeSafe): a live view of every call your code makes. Not affiliated with TypeSafe AI.",
+    "fullDescription": "An unofficial local visualizer for Jev (TypeSafe): a live view of every call your code makes. Not affiliated with TypeSafe AI.\n\nАвтор: andududu. Найдено в GitHub Trending (AI-тематика). ⭐ 9 звёзд.",
+    "url": "https://github.com/andududu/jeview",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "debugging",
+      "developer-tools",
+      "jev",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1379859926",
+    "createdAt": "2026-09-21T23:48:32.878Z"
+  },
+  {
+    "slug": "discern-github",
+    "title": "discern",
+    "shortDescription": "Craft Type-Safe Uncertainty-aware semantic pattern matching, control flow, and smart procedures for Effect DecisionModel and Jev",
+    "fullDescription": "Craft Type-Safe Uncertainty-aware semantic pattern matching, control flow, and smart procedures for Effect DecisionModel and Jev\n\nАвтор: doeixd. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://github.com/doeixd/discern#readme",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "control-flow",
+      "decision-making",
+      "effect",
+      "effect-ts",
+      "functional-programming",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1379691269",
+    "createdAt": "2026-09-21T23:48:32.878Z"
+  },
+  {
+    "slug": "building-seven-in-public-hn",
+    "title": "Building Seven in Public",
+    "shortDescription": "https:&#x2F;&#x2F;github.com&#x2F;02zerocool&#x2F;truth-benchmark",
+    "fullDescription": "https:&#x2F;&#x2F;github.com&#x2F;02zerocool&#x2F;truth-benchmark\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://claude.ai/share/61ae35d6-82f2-425a-84b6-907a3ec1b5c4",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49794705",
+    "createdAt": "2026-09-21T23:48:32.571Z"
+  },
+  {
+    "slug": "sota-feed-every-open-weights-release-from-the-labs-that-matter-hn",
+    "title": "SoTA Feed – Every open-weights release from the labs that matter",
+    "shortDescription": "Проект «SoTA Feed – Every open-weights release from the labs that matter», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «SoTA Feed – Every open-weights release from the labs that matter», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://sota.borgcloud.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49794230",
+    "createdAt": "2026-09-21T23:48:32.571Z"
+  },
+  {
     "slug": "emote-a-reaction-api-for-ai-agents-hn",
     "title": "Emote – A reaction API for AI agents",
     "shortDescription": "Проект «Emote – A reaction API for AI agents», опубликован сообществом Hacker News.",

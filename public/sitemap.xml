@@ -6,6 +6,30 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://aisitesapp.tatnet.app/products/jeview-github</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aisitesapp.tatnet.app/products/discern-github</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aisitesapp.tatnet.app/products/building-seven-in-public-hn</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aisitesapp.tatnet.app/products/sota-feed-every-open-weights-release-from-the-labs-that-matter-hn</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://aisitesapp.tatnet.app/products/emote-a-reaction-api-for-ai-agents-hn</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
