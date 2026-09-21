@@ -1,5 +1,53 @@
 [
   {
+    "slug": "emote-a-reaction-api-for-ai-agents-hn",
+    "title": "Emote – A reaction API for AI agents",
+    "shortDescription": "Проект «Emote – A reaction API for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Emote – A reaction API for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://useemote.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49792381",
+    "createdAt": "2026-09-21T20:46:47.326Z"
+  },
+  {
+    "slug": "factlabel-catches-ai-agents-lying-about-the-data-theyre-reporting-on-hn",
+    "title": "Factlabel: catches AI agents lying about the data they're reporting on",
+    "shortDescription": "Проект «Factlabel: catches AI agents lying about the data they're reporting on», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Factlabel: catches AI agents lying about the data they're reporting on», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/generallymatthew/factlabel",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49791857",
+    "createdAt": "2026-09-21T20:46:47.326Z"
+  },
+  {
+    "slug": "feargate-ai-fear-machine-hn",
+    "title": "FearGate – AI Fear Machine",
+    "shortDescription": "Проект «FearGate – AI Fear Machine», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «FearGate – AI Fear Machine», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://feargate.org/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49790564",
+    "createdAt": "2026-09-21T20:46:47.326Z"
+  },
+  {
     "slug": "laya-vs-jev-arena-github",
     "title": "laya-vs-jev-arena",
     "shortDescription": "Laya (open source, local) vs TypeSafe Jev (API): two AI models race in Snake and fight in a Mortal-Kombat-style arena. Every move is a real…",
