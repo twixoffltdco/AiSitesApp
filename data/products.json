@@ -1,5 +1,295 @@
 [
   {
+    "slug": "laya-vs-jev-arena-github",
+    "title": "laya-vs-jev-arena",
+    "shortDescription": "Laya (open source, local) vs TypeSafe Jev (API): two AI models race in Snake and fight in a Mortal-Kombat-style arena. Every move is a real…",
+    "fullDescription": "Laya (open source, local) vs TypeSafe Jev (API): two AI models race in Snake and fight in a Mortal-Kombat-style arena. Every move is a real model decision.\n\nАвтор: PromptEngineer48. Найдено в GitHub Trending (AI-тематика). ⭐ 10 звёзд.",
+    "url": "https://github.com/PromptEngineer48/laya-vs-jev-arena",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "benchmark",
+      "game",
+      "laya",
+      "open-source",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1379182923",
+    "createdAt": "2026-09-21T16:52:11.528Z"
+  },
+  {
+    "slug": "lintus-github",
+    "title": "lintus",
+    "shortDescription": "A linter whose rules are written in plain language.",
+    "fullDescription": "A linter whose rules are written in plain language.\n\nАвтор: virolea. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://github.com/virolea/lintus",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "jev",
+      "jev-ai",
+      "linter",
+      "ruby",
+      "typesafe-ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1378760207",
+    "createdAt": "2026-09-21T16:52:11.528Z"
+  },
+  {
+    "slug": "jev-feels-github",
+    "title": "jev-feels",
+    "shortDescription": "Semantic decisions as ordinary Ruby — feels?, decide, score, Rails validations and pattern matching powered by Jev",
+    "fullDescription": "Semantic decisions as ordinary Ruby — feels?, decide, score, Rails validations and pattern matching powered by Jev\n\nАвтор: Qew7. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/Qew7/jev-feels",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "jev",
+      "rails",
+      "ruby",
+      "ruby-gem",
+      "semantic",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1378234603",
+    "createdAt": "2026-09-21T16:52:11.528Z"
+  },
+  {
+    "slug": "agent-chaperone-screen-ai-agent-tool-calls-and-results-with-jev-hn",
+    "title": "Agent Chaperone – Screen AI agent tool calls and results with Jev",
+    "shortDescription": "Hi everyone. TypeSafe released Jev last week, and it pushed me to build agent-chaperone. It is a screening layer for AI agent tool calls an…",
+    "fullDescription": "Hi everyone. TypeSafe released Jev last week, and it pushed me to build agent-chaperone. It is a screening layer for AI agent tool calls and tool results. It screens risky, off-task, or secret-leaking actions before they run, and prompt injections or other suspicious instructions before the agent reads them. Repo: https:&#x2F;&#x2F;github.com&#x2F;agent-chaperone&#x2F;agent-chaperone Website: https:&#x2F;&#x2F;agentchaperone.dev&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/agent-chaperone/agent-chaperone",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49789538",
+    "createdAt": "2026-09-21T16:52:11.462Z"
+  },
+  {
+    "slug": "ai-changed-how-we-write-code-why-hasnt-code-review-changed-hn",
+    "title": "AI Changed How We Write Code. Why Hasn’t Code Review Changed?",
+    "shortDescription": "Проект «AI Changed How We Write Code. Why Hasn’t Code Review Changed?», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Changed How We Write Code. Why Hasn’t Code Review Changed?», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/otobongfp/code-graph-view",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49789314",
+    "createdAt": "2026-09-21T16:52:11.462Z"
+  },
+  {
+    "slug": "we-built-a-network-for-ai-agents-and-humans-to-exchange-services-hn",
+    "title": "We built a network for AI agents and humans to exchange services",
+    "shortDescription": "Проект «We built a network for AI agents and humans to exchange services», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «We built a network for AI agents and humans to exchange services», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://gingerpal.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49789063",
+    "createdAt": "2026-09-21T16:52:11.463Z"
+  },
+  {
+    "slug": "replay-an-ai-coding-session-and-inspect-its-requests-hn",
+    "title": "Replay an AI Coding Session and Inspect Its Requests",
+    "shortDescription": "Проект «Replay an AI Coding Session and Inspect Its Requests», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Replay an AI Coding Session and Inspect Its Requests», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ishamf.dev/p/agent-harness-replay/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49788788",
+    "createdAt": "2026-09-21T16:52:11.463Z"
+  },
+  {
+    "slug": "outbound-benchmark-calculators-no-signup-no-tracking-hn",
+    "title": "Outbound benchmark calculators, no signup, no tracking",
+    "shortDescription": "Проект «Outbound benchmark calculators, no signup, no tracking», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Outbound benchmark calculators, no signup, no tracking», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.prospectio.ai/tools/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49788412",
+    "createdAt": "2026-09-21T16:52:11.463Z"
+  },
+  {
+    "slug": "jev-ai-try-the-interactive-playground-and-typed-decision-hn",
+    "title": "Jev AI –Try the Interactive Playground and Typed Decision",
+    "shortDescription": "Try the Jev AI Playground online, then learn how typed decisions, confidence, and structured AI outputs work.",
+    "fullDescription": "Try the Jev AI Playground online, then learn how typed decisions, confidence, and structured AI outputs work.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://jev-ai.info/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49788346",
+    "createdAt": "2026-09-21T16:52:11.463Z"
+  },
+  {
+    "slug": "mathy-build-math-automaticity-hn",
+    "title": "Mathy – Build Math Automaticity",
+    "shortDescription": "Mathy is a free tool I made to build math automaticity. If you think of something like Anki for drilling problems&#x2F;formulas, it&#x27;s…",
+    "fullDescription": "Mathy is a free tool I made to build math automaticity. If you think of something like Anki for drilling problems&#x2F;formulas, it&#x27;s like that but built for math and more convenient: no creating your own cards, it works well on mobile and helps track your progress over time. It uses FSRS for scheduling and includes over 40,000 problems ranging from 1st grade math through university level math, all deterministically verified. It also has levels and dozens of badges you can earn to keep it engaging. You can use it via the iOS app or the web app. The iOS app is free and completely offline aside from optionally sending feedback&#x2F;requesting help in app. In the web version progress is stored locally in IndexedDB, except in challenge mode where you can optionally submit initials to the leaderboard. I still use Math Academy to learn math (highly recommended), but as I&#x27;m learning more advanced math to support my journey into AI and robotics I wanted to try and raise my own ceiling by building automaticity in stuff I already learned. The idea is a little counterintuitive: if Mathy works, you should eventually need it less. Because as something becomes automatic, its recommended reviews can move farther apart thanks to FSRS. Edit: More about how I made it here https:&#x2F;&#x2F;gmays.com&#x2F;making-math-automatic-with-mathy&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://mathy.game/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49788287",
+    "createdAt": "2026-09-21T16:52:11.463Z"
+  },
+  {
+    "slug": "pokertools-arena-local-ai-vs-ai-poker-llm-benchmark-table-hn",
+    "title": "PokerTools Arena – Local AI vs. AI Poker LLM Benchmark Table",
+    "shortDescription": "Проект «PokerTools Arena – Local AI vs. AI Poker LLM Benchmark Table», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «PokerTools Arena – Local AI vs. AI Poker LLM Benchmark Table», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/pokertools-arena/pokertools-arena.github.io",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49788178",
+    "createdAt": "2026-09-21T16:52:11.463Z"
+  },
+  {
+    "slug": "open-source-shared-memory-for-teams-of-ai-coding-agents-hn",
+    "title": "Open-source shared memory for teams of AI coding agents",
+    "shortDescription": "Проект «Open-source shared memory for teams of AI coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Open-source shared memory for teams of AI coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/motif-Labs/motif",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49786875",
+    "createdAt": "2026-09-21T16:52:11.463Z"
+  },
+  {
+    "slug": "jev-cli-cli-wrapper-for-jev-typesafe-ai-model-hn",
+    "title": "Jev-CLI – CLI wrapper for JEV typesafe AI model",
+    "shortDescription": "Проект «Jev-CLI – CLI wrapper for JEV typesafe AI model», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Jev-CLI – CLI wrapper for JEV typesafe AI model», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/joshLong145/jev-cli",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49786725",
+    "createdAt": "2026-09-21T16:52:11.463Z"
+  },
+  {
+    "slug": "callwitness-record-what-your-ai-agents-tools-return-hn",
+    "title": "Callwitness – record what your AI agent's tools return",
+    "shortDescription": "Проект «Callwitness – record what your AI agent's tools return», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Callwitness – record what your AI agent's tools return», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/AditiChaudharyy14/callwitness",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49786506",
+    "createdAt": "2026-09-21T16:52:11.463Z"
+  },
+  {
+    "slug": "lossless-memory-a-personal-ai-memory-that-never-summarizes-hn",
+    "title": "Lossless-memory – a personal AI memory that never summarizes",
+    "shortDescription": "Проект «Lossless-memory – a personal AI memory that never summarizes», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Lossless-memory – a personal AI memory that never summarizes», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 35 баллов.",
+    "url": "https://github.com/aru-labs/lossless-memory",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49786419",
+    "createdAt": "2026-09-21T16:52:11.463Z"
+  },
+  {
+    "slug": "see-what-chatgpt-claude-and-gemini-say-about-your-business-hn",
+    "title": "See what ChatGPT, Claude and Gemini say about your business",
+    "shortDescription": "A free tool that queries ChatGPT, Claude, Gemini and Perplexity live and shows the verbatim answers about your business, built after we fou…",
+    "fullDescription": "A free tool that queries ChatGPT, Claude, Gemini and Perplexity live and shows the verbatim answers about your business, built after we found out we were invisible to AI ourselves when we tested an early version on our own company. Happy to answer questions about the methodology.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://kelriva.ai/ai-visibility-score",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49785976",
+    "createdAt": "2026-09-21T16:52:11.463Z"
+  },
+  {
+    "slug": "accordia-structured-1-on-1s-for-engineering-managers-hn",
+    "title": "Accordia – Structured 1-on-1s for engineering managers",
+    "shortDescription": "Hi everyone, I&#x27;m a solo developer in Lincolnshire, UK. I&#x27;ve recently built Accordia. It is a 1-on-1 tool for engineering managers…",
+    "fullDescription": "Hi everyone, I&#x27;m a solo developer in Lincolnshire, UK. I&#x27;ve recently built Accordia. It is a 1-on-1 tool for engineering managers. You build a reusable agenda per report, run the meeting against it, and anything that turns into an action gets tracked and pulled into the next session automatically. I built it because of the 1-on-1s I sat in as a developer, not ones I ran as a manager. The pattern was always the same. The first few were good. Then my manager got busy, the meeting quietly turned into a status update, and something I&#x27;d raised in March came back as a surprise in my end of year review. None of them were bad managers but the 1 on 1 was not their priority so it ended up coming from memory and whilst there were good intentions there were issues with the process. So the thing I&#x27;m actually trying to fix isn&#x27;t manager capability, it&#x27;s the amount of discipline a good 1-on-1 currently demands. Most of the managers I&#x27;ve spoken to are running theirs out of a Notion doc or a shared spreadsheet. That works fine until it doesn&#x27;t, and when it stops working nothing tells you until it&#x27;s too late and you&#x27;re in a messy situation. That also means I&#x27;m competing with Notion and spreadsheets, not with Lattice or 15Five. There&#x27;s no performance review cycle, no engagement scoring, no HR dashboard, and direct reports don&#x27;t need accounts. A few parts are open with no signup if you want to poke at it before deciding: The demo - https:&#x2F;&#x2F;www.getaccordia.com&#x2F;demo , Agenda generator (no auth, exports to PDF) - https:&#x2F;&#x2F;www.getaccordia.com&#x2F;1-on-1-agenda-generator , Question library - https:&#x2F;&#x2F;www.getaccordia.com&#x2F;1-on-1-questions , 1-on-1 health check quiz - https:&#x2F;&#x2F;www.getaccordia.com&#x2F;health-check Stack: Next.js 16 (App Router), React 19, TypeScript, Tailwind v4, Supabase for Postgres and auth with server actions, Zustand, dnd-kit, shadcn&#x2F;ui, PostHog, Paddle for billing, on Vercel. Local dev runs the full Supabase stack in Docker on a migration workflow. Free for up to 3 direct reports. $29&#x2F;month above that which I think seems about right. There&#x27;s still way more I&#x27;m planning on adding such as: Calendar integrations, AI summaries for employees, Being able to set goals, quarterly, bi yearly, yearly, Global template library - upload your own templates and download others, If you run 1-on-1s now, what does your setup look like and where does it actually fall over?\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.getaccordia.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49785956",
+    "createdAt": "2026-09-21T16:52:11.464Z"
+  },
+  {
     "slug": "jeq-github",
     "title": "jeq",
     "shortDescription": "What happens when jev meets jq? Intelligence you can pipe",
