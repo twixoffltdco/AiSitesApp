@@ -1,5 +1,127 @@
 [
   {
+    "slug": "copilothub-github",
+    "title": "CopilotHub",
+    "shortDescription": "Simple, focused workspace",
+    "fullDescription": "Simple, focused workspace\n\nАвтор: baseconjurerspeed94. Найдено в GitHub Trending (AI-тематика). ⭐ 9 звёзд.",
+    "url": "https://github.com/baseconjurerspeed94/CopilotHub",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "autocomplete",
+      "code",
+      "developer",
+      "github",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1382357139",
+    "createdAt": "2026-09-22T23:28:25.982Z"
+  },
+  {
+    "slug": "cursor-package-github",
+    "title": "Cursor-Package",
+    "shortDescription": "Official-style desktop package",
+    "fullDescription": "Official-style desktop package\n\nАвтор: StellarVictorTally. Найдено в GitHub Trending (AI-тематика). ⭐ 9 звёзд.",
+    "url": "https://github.com/StellarVictorTally/Cursor-Package",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "code-editor",
+      "developer",
+      "ide",
+      "pair-programming",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1382357612",
+    "createdAt": "2026-09-22T23:28:25.982Z"
+  },
+  {
+    "slug": "palette-a-figma-plugin-that-turns-one-color-into-a-whole-ui-system-hn",
+    "title": "Palette, a Figma plugin that turns one color into a whole UI system",
+    "shortDescription": "I was inspired to build this because of AI slop design. That led me down the path of why computers didn&#x27;t &#x27;see&#x27; color the wa…",
+    "fullDescription": "I was inspired to build this because of AI slop design. That led me down the path of why computers didn&#x27;t &#x27;see&#x27; color the way that humans did - and the lack of a common language between perceptual, display, and print color spaces (there was no Unicode for color). That led me to inventing and patenting ART, a new color language, and Orchestra, the engine that runs it. Palette is the first product built on this tech, and it solves problems I faced as a designer for the last 30 years: - Colors that shift when you make them lighter or darker - The RGB color wheel tells you colors should look good together but don&#x27;t - Printed colors never match their digital counterparts - Accessibility required tedious math and was never just baked in - Generated color ramps cut off near black and never provided the shades I needed I&#x27;m excited to finally share Palette with the world - and I&#x27;m hard at work on a web-based version, an Adobe plugin, and our next big release: Converter. The color conversion tool you&#x27;ve always wanted and never had.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.figma.com/community/plugin/1682163756621093164",
+    "category": "design",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49809408",
+    "createdAt": "2026-09-22T23:28:25.814Z"
+  },
+  {
+    "slug": "a-fast-offline-markdown-viewer-for-macos-built-in-swift-hn",
+    "title": "A fast, offline Markdown viewer for macOS built in Swift",
+    "shortDescription": "Hi HN! I made Tim’s Markdown Reader because I wanted a free, open-source app just for reading Markdown. I spend a lot of time working with…",
+    "fullDescription": "Hi HN! I made Tim’s Markdown Reader because I wanted a free, open-source app just for reading Markdown. I spend a lot of time working with AI coding agents, and sometimes I just want to open the files they produce and read them without opening an editor. It’s written in Swift and works entirely offline, including Mermaid diagrams. It has no accounts, telemetry or network requests. You can click links to other Markdown files and open them in the same window, with back and forward buttons. It also has search, automatic reload when a file changes, light and dark modes, adjustable fonts and text size, and centred or full-width layouts. It started as something I needed myself, but I’ve since spent quite a bit of time refining it for public release. I wanted to keep it fast and minimal while making it feel like a proper Mac app, with attention to small details. It’s MIT licensed, and the app is Developer ID-signed and notarized by Apple. Requires Apple silicon and macOS 14 or later (tested on macOS 26 and 27). This is my first public open-source release. Would be good to hear what you guys think!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/temir-dev/tims-markdown-reader",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49809267",
+    "createdAt": "2026-09-22T23:28:25.814Z"
+  },
+  {
+    "slug": "linearsolvebench-interesting-new-benchmark-to-discover-linear-solvers-hn",
+    "title": "LinearSolveBench, interesting new benchmark to discover linear solvers",
+    "shortDescription": "LinearSolveBench measures the ability of a model or harness to write fast, accurate, and general numerical solvers for large sparse linear…",
+    "fullDescription": "LinearSolveBench measures the ability of a model or harness to write fast, accurate, and general numerical solvers for large sparse linear systems in C. The goal is to encourage algorithmic advances in numerical solvers for linear systems of equations.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.autodidakt.ai/linear-solve-bench",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49808641",
+    "createdAt": "2026-09-22T23:28:25.814Z"
+  },
+  {
+    "slug": "jade-email-unlimited-emails-for-your-domain-plus-ai-agent-support-hn",
+    "title": "Jade Email. Unlimited emails for your domain plus AI Agent support",
+    "shortDescription": "Hello HN! I&#x27;ve spent the last 4 years building Jade.email, an email service, and it&#x27;s now better than any email service I&#x27;ve…",
+    "fullDescription": "Hello HN! I&#x27;ve spent the last 4 years building Jade.email, an email service, and it&#x27;s now better than any email service I&#x27;ve used. I&#x27;m incredibly proud of it and have a small group of paying customers already. It&#x27;s similar to SimpleLogin where you get unlimited emails for your domain on the fly. The key difference is that it&#x27;s not a relay that just forwards to your existing email. The whole product is designed around this concept, and you get actual mailboxes that you can connect to with IMAP, have different rules for, view separately, etc. The rules are really powerful as well, and can target different inboxes. I have any emails that have login links or verification codes notify me and self delete after 7 days. I have rules that automatically mark an email as read if it has any &quot;list-unsubscribe&quot; headers and then automatically try unsubscribing. The best part though is you can connect any agent to it (except Gemini because Google is the worst) and it can not only do the normal email stuff, but it can also manage your rules too. So if I have a new inbox I&#x27;ll ask Claude or ChatGPT to analyze that inbox and suggest rules or categorization&#x2F;etc and it just works. It&#x27;s also an approved plugin on the ChatGPT plugin marketplace so I&#x27;m seeing AI first sign up traffic from people who have never even visited the website. You can sign up for free and receive email at a domain I generate for you if you want to try it out. If anyone is interested in trying out the more full version where you have your own domain and send email, I&#x27;m also happy to send you a promo code for the first month free. Also happy to answer any questions!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://jade.email/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49808620",
+    "createdAt": "2026-09-22T23:28:25.815Z"
+  },
+  {
+    "slug": "netm8-os-hn",
+    "title": "NetM8 OS",
+    "shortDescription": "First post on HN. I wanted to make my marketing&#x2F;digital consultancy site a bit fun and different with an OS-inspired landing page. Cli…",
+    "fullDescription": "First post on HN. I wanted to make my marketing&#x2F;digital consultancy site a bit fun and different with an OS-inspired landing page. Click around, have fun and break things (although go easy on the &#x27;concierge&#x27; which is on a free Workers AI plan pls)! I&#x27;m a solo marketing and communications person and have self taught web dev-ish over the past three years and I&#x27;m keen to learn and improve so do your worst\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://netm8.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49808073",
+    "createdAt": "2026-09-22T23:28:25.815Z"
+  },
+  {
     "slug": "junkdrawerai-browse-ebay-with-ai-agent-and-dynamic-filtering-hn",
     "title": "junkDrawer.ai – Browse eBay with AI Agent and Dynamic Filtering",
     "shortDescription": "Custom lenses for any user specified quality ... I wonder how I did that?",
