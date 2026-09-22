@@ -1,5 +1,37 @@
 [
   {
+    "slug": "z8log-structured-logging-your-ai-coding-agent-can-query-hn",
+    "title": "Z8Log – Structured logging your AI coding agent can query",
+    "shortDescription": "Проект «Z8Log – Structured logging your AI coding agent can query», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Z8Log – Structured logging your AI coding agent can query», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://z8log.com/welcome",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49797902",
+    "createdAt": "2026-09-22T08:43:52.621Z"
+  },
+  {
+    "slug": "aspark-an-agile-ai-product-team-for-claude-code-hn",
+    "title": "aSPARK – an agile AI product team for Claude Code",
+    "shortDescription": "Проект «aSPARK – an agile AI product team for Claude Code», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «aSPARK – an agile AI product team for Claude Code», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/a-lottes/aSPARK",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49796728",
+    "createdAt": "2026-09-22T08:43:52.621Z"
+  },
+  {
     "slug": "open-jev-github",
     "title": "open-jev",
     "shortDescription": "an open-source, from-first-principles reconstruction of the ideas behind TypeSafe AI's Jev, written in pytorch",
