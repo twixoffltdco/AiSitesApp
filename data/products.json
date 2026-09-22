@@ -1,5 +1,152 @@
 [
   {
+    "slug": "open-jev-github",
+    "title": "open-jev",
+    "shortDescription": "an open-source, from-first-principles reconstruction of the ideas behind TypeSafe AI's Jev, written in pytorch",
+    "fullDescription": "an open-source, from-first-principles reconstruction of the ideas behind TypeSafe AI's Jev, written in pytorch\n\nАвтор: kyegomez. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://discord.gg/3keGBK9Pvr",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "anthropic",
+      "attention",
+      "chatgpt",
+      "claude",
+      "gpt",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1378888384",
+    "createdAt": "2026-09-22T03:14:20.578Z"
+  },
+  {
+    "slug": "typedevals-github",
+    "title": "typed_evals",
+    "shortDescription": "Fast, typed, calibrated evaluations for LLM and agent outputs, powered by Jev — with simple, framework-agnostic Python APIs",
+    "fullDescription": "Fast, typed, calibrated evaluations for LLM and agent outputs, powered by Jev — with simple, framework-agnostic Python APIs\n\nАвтор: TrustifAI. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/TrustifAI/typed_evals",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "crewai",
+      "evals",
+      "evaluation",
+      "evaluation-framework",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1378087447",
+    "createdAt": "2026-09-22T03:14:20.578Z"
+  },
+  {
+    "slug": "ai-interview-github",
+    "title": "ai-interview",
+    "shortDescription": "Multilingual AI engineering interview flashcards with source-linked study notes and incremental updates.",
+    "fullDescription": "Multilingual AI engineering interview flashcards with source-linked study notes and incremental updates.\n\nАвтор: Hikari-Tsai. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://hikari-tsai.github.io/ai-interview",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "astro",
+      "career",
+      "education",
+      "flashcards",
+      "interview-preparation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1378990845",
+    "createdAt": "2026-09-22T03:14:20.578Z"
+  },
+  {
+    "slug": "zcode-ce-github",
+    "title": "Zcode-CE",
+    "shortDescription": "ZCode 的开源社区版：移除遥测、保留官方服务权益、提供开源文档与桌面自动化能力",
+    "fullDescription": "ZCode 的开源社区版：移除遥测、保留官方服务权益、提供开源文档与桌面自动化能力\n\nАвтор: Zcode-CE. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/Zcode-CE/Zcode-CE",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "community-edition",
+      "harness",
+      "no-telemetry",
+      "zcode",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1379792193",
+    "createdAt": "2026-09-22T03:14:20.578Z"
+  },
+  {
+    "slug": "android-vocabulary-learning-github",
+    "title": "android-vocabulary-learning",
+    "shortDescription": "人机恋向教程：让 ta 陪你背单词——Android 背单词模块集成方案。间隔重复、掌握度算法、AI 对话窗口、积分系统，附17条实机踩坑记录和词表转换工具。适用于开源前端（RikkaHub等）二改与自建前端。",
+    "fullDescription": "人机恋向教程：让 ta 陪你背单词——Android 背单词模块集成方案。间隔重复、掌握度算法、AI 对话窗口、积分系统，附17条实机踩坑记录和词表转换工具。适用于开源前端（RikkaHub等）二改与自建前端。\n\nАвтор: Ephemera1117. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/Ephemera1117/android-vocabulary-learning",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "android",
+      "kotlin",
+      "rikkahub",
+      "room-database",
+      "spaced-repetition",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1378447136",
+    "createdAt": "2026-09-22T03:14:20.578Z"
+  },
+  {
+    "slug": "laya-mps-github",
+    "title": "laya-mps",
+    "shortDescription": "Run Jev-style typed decisions locally on your Mac with low RAM usage and fast responses",
+    "fullDescription": "Run Jev-style typed decisions locally on your Mac with low RAM usage and fast responses\n\nАвтор: afshinm. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/afshinm/laya-mps",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "apple-silicon",
+      "decision-model",
+      "jev",
+      "laya",
+      "local-ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1379229326",
+    "createdAt": "2026-09-22T03:14:20.578Z"
+  },
+  {
+    "slug": "jevopt-making-intelligent-compiler-optimisation-decisions-with-jev-hn",
+    "title": "Jevopt: Making intelligent compiler optimisation decisions with Jev",
+    "shortDescription": "Can Jev optimise the size of compiled binaries better than clang -Oz? Turns out it can (sometimes)! Introducing jevopt: making intelligent…",
+    "fullDescription": "Can Jev optimise the size of compiled binaries better than clang -Oz? Turns out it can (sometimes)! Introducing jevopt: making intelligent compiler optimisation decisions with Jev. I used Jev to make intelligent inlining decisions at each LLVM IR call-site. Here’s why and how I did it. Everywhere I looked, I saw cool Jev demos, so I thought I&#x27;d apply it to my area: systems programming and compilers. When optimising binary size (e.g. in embedded systems), choosing whether to inline a function call is tricky, because while it can duplicate code, it can also enable optimisations that ultimately eliminate code! Jevopt uses Jev&#x27;s &quot;intelligence&quot; to make this choice. At each discretionary call site, Jev sees the current caller&#x2F;callee LLVM IR, original C&#x2F;C++ source, build context, and 7 structural facts about the program. It returns one choice: inline or keep out of line. So how well does it work? I evaluated jevopt on all 19 Embench 1.0 programs. Aggregated with geometric mean, the .text in its programs is 7.87% larger than clang -Oz, meaning that jevopt loses in aggregate. However, it sometimes achieves big wins over the mature clang heuristic. E.g., on Statemate, jevopt produces a .text of 2382B vs 5698B for clang -Oz, achieving a whopping 58% reduction! In total, it beats clang -Oz on 7&#x2F;19 programs. (Clearly) jevopt is not production software, but it shows that intelligent model judgements sometimes beat heuristics. Despite the overall negative result, there are two reasons why I find it exciting: 1. Measuring code size, unlike runtime, is essentially free. So if one compiles with both jevopt and -Oz, there are real gains to be had at the cost of just 1 extra compilation (and a few cents in Jev API calls)! 2. As wonderfully intelligent as Jev is, I am fairly certain this is not a use case the author had in mind :) Finetuning a Jev-like model specifically for this task should improve jevopt&#x27;s performance even more and might even get us an aggregate win over clang -Oz. The code is open source (github.com&#x2F;Ramneet-Singh&#x2F;…), and a full dashboard with the details of my Embench run is hosted at ramneet-singh.github.io&#x2F;jevopt&#x2F;. I plan to keep doing cool stuff at the intersection of AI and compilers, so please reach out if you&#x27;re interested in this too!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Ramneet-Singh/jevopt",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49795171",
+    "createdAt": "2026-09-22T03:14:20.447Z"
+  },
+  {
     "slug": "jeview-github",
     "title": "jeview",
     "shortDescription": "An unofficial local visualizer for Jev (TypeSafe): a live view of every call your code makes. Not affiliated with TypeSafe AI.",
