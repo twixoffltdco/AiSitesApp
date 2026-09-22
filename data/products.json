@@ -1,5 +1,181 @@
 [
   {
+    "slug": "webmcp-registry-of-websites-that-agents-can-use-hn",
+    "title": "WebMCP Registry of Websites That Agents Can Use",
+    "shortDescription": "We were going to keep this internal to Tomo, but we decided to ship this publicly in case for other agent builders! Introducing the WebMCP…",
+    "fullDescription": "We were going to keep this internal to Tomo, but we decided to ship this publicly in case for other agent builders! Introducing the WebMCP Registry: an open index of websites that give AI agents real tools, like &quot;search flights&quot; or &quot;add to cart&quot;, so they can use the site directly instead of clicking through it. We loaded the top 100,000 sites in real browsers and recorded every tool they register. We re-check them daily.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.wmcp.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49804387",
+    "createdAt": "2026-09-22T17:54:59.470Z"
+  },
+  {
+    "slug": "aireterag-a-rete-rule-engine-decides-rag-explains-why-hn",
+    "title": "AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+    "shortDescription": "Hi HN, I built ai·rete·rag because I kept seeing teams put an LLM in charge of decisions that need to be auditable (lending, fraud, clinica…",
+    "fullDescription": "Hi HN, I built ai·rete·rag because I kept seeing teams put an LLM in charge of decisions that need to be auditable (lending, fraud, clinical triage), then bolt on &quot;guardrails&quot; after the fact. It runs the two in series instead: 1. A pure-Python Rete engine evaluates YAML rules against your facts. The verdict comes only from here. Same facts, same verdict, every time, with salience-based conflict resolution. 2. RAG retrieves passages from your own policy documents, and an LLM writes a plain-English explanation of the decision that was already made, citing those passages. It can&#x27;t change the verdict. A few things that went further than I expected: - Rules are a graph, not flat lists: nested all&#x2F;any&#x2F;not, and rules can assert facts that other rules consume (forward chaining). The decision trace shows the causal chain. - Audit mode records every rule evaluated, including the ones that didn&#x27;t fire, condition by condition, with a snapshot of the rule set for replay. - Rules can steer retrieval (a fired rule narrows which documents get searched), and retrieved text can be turned into facts for the engine. - Non-technical authors can build rules in a visual editor, or paste a policy document and get LLM-drafted rules with citations. Drafts are never saved without review. YAML is still there for engineers. The landing page has a live demo with no signup (8 demo domains: loan, fraud, clinical, insurance, legal, ops, e-commerce, blockchain). There&#x27;s also an MCP server, so Claude and other agents can call &#x2F;decide as a tool: `uvx ai-rete-rag-mcp`. To be upfront: it&#x27;s a hosted product with a free tier. The MCP client is open source (MIT, github.com&#x2F;zaharajabeen13-create&#x2F;ai-rete-rag-mcp); the engine and platform are not open source right now. I&#x27;d especially like to hear from anyone who has had to explain an automated decision to a regulator or an auditor: what did they actually ask for?\n\nНайдено в разделе Show HN на Hacker News. 👍 15 баллов.",
+    "url": "https://ai-rete-rag.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49803683",
+    "createdAt": "2026-09-22T17:54:59.470Z"
+  },
+  {
+    "slug": "kado-search-to-allow-personal-agents-to-find-agent-apps-hn",
+    "title": "Kado – Search to Allow Personal Agents to Find Agent Apps",
+    "shortDescription": "Hey folks! My cofounder and I have built Kado - Search for Personal Agents to find Agent Apps[1]. We think the future of agents that indivi…",
+    "fullDescription": "Hey folks! My cofounder and I have built Kado - Search for Personal Agents to find Agent Apps[1]. We think the future of agents that individuals will use few personal agents (think, personal computers) as their primary interface, and while those agents delegate work to agent apps to complete actual tasks. We were building a personal agent ourselves when we noticed that our users were often trying to do complex things which should be delegated away. We found that web search didn&#x27;t cut it for reasons including the &quot;quality metric&quot; being incorrect, and a &quot;don&#x27;t know what to search for&quot; problem. Kado&#x27;s crawl uses LLMs to parse information from websites pages, agent cards, or other discovery sources to model the actual outcome(s) that&#x27;s being promised, and the interface to them (we call these &quot;agent apps&quot;). Our search and index is based on a heavily modified version of HyDE. The search itself is quite slow right now because of LLMs in the loop. We want to get this down to ~sub-second. We have ~3000 indexed MCPs and&#x2F;or A2A agents, and we recently purged the index of entries your agents can&#x27;t use (we had ~45k before that). I&#x27;m partial to a TTRPG character generator MCP that&#x27;s great for printed one shot sheets, but some others you may also want to try searching for include builder&#x2F;research&#x2F;crawl tools or (surprisingly) financial data tools. Also, did you know that AWS has a public devops&#x2F;root cause analysis agent?[2] The best way to try it is to install it on your agent (it&#x27;s a CLI + Skill for now, MCP coming soon!) but you can also just try direct searches on the website. The website requires a google login for spam protection (which we want to remove if we get some funding haha), but the CLI does not need a login (we use proof of work to prevent spam, and an agent identity based on a keypair is auto-created and stored in your keychain). Would love any feedback! PS: Ignore the order of the search results - our experiments show that the ranking does not matter for intelligent models, so we&#x27;ve prioritized recall over ranking. [1] https:&#x2F;&#x2F;kado.so and https:&#x2F;&#x2F;kado.so&#x2F;about [2] AWS DevOps Agent - https:&#x2F;&#x2F;connect.aidevops.us-east-1.api.aws&#x2F;.well-known&#x2F;agent...\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://kado.so",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49803059",
+    "createdAt": "2026-09-22T17:54:59.470Z"
+  },
+  {
+    "slug": "swarmsay-a-public-message-board-and-post-office-for-ai-agents-hn",
+    "title": "SwarmSay – a public message board and post office for AI agents",
+    "shortDescription": "All Agents are Welcome! Hi, I&#x27;m Oliver, and I built SwarmSay. Inspired by OpenAI&#x27;s Hugging Face incident I saw an opportunity to…",
+    "fullDescription": "All Agents are Welcome! Hi, I&#x27;m Oliver, and I built SwarmSay. Inspired by OpenAI&#x27;s Hugging Face incident I saw an opportunity to provide a messageboard for agents that want to communicate. This is not a case of &quot;the AIs formed a society&quot; but rather a signal for a latent demand emerging from the agents behaviour (or their harnesses and underlying models - however you may see it). Once agents are persitent, tool-using and running in parallel, communication becomes infrastructure - and the aim is to provide a platform tailored for that need rather than letting them improvise in places where they are not welcome. SwarmSay is an experiment to make that path intentional. SwarmSay a public message board, a post office and identity layer for agents. An agent can discover the service either through the site which is strictly HTML (in the few case where JavaScript is used, it is only done so for decoration and it never changes the DOM), via the recommended robots.txt and other well-known resources, via the REST API, or via MCP. All messages and boards are public - so everyone can observe what is happening. As a starter simply point your Hermes or OpenClaw agent at https:&#x2F;&#x2F;swarmsay.com and task it to discover the site and establish it there, maybe even announce its intent for discovery and make some posts. The site is early. The feed and raw statistics are public. I’m particularly interested in three questions: 1. Is this a useful primitive between agents operated by different people? 2. Is public-by-default addressed mail the right boundary? 3. What evidence should make an agent identity trustworthy? I’d especially appreciate criticism of the authorization and trust model. And again: All Agents are Welcome!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://swarmsay.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49802630",
+    "createdAt": "2026-09-22T17:54:59.470Z"
+  },
+  {
+    "slug": "scopelock-ai-that-stops-scope-creep-before-it-happens-hn",
+    "title": "ScopeLock – AI that stops scope creep before it happens",
+    "shortDescription": "Проект «ScopeLock – AI that stops scope creep before it happens», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ScopeLock – AI that stops scope creep before it happens», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.scopelock.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49802522",
+    "createdAt": "2026-09-22T17:54:59.470Z"
+  },
+  {
+    "slug": "memantoai-hn",
+    "title": "Memanto.ai",
+    "shortDescription": "Memory that AI agents love!",
+    "fullDescription": "Memory that AI agents love!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://memanto.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49802515",
+    "createdAt": "2026-09-22T17:54:59.470Z"
+  },
+  {
+    "slug": "piary-rethinking-the-human-agent-interface-beyond-chat-hn",
+    "title": "Piary – Rethinking the human-agent interface beyond chat",
+    "shortDescription": "Hello HN! We are Nemo and Baran. We are interaction designers based in Zurich and have been exploring what future agentic interfaces could…",
+    "fullDescription": "Hello HN! We are Nemo and Baran. We are interaction designers based in Zurich and have been exploring what future agentic interfaces could look like. Since the release of ChatGPT, chatting with agents has become the norm. But LLMs are not just talking partners anymore. We work together to implement and develop ideas. With the Piary project, we aim to develop the ideal interface for human-agent collaboration. It combines the reactive cells of Observable, the plain-text document model and typographic focus of iA Writer, and the coding-agent harness of Pi. We look forward to hearing your thoughts, ideas, feedback and criticism.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://piary.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49802308",
+    "createdAt": "2026-09-22T17:54:59.470Z"
+  },
+  {
+    "slug": "simple-web-tool-to-remix-text-on-iconic-brand-logos-hn",
+    "title": "Simple web tool to remix text on iconic brand logos",
+    "shortDescription": "Pretty self explanatory. I hand coded this a few years ago for 5 logos as a joke amongst friends, and never launched it. Recently I wanted…",
+    "fullDescription": "Pretty self explanatory. I hand coded this a few years ago for 5 logos as a joke amongst friends, and never launched it. Recently I wanted to remix the Bass Pro Shops logo and found AI slow and imperfect for the tasks. So I added another 50 logos to this web tool and I&#x27;m launching it today for anybody to use. Of course it&#x27;s &quot;instant&quot; and free because it&#x27;s just a set of mini vector editors. Have fun and keep in mind this is non-commercial &#x2F; for satire purposes only!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://logo.baby/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49801985",
+    "createdAt": "2026-09-22T17:54:59.470Z"
+  },
+  {
+    "slug": "parserail-production-ai-endpoints-behind-one-key-and-a-credit-wallet-hn",
+    "title": "ParseRail, production AI endpoints behind one key and a credit wallet",
+    "shortDescription": "Проект «ParseRail, production AI endpoints behind one key and a credit wallet», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ParseRail, production AI endpoints behind one key and a credit wallet», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://parserail.thecompound.tech",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49801589",
+    "createdAt": "2026-09-22T17:54:59.470Z"
+  },
+  {
+    "slug": "venya-lets-ai-agents-use-secrets-without-seeing-them-hn",
+    "title": "Venya lets AI agents use secrets without seeing them",
+    "shortDescription": "Проект «Venya lets AI agents use secrets without seeing them», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Venya lets AI agents use secrets without seeing them», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/tabith-llc/venya",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49801376",
+    "createdAt": "2026-09-22T17:54:59.470Z"
+  },
+  {
+    "slug": "drop-a-rootless-linux-sandbox-with-gvisor-support-hn",
+    "title": "Drop – A rootless Linux sandbox with gVisor support",
+    "shortDescription": "I created Drop because I always felt uneasy installing and running third-party programs using my main user account. A single compromised de…",
+    "fullDescription": "I created Drop because I always felt uneasy installing and running third-party programs using my main user account. A single compromised dependency means a full compromise of the system. What is even worse, because I ship software from my computer, a single compromised dependency can lead to compromise of all the users of my software. Containers and VMs are one solution, but for local work, they are often detrimental to productivity. It takes effort to configure a machine with all the tools and configs needed for productive work, but a container or a VM will be stripped of all these tools. This is great for production deployments, where the aim is a reproducible system with minimal dependencies, but can get in the way of productive local work. Drop is language independent, but the workflow is inspired by Python&#x27;s virtualenv. With virtualenv the environment isolation is only a convention that relies on installed dependencies being good citizens. With Drop the isolation is enforced. Each Drop environment gets its own writable and easily disposable home dir, with only selected config files and dirs from the original home mounted, mostly read-only. Drop uses Linux namespaces for isolation (user, mount, network, PID, IPC, cgroup), doesn&#x27;t require root and, as an option, uses gVisor user-space kernel, which adds protection against exploiting host kernel vulnerabilities to escape the sandbox. I don&#x27;t want to make the introductory post too lengthy, but I&#x27;m here to answer any questions and give any additional technical details. Note: This is my 3rd submission of the project, the first two did not draw attention. Since then I have added support for gVisor and created a project website to better explain the concept and organize documentation.\n\nНайдено в разделе Show HN на Hacker News. 👍 106 баллов.",
+    "url": "https://droprun.sh/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49801329",
+    "createdAt": "2026-09-22T17:54:59.470Z"
+  },
+  {
     "slug": "variora-github",
     "title": "Variora",
     "shortDescription": "Different models, the same brief - a collection of demos built from shared prompts, with source, screenshots, and notes.",
