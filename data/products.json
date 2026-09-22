@@ -1,5 +1,158 @@
 [
   {
+    "slug": "variora-github",
+    "title": "Variora",
+    "shortDescription": "Different models, the same brief - a collection of demos built from shared prompts, with source, screenshots, and notes.",
+    "fullDescription": "Different models, the same brief - a collection of demos built from shared prompts, with source, screenshots, and notes.\n\nАвтор: scarletkc. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "http://variora.fog.moe/",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "ai-generated",
+      "awesome",
+      "coding-agents",
+      "generative-ai",
+      "large-language-models",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1380658970",
+    "createdAt": "2026-09-22T13:53:13.695Z"
+  },
+  {
+    "slug": "comptyai-github",
+    "title": "ComptyAI",
+    "shortDescription": "Turn token activity into compute. A compute-access protocol designed for Robinhood Chain: protocol fees fund GPU capacity for token holders.",
+    "fullDescription": "Turn token activity into compute. A compute-access protocol designed for Robinhood Chain: protocol fees fund GPU capacity for token holders.\n\nАвтор: hazelpe. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://www.compty.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-coding",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1380286908",
+    "createdAt": "2026-09-22T13:53:13.695Z"
+  },
+  {
+    "slug": "intellichat-minimalist-open-source-ui-for-local-and-cloud-ai-hn",
+    "title": "IntelliChat minimalist, open-source UI for local and cloud AI",
+    "shortDescription": "I built IntelliChat because I wanted a simple interface for working with different AI models, but without losing the advanced capabilities.…",
+    "fullDescription": "I built IntelliChat because I wanted a simple interface for working with different AI models, but without losing the advanced capabilities. You can generate text, images, and audio using local models, cloud models, or a mix of both. The goal is to keep the experience simple while still giving you the flexibility to choose how and where your models run. IntelliChat is completely open source and MIT licensed. GitHub: https:&#x2F;&#x2F;github.com&#x2F;intelligentnode&#x2F;IntelliChat\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/intelligentnode/IntelliChat",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49801101",
+    "createdAt": "2026-09-22T13:53:13.472Z"
+  },
+  {
+    "slug": "warble-share-voice-notes-in-your-social-media-feeds-hn",
+    "title": "Warble – Share voice notes in your social media feeds",
+    "shortDescription": "Hey HN, I built Warble because I noticed that you can&#x27;t currently share voice notes to your main social feeds. With Warble you can sim…",
+    "fullDescription": "Hey HN, I built Warble because I noticed that you can&#x27;t currently share voice notes to your main social feeds. With Warble you can simply record a voice note, choose a theme, and warble quickly renders out a video you can share. No editing required, no need to get on camera. The output isn&#x27;t genAI video, the videos themselves are pre-designed motion templates (I&#x27;m primarily a motion designer). AI is used in a small way to transcribe the voice note and provide the captions which are then animated within each of the themes. I&#x27;ve been using it myself to post over on LinkedIn for a month or so now and it&#x27;s helped me post consistently, something I&#x27;ve never really stuck to. The act of simply recording a voice note makes the whole process much easier. There&#x27;s a free trial to get a feel for it if you fancy checking it out.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.getwarble.com/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49800201",
+    "createdAt": "2026-09-22T13:53:13.472Z"
+  },
+  {
+    "slug": "relay-a-self-hosted-llm-gateway-with-smart-routing-and-request-pacing-hn",
+    "title": "Relay – a self-hosted LLM gateway with smart routing and request pacing",
+    "shortDescription": "Hi, I’m Pavel. I’ve been building Relay, a self-hostable AI gateway. The main thing I wanted to solve was smart routing without turning the…",
+    "fullDescription": "Hi, I’m Pavel. I’ve been building Relay, a self-hostable AI gateway. The main thing I wanted to solve was smart routing without turning the gateway itself into a bottleneck. Relay can classify an incoming request, decide what kind of model capabilities the request needs, then route it across your configured providers while also accounting for limits and available capacity. It ships with routing classification models I’ve trained specifically for this problem, with the option of swapping that piece for Laya or other System One models. This started when I was trying to string together several providers’ free tiers. I kept hitting rate limits at different intervals, which broke some of my agent clients. Some agents were also getting greedy with shared resources, so I needed a way to manage how they used the available capacity. That led to Relay’s queue-first approach. Sometimes it’s better to wait a second or two for your preferred model than immediately fall back to another one. Relay queues and paces requests against configured provider limits, aiming to make use of available capacity without repeatedly hitting rate-limit errors or needlessly falling back to worse models. Relay’s classification model also looks for signals that a request needs specific capabilities, such as coding or more complex reasoning, while classifying the request’s main intent before routing anything. One thing I’ve obsessed over is keeping that decision layer cheap. Relay’s built-in classifier runs in the single digit millisecond range. It has a deliberately narrow job: classifying LLM requests and helping decide where to send them. It probably won’t be playing DOOM, but that’s a trade off I’m happy with for a routing layer. In the routing tests I&#x27;ve run so far, the built-in classifier is considerably faster than Laya while producing broadly similar routing decisions. Working on getting Jev up and running, and will report back to see how that stacks up as well. The community version is available now, with a public repo, a built-in dashboard, and a local classifier. It’s written in Go, and you can run it with npx @anchorshell&#x2F;relay or build it from source. The gateway itself is lightweight; it also ships with small classification models you can use locally. There’s also a hosted version with a free tier if you don’t want to run it yourself. It offers our more capable classification models, along with team features, and separate limits for individual agents.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/anchorshell/relay",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49800187",
+    "createdAt": "2026-09-22T13:53:13.472Z"
+  },
+  {
+    "slug": "ai-free-pc-a-laptop-that-cant-access-ai-or-social-media-hn",
+    "title": "AI-Free PC – a laptop that can't access AI or social media",
+    "shortDescription": "Проект «AI-Free PC – a laptop that can't access AI or social media», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI-Free PC – a laptop that can't access AI or social media», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://aifreepc.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49800011",
+    "createdAt": "2026-09-22T13:53:13.472Z"
+  },
+  {
+    "slug": "nimblegate-git-push-guardrails-for-ai-agents-hn",
+    "title": "Nimblegate – Git push guardrails for AI agents",
+    "shortDescription": "Проект «Nimblegate – Git push guardrails for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Nimblegate – Git push guardrails for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/nimblegate/nimblegate",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49799938",
+    "createdAt": "2026-09-22T13:53:13.472Z"
+  },
+  {
+    "slug": "omniuil-ai-pqc-scannertaint-analysis-and-migration-intelligence-rust-hn",
+    "title": "OmniUil AI – PQC Scanner/Taint Analysis and Migration Intelligence Rust",
+    "shortDescription": "Проект «OmniUil AI – PQC Scanner/Taint Analysis and Migration Intelligence Rust», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «OmniUil AI – PQC Scanner/Taint Analysis and Migration Intelligence Rust», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Uilcol/omniuil-ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49799672",
+    "createdAt": "2026-09-22T13:53:13.473Z"
+  },
+  {
+    "slug": "watch-all-the-ai-agents-on-your-machine-hn",
+    "title": "Watch all the AI agents on your machine",
+    "shortDescription": "Проект «Watch all the AI agents on your machine», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Watch all the AI agents on your machine», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/markwylde/all-your-agents",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49799267",
+    "createdAt": "2026-09-22T13:53:13.473Z"
+  },
+  {
     "slug": "z8log-structured-logging-your-ai-coding-agent-can-query-hn",
     "title": "Z8Log – Structured logging your AI coding agent can query",
     "shortDescription": "Проект «Z8Log – Structured logging your AI coding agent can query», опубликован сообществом Hacker News.",
