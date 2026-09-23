@@ -1,5 +1,129 @@
 [
   {
+    "slug": "ai-model-rankings-github",
+    "title": "ai-model-rankings",
+    "shortDescription": "Real-time AI model power rankings (水墨战力榜) — usage, benchmarks, price-performance & speed from OpenRouter, as an ink-wash Streamlit dashboar…",
+    "fullDescription": "Real-time AI model power rankings (水墨战力榜) — usage, benchmarks, price-performance & speed from OpenRouter, as an ink-wash Streamlit dashboard.\n\nАвтор: Mocas-12. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://ai-model-rankings.streamlit.app/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "benchmark",
+      "dark-theme",
+      "dashboard",
+      "data-visualization",
+      "echarts",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1382041805",
+    "createdAt": "2026-09-23T07:19:14.364Z"
+  },
+  {
+    "slug": "awesome-jupyter-ai-github",
+    "title": "awesome-jupyter-ai",
+    "shortDescription": "AI extensions for JupyterLab and Jupyter Notebook 7",
+    "fullDescription": "AI extensions for JupyterLab and Jupyter Notebook 7\n\nАвтор: openteams-ai. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/openteams-ai/awesome-jupyter-ai",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "awesome",
+      "awesome-list",
+      "jupyter",
+      "jupyterlab",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1381661944",
+    "createdAt": "2026-09-23T07:19:14.364Z"
+  },
+  {
+    "slug": "use-citations-claude-code-skill-for-citation-backed-answers-hn",
+    "title": "use-citations – Claude Code skill for citation backed answers",
+    "shortDescription": "This is a Claude Code skill for research questions in law, tax, medicine and similar fields, or for anyone wanting to ask knowledge-based o…",
+    "fullDescription": "This is a Claude Code skill for research questions in law, tax, medicine and similar fields, or for anyone wanting to ask knowledge-based or research questions while in a Claude Code shell really. It gets claude to save the source documents, answers from them, and builds an artifact&#x2F;report where each sourced phrase opens in a slide out drawer with the relevant passage highlighted in the full source doc (quick video demo of the artifact is in the linked repo). Tools like Harvey, Legora, and OpenEvidence provide a lot more value than just this, so it isn’t a replacement. I imagine, though, that there are some people in those fields around the world who might have a Claude&#x2F;GPT subscription and not one of the domain specific AI tools. I know CLI might not be natural to all in the those industries, but I’ve found Claude Code works better for me as a harness for this kind of research than Chat, and this adds the citation and grounding pieces, to some degree, that those tools provide. It is MIT licensed. Suggestions and pull requests are welcome. If you’re at a firm with Claude&#x2F;GPT subscriptions and want help getting people set up with this, feel free to ask.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/sshah03/use-citations",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49812465",
+    "createdAt": "2026-09-23T07:19:14.128Z"
+  },
+  {
+    "slug": "ceptile-ai-search-platform-which-combines-web-results-with-ai-chat-hn",
+    "title": "Ceptile AI Search platform which combines web results with AI chat",
+    "shortDescription": "I built Ceptile because I wanted a search tool that could combine the convenience of an AI answer with the ability to inspect the actual we…",
+    "fullDescription": "I built Ceptile because I wanted a search tool that could combine the convenience of an AI answer with the ability to inspect the actual web pages behind it. A Ceptile search retrieves pages from the web, ranks the retrieved sources, and uses them to produce an answer with links back to the sources. You can open the sources and continue researching from there. I&#x27;ve also been building some things around the search workflow, including Notes for keeping research, translation tools, and ways to work with information found during a search. Just select a text in answer or web results, and it will show a toolbar to save it to notes, translate, etc. The project is still early. A lot of the work so far has been figuring out the search pipeline itself: retrieving useful pages, dealing with noisy results, deciding which sources should be used, and keeping the connection between an answer and its sources. I&#x27;m particularly interested in where the current system breaks down. For example, if you try it with a query that you already know well, I&#x27;d be interested in whether the retrieved sources are useful and whether the citations make it easy to verify the answer. https:&#x2F;&#x2F;ceptile.com&#x2F; Watch 2 minutes demo on Youtube: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=OR4WfsMKEiE Join Our Discord Server on: https:&#x2F;&#x2F;discord.gg&#x2F;N9wRwBTDD\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.ceptile.com/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49812270",
+    "createdAt": "2026-09-23T07:19:14.128Z"
+  },
+  {
+    "slug": "visually-orchestrate-claude-code-ai-agents-hn",
+    "title": "Visually orchestrate Claude Code AI agents",
+    "shortDescription": "Проект «Visually orchestrate Claude Code AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Visually orchestrate Claude Code AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/rondoflow/rondoflow",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49812163",
+    "createdAt": "2026-09-23T07:19:14.128Z"
+  },
+  {
+    "slug": "napkin-a-scratchpad-that-holds-texts-and-images-for-copy-hn",
+    "title": "Napkin – a scratchpad that holds texts and images for copy",
+    "shortDescription": "Napkin is a simple scratchpad to hold text and images to copy later or until you don&#x27;t need them anymore, or when you don&#x27;t want…",
+    "fullDescription": "Napkin is a simple scratchpad to hold text and images to copy later or until you don&#x27;t need them anymore, or when you don&#x27;t want to organize temporary files. Clipboard does a similar kind of job, but it is essentially meant for copy and paste, it is volatile. Normally, you can&#x27;t access the image or text you copied 10 days ago on clipboard. And that&#x27;s fine—that&#x27;s what clipboards are meant for. Napkin lets you create napkins on which you can add or paste pieces of text, URLs, and images. You can edit the text, insert images from your desktop, and copy any item at any time for further use somewhere else. Keep the app running in background, and reuse the items you pasted. Nothing is organized. You don&#x27;t have to give anything a title or add tags. This is where all your mess gets dumped until you decide it&#x27;s no longer useful and delete it. Just like a scratchpad! Deleted napkins go into the trash and are kept there for N days (30 by default), which you can change in the settings. Napkins older than X days (30 by default) will be flagged for deletion. You can change this period in the settings as well. You can also empty the trash, after which the files will be permanently deleted from your desktop. AI disclosure: This is a vibe-coded project. I spent most of my time testing it on Linux. Windows testing wasn&#x27;t done properly, although it did run on Windows with some issues. If you try it, please test it on your system as well, and if you find any problems, feel free to submit an issue. Some notes you may need to know: - Linux builds are tested on Arch&#x2F;KDE&#x2F;Wayland. Windows builds and passes the full suite in CI, I ran older versions on real hardware and they worked. It is an unsigned build, so SmartScreen will warn you. - There is no global capture hotkey yet, which is the thing I most want. It needs the XDG GlobalShortcuts portal, and the session handshake. I cannot develop it headless. - There is no at-rest encryption. A scratch surface ends up holding tokens and passwords. The data directory is 0700 and excluded from desktop search, but that is retention, not encryption. Github URL : https:&#x2F;&#x2F;github.com&#x2F;sudomonas&#x2F;napkin\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/sudomonas/napkin",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49811685",
+    "createdAt": "2026-09-23T07:19:14.128Z"
+  },
+  {
+    "slug": "kernmd-single-session-long-running-agent-hn",
+    "title": "Kern.md – Single-session long-running agent",
+    "shortDescription": "Проект «Kern.md – Single-session long-running agent», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Kern.md – Single-session long-running agent», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/oguzbilgic/kern-ai/blob/master/templates/KERN.md",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49811492",
+    "createdAt": "2026-09-23T07:19:14.128Z"
+  },
+  {
     "slug": "tradeflow-lite-github",
     "title": "tradeflow-lite",
     "shortDescription": "Open-source desktop market-charting workspace with AI, local data and MCP tools",
