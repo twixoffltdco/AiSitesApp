@@ -1,5 +1,71 @@
 [
   {
+    "slug": "tradeflow-lite-github",
+    "title": "tradeflow-lite",
+    "shortDescription": "Open-source desktop market-charting workspace with AI, local data and MCP tools",
+    "fullDescription": "Open-source desktop market-charting workspace with AI, local data and MCP tools\n\nАвтор: hongchanho93. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/hongchanho93/tradeflow-lite/releases/latest",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "charting",
+      "desktop-app",
+      "lightweight-charts",
+      "market-data",
+      "mcp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1380505175",
+    "createdAt": "2026-09-23T01:42:17.768Z"
+  },
+  {
+    "slug": "prompt-constraints-github",
+    "title": "prompt-constraints",
+    "shortDescription": "生图 / 视频提示词约束引擎 — 把模糊需求变成可执行的提示词。An Agent Skill for constrained image & video prompt engineering (Nano Banana / Seedance / Veo / Sora / Klin…",
+    "fullDescription": "生图 / 视频提示词约束引擎 — 把模糊需求变成可执行的提示词。An Agent Skill for constrained image & video prompt engineering (Nano Banana / Seedance / Veo / Sora / Kling / Midjourney / FLUX).\n\nАвтор: q253595422. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/q253595422/prompt-constraints",
+    "category": "image-video",
+    "tags": [
+      "agent-skill",
+      "ai",
+      "claude-skill",
+      "codex",
+      "image-generation",
+      "prompt-engineering",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1379117848",
+    "createdAt": "2026-09-23T01:42:17.768Z"
+  },
+  {
+    "slug": "awesome-jev-github-3",
+    "title": "awesome-jev",
+    "shortDescription": "The most complete gallery of what people build with Jev, TypeSafe's System One model: 3,400+ projects, demos, and write-ups by scenario, ea…",
+    "fullDescription": "The most complete gallery of what people build with Jev, TypeSafe's System One model: 3,400+ projects, demos, and write-ups by scenario, each with its original link, image, and description.\n\nАвтор: Li-Evan. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://li-evan.github.io/awesome-jev/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "awesome",
+      "awesome-list",
+      "classification",
+      "gallery",
+      "jev",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1379936298",
+    "createdAt": "2026-09-23T01:42:17.768Z"
+  },
+  {
     "slug": "copilothub-github",
     "title": "CopilotHub",
     "shortDescription": "Simple, focused workspace",
