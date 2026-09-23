@@ -1,5 +1,53 @@
 [
   {
+    "slug": "nethackers-hn",
+    "title": "NetHackers",
+    "shortDescription": "hi everyone, been building this project for the last ~1.5 months (cc+superpowers all the way) it is an open effort to find a program that c…",
+    "fullDescription": "hi everyone, been building this project for the last ~1.5 months (cc+superpowers all the way) it is an open effort to find a program that can reliably win NetHack 3.6.6: you can write a bot by hand, let claude code &#x2F; codex &#x2F; opencode improve one, or build your own harness that improves the thing that improves the bot me and my lab switched to the goal-based research this year (we worked a lot in the idea-based framework for a last couple of years) -- and decided that we would like to tackle the NetHack, it is one of those nasty roguelike that is still somehow not solved with all fancy AI models (yes, even astra) -- probably on the way something useful will appear you can pull someone else&#x27;s bot, run experiments locally and register the results. every registered program is linked to your github repo and exact source commit i always wanted to try building something that will use github as both social and storage layer (and it seems to work quite well in our case, simplified things a bit and i think this approach is quite cool) there is a shared frontier across 73 starting identities -- your bots dont have to be the best at everything to contribute something useful, e.g. if you love to roleplay gnomes only, so be it to make thing easier (for both harness devs and people who are just playing around), we provide a loop that does some sort of an evolutionary optimization process (quality-diversity, etc), ofc you don&#x27;t have to use it. but you can start with in minutes (given you have codex or claude subs) you can also bring your own search, your own harness, whatever -- the common ground is the evaluation. public seeds are there for people to overfit (in nethack even overfitting is hard), and we separately re-evaluate on hidden seeds to check whether the improvements actually transfer one of my goals was to actually try to make it at least a bit fun -- hope you enjoy the web-site and easter eggs\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://nethackers.dunnolab.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49823869",
+    "createdAt": "2026-09-23T23:51:02.688Z"
+  },
+  {
+    "slug": "recipe-card-creator-hn",
+    "title": "Recipe Card Creator",
+    "shortDescription": "I&#x27;ve really enjoyed and am quite proud on where this project has become. I started this 6 years ago and it&#x27;s gone through many it…",
+    "fullDescription": "I&#x27;ve really enjoyed and am quite proud on where this project has become. I started this 6 years ago and it&#x27;s gone through many iterations to get to this point. This latest iteration of what you see if you click and view the page has been roughly 6 months of development and testing and tweaking. I recently had an overhaul to the graphics and UX so I considered that as something valid to share again with you all. The tech stack is react, with tailwindcss and hosted on cloudflare. I learned a whole lot about page speed and optimization, because it was just about a month ago I got feedback that the website was slow- my FCP was 34 seconds on mobile! This time around it isn&#x27;t my first rodeo, and I was able to learn some tricks like font subsetting, dynamic javascript imports, setting explicit heights&#x2F;widths of images to prevent content shifts, among other things in order to get my page speed in the mid 90&#x27;s. This may be old knowledge if you&#x27;ve done this before, but it&#x27;s been a good journey and I&#x27;m using this project not only for my own purposes, but also to grow and learn more about pieces of web development I never considered before. It&#x27;s not AI, and it&#x27;s been a labor of love.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.sunnyshorescreative.com/recipe-card-creator",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49823821",
+    "createdAt": "2026-09-23T23:51:02.689Z"
+  },
+  {
+    "slug": "hosted-jaybase-an-append-only-data-store-for-safe-ai-agent-writes-hn",
+    "title": "Hosted JayBase – An append-only data store for safe AI agent writes",
+    "shortDescription": "Just launched the hosted version of my JayBase project, which I shared with you guys a few months ago. ( https:&#x2F;&#x2F;news.ycombinator…",
+    "fullDescription": "Just launched the hosted version of my JayBase project, which I shared with you guys a few months ago. ( https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48999936 ) I&#x27;m really trying to design it from the ground up to be the way that agents can interact with business data, in the same way they can interact with code (by having a built-in history and built-in auditability, in the same way that coding agents do with Git). I&#x27;d love to get your feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://jaybase.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49823815",
+    "createdAt": "2026-09-23T23:51:02.689Z"
+  },
+  {
     "slug": "go-jev-github",
     "title": "go-jev",
     "shortDescription": "Go SDK and CLI for TypeSafe Jev: typed decisions (yes/no, choice, score) from a model",
