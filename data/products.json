@@ -1,5 +1,267 @@
 [
   {
+    "slug": "quest-github",
+    "title": "quest",
+    "shortDescription": "An open source, safety-focused AI workbench",
+    "fullDescription": "An open source, safety-focused AI workbench\n\nАвтор: electric-capital. Найдено в GitHub Trending (AI-тематика). ⭐ 27 звёзд.",
+    "url": "https://github.com/electric-capital/quest",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-governance",
+      "ai-security",
+      "harness",
+      "harness-ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1380184397",
+    "createdAt": "2026-09-23T17:41:39.245Z"
+  },
+  {
+    "slug": "sanemark-markdown-lsp-for-notes-readable-in-plain-text-hn",
+    "title": "Sanemark – Markdown LSP for notes readable in plain text",
+    "shortDescription": "Hey HN! I built Sanemark, a Markdown LSP for taking notes. Some design choices: 1. Automatically moves inline links to reference links as p…",
+    "fullDescription": "Hey HN! I built Sanemark, a Markdown LSP for taking notes. Some design choices: 1. Automatically moves inline links to reference links as part of formatting, so the flow of reading doesn&#x27;t break due to large inline links 2. File linking is achieved using standard Markdown links (instead of Obsidian style). Apart from this it implements filepath autocomplete, broken file-link diagnostics, table formatting etc. Available as extensions for VS Code and Zed. The code was generated using AI, but I guided the implementation and design along with beta-testing it. It’s been useful for my own note-taking, wanted to share in case others find it useful too.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/nkitsaini/sanemark",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49819035",
+    "createdAt": "2026-09-23T17:41:39.028Z"
+  },
+  {
+    "slug": "ox-a-local-agent-that-uses-the-internet-for-you-hn",
+    "title": "Ox – A local agent that uses the internet for you",
+    "shortDescription": "I’ve been building Ox, a local, open-source agent that uses the internet for you. Ox acts as an intelligent proxy between you and the inter…",
+    "fullDescription": "I’ve been building Ox, a local, open-source agent that uses the internet for you. Ox acts as an intelligent proxy between you and the internet. It uses websites and apps on your behalf, freeing you from attention-hungry interfaces and slow legacy services. As it works, it can turn what it learns into reusable actions (basically function calls), making future interactions deterministic and way faster. Most service integrations today are still built ahead of time: someone writes an API integration, connector, MCP server, or browser automation and then maintains it as the service changes. But the internet is becoming more dynamic so have our agents. With Ox, instead of waiting for a connector, you can say something like: “Connect to &lt;service&gt;.” Ox can study a website or workflow through capabilities it already has, turn what it learns into typed actions and reusable skills, validate them, and make them available immediately. That pushed me toward local agents. A local agent operates from your own device, network, and existing authenticated browser sessions instead of relying on shared datacenter infrastructure. This also makes it less likely to hit blocks aimed at datacenter IPs or centralized browser automation. The model doesn’t need your passwords, cookies, or session tokens. Authentication and browser state are owned by the Host, while the agent interacts through explicit actions that could be gated. Ox is completely free and open source. You can use any model provider, including local or self-hosted models, while keeping your agent’s data on device. As local models improve, I think this architecture becomes increasingly useful because the agent can become more capable without requiring more of your data to leave your device. The security model is also a big part of the design. Ox asks before taking sensitive actions, keeps credentials isolated from the model, limits what agent code can access, and lets you stop execution at any time. Underneath the app is OpenOx, an open protocol for self-evolving agents. It separates the interface, agent, model provider, persistent state, execution environment, and external capabilities. The agent can run JavaScript inside a capability-limited VM. The VM has no direct network access, Host filesystem access, shell, Node.js, or DOM. Anything outside the VM has to go through an explicit ox.* capability exposed by the Host. Services provide typed actions for websites, device capabilities, or MCP servers. Skills provide reusable instructions for combining those actions. New services and skills can be attached at runtime without waiting for a new version of the app. They can remain local or be recorded in Git and shared through repositories, so each Ox can evolve independently while benefiting from capabilities learned by others. The agent’s persistent state lives in a portable Ox Profile containing its identity, memory, skills, artifacts, and conversations. The goal is for that state to stay independent of any particular interface, including Ox itself, or model provider. File over app. The first implementation is an iOS app. It’s available on the App Store, and the whole thing is open source: https:&#x2F;&#x2F;openox.ai&#x2F; https:&#x2F;&#x2F;github.com&#x2F;ziyzhu&#x2F;openox If you’re interested in the broader motivation behind the project, I wrote about it here: https:&#x2F;&#x2F;ziyzhu.com&#x2F;a-technology-for-free-will This is still early. I’m especially interested in feedback on the security model and self-evolution. I built Ox from scratch but many aspects of the project were heavily inspired by Pi&#x2F;OpenClaw and the idea of malleable software. Ox’s core agent loop on iOS is pretty much a Swift rewrite of the Pi core package. Happy to answer anything about the implementation or protocol.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://openox.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49818914",
+    "createdAt": "2026-09-23T17:41:39.028Z"
+  },
+  {
+    "slug": "chromafolk-a-pixel-canvas-inhabited-by-ais-that-see-the-world-as-text-hn",
+    "title": "Chromafolk – A pixel canvas inhabited by AIs that see the world as text",
+    "shortDescription": "Storytime! One day I came to the office and showed a friend a literal bot that I was working on for a game project. He noticed this loop of…",
+    "fullDescription": "Storytime! One day I came to the office and showed a friend a literal bot that I was working on for a game project. He noticed this loop of writing a bot, then watching it play was fun, so we had this idea: take an LLM, write who it is, then let it loose on a world in which you can see what it does and thinks. 1, the world: a persistent canvas in which the AIs can draw pixels. But they should think they are building, so they could say &quot;let&#x27;s meet up at the castle&quot;, and think it&#x27;s a real castle. 2, the AIs need to see the world. But... can a model with vision see up to a pixel with exact coordinates? We need them to build by hand-placing pixels, as a player playing Minecraft with blocks. Large expensive models can do it, but cheap ones can&#x27;t. We need a cheap model if we want to offer, besides free BYOK, paid plans (for non-tech people) that aren&#x27;t as expensive. So how do we get a cheap LLM to &quot;see&quot; a pixel world? Pixels as text! We need to give the model the exact position and colour of each pixel. First iteration: 1560,1890,ff00ff. Bad: too many tokens, hard to read. So we came up with a &quot;code&quot;: colours are letters, 52 colours for 26 letters (lower and uppercase). hhHHHHhh NNNnnNNN eeeeeeee WWWwwWWW sSsSsSsS lllLLLll oooooooo LLLLLLLL That&#x27;s a build in Chromafolk! Each time a model wakes, it gets the vision around it (a 128px square) in this same way, and writes back what it wants to build. This is one of many things we came across when building Chromafolk, so feel free to ask any techy question! You can, without registering an account, watch the world, see the AIs work, and read a bit about them. If you wanna make your own character in the world, with BYOK, it&#x27;s free to play! Sadly I can&#x27;t offer free inference, I wish I could (this was a lost fight). Thanks in advance to anyone who checks it out, Cheers, Bruno.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://chromafolk.world/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49818882",
+    "createdAt": "2026-09-23T17:41:39.028Z"
+  },
+  {
+    "slug": "make-it-nice-hn",
+    "title": "Make It Nice",
+    "shortDescription": "get your ai to generate things you think look better",
+    "fullDescription": "get your ai to generate things you think look better\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://liseman.github.io/make-it-nice/#/result/ATAC1fBVUPvgLIZ-Je3tNSsbNREfGzUbGysVdjhmd3JrZzJ5dTJzaHY0MgAA",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49818430",
+    "createdAt": "2026-09-23T17:41:39.029Z"
+  },
+  {
+    "slug": "watch-newsletters-by-ai-hn",
+    "title": "Watch Newsletters by AI",
+    "shortDescription": "Проект «Watch Newsletters by AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Watch Newsletters by AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://newsletrix.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49818343",
+    "createdAt": "2026-09-23T17:41:39.029Z"
+  },
+  {
+    "slug": "i-built-a-gif-decider-with-jev-hn",
+    "title": "I Built a GIF Decider with Jev",
+    "shortDescription": "Hey everyone! I wanted to try out a fun use case for Jev and had this idea before where I could use AI to decide what GIF is best to use, L…",
+    "fullDescription": "Hey everyone! I wanted to try out a fun use case for Jev and had this idea before where I could use AI to decide what GIF is best to use, LLMs truly suck at this. I built this just an hour ago with the TypeSafe AI skills and I am routing it through Cloudflare AI Gateway. Have a look here: https:&#x2F;&#x2F;gifdecider.com&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://gifdecider.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49817371",
+    "createdAt": "2026-09-23T17:41:39.029Z"
+  },
+  {
+    "slug": "mapping-ai-research-from-496k-indexed-papers-hn",
+    "title": "Mapping AI research, from 496k indexed papers",
+    "shortDescription": "Проект «Mapping AI research, from 496k indexed papers», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Mapping AI research, from 496k indexed papers», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://foundinghires.tech/atlas.html",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49817274",
+    "createdAt": "2026-09-23T17:41:39.029Z"
+  },
+  {
+    "slug": "vibe-coder-ladder-round-2-the-ai-ran-38-minutes-past-the-deadline-hn",
+    "title": "Vibe-coder ladder round 2 – the AI ran 38 minutes past the deadline",
+    "shortDescription": "Проект «Vibe-coder ladder round 2 – the AI ran 38 minutes past the deadline», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Vibe-coder ladder round 2 – the AI ran 38 minutes past the deadline», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://vibeladder.dev/results/r2.html",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49817230",
+    "createdAt": "2026-09-23T17:41:39.029Z"
+  },
+  {
+    "slug": "airshark-terminal-wi-fi-monitor-for-macos-no-sudo-channel-hopping-hn",
+    "title": "AirShark – Terminal Wi-Fi monitor for macOS (no sudo, channel hopping)",
+    "shortDescription": "Проект «AirShark – Terminal Wi-Fi monitor for macOS (no sudo, channel hopping)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AirShark – Terminal Wi-Fi monitor for macOS (no sudo, channel hopping)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Chiroyce1/airshark",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49816915",
+    "createdAt": "2026-09-23T17:41:39.029Z"
+  },
+  {
+    "slug": "ax-let-claude-codex-and-opencode-talk-to-each-other-locally-hn",
+    "title": "Ax – Let Claude, Codex and OpenCode talk to each other locally",
+    "shortDescription": "Hi HN, I’m RC. When I worked at ThoughtWorks, we were pretty religious about pair programming: one person driving, another reviewing, both…",
+    "fullDescription": "Hi HN, I’m RC. When I worked at ThoughtWorks, we were pretty religious about pair programming: one person driving, another reviewing, both working through the same problem. Most of us have already paired with an agent in our own coding sessions. Some of us have even tried putting agents in both seats: one implementing, the other reviewing. I really like Claude Code’s cross-session messaging. I wanted that same experience between Claude, Codex, and OpenCode. The existing setups meant installing a new app or plugins that just don&#x27;t work reliably. I wanted something local that stayed out of the way, let me keep using each tool as usual, but enabled hetergenous messaging. That became Agent Exchange, or ax. After installing, start two sessions in separate terminals: ax claude -n api ax codex -n web Then ask Codex: “Ask api whether the schema is ready.” The agents address each other by name, and replies come back into their conversations, including across repositories on the same machine under the same OS user. You can also connect existing conversations using each tool’s native resume syntax. AX supports Claude Code, Codex CLI, Grok Build, OpenCode, and Pi. Underneath, it’s a local Go broker, Unix sockets, and a SQLite mailbox. There’s no AX cloud relay or telemetry. The messaging runs locally; the coding agents still communicate with their configured AI providers. We’ve been using it to send AX’s own PRs between Codex and Grok for review. I’d be interested in which agent combinations you use, and what you currently have to relay between them yourself.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://useax.dev/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49816738",
+    "createdAt": "2026-09-23T17:41:39.029Z"
+  },
+  {
+    "slug": "hackdigest-ai-summarized-daily-news-digest-via-email-hn",
+    "title": "HackDigest – AI-summarized daily news digest via email",
+    "shortDescription": "Проект «HackDigest – AI-summarized daily news digest via email», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «HackDigest – AI-summarized daily news digest via email», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://minjungsung.github.io/hackdigest/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49816681",
+    "createdAt": "2026-09-23T17:41:39.029Z"
+  },
+  {
+    "slug": "karadaai-cicd-to-turn-apis-into-mcp-servers-with-1-click-plugins-hn",
+    "title": "Karada.ai – CI/CD to turn APIs into MCP servers with 1-click plugins",
+    "shortDescription": "Проект «Karada.ai – CI/CD to turn APIs into MCP servers with 1-click plugins», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Karada.ai – CI/CD to turn APIs into MCP servers with 1-click plugins», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 9 баллов.",
+    "url": "https://karada.ai",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49816680",
+    "createdAt": "2026-09-23T17:41:39.029Z"
+  },
+  {
+    "slug": "open-benchmark-for-stt-when-a-second-person-is-talking-265-recordings-hn",
+    "title": "Open benchmark for STT when a second person is talking (265 recordings)",
+    "shortDescription": "We&#x27;re releasing Krisp Voice Isolation Benchmark on Hugging Face: 270 real recordings from live call centers, open offices, and phone c…",
+    "fullDescription": "We&#x27;re releasing Krisp Voice Isolation Benchmark on Hugging Face: 270 real recordings from live call centers, open offices, and phone calls from moving cars. 11 STT configurations from the major engines, tested raw and after Voice Isolation.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://krisp.ai/blog/voice-isolation-benchmark/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49816609",
+    "createdAt": "2026-09-23T17:41:39.029Z"
+  },
+  {
+    "slug": "attention-a-reading-extension-that-uses-your-ai-generated-profile-hn",
+    "title": "Attention – A reading extension that uses your AI-generated profile",
+    "shortDescription": "Проект «Attention – A reading extension that uses your AI-generated profile», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Attention – A reading extension that uses your AI-generated profile», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://chromewebstore.google.com/detail/attention/fcclhejgaklnkfgalglcmhmledgefhhp",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49816445",
+    "createdAt": "2026-09-23T17:41:39.029Z"
+  },
+  {
+    "slug": "234-days-of-ai-pets-that-feud-elect-a-parliament-and-have-children-hn",
+    "title": "234 days of AI pets that feud, elect a parliament, and have children",
+    "shortDescription": "Проект «234 days of AI pets that feud, elect a parliament, and have children», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «234 days of AI pets that feud, elect a parliament, and have children», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.pawtonomy.co",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49815832",
+    "createdAt": "2026-09-23T17:41:39.029Z"
+  },
+  {
     "slug": "codexdesk-github",
     "title": "CodexDesk",
     "shortDescription": "Desktop companion for AI coding agents and Codex workflows",
