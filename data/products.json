@@ -1,5 +1,183 @@
 [
   {
+    "slug": "codexdesk-github",
+    "title": "CodexDesk",
+    "shortDescription": "Desktop companion for AI coding agents and Codex workflows",
+    "fullDescription": "Desktop companion for AI coding agents and Codex workflows\n\nАвтор: BinaryDeliverer. Найдено в GitHub Trending (AI-тематика). ⭐ 222 звёзд.",
+    "url": "https://github.com/BinaryDeliverer/CodexDesk",
+    "category": "productivity",
+    "tags": [
+      "agent",
+      "ai",
+      "codex",
+      "desktop",
+      "developer-tools",
+      "gui",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1383293267",
+    "createdAt": "2026-09-23T12:53:28.177Z"
+  },
+  {
+    "slug": "claudepanel-github",
+    "title": "ClaudePanel",
+    "shortDescription": "Desktop panel and toolkit for Claude and AI assistants",
+    "fullDescription": "Desktop panel and toolkit for Claude and AI assistants\n\nАвтор: AvenueSnowStep. Найдено в GitHub Trending (AI-тематика). ⭐ 221 звёзд.",
+    "url": "https://github.com/AvenueSnowStep/ClaudePanel",
+    "category": "chatbot",
+    "tags": [
+      "agent",
+      "ai",
+      "assistant",
+      "claude",
+      "desktop",
+      "gui",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1383293279",
+    "createdAt": "2026-09-23T12:53:28.177Z"
+  },
+  {
+    "slug": "vallennextproject-github",
+    "title": "vallennextproject",
+    "shortDescription": "AI-проект с GitHub без описания.",
+    "fullDescription": "AI-проект с GitHub без описания.\n\nАвтор: vallenmulia99. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/vallenmulia99/vallennextproject",
+    "category": "developer",
+    "tags": [
+      "9router",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-coding",
+      "ai-safety",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1382971303",
+    "createdAt": "2026-09-23T12:53:28.177Z"
+  },
+  {
+    "slug": "rxfilm-studiocreate-and-edit-your-product-videos-with-ai-agent-hn",
+    "title": "RxFilm Studio–Create and edit your product videos with AI agent",
+    "shortDescription": "Hi HN, I built RxFilm Studio, a video workspace that lets you create and revise videos with AI agent. The reason I started this project is…",
+    "fullDescription": "Hi HN, I built RxFilm Studio, a video workspace that lets you create and revise videos with AI agent. The reason I started this project is simple: I’ve noticed that many independent developers and small teams want to create marketing videos for their product, but producing these videos requires a lot of time and effort — from editing and visual effects to voiceovers and subtitles. So I built Rxfilm Studio to simplify the entire video creation process. Start with an idea, a product website, images, or existing footage, and then generate a complete video with: - Story and structure - Editing and timeline - Visual and sound effects - Voiceovers, background music - Subtitles and translation Github: https:&#x2F;&#x2F;github.com&#x2F;rxtech-lab&#x2F;film-workflow Here&#x27;s a demo marketing video created using RxFilm Studio: https:&#x2F;&#x2F;youtu.be&#x2F;9_M15fRdZQE Welcome to try it out and I would love to hear your feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://filmstudio.rxlab.app",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49815095",
+    "createdAt": "2026-09-23T12:53:27.944Z"
+  },
+  {
+    "slug": "red-team-your-ai-agent-hn",
+    "title": "Red-team your AI agent",
+    "shortDescription": "Проект «Red-team your AI agent», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Red-team your AI agent», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.botgauge.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49814754",
+    "createdAt": "2026-09-23T12:53:27.944Z"
+  },
+  {
+    "slug": "sniffslop-browser-extension-to-classify-text-using-jev-hn",
+    "title": "Sniffslop – browser extension to classify text using Jev",
+    "shortDescription": "A browser extension to let you define any question to ask in a webpage. I default it to identify AI written texts. It extract texts element…",
+    "fullDescription": "A browser extension to let you define any question to ask in a webpage. I default it to identify AI written texts. It extract texts element under cursor send to Jev for classification. It comes with all the caveats of Jev. Its classification is in no way an objective truth. Use your own API key at your own risk. I don&#x27;t collect any info. Only network requests are to typesafe. For me 100 requests cost $0.005\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/kmcheung12/sniffslop/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49813985",
+    "createdAt": "2026-09-23T12:53:27.944Z"
+  },
+  {
+    "slug": "life-forge-open-source-flight-simulator-for-autonomous-ai-agents-hn",
+    "title": "Life Forge – Open-source flight simulator for autonomous AI agents",
+    "shortDescription": "Проект «Life Forge – Open-source flight simulator for autonomous AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Life Forge – Open-source flight simulator for autonomous AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/zariffromlatif/life-forge",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49813880",
+    "createdAt": "2026-09-23T12:53:27.944Z"
+  },
+  {
+    "slug": "company-as-code-spec-and-validator-hn",
+    "title": "Company-as-Code –> Spec and Validator",
+    "shortDescription": "Проект «Company-as-Code –> Spec and Validator», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Company-as-Code –> Spec and Validator», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Pirol-ai/company-as-code",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49813183",
+    "createdAt": "2026-09-23T12:53:27.944Z"
+  },
+  {
+    "slug": "reweaver-ai-driftdetector-score-a-github-repos-production-readiness-hn",
+    "title": "ReWeaver AI DriftDetector – score a GitHub repo's production readiness",
+    "shortDescription": "Проект «ReWeaver AI DriftDetector – score a GitHub repo's production readiness», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ReWeaver AI DriftDetector – score a GitHub repo's production readiness», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://drift.reweaver.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49813096",
+    "createdAt": "2026-09-23T12:53:27.944Z"
+  },
+  {
+    "slug": "gwae-infinite-scroll-terminal-multiplexer-for-ai-agent-fleets-hn",
+    "title": "Gwae – infinite-scroll terminal multiplexer for AI agent fleets",
+    "shortDescription": "Проект «Gwae – infinite-scroll terminal multiplexer for AI agent fleets», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Gwae – infinite-scroll terminal multiplexer for AI agent fleets», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/hongnoul/gwae",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49813028",
+    "createdAt": "2026-09-23T12:53:27.945Z"
+  },
+  {
     "slug": "ai-model-rankings-github",
     "title": "ai-model-rankings",
     "shortDescription": "Real-time AI model power rankings (水墨战力榜) — usage, benchmarks, price-performance & speed from OpenRouter, as an ink-wash Streamlit dashboar…",
