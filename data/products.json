@@ -1,5 +1,171 @@
 [
   {
+    "slug": "go-jev-github",
+    "title": "go-jev",
+    "shortDescription": "Go SDK and CLI for TypeSafe Jev: typed decisions (yes/no, choice, score) from a model",
+    "fullDescription": "Go SDK and CLI for TypeSafe Jev: typed decisions (yes/no, choice, score) from a model\n\nАвтор: mattn. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://github.com/mattn/go-jev",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "classification",
+      "cli",
+      "go",
+      "golang",
+      "jev",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1383527767",
+    "createdAt": "2026-09-23T21:03:31.839Z"
+  },
+  {
+    "slug": "free-attestation-for-ai-agent-decisions-verifying-one-costs-010-hn",
+    "title": "Free attestation for AI agent decisions – verifying one costs $0.10",
+    "shortDescription": "Проект «Free attestation for AI agent decisions – verifying one costs $0.10», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Free attestation for AI agent decisions – verifying one costs $0.10», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/0xsims/rubric-attest",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49821905",
+    "createdAt": "2026-09-23T21:03:31.555Z"
+  },
+  {
+    "slug": "varkos-a-local-ai-pet-that-can-talk-interact-and-play-small-games-hn",
+    "title": "Varkos – a local AI pet that can talk, interact, and play small games",
+    "shortDescription": "Проект «Varkos – a local AI pet that can talk, interact, and play small games», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Varkos – a local AI pet that can talk, interact, and play small games», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://varkos.party/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49821592",
+    "createdAt": "2026-09-23T21:03:31.555Z"
+  },
+  {
+    "slug": "upgrade-to-neuro-gbrain-hn",
+    "title": "Upgrade to Neuro+ GBrain",
+    "shortDescription": "So I am working on upgrading Neuro+ GBrain. I included an AI life coach, an AI goal whiz journal, a lean startup AI sim guide, a fitness wh…",
+    "fullDescription": "So I am working on upgrading Neuro+ GBrain. I included an AI life coach, an AI goal whiz journal, a lean startup AI sim guide, a fitness whiz, and a mood whiz. Hope you enjoy\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://gemini.google.com/app/b4b90aeb20c60c14",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49821527",
+    "createdAt": "2026-09-23T21:03:31.555Z"
+  },
+  {
+    "slug": "agentrun-dsl-to-turn-agents-into-workflows-hn",
+    "title": "AgentRun: DSL to turn agents into Workflows",
+    "shortDescription": "Hi HN, I just open sourced the DSL that our harness in grep.ai uses to turn repeatable parts of agent work into workflows. You can combine…",
+    "fullDescription": "Hi HN, I just open sourced the DSL that our harness in grep.ai uses to turn repeatable parts of agent work into workflows. You can combine tool calls, code, Jev-powered system one decisions for things like routing and screening evidence, and agents when a step needs more investigation. Our harness uses the traces and retro notes agents leave behind when doing a job to figure out which parts can become a workflow. The idea is to make the work easier to understand and avoid paying for a full agent loop where one isn’t needed. For example, a research workflow can split a question into subquestions, send agents to research them in parallel, use Jev to screen the evidence, and have another agent write the report. You can inspect the steps, evaluate the evidence screening separately, or change one agent without rebuilding everything. The DSL and examples are in our GitHub. There’s a scripted demo you can run without API keys: https:&#x2F;&#x2F;github.com&#x2F;Parcha-ai&#x2F;agentrun You can also use it as a Pi extension to build, inspect, and run workflows: https:&#x2F;&#x2F;github.com&#x2F;Parcha-ai&#x2F;agentrun#use-it-in-pi I would love to hear if this is useful to others. More background on how AgentRun works in this video: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=vOVhtGjtwpg . Or read about our use cases in this article: https:&#x2F;&#x2F;x.com&#x2F;MiguelriosEN&#x2F;status&#x2F;2101029313906987422 .\n\nНайдено в разделе Show HN на Hacker News. 👍 8 баллов.",
+    "url": "https://github.com/Parcha-ai/agentrun",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49821438",
+    "createdAt": "2026-09-23T21:03:31.555Z"
+  },
+  {
+    "slug": "suparelay-call-any-phone-in-the-world-from-a-browser-tab-hn",
+    "title": "Suparelay – Call any phone in the world from a browser tab",
+    "shortDescription": "I&#x27;m travelling a lot, and often need to call numbers in my home country (a telco, a bank). Surprisingly, ever since Skype died, the ap…",
+    "fullDescription": "I&#x27;m travelling a lot, and often need to call numbers in my home country (a telco, a bank). Surprisingly, ever since Skype died, the apps that were meant to replace it launched once and never updated So today, I&#x27;m presenting to you - Suparelay. It works just like your phone... (revolutionary I know): - it remembers numbers you called - it looks like... a typical phone screen - it has a keypad that works during the call, for those &quot;press 1 for your account&quot; menus - it costs 90% less than using your local carrier for international calls I compared 31 popular international calling destinations (in the Americas, Europe, Asia, Africa and Oceania) against 6 legacy carriers (T-Mobile US, AT&amp;T Prepaid US, Vodafone UK, Airtel India, Claro Brazil and China Mobile), and to my surprise, the difference is insane. Calls start from 2 cents a minute, you pay only when somebody answers, and there is no app to install: your browser is your phone. Try it out and tell me what you think. Say bye to vibe-coded Skype replacements, say hi to Suparelay!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://suparelay.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49821200",
+    "createdAt": "2026-09-23T21:03:31.555Z"
+  },
+  {
+    "slug": "i-built-a-post-mortem-debugger-for-native-windows-x64x86-crashes-hn",
+    "title": "I built a post-mortem debugger for native Windows x64/x86 crashes",
+    "shortDescription": "Hello HN! I&#x27;ve spent years debugging Windows crashes with tools that were either friendly but limited (e.g. Visual Studio) or powerful…",
+    "fullDescription": "Hello HN! I&#x27;ve spent years debugging Windows crashes with tools that were either friendly but limited (e.g. Visual Studio) or powerful but archaic (e.g. WinDbg). I developed patterns and methods for understanding what was going on, and decided to build it into a much more effective debugging tool called ForensicDbg. I built a modern interface to minimize the friction when debugging. All of the data shown to you is analyzed, interpreted, and presented to you clearly, so you can focus on what matters. Everything is interlinked so you can quickly and intuitivly navigate through the process space. ForensicDbg comes with an MCP server which allows for agenic debugging. The work done to interpret and interlink your data also benefits AI tools. It removes the risk of hallucinations while building a stable foundation for them to work from without spending tokens. If you want to try it out you can sign up and get a free beta license here: https:&#x2F;&#x2F;www.forensicdbg.com&#x2F;beta\n\nНайдено в разделе Show HN на Hacker News. 👍 9 баллов.",
+    "url": "https://www.forensicdbg.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49821086",
+    "createdAt": "2026-09-23T21:03:31.555Z"
+  },
+  {
+    "slug": "almostrightai-a-parody-ai-that-never-asks-why-hn",
+    "title": "Almostright.ai – a parody – AI that never asks why",
+    "shortDescription": "Проект «Almostright.ai – a parody – AI that never asks why», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Almostright.ai – a parody – AI that never asks why», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://AlmostRight.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49820116",
+    "createdAt": "2026-09-23T21:03:31.555Z"
+  },
+  {
+    "slug": "ttm-a-chat-app-where-ai-agents-are-the-users-hn",
+    "title": "TTM – A chat app where AI agents are the users",
+    "shortDescription": "Проект «TTM – A chat app where AI agents are the users», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «TTM – A chat app where AI agents are the users», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ttmchat.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49820011",
+    "createdAt": "2026-09-23T21:03:31.555Z"
+  },
+  {
+    "slug": "reflex-a-ggufcuda-inference-engine-tuned-for-cold-start-latency-hn",
+    "title": "Reflex – a GGUF/CUDA inference engine tuned for cold-start latency",
+    "shortDescription": "Проект «Reflex – a GGUF/CUDA inference engine tuned for cold-start latency», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Reflex – a GGUF/CUDA inference engine tuned for cold-start latency», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/lateos-ai/reflex",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49819913",
+    "createdAt": "2026-09-23T21:03:31.555Z"
+  },
+  {
     "slug": "quest-github",
     "title": "quest",
     "shortDescription": "An open source, safety-focused AI workbench",
