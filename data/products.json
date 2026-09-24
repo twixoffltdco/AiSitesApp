@@ -1,5 +1,196 @@
 [
   {
+    "slug": "flexray-github",
+    "title": "FleXray",
+    "shortDescription": "FleXray: Universal Clinical X-ray Segmentation",
+    "fullDescription": "FleXray: Universal Clinical X-ray Segmentation\n\nАвтор: VictorButoi. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://flexray.csail.mit.edu/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "computer-vision",
+      "machine-learning",
+      "medical-imaging",
+      "segmentation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1382454774",
+    "createdAt": "2026-09-24T03:04:35.809Z"
+  },
+  {
+    "slug": "kev-github",
+    "title": "Kev",
+    "shortDescription": "Open-source System One decision engine. Typed choice / score / noul with calibrated probabilities. Self-host with Ollama or any OpenAI-comp…",
+    "fullDescription": "Open-source System One decision engine. Typed choice / score / noul with calibrated probabilities. Self-host with Ollama or any OpenAI-compatible model. Apache-2.0.\n\nАвтор: arjun988. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://kev-notjev.vercel.app/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "jev",
+      "jev-ai",
+      "jev-api",
+      "system-one",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1381872036",
+    "createdAt": "2026-09-24T03:04:35.809Z"
+  },
+  {
+    "slug": "opencodenvim-github",
+    "title": "opencode.nvim",
+    "shortDescription": "Neovim plugin: run the real OpenCode TUI in a side panel and drive it over the v2 HTTP API.",
+    "fullDescription": "Neovim plugin: run the real OpenCode TUI in a side panel and drive it over the v2 HTTP API.\n\nАвтор: metal3d. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/metal3d/opencode.nvim",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "developer-tools",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1381551340",
+    "createdAt": "2026-09-24T03:04:35.809Z"
+  },
+  {
+    "slug": "flashyos-spec-github",
+    "title": "flashyos-spec",
+    "shortDescription": "⚡️ Apache-2.0 formats for organisational accountability on the agentic web: who is accountable, which lanes an organization opens, what shi…",
+    "fullDescription": "⚡️ Apache-2.0 formats for organisational accountability on the agentic web: who is accountable, which lanes an organization opens, what shipped, and what a stranger can verify offline. Every format ships a conformance corpus – most of it refusals. \n\nАвтор: FlashyLabs. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://flashyos.com/protocols",
+    "category": "ai-tool",
+    "tags": [
+      "accountability",
+      "agent-protocol",
+      "agentic-ai",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1382769857",
+    "createdAt": "2026-09-24T03:04:35.809Z"
+  },
+  {
+    "slug": "pi-humanity-protocol-github",
+    "title": "pi-humanity-protocol",
+    "shortDescription": "THE HUMAN LAYER FOR AI",
+    "fullDescription": "THE HUMAN LAYER FOR AI\n\nАвтор: KOSASIH. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://pi-humanity-protocol.vercel.app",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-safety",
+      "ai-tools",
+      "pi-network",
+      "pi-network-blockchain",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1380784614",
+    "createdAt": "2026-09-24T03:04:35.809Z"
+  },
+  {
+    "slug": "pyntra-github",
+    "title": "pyntra",
+    "shortDescription": "AI-native security testing platform — multi-agent orchestration over MCP, for authorized pentesting. Go + Eino.",
+    "fullDescription": "AI-native security testing platform — multi-agent orchestration over MCP, for authorized pentesting. Go + Eino.\n\nАвтор: prnvv2. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/prnvv2/pyntra",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "golang",
+      "llm",
+      "mcp",
+      "ollama",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1382927828",
+    "createdAt": "2026-09-24T03:04:35.809Z"
+  },
+  {
+    "slug": "interviews-github",
+    "title": "interviews",
+    "shortDescription": "Concise cheatsheets for technical interview prep.",
+    "fullDescription": "Concise cheatsheets for technical interview prep.\n\nАвтор: pinebit. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://pinebit.github.io/interviews/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "cheatsheet",
+      "databases",
+      "devops",
+      "distributed-systems",
+      "ethereum",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1382753006",
+    "createdAt": "2026-09-24T03:04:35.809Z"
+  },
+  {
+    "slug": "indicators-github",
+    "title": "indicators",
+    "shortDescription": "AI usage and cost in your macOS menu bar: live rate limits for Claude, OpenAI and Gemini, ccusage-style costs from local logs, MCP server f…",
+    "fullDescription": "AI usage and cost in your macOS menu bar: live rate limits for Claude, OpenAI and Gemini, ccusage-style costs from local logs, MCP server for model routing\n\nАвтор: jonymusky. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://indicators.jonymusky.com",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ccusage",
+      "claude-code",
+      "codex",
+      "developer-tools",
+      "gemini-cli",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1381654247",
+    "createdAt": "2026-09-24T03:04:35.809Z"
+  },
+  {
+    "slug": "chatlo-an-ios-native-ai-agent-now-with-jev-hn",
+    "title": "Chatlo – an iOS-native AI agent, now with Jev",
+    "shortDescription": "Hello HN! I’m sure many of you have used AI agent apps like OpenClaw, Claude Code, or Codex on your PCs, but you rarely see AI agents runni…",
+    "fullDescription": "Hello HN! I’m sure many of you have used AI agent apps like OpenClaw, Claude Code, or Codex on your PCs, but you rarely see AI agents running on the iOS platform. That’s why I created an agent app that runs exclusively on iOS—it doesn’t require a separate computer or server; it runs entirely on your iPhone. Plus, in the latest version, we’ve become the first to integrate Jev AI—a very popular decision-making AI—on the App Store. We invite you to try it out, and we look forward to your feedback. App Store: https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;chatlo-ai-chat-agent&#x2F;id6771188...\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://apps.apple.com/us/app/chatlo-ai-chat-agent/id6771188943",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49825446",
+    "createdAt": "2026-09-24T03:04:35.700Z"
+  },
+  {
     "slug": "nethackers-hn",
     "title": "NetHackers",
     "shortDescription": "hi everyone, been building this project for the last ~1.5 months (cc+superpowers all the way) it is an open effort to find a program that c…",
