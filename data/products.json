@@ -1,5 +1,113 @@
 [
   {
+    "slug": "dsh-mux-github",
+    "title": "dsh-mux",
+    "shortDescription": "DeepSeek Harness plugin: talk to Claude Code and other coding CLIs from the DSH web GUI, with sessions resumed and threads kept.",
+    "fullDescription": "DeepSeek Harness plugin: talk to Claude Code and other coding CLIs from the DSH web GUI, with sessions resumed and threads kept.\n\nАвтор: FreePeak. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/FreePeak/dsh-mux#readme",
+    "category": "chatbot",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-chat",
+      "assistant-ui",
+      "chat-ui",
+      "claude",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1381970901",
+    "createdAt": "2026-09-24T08:38:49.929Z"
+  },
+  {
+    "slug": "ai-polishnvim-github",
+    "title": "ai-polish.nvim",
+    "shortDescription": "Proofread and polish prose in Neovim with Gemini",
+    "fullDescription": "Proofread and polish prose in Neovim with Gemini\n\nАвтор: umiyosh. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/umiyosh/ai-polish.nvim",
+    "category": "writing",
+    "tags": [
+      "ai",
+      "gemini",
+      "neovim",
+      "neovim-plugin",
+      "nvim",
+      "nvim-plugin",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1383626378",
+    "createdAt": "2026-09-24T08:38:49.929Z"
+  },
+  {
+    "slug": "casttake-turn-one-product-photo-into-a-short-ai-ugc-ad-video-hn",
+    "title": "CastTake – turn one product photo into a short AI UGC ad video",
+    "shortDescription": "Проект «CastTake – turn one product photo into a short AI UGC ad video», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «CastTake – turn one product photo into a short AI UGC ad video», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://casttake.com/ai-ugc-ad-generator",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49827560",
+    "createdAt": "2026-09-24T08:38:49.645Z"
+  },
+  {
+    "slug": "cubelv-ai-that-designs-your-automation-before-building-it-hn",
+    "title": "CubeLV – AI that designs your automation before building it",
+    "shortDescription": "Проект «CubeLV – AI that designs your automation before building it», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «CubeLV – AI that designs your automation before building it», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://app.cubelv.com",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49827478",
+    "createdAt": "2026-09-24T08:38:49.645Z"
+  },
+  {
+    "slug": "air-gapped-file-encryption-as-self-decrypting-html-page-hn",
+    "title": "Air-gapped file encryption as self-decrypting HTML page",
+    "shortDescription": "Air-gapped file encryption packed into a single, self-decrypting HTML page. AI-free.",
+    "fullDescription": "Air-gapped file encryption packed into a single, self-decrypting HTML page. AI-free.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://cms-sfx-demo.apeleg.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49827375",
+    "createdAt": "2026-09-24T08:38:49.645Z"
+  },
+  {
+    "slug": "built-in-apm-for-vibe-coded-apps-so-your-ai-can-fix-them-hn",
+    "title": "Built-in APM for vibe-coded apps so your AI can fix them",
+    "shortDescription": "Проект «Built-in APM for vibe-coded apps so your AI can fix them», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Built-in APM for vibe-coded apps so your AI can fix them», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://oncroft.net/blog/monitoring-built-in-for-every-croft-app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49825904",
+    "createdAt": "2026-09-24T08:38:49.645Z"
+  },
+  {
     "slug": "flexray-github",
     "title": "FleXray",
     "shortDescription": "FleXray: Universal Clinical X-ray Segmentation",
