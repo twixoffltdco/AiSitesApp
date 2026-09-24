@@ -1,5 +1,123 @@
 [
   {
+    "slug": "awesome-qwen-image-github",
+    "title": "awesome-qwen-image",
+    "shortDescription": "Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling",
+    "fullDescription": "Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling\n\nАвтор: wildminder. Найдено в GitHub Trending (AI-тематика). ⭐ 11 звёзд.",
+    "url": "https://github.com/wildminder/awesome-qwen-image",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "comfyui",
+      "comfyui-nodes",
+      "i2i",
+      "image",
+      "image-generation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1385234557",
+    "createdAt": "2026-09-24T21:40:48.252Z"
+  },
+  {
+    "slug": "koirest-watch-some-fish-and-regain-your-balance-hn",
+    "title": "Koi.rest – watch some fish and regain your balance",
+    "shortDescription": "Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed. This last pa…",
+    "fullDescription": "Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed. This last part, along with everything else this past year, has caused me a great deal of stress. While our balcony zen garden project is yet to be completed, I had an idea to create a virtual one that everyone can use. It&#x27;s an idea that, unfortunately, I’ve been postponing for a while now, mostly because I have no fucking idea how to do it as I don’t know JavaScript, and I don&#x27;t have the capacity to learn it right now. So I let perfect be the enemy of good and, well... just kept the idea to myself. Then I said &quot;fuck it&quot; and used AI to make the thing I really wanted to make. I realized I didn&#x27;t want &quot;perfect&quot;. I wanted &quot;good enough&quot;. I tweaked, added, removed, drew, researched, questioned, tested... I just wasn&#x27;t the one coding it. So now, instead of occupying my brain, it now lives on the internet for others to enjoy. Yes, there’s something noble about making something entirely on your own, but what good is an idea that just sits in my head? So here I am. I made the thing. The weird, little, quiet koi pond. The silly project of passion. The little corner of the internet to let strangers watch fish quietly, together. I hope this pond helps you as much as it helped me.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://koi.rest",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49837006",
+    "createdAt": "2026-09-24T21:40:47.991Z"
+  },
+  {
+    "slug": "public-browser-mcp-48-speed-33-tokensession-vs-agentbrowser-hn",
+    "title": "Public Browser MCP – +48% speed -33% token/session vs. AgentBrowser",
+    "shortDescription": "(a repost due to gen-ai block | sry guys English is not my native language) me: solo dev from Hamburg (ahoi) started months ago - couldn&#x…",
+    "fullDescription": "(a repost due to gen-ai block | sry guys English is not my native language) me: solo dev from Hamburg (ahoi) started months ago - couldn&#x27;t stand the token waste and speed of playwright, Chrome dev tools etc - Vercel changed the game a bit but I use Public Browser for weeks now - it delivers project: &quot;Public Browser&quot; is a MCP Server running real Chrome with ur profile (no logins) directly via CDP protocol. has a complete tool set. handles multiple tabs. free - open sources - script api - a beast with JEV. numbers: vs agent-browser -24% calls, -33% token, -33% cost, -32% time vs Playwright CLI -26% calls, -34% token, -32% cost, -43% time vs Playwright MCP -51% calls, -61% token, -54% cost, -47% time vs Chrome DevTools -53% calls, -71% token, -65% cost, -51% time vs browser-use -79% calls, -95% token, -93% cost, -88% time method: blind opus 5 - one test harness - 30 tests - 5 runs. competitors = Playwright, Chrome DevTools, browser-use. Public Browser 3.0 vs field, same harness, Opus 5, Chrome 153 (PB 3.0 + agent-browser: 5 runs, 24.09. | others: 3 runs, 23.09.) via tests calls tokens cost time Public Browser 3.0 MCP 30&#x2F;30 79 3.02M $2.40 261s agent-browser 0.38.1 CLI 29&#x2F;30 104 4.53M $3.56 386s Playwright CLI 0.1.21 CLI 30&#x2F;30 107 4.61M $3.52 454s Playwright MCP 0.0.82 MCP 30&#x2F;30 162 7.84M $5.22 494s Chrome DevTools 1.9.0 MCP 29&#x2F;30 169 10.33M $6.78 535s browser-use 0.13.10 MCP 24-26&#x2F;30 384 63.68M $36.06 2187s 29&#x2F;30 = only T5.2 fails (navigator.webdriver check) but: agentBrowser responses are 28% smaller still in most cases Public Browser should be more efficient cause it needs less rounds in the end install: claude mcp add public-browser -- npx -y public-browser@latest test-site: https:&#x2F;&#x2F;mcp-test.second-truth.com source code: https:&#x2F;&#x2F;github.com&#x2F;Silbercue&#x2F;public-browser&#x2F;blob&#x2F;master&#x2F;test... harness &amp; raw data: https:&#x2F;&#x2F;github.com&#x2F;Silbercue&#x2F;public-browser&#x2F;tree&#x2F;master&#x2F;test... p.s.: I know a race between a solo dev and companies is lost but I think the people should build the tools that are important. I would love to see Public Browser be used and it would be an absolute honor if someone would improve it - with work &amp; ideas. I hope you enjoy it. pls tell me what u think about it.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Silbercue/public-browser/releases/tag/v3.0.0",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49836880",
+    "createdAt": "2026-09-24T21:40:47.991Z"
+  },
+  {
+    "slug": "canary-yc-independent-verification-for-ai-code-hn",
+    "title": "Canary (YC) – Independent verification for AI code",
+    "shortDescription": "Hey HN, we are Aakash and Viswesh and we are building Canary ( https:&#x2F;&#x2F;www.runcanary.ai&#x2F; ) - independent verification for AI…",
+    "fullDescription": "Hey HN, we are Aakash and Viswesh and we are building Canary ( https:&#x2F;&#x2F;www.runcanary.ai&#x2F; ) - independent verification for AI code. Claude&#x2F;Codex calls Canary with the changesets, intended behaviour and team knowledge. Canary then deploys agent swarms to investigate potential failures and test suspected runtime bugs in remote sandboxes. To try it on your repository, paste this into your coding agent: Install the Canary CLI with npm i -g @runcanary&#x2F;cli, then run canary skills and follow its instructions to onboard this repository. Verification starts with what software is supposed to do and most importantly what it must never allow. This means investigating how inputs, permissions, state, timing, dependencies etc interact with each other. Intent is not always fully declared as well but many expectations are clear: private files should stay private, credentials should not leak, and retries should not create unintended duplicate effects. We believe the future is a unified and independent verification system that starts with all those expectations and then chooses how to investigate each suspected failure. Source-only code reviews catches static issues in the implementation but even a clean review leaves a good chunk of behavioral only issues untested. Unit tests, integrations, E2E, static analysis, runtime experiments and formal verification are all means to establish that behavior thereby generating different kinds of evidence and guarantees. This is why we believe a dedicated verification harness that can think and reason through all these modalities and invariants is necessary on top of general intelligence. The harness needs to start with the system’s intended behavior, develop a series of potential failure scenarios and choose how to investigate them. It’s sole functionality is to pressure test and challenge the assumptions behind a change, create the conditions needed to test suspected failures and assess what the resulting evidence establishes How Canary works: it takes a cold snapshot of the codebase when called, combining the supplied intent and team knowledge with requirements, decisions, prior issues from tools like Notion, Linear. It can also route questions to you through the coding agents if anything is ambiguous. Canary’s harness coordinates agent swarms by leveraging the different strengths across model families. It compares the code before and after, traces the effects through callers, dependencies, state transitions etc. and each suspected failure becomes a concrete scenario with an actor, state, trigger, outcomes and many more runtime states., For each suspected failure, Canary chooses the best way to provide evidence through methods like runtime verification, static analysis, unit, integration or sometimes even combination of these as necessary. The agent executes these checks in remote sandboxes by seeding data, configuring permissions, mocking dependencies and third party integrations and much more. Canary then returns these findings and supporting evidence back to the coding agents which then fixes these failures and requests reverifications against the failed scenarios. To get started, give your coding agent this setup instruction and tell us what it caught and how we can do better. Install the Canary CLI with npm i -g @runcanary&#x2F;cli, then run canary skills and follow its instructions to onboard this repository. We are still pretty early in our journey and would love feedback on the product and how we can do better.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://www.runcanary.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49836632",
+    "createdAt": "2026-09-24T21:40:47.991Z"
+  },
+  {
+    "slug": "a-25-diy-alternative-to-159-ai-voice-recorders-byok-or-local-hn",
+    "title": "A $25 DIY alternative to $159 AI voice recorders – BYOK or local",
+    "shortDescription": "Проект «A $25 DIY alternative to $159 AI voice recorders – BYOK or local», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A $25 DIY alternative to $159 AI voice recorders – BYOK or local», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 9 баллов.",
+    "url": "https://zephclick.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49836576",
+    "createdAt": "2026-09-24T21:40:47.991Z"
+  },
+  {
+    "slug": "dunara-hn",
+    "title": "Dunara",
+    "shortDescription": "I&#x27;m building Dunara, an open-source local builder for Expo and React Native apps. Bring your own AI connection, refine your app in Stu…",
+    "fullDescription": "I&#x27;m building Dunara, an open-source local builder for Expo and React Native apps. Bring your own AI connection, refine your app in Studio, and export the full source. Interact with the app using your own AI provider via MCP or directly within the studio. Looking for feedback\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://dunara-studio.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49836148",
+    "createdAt": "2026-09-24T21:40:47.991Z"
+  },
+  {
+    "slug": "i-built-a-seriously-detailed-free-financial-planner-hn",
+    "title": "I built a seriously detailed free financial planner",
+    "shortDescription": "Hi, I spent the last 2.5 years building a super detailed financial planning tool called FinZot (US focused). It helps with questions like d…",
+    "fullDescription": "Hi, I spent the last 2.5 years building a super detailed financial planning tool called FinZot (US focused). It helps with questions like deciding when to retire, how much to spend in retirement, how to optimize taxes. I believe it is much more detailed than other free tools or free tiers. It even contains an embedded Excel-inspired domain specific language for customizing the sizing of income&#x2F;expense, etc. The entire planning engine is free. Runs in your browser (Rust&#x2F;WASM). No sign-up is necessary. Your data does not leave your browser unless you create an account. There are a couple of paid features in the app which are mostly just quality of life features and AI integration. The AI integration is via a Claude connector that gives Claude access to the full planning engine. Links: https:&#x2F;&#x2F;app.finzot.com&#x2F;plan&#x2F;6VXFMte2tRMp81sRKhYgXM&#x2F;results&#x2F;n... finzot.com\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://app.finzot.com/plan/6VXFMte2tRMp81sRKhYgXM/results/net-worth",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49835193",
+    "createdAt": "2026-09-24T21:40:47.991Z"
+  },
+  {
     "slug": "wow-ai-github",
     "title": "wow-ai",
     "shortDescription": "Addon to use AI (Claude, Codex and Grok) inside World of Warcraft  (WoW)",
