@@ -1,5 +1,139 @@
 [
   {
+    "slug": "short-video-generator-ai-github-3",
+    "title": "short-video-generator-AI",
+    "shortDescription": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+    "fullDescription": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing\n\nАвтор: yukitorido. Найдено в GitHub Trending (AI-тематика). ⭐ 67 звёзд.",
+    "url": "https://github.com/yukitorido/short-video-generator-AI",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "llm",
+      "llm-tools",
+      "opus-clip",
+      "opus-clip-alternative",
+      "short-video",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1383988294",
+    "createdAt": "2026-09-24T14:00:19.378Z"
+  },
+  {
+    "slug": "i-built-a-tooling-gateway-for-claude-code-that-manages-approvals-for-me-hn",
+    "title": "I built a Tooling gateway for Claude Code that manages Approvals for me",
+    "shortDescription": "Sooner or later I auto-approve every tool call in my Claude Code session. Still a strange feeling to basically give the AI Agent the full p…",
+    "fullDescription": "Sooner or later I auto-approve every tool call in my Claude Code session. Still a strange feeling to basically give the AI Agent the full power of doing whatever on my PC. So I started to build an AI Coding Tool Gateway that intercepts any tool call from my Claude Code Sessions and matches it with a defined list of rules. In an local dashboard I can see all activity logs and add safe commands to my whitelist. Additionally I started to add Token Reduction Logic that cuts away unnecessary context from tool responses -&gt; Saving me some tokens. Auto-Approve On - Coffee Time.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/dommar04/ai-coding-gateway",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49830471",
+    "createdAt": "2026-09-24T14:00:19.912Z"
+  },
+  {
+    "slug": "site-mcp-let-any-ai-agent-read-your-website-free-no-install-hn",
+    "title": "Site MCP – Let any AI agent read your website, free, no install",
+    "shortDescription": "Проект «Site MCP – Let any AI agent read your website, free, no install», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Site MCP – Let any AI agent read your website, free, no install», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://sitemcp.dev",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49830373",
+    "createdAt": "2026-09-24T14:00:19.912Z"
+  },
+  {
+    "slug": "a-novel-about-an-ai-that-starts-asking-questions-a-chapter-a-day-hn",
+    "title": "A novel about an AI that starts asking questions, a chapter a day",
+    "shortDescription": "Проект «A novel about an AI that starts asking questions, a chapter a day», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A novel about an AI that starts asking questions, a chapter a day», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://thought-is-free.com/read/ch01/?from=hn",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49830013",
+    "createdAt": "2026-09-24T14:00:19.912Z"
+  },
+  {
+    "slug": "xhtml-expert-html-hn",
+    "title": "XHTML – Expert HTML",
+    "shortDescription": "Hello everyone, I wanted to share with you one of my crazy ideas that I have been working on for the last couple of months. The platform is…",
+    "fullDescription": "Hello everyone, I wanted to share with you one of my crazy ideas that I have been working on for the last couple of months. The platform is a collectible card platform, like Pokemon TCG, where you use your cards to build a website. Each day you get a new pack, with HTML tags, attributes, CSS elements, etc. and you have to make the most of those to compete against other devs. The idea is to figure out how to do more with less and to learn from others. As for some background on this... I have many crazy ideas, my brain can&#x27;t stop sometimes. Using AI to write code for me has scratched some of the itches that my brain has farted through the years and have been living rent free in there for way too many years. Now they can land into the world (and maybe they shouldn&#x27;t?) and I can free some mental space for new crazy ideas. I have develop my career in security (cybersecurity, couldn&#x27;t hurt a fly even if I tried) and one common thing I saw when dealing with a free text field is that users could insert some HTML tags, but only from a shortlist. Things like &lt;b&gt; or &lt;i&gt; but never &lt;script&gt; or &lt;video&gt;. Well, my brain thought: &quot;what if they add 1000000000e56 &lt;b&gt;s? Don&#x27;t we want to limit that too?&quot; and that thought has been in my head for too long. That is why, to test some of the AI coding capabilities, I created the html-allowlist npm package[0] early this year. Once I had that done my brain was happy and I was happy. A library that does what I always thought it was the best way of filtering content: you can add some flourish to your comment&#x2F;textfield but not _too much_. Not sure if anyone will ever use it, but now they can. Then another thought came in: what is that make us scratch that pleasure of achieving more with less? With AI you have all that stream of code pouring without any effort but there was some pleasure on the struggles to get things to work when resources where limited or finding creative ways to do things on our own. As a bit of a gamer myself, quickly thought on the Pokemon TCG mobile app, where you get daily packs, build your deck and you battle. And because I have now the library that prevents more than N tags&#x2F;elements to be present in an HTML page, I could apply that here and build something similar. So I did, I have been trying to apply all my learning from years of working as a security engineer in different companies to try and build a website that allows people to have a simple personal website but also showcase their web kung-fu skills. I was very happy when I saw a few days ago here about CSS Zen Garden[1] because this website was an early career inspiration for me, as well as being a type of scenario where I could see this platform going: small web mastercrafted by hand. I know people will come and say &quot;if you didn&#x27;t code it yourself why should we bother with it?&quot; and you are more than welcome to do so. But for me this is about finally getting that idea out into the world, which maybe doesn&#x27;t need a website like this, but maybe there&#x27;s some joy on opening a random pack, slowly improving ones webpage, learning about an obscure CSS trick and appreciating others&#x27; skills. Anyway, I hope you give this a go, it is my first attempt to release something that feels, hopefully, like a final product, so happy to hear what you all have to say and see what you get to build. Pedro Laguna - https:&#x2F;&#x2F;pedro.laguna.es&#x2F; [0] https:&#x2F;&#x2F;www.npmjs.com&#x2F;package&#x2F;html-allowlist [1] https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49713262\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://xhtml.es/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49829179",
+    "createdAt": "2026-09-24T14:00:19.912Z"
+  },
+  {
+    "slug": "szept-talk-to-your-ai-agents-and-show-them-your-screen-macos-hn",
+    "title": "Szept – talk to your AI agents and show them your screen (macOS)",
+    "shortDescription": "Проект «Szept – talk to your AI agents and show them your screen (macOS)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Szept – talk to your AI agents and show them your screen (macOS)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://szept.szyma.co/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49829021",
+    "createdAt": "2026-09-24T14:00:19.912Z"
+  },
+  {
+    "slug": "forkbench-boundaries-and-supervision-for-ai-coding-agents-hn",
+    "title": "Forkbench – boundaries and supervision for AI coding agents",
+    "shortDescription": "Проект «Forkbench – boundaries and supervision for AI coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Forkbench – boundaries and supervision for AI coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://forkbench.com/l/FAUiWl3f",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49828775",
+    "createdAt": "2026-09-24T14:00:19.912Z"
+  },
+  {
+    "slug": "i-built-agedb-a-database-for-ai-agents-to-store-context-and-data-hn",
+    "title": "I built AgeDB, a database for AI agents to store context and data",
+    "shortDescription": "Hi HN, I’m building AgeDB, a database for AI agents to store context and data, share it across agents and model providers, and query it usi…",
+    "fullDescription": "Hi HN, I’m building AgeDB, a database for AI agents to store context and data, share it across agents and model providers, and query it using natural language. The idea is that information collected by one agent can be reused by another, even when they use different providers. You can also ask for the data in plain language(ish). I’d love to hear what you think, including reasons you wouldn’t use it.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/sivsivsree/agedb",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49828685",
+    "createdAt": "2026-09-24T14:00:19.912Z"
+  },
+  {
     "slug": "dsh-mux-github",
     "title": "dsh-mux",
     "shortDescription": "DeepSeek Harness plugin: talk to Claude Code and other coding CLIs from the DSH web GUI, with sessions resumed and threads kept.",
