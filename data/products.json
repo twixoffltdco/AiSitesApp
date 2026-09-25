@@ -1,5 +1,171 @@
 [
   {
+    "slug": "murmur-github",
+    "title": "murmur",
+    "shortDescription": "Open-source orchestrator for coding agents: run Claude Code and Codex as one team on a machine you own.",
+    "fullDescription": "Open-source orchestrator for coding agents: run Claude Code and Codex as one team on a machine you own.\n\nАвтор: magik-ai. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://murmur.farm",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "developer-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1386969994",
+    "createdAt": "2026-09-25T19:24:59.735Z"
+  },
+  {
+    "slug": "aslmp-an-async-python-slmp-client-for-mitsubishi-melsec-plcs-hn",
+    "title": "Aslmp, an async Python SLMP client for Mitsubishi MELSEC PLCs",
+    "shortDescription": "Проект «Aslmp, an async Python SLMP client for Mitsubishi MELSEC PLCs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Aslmp, an async Python SLMP client for Mitsubishi MELSEC PLCs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/AcaysiaChem/aslmp",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49848732",
+    "createdAt": "2026-09-25T19:24:59.551Z"
+  },
+  {
+    "slug": "obsidian-plugin-for-openmodelica-hn",
+    "title": "Obsidian Plugin for OpenModelica",
+    "shortDescription": "I created an Obsidian plugin that serves as a front-end for OpenModelica that allows you to model and simulate cyber-physical systems (mech…",
+    "fullDescription": "I created an Obsidian plugin that serves as a front-end for OpenModelica that allows you to model and simulate cyber-physical systems (mechanical, fluid, magnetic, thermal, etc.) or a mix of all these systems all inside Obsidian. What is special about Modelica is that it is acausal: components do not have fixed input&#x2F;output roles. You describe physical relationships with equations and connections, and the equations do not need to be written in a step-by-step order. Modelica (language) or OpenModelica (software) flattens the model into a simultaneous equation system (a system of differential algebraic equations (DAEs)) and then determines the computational causality and order needed to simulate it. As a disclaimer, I used AI to build it but not in a sloppy way. I have spent a lot of time testing it and making sure it&#x27;s functional and accurate. And I hope it may help others to utilize such an underrated tool for learning&#x2F;researching, as this is my main usage for it.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://community.obsidian.md/plugins/modelica-studio",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49848452",
+    "createdAt": "2026-09-25T19:24:59.551Z"
+  },
+  {
+    "slug": "i-couldnt-deal-with-another-claude-code-tab-hn",
+    "title": "I couldn't deal with another Claude Code tab",
+    "shortDescription": "Проект «I couldn't deal with another Claude Code tab», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I couldn't deal with another Claude Code tab», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://aidash.dev/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49848141",
+    "createdAt": "2026-09-25T19:24:59.551Z"
+  },
+  {
+    "slug": "stop-shipping-ai-slop-executor-makes-agents-prove-it-works-hn",
+    "title": "Stop shipping AI slop, Executor makes agents prove it works",
+    "shortDescription": "Проект «Stop shipping AI slop, Executor makes agents prove it works», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Stop shipping AI slop, Executor makes agents prove it works», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Atri10/executor",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49847953",
+    "createdAt": "2026-09-25T19:24:59.551Z"
+  },
+  {
+    "slug": "i-made-a-wwi-dogfight-game-that-runs-in-the-browser-hn",
+    "title": "I made a WWI dogfight game that runs in the browser",
+    "shortDescription": "Hello, this is one of my new games, developed with my own custom game engine. A lot of it was enabled by the latest AI models like Opus or…",
+    "fullDescription": "Hello, this is one of my new games, developed with my own custom game engine. A lot of it was enabled by the latest AI models like Opus or Astra, I feel like I can finally express myself without being bogged down in asset work or programming. I hope you enjoy it :)\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.gamedev.pl/ay/biplane-skirmish",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49847157",
+    "createdAt": "2026-09-25T19:24:59.551Z"
+  },
+  {
+    "slug": "doom-or-bloom-map-your-ai-worldview-with-jev-hn",
+    "title": "Doom or Bloom, map your AI worldview with Jev",
+    "shortDescription": "Map your AI worldview by answering a few questions, and see how you compare with others. only takes a few minutes &amp;&amp; free &amp; ope…",
+    "fullDescription": "Map your AI worldview by answering a few questions, and see how you compare with others. only takes a few minutes &amp;&amp; free &amp; open source &amp;&amp; private by default &amp;&amp; powered by Jev I think this is a really important question for everyone to be asking themselves, and my hope is that this lil project helps to move our conversations around AI futures in a more balanced, productive direction.\n\nНайдено в разделе Show HN на Hacker News. 👍 25 баллов.",
+    "url": "https://www.doom-or-bloom.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49846953",
+    "createdAt": "2026-09-25T19:24:59.551Z"
+  },
+  {
+    "slug": "promptpad-a-lightweight-editor-for-long-coding-prompts-hn",
+    "title": "PromptPad- A lightweight editor for long coding prompts",
+    "shortDescription": "I made PromptPad because whenever I tried to generate prompts, but I wanted to edit it, I would always have to open another VSC window, tex…",
+    "fullDescription": "I made PromptPad because whenever I tried to generate prompts, but I wanted to edit it, I would always have to open another VSC window, text file, or Word Document, and this would make my space messy, and also eat up my precious RAM. So I decided to make PromptPad to fix these issues. PromptPad is a small floating editor, with formatting and writing prompts for AI tools, not putting AI into the editor. I made it with an exceptionally low memory footprint (Averages around 15mb) Currently PromptPad supports MacOS, which is why I&#x27;m asking people to help contribute at the github repo.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/aaravchour/PromptPad",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49846916",
+    "createdAt": "2026-09-25T19:24:59.551Z"
+  },
+  {
+    "slug": "built-an-open-source-ai-browser-assistant-remembers-when-you-scroll-hn",
+    "title": "Built an open-source AI browser assistant remembers when you scroll",
+    "shortDescription": "Проект «Built an open-source AI browser assistant remembers when you scroll», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Built an open-source AI browser assistant remembers when you scroll», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Kerneta/daidocs/tree/main/browser-extension",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49846741",
+    "createdAt": "2026-09-25T19:24:59.551Z"
+  },
+  {
+    "slug": "web-search-agent-for-finding-leads-hn",
+    "title": "Web search agent for finding leads",
+    "shortDescription": "Проект «Web search agent for finding leads», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Web search agent for finding leads», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://agentjesse.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49846579",
+    "createdAt": "2026-09-25T19:24:59.551Z"
+  },
+  {
     "slug": "azure-architecture-diagram-builder-github",
     "title": "azure-architecture-diagram-builder",
     "shortDescription": "AI-powered Azure Architecture Diagram Builder with interactive workflow explanations, ARM template import, and export capabilities",
