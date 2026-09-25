@@ -1,5 +1,171 @@
 [
   {
+    "slug": "agent-gpu-calculator-github",
+    "title": "agent-gpu-calculator",
+    "shortDescription": "Single-file GPU/RAM sizing calculator for LLM agent sessions on vLLM: KV-cache offload to RAM, prefix caching, MLA/DSA and hybrid models, T…",
+    "fullDescription": "Single-file GPU/RAM sizing calculator for LLM agent sessions on vLLM: KV-cache offload to RAM, prefix caching, MLA/DSA and hybrid models, TP chosen per model × GPU pair (H100–B300). Runs in the browser, no dependencies.\n\nАвтор: Drobiazkin. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/Drobiazkin/agent-gpu-calculator",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-calculator",
+      "deepseek-v3",
+      "deepseek-v4",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1385773920",
+    "createdAt": "2026-09-25T10:23:50.000Z"
+  },
+  {
+    "slug": "rigo-studio-ai-farm-intelligence-hn",
+    "title": "Rigo Studio | AI Farm Intelligence",
+    "shortDescription": "Проект «Rigo Studio | AI Farm Intelligence», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Rigo Studio | AI Farm Intelligence», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://agririgo.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49842358",
+    "createdAt": "2026-09-25T10:23:49.836Z"
+  },
+  {
+    "slug": "atlasburn-know-what-your-ai-costs-and-stop-runaway-agents-hn",
+    "title": "AtlasBurn – Know what your AI costs and stop runaway agents",
+    "shortDescription": "Проект «AtlasBurn – Know what your AI costs and stop runaway agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AtlasBurn – Know what your AI costs and stop runaway agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://atlasburn.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49842163",
+    "createdAt": "2026-09-25T10:23:49.836Z"
+  },
+  {
+    "slug": "proxima-forma-designs-that-my-ai-agents-understand-hn",
+    "title": "Proxima Forma – Designs that my AI agents understand",
+    "shortDescription": "Hey HN! I built Proxima Forma because sharing screenshots with my agents was not really doing the job. I am a UX Designer with a developer…",
+    "fullDescription": "Hey HN! I built Proxima Forma because sharing screenshots with my agents was not really doing the job. I am a UX Designer with a developer background so I needed a better tool. Wanted the agents to have full design history, design decisions, product notes, etc. in a format they could actually understand. Also wanted one place to manage all my design projects, with dynamic views that let me query projects to see the latest changes and exactly what changed. And wanted to do all that from the commodity of my iPad ;) -early tries of using voice agents to design are still in progress, spoiler: it is too slow... But we&#x27;ll get there with better models or more fine tuning. Any feedback from the community is really appreciated. I&#x27;m trying to come up with other uses cases for Proxima Forma, not only UX Design. In a side note: fully built with AI Agents, Astra, and a little of Meta AI -for instagram advice. Cheers Modecir\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://proximaforma.com/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49842063",
+    "createdAt": "2026-09-25T10:23:49.837Z"
+  },
+  {
+    "slug": "apowerb-the-open-source-ai-agent-runtime-rag-text-to-sql-webhooks-hn",
+    "title": "Apowerb, the open-source AI agent runtime (RAG, Text-to-SQL, webhooks)",
+    "shortDescription": "Проект «Apowerb, the open-source AI agent runtime (RAG, Text-to-SQL, webhooks)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Apowerb, the open-source AI agent runtime (RAG, Text-to-SQL, webhooks)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/apowerb/apowerb",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49841997",
+    "createdAt": "2026-09-25T10:23:49.837Z"
+  },
+  {
+    "slug": "the-last-day-of-the-dinosaurs-as-an-interactive-painting-hn",
+    "title": "The last day of the dinosaurs, as an interactive painting",
+    "shortDescription": "Проект «The last day of the dinosaurs, as an interactive painting», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «The last day of the dinosaurs, as an interactive painting», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 11 баллов.",
+    "url": "https://www.echohive.ai/experiments/dinosaurs",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49841912",
+    "createdAt": "2026-09-25T10:23:49.837Z"
+  },
+  {
+    "slug": "can-an-ai-agent-bypass-a-post-quantum-signed-authorization-policy-hn",
+    "title": "Can an AI agent bypass a post-quantum signed authorization policy?",
+    "shortDescription": "Проект «Can an AI agent bypass a post-quantum signed authorization policy?», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Can an AI agent bypass a post-quantum signed authorization policy?», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/max-russo-com/MAX_AUTHORIZATION_SANDBOX",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49841469",
+    "createdAt": "2026-09-25T10:23:49.837Z"
+  },
+  {
+    "slug": "tasket-simulate-your-windows-actions-automatically-free-and-os-hn",
+    "title": "Tasket++ Simulate your Windows actions automatically-free and OS",
+    "shortDescription": "Tasket++ lets you define your own clicks, keystrokes, cursor positions and system operations, then replay them exactly when you want. It’s…",
+    "fullDescription": "Tasket++ lets you define your own clicks, keystrokes, cursor positions and system operations, then replay them exactly when you want. It’s a simple Windows tool that handles repetitive workflows for you: auto‑send messages, paste text anywhere, take silent screenshots, launch or close apps, adjust volume or run your end‑of‑day shutdown sequence. Everything runs locally, with no telemetry, no cloud, and no complexity. What it can do: - Replay user‑defined cursor positions and keystrokes - Paste predefined text anywhere - Perform system actions: open files&#x2F;programs, change volume, take silent screenshots, shut down, files&#x2F;folders operations - Schedule tasks at a specific time, at startup, or run via desktop shortcut - Run tasks once, in loops, or indefinitely - Discreet mode: runs quietly from the tray - Use command line to autorun a task : Tasket++.exe &quot;TaskName&quot; &lt;delayInSeconds (&gt;0)&gt; &lt;NumberOfLoop (-1 for infinite)&gt; - Easily share tasks between different PC : just import the .scht file located in &#x2F;saved_tasks Local, portable, free, open source. Privacy intact. Fully fonctionnal, available now ! Microsoft Store: https:&#x2F;&#x2F;apps.microsoft.com&#x2F;detail&#x2F;xp9cjlhwvxs49p Portable (v2.0): https:&#x2F;&#x2F;files.amirhammoutene.dev&#x2F;Tasket++&#x2F;2.0&#x2F;Tasket++_v2.0.... Source: https:&#x2F;&#x2F;github.com&#x2F;AmirHammouteneEI&#x2F;ScheduledPasteAndKeys For feedback, help, suggestions, or other inquiries : contact@amirhammoutene.dev Nothing is vibe coded, I never used AI (except for the choice of UI colors suggested by Copilot). Conception is genuine, I didn&#x27;t know about similar tools when I began developing it.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://apps.microsoft.com/detail/xp9cjlhwvxs49p?hl=en-US&gl=US",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49841415",
+    "createdAt": "2026-09-25T10:23:49.837Z"
+  },
+  {
+    "slug": "reteach-ai-tutor-that-feels-human-hn",
+    "title": "Reteach – AI tutor that feels human",
+    "shortDescription": "Tutoring is very expensive. reteach makes it cheap.",
+    "fullDescription": "Tutoring is very expensive. reteach makes it cheap.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.reteach.study/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49840850",
+    "createdAt": "2026-09-25T10:23:49.837Z"
+  },
+  {
+    "slug": "knowledge-signal-a-jev-powered-rubric-assessment-tool-for-study-notes-hn",
+    "title": "Knowledge Signal – A JEV-powered rubric assessment tool for study notes",
+    "shortDescription": "I built Knowledge Signal, an open-source prototype that turns study notes into structured, confidence-aware knowledge profiles using TypeSa…",
+    "fullDescription": "I built Knowledge Signal, an open-source prototype that turns study notes into structured, confidence-aware knowledge profiles using TypeSafe AI&#x27;s Jev model.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/sumant1122/knowledge-signal",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49840561",
+    "createdAt": "2026-09-25T10:23:49.837Z"
+  },
+  {
     "slug": "socialflyai-github",
     "title": "Socialflyai",
     "shortDescription": "AI marketing automation: research, create, schedule, publish, engage and measure across LinkedIn, Instagram, Facebook, Threads, X, Reddit a…",
