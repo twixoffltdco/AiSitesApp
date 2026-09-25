@@ -1,5 +1,187 @@
 [
   {
+    "slug": "azure-architecture-diagram-builder-github",
+    "title": "azure-architecture-diagram-builder",
+    "shortDescription": "AI-powered Azure Architecture Diagram Builder with interactive workflow explanations, ARM template import, and export capabilities",
+    "fullDescription": "AI-powered Azure Architecture Diagram Builder with interactive workflow explanations, ARM template import, and export capabilities\n\nАвтор: Arturo-Quiroga-MSFT. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://aka.ms/diagram-builder",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "architecture-diagrams",
+      "azure",
+      "azure-architecture",
+      "azure-openai",
+      "bicep",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1384179381",
+    "createdAt": "2026-09-25T15:25:00.368Z"
+  },
+  {
+    "slug": "i-built-a-tool-to-combine-separate-photos-into-one-scene-using-ai-hn",
+    "title": "I built a tool to combine separate photos into one scene using AI",
+    "shortDescription": "Проект «I built a tool to combine separate photos into one scene using AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built a tool to combine separate photos into one scene using AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://tancky.io/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49845397",
+    "createdAt": "2026-09-25T15:25:00.002Z"
+  },
+  {
+    "slug": "pixelsniff-check-if-a-photo-is-ai-generated-no-sign-up-hn",
+    "title": "PixelSniff – Check if a photo is AI-generated, no sign-up",
+    "shortDescription": "Проект «PixelSniff – Check if a photo is AI-generated, no sign-up», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «PixelSniff – Check if a photo is AI-generated, no sign-up», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://pixelsniff.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49845249",
+    "createdAt": "2026-09-25T15:25:00.002Z"
+  },
+  {
+    "slug": "sifthound-self-hosted-tavily-compatible-search-api-for-ai-agents-hn",
+    "title": "Sifthound – self-hosted, Tavily-compatible search API for AI agents",
+    "shortDescription": "Проект «Sifthound – self-hosted, Tavily-compatible search API for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Sifthound – self-hosted, Tavily-compatible search API for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/khsarvar/sifthound",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49844557",
+    "createdAt": "2026-09-25T15:25:00.002Z"
+  },
+  {
+    "slug": "hard-stop-kernel-level-preemption-for-autonomous-ai-agents-hn",
+    "title": "Hard Stop: Kernel-level preemption for autonomous AI agents",
+    "shortDescription": "Проект «Hard Stop: Kernel-level preemption for autonomous AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Hard Stop: Kernel-level preemption for autonomous AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://arxiv.org/abs/2609.29808",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49844056",
+    "createdAt": "2026-09-25T15:25:00.002Z"
+  },
+  {
+    "slug": "wave-layered-gradient-wave-backgrounds-using-threejs-and-shaders-hn",
+    "title": "Wave – Layered gradient wave backgrounds using Three.js and shaders",
+    "shortDescription": "Hello! I built this static tool to generate wavy backgrounds for posts, socials and landing pages and decided to share it for free for anyo…",
+    "fullDescription": "Hello! I built this static tool to generate wavy backgrounds for posts, socials and landing pages and decided to share it for free for anyone looking for the same. This tool uses three.js&#x2F;canvas rather than svg: a full-screen quad and a fragment shader which makes for soft shadows, smoother blurs and glass effects. Hit the randomize button to get a good shape + colour combination, optionally tweak using the vector tool, save designs to local storage and export to image or video. What&#x27;s the point? I started out thinking this would be something &quot;easy&quot; and that I could build in about an hour but turns out it does take a bit more effort to make it &quot;look good&quot;. You can use the backgrounds for content or an over-engineered colour picker or just chill with it in fullscreen mode. Screenshot: https:&#x2F;&#x2F;cdn.subworkflow.ai&#x2F;marketing&#x2F;wave-by-subworkflow-scr... Enjoy!\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://wave.subworkflow.ai/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49843746",
+    "createdAt": "2026-09-25T15:25:00.002Z"
+  },
+  {
+    "slug": "an-ai-interviewer-that-pushes-back-on-your-system-design-trade-offs-hn",
+    "title": "An AI interviewer that pushes back on your system design trade-offs",
+    "shortDescription": "Проект «An AI interviewer that pushes back on your system design trade-offs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An AI interviewer that pushes back on your system design trade-offs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://prepd.tech/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49843681",
+    "createdAt": "2026-09-25T15:25:00.002Z"
+  },
+  {
+    "slug": "stackreplay-analyze-and-replay-your-ai-coding-history-locally-hn",
+    "title": "StackReplay – analyze and replay your AI coding history locally",
+    "shortDescription": "Проект «StackReplay – analyze and replay your AI coding history locally», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «StackReplay – analyze and replay your AI coding history locally», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://stackreplay.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49843535",
+    "createdAt": "2026-09-25T15:25:00.002Z"
+  },
+  {
+    "slug": "threshold-cryptography-for-ai-agents-using-payments-and-digital-assets-hn",
+    "title": "Threshold Cryptography for AI Agents Using Payments and Digital Assets",
+    "shortDescription": "We introduce the concept of a &quot;cryptographic identity&quot;, which consists of a private key, a manifest attached to it that defines w…",
+    "fullDescription": "We introduce the concept of a &quot;cryptographic identity&quot;, which consists of a private key, a manifest attached to it that defines what a specific action is allowed or not allowed to do, and additional controls. The principle is simple: when an AI wants to perform an action, it has to request a signature for that action, and the signature is issued only after the checks pass. I think this approach is flexible enough for most use cases, while also improving accountability and making it possible to build architecture around a zero-trust model. The system lets you define your own action schemas, or plug in modules for agentic payments, such as Google AP2 and Mastercard Verifiable Intent, or a digital assets module that lets an agent work with crypto wallets. Basically, modules for different types of actions. Compared to other solutions, there is a fundamental difference between (as an example) &quot;we allow the agent to make payments&quot; and &quot;we allow the agent to make THIS specific payment.&quot; With threshold cryptography, we distribute the risk so that compromising a single node does not let an attacker steal the key, replace or remove policies, or otherwise concentrate control in one place. Feedback is welcome :)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/tkeeper-org/tkeeper",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49843480",
+    "createdAt": "2026-09-25T15:25:00.002Z"
+  },
+  {
+    "slug": "skipper-a-youtube-sponsor-skipper-using-ask-gemini-and-sponsorblock-hn",
+    "title": "Skipper, a YouTube sponsor skipper using Ask Gemini and SponsorBlock",
+    "shortDescription": "Проект «Skipper, a YouTube sponsor skipper using Ask Gemini and SponsorBlock», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Skipper, a YouTube sponsor skipper using Ask Gemini and SponsorBlock», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://chromewebstore.google.com/detail/skipper-ai-â-youtube-spon/ncchpipphiigdfbpbjofbhbahcgckaob",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49842997",
+    "createdAt": "2026-09-25T15:25:00.002Z"
+  },
+  {
+    "slug": "agentic-cuda-kernel-optimizer-hn",
+    "title": "Agentic CUDA Kernel Optimizer",
+    "shortDescription": "Hello; I was working on optimizing some CUDA kernels and I thought may be it is a good oppurtunity learn langgraph as well. I created a sim…",
+    "fullDescription": "Hello; I was working on optimizing some CUDA kernels and I thought may be it is a good oppurtunity learn langgraph as well. I created a simple C++ CUDA Test Harness and handed that to AI agents. They can run kernels, get benchmarks, and even can profile via nsight\n\nНайдено в разделе Show HN на Hacker News. 👍 29 баллов.",
+    "url": "https://github.com/bertaye/agentic-cuda-optimizer",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49842596",
+    "createdAt": "2026-09-25T15:25:00.002Z"
+  },
+  {
     "slug": "agent-gpu-calculator-github",
     "title": "agent-gpu-calculator",
     "shortDescription": "Single-file GPU/RAM sizing calculator for LLM agent sessions on vLLM: KV-cache offload to RAM, prefix caching, MLA/DSA and hybrid models, T…",
