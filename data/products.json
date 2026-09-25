@@ -1,5 +1,139 @@
 [
   {
+    "slug": "clodfarm-github",
+    "title": "clodfarm",
+    "shortDescription": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselve…",
+    "fullDescription": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselves on each account's real 5-hour and weekly usage. Steer it from the Claude app.\n\nАвтор: matank001. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://clod.farm",
+    "category": "developer",
+    "tags": [
+      "agent-orchestration",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "automation",
+      "autonomous-agents",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1386534744",
+    "createdAt": "2026-09-25T22:38:17.943Z"
+  },
+  {
+    "slug": "mya11yreport-mcp-build-and-test-accessible-websites-with-ai-hn",
+    "title": "MyA11yReport MCP – Build and test accessible websites with AI",
+    "shortDescription": "Give your AI development tools (like Claude Desktop or Cursor) the ability to run WCAG accessibility audits locally and compliant code.",
+    "fullDescription": "Give your AI development tools (like Claude Desktop or Cursor) the ability to run WCAG accessibility audits locally and compliant code.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://mya11y.report/mcp/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49850774",
+    "createdAt": "2026-09-25T22:38:17.714Z"
+  },
+  {
+    "slug": "oomu-is-a-free-macos-native-desktop-ai-harness-local-and-cloud-hn",
+    "title": "OOMU is a free macOS native desktop AI harness (local and cloud)",
+    "shortDescription": "I built OOMU because I honestly got tired of the endless cycle of installing, fixing, updating, fixing, using, fixing the open source harne…",
+    "fullDescription": "I built OOMU because I honestly got tired of the endless cycle of installing, fixing, updating, fixing, using, fixing the open source harnesses out there like OpenClaw. I also quickly got tired of paying for cloud API tokens. OOMU ( https:&#x2F;&#x2F;oomu.ai ) isn&#x27;t just another chatbot. It&#x27;s a native macOS binary written in Rust and AppKit. It handles real work like interactings with system apps, work in the terminal, and compiling docs like Word, Excel, PowerPoint, and PDF. It can also handle multi-turn tasks locally on your Mac. There is no Electron bloat, no background web services, and it stays 0.0% idle CPU when you are not actually using it. A few key things about how it works: It&#x27;s as free as you want it to be. The app is free, forever even when we get out of beta. No subscriptions, tiers, or other paid services. You can use it completely through local models with Gemma 4 E2B QAT being the default the app requires at setup (can auto download as part of the setup). If you want to go hybrid, you can also BYOK your own API subscriptions. We&#x27;ve tested with OpenAI, Gemini, DeepSeek, Grok, and Mistral, direct and through aggregators. This is useful if you need to do more demanding work than a local model can handle. One feature I&#x27;m most proud of is intelligent auto-routing. A small routing model sits on your machine to determine the complexity of a prompt and whether is should be handled locally or on the cloud. This is a turn-by-turn feature that can select a route automatically for each individual prompt. You must enable this feature, as it is not turned on by default. It can be selected in the chat window. I suspect other harnesses might follow this approach once they figure out that not every prompt needs a frontier model. OOMU prioritizes privacy, has zero telemetry, and everything stays on your Mac in an encrypted local database. There&#x27;s none of the markdown file mess you get with other commercial and open source harnesses either. It even includes an Air-Gap mode that cuts network access completely. We&#x27;ve localized it into 12 languages right out of the box (English, German, Spanish, French, Japanese, Simplified Chinese, Traditional Chinese, Portuguese, Russian, Ukrainian, Vietnamese, and Indonesian). We are currently on Beta 2 (0.2.16). It is stable and handles daily tasks with relative ease. As with any complex software, I expect a few bugs might pop up here and there. If you run into anything showstopping, I would appreciate your feedback using the built-in bug report form in the app. You can download from https:&#x2F;&#x2F;oomu.ai and the release notes are here https:&#x2F;&#x2F;oomu.ai&#x2F;release-notes.html Or you can also install via Homebrew: brew install --cask oomu-ai&#x2F;tap&#x2F;oomu I would love to hear your thoughts, critiques, and how it is working on your local machine.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://oomu.ai/download.html",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49850662",
+    "createdAt": "2026-09-25T22:38:17.714Z"
+  },
+  {
+    "slug": "nerfwatch-track-ai-degradation-with-daily-tests-and-community-votes-hn",
+    "title": "NerfWatch() – Track AI degradation with daily tests and community votes",
+    "shortDescription": "Проект «NerfWatch() – Track AI degradation with daily tests and community votes», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «NerfWatch() – Track AI degradation with daily tests and community votes», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://nerfwatch.lol",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49850096",
+    "createdAt": "2026-09-25T22:38:17.714Z"
+  },
+  {
+    "slug": "piloxa-an-mcp-server-that-sends-usps-certified-mail-from-your-ai-hn",
+    "title": "Piloxa – an MCP server that sends USPS Certified Mail from your AI",
+    "shortDescription": "Проект «Piloxa – an MCP server that sends USPS Certified Mail from your AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Piloxa – an MCP server that sends USPS Certified Mail from your AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://piloxa.com/for-ai-agents",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49849629",
+    "createdAt": "2026-09-25T22:38:17.714Z"
+  },
+  {
+    "slug": "a-free-resume-builder-where-the-ai-can-rewrite-but-cant-invent-hn",
+    "title": "A free resume builder where the AI can rewrite but can't invent",
+    "shortDescription": "Проект «A free resume builder where the AI can rewrite but can't invent», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A free resume builder where the AI can rewrite but can't invent», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://nokku.payanai.com/resume-builder",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49849546",
+    "createdAt": "2026-09-25T22:38:17.714Z"
+  },
+  {
+    "slug": "drift-a-clickable-map-of-ideas-unfolding-from-single-question-demo-hn",
+    "title": "Drift – A clickable map of ideas unfolding from single question (demo)",
+    "shortDescription": "Проект «Drift – A clickable map of ideas unfolding from single question (demo)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Drift – A clickable map of ideas unfolding from single question (demo)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.echohive.ai/experiments/drift-atlas",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49849194",
+    "createdAt": "2026-09-25T22:38:17.714Z"
+  },
+  {
+    "slug": "agentlens-replay-and-compare-codex-runs-hn",
+    "title": "AgentLens – Replay and compare Codex runs",
+    "shortDescription": "A replay button for AI coding agents. See what Codex likely read, ran, and changed, then compare two runs to find where they diverged.",
+    "fullDescription": "A replay button for AI coding agents. See what Codex likely read, ran, and changed, then compare two runs to find where they diverged.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/fang520huang-lgtm/AgentLens",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49848914",
+    "createdAt": "2026-09-25T22:38:17.714Z"
+  },
+  {
     "slug": "murmur-github",
     "title": "murmur",
     "shortDescription": "Open-source orchestrator for coding agents: run Claude Code and Codex as one team on a machine you own.",
