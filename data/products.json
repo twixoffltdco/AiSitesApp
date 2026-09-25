@@ -1,5 +1,65 @@
 [
   {
+    "slug": "socialflyai-github",
+    "title": "Socialflyai",
+    "shortDescription": "AI marketing automation: research, create, schedule, publish, engage and measure across LinkedIn, Instagram, Facebook, Threads, X, Reddit a…",
+    "fullDescription": "AI marketing automation: research, create, schedule, publish, engage and measure across LinkedIn, Instagram, Facebook, Threads, X, Reddit and YouTube.\n\nАвтор: Bhanuteja005. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://socialflyai.com",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "bullmq",
+      "bun",
+      "hono",
+      "instagram",
+      "linkedin",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1383126394",
+    "createdAt": "2026-09-25T00:15:30.472Z"
+  },
+  {
+    "slug": "awesome-3d-prompts-github",
+    "title": "awesome-3d-prompts",
+    "shortDescription": "3D prompts for games, scenes, assets, animation and interactive worlds across Astra, Claude and Kimi. 14 languages, generated from CMS.",
+    "fullDescription": "3D prompts for games, scenes, assets, animation and interactive worlds across Astra, Claude and Kimi. 14 languages, generated from CMS.\n\nАвтор: TripoGrowthLab. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://www.tripo3d.ai/3d-prompts",
+    "category": "ai-tool",
+    "tags": [
+      "3d",
+      "ai",
+      "awesome",
+      "blender",
+      "games",
+      "prompt-engineering",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1383910383",
+    "createdAt": "2026-09-25T00:15:30.472Z"
+  },
+  {
+    "slug": "vons-jev-inspired-local-decisions-for-ai-agents-in-the-browser-hn",
+    "title": "Vons – Jev-inspired local decisions for AI agents, in the browser",
+    "shortDescription": "Проект «Vons – Jev-inspired local decisions for AI agents, in the browser», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Vons – Jev-inspired local decisions for AI agents, in the browser», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/inlevel9-com/Vons",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49838333",
+    "createdAt": "2026-09-25T00:15:30.379Z"
+  },
+  {
     "slug": "awesome-qwen-image-github",
     "title": "awesome-qwen-image",
     "shortDescription": "Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling",
