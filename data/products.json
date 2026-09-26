@@ -1,5 +1,127 @@
 [
   {
+    "slug": "dsh-workbuddy-bridge-github",
+    "title": "dsh-workbuddy-bridge",
+    "shortDescription": "DSH 插件：把 WorkBuddy 桌面 App 里的模型接入 DeepSeek Harness，零配置直接用。（原生嵌入\"设置-插件-插件配置\"）",
+    "fullDescription": "DSH 插件：把 WorkBuddy 桌面 App 里的模型接入 DeepSeek Harness，零配置直接用。（原生嵌入\"设置-插件-插件配置\"）\n\nАвтор: zlZayn. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/zlZayn/dsh-workbuddy-bridge",
+    "category": "ai-tool",
+    "tags": [
+      "agent-harness",
+      "ai",
+      "ai-agent",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1387190592",
+    "createdAt": "2026-09-26T15:44:14.565Z"
+  },
+  {
+    "slug": "tutor-github",
+    "title": "tutor",
+    "shortDescription": "A prompt to learn anything. AGENTS.md is the README.",
+    "fullDescription": "A prompt to learn anything. AGENTS.md is the README.\n\nАвтор: ZaneH. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/ZaneH/tutor",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "education",
+      "prompt",
+      "tutoring",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1386414604",
+    "createdAt": "2026-09-26T15:44:14.565Z"
+  },
+  {
+    "slug": "i-made-hacker-ai-for-your-vibecoded-app-hn",
+    "title": "I made HACKER AI for your vibecoded app",
+    "shortDescription": "Netherite is your own Security Specialist. It reviews your codebase, find vulnerabilities, flaws, and other security issues before writing…",
+    "fullDescription": "Netherite is your own Security Specialist. It reviews your codebase, find vulnerabilities, flaws, and other security issues before writing professional report. Also gives you fix prompt. Free to try!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.netherite.uz",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49857290",
+    "createdAt": "2026-09-26T15:44:14.429Z"
+  },
+  {
+    "slug": "ogre-mcp-let-your-ai-agent-see-your-wow-classic-game-state-hn",
+    "title": "Ogre MCP – Let your AI agent see your WoW Classic game state",
+    "shortDescription": "Проект «Ogre MCP – Let your AI agent see your WoW Classic game state», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Ogre MCP – Let your AI agent see your WoW Classic game state», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/bttf/ogremcp",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49857285",
+    "createdAt": "2026-09-26T15:44:14.429Z"
+  },
+  {
+    "slug": "prodigy-the-self-updating-technical-digest-hn",
+    "title": "Prodigy – The Self-Updating Technical Digest",
+    "shortDescription": "I&#x27;ve seen newsletters where we have 15-20 people working on typing out the content and publish it. Obviously that gives you originalit…",
+    "fullDescription": "I&#x27;ve seen newsletters where we have 15-20 people working on typing out the content and publish it. Obviously that gives you originality, but what if we don&#x27;t have that much time and resources? I made Prodigy, a self-updating AI newsletter that fetches the best technical updates from sources like X, Hacker News, Git and top-conference papers. A LLaMa model runs in the backend and summarises the complete post to capture the key remarks. A Git Actions framework updates the pages every 5 minutes (PRs) - 6 hours (tweets and HN). The long contents are still a work in progress, but I&#x27;m trying to make it as interesting as possible. Not pushing anything else ATM. :)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.prodigy.org.in/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49857096",
+    "createdAt": "2026-09-26T15:44:14.429Z"
+  },
+  {
+    "slug": "homeaidesign-visualize-interior-design-ideas-from-a-photo-hn",
+    "title": "HomeAI.design – Visualize interior design ideas from a photo",
+    "shortDescription": "Hi HN, I’m an indie developer and I recently built HomeAI.design. The original idea was simple. When people renovate a room, it&#x27;s diff…",
+    "fullDescription": "Hi HN, I’m an indie developer and I recently built HomeAI.design. The original idea was simple. When people renovate a room, it&#x27;s difficult to imagine what a different design would actually look like in their own space. So I built a tool where you upload a room photo and generate different interior design ideas. I&#x27;m still figuring out what users really need, especially compared with other AI interior design tools. Would love feedback on the product and the generated results.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://homeai.design/",
+    "category": "design",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49856774",
+    "createdAt": "2026-09-26T15:44:14.429Z"
+  },
+  {
+    "slug": "ai-coding-agents-that-prove-their-work-hn",
+    "title": "AI coding agents that prove their work",
+    "shortDescription": "Release of 0.10",
+    "fullDescription": "Release of 0.10\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://daneb.github.io/keel/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49856381",
+    "createdAt": "2026-09-26T15:44:14.429Z"
+  },
+  {
     "slug": "ai-sni-proxy-github",
     "title": "ai-sni-proxy",
     "shortDescription": "Доступ к Claude, ChatGPT, Gemini и JetBrains AI из страны, которую они не обслуживают — без VPN: одна правка hosts и SNI-прокси за границей",
