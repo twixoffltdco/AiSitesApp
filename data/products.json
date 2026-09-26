@@ -1,5 +1,59 @@
 [
   {
+    "slug": "ai-sni-proxy-github",
+    "title": "ai-sni-proxy",
+    "shortDescription": "Доступ к Claude, ChatGPT, Gemini и JetBrains AI из страны, которую они не обслуживают — без VPN: одна правка hosts и SNI-прокси за границей",
+    "fullDescription": "Доступ к Claude, ChatGPT, Gemini и JetBrains AI из страны, которую они не обслуживают — без VPN: одна правка hosts и SNI-прокси за границей\n\nАвтор: SteepMans. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/SteepMans/ai-sni-proxy",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "chatgpt",
+      "claude",
+      "dns",
+      "geoblocking",
+      "hosts",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1388955296",
+    "createdAt": "2026-09-26T11:39:42.358Z"
+  },
+  {
+    "slug": "cstructsharp-c-struct-deserialization-for-c-and-javascript-wasm-hn",
+    "title": "CStructSharp – C-struct (de)serialization for C# and JavaScript (WASM)",
+    "shortDescription": "I&#x27;ve been working on this for a while now (I made a POC for myself some years ago which I didn&#x27;t release. But AI helped me a lot…",
+    "fullDescription": "I&#x27;ve been working on this for a while now (I made a POC for myself some years ago which I didn&#x27;t release. But AI helped me a lot to finally complete&#x2F;polish it). Inspired by digital forensic toolkits, this library allows a user to take a c-struct definition and use that to serialize an deserialize binary data. It is a flexible library which features modern c# mechanisms and conventions. I tried to make it easy to use, easy to understand, performant and powerful. You can both use it to parse and use runtime user defined structures as well as use the C# source generator feature to build parsers&#x2F;serializers at compile time. I also build and published a WASM version&#x2F;javascript library which is used to showcase the features of the library (see the binary inspector demo app ( https:&#x2F;&#x2F;vvollers.github.io&#x2F;cstructsharp&#x2F;inspector&#x2F; ) which you can use to run the library against various files, it includes sample definitions for many file formats). The library is quite usable on its own. I&#x27;m interested to hear your thoughts and if you have any questions feel free to ask.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/vvollers/cstructsharp",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49855152",
+    "createdAt": "2026-09-26T11:39:42.220Z"
+  },
+  {
+    "slug": "app2api-give-your-ai-the-api-behind-your-app-hn",
+    "title": "App2Api – Give your AI the API behind your app",
+    "shortDescription": "Проект «App2Api – Give your AI the API behind your app», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «App2Api – Give your AI the API behind your app», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://app2api.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49854783",
+    "createdAt": "2026-09-26T11:39:42.220Z"
+  },
+  {
     "slug": "llmao-github",
     "title": "llmao",
     "shortDescription": "Just as wrong. Way cheaper. A fake LLM powered by regex: mock OpenAI, Anthropic and the Vercel AI SDK in Jest, Vitest or any test runner.",
