@@ -1,5 +1,59 @@
 [
   {
+    "slug": "grev-github",
+    "title": "grev",
+    "shortDescription": "Thinking coreutils",
+    "fullDescription": "Thinking coreutils\n\nАвтор: aurorainfra. Найдено в GitHub Trending (AI-тематика). ⭐ 28 звёзд.",
+    "url": "https://github.com/aurorainfra/grev",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "coreutils",
+      "jev",
+      "jev-ai",
+      "typesafe",
+      "typesafe-ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1386371025",
+    "createdAt": "2026-09-26T21:55:12.583Z"
+  },
+  {
+    "slug": "proofforge-ai-agents-whose-proofs-have-to-compile-in-lean-hn",
+    "title": "ProofForge, AI agents whose proofs have to compile in Lean",
+    "shortDescription": "Проект «ProofForge, AI agents whose proofs have to compile in Lean», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ProofForge, AI agents whose proofs have to compile in Lean», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Sanexxxx777/ProofForge",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49860363",
+    "createdAt": "2026-09-26T21:55:12.481Z"
+  },
+  {
+    "slug": "loop-find-trim-rotate-and-crop-videos-in-the-browser-no-upload-hn",
+    "title": "Loop-find, trim, rotate and crop videos in the browser, no upload",
+    "shortDescription": "I built this with Claude to trim, loop and patch a lot of short clips quickly. I&#x27;m new to video editing, and every tool people recomme…",
+    "fullDescription": "I built this with Claude to trim, loop and patch a lot of short clips quickly. I&#x27;m new to video editing, and every tool people recommended needed an install and was built around editing one video at a time. So I made a basic browser version, free and no sign-up, and kept adding small things as I needed them: a loop finder (it searches the clip for the frame that best matches your in point), tilt, colour, patching, cropping, rotating, removing audio, and a batch export. Funnily enough there&#x27;s no AI in the editor itself. I know that&#x27;s the hype in video right now, but every test I did with AI editing or generation came out worse than just shooting more. So I shoot and edit a lot by hand, and use AI to build the tools that make that faster. Far from perfect, but it&#x27;s fast. Everything runs in the browser with ffmpeg.wasm and files never leave your machine. Straight cuts are a stream copy, so they take seconds. There&#x27;s an opt-in server option for re-encodes on slow machines or big files, which might fall over if too many of you try it at once. It&#x27;s mostly Claude-built. I know that puts some people off. I still think it&#x27;s useful: I couldn&#x27;t find an easy, no-install browser version of this, though I&#x27;m sure other tools do similar things. The nice part for me is that I can keep adding things myself. If there&#x27;s interest I might open source it, although honestly it&#x27;s not hard to rebuild with Claude.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://clipyouredit.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49860178",
+    "createdAt": "2026-09-26T21:55:12.481Z"
+  },
+  {
     "slug": "harness-router-github",
     "title": "harness-router",
     "shortDescription": "Fast decision routing for agent harnesses — native MCP with Jev for tool selection and MCTS for multi-step decisions.",
