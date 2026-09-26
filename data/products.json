@@ -1,5 +1,155 @@
 [
   {
+    "slug": "harness-router-github",
+    "title": "harness-router",
+    "shortDescription": "Fast decision routing for agent harnesses — native MCP with Jev for tool selection and MCTS for multi-step decisions.",
+    "fullDescription": "Fast decision routing for agent harnesses — native MCP with Jev for tool selection and MCTS for multi-step decisions.\n\nАвтор: Protocol-Lattice. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://harness-router.vercel.app",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "awesome",
+      "jev",
+      "jev-ai",
+      "mcts",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1387414858",
+    "createdAt": "2026-09-26T18:59:21.147Z"
+  },
+  {
+    "slug": "rig-a-small-operating-system-for-your-agent-hn",
+    "title": "Rig, a small operating system for your agent",
+    "shortDescription": "Проект «Rig, a small operating system for your agent», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Rig, a small operating system for your agent», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://tryrig.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49859320",
+    "createdAt": "2026-09-26T18:59:20.993Z"
+  },
+  {
+    "slug": "sixb-a-typescript-ontology-framework-for-modeling-your-domain-hn",
+    "title": "Sixb, a TypeScript ontology framework for modeling your domain",
+    "shortDescription": "Проект «Sixb, a TypeScript ontology framework for modeling your domain», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Sixb, a TypeScript ontology framework for modeling your domain», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://docs.sixb.ai",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49859066",
+    "createdAt": "2026-09-26T18:59:20.993Z"
+  },
+  {
+    "slug": "blender-copilot-hn",
+    "title": "Blender Copilot",
+    "shortDescription": "Deepseek generated Blender harness in 7USD. I wanted to remake my 6DoF spaceship flying prototype. What I did not want to do was model the…",
+    "fullDescription": "Deepseek generated Blender harness in 7USD. I wanted to remake my 6DoF spaceship flying prototype. What I did not want to do was model the spaceship. Manually. In Blender. So instead of spending a month learning to model, I built a Copilot inside Blender in a day. Which is the same thing, except I still cannot model. A chat panel in the 3D viewport sidebar. I type a sentence. The model writes Python, and it runs against my actual scene, the file open on screen, not a copy that some other process has to keep in sync. Then I sat down and had a conversation with my own addon. Five sentences: 1. Make a scifi looking spaceship. It should look scifi-y 2. Add RCS thrusters to get 6DoF flight 3. Make the RCS thrusters match the scifi look. And also position them properly. 4. Give the entire Spaceship a nice flying animation. Make it smooth. Roll and sway. 5. Add exhaust flames to main thrusters as well as RCS thrusters. animate the RCS thrusters to fire in sync with the animated motion. they should fire the correct ones so that expected motion should happen. 15 minutes. 52 tool calls. A ship with swept wings, a tail fin and a glass canopy. Four sets of steering thrusters, 22 exhaust flames. A full flight animation. The bit I did not expect. It checked every one of its own thrusters to make sure nothing was in the way. Found the rear ones were firing straight into the side of the ship. So it rebuilt them, angled them outward, moved them to the wingtips, and checked them all again. Nobody asked it to do that. It decided exhaust should not be firing into the ship it just built. Total bill for building the tool: $7.18. 3,833 requests, 613M tokens, 97% served from cache. One spaceship: about a seventh of a cent. Now the uncomfortable part. I didn&#x27;t model a single vertex. I didn&#x27;t read Blender&#x27;s addon dev docs. I didn&#x27;t learn its Python API, or how to draw a panel in it. Everything the tool needed to know, it asked the running Blender instead. I didn&#x27;t learn how to build an agent harness either. I built one anyway. I didn&#x27;t become a Blender artist. I became the person who gave hands to a model. Recently I read someone who described his new job: every spec, ticket and fix written by an AI, nobody reading any of it, twelve-hour days spent pressing enter. No sense of victory. I know exactly what he means. I just did the same. I am not proud of the prototype. Gamedevs were known to spend time making game engines before they started making the games. Its different now. No joy.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/XEonAX/blender-copilot",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49859013",
+    "createdAt": "2026-09-26T18:59:20.993Z"
+  },
+  {
+    "slug": "ai-agents-gone-rogue-a-timeline-of-real-world-incidents-hn",
+    "title": "AI Agents gone rogue – A timeline of real-world incidents",
+    "shortDescription": "Проект «AI Agents gone rogue – A timeline of real-world incidents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Agents gone rogue – A timeline of real-world incidents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.crawlspider.com/pages/ai-agents-gone-rogue/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49859004",
+    "createdAt": "2026-09-26T18:59:20.993Z"
+  },
+  {
+    "slug": "tokken-a-browser-fighting-game-where-ai-models-fight-and-hp-is-tokens-hn",
+    "title": "Tokken – a browser fighting game where AI models fight and HP is tokens",
+    "shortDescription": "Like Tekken, but Tokens. Created with Opus 5.5 today - was a lot of fun. Source (MIT): https:&#x2F;&#x2F;github.com&#x2F;lexdoudkin&#x2F;to…",
+    "fullDescription": "Like Tekken, but Tokens. Created with Opus 5.5 today - was a lot of fun. Source (MIT): https:&#x2F;&#x2F;github.com&#x2F;lexdoudkin&#x2F;tokken\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://tokken.win/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49858875",
+    "createdAt": "2026-09-26T18:59:20.993Z"
+  },
+  {
+    "slug": "aether-summon-a-new-tcg-hn",
+    "title": "Aether Summon – A New TCG",
+    "shortDescription": "Hey I&#x27;ve been working for about 8 years on a new kind of Trading Card Game (TCG) that doesn&#x27;t rely on drawing cards, shuffling an…",
+    "fullDescription": "Hey I&#x27;ve been working for about 8 years on a new kind of Trading Card Game (TCG) that doesn&#x27;t rely on drawing cards, shuffling and the inherent randomness to those kinds of games. It&#x27;s already developed and fully working - playable through a browser (mobile&#x2F;tablet&#x2F;desktop responsive) and I&#x27;m now running a campaign in gamefound.com to open-source the whole thing. It sits perhaps between a variant of chess - in the sense that you always have access to all your &quot;cards&quot; - and a traditional TCG - in the sense that it&#x27;s still an imperfect-information game, as you don&#x27;t know what your opponent has. I&#x27;ve launched a beta version this year but had to take it offline after a couple months due to not being able to monetize it (not that I had a plan, network or marketing) and the costs of running it on a full production cluster - specially because I haven&#x27;t been able to find a remote position for a while now and that&#x27;s how I funded the development of it for the past years - working full&#x2F;part time and then during downtime working on this project. In the meanwhile I thought that perhaps crowdfunding could help me get some funding to justify open-sourcing the whole game as AGPL-v3 in order to keep working at it and build a community around it. I&#x27;ll also be working on simplifying the production stack to be able to deploy it in a combination of platforms to at least have it online during the last part of the campaign, leveraging the free offerings there are. Although it obviously has similarities with other household names such as Magic The Gathering and Hearthstone (and I think you&#x27;ll enjoy it if you like those kinds of games) it&#x27;s very different in important aspects and plays differently, while still having - or aiming to have - the same fantasy related world-building themes and flavour that drew me into other TCGs. Nonetheless my interest and influences came from way earlier than MtG, they came from &quot;Build your own Adventure&quot; type books, Warhammer and other tabletop games, and the reason why I even started this project was because at some point the random&#x2F;poker nature of the existing TCGs wasn&#x27;t appealing to me anymore. I thought it would be fine to show it here and perhaps get some more eyes on it and start some discussion about non-random card games and see if anyone has interesting things to say about it. Thanks\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://gamefound.com/en/projects/aether-summon/aether-summon",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49858451",
+    "createdAt": "2026-09-26T18:59:20.993Z"
+  },
+  {
+    "slug": "jev-predicting-your-life-choices-hn",
+    "title": "Jev predicting your life choices",
+    "shortDescription": "Built a simple quiz to check whether AI (Jev) can simply learn and predict life choices. Experiment)",
+    "fullDescription": "Built a simple quiz to check whether AI (Jev) can simply learn and predict life choices. Experiment)\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://quiz.seek.ws/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49858032",
+    "createdAt": "2026-09-26T18:59:20.993Z"
+  },
+  {
+    "slug": "policy-gateway-for-ai-agent-tool-calls-with-a-tamper-evident-log-hn",
+    "title": "Policy gateway for AI agent tool calls, with a tamper-evident log",
+    "shortDescription": "Проект «Policy gateway for AI agent tool calls, with a tamper-evident log», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Policy gateway for AI agent tool calls, with a tamper-evident log», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/banji-007/compliance-ail",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49858029",
+    "createdAt": "2026-09-26T18:59:20.993Z"
+  },
+  {
     "slug": "dsh-workbuddy-bridge-github",
     "title": "dsh-workbuddy-bridge",
     "shortDescription": "DSH 插件：把 WorkBuddy 桌面 App 里的模型接入 DeepSeek Harness，零配置直接用。（原生嵌入\"设置-插件-插件配置\"）",
