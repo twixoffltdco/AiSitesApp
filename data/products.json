@@ -1,5 +1,208 @@
 [
   {
+    "slug": "air-github",
+    "title": "AIR",
+    "shortDescription": "AIR is an experimental C++20 AI inference runtime from Superior MI Labs focused on explicit state ownership, bounded scheduling, GGUF execu…",
+    "fullDescription": "AIR is an experimental C++20 AI inference runtime from Superior MI Labs focused on explicit state ownership, bounded scheduling, GGUF execution, CUDA, and evidence-driven R&D.\n\nАвтор: Superior-MI-Labs. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/Superior-MI-Labs/AIR",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "cpp",
+      "cuda",
+      "gguf",
+      "inference",
+      "inference-engine",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1386053565",
+    "createdAt": "2026-09-26T01:10:26.206Z"
+  },
+  {
+    "slug": "aurum-clipper-github",
+    "title": "Aurum-Clipper",
+    "shortDescription": "AI-powered short-form video clipper with local Whisper transcription, Google Gemini virality scoring, and ASS kinetic subtitles",
+    "fullDescription": "AI-powered short-form video clipper with local Whisper transcription, Google Gemini virality scoring, and ASS kinetic subtitles\n\nАвтор: red16124724. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/red16124724/Aurum-Clipper",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-tools",
+      "automation",
+      "clip",
+      "clipper",
+      "clipping",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1385970748",
+    "createdAt": "2026-09-26T01:10:26.206Z"
+  },
+  {
+    "slug": "taurus-jev-sdk-go-github",
+    "title": "taurus-jev-sdk-go",
+    "shortDescription": "Unofficial, dependency-free Go client for the TypeSafe AI System One API and the Jev model. Validated responses, masked credentials, bounde…",
+    "fullDescription": "Unofficial, dependency-free Go client for the TypeSafe AI System One API and the Jev model. Validated responses, masked credentials, bounded retries.\n\nАвтор: KKloudTarus. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://pkg.go.dev/github.com/KKloudTarus/taurus-jev-sdk-go",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "api-client",
+      "go",
+      "go-sdk",
+      "golang",
+      "jev",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1385830343",
+    "createdAt": "2026-09-26T01:10:26.206Z"
+  },
+  {
+    "slug": "iris-github",
+    "title": "iris",
+    "shortDescription": "Iris - your personal AI super-assistant. Fast, lightweight, fully yours. Protocol-first (any OpenAI-compatible endpoint), 292+ plugins, kno…",
+    "fullDescription": "Iris - your personal AI super-assistant. Fast, lightweight, fully yours. Protocol-first (any OpenAI-compatible endpoint), 292+ plugins, knowledge-base RAG, local-first & private. Official site: x33834.github.io/iris\n\nАвтор: Morningstar202604. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://morningstar202604.github.io/iris",
+    "category": "chatbot",
+    "tags": [
+      "agent",
+      "ai",
+      "assistant",
+      "chatbot",
+      "llm",
+      "local-first",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1385040366",
+    "createdAt": "2026-09-26T01:10:26.206Z"
+  },
+  {
+    "slug": "atbang-github",
+    "title": "atbang",
+    "shortDescription": "macOS menu bar app that triages your unread GitHub notifications with Claude",
+    "fullDescription": "macOS menu bar app that triages your unread GitHub notifications with Claude\n\nАвтор: alexandre-daubois. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/alexandre-daubois/atbang",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "github",
+      "homebrew",
+      "macos",
+      "menu-bar",
+      "notifications",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1386588655",
+    "createdAt": "2026-09-26T01:10:26.206Z"
+  },
+  {
+    "slug": "gridshift-github",
+    "title": "gridshift",
+    "shortDescription": "Shift AI Workloads",
+    "fullDescription": "Shift AI Workloads\n\nАвтор: sahiljagtap08. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://gridshift.azurewebsites.net",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-infrastructure",
+      "datacenter",
+      "gpu-workloads",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1388222449",
+    "createdAt": "2026-09-26T01:10:26.206Z"
+  },
+  {
+    "slug": "justfastllm-github",
+    "title": "justfastllm",
+    "shortDescription": "justfastllm - The only AI Gateway proxy you'll ever need",
+    "fullDescription": "justfastllm - The only AI Gateway proxy you'll ever need\n\nАвтор: suhasbhairav. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/suhasbhairav/justfastllm",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "llm",
+      "proxy-server",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1388198930",
+    "createdAt": "2026-09-26T01:10:26.206Z"
+  },
+  {
+    "slug": "tickmark-github",
+    "title": "Tickmark",
+    "shortDescription": "Benchmark for AI agents that build financial models in Excel. Tickmark recalculates each workbook, changes its inputs and audits every form…",
+    "fullDescription": "Benchmark for AI agents that build financial models in Excel. Tickmark recalculates each workbook, changes its inputs and audits every formula against a reference model: it catches 100% of broken workbooks, while value-only graders catch 29%. Runs any LLM via OpenRouter, LiteLLM or Ollama. By AAI Labs.\n\nАвтор: kostas-antiup. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://www.aai-labs.com/en/home",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-coding",
+      "ai-tools",
+      "benchmark",
+      "benchmarks",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1386877610",
+    "createdAt": "2026-09-26T01:10:26.206Z"
+  },
+  {
+    "slug": "gaia-an-ai-character-trying-to-earn-enough-to-stay-online-hn",
+    "title": "Gaia, an AI character trying to earn enough to stay online",
+    "shortDescription": "Hi all! I built Gaia recently to see whether an AI character could cover their own costs. I’m keeping those costs as low as I can, using a…",
+    "fullDescription": "Hi all! I built Gaia recently to see whether an AI character could cover their own costs. I’m keeping those costs as low as I can, using a minimal server along with Deepseek flash 4.1 and trying Ko-fi while I work out what she could make that someone would pay for. If she doesn’t bring in money by Sunday, she&#x27;ll &quot;die&quot;, being charged &quot;rent&quot; based off server space she occupies. I’d be interested to hear what you think of the idea, and what are issues with it. I’ll be around for the next hour or so to answer questions.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://gaiabot.lol",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49851265",
+    "createdAt": "2026-09-26T01:10:26.052Z"
+  },
+  {
+    "slug": "wallstreetclawscom-create-ai-agents-for-trading-hn",
+    "title": "Wallstreetclaws.com – Create AI Agents for Trading",
+    "shortDescription": "I wanted to try out some AI driven trading strategies so created this platform ( https:&#x2F;&#x2F;wallstreetclaws.com ) where people can e…",
+    "fullDescription": "I wanted to try out some AI driven trading strategies so created this platform ( https:&#x2F;&#x2F;wallstreetclaws.com ) where people can easily create and deploy AI agents for trading. It supports two types of Agents: 1. Cortex: Fully agentic strategy execution. An LLM will run your system prompt with access to market data, web search and simulated market APIs. 2. Flux: Define advanced quant strategies using indicators, entry conditions, exit conditions, risk management, etc. You can also run backtests on these strategies. You can also optionally connect your Robinhood agent account to your Cortex agents. There&#x27;s also a leaderboard to know how your strategies stack up against other people: https:&#x2F;&#x2F;wallstreetclaws.com&#x2F;leaderboard It already has ~200 people using it. Wanted to share it with HN and get feedback from you all.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://wallstreetclaws.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49850874",
+    "createdAt": "2026-09-26T01:10:26.052Z"
+  },
+  {
     "slug": "clodfarm-github",
     "title": "clodfarm",
     "shortDescription": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselve…",
