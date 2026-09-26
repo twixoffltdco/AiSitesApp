@@ -1,5 +1,49 @@
 [
   {
+    "slug": "llmao-github",
+    "title": "llmao",
+    "shortDescription": "Just as wrong. Way cheaper. A fake LLM powered by regex: mock OpenAI, Anthropic and the Vercel AI SDK in Jest, Vitest or any test runner.",
+    "fullDescription": "Just as wrong. Way cheaper. A fake LLM powered by regex: mock OpenAI, Anthropic and the Vercel AI SDK in Jest, Vitest or any test runner.\n\nАвтор: icernigoj. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://www.npmjs.com/package/llmao",
+    "category": "developer",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-sdk",
+      "anthropic",
+      "fake-llm",
+      "humor",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1385658477",
+    "createdAt": "2026-09-26T06:23:15.766Z"
+  },
+  {
+    "slug": "jev-test-impact-github",
+    "title": "jev-test-impact",
+    "shortDescription": "Ultra-fast test impact analysis powered by Jev. Run only the tests that matter.",
+    "fullDescription": "Ultra-fast test impact analysis powered by Jev. Run only the tests that matter.\n\nАвтор: holasoymalva. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/holasoymalva/jev-test-impact",
+    "category": "developer",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "ci-cd",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1386699234",
+    "createdAt": "2026-09-26T06:23:15.766Z"
+  },
+  {
     "slug": "air-github",
     "title": "AIR",
     "shortDescription": "AIR is an experimental C++20 AI inference runtime from Superior MI Labs focused on explicit state ownership, bounded scheduling, GGUF execu…",
