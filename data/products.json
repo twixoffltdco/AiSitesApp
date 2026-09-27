@@ -1,5 +1,170 @@
 [
   {
+    "slug": "meraline-github",
+    "title": "meraline",
+    "shortDescription": "Ask AI anything from ⌥ Space in any Mac app, then let it go. Apple Intelligence, API keys, Ollama, Claude Code, Codex. Chats stay in memory…",
+    "fullDescription": "Ask AI anything from ⌥ Space in any Mac app, then let it go. Apple Intelligence, API keys, Ollama, Claude Code, Codex. Chats stay in memory only.\n\nАвтор: Meldiron. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/Meldiron/meraline/releases/latest",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "apple-intelligence",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1387690378",
+    "createdAt": "2026-09-27T11:22:14.035Z"
+  },
+  {
+    "slug": "a2web-to-api-github",
+    "title": "a2web-to-api",
+    "shortDescription": "Multi-provider web-to-API bridge: Gemini, DeepSeek, ChatGPT, Grok, Claude + custom — all behind one OpenAI-compatible endpoint",
+    "fullDescription": "Multi-provider web-to-API bridge: Gemini, DeepSeek, ChatGPT, Grok, Claude + custom — all behind one OpenAI-compatible endpoint\n\nАвтор: ayushrajdev9-cmyk. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/ayushrajdev9-cmyk/a2web-to-api",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "anthropic",
+      "api-proxy",
+      "chatgpt",
+      "claude",
+      "deepseek",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1387915173",
+    "createdAt": "2026-09-27T11:22:14.035Z"
+  },
+  {
+    "slug": "exploraition-education-github",
+    "title": "Exploraition-Education",
+    "shortDescription": "Hackthon eksploraition",
+    "fullDescription": "Hackthon eksploraition\n\nАвтор: zeovarince. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://modulin-ai.vercel.app",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "web",
+      "wpa",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1388781998",
+    "createdAt": "2026-09-27T11:22:14.035Z"
+  },
+  {
+    "slug": "pokemon-claude-red-github",
+    "title": "pokemon-claude-red",
+    "shortDescription": "Pokémon Red, rebuilt from raw pixels by Claude Opus 5.5. Every sprite, tile, battle effect and song is code: zero image files. Plays in the…",
+    "fullDescription": "Pokémon Red, rebuilt from raw pixels by Claude Opus 5.5. Every sprite, tile, battle effect and song is code: zero image files. Plays in the browser.\n\nАвтор: levy-street. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://claudered.dev",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "browser-game",
+      "claude",
+      "claude-code",
+      "fan-game",
+      "game-boy",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1389857617",
+    "createdAt": "2026-09-27T11:22:14.035Z"
+  },
+  {
+    "slug": "tanstack-start-and-tanstack-ai-jev-integration-hn",
+    "title": "TanStack Start and TanStack AI Jev Integration",
+    "shortDescription": "Проект «TanStack Start and TanStack AI Jev Integration», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «TanStack Start and TanStack AI Jev Integration», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://vercel.com/i/using-jev-in-tanstack-start-with-tanstack-ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49865266",
+    "createdAt": "2026-09-27T11:22:13.941Z"
+  },
+  {
+    "slug": "gigantua-a-black-hole-in-your-browser-hn",
+    "title": "Gigantua – A Black Hole in your Browser",
+    "shortDescription": "Проект «Gigantua – A Black Hole in your Browser», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Gigantua – A Black Hole in your Browser», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://claude.ai/artifact/XmWGFtQPgn8aJvU193Ksf8",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49864907",
+    "createdAt": "2026-09-27T11:22:13.941Z"
+  },
+  {
+    "slug": "ai-svg-generator-hn",
+    "title": "AI SVG Generator",
+    "shortDescription": "Make vector logos, icons and illustrations from text, or convert an existing image to SVG, with a free preview before you sign in.",
+    "fullDescription": "Make vector logos, icons and illustrations from text, or convert an existing image to SVG, with a free preview before you sign in.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://imgstyler.com/ai-svg-generator",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49864635",
+    "createdAt": "2026-09-27T11:22:13.941Z"
+  },
+  {
+    "slug": "a-simple-gpu-job-scheduler-hn",
+    "title": "A Simple GPU Job Scheduler",
+    "shortDescription": "Hi guys, A few months ago, I&#x27;ve been training several simple models as a side hobby. I tried training N models at once on a single GPU…",
+    "fullDescription": "Hi guys, A few months ago, I&#x27;ve been training several simple models as a side hobby. I tried training N models at once on a single GPU, but OOM spikes kept crashing my runs. So I built my own simple way to manage this kind of training. At the time, I also wanted to make some sort of interface that AI agents could use to dynamically allocate GPU resources and train models on their own. It&#x27;s been quite fun working on this, so I wanted to share it in case any of you are looking for something similar. Claude helped me write most of the code, but I&#x27;ve made sure that the stuff works as described (I&#x27;ve used this exact repo for my own training runs). Hope you like it!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/ceruleane/gpusched",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49864439",
+    "createdAt": "2026-09-27T11:22:13.941Z"
+  },
+  {
+    "slug": "ppgrid-rasterising-points-in-minutes-not-hours-hn",
+    "title": "Ppgrid – Rasterising points in minutes, not hours",
+    "shortDescription": "Hi all, I wanted to share a recent library I made for myself since I continually have to work with large-scale point data spanning millions…",
+    "fullDescription": "Hi all, I wanted to share a recent library I made for myself since I continually have to work with large-scale point data spanning millions of rows. I generally found existing IDW tools are insanely slow and unreliable with the datasets I commonly work with. ppgrid is an open source GIS tool and it is intended to create beautiful visualisations that don&#x27;t take an absurd amount of time to process. It uses a modified Inverse Distance Weighting (IDW) approach: instead of having to traverse every single point for every single grid O(N*M), it precalculates which points intersect which grids. This means that we essentially avoid the multiplicative scaling costs associated with traditional IDW. For perspective, ppgrid is significantly faster than IDW from the likes of gdal_grid or GRASS, in the order of 17x faster. I say in the order of as I couldn&#x27;t really effectively test IDW on the crappy laptop I use beyond 1M points, where as ppgrid happily chewed through 16mil points. My goals&#x2F;intention for this post is twofold: - looking to share it as a tool for anyone who may find it relevant or useful - looking to stress-test it with different types of point data and try to surface any quirks, bugs or random edge case failures Important note which I discuss more in my write-up: ppgrid is not yet stress-tested or validated in terms of statistical correctness, as my current use case prioritises visualisation. AI Disclosure &amp; Creds: I&#x27;ve been pair-coding this with my local Qwen3.8 27B agent, I discuss this in my write-up further. I have ~9YoE in GIS work and ~10YoE as a fullstack. GitHub Repo: https:&#x2F;&#x2F;github.com&#x2F;marzukia&#x2F;ppgrid&#x2F; Any other feedback&#x2F;comments are welcome, please let me know if this has helped as I&#x27;d love to see it in action.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://mrzk.io/posts/ppgrid-fast-continentscale-raster-interpolation/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49864205",
+    "createdAt": "2026-09-27T11:22:13.941Z"
+  },
+  {
     "slug": "aharou-github",
     "title": "Aharou",
     "shortDescription": "Aharou · 手机上的 AI 助手与 Coding Agent（内置 Linux 环境 · 影子屏）",
