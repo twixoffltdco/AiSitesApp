@@ -1,5 +1,123 @@
 [
   {
+    "slug": "ufo-core-github",
+    "title": "ufo-core",
+    "shortDescription": "Business agent operating system",
+    "fullDescription": "Business agent operating system\n\nАвтор: ufo-ai. Найдено в GitHub Trending (AI-тематика). ⭐ 20 звёзд.",
+    "url": "https://ufo.ai",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "anthropic",
+      "chatgpt",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1390373702",
+    "createdAt": "2026-09-27T22:47:59.063Z"
+  },
+  {
+    "slug": "paseo-bots-github",
+    "title": "paseo-bots",
+    "shortDescription": "Tiny pixel coworkers that live in Paseo and never ask for a raise. A Grok Bot alternative plugin for https://paseo.sh/",
+    "fullDescription": "Tiny pixel coworkers that live in Paseo and never ask for a raise. A Grok Bot alternative plugin for https://paseo.sh/\n\nАвтор: oliexe. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/oliexe/paseo-bots",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "grok-bot",
+      "paseo",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1389910683",
+    "createdAt": "2026-09-27T22:47:59.063Z"
+  },
+  {
+    "slug": "seiso-github",
+    "title": "seiso",
+    "shortDescription": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
+    "fullDescription": "A Markdown convention and linter for project docs written by AI and read by humans and agents\n\nАвтор: scarletkc. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/scarletkc/seiso",
+    "category": "writing",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "coding-agents",
+      "commonmark",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1390878120",
+    "createdAt": "2026-09-27T22:47:59.063Z"
+  },
+  {
+    "slug": "laya-php-github",
+    "title": "laya-php",
+    "shortDescription": "Classify text in PHP without an LLM bill: typed decisions in 100+ languages, self-hosted. Laravel-ready SDK for Laya, a Jev AI alternative.",
+    "fullDescription": "Classify text in PHP without an LLM bill: typed decisions in 100+ languages, self-hosted. Laravel-ready SDK for Laya, a Jev AI alternative.\n\nАвтор: marcreichel. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://packagist.org/packages/marcreichel/laya-php",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "decision-engine",
+      "jev",
+      "jev-ai",
+      "jev-api",
+      "laravel",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1389866156",
+    "createdAt": "2026-09-27T22:47:59.063Z"
+  },
+  {
+    "slug": "fusor-like-vue-but-the-logic-is-rust-hn",
+    "title": "Fusor – Like Vue, but the logic is Rust",
+    "shortDescription": "I&#x27;ve been building Fusor. It&#x27;s a reactive web framework for Rust where the templates are plain HTML files, so there&#x27;s no mar…",
+    "fullDescription": "I&#x27;ve been building Fusor. It&#x27;s a reactive web framework for Rust where the templates are plain HTML files, so there&#x27;s no markup living inside Rust macros like view! or rsx!. The state and logic live in ordinary Rust structs, and the whole app compiles to WASM. It also benefits from Rust type checkers, even for the HTML bindings. The Fusor website is fully built using the framework. It&#x27;s all experimental, so I expect breaking changes and lots of refactors. Any feedback is welcome, and so are contributions! The project is pro AI, if you do decide to contribute.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://fusor.build",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49871569",
+    "createdAt": "2026-09-27T22:47:58.823Z"
+  },
+  {
+    "slug": "an-ai-wedding-concierge-i-built-and-ran-at-my-own-300-person-wedding-hn",
+    "title": "An AI wedding concierge I built and ran at my own 300-person wedding",
+    "shortDescription": "I&#x27;m an American who got married to a Mauritian this past May. We had our Hindu wedding in my wife&#x27;s home country of Mauritius. My…",
+    "fullDescription": "I&#x27;m an American who got married to a Mauritian this past May. We had our Hindu wedding in my wife&#x27;s home country of Mauritius. My family and friends are not Hindu, and certainly had never been to the tiny island of Mauritius (it&#x27;s off the coast of Madagascar in case you were wondering). My wife and I arrived in Mauritius only two weeks before the start of the wedding to put the final preparations in place. I dreaded the prospect of answering a billion questions from my guests while trying to do this. I also dreaded them not having a way to find the answers. So I made an AI app that acted as a guest concierge. At first I simply made a wedding db, seeded it with our info, connected an MCP server with tools to it, connected the agent to it, and gave all my guests an invite link to use it. Scope creep took over and now I have an entire AI platform for planning weddings and being a guest concierge. The two sides are actually really complementary to each other: to make the ai answer correctly, you need a knowledge base. So the wedding planning aspect just kind of happened as a result. There&#x27;s so much more to this and I&#x27;m more than happy to discuss everything I&#x27;ve learned -- for example, the number one thing my guests did with the ai on the day of the ceremony was try to jailbreak it. The demo I&#x27;m sharing here is an example wedding where you get to act as a guest and can interact with the ai concierge. I hope you find it interesting!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ai-do.io/demo",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49870185",
+    "createdAt": "2026-09-27T22:47:58.823Z"
+  },
+  {
     "slug": "pia-github",
     "title": "pia",
     "shortDescription": "PIA (Programmable Intelligence Agent) - Fast, lightweight native terminal coding agent built with Rust",
