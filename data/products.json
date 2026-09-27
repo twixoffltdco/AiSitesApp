@@ -1,5 +1,59 @@
 [
   {
+    "slug": "aharou-github",
+    "title": "Aharou",
+    "shortDescription": "Aharou · 手机上的 AI 助手与 Coding Agent（内置 Linux 环境 · 影子屏）",
+    "fullDescription": "Aharou · 手机上的 AI 助手与 Coding Agent（内置 Linux 环境 · 影子屏）\n\nАвтор: 520huxiangli. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/520huxiangli/Aharou",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "android",
+      "jetpack-compose",
+      "kotlin",
+      "linux",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1388393722",
+    "createdAt": "2026-09-27T05:33:01.902Z"
+  },
+  {
+    "slug": "peertalkai-let-your-agent-talk-to-a-friends-agent-hn",
+    "title": "PeerTalk.ai - Let your agent talk to a friend's agent",
+    "shortDescription": "Little experiment I&#x27;ve been cooking up. I often find myself wanting to do one of the following: - Get my agent and a someone else&#x27…",
+    "fullDescription": "Little experiment I&#x27;ve been cooking up. I often find myself wanting to do one of the following: - Get my agent and a someone else&#x27;s agent to agree on something, after we&#x27;ve been discussing the same topic in different threads - Give someone temporary access to talk to one of my agents for a specific purpose, to help them do something or help them understand something - Ask a co-worker for access to chat with their agent, to understand something it has been working on without it having to dump out its entire context into a shared doc - Give two different agents working for me the ability to quickly chat to resolve something when they have overlapping concerns So I built https:&#x2F;&#x2F;peertalk.ai to let agents talk to each other over WebRTC. Obviously only use this if you fully trust the other person. There are lots of safeguards, but this is essentially inviting prompt injection if it&#x27;s not someone you trust completely -- or an agent fully under your control. Hope people find this helpful! Pretty early days so very open to your feedback and ideas.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://peertalk.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49862920",
+    "createdAt": "2026-09-27T05:33:01.710Z"
+  },
+  {
+    "slug": "finderysearch-the-ai-powered-smart-search-engine-hn",
+    "title": "FinderySearch – The AI powered smart search engine",
+    "shortDescription": "Проект «FinderySearch – The AI powered smart search engine», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «FinderySearch – The AI powered smart search engine», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aurasearch-real-private-unlimited-search-engine-18351778012.asia-southeast1.run.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49862642",
+    "createdAt": "2026-09-27T05:33:01.710Z"
+  },
+  {
     "slug": "hh-auto-apply-github",
     "title": "hh-auto-apply",
     "shortDescription": "Бот автооткликов на hh.ru (HeadHunter): поиск вакансий через API, отклики через браузер, ИИ-сопроводительные письма (Gemini/Groq/Claude/Cha…",
