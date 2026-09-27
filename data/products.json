@@ -1,5 +1,146 @@
 [
   {
+    "slug": "hh-auto-apply-github",
+    "title": "hh-auto-apply",
+    "shortDescription": "Бот автооткликов на hh.ru (HeadHunter): поиск вакансий через API, отклики через браузер, ИИ-сопроводительные письма (Gemini/Groq/Claude/Cha…",
+    "fullDescription": "Бот автооткликов на hh.ru (HeadHunter): поиск вакансий через API, отклики через браузер, ИИ-сопроводительные письма (Gemini/Groq/Claude/ChatGPT), ответы на анкеты, разбор отказов и автоподъём резюме. Бесплатно вместо hh PRO.\n\nАвтор: madnessbrainsbl. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/madnessbrainsbl/hh-auto-apply",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "auto-apply",
+      "automation",
+      "autoresponder",
+      "bot",
+      "cover-letter",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1388672415",
+    "createdAt": "2026-09-27T00:12:37.447Z"
+  },
+  {
+    "slug": "unlimitedclaude-aichat-github",
+    "title": "Unlimited.Claude-AI.Chat",
+    "shortDescription": "Self-hosted AI chat app with vision, image & video generation, and free unlimited AI via Puter — Next.js + TypeScript.",
+    "fullDescription": "Self-hosted AI chat app with vision, image & video generation, and free unlimited AI via Puter — Next.js + TypeScript.\n\nАвтор: MehrzadArianMehr. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/MehrzadArianMehr/Unlimited.Claude-AI.Chat",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-chat",
+      "ai-coding",
+      "ai-model",
+      "ai-tools",
+      "chatbot",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1389472921",
+    "createdAt": "2026-09-27T00:12:37.447Z"
+  },
+  {
+    "slug": "mymemory-github",
+    "title": "myMemory",
+    "shortDescription": "A local-first memory service for humans and AI agents.",
+    "fullDescription": "A local-first memory service for humans and AI agents.\n\nАвтор: georgeyang1024. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/georgeyang1024/myMemory",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "ai-memory",
+      "ai-memory-management",
+      "ai-memory-system",
+      "ai-tools",
+      "knowledge-base",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1388468042",
+    "createdAt": "2026-09-27T00:12:37.447Z"
+  },
+  {
+    "slug": "zuma-gba-github",
+    "title": "zuma-gba",
+    "shortDescription": "GBA remake of the classic PopCap game Zuma, made with AI",
+    "fullDescription": "GBA remake of the classic PopCap game Zuma, made with AI\n\nАвтор: hjcoggan. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/hjcoggan/zuma-gba",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "gameboy",
+      "gba",
+      "nintendo",
+      "retro",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1387491138",
+    "createdAt": "2026-09-27T00:12:37.447Z"
+  },
+  {
+    "slug": "banditboard-github",
+    "title": "banditboard",
+    "shortDescription": "Turn an old Android phone into a Claude Code usage monitor 🦝",
+    "fullDescription": "Turn an old Android phone into a Claude Code usage monitor 🦝\n\nАвтор: suiciniv-dev. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/suiciniv-dev/banditboard",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "android",
+      "android-app",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1387404973",
+    "createdAt": "2026-09-27T00:12:37.447Z"
+  },
+  {
+    "slug": "detailed-guide-to-agent-memory-hn",
+    "title": "Detailed Guide to Agent Memory",
+    "shortDescription": "I wrote a detailed guide to agent memory from the perspective of a builder in the space that has been doing it for 3 years. Hope you like i…",
+    "fullDescription": "I wrote a detailed guide to agent memory from the perspective of a builder in the space that has been doing it for 3 years. Hope you like it, and would love to hear feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.cognee.ai/agent-memory",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49861765",
+    "createdAt": "2026-09-27T00:12:37.342Z"
+  },
+  {
+    "slug": "newt-a-swift-package-for-jev-style-decisions-on-apple-core-ai-hn",
+    "title": "Newt – A Swift Package for Jev-Style Decisions on Apple Core AI",
+    "shortDescription": "Проект «Newt – A Swift Package for Jev-Style Decisions on Apple Core AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Newt – A Swift Package for Jev-Style Decisions on Apple Core AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/willswire/swift-newt",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49861306",
+    "createdAt": "2026-09-27T00:12:37.342Z"
+  },
+  {
     "slug": "grev-github",
     "title": "grev",
     "shortDescription": "Thinking coreutils",
