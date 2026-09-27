@@ -1,5 +1,75 @@
 [
   {
+    "slug": "omnesis-github",
+    "title": "Omnesis",
+    "shortDescription": "Index, search, and reason about your entire digital life.",
+    "fullDescription": "Index, search, and reason about your entire digital life.\n\nАвтор: omnesis-dev. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://omnesis.dev",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "context",
+      "lifelogging",
+      "local-first",
+      "mcp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1387224765",
+    "createdAt": "2026-09-27T15:45:12.376Z"
+  },
+  {
+    "slug": "ai-agent-running-cost-calculator-and-when-a-saas-platform-is-cheaper-hn",
+    "title": "AI agent running cost calculator (and when a SaaS platform is cheaper)",
+    "shortDescription": "Проект «AI agent running cost calculator (and when a SaaS platform is cheaper)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI agent running cost calculator (and when a SaaS platform is cheaper)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://broutonlab.com/calculators/how-much-does-an-ai-agent-cost/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49866912",
+    "createdAt": "2026-09-27T15:45:12.206Z"
+  },
+  {
+    "slug": "augur-sandboxed-macos-vms-with-xcode-for-ai-coding-agents-hn",
+    "title": "Augur – Sandboxed macOS VMs with Xcode for AI Coding Agents",
+    "shortDescription": "Проект «Augur – Sandboxed macOS VMs with Xcode for AI Coding Agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Augur – Sandboxed macOS VMs with Xcode for AI Coding Agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/h1d3mun3/augur",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49866246",
+    "createdAt": "2026-09-27T15:45:12.206Z"
+  },
+  {
+    "slug": "an-openai-compatible-model-agnostic-agent-api-hn",
+    "title": "An OpenAI-compatible, model-agnostic agent API",
+    "shortDescription": "Проект «An OpenAI-compatible, model-agnostic agent API», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An OpenAI-compatible, model-agnostic agent API», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://rebyte.ai/docs/agents-api/overview",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49865755",
+    "createdAt": "2026-09-27T15:45:12.206Z"
+  },
+  {
     "slug": "meraline-github",
     "title": "meraline",
     "shortDescription": "Ask AI anything from ⌥ Space in any Mac app, then let it go. Apple Intelligence, API keys, Ollama, Claude Code, Codex. Chats stay in memory…",
