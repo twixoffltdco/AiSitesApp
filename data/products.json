@@ -1,5 +1,97 @@
 [
   {
+    "slug": "voinoi-github",
+    "title": "voinoi",
+    "shortDescription": "VoiNoi: Vietnamese speech to text into any focused field on Windows, document read-aloud, voice chat. Nói tiếng Việt thành chữ vào đúng ô đ…",
+    "fullDescription": "VoiNoi: Vietnamese speech to text into any focused field on Windows, document read-aloud, voice chat. Nói tiếng Việt thành chữ vào đúng ô đang chọn, đọc to tài liệu, trò chuyện bằng giọng nói\n\nАвтор: ducdg88. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://ducpt.com/bai-viet/vietnamese-voice-mic-coding-bang-giong-noi/",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "dictation",
+      "ducpt",
+      "productivity",
+      "speech-to-text",
+      "text-to-speech",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1388851927",
+    "createdAt": "2026-09-28T07:17:43.177Z"
+  },
+  {
+    "slug": "bricka-github",
+    "title": "bricka",
+    "shortDescription": "🧱 A composable input for AI apps in React.",
+    "fullDescription": "🧱 A composable input for AI apps in React.\n\nАвтор: mirayavandiepen. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://bricka.mirayavandiepen.com",
+    "category": "ai-tool",
+    "tags": [
+      "accessibility",
+      "ai",
+      "autocomplete",
+      "chat",
+      "composer",
+      "contenteditable",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1391608335",
+    "createdAt": "2026-09-28T07:17:43.177Z"
+  },
+  {
+    "slug": "fab-a-benchmark-for-ai-agents-doing-financial-due-diligence-hn",
+    "title": "FAB – A benchmark for AI agents doing financial due diligence",
+    "shortDescription": "The world economy around us depends on complex financial work. How well can AI do it? We(a team of ex-EY employees) built FAB - Finance Age…",
+    "fullDescription": "The world economy around us depends on complex financial work. How well can AI do it? We(a team of ex-EY employees) built FAB - Finance Agents Benchmark, testing AI Agents on the work behind financial due diligence. Agents can find the relevant facts, but still struggle to carry them through to a complete, reliable analysis. We’ll keep expanding FAB to more companies and testing more models. Building and running this benchmark isn’t cheap, so we’re scaling it in stages. The benchmark is public. GitHub: Hugging Face: https:&#x2F;&#x2F;github.com&#x2F;SecondState-ai&#x2F;finance-agents-benchmark data room and tasks: https:&#x2F;&#x2F;huggingface.co&#x2F;datasets&#x2F;secondstate&#x2F;finance-agents-b...\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/SecondState-ai/finance-agents-benchmark",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49874360",
+    "createdAt": "2026-09-28T07:17:42.954Z"
+  },
+  {
+    "slug": "panda-the-worlds-first-personal-ai-computer-hn",
+    "title": "Panda, the world's first personal AI computer",
+    "shortDescription": "We&#x27;re building an AI computer for consumers, most of whom are quite hesitant with existing services due to privacy concerns and becaus…",
+    "fullDescription": "We&#x27;re building an AI computer for consumers, most of whom are quite hesitant with existing services due to privacy concerns and because of costs that add up when using various AI tools.\n\nНайдено в разделе Show HN на Hacker News. 👍 8 баллов.",
+    "url": "https://pandax1.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49872550",
+    "createdAt": "2026-09-28T07:17:42.955Z"
+  },
+  {
+    "slug": "stepgate-ai-agents-that-cant-skip-steps-in-one-portable-file-hn",
+    "title": "Stepgate – AI agents that can't skip steps, in one portable file",
+    "shortDescription": "Проект «Stepgate – AI agents that can't skip steps, in one portable file», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Stepgate – AI agents that can't skip steps, in one portable file», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Chaarangan/stepgate",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49872350",
+    "createdAt": "2026-09-28T07:17:42.955Z"
+  },
+  {
     "slug": "liftoff-github",
     "title": "liftoff",
     "shortDescription": "From idea to liftoff: type a sentence, get a secure Azure architecture you can deploy. Visual designer, AI-generated Bicep/Terraform, 106 s…",
