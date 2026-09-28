@@ -1,5 +1,117 @@
 [
   {
+    "slug": "liftoff-github",
+    "title": "liftoff",
+    "shortDescription": "From idea to liftoff: type a sentence, get a secure Azure architecture you can deploy. Visual designer, AI-generated Bicep/Terraform, 106 s…",
+    "fullDescription": "From idea to liftoff: type a sentence, get a secure Azure architecture you can deploy. Visual designer, AI-generated Bicep/Terraform, 106 security guardrails, What-If preview.\n\nАвтор: mdmudassirahmed. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/mdmudassirahmed/liftoff",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "azure",
+      "azure-ai-foundry",
+      "bicep",
+      "cloud-security",
+      "devops",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1388927488",
+    "createdAt": "2026-09-28T01:23:23.912Z"
+  },
+  {
+    "slug": "helping-station-deu-github",
+    "title": "helping-station-deu",
+    "shortDescription": "Student volunteer & verifiable lucky-draw platform at Dong-Eui University. Next.js 15 · Prisma · Postgres",
+    "fullDescription": "Student volunteer & verifiable lucky-draw platform at Dong-Eui University. Next.js 15 · Prisma · Postgres\n\nАвтор: kulraj025. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://helping-station-deu.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "deployment",
+      "learning",
+      "vibecoding",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1388347927",
+    "createdAt": "2026-09-28T01:23:23.912Z"
+  },
+  {
+    "slug": "open-workbench-github",
+    "title": "open-workbench",
+    "shortDescription": "OpenWorkbench - 本地优先、零依赖的个人工作台（前端+后端一体，支持自托管与开源回环）",
+    "fullDescription": "OpenWorkbench - 本地优先、零依赖的个人工作台（前端+后端一体，支持自托管与开源回环）\n\nАвтор: ZhangZhangooo. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/ZhangZhangooo/open-workbench",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "local-first",
+      "ollama",
+      "openclaw",
+      "personal-dashboard",
+      "python",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1389246818",
+    "createdAt": "2026-09-28T01:23:23.912Z"
+  },
+  {
+    "slug": "ghostfox-self-hosted-stealth-browser-for-ai-agents-hn",
+    "title": "Ghostfox – Self-hosted stealth browser for AI agents",
+    "shortDescription": "Проект «Ghostfox – Self-hosted stealth browser for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Ghostfox – Self-hosted stealth browser for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/autokeren/ghostfox",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49872295",
+    "createdAt": "2026-09-28T01:23:23.836Z"
+  },
+  {
+    "slug": "parkournote-a-research-workspace-built-solo-in-a-month-with-claude-hn",
+    "title": "ParkourNote – A research workspace, built solo in a month with Claude",
+    "shortDescription": "Hi HN, I&#x27;m sushi. I built ParkourNote, a personal knowledge management app that currently focuses on research: finding papers, reading…",
+    "fullDescription": "Hi HN, I&#x27;m sushi. I built ParkourNote, a personal knowledge management app that currently focuses on research: finding papers, reading PDFs, asking AI about them, and writing. A few things it does: Describe a topic, and an agent creates a project, searches arXiv, and imports relevant papers The PDF reader previews citations on hover, overlays translations on the page, and shows original and translated text side by side The agent sees the page you&#x27;re reading and your selection; you can also connect Claude or ChatGPT via MCP A block editor with math support that compiles LaTeX &#x2F; Typst to PDF Demo (7 min): https:&#x2F;&#x2F;youtu.be&#x2F;yZs2nQJtgkg ParkourNote is just me. I built it in about a month: the web app, a Flutter mobile app, and a Chrome extension. It isn&#x27;t even my full-time job. I work on it for an hour or two in the morning before work, plus evenings and weekends. Two things surprised me along the way: - The web app uses BlockNote for Notion-style editing, but I wanted Flutter for mobile. I asked Claude to implement a compatible editor in Flutter. It took about a day, and it works: documents round-trip between web and mobile. - In high school I worked as a video editor for MarginNote. Back then, a single 5-minute video took about a month, from scripting to recording, editing, and animation. For ParkourNote, I made launch videos for the Chinese, English, Japanese, and Korean markets in one weekend, plus a second Chinese version cut for portrait viewing. I didn&#x27;t open a video editor once. It was all done with Claude Opus 5.5. PG recently posted something along the lines of: in the AI era, you want to be either very close to the users or very close to the intelligence. That resonated with me, but honestly, building this left me a bit lost. I find it hard to think of a consumer software feature that current AI can&#x27;t build. So if anyone can build anything, where is the moat? I&#x27;m genuinely unsure. The other side of it is exciting, though. Running ParkourNote alone, I feel less like a solo developer and more like a CEO of a small company: I manage product, engineering, marketing, and operations, and somehow it&#x27;s all manageable. A one-person company feels genuinely possible now, in a way it didn&#x27;t a few years ago. Signup is required since the AI features cost money to run; new accounts get 100 free credits after email verification. Happy to answer questions about the product, the workflow, or the moat question. I&#x27;d genuinely like to hear how others are thinking about it.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://note.parkourlabs.io/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49872233",
+    "createdAt": "2026-09-28T01:23:23.836Z"
+  },
+  {
+    "slug": "help-us-fire-our-uiux-designers-hn",
+    "title": "Help us fire our UI/UX designers",
+    "shortDescription": "Get $10,000 &amp; 3 months of Claude Max on me Redesign http:&#x2F;&#x2F;vosu.ai with any AI tool Better visuals. Better structure If we lo…",
+    "fullDescription": "Get $10,000 &amp; 3 months of Claude Max on me Redesign http:&#x2F;&#x2F;vosu.ai with any AI tool Better visuals. Better structure If we love it and choose your redesign, I’ll pay for your Claude Max subscription for 3 months Reply with your demo\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://vosu.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49872224",
+    "createdAt": "2026-09-28T01:23:23.836Z"
+  },
+  {
     "slug": "ufo-core-github",
     "title": "ufo-core",
     "shortDescription": "Business agent operating system",
