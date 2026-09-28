@@ -1,5 +1,171 @@
 [
   {
+    "slug": "skills-github-5",
+    "title": "skills",
+    "shortDescription": "Agent Skills for competitive GTM work - battlecards, win-loss, positioning, pricing, launches, deal prep and sales enablement. Installs int…",
+    "fullDescription": "Agent Skills for competitive GTM work - battlecards, win-loss, positioning, pricing, launches, deal prep and sales enablement. Installs into Claude Code, Codex, Copilot CLI, Cursor, Gemini CLI and any Agent Skills client. Works standalone; uses live evidence when LMTY is connected.\n\nАвтор: LMTYdotcom. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://lmty.com",
+    "category": "developer",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "ai-agents",
+      "battlecards",
+      "claude",
+      "claude-code",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1393471039",
+    "createdAt": "2026-09-28T21:34:32.785Z"
+  },
+  {
+    "slug": "what-a-vm-for-your-ai-agent-costs-across-13-sandbox-providers-hn",
+    "title": "What a VM for your AI agent costs across 13 sandbox providers",
+    "shortDescription": "I was annoyed by tracking all these new sandbox prices manually, and seeing a new one pop up on X every week. So I built a page where you d…",
+    "fullDescription": "I was annoyed by tracking all these new sandbox prices manually, and seeing a new one pop up on X every week. So I built a page where you describe the machine, and it shows what provider can provide it for the cheapest, free tiers included. Am I missing any providers? I can add more! page: https:&#x2F;&#x2F;vm-price-board.sf.tools , source: https:&#x2F;&#x2F;github.com&#x2F;sf-tools&#x2F;vm-price-board\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://vm-price-board.sf.tools/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49884685",
+    "createdAt": "2026-09-28T21:34:32.585Z"
+  },
+  {
+    "slug": "logphase-see-a-prs-blast-radius-as-impacted-user-journeys-hn",
+    "title": "LogPhase – See a PR's blast radius as impacted user journeys",
+    "shortDescription": "Hi all, I&#x27;ve been working on this app for a few months now, and I think it&#x27;s at a stage where I can share it with everyone. I bui…",
+    "fullDescription": "Hi all, I&#x27;ve been working on this app for a few months now, and I think it&#x27;s at a stage where I can share it with everyone. I built this app because AI-assisted coding is here to stay. With the right harness, AI can handle many things that were previously difficult. It can even perform PR reviews, in many ways better than humans. However: &gt; Code is only the visible part of a program. The real program is the understanding behind it: why it&#x27;s built this way, how it maps to the business, and what breaks when you change it. That understanding lives in people, not in files. Every day I slog through reviewing quite a few PRs containing dozens of file changes, and the only thing I had were file diffs. I struggled to build a complete picture of how all those different pieces connected. I&#x27;d jump between files and functions in my IDE, trying to piece together how they all fit. So I built this tool to avoid hopping between different files and functions. You give it a PR, and it calculates the blast radius in the form of impacted or new user journeys. In those user journeys, you can see what was changed. You don&#x27;t need to hop between different files, and for each step in the journey, you can go directly to the code. It provides full context in one single view. A lot of the time I thought, &quot;Okay, why do I need to build this thing? Claude can do it.&quot; Still, I was never happy with Claude&#x27;s output, and I always found myself reaching for this tool. At some point I thought, &quot;Why not just build it properly and share it with everyone?&quot; This tool has helped me immensely with my understanding of the codebase. Visualising code as a city is not the main goal of this tool, but I wanted to try it anyway. I think it&#x27;s pretty cool. Sometimes, looking at the size, height, and width of a building gives me a feeling that maybe that class needs some refactoring. I put a lot of effort into this. I do intend to sell it commercially, but before that, I wanted to see if people find it useful. Would love your feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://logphase.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49883997",
+    "createdAt": "2026-09-28T21:34:32.586Z"
+  },
+  {
+    "slug": "deltareview-ai-powered-code-diff-analysis-tool-hn",
+    "title": "DeltaReview – AI-powered code diff analysis tool",
+    "shortDescription": "Проект «DeltaReview – AI-powered code diff analysis tool», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «DeltaReview – AI-powered code diff analysis tool», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://delta-review.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49883244",
+    "createdAt": "2026-09-28T21:34:32.586Z"
+  },
+  {
+    "slug": "semloop-semantic-loop-detection-for-ai-agent-traces-hn",
+    "title": "Semloop – Semantic loop detection for AI agent traces",
+    "shortDescription": "Проект «Semloop – Semantic loop detection for AI agent traces», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Semloop – Semantic loop detection for AI agent traces», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/VBS2004/semloop",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49882593",
+    "createdAt": "2026-09-28T21:34:32.586Z"
+  },
+  {
+    "slug": "nibia-fabric-turn-everyday-computers-into-a-shared-ai-compute-cluster-hn",
+    "title": "Nibia Fabric – Turn everyday computers into a shared AI compute cluster",
+    "shortDescription": "I built NIBIA Fabric, an open-source distributed LLM inference system that pools CPU and RAM across macOS, Linux, and Windows machines. It…",
+    "fullDescription": "I built NIBIA Fabric, an open-source distributed LLM inference system that pools CPU and RAM across macOS, Linux, and Windows machines. It builds on llama.cpp, with capacity-aware scheduling, adaptive memory reservation, persistent tensor caching, and an OpenAI-compatible API. I’ve validated the current alpha on three physical machines across several models, including a 30B-class Qwen model, as well as GPT-OSS 20B. Feedback on the architecture and use cases is very welcome.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/nibia-ai/fabric",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49882129",
+    "createdAt": "2026-09-28T21:34:32.586Z"
+  },
+  {
+    "slug": "cordum-edge-a-local-firewall-to-sandbox-ai-coding-agents-hn",
+    "title": "Cordum Edge – A local firewall to sandbox AI coding agents",
+    "shortDescription": "Проект «Cordum Edge – A local firewall to sandbox AI coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Cordum Edge – A local firewall to sandbox AI coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/cordum-io/cordum](https://github.com/cordum-io/cordum)",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49880505",
+    "createdAt": "2026-09-28T21:34:32.586Z"
+  },
+  {
+    "slug": "knownote-a-local-desktop-workspace-for-questioning-your-own-sources-hn",
+    "title": "KnowNote-A local desktop workspace for questioning your own sources",
+    "shortDescription": "A year ago, I came across Google Notebook LM. I was completely blown away at the time: it wasn&#x27;t just a ChatGPT-style conversation, bu…",
+    "fullDescription": "A year ago, I came across Google Notebook LM. I was completely blown away at the time: it wasn&#x27;t just a ChatGPT-style conversation, but rather introduced an &quot;input—conversation—output&quot; model, turning itself into a workspace for content creators. However, to use it smoothly required a Google subscription, and I really didn&#x27;t have spare money in my wallet to subscribe, so I could only consider finding some self-hosted alternatives. I saw many open-source versions of Notebook LM on GitHub, the most famous being lfnovo&#x2F;open-notebook, but it requires Docker deployment. To be honest, I hate that everything requires Docker deployment. What I need is to click an icon and open it for use, rather than racking my brains to modify someone else&#x27;s Docker Compose template to run a simple piece of software, while also consuming a large amount of my computer resources. So I wrote a Notebook LM-inspired client based on Electron myself: KnowNote. I published it on X, and the response seemed pretty good. My repository&#x27;s star count soared. This was my first open-source project, and it excited me immensely. I developed all the fancy features by following Notebook LM&#x27;s functionality exactly—mind maps, flashcards, quizzes, and so on—hoping to truly bring Notebook LM locally. But later everything began to change. Many comments under my X posts said: &quot;Isn&#x27;t this just reinventing the wheel?&quot;; the GitHub star count stopped growing; a large number of boring and low-quality PRs flooded the entire repository. I was at a loss all of a sudden, became lazy, and the repository stopped being updated for nearly a year. Recently, I calmed my mindset and truly began to look at the problem from a product manager&#x27;s perspective. I went through many discussions on Reddit and X about Notebook LM and its derivatives, and found that everyone&#x27;s mindset and the topics they focused on had also begun to shift: at first everyone was praising how excellent Notebook LM was, but now they were discussing &quot;What do you actually use NotebookLM for?&quot; &quot;What&#x27;s the difference between it and just throwing files to ChatGPT &#x2F; Gemini?&quot; &quot;How can plugins, tools, and other products make it better to use?&quot; I realized that even Notebook LM cannot satisfy all users&#x27; needs. Merely copying it completely will only lead me down its old path. I increasingly feel that KnowNote should not chase after NotebookLM&#x27;s feature list. I collected the questions everyone cared about most and found that most discussions revolved around this one core issue: When you find an answer from a large amount of material through AI, how do you make that process more accurate, more transparent, and more comfortable? It dawned on me that what I should truly solve well is this most core user problem, rather than drifting with the crowd. In the past few days, I redesigned KnowNote&#x27;s future roadmap, refocusing on AI Q&amp;A, information retrieval, source citation, and the interactive experience built around these capabilities, using AI for reconstruction. Now I have released version v1.5.0, and I am very happy to reintroduce this project to everyone. Although many things may still not be easy to use, and I myself don&#x27;t even have answers for many directions, I actually hope even more that more people will come in and give it a try right now. If you have used NotebookLM, Obsidian, various AI knowledge bases, or RAG tools, I especially want to know: What is the most frustrating thing for you when using these products or is there any need you have always wanted but existing products have never solved well? If you are willing, you can try KnowNote, and you are also welcome to directly submit Issues, complain, or tell me that this direction simply doesn&#x27;t hold up. Now I want to treat it more as a project that slowly seeks answers together with the community. GitHub: https:&#x2F;&#x2F;github.com&#x2F;mrsibe&#x2F;KnowNote\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://knownote.pages.dev/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49880045",
+    "createdAt": "2026-09-28T21:34:32.586Z"
+  },
+  {
+    "slug": "telos-build-run-and-evolve-software-from-declarative-goals-hn",
+    "title": "Telos – build, run, and evolve software from declarative goals",
+    "shortDescription": "Hi HN, I&#x27;ve been a heavy user of coding agents for over a year now, and while excited by the productivity gains - I&#x27;ve increasing…",
+    "fullDescription": "Hi HN, I&#x27;ve been a heavy user of coding agents for over a year now, and while excited by the productivity gains - I&#x27;ve increasingly been frustrated at the process around it. - Prompts are imperative and ephemeral, and code is increasingly a black-box, so I lose track of intent over long horizons. - Pull requests, CI&#x2F;CD, and even GitHub have become process bottlenecks and are increasingly losing meaning in a world of code abundance. - I&#x27;m tired of babysitting coding agents, cleaning up slop, and reviewing AI output! I&#x27;ve been building Telos to solve some of these problems - it&#x27;s a new, declarative abstraction layer for building software with AI. We treat the goal specification as the source of truth that AI coding agents continuously reconcile against in a cloud environment. We&#x27;ve been dogfooding this quietly for a few months, and it&#x27;s solved many of the problems above for us - we&#x27;re excited to share this with the world! Our agent runtime&#x27;s source is available [0], and instructions to try it out alongside a real-world example are at the end of the linked post. Cheers [0] https:&#x2F;&#x2F;github.com&#x2F;telos-org&#x2F;telos\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://usetelos.ai/blog/introducing-telos-cloud",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49879980",
+    "createdAt": "2026-09-28T21:34:32.586Z"
+  },
+  {
+    "slug": "yengi-a-local-first-aidevelopment-environment-for-codingblenderunity-hn",
+    "title": "Yengi, a local-first AIdevelopment environment for coding,Blender/Unity",
+    "shortDescription": "I&#x27;ve been working on Yengi for several months. I am a teacher, not a professional software developer. My path here started with Micros…",
+    "fullDescription": "I&#x27;ve been working on Yengi for several months. I am a teacher, not a professional software developer. My path here started with Microsoft Small Basic, Scratch, and MIT App Inventor, which I used to teach children. I originally started it for a simple reason: I was using VS Code + Copilot, Trae, Cursor and Google Antigravity, and I kept running into usage limits and provider-specific workflows. I wanted something where I could choose my own model or API, including local models running through Ollama, and build without being tied to one provider. It grew considerably beyond that original idea. Yengi is a .NET 10 &#x2F; WPF desktop application with: * Agent and tool system for files, terminal, Git, builds and tests * RAG and LSP integration * Verification loops with checkpoints and rollback * 30+ agent tools * Support for local models and external APIs * A custom 1.5B router model that I fine-tuned on thousands of examples of Yengi-specific agent decisions * 200+ automated tests It also has three additional modes besides the coding environment: *Blender:* Yengi can communicate with Blender, generate `bpy` scripts, keep conversational scene context, and optionally inspect Blender viewport screenshots through a multimodal model. I also added an optional prompt-engineering layer. For example, &quot;create a low-poly tree&quot; is expanded into a more detailed 3D-oriented instruction before being sent to the model. A follow-up such as &quot;add five red apples to this tree&quot; can modify the existing scene rather than starting from scratch. *Unity:* Yengi can work with Unity projects, generate C# components and interact with the Unity Editor. *Image generation:* Images can be generated from the development environment and saved directly into the project. The unusual part is how I built it. I used AI coding tools heavily, particularly Google Antigravity and GitHub Copilot. I didn&#x27;t manually type the majority of the C# code. My role was primarily architecture, agent behavior, security boundaries, verification and rollback logic, router training, testing, debugging AI-generated changes, and integrating the different systems. I&#x27;m still trying to figure out how much of this approach is genuinely useful and how much is me having fun building increasingly complicated things. The project is free and open source under AGPL-3.0: https:&#x2F;&#x2F;github.com&#x2F;mdaiWorks&#x2F;yengi I&#x27;d especially like feedback from people working with .NET&#x2F;C#, coding agents, local models, Blender or Unity. In particular, I&#x27;m curious about: * Is a small fine-tuned local router actually useful for this kind of agent? * Does the verification&#x2F;rollback architecture make sense? * Are the Blender&#x2F;Unity integrations useful beyond being demos? * If you were building this, what would you simplify or change? I&#x27;m not trying to claim that this replaces VS Code or Cursor. I&#x27;m interested in whether this particular approach is useful at all, and what I should change next.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/mdaiWorks/yengi",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49879268",
+    "createdAt": "2026-09-28T21:34:32.586Z"
+  },
+  {
     "slug": "paseo-bots-github-2",
     "title": "paseo-bots",
     "shortDescription": "Tiny pixel coworkers that live in Paseo and never ask for a raise. A Grok Bot / OpenMausBot alternative plugin for https://paseo.sh/",
