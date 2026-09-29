@@ -1,5 +1,209 @@
 [
   {
+    "slug": "mit-humandev-github",
+    "title": "MIT-HumanDev",
+    "shortDescription": "An MIT-derived license permitting human development while restricting AI-assisted modification and derivative works. Experimental, not lega…",
+    "fullDescription": "An MIT-derived license permitting human development while restricting AI-assisted modification and derivative works. Experimental, not legal advice\n\nАвтор: DaragonTech. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/DaragonTech/MIT-HumanDev",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "development",
+      "genai",
+      "generative-ai",
+      "license",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1392880583",
+    "createdAt": "2026-09-29T19:32:59.121Z"
+  },
+  {
+    "slug": "raycodeshindsight-github",
+    "title": "RayCodes_Hindsight",
+    "shortDescription": "New #1 Agent Memory Beats GPT-4o With  Cost! (Hindsight Setup) - AI stress-testing tool",
+    "fullDescription": "New #1 Agent Memory Beats GPT-4o With  Cost! (Hindsight Setup) - AI stress-testing tool\n\nАвтор: 47thtechcorner. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://youtu.be/9kEQrWJU5Uc",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "gemini",
+      "hindsight",
+      "memory",
+      "ollama",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1394493521",
+    "createdAt": "2026-09-29T19:32:59.121Z"
+  },
+  {
+    "slug": "agentcap-ebpf-exporter-for-ai-agent-activity-to-grafana-hn",
+    "title": "Agentcap – eBPF exporter for AI-agent activity to Grafana",
+    "shortDescription": "Проект «Agentcap – eBPF exporter for AI-agent activity to Grafana», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Agentcap – eBPF exporter for AI-agent activity to Grafana», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/yeet-src/agentcap",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49898915",
+    "createdAt": "2026-09-29T19:32:58.833Z"
+  },
+  {
+    "slug": "occulta-cryptographic-contacts-exchanged-in-person-via-uwb-hn",
+    "title": "Occulta – cryptographic contacts exchanged in person via UWB",
+    "shortDescription": "Проект «Occulta – cryptographic contacts exchanged in person via UWB», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Occulta – cryptographic contacts exchanged in person via UWB», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/aibo-cora/occulta",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49898838",
+    "createdAt": "2026-09-29T19:32:58.833Z"
+  },
+  {
+    "slug": "giving-voice-agents-a-voice-that-adapts-to-context-hn",
+    "title": "Giving voice agents a voice that adapts to context",
+    "shortDescription": "Проект «Giving voice agents a voice that adapts to context», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Giving voice agents a voice that adapts to context», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://gradium.ai/demos/voice-design-demo/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49898783",
+    "createdAt": "2026-09-29T19:32:58.833Z"
+  },
+  {
+    "slug": "relay-a-harness-for-ai-coding-agents-that-recover-and-verify-hn",
+    "title": "Relay – a harness for AI coding agents that recover and verify",
+    "shortDescription": "I&#x27;m tired of AI coding agents which are good for 30 seconds and then completely fail on the slightest hiccup: a failing test, a tempor…",
+    "fullDescription": "I&#x27;m tired of AI coding agents which are good for 30 seconds and then completely fail on the slightest hiccup: a failing test, a temporarily unavailable dependency, an incorrect assumption. Sometimes I end up having to babysit these agents anyway. Relay is a harness for coding agents which takes advantage of the fact that agents are often good at doing something slightly wrong, and not so good at doing something correctly and completely. Relay repeatedly tries the task and on each failure, uses the output to find a better way to do it. It does this by running the task in a loop: attempt the task, run the checks in a fresh sandbox, on failure read the error and retry instead, until the checks pass. What it learned from a run is retained, so that it doesn&#x27;t repeat the same mistake, and when the checks eventually pass, it will ship the change as a normal git PR - no hidden state, no magic, the diff is human readable. A few specifics: - it runs locally, is free, and doesn&#x27;t require an account to run the local agent - it uses a top-tier model to plan&#x2F;review, and cheaper models to actually write code (for cost reasons) - happy to discuss why this is a good idea and why it isn&#x27;t - the checks run in an isolated sandbox for each task, rather than &quot;trusting&quot; the agent - currently supports [list actual models&#x2F;integrations - Opus 5.5, GPT-6, etc] - there&#x27;s a paid tier for running this unattended across multiple repos with shared sandbox minutes, the actual agent is free. It&#x27;s not magic, it&#x27;s not AGI, and it will fail badly on some problems. Would appreciate feedback, particularly from people who&#x27;ve deployed agents unattended and found that they don&#x27;t actually work, or have had to build substantial tooling around them to get useful results.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://relayevals.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49898411",
+    "createdAt": "2026-09-29T19:32:58.833Z"
+  },
+  {
+    "slug": "taijora-ai-assisted-bazi-and-chinese-astrology-charting-hn",
+    "title": "Taijora – AI-assisted Bazi and Chinese astrology charting",
+    "shortDescription": "Проект «Taijora – AI-assisted Bazi and Chinese astrology charting», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Taijora – AI-assisted Bazi and Chinese astrology charting», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://taijora.com/zh-hant",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49897522",
+    "createdAt": "2026-09-29T19:32:58.833Z"
+  },
+  {
+    "slug": "worlds-local-replicas-of-stripe-and-zendesk-for-testing-ai-agents-hn",
+    "title": "Worlds, local replicas of Stripe and Zendesk for testing AI agents",
+    "shortDescription": "Проект «Worlds, local replicas of Stripe and Zendesk for testing AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Worlds, local replicas of Stripe and Zendesk for testing AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.usesparta.co/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49897497",
+    "createdAt": "2026-09-29T19:32:58.833Z"
+  },
+  {
+    "slug": "greek-and-cypriot-greek-tts-that-runs-faster-than-real-time-on-cpu-hn",
+    "title": "Greek and Cypriot Greek TTS that runs faster than real time on CPU",
+    "shortDescription": "Проект «Greek and Cypriot Greek TTS that runs faster than real time on CPU», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Greek and Cypriot Greek TTS that runs faster than real time on CPU», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://huggingface.co/myned-ai/pocket-tts-greek",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49896938",
+    "createdAt": "2026-09-29T19:32:58.833Z"
+  },
+  {
+    "slug": "helping-small-business-owners-automate-their-front-of-house-hn",
+    "title": "Helping small business owners automate their front of house",
+    "shortDescription": "imagine you’re agi looking down at us and you see adults throwing a billion dollars at teenagers so they can solve problems that aren’t act…",
+    "fullDescription": "imagine you’re agi looking down at us and you see adults throwing a billion dollars at teenagers so they can solve problems that aren’t actually problems. i’d pace myself too. how about we use super intelligence to help people that are scraping by improve their lives so they can get a sliver of what every competent engineer experienced with claude code. these solutions won’t be flashy and likely won’t be investable but they will help people work less and spend more times with their families. this is the goal of essence; which i&#x27;m launching today. we&#x27;re building a suite of products that you can explain easily to your parents and they’d see the point. the first product we’re launching is live today and aims at helping small business owners that may not be able to afford the “front of house” necessary to bring in customers. essence gives them the ability to automate the inbound, qualification, and scheduling of customers so that they don’t have to hire a receptionist or stay late after work replying to voicemails.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://essencetheapp.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49896439",
+    "createdAt": "2026-09-29T19:32:58.833Z"
+  },
+  {
+    "slug": "progresscove-calm-and-smart-to-do-app-with-home-assistant-integration-hn",
+    "title": "ProgressCove, calm and smart to-do app with Home Assistant integration",
+    "shortDescription": "TLDR version: ProgressCove, my calm, multiplatform task manager that has a glass half-full perspective, avoids red texts and past due anxie…",
+    "fullDescription": "TLDR version: ProgressCove, my calm, multiplatform task manager that has a glass half-full perspective, avoids red texts and past due anxiety as it only leads to procrastination. I talk about: - Brief origin story: How I started writing middleware for another to-do app project status display for Echo Show screen and didn&#x27;t stop there. - Backend architecture choices: Network segmentation, frameworks and sustainability as a solo dev. - App stack: Expo React Native, WatermelonDB offline first storage with online sync, Cloudflare workers to serve web app, Python FastAPI, PostgreSQL&#x2F;PgBouncer - AI coding without the slop: How I use Claude as my junior developer under strict technical oversight. - Smart task prioritization: Task and project ordering by a combo metric based on completion percentages, helping users focus on tasks closer to completion and a U-shaped task age decay to surface new items instantly, drop mid-aged tasks, and eventually float old backlog projects. - Smart Home: Home Assistant integration, chores as buttons that dim&#x2F;highlight based on due status for wall tablets with 10 second debounce window to avoid mistaps. - Soup Mode: Recurring tasks with variations (useful for rotating meals, movies or workout routines) that will randomize your next task. - Advanced options: Keeping things simple and clean for anyone with anxiety and providing secret power user options, such as 8 level deep nesting and ability to name your task tiers, where a project can be a donkey! Anyone can try out the full-featured, no card required trial for 14 days. All versions, including web app can be found at https:&#x2F;&#x2F;progresscove.com Full story in first reply\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://progresscove.com/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49894784",
+    "createdAt": "2026-09-29T19:32:58.833Z"
+  },
+  {
+    "slug": "squidbrake-self-hosted-approval-gateway-for-ai-agent-tool-calls-hn",
+    "title": "Squidbrake – self-hosted approval gateway for AI agent tool calls",
+    "shortDescription": "Проект «Squidbrake – self-hosted approval gateway for AI agent tool calls», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Squidbrake – self-hosted approval gateway for AI agent tool calls», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/batrapulkit/squidbrake",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49894667",
+    "createdAt": "2026-09-29T19:32:58.833Z"
+  },
+  {
     "slug": "humanbench-github",
     "title": "humanbench",
     "shortDescription": "你是几B的模型？How many B are you? A meme quiz where you play the LLM, open-sourced with the full creative trail: every prompt, briefs, and a 3-pa…",
