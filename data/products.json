@@ -1,5 +1,97 @@
 [
   {
+    "slug": "dt-humandev-github",
+    "title": "DT-HumanDev",
+    "shortDescription": "An MIT-derived license permitting human development while restricting AI-assisted modification and AI-assisted derivative works. Experiment…",
+    "fullDescription": "An MIT-derived license permitting human development while restricting AI-assisted modification and AI-assisted derivative works. Experimental, not legal advice\n\nАвтор: DaragonTech. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/DaragonTech/DT-HumanDev",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "development",
+      "genai",
+      "generative-ai",
+      "license",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1392880583",
+    "createdAt": "2026-09-29T23:25:27.882Z"
+  },
+  {
+    "slug": "omasearch-github",
+    "title": "omaSearch",
+    "shortDescription": "Quick AI search for Omarchy: Enter asks your AI agent, Ctrl+Enter googles it in your browser, from anywhere.",
+    "fullDescription": "Quick AI search for Omarchy: Enter asks your AI agent, Ctrl+Enter googles it in your browser, from anywhere.\n\nАвтор: 5h3rd1l. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/5h3rd1l/omaSearch",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude",
+      "hyprland",
+      "omarchy",
+      "omarchy-plugin",
+      "quickshell",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1392857841",
+    "createdAt": "2026-09-29T23:25:27.882Z"
+  },
+  {
+    "slug": "the-activity-monitor-for-the-ai-era-hn",
+    "title": "The Activity Monitor for the AI Era",
+    "shortDescription": "Cortex turns a thousand processes into the apps you actually run, remembers the last 30 days, and shows what your Neural Engine and local m…",
+    "fullDescription": "Cortex turns a thousand processes into the apps you actually run, remembers the last 30 days, and shows what your Neural Engine and local models are doing. Everything stays on your Mac.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://cortexformac.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49901329",
+    "createdAt": "2026-09-29T23:25:27.596Z"
+  },
+  {
+    "slug": "fab-a-fast-browser-cli-for-ai-agents-hn",
+    "title": "Fab – a fast browser CLI for AI agents",
+    "shortDescription": "Проект «Fab – a fast browser CLI for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Fab – a fast browser CLI for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/ianks/fast-agentic-browser",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49899942",
+    "createdAt": "2026-09-29T23:25:27.597Z"
+  },
+  {
+    "slug": "chow-a-foss-food-diary-hn",
+    "title": "Chow, a FOSS food diary",
+    "shortDescription": "Hi HN. Today I&#x27;m showing off Chow.fit, a plain-text FOSS food diary written in Gleam. You can self-host it with the Dockerfile or just…",
+    "fullDescription": "Hi HN. Today I&#x27;m showing off Chow.fit, a plain-text FOSS food diary written in Gleam. You can self-host it with the Dockerfile or just use the one I host on chow.fit. Why does the world need another food diary app? Well, I can&#x27;t speak for the whole world, but as for me: I used MyFitnessPal back in 2017-2019. It was mostly tolerable with an ad blocker. A month ago due to numbers I didn&#x27;t like, I wanted to start tracking calories again. I quickly noticed that in the MFP android app, the barcode scanner is now a paid feature. It felt like paying to use my own phone camera. Their web app is slow and stuck in 2013, so I made my own web app which better aligns with my values and goals. I&#x27;ve lost 5% of my body weight! I like to call an app like this &quot;un-SaaS&quot; because it subverts a lot of the usual SaaS playbook. - Distraction-free. No AI, no ads, no tracking, no engagement-hancing e.g. no activity&#x2F;news feed. It logs food and gets out of the way. - All features except sync work without a subscription. - An optional subscription enables sync. A year covers my hosting costs and buys me a T-shirt. - Sync is local-first. You can still log food e.g. in an airplane. The app syncs up when you go back online. - If you stop the subscription, the app keeps working without sync. - Your data is plain text files on your device. When SparkPeople shut down in 2021, its users could only download their daily totals. They lost everything else. That can&#x27;t happen with Chow. - It uses public food data (FDC and OFF), not proprietary - It can import from MyFitnessPal using a bookmarklet to get your auth token which stays local. - It has a desktop app, Android&#x2F;iOS app, and a CLI. None currently shipped, but you can build from source. Folks who track what they eat: Let me know what else you&#x27;d like to see!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://chow.fit/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49899130",
+    "createdAt": "2026-09-29T23:25:27.597Z"
+  },
+  {
     "slug": "mit-humandev-github",
     "title": "MIT-HumanDev",
     "shortDescription": "An MIT-derived license permitting human development while restricting AI-assisted modification and derivative works. Experimental, not lega…",
