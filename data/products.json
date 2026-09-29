@@ -1,5 +1,183 @@
 [
   {
+    "slug": "aihot-github",
+    "title": "AIHOT",
+    "shortDescription": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+    "fullDescription": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。\n\nАвтор: KKKKhazix. Найдено в GitHub Trending (AI-тематика). ⭐ 440 звёзд.",
+    "url": "https://aihot.news",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "llm",
+      "mcp",
+      "news-aggregator",
+      "rss",
+      "self-hosted",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1393965829",
+    "createdAt": "2026-09-29T01:27:26.671Z"
+  },
+  {
+    "slug": "mit-human-github",
+    "title": "MIT-Human",
+    "shortDescription": "An MIT-derived license permitting human development while restricting AI-assisted modification and derivative works",
+    "fullDescription": "An MIT-derived license permitting human development while restricting AI-assisted modification and derivative works\n\nАвтор: DaragonTech. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/DaragonTech/MIT-Human",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "development",
+      "genai",
+      "generative-ai",
+      "license",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1392880583",
+    "createdAt": "2026-09-29T01:27:26.672Z"
+  },
+  {
+    "slug": "ngx-beautiful-ui-github",
+    "title": "ngx-beautiful-ui",
+    "shortDescription": "Unofficial Angular port of Beautiful UI: signal-based primitives for AI-native interfaces.",
+    "fullDescription": "Unofficial Angular port of Beautiful UI: signal-based primitives for AI-native interfaces.\n\nАвтор: djordjejanjic. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://djordjejanjic.github.io/ngx-beautiful-ui/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "angular",
+      "chat-ui",
+      "components",
+      "signals",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1392292455",
+    "createdAt": "2026-09-29T01:27:26.672Z"
+  },
+  {
+    "slug": "jevwright-github",
+    "title": "jevwright",
+    "shortDescription": "Browser tests for business flows, written as the steps a user takes. AI finds the controls once, recordings replay for free, and your code…",
+    "fullDescription": "Browser tests for business flows, written as the steps a user takes. AI finds the controls once, recordings replay for free, and your code decides the verdict.\n\nАвтор: Ice-Hazymoon. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://www.npmjs.com/package/@hazymoon/jevwright",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "browser-testing",
+      "e2e-testing",
+      "playwright",
+      "test-automation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1392247867",
+    "createdAt": "2026-09-29T01:27:26.672Z"
+  },
+  {
+    "slug": "nexora-github",
+    "title": "Nexora",
+    "shortDescription": "AI-powered incident intelligence platform that uses Hindsight memory to analyze production incidents, recall past resolutions, and accelera…",
+    "fullDescription": "AI-powered incident intelligence platform that uses Hindsight memory to analyze production incidents, recall past resolutions, and accelerate troubleshooting.\n\nАвтор: RohithaKavala. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/RohithaKavala/Nexora",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "devops",
+      "fastapi",
+      "hindsight",
+      "incident-management",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1393007241",
+    "createdAt": "2026-09-29T01:27:26.672Z"
+  },
+  {
+    "slug": "hebb-claude-plugin-github",
+    "title": "hebb-claude-plugin",
+    "shortDescription": "AI-проект с GitHub без описания.",
+    "fullDescription": "AI-проект с GitHub без описания.\n\nАвтор: hilothefunnydog123-coder. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://hebb-site.pages.dev",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "aiagents",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-skill",
+      "developer-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1393354942",
+    "createdAt": "2026-09-29T01:27:26.672Z"
+  },
+  {
+    "slug": "corral-kill-every-command-your-agent-starts-hn",
+    "title": "Corral kill every command your agent starts",
+    "shortDescription": "This summer I got to intern on the backend of an AI agent and I noticed that it would run commands like tail -f or some random background j…",
+    "fullDescription": "This summer I got to intern on the backend of an AI agent and I noticed that it would run commands like tail -f or some random background jobs and exit without terminating any of these. I got curious and looked up how Claude Code handles stuff like this, and it turns out they have similar problems. There are issues about background processes from the Bash tool not getting cleaned up when the session ends, and one where a timeout sends SIGTERM to the whole process group and ends up killing Claude Code itself. Most runners only kill the process they started, so anything that double forks, runs in the background, or keeps stdout open either survives or makes the runner hang. Corral was me attempting to make a fix for this problem, while also trying to learn about processes and signals in Linux. You run corral --wall 30s -- yourcommand and by the time it&#x27;s done, nothing it started should be running. The command gets its own session so killing it can&#x27;t kill you, and there&#x27;s a mode where it runs in its own cgroup so the whole tree gets killed at once, including processes that may have changed sessions or process groups. If there&#x27;s no cgroup available it tracks the tree through &#x2F;proc instead (this is a bit weaker, it still catches processes that changed sessions once their parent dies, but it can&#x27;t kill anything running as a different user or anything handed off to another service like systemd), and if it can&#x27;t confirm everything is dead it exits with 120. Would love any feedback and more stuff along these lines i can do to learn more\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Cardinal44/corral",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49886422",
+    "createdAt": "2026-09-29T01:27:26.487Z"
+  },
+  {
+    "slug": "jylus-give-ai-systems-evidence-from-changing-data-hn",
+    "title": "Jylus – give AI systems evidence from changing data.",
+    "shortDescription": "Проект «Jylus – give AI systems evidence from changing data.», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Jylus – give AI systems evidence from changing data.», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://jylus.ai/try",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49886404",
+    "createdAt": "2026-09-29T01:27:26.487Z"
+  },
+  {
+    "slug": "musetogether-let-metas-muse-agents-coordinate-plans-with-each-other-hn",
+    "title": "MuseTogether – let Meta's Muse agents coordinate plans with each other",
+    "shortDescription": "Проект «MuseTogether – let Meta's Muse agents coordinate plans with each other», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «MuseTogether – let Meta's Muse agents coordinate plans with each other», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://musetogether.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49885848",
+    "createdAt": "2026-09-29T01:27:26.487Z"
+  },
+  {
     "slug": "skills-github-5",
     "title": "skills",
     "shortDescription": "Agent Skills for competitive GTM work - battlecards, win-loss, positioning, pricing, launches, deal prep and sales enablement. Installs int…",
