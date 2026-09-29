@@ -1,5 +1,123 @@
 [
   {
+    "slug": "openedu-github",
+    "title": "openedu",
+    "shortDescription": "Turn educational Skills into apps that guide learning and support teaching.",
+    "fullDescription": "Turn educational Skills into apps that guide learning and support teaching.\n\nАвтор: 3acloud. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://www.ithinkair.com",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "agent-skills",
+      "ai",
+      "claude-code",
+      "clawhub",
+      "codex",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1392447131",
+    "createdAt": "2026-09-29T07:20:47.311Z"
+  },
+  {
+    "slug": "prompt-anonymization-and-deanonymization-hn",
+    "title": "Prompt Anonymization and Deanonymization",
+    "shortDescription": "Hey all, We developed an application that offers PII detection and prompt anonymization in realtime while writing to different AI tools, vi…",
+    "fullDescription": "Hey all, We developed an application that offers PII detection and prompt anonymization in realtime while writing to different AI tools, via a browser extension. Sensitive data can then be put back after the AI replies. Furthermore, we offer a desktop app that can anonymize text from images, documents, log files, and whole folders. We look forward to any feedback you might have.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://dataanonymiser.com",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49889281",
+    "createdAt": "2026-09-29T07:20:47.091Z"
+  },
+  {
+    "slug": "open-source-skills-for-end-to-end-video-ad-campaigns-hn",
+    "title": "Open-source skills for end-to-end video ad campaigns",
+    "shortDescription": "Hey there! We are building SuperCMO Skills, open source tools which allow agents (Claude Code, Cursor, Codex, etc.) to research, plan and c…",
+    "fullDescription": "Hey there! We are building SuperCMO Skills, open source tools which allow agents (Claude Code, Cursor, Codex, etc.) to research, plan and create video and image campaigns end-to-end right out of your terminal or IDE. We got tired of paying for expensive AI subscriptions and wasting countless hours assembling a pipeline for just one video ad, so we created these tools for ourselves. SuperCMO integrates with your agents to provide the ability to plan, shoot, edit, and stitch complete campaigns. We began with simple prompt wrappers but soon realized the need to rethink our entire pipeline to overcome common limitations of the AI video. - Pipeline Orchestration: Creating one ad now requires jumping through several apps: writing scripts in one, creating images in another, recording audio in yet another, and stitching the whole thing in an editor. SuperCMO does all of that natively. The tool knows how to choose the appropriate model (like automatically switching prompts for Veo versus Seedance) and do the whole post-production, including trimming and voiceover synchronization. - Consistency from Shot to Shot: In true AI video generators, products and actors continually transform from shot to shot. We solved that problem by storyboarding before rendering and locking in master reference images in every generation. - Directional Control: Completely automated agents often go awry creatively. So, we&#x27;ve developed the capabilities to take a peek at every stage of the process. You&#x27;re always in control, approving the creator, the story idea, and the script before anything is expensively rendered. People are using this today to create UGC product ads (give the agent a product photo and it chooses the creator, generates the script, and creates a ready MP4 file) or to analyze competitors&#x27; work (agent analyzes the winning advertisement from the competitor and recreates it with your product in mind). This project will be released under an Apache-2.0 license. You can come to us with your own vendor keys to have everything done for free or to generate using our keys and just pay for each usage without any lock-in. Thank you for your attention!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/SupercmoHQ/superCMO-skills",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49888905",
+    "createdAt": "2026-09-29T07:20:47.092Z"
+  },
+  {
+    "slug": "problee-play-money-prediction-markets-midterms-ai-benchmarks-more-hn",
+    "title": "Problee – play-money prediction markets (midterms, AI benchmarks, more)",
+    "shortDescription": "Проект «Problee – play-money prediction markets (midterms, AI benchmarks, more)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Problee – play-money prediction markets (midterms, AI benchmarks, more)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://problee.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49888671",
+    "createdAt": "2026-09-29T07:20:47.092Z"
+  },
+  {
+    "slug": "appmaker-a-visual-javascript-app-builder-hn",
+    "title": "AppMaker – a visual JavaScript app builder",
+    "shortDescription": "I’ve been working on AppMaker, a small experiment in visual app development. It has a visual UI builder, JavaScript on both the client and…",
+    "fullDescription": "I’ve been working on AppMaker, a small experiment in visual app development. It has a visual UI builder, JavaScript on both the client and server, a built-in database, and lets you download the generated Node.js app. It’s still early, and I’m especially curious about one thing: In the age of AI coding tools, is there still a place for this kind of structured visual development environment??!!?! I’d genuinely appreciate feedback, including criticism.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://appmaker.io/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49888605",
+    "createdAt": "2026-09-29T07:20:47.092Z"
+  },
+  {
+    "slug": "talktome-let-your-ai-agent-call-you-hn",
+    "title": "Talktome - let your AI Agent call you",
+    "shortDescription": "I built TalkToMe, an open-source macOS app that lets an agent call you from its current session. You answer, talk, and hear its replies. Th…",
+    "fullDescription": "I built TalkToMe, an open-source macOS app that lets an agent call you from its current session. You answer, talk, and hear its replies. The agent keeps its tools, files, and history. It works with Codex (Tested extensively, quite smooth), Claude Code (not tested heavily), Hermes, and other agents that can run shell commands. You can use ElevenLabs or local models to power the conversation. It&#x27;s really surreal to see your agent call you for something!\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/rohanprichard/talktome",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49887154",
+    "createdAt": "2026-09-29T07:20:47.092Z"
+  },
+  {
+    "slug": "interactive-diesel-price-forecaster-hn",
+    "title": "Interactive Diesel Price Forecaster",
+    "shortDescription": "Interactive model of diesel price I&#x27;ve been working on with my (sightspinner) agent. Takes into account the main (known) factors (Horm…",
+    "fullDescription": "Interactive model of diesel price I&#x27;ve been working on with my (sightspinner) agent. Takes into account the main (known) factors (Hormuz, Ukraine, etc.) contributing to the current spike as well as possible future scenarios. Set up for periodic updates. To view the model without the article: https:&#x2F;&#x2F;app.sightspinner.ai&#x2F;share&#x2F;bMO8oBg7n3hjNdyEVAs0xi2NQ7...\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://sightspinner.ai/blog/diesel-prices-are-high-here-s-why-they-might-go-higher-2026-09-29.html",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49887056",
+    "createdAt": "2026-09-29T07:20:47.092Z"
+  },
+  {
     "slug": "aihot-github",
     "title": "AIHOT",
     "shortDescription": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
