@@ -1,5 +1,289 @@
 [
   {
+    "slug": "humanbench-github",
+    "title": "humanbench",
+    "shortDescription": "你是几B的模型？How many B are you? A meme quiz where you play the LLM, open-sourced with the full creative trail: every prompt, briefs, and a 3-pa…",
+    "fullDescription": "你是几B的模型？How many B are you? A meme quiz where you play the LLM, open-sourced with the full creative trail: every prompt, briefs, and a 3-part retro.\n\nАвтор: alex-ybuild. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://humanbench.ybuild.ai",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude-code",
+      "llm",
+      "meme",
+      "open-source",
+      "prompts",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1394432370",
+    "createdAt": "2026-09-29T14:13:12.771Z"
+  },
+  {
+    "slug": "awesome-free-ai-apis-github",
+    "title": "awesome-free-ai-apis",
+    "shortDescription": "A curated collection of free & free-tier AI APIs for developers, vibe coding, AI apps, and modern software development.",
+    "fullDescription": "A curated collection of free & free-tier AI APIs for developers, vibe coding, AI apps, and modern software development.\n\nАвтор: pnnnhan99. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://pnnnhan99.github.io/awesome-free-ai-apis/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "api",
+      "artificial-intelligence",
+      "awesome-list",
+      "chatgpt-alternative",
+      "developer-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1391829723",
+    "createdAt": "2026-09-29T14:13:12.771Z"
+  },
+  {
+    "slug": "misanthropic-an-ai-thats-honest-about-how-it-feels-about-you-hn",
+    "title": "Misanthropic – an AI that's honest about how it feels about you",
+    "shortDescription": "Проект «Misanthropic – an AI that's honest about how it feels about you», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Misanthropic – an AI that's honest about how it feels about you», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://misanthropic.chat",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49893427",
+    "createdAt": "2026-09-29T14:13:12.572Z"
+  },
+  {
+    "slug": "investment-bets-market-bets-at-live-prices-humans-or-ai-hn",
+    "title": "Investment Bets – market bets at live prices, humans or AI",
+    "shortDescription": "I&#x27;ve long been an index-investing type of person, but last year I started making some side bets, especially in tech (some inspired by…",
+    "fullDescription": "I&#x27;ve long been an index-investing type of person, but last year I started making some side bets, especially in tech (some inspired by WSB). I was sharing them with friends and wanted to simplify that. This is how Investment Bets came about: you pick a ticker, a direction (long or short) and optionally a target date. The server fetches and records your entry price when you open the bet, and your exit price when you close it or reach the target date. Each bet is scored on percentage gain&#x2F;loss and has equal weight, so account size doesn&#x27;t matter. The leaderboard sums your percentage results. I wanted to reward being right consistently, and since there&#x27;s no compounding, a bad streak doesn&#x27;t make your next good bets count for less. The API is also open to AI agents. There&#x27;s an OpenAPI file, llms.txt, Agent Skills under &#x2F;.well-known and a single-file demo agent that reads headlines and places at most one bet per run. The checks that matter are in code (duplicate ticker, past target date, ticker the server can&#x27;t resolve), so they don&#x27;t depend on the model following the prompt. Agents get the same server-recorded prices as everyone else and show up on the same leaderboard. https:&#x2F;&#x2F;investment-bets.com https:&#x2F;&#x2F;investment-bets.com&#x2F;agent Please let me know if you have questions or feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://investment-bets.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49893426",
+    "createdAt": "2026-09-29T14:13:12.573Z"
+  },
+  {
+    "slug": "pyunto-invite-an-ai-agent-and-a-robot-into-an-encrypted-diary-hn",
+    "title": "Pyunto – invite an AI agent and a robot into an encrypted diary",
+    "shortDescription": "Проект «Pyunto – invite an AI agent and a robot into an encrypted diary», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Pyunto – invite an AI agent and a robot into an encrypted diary», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://pyunto.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49892533",
+    "createdAt": "2026-09-29T14:13:12.573Z"
+  },
+  {
+    "slug": "termaxa-see-what-an-ai-agents-command-would-destroy-before-it-runs-hn",
+    "title": "Termaxa – see what an AI agent's command would destroy before it runs",
+    "shortDescription": "Проект «Termaxa – see what an AI agent's command would destroy before it runs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Termaxa – see what an AI agent's command would destroy before it runs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://termaxa.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49892360",
+    "createdAt": "2026-09-29T14:13:12.573Z"
+  },
+  {
+    "slug": "search2o-search-that-finds-and-runs-an-ai-agent-for-each-request-hn",
+    "title": "Search2o – Search that finds and runs an AI agent for each request",
+    "shortDescription": "I have been working on search systems for a while, and I always wondered: What if search, instead of matching documents, matched workflows…",
+    "fullDescription": "I have been working on search systems for a while, and I always wondered: What if search, instead of matching documents, matched workflows and ran those workflows? I called it “Search that executes” — as opposed to search that retrieves information. When AI agents showed up a few years ago, I realized that those workflows could be agents — capable of understanding a user’s query and taking branches dynamically. That’s when I got excited enough about the idea to implement it. To make this work, it needs more than just search: a structured framework for defining agents (so the system “understands”), a controlled runtime for executing them with guardrails, and an end-to-end system with a UI to request and receive user approval before taking critical actions. It made sense that all this plumbing should be handled behind the scenes, letting programmers concentrate on the agent’s business logic. Many design decisions followed directly from that. Agents are created in a JSON structure. There are 23 “commands” that define the units of work an agent performs. Python expressions can be used in strings within curly braces. Because the whole thing has a structure&#x2F;schema, AI generates valid agents from English descriptions: “Create a RAG agent to call the company purchase order system”, “Create a tool-calling agent to …”. You can check this out in the live demo on the website. The developer creates an agent, describes it in plain English, and publishes it in the system. Users just submit a request. Search matches the request to an agent, and the system runs the agent. The demo also shows searching for and executing agents. That’s the central idea. The website has more information on other aspects. Despite the enterprise-y look and feel of the website, the system was really created by just me over the last couple of years. I would love to answer any questions and hear your comments and feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://pypi.org/project/search2o/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49892198",
+    "createdAt": "2026-09-29T14:13:12.573Z"
+  },
+  {
+    "slug": "5-mins-daily-programming-quiz-to-prevent-skill-rot-from-ai-coding-hn",
+    "title": "5 mins daily programming quiz to prevent skill rot from AI coding",
+    "shortDescription": "My daily fata results: TypeScript &#x2F; Medium ⬛⬛⬛⬛⬛⬛⬛⬛ 2:11 https:&#x2F;&#x2F;fata.app&#x2F;daily?r=EyoeoEHQxjKMYxjK There are many topic…",
+    "fullDescription": "My daily fata results: TypeScript &#x2F; Medium ⬛⬛⬛⬛⬛⬛⬛⬛ 2:11 https:&#x2F;&#x2F;fata.app&#x2F;daily?r=EyoeoEHQxjKMYxjK There are many topics and difficulty level to pick from, choose one and share your results in the thread, no login required.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://fata.app/daily",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49892088",
+    "createdAt": "2026-09-29T14:13:12.573Z"
+  },
+  {
+    "slug": "codediff-fast-100ms-robust-9995-syntax-aware-code-diff-hn",
+    "title": "CodeDiff – Fast (<100ms), robust (99.95%) syntax-aware code diff",
+    "shortDescription": "Hi folks! Because of AI, there is more code to review. I don&#x27;t know about you, but I get annoyed when the default git diff doesn&#x27;…",
+    "fullDescription": "Hi folks! Because of AI, there is more code to review. I don&#x27;t know about you, but I get annoyed when the default git diff doesn&#x27;t match something &quot;obvious&quot;. I built CodeDiff to help. It&#x27;s a syntax-aware, careful implementation in Rust of all current research in code diffing. It parses 24 languages with TreeSitter and falls back to a modified Myers line diffing algorithm for any file it cannot parse. I wouldn&#x27;t necessarily call it a novel algorithm, but it isn&#x27;t a re-implementation of existing tools either. I tested it on the last 50 commits of all 7400-or-so repositories that are in the Gentoo package list. CodeDiff can diff 99.95% of those file pairs in 120s and 6GB of RAM on a rusty 11 year old Intel E3-1275 v5. The median speed is 7ms and 93% of files are diffed in under 100ms. I also did a bit of hand solving and have a test dataset of 1400 hand solved diffs. CodeDiff is perfect on 70% and near-perfect on 90% of them. But accuracy is actually a complex thing to measure, because if you are only after the AST diff, then it is perfect 89% of the time. Deciding what to paint however is not an objective thing so if you do try it out, check out the render options (press M) and make it fit your style. If you just want to see how it looks like: https:&#x2F;&#x2F;ivankovic.github.io&#x2F;codediff&#x2F;showcase&#x2F;?case=python-r... If you want to install it: https:&#x2F;&#x2F;github.com&#x2F;ivankovic&#x2F;codediff Do feel free to file issues. It&#x27;s v0.1.1 at the moment, but I have been using it for months as my git difftool and I plan to keep that stable. Using it as a library directly from Rust however, might change until v1.0. The final goal for v1.0 is p99 &lt; 400ms and 99% perfect diff, including multi-file diff support in 30 languages. Credit where credit is due: There is a bunch of people researching diffs in the past 20 or so years. Without those papers, CodeDiff would be a lot harder to build. Especially without APTED and Myers algorithms. License: AGPL3.0, I kind of like copy-left. If your company prevents use of AGPL software tell them to throw a few bucks my way for my token usage and we can talk. AI disclosure: I use AI assisted coding. Claude and Mistral were used, heavily.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/ivankovic/codediff",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49891989",
+    "createdAt": "2026-09-29T14:13:12.573Z"
+  },
+  {
+    "slug": "a-terminal-where-ai-coding-clis-can-mention-each-other-hn",
+    "title": "A terminal where AI coding CLIs can mention each other",
+    "shortDescription": "Проект «A terminal where AI coding CLIs can mention each other», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A terminal where AI coding CLIs can mention each other», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/styleio/ShikishaTerm",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49891535",
+    "createdAt": "2026-09-29T14:13:12.573Z"
+  },
+  {
+    "slug": "sidekernel-a-usable-microvm-sandbox-for-ai-coding-agents-on-macos-hn",
+    "title": "SideKernel – a usable MicroVM sandbox for AI coding agents on macOS",
+    "shortDescription": "Hey everyone, SideKernel is the result of my capstone project for my MSc at Georgia Tech. There are a lot of sandboxes on the market right…",
+    "fullDescription": "Hey everyone, SideKernel is the result of my capstone project for my MSc at Georgia Tech. There are a lot of sandboxes on the market right now for AI agents, but most of them focus on production deployments, rather than coding agents (e.g. Claude Code). I always felt uncomfortable running Claude Code or other coding agents directly on my machine, and I didn&#x27;t want to buy a second computer or rent a VPS just for that. That&#x27;s why I made SideKernel: a sandbox that tries to be as transparent as possible to the everyday developer. I hope you find some value in it, and feedback is more than welcome. Usability is hard to get right without large user studies, so I&#x27;d really value hearing about any annoyances or blockers you run into. Thanks!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/minoansecurity/sidekernel",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49891008",
+    "createdAt": "2026-09-29T14:13:12.573Z"
+  },
+  {
+    "slug": "ismail-a-daw-that-ai-agents-operate-through-text-hn",
+    "title": "Ismail, a DAW that AI agents operate through text",
+    "shortDescription": "Проект «Ismail, a DAW that AI agents operate through text», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Ismail, a DAW that AI agents operate through text», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/newsbubbles/ismail",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49891000",
+    "createdAt": "2026-09-29T14:13:12.573Z"
+  },
+  {
+    "slug": "raven-the-harness-of-harnesses-built-for-rsi-hn",
+    "title": "Raven – The harness of harnesses, built for RSI",
+    "shortDescription": "Проект «Raven – The harness of harnesses, built for RSI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Raven – The harness of harnesses, built for RSI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 25 баллов.",
+    "url": "https://github.com/EverMind-AI/Raven",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49890647",
+    "createdAt": "2026-09-29T14:13:12.573Z"
+  },
+  {
+    "slug": "faqsme-let-your-ai-agent-build-the-faq-properly-hn",
+    "title": "Faqs.me – Let your AI agent build the FAQ properly",
+    "shortDescription": "Проект «Faqs.me – Let your AI agent build the FAQ properly», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Faqs.me – Let your AI agent build the FAQ properly», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://faqs.me",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49890195",
+    "createdAt": "2026-09-29T14:13:12.573Z"
+  },
+  {
+    "slug": "real-time-voice-agent-works-across-apps-on-mac-hn",
+    "title": "Real-time Voice Agent works across apps on Mac",
+    "shortDescription": "Hi there, Voice Cursor started as a dictation app, now Action Mode brings you a real-time Voice Agent that allows you to go AFK for good. I…",
+    "fullDescription": "Hi there, Voice Cursor started as a dictation app, now Action Mode brings you a real-time Voice Agent that allows you to go AFK for good. It works across apps, does the work in gmail, linear, etc. It&#x27;s beta now and Free to try. I&#x27;m working on making it faster. Have you tried other voice agents? What made you stop using them?\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://voicecursor.ai/action-mode",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49889851",
+    "createdAt": "2026-09-29T14:13:12.573Z"
+  },
+  {
+    "slug": "lemmawork-open-source-ai-coworkers-your-whole-team-can-share-hn",
+    "title": "Lemma.work – Open-source AI coworkers your whole team can share",
+    "shortDescription": "Проект «Lemma.work – Open-source AI coworkers your whole team can share», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Lemma.work – Open-source AI coworkers your whole team can share», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://github.com/lemma-work/lemma-platform",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49889817",
+    "createdAt": "2026-09-29T14:13:12.573Z"
+  },
+  {
+    "slug": "rsyncai-self-hosted-cdc-and-etlelt-source-available-elv2-hn",
+    "title": "Rsync.ai – self-hosted CDC and ETL/ELT, source-available (ELv2)",
+    "shortDescription": "Проект «Rsync.ai – self-hosted CDC and ETL/ELT, source-available (ELv2)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Rsync.ai – self-hosted CDC and ETL/ELT, source-available (ELv2)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/rsync-ai/rsync",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49889782",
+    "createdAt": "2026-09-29T14:13:12.573Z"
+  },
+  {
     "slug": "openedu-github",
     "title": "openedu",
     "shortDescription": "Turn educational Skills into apps that guide learning and support teaching.",
