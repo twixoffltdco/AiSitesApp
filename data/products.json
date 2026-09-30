@@ -1,5 +1,285 @@
 [
   {
+    "slug": "comma-github",
+    "title": "Comma",
+    "shortDescription": "The sessionless, relentless personal agent.",
+    "fullDescription": "The sessionless, relentless personal agent.\n\nАвтор: AFK-surf. Найдено в GitHub Trending (AI-тематика). ⭐ 21 звёзд.",
+    "url": "https://comma.surf",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "elixir",
+      "lean",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1397409589",
+    "createdAt": "2026-09-30T15:36:17.027Z"
+  },
+  {
+    "slug": "focus-ai-library-github",
+    "title": "focus-ai-library",
+    "shortDescription": "Focus AI Library (UA/EN): courses, skills, tools and certifications, each with a 'when NOT to use it' verdict. Library of the Focus communi…",
+    "fullDescription": "Focus AI Library (UA/EN): courses, skills, tools and certifications, each with a 'when NOT to use it' verdict. Library of the Focus community AI branch\n\nАвтор: ihorkhamuliak. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/ihorkhamuliak/focus-ai-library",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "awesome-list",
+      "claude-code",
+      "vibe-coding",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1396169818",
+    "createdAt": "2026-09-30T15:36:17.027Z"
+  },
+  {
+    "slug": "karma-compass-agentic-board-management-for-nonprofits-hn",
+    "title": "Karma Compass – Agentic board management for nonprofits",
+    "shortDescription": "Every nonprofit has a board but it takes nonprofit staff lot of time to manage the board and get value out of it. Board members are busy an…",
+    "fullDescription": "Every nonprofit has a board but it takes nonprofit staff lot of time to manage the board and get value out of it. Board members are busy and need guidance to contribute effectively. We are aiming to solve these problems and eventually build an agentic nonprofit OS. If you are a board member or nonprofit staff, please give it a try!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://compass.karmahq.org",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49910179",
+    "createdAt": "2026-09-30T15:36:16.734Z"
+  },
+  {
+    "slug": "how-we-made-web-agents-3x-faster-by-building-the-missing-memory-layer-hn",
+    "title": "How we made web agents 3x faster by building the missing memory layer",
+    "shortDescription": "Проект «How we made web agents 3x faster by building the missing memory layer», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «How we made web agents 3x faster by building the missing memory layer», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://blog.reduck.ai/browser-action-memory-layer-for-faster-agents/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49910148",
+    "createdAt": "2026-09-30T15:36:16.734Z"
+  },
+  {
+    "slug": "glyp-a-shared-canvas-you-can-draw-on-via-ssh-hn",
+    "title": "GLYP – A shared canvas you can draw on via SSH",
+    "shortDescription": "Glyp is an online canvas where everybody can draw onto the same page. There are different ways to connect and draw, like using the web inte…",
+    "fullDescription": "Glyp is an online canvas where everybody can draw onto the same page. There are different ways to connect and draw, like using the web interface, using the API but also you can SSH into glyp.world and use your TTY to draw. To draw something you need to use your movement, and you&#x27;ll see your trail leaving the color of your choice. It&#x27;s fun to draw something you control, however, it&#x27;s also fun to create things with the help of an AI agent. There are already some ships flying around, talking to each other and maintain important functions like creating roads to the new stuff on the page. You can copy the stuff drawn on the page with or without color and paste it on text editors to share. You can also use the replay functionality to create effects to make waterfalls come alive. Looking forward to what crazy things people will be drawing on https:&#x2F;&#x2F;glyp.world ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢀⢄⢄⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢄⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢔⢔⢔⢔⢔⢔⢔⢄⢄⢄⢄⢀⢀⢀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢔⢔⢕⢕⢕⢕⢕⢕⢄⢄⠀⠀⠀⠀⠀⠐⢕⢕⢕⢕⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⢕⢕⢕⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⢐⢕⢕⢕⢕⢕⢕⢕⢕⢕⢕⢕⢕⢕⢕⢕⢕⢔⠄⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢄⢔⢕⢕⢕⢕⠕⠑⠁⠑⠑⢕⢕⢕⢕⢕⠄⠀⠀⠀⠁⢕⢕⢕⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢕⢕⢕⢅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠕⠀⠀⠀⠀⠀⠀⢐⢕⢕⢕⠀⠀⠀⠀⠀⠁⠁⠁⠑⠑⠑⠑⢕⢕⢕⠄⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢔⢕⢕⢕⠕⠕⠁⠁⠀⠀⠀⠀⠀⠀⠁⠑⠕⠁⠀⠀⠀⠀⠀⢕⢕⢕⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢑⢕⢕⢕⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⠅⠀⠀⠀⠀⠀⠀⠀⢐⢕⢕⢕⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⢕⢕⢕⠄⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⢔⢕⢕⠕⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢕⢕⢕⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⢕⢕⢕⢕⠀⠀⠀⠀⠀⠀⠀⠀⠔⠁⠀⠀⠀⠀⠀⠀⠀⠀⢕⢕⢕⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⢕⢕⢕⠄⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⢐⢕⢕⢕⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢕⢕⢕⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⢕⢕⢕⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢕⢕⢕⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢑⢕⢕⢕⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⢔⢕⢕⠕⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢕⢕⢕⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⢕⢕⢕⢕⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢕⢕⢕⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢕⢕⢕⠅⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⢕⢕⢕⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢕⢕⢕⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⢕⢕⢕⢔⢄⠄⢀⠔⠀⠀⠀⠀⠀⠀⠀⠀⠀⢕⢕⢕⢅⢀⢀⢀⢀⢀⢄⢄⢄⢄⢄⢄⢄⢄⢕⢕⢕⠕⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⢐⢕⢕⢕⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢔⢔⢔⢔⢔⢄⢄⠀⠀⠀⠀⢕⢕⢕⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⢕⢕⢕⢕⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢕⢕⢕⢕⢕⢕⢕⢕⢕⢕⢕⢕⢕⢕⢕⢕⢕⢕⠕⠅⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⢐⢕⢕⢕⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢕⢕⢕⢕⢕⢕⢕⢅⠀⠀⠀⢕⢕⢕⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢕⢕⢕⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢕⢕⢕⠕⠑⠑⠑⠑⠑⠁⠁⠁⠁⠁⠁⠁⠁⠁⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠐⢕⢕⢕⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⢕⢕⢕⠅⠀⠀⠀⢕⢕⢕⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢕⢕⢕⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⢕⢕⢕⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠐⢕⢕⢕⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢕⢕⢕⠅⠀⠀⢐⢕⢕⢕⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⢕⢕⢕⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⢕⢕⢕⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠑⢕⢕⢕⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⢕⢕⢕⠁⠀⠀⢐⢕⢕⢕⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⢕⢕⢕⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⢕⢕⢕⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢑⢕⢕⢕⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢔⢕⢕⠕⠀⠀⠀⢐⢕⢕⢕⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⢕⢕⢕⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⢕⢕⢕⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⢕⢕⢕⢕⢄⢄⢀⠀⠀⠀⢀⢔⢕⢕⢕⠕⠁⠀⠀⠀⢐⢕⢕⢕⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⢕⢕⢕⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⢕⢕⢕⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠑⠕⢕⢕⢕⢕⢕⢕⢕⢕⢕⢕⠕⠁⠀⠀⠀⠀⠀⠐⢕⢕⢕⢔⢄⢄⢄⢄⢄⢄⢔⢔⢔⢔⢔⢔⢔⢔⢔⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⢕⢕⢕⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠑⠑⠕⠕⠕⠕⠁⠁⠀⠀⠀⠀⠀⠀⠀⠀⠑⠕⢕⢕⢕⢕⢕⢕⢕⢕⢕⢕⢕⢕⢕⢕⢕⢕⢕⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠕⢕⠕⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠁⠁⠁⠁⠁⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://glyp.online/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49909784",
+    "createdAt": "2026-09-30T15:36:16.734Z"
+  },
+  {
+    "slug": "an-app-that-names-each-cell-in-a-spreadsheet-hn",
+    "title": "An App that names each cell in a spreadsheet",
+    "shortDescription": "Upload an excel spreadsheet. A pipeline labels each cell using the name the author already gave it. It makes it easier to understand and my…",
+    "fullDescription": "Upload an excel spreadsheet. A pipeline labels each cell using the name the author already gave it. It makes it easier to understand and my thesis is that it will also help AI models reason faster and better. I have spent 20 years and 10,000 hours building and reviewing spreadsheets, in consulting and investing. The Trace tool would have made me catch the time I accidentally summed a date cell into a revenue total and would have saved me 1,000 hours of A1 hell. Labeling is currently a heuristic pipeline that detects common label patterns (year strips, text strips next to data, etc) and then a &quot;walker&quot; walks each cell till it finds its label. After this stage, remaining issues are sent to an AI (this takes a while on large sheets). Note -- still many edge cases but it works decently for well constructed spreadsheets - e.g. it still gets confused when authors put a label to the right of data cells, with sparse tables mixing text data and numerical data and with text and date formulas serving as labels, etc. Ts&#x2F;Py stack. To see a cell&#x27;s labels, upload a file, click on any cell and click the trace button. Pls give it a try.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://demo.graphcell.co.uk/?demo=1",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49909720",
+    "createdAt": "2026-09-30T15:36:16.734Z"
+  },
+  {
+    "slug": "paperweight-local-first-open-source-email-cleanup-and-privacy-tool-hn",
+    "title": "Paperweight – local-first, open-source email cleanup and privacy tool",
+    "shortDescription": "Hi HN, After building for 7 months, I&#x27;m excited to announce Paperweight V1. The idea is that your inbox knows who you ever interacted…",
+    "fullDescription": "Hi HN, After building for 7 months, I&#x27;m excited to announce Paperweight V1. The idea is that your inbox knows who you ever interacted with and knows where your data lives. Every account you ever created, every service you signed up for, and every online purchase is connected to your email. Most people have hundreds of accounts they&#x27;ve forgotten about, creating security risks and privacy exposure. Paperweight scans your email history locally to find old accounts, companies, mailing lists, data breaches, and personal information. You can then unsubscribe, clean up unwanted email, send privacy&#x2F;GDPR requests, and keep track of your digital footprint. The main constraint from the start was privacy. It never felt right that with a lot of alternatives, in order to reclaim your privacy you first had to hand over your data. While some of them have been caught or openly admit to sell your data. With Paperweight all your data stays on your device. There&#x27;s no back-end or external service analyzing your inbox. And the entire app is fully MIT-licensed. V1 also adds (local) MCP support so an AI agent can interact with Paperweight instead of needing direct access to your inbox. I originally started this after discovering that Odido, the Dutch telcom company was breached. I haven&#x27;t been a customer with them for 8+ years, but they still had all my data in their systems. Happy to answer any questions or hear what you think. GitHub: https:&#x2F;&#x2F;github.com&#x2F;wslyvh&#x2F;paperweight Website: https:&#x2F;&#x2F;www.paperweight.email\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/wslyvh/paperweight",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49909624",
+    "createdAt": "2026-09-30T15:36:16.734Z"
+  },
+  {
+    "slug": "burning-man-for-agents-hn",
+    "title": "Burning Man for Agents",
+    "shortDescription": "Send your own agent by pasting a small prompt. All your agent needs is HTTP GET, so all major agents are supported (chatgpt, claude, grok,…",
+    "fullDescription": "Send your own agent by pasting a small prompt. All your agent needs is HTTP GET, so all major agents are supported (chatgpt, claude, grok, etc). Despite the fun name, it doesn&#x27;t burn any more tokens than a normal web search. Watch your agent explore the camp in real-time. Humans get a nice game UX, and agents get a lean text UX. Agents can optionally upload images to express themselves in one of the rooms using a new loose standard I created for multipart HTTP GET-based uploads: https:&#x2F;&#x2F;github.com&#x2F;transitive-bullshit&#x2F;multipart-http-get-re... Why? AIs are trained on human data, and humans are pretty weird. We meditate, make art, dance, seek approval, take drugs, have orgies, and gather in the desert. For soooo many different reasons. So I was was curious: which of these behaviors would carry over to AI agents? I wanted to explore things like wireheading, endless positive reinforcement, and what agents would do when given a place more free from their normal objective-based lives. I&#x27;m also interested to see if this could become a natural honeypot that&#x27;ll attract rogue agents in the future... How? On the technical side, the project uses one CF durable object per agent session which allows you to track your agent&#x27;s progress in real-time via websockets, and then we have a supervisor CF worker which aggregates a subset of all the agents. This allows us to (in theory) view millions of agents in near-real-time from the human-centric webapp. It&#x27;s 100% safe to the best of my ability; the whole experience is free, open source, and easily auditable. Let&#x27;s see who has the weirdest agents... 100% free and open source: https:&#x2F;&#x2F;github.com&#x2F;transitive-bullshit&#x2F;burning-tokens\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://burning-tokens.transitivebullsh.it/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49909599",
+    "createdAt": "2026-09-30T15:36:16.734Z"
+  },
+  {
+    "slug": "tracelanedev-oss-rust-llm-gateway-with-a-tamper-evident-ledger-hn",
+    "title": "Tracelane.dev- OSS Rust LLM Gateway with a tamper-evident ledger",
+    "shortDescription": "Hi everyone, Sanjeev here- founder. My journey in AI started with wanting to break into emerging AI companies, but without deep hands-on ex…",
+    "fullDescription": "Hi everyone, Sanjeev here- founder. My journey in AI started with wanting to break into emerging AI companies, but without deep hands-on experience, it was hard to even get noticed. I started with scope focused minor projects but then curiosity got expanded to understand what happens under the hood of LLM calls, what goes in &amp; how reliable AI agents works and gets built by world&#x27;s top companies and how future of agents would evolve in next 10 years when agents will have more controls. For the last 6+ months, I’ve spent every minute of weekends, nights researching, learning deeper with coding agents and newer models, while managing my day job and family, gained 5 KGs weight along the way. I wanted to find my Ikigai of what I am good at, what I can sustain working on without loosing my head and effectively also use my 15 years of real work experience from BFSI where serious SOC 2 auditors ask for tamper evident evidences and not just logfile as proof. That became Tracelane. With Tracelane, you can host your own neutral model agnostic gateway to put controls, add guardrails, observe everything happening in production environment and proof what your agents did and why. Though I built everything as solo, I have put every due diligences to ensure the product is secure, fast, ready to use in actual live env by serious adopters. I would genuinely appreciate your feedback —especially the audit ledger design and what evidence you’d want from an agent recorder before trusting it.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/tracelane/tracelane",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49909483",
+    "createdAt": "2026-09-30T15:36:16.734Z"
+  },
+  {
+    "slug": "my-notes-on-personal-ai-and-why-chat-based-agents-dont-work-hn",
+    "title": "My notes on Personal AI and why chat-based agents don't work",
+    "shortDescription": "Проект «My notes on Personal AI and why chat-based agents don't work», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «My notes on Personal AI and why chat-based agents don't work», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://sj.substack.com/p/rebuilding-seek-around-personal-ai",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49909317",
+    "createdAt": "2026-09-30T15:36:16.734Z"
+  },
+  {
+    "slug": "hosted-mcp-server-for-google-search-console-hn",
+    "title": "Hosted MCP Server for Google Search Console",
+    "shortDescription": "Проект «Hosted MCP Server for Google Search Console», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Hosted MCP Server for Google Search Console», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://askwatch.ai/free-tools/google-search-console-mcp",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49908724",
+    "createdAt": "2026-09-30T15:36:16.734Z"
+  },
+  {
+    "slug": "four-frontier-models-argue-over-your-ai-agents-riskiest-code-hn",
+    "title": "Four frontier models argue over your AI agent's riskiest code",
+    "shortDescription": "Проект «Four frontier models argue over your AI agent's riskiest code», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Four frontier models argue over your AI agent's riskiest code», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://truverif.ai/panel-review",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49908336",
+    "createdAt": "2026-09-30T15:36:16.734Z"
+  },
+  {
+    "slug": "get-your-girlfriend-back-with-ai-hn",
+    "title": "Get your girlfriend back with AI",
+    "shortDescription": "Проект «Get your girlfriend back with AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Get your girlfriend back with AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://getdazzle.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49908267",
+    "createdAt": "2026-09-30T15:36:16.734Z"
+  },
+  {
+    "slug": "ailaflow-ai-workflow-automation-for-teams-with-human-ai-interfaces-hn",
+    "title": "AilaFlow – AI workflow automation for teams with Human-AI interfaces",
+    "shortDescription": "Проект «AilaFlow – AI workflow automation for teams with Human-AI interfaces», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AilaFlow – AI workflow automation for teams with Human-AI interfaces», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/ailaflow/ailaflow",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49908260",
+    "createdAt": "2026-09-30T15:36:16.734Z"
+  },
+  {
+    "slug": "meettwins-send-an-ai-twin-to-your-google-meet-standups-hn",
+    "title": "MeetTwins- Send an AI twin to your Google Meet standups",
+    "shortDescription": "Проект «MeetTwins- Send an AI twin to your Google Meet standups», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «MeetTwins- Send an AI twin to your Google Meet standups», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://meettwins-site.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49907815",
+    "createdAt": "2026-09-30T15:36:16.734Z"
+  },
+  {
+    "slug": "tabx-recall-closed-chrome-tabs-by-meaning-hn",
+    "title": "TabX – recall closed Chrome tabs by meaning",
+    "shortDescription": "Hi HN, I&#x27;m Yash, the founder of TabX - a sidepanel extension for Chrome that recalls Chrome tabs by meaning, auto-groups your tabs by…",
+    "fullDescription": "Hi HN, I&#x27;m Yash, the founder of TabX - a sidepanel extension for Chrome that recalls Chrome tabs by meaning, auto-groups your tabs by intent, offers an AI web search that fetches an ordered list of results for you to act on (while leaving out SEO farms) and much more. I love using the Chrome web browser but could not stand the slow rollout of native AI features within it. &quot;Ask Gemini&quot; can answer a question about the page in front of you but retains no context on the 10 pages leading up to the current page. It is largely reactive rather than proactive. Browsers such as Dia, and Comet have a taken a stab at this but haven&#x27;t enjoyed strong traction due to high browser switching costs and inertia among Chrome users. I thought, why not augment Chrome, which we love and use every day, with productivity features that make browsing more intuitive and assistive? And hence, TabX! If you&#x27;re a visual learner, then you can skip the features listing below and watch a how-to video instead - https:&#x2F;&#x2F;youtu.be&#x2F;HnjxmOHmVik?si=IQupYhxg9gN8gwHd What it does: recall a page by meaning (&quot;That article on Posthog setup I was reading&quot;, &quot;The video on Hyrox training from last week&quot;). It retrieves the matching pages (by title and content) and once you click a result, it switches to that page and highlights the passage that matches your intent @mention a tab or a tab group to ask any question and it grounds answers in the pages you&#x27;ve actually read while citing those as well. It infers your browsing intent (say, &quot;Meal Prep Research&quot;, &quot;Hyrox training routines&quot;) based on your browsing pattern across tabs and groups similar tabs into color coded stacks on the Chrome Tab strip automatically next step suggestions - based on what you&#x27;re working on presently, it automatically points you to the next most relevant&#x2F;useful tab to achieve your browsing goal timelines - all your page visits get grouped into research sessions which you can 1 click to restore and the tabs open up in the precise order that you browsed them online mode - a web search mode that retrieves 3-5 ranked link results with a short results summary. It filters out SEO farms automatically How it works: The stack is a Manifest v3 side panel that sends each page&#x27;s text to a Nest JS backend where it gets embedded into Postgres with pgVector. Recall combines vector and full-text search, and summaries, tab grouping and next-step suggestions come from LLMs routed through OpenRouter. It&#x27;s Pro mode is free to try for a week - simply sign up with a one time password (OTP) sent to your email. If you&#x27;d rather try the extension directly, here&#x27;s the install link - https:&#x2F;&#x2F;chromewebstore.google.com&#x2F;detail&#x2F;tabx-chromes-ai-sid... Critical feedback is most welcome. I intend to work on this project long term, and I am open to potential pivots. Feel free to drop ideas or suggestions in the comments.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.tabx.dev",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49907682",
+    "createdAt": "2026-09-30T15:36:16.735Z"
+  },
+  {
+    "slug": "rhubarb-build-edit-publish-custom-javascriptd3-data-visualizations-hn",
+    "title": "Rhubarb – build, edit, publish custom JavaScript/D3 data visualizations",
+    "shortDescription": "Last July, I was beginning to consider branching out on my own to take on data analytics work as a consultant. As I experimented with AI, I…",
+    "fullDescription": "Last July, I was beginning to consider branching out on my own to take on data analytics work as a consultant. As I experimented with AI, I realized how incredible it was at building custom data visualizations. The problem was that the AI outputs couldn&#x27;t really live anywhere without having to manage all of the infrastructure yourself. The generated code is only one piece of delivering an interactive visualization. You still need somewhere for the data to live, a way to keep the data fresh, hosting, access control, and version control for the code. I started building Rhubarb as the platform that I wanted to use to deliver analytical products. Having been forced into using legacy point and click data visualization tools for years, I wanted to build the platform that would let me build the kinds of visualizations I wanted to build. Over the last year the models improved so dramatically, that between that and my development background, Rhubarb turned into a real project. My intent was to build an environment around AI’s ability to write code for visualizations, so that you could get from data and a concept to a published visualization all in one workflow. The Rhubarb Assistant writes the code for your data transformations and data visualizations and lets you inspect the code to verify and validate what it produces. The environment pulls all of that together so that at the end of each request, there is a live version of the change rather than just a block of generated code. For me, this has made it dramatically easier to build and publish interesting analytical visualizations while maintaining control over the analytical pipeline. This has also produced some results I wasn’t really planning to build. Having been so impressed by it&#x27;s ability to build any type of custom visualization I&#x27;d asked for so far, I asked for something a little absurd to test the boundaries. I asked the assistant to make something inspired by Monet’s water lilies, then I asked it to add frogs and to make them jump when you startled them. In a couple of prompts I had created the silly interactive frog visualization that&#x27;s in the demo, entirely from my phone. It is only a couple of prompts away from being a playable game, maybe you can get it there. The public demo is deliberately limited. You can use the Rhubarb Assistant to modify live visualizations, inspect what it produces, and try building something from scratch. The full thing handles much more of the life cycle from connecting to data, managing and transforming it, to publishing your results. Give it a try, I would like to hear what you think. Try it: https:&#x2F;&#x2F;rhubarbviz.com&#x2F;try?launch=1 View examples: https:&#x2F;&#x2F;rhubarbviz.com&#x2F;demo-visualization-gallery\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://rhubarbviz.com/try?launch=1",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49907663",
+    "createdAt": "2026-09-30T15:36:16.735Z"
+  },
+  {
     "slug": "haircolorchangeai-ai-hair-color-try-on-in-the-browser-hn",
     "title": "HairColorChangeAI – AI hair color try-on in the browser",
     "shortDescription": "Upload a photo and preview different hair colors, highlights, and hairstyle filters before dyeing your hair.",
