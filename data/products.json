@@ -1,5 +1,247 @@
 [
   {
+    "slug": "ai-agent-for-pc-github",
+    "title": "ai-agent-for-pc",
+    "shortDescription": "A simple Windows AI agent that runs locally with a single .exe file. No command line or complex setup required.",
+    "fullDescription": "A simple Windows AI agent that runs locally with a single .exe file. No command line or complex setup required.\n\nАвтор: VoltEmperorChaos. Найдено в GitHub Trending (AI-тематика). ⭐ 50 звёзд.",
+    "url": "https://github.com/VoltEmperorChaos/ai-agent-for-pc",
+    "category": "productivity",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-agent",
+      "ai-automation",
+      "ai-tools",
+      "artificial-intelligence",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1398606485",
+    "createdAt": "2026-09-30T20:31:11.844Z"
+  },
+  {
+    "slug": "orion-github",
+    "title": "orion",
+    "shortDescription": "A little voice assistant for your desk that you build and own. Flash an ESP32-S3 board with one double click and bring your own keys.",
+    "fullDescription": "A little voice assistant for your desk that you build and own. Flash an ESP32-S3 board with one double click and bring your own keys.\n\nАвтор: MultiX0. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://joinorion.io/",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "alexa",
+      "esp32",
+      "esp32-s3",
+      "harness",
+      "harness-ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1397920862",
+    "createdAt": "2026-09-30T20:31:11.844Z"
+  },
+  {
+    "slug": "corpus-github",
+    "title": "Corpus",
+    "shortDescription": "Company knowledge. With receipts. A self-hosted AI workspace for documents, connected business data, and answers grounded in evidence.",
+    "fullDescription": "Company knowledge. With receipts. A self-hosted AI workspace for documents, connected business data, and answers grounded in evidence.\n\nАвтор: nuanu-ai. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/nuanu-ai/Corpus",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "document-processing",
+      "knowledge-base",
+      "mcp",
+      "nextjs",
+      "provenance",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1398289897",
+    "createdAt": "2026-09-30T20:31:11.845Z"
+  },
+  {
+    "slug": "jamb-ai-voice-agents-for-group-calls-hn",
+    "title": "Jamb AI - Voice Agents for Group Calls",
+    "shortDescription": "Проект «Jamb AI - Voice Agents for Group Calls», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Jamb AI - Voice Agents for Group Calls», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://twitter.com/sharat_sc/status/2100638882341486961",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49913174",
+    "createdAt": "2026-09-30T20:31:11.635Z"
+  },
+  {
+    "slug": "halv-cut-ai-agent-cost-by-571-using-jev-hn",
+    "title": "Halv cut AI agent cost by 57.1% using Jev",
+    "shortDescription": "Проект «Halv cut AI agent cost by 57.1% using Jev», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Halv cut AI agent cost by 57.1% using Jev», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://halv.ai/blog/halv-swe-rebench-astra-42-pairs/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49913080",
+    "createdAt": "2026-09-30T20:31:11.635Z"
+  },
+  {
+    "slug": "ciao-control-coding-agents-from-your-phone-hn",
+    "title": "Ciao – Control coding agents from your phone",
+    "shortDescription": "Hi HN, I built Ciao to solve problems I was experiencing: 1. Connecting to a new host should be as seamless as possible. I SSH a lot nowada…",
+    "fullDescription": "Hi HN, I built Ciao to solve problems I was experiencing: 1. Connecting to a new host should be as seamless as possible. I SSH a lot nowadays, and I find the key sharing across devices cumbersome. 2. I get annoyed by setting up insert-your-favorite VPN on new machines. They&#x27;re all great. I don&#x27;t want to think about them. 3. There&#x27;s a lot of harnesses: Claude Code and Codex now have decent mobile push notifications but what about Pi or xyz-shiny-new harness? The harness is another tool that should be abstracted out. 4. I want a single application that has the big picture of all of my agents. Tmux and Herdr are great but they don&#x27;t have an overview of all my connected machines&#x27; agents. --- With Ciao you curl|sh the daemon --&gt; run ciao pair --&gt; point your phone&#x27;s camera at the QR code --&gt; and you&#x27;re connected. It uses iroh for accountless and E2EE connection. There&#x27;s an optional relay server for APNS which too is E2EE. One of my favorite aspects of agentic-engineering is being able to just have a lot of fun with programming. Among many features, I built a visually pleasing toggle between terminal-mode and native-chat-mode. If you install Ciao, come back here and tell me what you think. --- Full transparency: this is a repost from yesterday, it was a massive day in AI.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://apps.apple.com/us/app/ciaooo-claude-code-codex/id6793695487",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49912618",
+    "createdAt": "2026-09-30T20:31:11.635Z"
+  },
+  {
+    "slug": "i-made-a-techmeme-for-edtech-with-jev-hn",
+    "title": "I made a techmeme for EdTech with Jev",
+    "shortDescription": "I&#x27;m a fan of Techmeme, which clusters tech news by topic, so I decided to do the same with edtech and help me keep up with edtech. But…",
+    "fullDescription": "I&#x27;m a fan of Techmeme, which clusters tech news by topic, so I decided to do the same with edtech and help me keep up with edtech. But it helped only a little. Unlike in tech, where daily news is usually heavily clusterable because people comment on daily trending topics like apple&#x27;s latest launch etc., in edtech, we don&#x27;t really have these trending topics often, but we do have these persistent ongoing beats like AI in education or Edtech policy etc. So I decided to leverage the help of the newly released Jev model (a model that&#x27;s super fast and cheap and works great with categorization tasks) to help categorize these items into different topics and tags, which seems to work really great so far (and has kept the cost low). In terms of implementation, it&#x27;s basically a pipeline that processes a list of sources consisting of trade media and indie newsletters and blogs with RSS feeds, and tags them with Jev using a hierarchy of topics related to edtech. Users can follow and pin individual topics, like &quot;higher ed&quot;, &quot;Europe&quot; etc., so we don&#x27;t need any persistent profiles for personalization; preferences live in the browser. Articles are clustered using cloudflare&#x27;s vector store, and related articles are also recommended with that. I have no doubt this will work even better with tech news, but there are plenty of alternatives out there, so I&#x27;m not going to indulge myself further. My takeaway is that Jev for content tagging is great so far. And edtech is kinda fun to keep up with. The project is called EdFountain at https:&#x2F;&#x2F;edfountain.com The goal is to create the water fountain for edtech. For those who like to follow edtech, maybe it&#x27;s useful to you as well. Feel free to drop a coin and make a wish on the &#x2F;about page if you have other source recommendations. :D\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://edfountain.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49912171",
+    "createdAt": "2026-09-30T20:31:11.635Z"
+  },
+  {
+    "slug": "quiet-exploring-when-an-ai-assistant-should-intervene-hn",
+    "title": "Quiet – exploring when an AI assistant should intervene",
+    "shortDescription": "I’m Ruggiero, a CS student working on a research project about humanComputer interaction and AI. I built QUIET because I’ve been thinking a…",
+    "fullDescription": "I’m Ruggiero, a CS student working on a research project about humanComputer interaction and AI. I built QUIET because I’ve been thinking about a problem with current AI interfaces: they usually either wait for an explicit prompt, or try to take over a task. I wanted to explore a different relationship between humans and AI: an assistant that can understand when to stay out of the way, when to point something out, when to teach, and when to act. I’ve built a small interactive demo of this idea. It’s obviously still very early, and I want to understand whether the interaction itself makes sense before trying to build the actual AI system behind it. The prototype is intentionally not AI-powered yet. The four examples are scripted so I can test the interaction itself before spending time building the underlying AI system. The idea is that the assistant can choose different levels&#x2F;forms of intervention: * stay silent * point at something * explain &#x2F; teach * do the task The important question for me isn’t whether an AI can perform these actions. Current systems can already do many of them. I’m trying to understand whether an assistant that decides when and how much to intervene is actually useful. I’d particularly like feedback on: * Did the interventions feel helpful or annoying? * Would you want an assistant to behave this way? * When would you prefer it to teach you rather than do something for you? * Does this interaction model make sense even without the AI being there yet? I started working on this because I feel there is an increasing gap between what computers&#x2F;AI are capable of and what users actually understand and can make use of. At the same time, AI systems are becoming increasingly capable of explaining and performing tasks for us. I’m interested in whether the interface itself should evolve to bridge that gap. Demo: https:&#x2F;&#x2F;quiet-hci.pages.dev I’d really appreciate any criticism, especially if you think the interaction model doesn’t make sense. The demo suit best the desktop screens on phones Im working on a totally different but also similar idea of interaction, and since this is a simulation of the desktop tool it should work best on it , Thank You &lt;3\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://quiet-hci.pages.dev",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49912153",
+    "createdAt": "2026-09-30T20:31:11.635Z"
+  },
+  {
+    "slug": "kyno-direction-as-a-first-class-primitive-for-ai-agents-hn",
+    "title": "Kyno – Direction as a first-class primitive for AI agents",
+    "shortDescription": "Hi folks, I&#x27;ve been lurking here for a while, and after almost two months of building, I finally dared to share what I&#x27;ve been wo…",
+    "fullDescription": "Hi folks, I&#x27;ve been lurking here for a while, and after almost two months of building, I finally dared to share what I&#x27;ve been working on. It&#x27;s called Kyno (pronounced KAI-no). It&#x27;s what I call a coherence control plane: it treats direction as a first-class primitive, expressed as a constitution with a mission and principles that agents can pull at each step of a workflow. The goal is to enable principled decision-making, bottom-up agency, and self-governance in agents. Kyno doesn&#x27;t rely on LLMs. It&#x27;s a lightweight system that provides centralized, versioned direction so agents can exercise judgment while staying aligned with the mission. It can work independently or complement AI governance tools, pairing boundaries with principles to support greater autonomy over time. It&#x27;s free to use and open-core. If you&#x27;re interested, please take a look, I&#x27;d love some feedback. Thank you all! https:&#x2F;&#x2F;cizambra.github.io&#x2F;kyno&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://cizambra.github.io/kyno/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49911977",
+    "createdAt": "2026-09-30T20:31:11.635Z"
+  },
+  {
+    "slug": "datastory-data-storytelling-with-ai-and-an-open-knowledge-graph-hn",
+    "title": "Datastory, Data storytelling with AI and an open knowledge graph",
+    "shortDescription": "Today we’re opening Datastory to everyone! Datastory is a platform for turning data, your own or the world’s open data, into charts that pe…",
+    "fullDescription": "Today we’re opening Datastory to everyone! Datastory is a platform for turning data, your own or the world’s open data, into charts that people can understand and trust. Please try it out and let us know what we can improve! A little backstory I’ve spent my career trying to make data understandable and useful, from helping animate Hans Rosling&#x27;s TED Talks at Gapminder to building data platforms for organizations in health, research, media and the public sector. Every project taught me the same thing: organizations were building similar platforms from scratch, at great cost, and communicating data well remained slow, expensive, expert work. That’s why we started Datastory as a non-profit, publishing data journalism and building our own tools because nothing else was fast enough. Over the years those tools became the product, and today they&#x27;re used by public agencies, researchers and newsrooms. Under the hood, the open data catalog sits on a knowledge graph built on linked data standards (RDF), with pipelines orchestrated in Dagster. Sources are joined semantically, and templates connect directly to the graph. The free plan covers the full range of features, so you can try everything out. Tell us what’s missing or broken :) We’ll be here all day.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://www.datastory.tech",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49911411",
+    "createdAt": "2026-09-30T20:31:11.635Z"
+  },
+  {
+    "slug": "wattzgoat-an-intentionally-vulnerable-web-app-for-security-training-hn",
+    "title": "WattzGOAT – an intentionally vulnerable web app for security training",
+    "shortDescription": "Built this as a hands-on lab for teaching web application security. It is a fictional electricity utility&#x27;s customer portal with 48 de…",
+    "fullDescription": "Built this as a hands-on lab for teaching web application security. It is a fictional electricity utility&#x27;s customer portal with 48 deliberately planted flags (most of OWASP Top 10) you find and exploit CTF-style, including a simulated (rule-based, not a real model) AI assistant with its own prompt-injection-style vulnerabilities. Full disclosure, built this with AI assistance but I promise you&#x27;re going to enjoy tinkering with it.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/wattzgoat/wattzgoat-web",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49911073",
+    "createdAt": "2026-09-30T20:31:11.635Z"
+  },
+  {
+    "slug": "beyond-chat-with-your-database-agentic-data-exploration-hn",
+    "title": "Beyond \"chat with your database\" – agentic data exploration",
+    "shortDescription": "Business intelligence is changing. AI can now do more than turn a question into a single SQL query: it can investigate a question through a…",
+    "fullDescription": "Business intelligence is changing. AI can now do more than turn a question into a single SQL query: it can investigate a question through a series of queries, examining the result of one query to decide what to query next. Today, to answer a business question against a database, analysts use a tool like Tableau: they select relevant data, build an initial view using fields, filters, calculations, and visualizations, then look for patterns or anomalies. They form hypotheses and test them — filtering by region, drilling into customer cohorts, comparing time periods, or creating calculations to validate or rule out an explanation. They repeat this process until the evidence supports an answer, then save a workbook or dashboard for others to review and monitor. With a single question, AI can now perform much of this exploratory loop: it can investigate the data, follow the evidence through multiple queries, and present the supporting analysis. This is agentic data analysis — AI autonomously decides what to investigate next based on the results it has already found. Reportr puts agentic AI at the center of the experience, then builds complementary capabilities around it to address AI&#x27;s limitations: SEMANTIC LAYER Production databases are rarely clean: columns that are no longer used, cryptic names like status2, misc, or flag, columns whose meaning has quietly shifted over time, tables that linger long after their purpose is gone, and so on. This is known as schema rot. AI tools guess wrong against schemas like this. Reportr&#x27;s semantic layer lets you give tables and columns business-friendly names and descriptions, document relationships, capture business rules, and flag what AI should ignore — so it&#x27;s working from what your data means, not just what it&#x27;s called. USER OVERSIGHT AI-generated answers can be wrong. Reportr lets you inspect the SQL executed to arrive at an answer. It also provides explanations of what the SQL does (understandable by business users), and how it works (intended for technical users). You can review the analysis rather than simply accepting AI&#x27;s conclusions. BETTER USER EXPERIENCE Reportr UI is specifically optimized for chatting with a database. Database queries often return large number of records. Ask which customers haven&#x27;t placed an order in the last 90 days, and the answer is a list of customers. Reportr displays tabular data in an interactive grid that can handle thousand of records without breaking a sweat. The grid supports sorting, searching, and filtering. REPORTS AND DASHBOARDS Chat is ephemeral. Every conversation starts fresh, and that&#x27;s fine for exploration — but not for information you need every week. When a chart or table reveals something worth tracking, save it as a report. Combine reports into dashboards to monitor changes over time, share findings, and keep important insights accessible without having to ask the same questions again. ROLE BASED ACCESS CONTROL Not everyone on your team needs the same level of access. Reportr&#x27;s role-based access control lets you give each user exactly the permissions they need — from view-only access to report building, database management, and full administrative control. CENTRALIZED MANAGEMENT Reportr is a web application — there&#x27;s nothing to install, nothing to update, and no desktop app to manage across your team. Database connection strings, AI keys, are all managed centrally. Reportr can connect to all supported databases directly, MCP servers and drivers are not needed. INSTALL ON-PREMISE Reportr can be self-hosted on your own infrastructure, ensuring your data never touches our servers. You can supply your own AI API key. Your data will not be used for training AI models. If you use Claude on AWS Bedrock, Amazon additionally guarantees that your data is never stored or used for training — and Bedrock is HIPAA eligible. GIVE IT A WHIRL Visit https:&#x2F;&#x2F;reportr.com to give it a try. We look forward to getting your feedback. Reportr is easy to try: you can provision a sample database with the press of a button and start asking questions right away. Or connect your own database and analyze your own data. You can ask up to five questions for free.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://reportr.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49910856",
+    "createdAt": "2026-09-30T20:31:11.635Z"
+  },
+  {
+    "slug": "glance-build-evaluate-and-monitor-ai-agents-hn",
+    "title": "Glance – Build, evaluate, and monitor AI agents",
+    "shortDescription": "Проект «Glance – Build, evaluate, and monitor AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Glance – Build, evaluate, and monitor AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/vpanghal/glance-releases/releases/download/v0.2.0/Glance-0.2.0-arm64.dmg",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49910385",
+    "createdAt": "2026-09-30T20:31:11.636Z"
+  },
+  {
+    "slug": "lathoa-a-math-app-for-kids-where-the-ai-is-wrong-on-purpose-hn",
+    "title": "Lathoa, a math app for kids where the AI is wrong on purpose",
+    "shortDescription": "I made this for kids around 10 to 14. A robot called Errol solves a math problem step by step and one of the steps is wrong. The kid has to…",
+    "fullDescription": "I made this for kids around 10 to 14. A robot called Errol solves a math problem step by step and one of the steps is wrong. The kid has to find it and say what&#x27;s wrong with it. Sometimes nothing is wrong, so just saying &quot;there&#x27;s a mistake&quot; every time doesn&#x27;t work. You can play one on the homepage without signing up. The part that surprised me: it&#x27;s hard to get an LLM to be wrong on purpose. Half the time it gives you the right answer and calls it wrong, or a &quot;mistake&quot; that&#x27;s actually correct. So every case gets checked before a kid sees it. Where it can, a plain arithmetic check redoes the math exactly. A second model also solves the problem without seeing Errol&#x27;s work. If anything disagrees, the case is thrown away. The weak spot is that the second model can make the same mistake as the first. The arithmetic check is there for that, but it only works on English cases so far. German and Greek write decimals with a comma and I haven&#x27;t got the parsing right yet. What I&#x27;d really like to know: does finding someone else&#x27;s mistake teach anything that solving the problem yourself doesn&#x27;t? I&#x27;m not sure, and I&#x27;d like to hear from people who teach.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://lathoa.ai/en",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49909648",
+    "createdAt": "2026-09-30T20:31:11.636Z"
+  },
+  {
     "slug": "comma-github",
     "title": "Comma",
     "shortDescription": "The sessionless, relentless personal agent.",
