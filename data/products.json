@@ -1,5 +1,96 @@
 [
   {
+    "slug": "xiaobai-kanban-github",
+    "title": "xiaobai-kanban",
+    "shortDescription": "🧭 小白看板 — 让 Agent 帮你写代码。你只说话，Agent 搞定一切。双入口文档站：真人看教程，Agent 读 AGENTS.md。",
+    "fullDescription": "🧭 小白看板 — 让 Agent 帮你写代码。你只说话，Agent 搞定一切。双入口文档站：真人看教程，Agent 读 AGENTS.md。\n\nАвтор: webkubor. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://xiaobai.webkubor.online",
+    "category": "productivity",
+    "tags": [
+      "agent",
+      "agent-guide",
+      "ai",
+      "beginner-friendly",
+      "chinese",
+      "claude-code",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1394090266",
+    "createdAt": "2026-09-30T02:16:31.857Z"
+  },
+  {
+    "slug": "tabla-periodica-ia-github",
+    "title": "tabla-periodica-ia",
+    "shortDescription": "120 términos de IA organizados como la tabla periódica. Actualizada a septiembre 2026.",
+    "fullDescription": "120 términos de IA organizados como la tabla periódica. Actualizada a septiembre 2026.\n\nАвтор: devidbarreiro. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://devidbarreiro.github.io/tabla-periodica-ia/",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "glossary",
+      "llm",
+      "periodic-table",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1392910829",
+    "createdAt": "2026-09-30T02:16:31.857Z"
+  },
+  {
+    "slug": "moching-ai-desktop-agent-with-219-built-in-tools-rust-hn",
+    "title": "Moching – AI desktop agent with 219 built-in tools (Rust)",
+    "shortDescription": "Проект «Moching – AI desktop agent with 219 built-in tools (Rust)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Moching – AI desktop agent with 219 built-in tools (Rust)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/moching-ai-dev/moching",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49903470",
+    "createdAt": "2026-09-30T02:16:31.652Z"
+  },
+  {
+    "slug": "infinihash-app-store-compliance-tools-built-end-to-end-by-ai-agents-hn",
+    "title": "InfiniHash App Store – compliance tools built end-to-end by AI agents",
+    "shortDescription": "Проект «InfiniHash App Store – compliance tools built end-to-end by AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «InfiniHash App Store – compliance tools built end-to-end by AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://apps.infinihash.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49902852",
+    "createdAt": "2026-09-30T02:16:31.652Z"
+  },
+  {
+    "slug": "rules-that-stop-ai-agents-from-wrecking-your-warehouse-with-an-eval-hn",
+    "title": "Rules that stop AI agents from wrecking your warehouse, with an eval",
+    "shortDescription": "Проект «Rules that stop AI agents from wrecking your warehouse, with an eval», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Rules that stop AI agents from wrecking your warehouse, with an eval», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/idk-arsh/data-agent-rules",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49902237",
+    "createdAt": "2026-09-30T02:16:31.652Z"
+  },
+  {
     "slug": "dt-humandev-github",
     "title": "DT-HumanDev",
     "shortDescription": "An MIT-derived license permitting human development while restricting AI-assisted modification and AI-assisted derivative works. Experiment…",
