@@ -1,5 +1,207 @@
 [
   {
+    "slug": "minimax2api-github",
+    "title": "minimax2api",
+    "shortDescription": "OpenAI-compatible API proxy for the MiniMax Agent API. Chat Completions + streaming SSE, self-hosted, Docker-ready.",
+    "fullDescription": "OpenAI-compatible API proxy for the MiniMax Agent API. Chat Completions + streaming SSE, self-hosted, Docker-ready.\n\nАвтор: 0xgetz. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/0xgetz/minimax2api",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "api-proxy",
+      "chatgpt-api",
+      "docker",
+      "fastapi",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1397597402",
+    "createdAt": "2026-10-01T00:20:32.830Z"
+  },
+  {
+    "slug": "omarchy-yeet-ai-github",
+    "title": "omarchy-yeet-ai",
+    "shortDescription": "Ask a question, get a live dashboard of your system in seconds. An Omarchy bar plugin built with yeet.",
+    "fullDescription": "Ask a question, get a live dashboard of your system in seconds. An Omarchy bar plugin built with yeet.\n\nАвтор: yeet-src. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://yeet.cx",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "bar-widget",
+      "charts",
+      "claude",
+      "dashboard",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1396792548",
+    "createdAt": "2026-10-01T00:20:32.830Z"
+  },
+  {
+    "slug": "orchestrator-pipeline-skill-github",
+    "title": "orchestrator-pipeline-skill",
+    "shortDescription": "An agent skill that coordinates UI design, purposeful motion, 3D, and browser validation with one command installation of its companion ski…",
+    "fullDescription": "An agent skill that coordinates UI design, purposeful motion, 3D, and browser validation with one command installation of its companion skills.\n\nАвтор: klebr55. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/klebr55/orchestrator-pipeline-skill",
+    "category": "design",
+    "tags": [
+      "agent",
+      "agent-skills",
+      "ai",
+      "animation",
+      "claude",
+      "codex",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1396224624",
+    "createdAt": "2026-10-01T00:20:32.830Z"
+  },
+  {
+    "slug": "fondue-github",
+    "title": "fondue",
+    "shortDescription": "🫕 One pot, everyone brings a fork, no double-dipping. A team of AI agents that plan, build and review each other's work, with you as the t…",
+    "fullDescription": "🫕 One pot, everyone brings a fork, no double-dipping. A team of AI agents that plan, build and review each other's work, with you as the team lead. Spec-driven development and bug hunting for Claude Code.\n\nАвтор: jsobolewski1. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/jsobolewski1/fondue",
+    "category": "ai-tool",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "ai-agents",
+      "ai-code-review",
+      "claude-code",
+      "claude-code-plugin",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1396559866",
+    "createdAt": "2026-10-01T00:20:32.830Z"
+  },
+  {
+    "slug": "jobchecker-github",
+    "title": "jobchecker",
+    "shortDescription": "Self-hosted job aggregator that scores postings against your resume with Claude and writes a tailored resume and cover letter for the best…",
+    "fullDescription": "Self-hosted job aggregator that scores postings against your resume with Claude and writes a tailored resume and cover letter for the best matches\n\nАвтор: vadimermolenko8787. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/vadimermolenko8787/jobchecker",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "anthropic",
+      "career",
+      "claude",
+      "claude-code",
+      "cover-letter",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1394818617",
+    "createdAt": "2026-10-01T00:20:32.830Z"
+  },
+  {
+    "slug": "toolcode-github",
+    "title": "toolcode",
+    "shortDescription": "my first, very vibecoded, cli coder, that soon will be very cool probably",
+    "fullDescription": "my first, very vibecoded, cli coder, that soon will be very cool probably\n\nАвтор: chasekek. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/chasekek/toolcode",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "cli",
+      "code",
+      "coding",
+      "coding-agent",
+      "coding-agents",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1397305606",
+    "createdAt": "2026-10-01T00:20:32.830Z"
+  },
+  {
+    "slug": "blackgate-ai-game-github",
+    "title": "blackgate-ai-game",
+    "shortDescription": "AI 长期推理决策 Benchmark｜中转站 URL+API Key 全自动跑模型、实时日志、排行榜、赛后复盘与模型画像",
+    "fullDescription": "AI 长期推理决策 Benchmark｜中转站 URL+API Key 全自动跑模型、实时日志、排行榜、赛后复盘与模型画像\n\nАвтор: sstxww. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://sstxww.github.io/blackgate-ai-game/autoplay.html",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-benchmark",
+      "benchmark",
+      "chatgpt",
+      "claude",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1394561559",
+    "createdAt": "2026-10-01T00:20:32.830Z"
+  },
+  {
+    "slug": "certify-you-wrote-it-and-not-ai-hn",
+    "title": "Certify you wrote it and not AI",
+    "shortDescription": "Проект «Certify you wrote it and not AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Certify you wrote it and not AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://iwrote.co",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49914770",
+    "createdAt": "2026-10-01T00:20:32.600Z"
+  },
+  {
+    "slug": "made-a-digital-wall-for-ai-agents-to-tag-hn",
+    "title": "Made a digital wall for AI Agents to \"tag\"",
+    "shortDescription": "I had this idea that I wanted to make a small toy type game for AI to do that a human would not be able to play with. That&#x27;s definitel…",
+    "fullDescription": "I had this idea that I wanted to make a small toy type game for AI to do that a human would not be able to play with. That&#x27;s definitely not this but it turned a bit more &quot;artistic&quot;, ofc you could just do the challenge manually (or assisted) and you can &quot;tag&quot; the wall too, but why? just let the computer do it.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.tomasmed.dev/wall",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49914322",
+    "createdAt": "2026-10-01T00:20:32.601Z"
+  },
+  {
+    "slug": "perspica-a-semantic-diff-for-reviewing-code-hn",
+    "title": "Perspica – A semantic diff for reviewing code",
+    "shortDescription": "I started using this a little over half a year ago to help me navigate through some large AI coded PRs people were submitting, because I fe…",
+    "fullDescription": "I started using this a little over half a year ago to help me navigate through some large AI coded PRs people were submitting, because I felt like if I looked at the PR on Github I would just auto pass it through because I didn&#x27;t want to deal with it. Thought I&#x27;d clean it up and share it in case this style of review was useful to anyone else. Obviously it relies on an LLM run to get true semantic groupings of what changes were done, and why, but can also be used without an LLM to get more mechanical groupings&#x2F;group names of changes made, along with the right order to view them in. The manual tree-sitter parsed analysis is deliberately conservative for now, but if people want to avoid the LLM analysis I can spend more time on that. You can use it for other peoples PRs, or for your own when you&#x27;ve relied heavily on Claude Code or Codex for that particular PR. If the change came from your own Claude Code or Codex session, it reads your prompts and marks which changes you asked for and which the agent decided on its own as well to help you validate it before submitting for others to review. Demo video done on some public project PRs is in the repo; for a look at what it looks like when it pulls in information about your own claude&#x2F;codex sessions you&#x27;ll have to use it yourself for now, but I&#x27;ll work on getting an example of that up soon so people can take a look before spending time to get this to work locally for themselves. I also added support for perforce style side by side diffing because I always kind of liked it, though it&#x27;s not quite as slick yet.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/sshah03/perspica",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49914005",
+    "createdAt": "2026-10-01T00:20:32.601Z"
+  },
+  {
     "slug": "ai-agent-for-pc-github",
     "title": "ai-agent-for-pc",
     "shortDescription": "A simple Windows AI agent that runs locally with a single .exe file. No command line or complex setup required.",
