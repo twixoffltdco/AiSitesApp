@@ -1,5 +1,107 @@
 [
   {
+    "slug": "strands-decider-github",
+    "title": "strands-decider",
+    "shortDescription": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with…",
+    "fullDescription": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.\n\nАвтор: strands-labs. Найдено в GitHub Trending (AI-тематика). ⭐ 51 звёзд.",
+    "url": "https://strandsagents.com/docs/labs/",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "machine-learning",
+      "natural-language-understanding",
+      "python",
+      "strands-agents",
+      "strands-labs",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1395995350",
+    "createdAt": "2026-10-01T23:19:54.484Z"
+  },
+  {
+    "slug": "phreshos-os-for-web-apps-hn",
+    "title": "PhreshOS – OS for Web Apps",
+    "shortDescription": "I&#x27;d like to share my experience building this system with you. It&#x27;s an operating system for web applications, and it took me abou…",
+    "fullDescription": "I&#x27;d like to share my experience building this system with you. It&#x27;s an operating system for web applications, and it took me about six months to develop this model. The idea is that every time I build a web tool, I need to design the infrastructure, including authentication and communication. If it&#x27;s a WebSocket, it&#x27;s even more complicated; I need another port for each application. I couldn&#x27;t find any neutral tool that provided all of this ready-made, allowing me to build my tools directly on top of it. This is where the PhreshOS project began. It&#x27;s an open-source, neutral platform for any web application, with everything ready-made: authentication, two-way communication without any configuration, and more. Another key feature is that the applications run as Node.js threads, instead of each application using its own Node.js. This means that on a simple server, dozens of applications can run without any problems, unlike if each application had its own Node.js. Furthermore, AI agents can use the services of these applications and interact with the same state displayed by your application&#x27;s interface, without needing a separate interface of their own. The project and all its associated packages are open source under the MIT license. I welcome all your feedback, both encouraging and critical.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/PhreshOS/system",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49928011",
+    "createdAt": "2026-10-01T23:19:54.237Z"
+  },
+  {
+    "slug": "headwater-volume-ingestion-matrix-a-production-shortcut-hn",
+    "title": "HeadWater Volume Ingestion Matrix – a production shortcut",
+    "shortDescription": "Проект «HeadWater Volume Ingestion Matrix – a production shortcut», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «HeadWater Volume Ingestion Matrix – a production shortcut», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/PunkiePal/HeadWater-AI-Digital-Products/blob/main/HeadWater_Volume_Ingestion_Matrix_&_Architecture_Kit.md",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49926707",
+    "createdAt": "2026-10-01T23:19:54.237Z"
+  },
+  {
+    "slug": "premortem-ai-agents-that-red-team-your-startup-idea-hn",
+    "title": "Premortem – AI agents that red-team your startup idea",
+    "shortDescription": "Проект «Premortem – AI agents that red-team your startup idea», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Premortem – AI agents that red-team your startup idea», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://premortem.site",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49926691",
+    "createdAt": "2026-10-01T23:19:54.237Z"
+  },
+  {
+    "slug": "headwater-b2b-data-and-ai-kit-a-production-architecture-shortcut-hn",
+    "title": "HeadWater B2B Data and AI Kit – A Production Architecture Shortcut",
+    "shortDescription": "Проект «HeadWater B2B Data and AI Kit – A Production Architecture Shortcut», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «HeadWater B2B Data and AI Kit – A Production Architecture Shortcut», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/PunkiePal/HeadWater-AI-Digital-Products/blob/main/headwater-b2b-data-purification-%26-AI-Ingestion-Implementation-Kit.md",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49926486",
+    "createdAt": "2026-10-01T23:19:54.237Z"
+  },
+  {
+    "slug": "zsh-codex-assistant-codex-session-attached-to-your-shell-hn",
+    "title": "Zsh-codex-assistant: codex session attached to your shell",
+    "shortDescription": "None of the AI-in-the-shell projects were good enough for me, so I made my own minimalistic plugin that simply runs a Codex instance in bac…",
+    "fullDescription": "None of the AI-in-the-shell projects were good enough for me, so I made my own minimalistic plugin that simply runs a Codex instance in background and attaches it to my shell on demand\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/klntsky/zsh-codex-assistant",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49925958",
+    "createdAt": "2026-10-01T23:19:54.237Z"
+  },
+  {
     "slug": "swe-sweep-github",
     "title": "swe-sweep",
     "shortDescription": "How many bugs can LMs find & fix in large codebases?",
