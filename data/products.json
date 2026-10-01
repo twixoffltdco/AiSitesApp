@@ -1,5 +1,81 @@
 [
   {
+    "slug": "summerizeai-github",
+    "title": "summerize_ai",
+    "shortDescription": "Agentic AI summarizer that compresses source code and technical theory into meaningful summaries. Focus keywords, source tracing, flashcard…",
+    "fullDescription": "Agentic AI summarizer that compresses source code and technical theory into meaningful summaries. Focus keywords, source tracing, flashcards, multi-format export. Runs in your browser. Designed and Developed by NIKHIL CHARY SRIRAMOJU.\n\nАвтор: Nikhil-creat. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://nikhil-creat.github.io/summerize_ai/",
+    "category": "ai-tool",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "developer-tools",
+      "education",
+      "gemini",
+      "github-pages",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1396806048",
+    "createdAt": "2026-10-01T06:20:22.821Z"
+  },
+  {
+    "slug": "pcb-claude-plugin-github",
+    "title": "pcb-claude-plugin",
+    "shortDescription": "Claude Code plugin: from a circuit idea to a manufacturable KiCad PCB",
+    "fullDescription": "Claude Code plugin: from a circuit idea to a manufacturable KiCad PCB\n\nАвтор: virajrungta. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/virajrungta/pcb-claude-plugin",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "autorouter",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "eda",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1398845375",
+    "createdAt": "2026-10-01T06:20:22.821Z"
+  },
+  {
+    "slug": "meettwins-an-ai-that-attends-google-meet-and-wont-improvise-hn",
+    "title": "MeetTwins, an AI that attends Google Meet and won't improvise",
+    "shortDescription": "Проект «MeetTwins, an AI that attends Google Meet and won't improvise», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «MeetTwins, an AI that attends Google Meet and won't improvise», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/30/show-colleagues-how-much-you-care-by-sending-an-ai-avatar-to-your-google-meet-call/5300205",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49918045",
+    "createdAt": "2026-10-01T06:20:22.909Z"
+  },
+  {
+    "slug": "vietnam-tender-intelligence-gov-procurement-data-ai-agent-ready-hn",
+    "title": "Vietnam Tender Intelligence – gov procurement data, AI-agent ready",
+    "shortDescription": "Проект «Vietnam Tender Intelligence – gov procurement data, AI-agent ready», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Vietnam Tender Intelligence – gov procurement data, AI-agent ready», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://apify.com/donerightlabs/tender-intelligence",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49917863",
+    "createdAt": "2026-10-01T06:20:22.910Z"
+  },
+  {
     "slug": "minimax2api-github",
     "title": "minimax2api",
     "shortDescription": "OpenAI-compatible API proxy for the MiniMax Agent API. Chat Completions + streaming SSE, self-hosted, Docker-ready.",
