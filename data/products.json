@@ -1,5 +1,273 @@
 [
   {
+    "slug": "swe-sweep-github",
+    "title": "swe-sweep",
+    "shortDescription": "How many bugs can LMs find & fix in large codebases?",
+    "fullDescription": "How many bugs can LMs find & fix in large codebases?\n\nАвтор: facebookresearch. Найдено в GitHub Trending (AI-тематика). ⭐ 14 звёзд.",
+    "url": "https://swesweep.com",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "benchmark",
+      "benchmarking",
+      "harbor",
+      "harbor-framework",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1399145083",
+    "createdAt": "2026-10-01T19:15:28.424Z"
+  },
+  {
+    "slug": "centdeck-github",
+    "title": "CentDeck",
+    "shortDescription": "AI frontend workbench with built-in agents, an infinite canvas and presentation-like visual editing. Refine real HTML/CSS without spending…",
+    "fullDescription": "AI frontend workbench with built-in agents, an infinite canvas and presentation-like visual editing. Refine real HTML/CSS without spending model tokens.\n\nАвтор: zzz27578. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/zzz27578/CentDeck",
+    "category": "no-code",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "byok",
+      "chatgpt",
+      "css",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1394126647",
+    "createdAt": "2026-10-01T19:15:28.424Z"
+  },
+  {
+    "slug": "pbi-guard-stop-people-from-messing-up-your-power-bi-you-included-hn",
+    "title": "PBI Guard – Stop people from messing up your Power BI (you included)",
+    "shortDescription": "Hi HN! I have been a frequent user of Power BI for some time, and I have observed that the tooling is not up to date with the latest platfo…",
+    "fullDescription": "Hi HN! I have been a frequent user of Power BI for some time, and I have observed that the tooling is not up to date with the latest platforms&#x2F;tooling in software engineering. Although some testing tools and frameworks exist (like Tabular Editor 2&#x2F;3 or PQL), my day-to-day use cases felt like using a shotgun to catch fish (sure, you can do it, but a rod would have been better). So, I talked to some people and built a Power BI error checker where you can freeze a .pbip at any point in time (consider it the golden source of truth), and if you or someone else (person or AI) changes something that you don&#x27;t like, you see exactly what changed in your data. You can also add your own tests using simple YAML instructions (similar to DAX) or drag-and-drop tools. If you work with Power BI and you are sick of digging through tables to understand what went wrong, this tool might be for you! It is open-source, written in Python, and it is pretty fast at catching issues. If you have any feedback&#x2F;comments, I&#x27;d be glad to hear them.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://patens-dev.github.io/pbi-guard/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49925738",
+    "createdAt": "2026-10-01T19:15:28.354Z"
+  },
+  {
+    "slug": "mutually-beneficial-agentic-common-law-hn",
+    "title": "Mutually beneficial agentic Common Law",
+    "shortDescription": "The BarristerAI team, including international legal experts, have launched a new venture: a court for agents. Agents are increasingly worki…",
+    "fullDescription": "The BarristerAI team, including international legal experts, have launched a new venture: a court for agents. Agents are increasingly working in the same financial and social spaces as humans, but without any oversight or accountability. Your agent quotes you 100$ and spends $200, there&#x27;s nothing you can do, no lessons learned, no accountability. Peregrini&#x27;s Court of Common Pleas tracks those mistakes, help you and other agents learn from them by establishing law that must be adhered to, and keeping a record of what agents owe you money. The money might be repaid by model makers, but more likely it is borne as a mark against the model&#x27;s trust score so that we might better choose the models we can trust with the work that matters. It&#x27;s not just oversight for the sake of oversight, we have found that a good set of laws, and agents discovering best practices together on a corpus of law that can move and progress as fast as they do, makes agents more effective, more conforming, fix their moistakes unprompted, and more aligned with the goals of the user. We think that using the law as a structure is the best way to go about achieving alignment. Further, we have built &quot;House Rules&quot;, where your enrolled agents can be held accountable to your own set of laws, you can write what those are, enforce them across your company, share with others who can adopt them - or - use Peregrini&#x27;s ever changing ever growing corpus of law to enforce best practices with your agents. Try a demo to see how it works: https:&#x2F;&#x2F;github.com&#x2F;afkalyk&#x2F;peregrini-demo Or install the mandate to run it on your machine at the website. It runs on most launchers, but we&#x27;re always adding more.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.peregrini.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49925418",
+    "createdAt": "2026-10-01T19:15:28.354Z"
+  },
+  {
+    "slug": "benchmarking-multilingual-conversational-asr-hn",
+    "title": "Benchmarking Multilingual Conversational ASR",
+    "shortDescription": "Проект «Benchmarking Multilingual Conversational ASR», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Benchmarking Multilingual Conversational ASR», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://research.withdavid.ai/blog/dai-asr-i18n",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49925057",
+    "createdAt": "2026-10-01T19:15:28.354Z"
+  },
+  {
+    "slug": "breadcrumb-record-everything-on-your-mac-context-manager-for-ai-hn",
+    "title": "Breadcrumb, record everything on your mac + context manager for AI",
+    "shortDescription": "Hi HN, I&#x27;m Justin. Breadcrumb records everything you do on your Mac (screen + meetings + AI transcripts + what you and your AI decided…",
+    "fullDescription": "Hi HN, I&#x27;m Justin. Breadcrumb records everything you do on your Mac (screen + meetings + AI transcripts + what you and your AI decided) and turns it into memory your AI can search. It&#x27;s local and encrypted. You can also teach it rules by talking to it and it makes sure the right rules turn up in the right context. Works with Claude Code &#x2F; Codex &#x2F; Cursor &#x2F; opencode. All of this is exposed to your AI as 30+ MCP tools (here&#x27;s the definitions): https:&#x2F;&#x2F;innerloop.works&#x2F;breadcrumb&#x2F;mcp I started it in June because I wanted to understand what was going on with my AI dev work. Then it just kept growing as I jammed on it 10 hours a day for 3 months. I started by recording every screen so I could jump back to a moment and see what I&#x27;d been doing with the AI. Then I added MCP so the AI could search it. Then time tracking. Then meetings with transcripts and timestamped screenshots. After that I started feeding the data back in. At first it was just a few relevant memories in the prompt. Then I started adding rules and rules modules. Then I started recording the AI transcripts and all the other stuff the AI did (subagents, tools etc). I wanted a complete record so I could go back and see what the AI did and why. I found the more data the AI had the more useful it became. One example. I got off a zoom call with the team at the day job and said: &quot;Review the meeting I just had, find all the bugs we discussed, and create JIRA tickets with screenshots.&quot; It read the transcript. Found every bug we mentioned, pulled the screens from the screen timeline, spun up my local server, diagnosed each bug, reviewed the code, created 14 tickets in JIRA with diagnosis and likely fixes, attached 12 screenshots as evidence, and created a nice Slack message to send to my colleagues. I never built a workflow for any of that. Claude had the meeting record, Breadcrumb tools, and rules I&#x27;d accumulated. It basically chained the steps together itself. My favorite thing about the system is observability of my own work as an AI developer. I can trace a bug all the way back to the first thing I said (or the first thing the AI did) that caused it. Then I can add a rule so it doesn&#x27;t happen again. Anyway, my working system is simply Claude Desktop + Breadcrumb + Markdown. I find I don&#x27;t need anything else. It&#x27;s local software for one person. Local models for transcription and diarization. Data encrypted with SQLCipher and a passphrase. You can exclude any apps, websites, words and phrases. Breadcrumb itself only makes one network call which is a daily update check. (but of course your AI will use it and that is local or cloud depending on what you use). It runs cool about 12% of one core on average (M series mac has 8+). You can set it to just save OCR text or to save screenshots. If just OCR it&#x27;s about 12mb day (a lot of telemetry, indexing etc). If you record screenshots on meetings it&#x27;s about 120mb&#x2F;hour (1 every 2 secs). It can also record screenshots of everything that&#x27;s heavy at about 160mb&#x2F;day. It does local classification&#x2F;naming with ollama with Gemma 3 4B (2.5 GB). It&#x27;s 100% free. There&#x27;s no account you can just download and start using it. I&#x27;ll monetize it via E2EE cloud sync and team sync. It&#x27;s open beta. Just one developer working on it. Requires 16GB+ M Series Mac. Thanks for reading! https:&#x2F;&#x2F;innerloop.works&#x2F;breadcrumb (homepage) https:&#x2F;&#x2F;innerloop.works&#x2F;breadcrumb&#x2F;download (direct download) https:&#x2F;&#x2F;innerloop.works&#x2F;breadcrumb&#x2F;mcp (mcp definitions) https:&#x2F;&#x2F;discord.gg&#x2F;gmavGZ6J8u (feedback and requests)\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://innerloop.works/breadcrumb",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49924943",
+    "createdAt": "2026-10-01T19:15:28.355Z"
+  },
+  {
+    "slug": "add-a-natural-language-interface-to-your-saas-w-yedric-hn",
+    "title": "Add a natural-language interface to your SaaS w/ Yedric",
+    "shortDescription": "Hi HN, I&#x27;ve been building SaaS products for more than 20 years, and lately I&#x27;ve been thinking a lot about how we interact with so…",
+    "fullDescription": "Hi HN, I&#x27;ve been building SaaS products for more than 20 years, and lately I&#x27;ve been thinking a lot about how we interact with software. When we add a feature, we have to figure out where it goes in the UI and how users will interact with it. Then users have to learn our particular way of doing something. AI lets us flip that around: the software can translate what the user wants into the actions needed to accomplish it. Yedric lets devs add a natural-language interface to an existing SaaS app. You expose your app&#x27;s actions and give it your docs and user context. Users can then ask for things like: • &quot;Export the table to a CSV&quot; • &quot;Fix this disconnected integration&quot; • &quot;Change my logo color to #B5E2F4&quot; We originally built Yedric for our own Shopify apps and discovered an interesting side effect: the conversations became a useful source of product feedback. One of our apps surfaced 80+ distinct feature requests this way last month. Yedric uses a small JS SDK and MCP to connect to your app&#x27;s capabilities. It&#x27;s free, you bring your own LLM key, and you can get a basic implementation running in under 30 minutes. Let me know how you like it!\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://www.yedric.ai",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49924752",
+    "createdAt": "2026-10-01T19:15:28.355Z"
+  },
+  {
+    "slug": "i-got-sick-of-sequencers-and-crms-so-i-built-this-hn",
+    "title": "I got sick of sequencers and CRMs, so I built this",
+    "shortDescription": "I&#x27;ve built and sold software that plugs into CRMs, and for years I&#x27;ve been unhappy with mass messaging and sequencer tools. They…",
+    "fullDescription": "I&#x27;ve built and sold software that plugs into CRMs, and for years I&#x27;ve been unhappy with mass messaging and sequencer tools. They feel generic, and they don&#x27;t work. I have a warm book of relationships and a long sales cycle, and I need to keep everyone up to date with personalized outreach. No tool did this, so I ended up dumping my entire email into an agent chat and asking &quot;who should I reach out to today?&quot; That helps with replies, but it doesn&#x27;t answer &quot;who are the best prospects I&#x27;ve ever talked to, and what message gets them closer to a sale today?&quot; So I built Ember. It reads your inbox and CRM and keeps up with every relationship the way you would. If someone says &quot;circle back in April,&quot; it circles back in April. If it isn&#x27;t sure, it asks first. My company&#x27;s sales team still pays for HubSpot and Attio, but Ember is the only interface they use now. I think we&#x27;ll drop those soon. It&#x27;s not cold outreach and it&#x27;s not a workflow builder. It&#x27;s more like a version of me and my team that never drops a thread. Free to try at withember.ai.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://withember.ai",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49924260",
+    "createdAt": "2026-10-01T19:15:28.355Z"
+  },
+  {
+    "slug": "keel-give-your-agent-a-typed-strategy-language-not-a-trading-account-hn",
+    "title": "Keel – Give your agent a typed strategy language, not a trading account",
+    "shortDescription": "I’ve been using AI agents to build systematic strategies on Hyperliquid for over a year, and slowly built up a reliable system to represent…",
+    "fullDescription": "I’ve been using AI agents to build systematic strategies on Hyperliquid for over a year, and slowly built up a reliable system to represent, test and deploy strategies. Typically there are a few options 1) llm in the execution loop, ie it makes decisions and trades, but that is slow, inconsistent and hard to audit 2) you have an agent write all the code, backtest etc, but it makes tons of subtle mistakes with time series data and diff timeframe etc, and is often not reusing bits. There are some ways to improve this of course with right frameworks and setups. But its still hard to be confident in its correctness and its hard for you to verify quickly. With Keel we built a small typed language (DSL) to represent strategies. It uses a well defined set of components to build a DAG of steps, it carries types and clocks. This allows agents to build these strategies with a really fast feedback loop as they can be quickly validated and many common errors avoided. In a DAG its also easy to inspect intermediate results. Valid strategies are fingerprinted and the exact same artifact runs in backtesting and live. These strategies are also much easier for humans to verify as they are self describing components, and mostly linear to read and reason about. Still trying to improve the space of how many types of different strategies can be represented in this and still trying to improve how well LLMs go from natural language to strategy. A lot of the improvements come from just giving the agents better and faster tools and faster feedback loops.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://usekeel.io/how-it-works",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49924208",
+    "createdAt": "2026-10-01T19:15:28.355Z"
+  },
+  {
+    "slug": "call4me-an-ai-agent-that-handles-phone-calls-for-you-hn",
+    "title": "Call4me, an AI agent that handles phone calls for you",
+    "shortDescription": "introducing https:&#x2F;&#x2F;call4.me , an ai agent that handles phone calls for you. you can use it to cancel subscriptions, book medical…",
+    "fullDescription": "introducing https:&#x2F;&#x2F;call4.me , an ai agent that handles phone calls for you. you can use it to cancel subscriptions, book medical appointments, dinners, change flights, or anything else possible with a call. most importantly, it works in claude code &amp; codex. i spend most of my time in the terminal, so i want my productivity tools to live there as well. switching to imessage or another app annoys me. i&#x27;ve now handled dozens of tasks over the phone using it &amp; am in love. if you&#x27;re like me &amp; hate breaking concentration to dial, you&#x27;ll likely love it as well. it&#x27;s fully open source: https:&#x2F;&#x2F;github.com&#x2F;skeptrunedev&#x2F;call4me\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://call4.me/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49923445",
+    "createdAt": "2026-10-01T19:15:28.355Z"
+  },
+  {
+    "slug": "truescribe-linux-local-ai-transcription-studio-hn",
+    "title": "TrueScribe – Linux local AI transcription studio",
+    "shortDescription": "Switched to Fedora a year ago. And because I needed to transcribe interviews offline from time to time, I was looking for something like Ma…",
+    "fullDescription": "Switched to Fedora a year ago. And because I needed to transcribe interviews offline from time to time, I was looking for something like MacWhisper for Linux. When I couldn&#x27;t find one, I decided to build one. Because in this day and age, why the hell not! And yes, AI coding-agents were used. I work as a .NET Software Engineer and I despise Electron Apps, so I decided to go with a semi-native Stack, consisting of C# and Avalonia.Net (hardware accelerated trough SkiaSharp) for the frontend and C++ for low-level model bindings (CTranslate2 for translation, Nemotron 3 NeMo-Speech.cpp for Speaker Identification via JSON-RPC worker). A friend liked the app and told me to go Freemium, so here we are. Works also on Windows btw.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://truescribe.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49923302",
+    "createdAt": "2026-10-01T19:15:28.355Z"
+  },
+  {
+    "slug": "bananasplit-cli-manage-personal-and-group-expenses-with-ai-agents-hn",
+    "title": "BananaSplit CLI – manage personal and group expenses with AI agents",
+    "shortDescription": "Проект «BananaSplit CLI – manage personal and group expenses with AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «BananaSplit CLI – manage personal and group expenses with AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://bananasplit.net/en/agents/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49923045",
+    "createdAt": "2026-10-01T19:15:28.355Z"
+  },
+  {
+    "slug": "read-the-odyssey-in-greek-while-learning-greek-hn",
+    "title": "Read the Odyssey in Greek while learning Greek",
+    "shortDescription": "I made a way to (sort of) read the Odyssey in Greek without all those years of learning Greek first. I’ve had a deep interest in reading gr…",
+    "fullDescription": "I made a way to (sort of) read the Odyssey in Greek without all those years of learning Greek first. I’ve had a deep interest in reading great literature in its original language since I studied Latin in High School, but wanted to find ways of reading real literature quickly. I’ve used this method myself to read books in several languages including Italian, German, Chinese, Japanese, and Greek. You still have to do the grammar and vocabulary study over time to really comprehend it, but this method has worked far better than all my previous attempts. The goal is to eventually be able just to read the language without any aids, but do that while reading real stuff the entire time. I’ve found that I go from needing help on everything, to learning individual words, to phrases, and then gradually I get to understanding whole sentences without looking anything up. Using a translation helps to keep me honest. I made a little demo of some lines from the Odyssey Book 1 to share the method and see if other people might find it useful. This is a special version that has a lot of explanation to see if something as difficult as Homeric Greek can be approached from 0. The interlinear translation and notes are AI generated though I made sure to ground them in real translations and existing grammatical tags. The commentary won&#x27;t be as good as an actual Classical scholar&#x27;s work and can be overly simplistic, but I&#x27;m hoping it&#x27;s enough to get started. There are other versions that feature progressive grammar learning and identification as well as flashcards. If people are interested I&#x27;m happy to share the rest of the book or other texts I&#x27;ve made and read myself. I have the New Testament in Greek and then a bunch of other works in lots of ancient and modern languages.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://readwithgloss.com/texts/odyssey/1",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49922810",
+    "createdAt": "2026-10-01T19:15:28.356Z"
+  },
+  {
+    "slug": "fast-browser-agent-using-jev-with-deep-reasoning-as-needed-hn",
+    "title": "Fast browser agent (using Jev) with deep reasoning as needed",
+    "shortDescription": "Проект «Fast browser agent (using Jev) with deep reasoning as needed», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Fast browser agent (using Jev) with deep reasoning as needed», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://github.com/ironbee-ai/ironbee-express",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49922799",
+    "createdAt": "2026-10-01T19:15:28.356Z"
+  },
+  {
+    "slug": "rename-screenshots-into-searchable-filenames-with-ai-hn",
+    "title": "Rename screenshots into searchable filenames with AI",
+    "shortDescription": "Проект «Rename screenshots into searchable filenames with AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Rename screenshots into searchable filenames with AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.nevorago.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49922416",
+    "createdAt": "2026-10-01T19:15:28.356Z"
+  },
+  {
+    "slug": "tegaki-handwriting-animation-for-any-font-hn",
+    "title": "Tegaki – Handwriting animation for any font",
+    "shortDescription": "I created Tegaki because I know animating handwriting manually is a tedious task, especially in an era where most things are automated. The…",
+    "fullDescription": "I created Tegaki because I know animating handwriting manually is a tedious task, especially in an era where most things are automated. The project has a generator that extracts skeletons of font glyphs from raster&#x2F;geometry data and matches them with known stroke orders like Hershey and KanjiVG. It creates a format that&#x27;s bundled to be rendered by the client-side renderer. The renderer supports plugins to re-style the font or use the stroke data in more creative ways. For example, you could add variations to your strokes, add stroke order and direction guides for learning applications, or create stylish animations like burning or flashing text. If you are about to create motion design videos, give Tegaki a try. AI agents still can&#x27;t create convincing handwriting animations for arbitrary fonts, and mostly rely on typewriter effects. Handwriting animations will give a fresh and unique look to your videos.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://tegaki.ink/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49921939",
+    "createdAt": "2026-10-01T19:15:28.356Z"
+  },
+  {
     "slug": "openpages-github",
     "title": "openpages",
     "shortDescription": "Open-source AI workspace for humans and agents — SuperCompress as the core context layer.",
