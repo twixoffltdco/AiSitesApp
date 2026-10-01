@@ -1,5 +1,173 @@
 [
   {
+    "slug": "openpages-github",
+    "title": "openpages",
+    "shortDescription": "Open-source AI workspace for humans and agents — SuperCompress as the core context layer.",
+    "fullDescription": "Open-source AI workspace for humans and agents — SuperCompress as the core context layer.\n\nАвтор: arjunkshah12345-hash. Найдено в GitHub Trending (AI-тематика). ⭐ 20 звёзд.",
+    "url": "https://openpages-iota.vercel.app",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "mcp",
+      "nextjs",
+      "open-source",
+      "supercompress",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1396886839",
+    "createdAt": "2026-10-01T13:42:57.359Z"
+  },
+  {
+    "slug": "awesome-robotics-resources-github",
+    "title": "awesome-robotics-resources",
+    "shortDescription": "Free Robotics & AI learning resources, including courses, books, lectures, research papers, tutorials, projects, and more.",
+    "fullDescription": "Free Robotics & AI learning resources, including courses, books, lectures, research papers, tutorials, projects, and more.\n\nАвтор: zermello. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://zermello.github.io/awesome-robotics-resources/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-resources",
+      "artificial-intelligence",
+      "computer-vision",
+      "deep-learning",
+      "free-resources",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1398174806",
+    "createdAt": "2026-10-01T13:42:57.359Z"
+  },
+  {
+    "slug": "army-of-agents-github",
+    "title": "Army-of-Agents",
+    "shortDescription": "Command center for your human + AI team",
+    "fullDescription": "Command center for your human + AI team\n\nАвтор: tandavkrishna27. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://www.armyofagents.org",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-governance",
+      "harness",
+      "harness-framework",
+      "orchestration",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1398222728",
+    "createdAt": "2026-10-01T13:42:57.359Z"
+  },
+  {
+    "slug": "anthill-github",
+    "title": "Anthill",
+    "shortDescription": "Your own AI, owned, not rented. Runs open models on your machine or your cloud, builds a wiki it maintains itself, and trains a model you k…",
+    "fullDescription": "Your own AI, owned, not rented. Runs open models on your machine or your cloud, builds a wiki it maintains itself, and trains a model you keep.\n\nАвтор: OneHillAI. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://anthill.run",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "gpt",
+      "llm",
+      "local-first",
+      "open-source",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1398548592",
+    "createdAt": "2026-10-01T13:42:57.359Z"
+  },
+  {
+    "slug": "i-made-a-technical-trivia-quiz-app-graded-by-ai-hn",
+    "title": "I made a technical trivia quiz app graded by AI",
+    "shortDescription": "Hey HN, I procrastinate looking for a job by creating side projects. This one was born when I finally decided it was time for look for a jo…",
+    "fullDescription": "Hey HN, I procrastinate looking for a job by creating side projects. This one was born when I finally decided it was time for look for a job. Naturally, I wanted to prepare for an eventual interview and asked Claude to drill me. It did an OK job but the questions were mostly bad and the process was not great. So I decided to build a library of good questions first and still get AI to grade and help me with the answers. And created a web app for it. Among my family and friends, non-technical topics turned out to be more popular so I kept adding those too. The app uses Jev to grade the answers (was using gpt-oss-120b before Jev was released) and different models from OpenRouter to compose the feedback for wrong&#x2F;incomplete answers. The app itself is pretty simple but the admin is probably the coolest part, including a 4-part AI jury for fact-checking questions and rating them for difficulty and correctness, among other things. Had a lot of fun building this. Anyway, give it a try and let me know what you think! Accounts are optional - only if you want to have streaks and stats and other QoL stuff. Detailed answer feedback will eventually be gated behind a paid subscription but in the Beta it will be available to anyone with an account.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://nadir.dev/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49921262",
+    "createdAt": "2026-10-01T13:42:57.188Z"
+  },
+  {
+    "slug": "nixm-ai-chat-that-keeps-no-transcript-we-measured-the-trade-off-hn",
+    "title": "Nixm – AI chat that keeps no transcript (we measured the trade-off)",
+    "shortDescription": "Проект «Nixm – AI chat that keeps no transcript (we measured the trade-off)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Nixm – AI chat that keeps no transcript (we measured the trade-off)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://nixm.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49921166",
+    "createdAt": "2026-10-01T13:42:57.188Z"
+  },
+  {
+    "slug": "open-source-voice-mode-and-talking-avatar-for-react-in-the-browser-hn",
+    "title": "Open-source voice mode and talking avatar for React, in the browser",
+    "shortDescription": "Проект «Open-source voice mode and talking avatar for React, in the browser», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Open-source voice mode and talking avatar for React, in the browser», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/927tanmay/react-ai-voice-avatar",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49921030",
+    "createdAt": "2026-10-01T13:42:57.188Z"
+  },
+  {
+    "slug": "sensii-leagueoflegends-live-ai-coach-hn",
+    "title": "Sensii – LeagueOfLegends live AI coach",
+    "shortDescription": "Hi everyone, I&#x27;m Daniel I built an open-source AI Voice agent where players can talk to a coach during the game. It works based on the…",
+    "fullDescription": "Hi everyone, I&#x27;m Daniel I built an open-source AI Voice agent where players can talk to a coach during the game. It works based on the awesome repo, live game stat and screenshot (disabled by default) download: https:&#x2F;&#x2F;sensii.gg&#x2F;download The agent: https:&#x2F;&#x2F;github.com&#x2F;sorena-ai&#x2F;LeagueAiCoach The knowledge base: https:&#x2F;&#x2F;github.com&#x2F;sorena-ai&#x2F;awesome-league-of-legends\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://sensii.gg",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49920584",
+    "createdAt": "2026-10-01T13:42:57.188Z"
+  },
+  {
+    "slug": "the-kio-programming-language-hn",
+    "title": "The Kio Programming Language",
+    "shortDescription": "Kio is a statically typed, hosted language that is designed to be ultra-portable. Kio 0.1 supports eight host languages and more will be ad…",
+    "fullDescription": "Kio is a statically typed, hosted language that is designed to be ultra-portable. Kio 0.1 supports eight host languages and more will be added in the coming weeks. Kio is based on polymorphic lambda calculus with higher-kinded types. Kio has type-driven macros (elaborators) and it can statically check asserted equivalences using a normalizer. Kio is a minimalistic language. It doesn&#x27;t have built-in effectful functions and it doesn&#x27;t even have built-in string or numeric types. Instead programs declare the capabilities they need and the host supplies them. The language is designed with AI, which is bound to raise some eyebrows, so I blogged about that here: https:&#x2F;&#x2F;jdevuyst.github.io&#x2F;kio&#x2F;blog&#x2F;2026-10-01-introducing-k...\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://jdevuyst.github.io/kio/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49920582",
+    "createdAt": "2026-10-01T13:42:57.188Z"
+  },
+  {
     "slug": "summerizeai-github",
     "title": "summerize_ai",
     "shortDescription": "Agentic AI summarizer that compresses source code and technical theory into meaningful summaries. Focus keywords, source tracing, flashcard…",
