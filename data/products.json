@@ -1,5 +1,209 @@
 [
   {
+    "slug": "nuvex-services-github",
+    "title": "nuvex-services",
+    "shortDescription": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
+    "fullDescription": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.\n\nАвтор: NuvexNetwork. Найдено в GitHub Trending (AI-тематика). ⭐ 139 звёзд.",
+    "url": "https://github.com/NuvexNetwork/nuvex-services",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "api",
+      "indexer",
+      "infra",
+      "off-chai",
+      "postgresql",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1397328056",
+    "createdAt": "2026-10-02T20:04:26.940Z"
+  },
+  {
+    "slug": "aigoodpractice-github",
+    "title": "ai_goodpractice",
+    "shortDescription": "full guide to help you integrate AI in your workflow, for both beginners and experienced users",
+    "fullDescription": "full guide to help you integrate AI in your workflow, for both beginners and experienced users\n\nАвтор: xop01. Найдено в GitHub Trending (AI-тематика). ⭐ 11 звёзд.",
+    "url": "https://github.com/xop01/ai_goodpractice",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-coding",
+      "ai-model",
+      "ai-safety",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1401538687",
+    "createdAt": "2026-10-02T20:04:26.940Z"
+  },
+  {
+    "slug": "open-source-ma-tools-hn",
+    "title": "Open-Source M&A Tools",
+    "shortDescription": "Проект «Open-Source M&A Tools», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Open-Source M&A Tools», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://opensource.mainstreetwealth.ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49937418",
+    "createdAt": "2026-10-02T20:04:26.666Z"
+  },
+  {
+    "slug": "another-stock-screener-without-ai-news-or-analyst-ratings-hn",
+    "title": "Another stock screener without AI, news, or analyst ratings",
+    "shortDescription": "Hi HN, Holder Dashboard is a stock screener, yes, but it ranks and compares companies using their historical fundamental data (revenue, net…",
+    "fullDescription": "Hi HN, Holder Dashboard is a stock screener, yes, but it ranks and compares companies using their historical fundamental data (revenue, net income, debt, cash flow, etc.). I’ve used other stock screeners, but something that bothers me is the subjectivity and randomness of analyst opinions: time to buy, sentiment, price targets, and so on. I wanted to build a tool where I could compare stocks based purely on their own data, trying to reduce as much as possible the emotion and guesswork about what the data means or what will happen next. My thinking is that each investor, with their own level of skill, knowledge, and available time, should make their OWN analysis. I still have many ideas for features and for where to take the app, but I’d like some very specific feedback from people seeing it for the first time. Imagine you’re interested in Buy &amp; Hold as an investment approach, but you’re not a market professional or a trader: What feature or piece of information is important to you and is currently missing for a more solid analysis?\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://holderdashboard.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49937079",
+    "createdAt": "2026-10-02T20:04:26.667Z"
+  },
+  {
+    "slug": "usejunction-find-what-your-teams-ai-tools-usage-hn",
+    "title": "UseJunction – Find what your team's AI tools usage",
+    "shortDescription": "A few months ago, we started getting into the problem of actually seeing how our team&#x27;s AI usage and its cost actually translates into…",
+    "fullDescription": "A few months ago, we started getting into the problem of actually seeing how our team&#x27;s AI usage and its cost actually translates into a business outcome. We recently rolled out a public version open source after a few months of pilot testing the product. The product is UseJunction ( https:&#x2F;&#x2F;usejunction.dev ), and if your team is running multiple subscriptions&#x2F;api from Cursor, Claude, Codex etc. this is for you to manage subscription spend, wastage and predictions. A bit of background, we had a team of 20 people running $200 Cursor subscriptions, and some were using a few others. That was over $4000 of spend. With this tool, we were able to get that to $2600 on our next billing cycle! That is a 35% decrease. We knew that people had to be facing this problem too, so we made it opensource for the community. All of these subscription providers leave behind telemetry on local machines, we use that to estimate usage. Soon we will be releasing a feature to attribute that spend to actual business outcomes that come from your project management tools. Currently considering actually adding a level of control on top of observability so that teams&#x2F;orgs can actually govern AI tool usage.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/use-junction/usejunction",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49936836",
+    "createdAt": "2026-10-02T20:04:26.667Z"
+  },
+  {
+    "slug": "arda-marketing-agents-to-help-brands-win-google-and-ai-search-hn",
+    "title": "Arda – Marketing agents to help brands win Google and AI Search",
+    "shortDescription": "Проект «Arda – Marketing agents to help brands win Google and AI Search», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Arda – Marketing agents to help brands win Google and AI Search», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://www.ardainc.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49936394",
+    "createdAt": "2026-10-02T20:04:26.667Z"
+  },
+  {
+    "slug": "agent-sdk-go-build-crash-resilient-ai-agents-in-go-hn",
+    "title": "Agent-SDK-go – Build crash-resilient AI agents in Go",
+    "shortDescription": "Проект «Agent-SDK-go – Build crash-resilient AI agents in Go», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Agent-SDK-go – Build crash-resilient AI agents in Go», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/agenticenv/agent-sdk-go",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49936287",
+    "createdAt": "2026-10-02T20:04:26.667Z"
+  },
+  {
+    "slug": "pre-payment-and-post-payment-checks-for-personal-ai-agents-hn",
+    "title": "Pre-payment and Post-payment checks for personal AI agents",
+    "shortDescription": "It is primarily both a UI and API based product that can be integrated by Personal AI agents and decide if they should pay an x402 endpoint…",
+    "fullDescription": "It is primarily both a UI and API based product that can be integrated by Personal AI agents and decide if they should pay an x402 endpoint. https:&#x2F;&#x2F;contextiq.trango-compute.com&#x2F;dashboard&#x2F;policy-check\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://contextiq.trango-compute.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49936281",
+    "createdAt": "2026-10-02T20:04:26.667Z"
+  },
+  {
+    "slug": "client-rooms-where-calls-and-ai-agents-suggest-edits-people-approve-hn",
+    "title": "Client rooms where calls and AI agents suggest edits, people approve",
+    "shortDescription": "Проект «Client rooms where calls and AI agents suggest edits, people approve», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Client rooms where calls and AI agents suggest edits, people approve», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://twitter.com/deamosV/status/2105679521240514788",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49935375",
+    "createdAt": "2026-10-02T20:04:26.667Z"
+  },
+  {
+    "slug": "sidekins-a-mac-companion-that-visits-friends-and-does-your-work-hn",
+    "title": "Sidekins – a Mac companion that visits friends and does your work",
+    "shortDescription": "I&#x27;m a small indie developer, I&#x27;ve made a mac app called Sidekins It is a small desktop character that you can design yourself(I c…",
+    "fullDescription": "I&#x27;m a small indie developer, I&#x27;ve made a mac app called Sidekins It is a small desktop character that you can design yourself(I call it a Kin&#x2F;Sidekin) and lives around your screen and peeps from the side when not in use. It is a very social app, you can add your friends and chat with them using your Kin. It is an AI agent so you can ask in the main chat to delivery some message to your friend and it creates the message you want and animation using your Kin and goes to your friends desktop and speaks&#x2F;act out your message. You can also ask it to help you &quot;guide&quot; through your mac, or any app, it moves and points around telling you how things work. There is also a &quot;do&quot; mode, this actually does things for you on your mac, like play this song on Spotify or add an iPhone 16 to my amazon cart. you can see the demos here on the website on what and how it does things : www.sidekins.com Currently, it works on Mac with apple silicon, and has 300 free messages. Try it out, and connect with me on the app: @18kushaljain\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://www.sidekins.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49935328",
+    "createdAt": "2026-10-02T20:04:26.667Z"
+  },
+  {
+    "slug": "taskrouter-one-api-learning-to-choose-models-per-ai-task-hn",
+    "title": "Taskrouter – One API Learning to Choose Models per AI Task",
+    "shortDescription": "Проект «Taskrouter – One API Learning to Choose Models per AI Task», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Taskrouter – One API Learning to Choose Models per AI Task», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://taskrouter.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49935311",
+    "createdAt": "2026-10-02T20:04:26.667Z"
+  },
+  {
+    "slug": "outis-fight-ai-spam-by-sending-fake-user-unknown-bounce-emails-hn",
+    "title": "Outis – Fight AI spam by sending fake \"user unknown\" bounce emails",
+    "shortDescription": "Outis fights spam generating and sending a fake &quot;user unknown&quot; bounce for an email you received, so the sender believes your addr…",
+    "fullDescription": "Outis fights spam generating and sending a fake &quot;user unknown&quot; bounce for an email you received, so the sender believes your address does not exist. Of course this isn&#x27;t a novel idea, I created a similar program back in 1998–1999 (actually, with a slightly different purpose), but I decided to revive it because it should work quite well with the recent trend of automated emails generated by AI, where the sender might expect a reply; it helps remove your email address from their list. I don&#x27;t have strong evidence about its effectiveness, but I&#x27;m testing it for few weeks and the spam noise seems to be reduced; I don&#x27;t receive similar or followup emails any more. Any idea on how to improve it? :)\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/dtonon/outis",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49934692",
+    "createdAt": "2026-10-02T20:04:26.667Z"
+  },
+  {
     "slug": "awesome-robotics-github",
     "title": "awesome-robotics",
     "shortDescription": "Free Robotics & AI learning resources, including courses, books, lectures, research papers, tutorials, projects, and more.",
