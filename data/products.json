@@ -1,5 +1,241 @@
 [
   {
+    "slug": "awesome-robotics-github",
+    "title": "awesome-robotics",
+    "shortDescription": "Free Robotics & AI learning resources, including courses, books, lectures, research papers, tutorials, projects, and more.",
+    "fullDescription": "Free Robotics & AI learning resources, including courses, books, lectures, research papers, tutorials, projects, and more.\n\nАвтор: zermello. Найдено в GitHub Trending (AI-тематика). ⭐ 13 звёзд.",
+    "url": "https://zermello.github.io/awesome-robotics/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-resources",
+      "artificial-intelligence",
+      "computer-vision",
+      "deep-learning",
+      "free-resources",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1398174806",
+    "createdAt": "2026-10-02T15:21:34.442Z"
+  },
+  {
+    "slug": "synapass-github",
+    "title": "Synapass",
+    "shortDescription": "AI inference gateway and control plane for multi-provider routing, policies, caching, tools, and observability.",
+    "fullDescription": "AI inference gateway and control plane for multi-provider routing, policies, caching, tools, and observability.\n\nАвтор: ShadowSafin. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/ShadowSafin/Synapass",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-gateway",
+      "api-gateway",
+      "inference",
+      "llm",
+      "llm-gateway",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1399055590",
+    "createdAt": "2026-10-02T15:21:34.442Z"
+  },
+  {
+    "slug": "ito-streaming-neural-tts-for-the-esp32-s3-49-mb-no-npu-no-cloud-hn",
+    "title": "Ito – streaming neural TTS for the ESP32-S3 (4.9 MB, no NPU, no cloud)",
+    "shortDescription": "Проект «Ito – streaming neural TTS for the ESP32-S3 (4.9 MB, no NPU, no cloud)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Ito – streaming neural TTS for the ESP32-S3 (4.9 MB, no NPU, no cloud)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/lokutor-ai/ito",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49934308",
+    "createdAt": "2026-10-02T15:21:34.544Z"
+  },
+  {
+    "slug": "bloby-clippy-on-steroids-chrome-extension-using-chrome-ai-and-ollama-hn",
+    "title": "Bloby – Clippy on Steroids Chrome Extension Using Chrome AI and Ollama",
+    "shortDescription": "Проект «Bloby – Clippy on Steroids Chrome Extension Using Chrome AI and Ollama», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Bloby – Clippy on Steroids Chrome Extension Using Chrome AI and Ollama», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://chromewebstore.google.com/detail/bloby/afmebijmdlfldmndinggmjdjmhjjhhcd",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49934285",
+    "createdAt": "2026-10-02T15:21:34.544Z"
+  },
+  {
+    "slug": "fougere-typescript-backend-framework-inside-your-app-or-on-its-own-hn",
+    "title": "Fougere – Typescript backend framework, inside your app or on its own",
+    "shortDescription": "Hello there, I&#x27;ve built Fougere, a Typescript-first framework you can add to an existing app, or run on its own. It&#x27;s alpha for n…",
+    "fullDescription": "Hello there, I&#x27;ve built Fougere, a Typescript-first framework you can add to an existing app, or run on its own. It&#x27;s alpha for now, and the docs are full of AI slop. The code was written with heavy help from Claude — I guided it in every way I could — and hasn&#x27;t been fully reviewed yet, but the ideas are there. In Fougere, business logic is at the center of everything. Once the domain code is written, everything else is derived from it — you don&#x27;t write it: validation, REST, GraphQL, the database tables, etc. You can also split the application in many parts without changing one line in businness code (only one line in config). In fact, I really like this way of building apps, but I&#x27;m a bit alone with it, and I&#x27;d like your take on these patterns. Is it useful to you? Do you use this kind of framework? Is there something to add, to change, or that seems unclear or useless? Any advice or feedback is greatly appreciated! Thanks!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/chok/fougere",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49933826",
+    "createdAt": "2026-10-02T15:21:34.544Z"
+  },
+  {
+    "slug": "scopelock-autonomous-git-scope-creep-auditor-and-ucc-2-209-engine-hn",
+    "title": "ScopeLock – Autonomous Git scope-creep auditor and UCC 2-209 engine",
+    "shortDescription": "Проект «ScopeLock – Autonomous Git scope-creep auditor and UCC 2-209 engine», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ScopeLock – Autonomous Git scope-creep auditor and UCC 2-209 engine», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/ahirwardhanmanti83-bit/scopelock-ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49933564",
+    "createdAt": "2026-10-02T15:21:34.544Z"
+  },
+  {
+    "slug": "soc2-auditor-skill-hn",
+    "title": "SOC2 Auditor Skill",
+    "shortDescription": "SOC2 isn&#x27;t affordable for early bootstrapped startups but some clients still want some way to verify trust claims. I created a skill t…",
+    "fullDescription": "SOC2 isn&#x27;t affordable for early bootstrapped startups but some clients still want some way to verify trust claims. I created a skill to do that: The AI runs a typical audit process on evidence you provide. I tested this on probo as open-source evidence hub (not affiliated with them, just happened to use it, also works with other evidence sources but didn&#x27;t test it)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/heychristoph/soc2-auditor",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49933454",
+    "createdAt": "2026-10-02T15:21:34.544Z"
+  },
+  {
+    "slug": "hotel-lobby-ai-video-generator-two-photos-to-rap-duet-hn",
+    "title": "Hotel Lobby AI Video Generator – Two Photos to Rap Duet",
+    "shortDescription": "Проект «Hotel Lobby AI Video Generator – Two Photos to Rap Duet», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Hotel Lobby AI Video Generator – Two Photos to Rap Duet», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://hotellobbygenerator.net/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49933313",
+    "createdAt": "2026-10-02T15:21:34.544Z"
+  },
+  {
+    "slug": "spens-sandboxed-observable-coding-agents-hn",
+    "title": "Spens sandboxed, observable coding agents",
+    "shortDescription": "Spens is a tool created to standardized sandboxing (good enough) and observability around coding agents. It leverages docker, nono and mitm…",
+    "fullDescription": "Spens is a tool created to standardized sandboxing (good enough) and observability around coding agents. It leverages docker, nono and mitmproxy to create a reproducible sandbox environment for agents, that captures all traffic and helps you understand what your coding agent is doing and when. Right now pi, opencode, claude and codex are supported out of the box, with node and python - but you can configure any agent or environment. It was created under the realization while working under different repos and agents, that 1. agents do weird stuff sometimes (like try and nuke a folder or poke around your HD) 2. statistics and usage collection is not really consistent (and some like Claude and Codex try and hide info) 3. reproducibility of agents across devices was challenging. Instead of setting up bespoke environments each time , we needed a way to automate it. And thus Spens was born. One note on the security aspect - I write good enough cause it is docker so unless your running something like gVisor it is possible for the agent to escape the sandbox (esp with a loose nono config) - all though in practice I&#x27;ve not seen this behavior. Second note - if your on a mac you need orb stack, as the run times take advantage of specific Linux security features that are not available via docker on mac (windows is fine since under the hood, docker leverages wsl)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://spens.refwd.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49933266",
+    "createdAt": "2026-10-02T15:21:34.544Z"
+  },
+  {
+    "slug": "yokka-simple-project-management-for-coding-agents-hn",
+    "title": "Yokka – Simple project management for coding agents",
+    "shortDescription": "Проект «Yokka – Simple project management for coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Yokka – Simple project management for coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://yokka.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49932260",
+    "createdAt": "2026-10-02T15:21:34.544Z"
+  },
+  {
+    "slug": "readmini-paste-an-article-read-what-matters-hn",
+    "title": "ReadMini – paste an article, read what matters.",
+    "shortDescription": "HN is increasingly crowded with bloated, repetitive AI-generated articles (some examples in the first comment) ReadMini turns an article in…",
+    "fullDescription": "HN is increasingly crowded with bloated, repetitive AI-generated articles (some examples in the first comment) ReadMini turns an article into the version you actually need to read. It cuts what doesn’t matter, tightens what does, and reorganizes things when that makes the article clearer. This is v0. I’d love some feedback. Billing not integrated yet.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://readmini.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49932081",
+    "createdAt": "2026-10-02T15:21:34.544Z"
+  },
+  {
+    "slug": "web-search-engine-built-from-the-commoncrawl-corpus-hn",
+    "title": "Web search engine built from the CommonCrawl corpus",
+    "shortDescription": "Hello HN, I&#x27;m building an alternative web search engine. You can try the demo here: https:&#x2F;&#x2F;search.xorsoft.dev&#x2F; My goal…",
+    "fullDescription": "Hello HN, I&#x27;m building an alternative web search engine. You can try the demo here: https:&#x2F;&#x2F;search.xorsoft.dev&#x2F; My goal was to reach 1% of Google&#x27;s index. This is 4 billion pages across 33.5 million domains. I was inspired by the earlier attempts shared here: &quot;Building a web search engine from scratch with 3B neural embeddings&quot; [1] and &quot;Crawling a billion web pages in just over 24 hours&quot; [2]. I decided not to replicate them and instead used CommonCrawl corpus, built a pipeline, and threw the results into a classic full-text search index. First, I got my hands on a dedicated Hetzner server with 4x10TB HDDs. It allowed me to crunch CommonCrawl data and stay within my hobby budget. The backend is served from a similar &quot;home-grade&quot; server but with NVMe disks instead. The compressed index weighs just over 2TB because I cap content length at 4KB per page (p50=2.9KB, p99=46KB) to fit it on disk. I picked Rust for my project. After years of big data engineering on the JVM, Rust felt like a breath of fresh air. I ended up not using any special data processing libraries - the pipeline is relatively straightforward and runs without crashes. As for full-text search, tantivy was an obvious choice. It took some time to get single query latency down to an acceptable ~350ms, although concurrent requests quickly max out disk t&#x2F;p at 6.1GB&#x2F;s and latency starts to climb. The search algorithm is primitive by modern standards: top 1,000 candidates are retrieved using BM25 (text relevance signal) and then reranked with PageRank [3]. Turns out you can fit the whole internet in a single server rack. The challenge here, of course, is to keep it up to date, especially if you don&#x27;t have unlimited (crawl) budget. Right now I&#x27;m looking for funding or sponsorship to get extra hardware. That would allow me to scale the project and keep it free to use. I can also periodically dump the index on HuggingFace for research purposes. Any suggestions are welcome. [1] https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=44878151 [2] https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47117886 [3] https:&#x2F;&#x2F;dl.acm.org&#x2F;doi&#x2F;10.1145&#x2F;1076034.1076106\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://search.xorsoft.dev/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49931998",
+    "createdAt": "2026-10-02T15:21:34.544Z"
+  },
+  {
+    "slug": "ailaflow-a-self-hosted-ai-workspace-for-teams-hn",
+    "title": "AilaFlow – A Self-Hosted AI Workspace for Teams",
+    "shortDescription": "Проект «AilaFlow – A Self-Hosted AI Workspace for Teams», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AilaFlow – A Self-Hosted AI Workspace for Teams», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://ailaflow.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49931924",
+    "createdAt": "2026-10-02T15:21:34.544Z"
+  },
+  {
+    "slug": "a-practical-ai-evaluation-pattern-hn",
+    "title": "A practical AI Evaluation pattern",
+    "shortDescription": "Проект «A practical AI Evaluation pattern», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A practical AI Evaluation pattern», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://deepsense.ai/blog/the-top-scoring-model-is-not-always-the-best-production-choice-how-to-evaluate-ai-systems-beyond-public-benchmarks/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49931859",
+    "createdAt": "2026-10-02T15:21:34.544Z"
+  },
+  {
     "slug": "little-chits-github",
     "title": "little-chits",
     "shortDescription": "A living AI civilisation you can watch: tiny creatures discover, build, teach and pass knowledge on, with any LLM in their minds.",
