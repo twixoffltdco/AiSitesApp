@@ -1,5 +1,129 @@
 [
   {
+    "slug": "thinkterm-github",
+    "title": "ThinkTerm",
+    "shortDescription": "AI-проект с GitHub без описания.",
+    "fullDescription": "AI-проект с GitHub без описания.\n\nАвтор: RoversX. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://closex.org/thinkterm/",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "agent-orchestration",
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1400046300",
+    "createdAt": "2026-10-02T02:26:01.436Z"
+  },
+  {
+    "slug": "mad-framework-github",
+    "title": "mad-framework",
+    "shortDescription": "The open-source Laravel runtime behind MadBuilder apps: 250+ server-driven <mad-*> Blade components, reactive UI, IAM, PDF, MCP server and…",
+    "fullDescription": "The open-source Laravel runtime behind MadBuilder apps: 250+ server-driven <mad-*> Blade components, reactive UI, IAM, PDF, MCP server and AI copilot.\n\nАвтор: madbuilder-dev. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://madbuilder.dev",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "alpinejs",
+      "blade",
+      "components",
+      "framework",
+      "laravel",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1398801756",
+    "createdAt": "2026-10-02T02:26:01.436Z"
+  },
+  {
+    "slug": "simply-dotlink-in-chatgpt-webspace-or-dot-to-access-local-filestools-hn",
+    "title": "Simply @dotlink in ChatGPT web,space or dot to access local files,tools",
+    "shortDescription": "Built dotlink to give chatgpt codex abilities, letting chatgpt web, the new dots and spaces, build and run tools and access files directly…",
+    "fullDescription": "Built dotlink to give chatgpt codex abilities, letting chatgpt web, the new dots and spaces, build and run tools and access files directly in your local machine. Been using it for a while, when I&#x27;m out of codex limits or giving chatgpt controlled access to several machines without installing chatgpt app. So thought I&#x27;ll package it for others to use. It’s a single statically linked lightweight Rust MCP binary with fine-grained read&#x2F;write&#x2F;shell permissions, profuiles and a Bubblewrap sandbox on Linux and also works without any local port (uses OpenAI MCP tunnel) or third-party relay. Please check it out: https:&#x2F;&#x2F;github.com&#x2F;abird-ai&#x2F;dotlink\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/abird-ai/dotlink/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49929101",
+    "createdAt": "2026-10-02T02:26:01.259Z"
+  },
+  {
+    "slug": "qlcodepreview-syntax-highlighting-in-finders-quick-look-hn",
+    "title": "QLCodePreview, syntax highlighting in Finder's Quick Look",
+    "shortDescription": "In 2012 I forked QLColorCode, a Quick Look plugin, to add the Drupal file types I worked with every day at the time. I kept that fork going…",
+    "fullDescription": "In 2012 I forked QLColorCode, a Quick Look plugin, to add the Drupal file types I worked with every day at the time. I kept that fork going for about a decade. Apple deprecated the whole .qlgenerator format that used some time ago. On current macOS the old code previewer just doesn&#x27;t load, and you can&#x27;t port it either as it colored code by shelling out to external tools, while the modern replacement (Quick Look app extensions) runs in a sandbox that won&#x27;t let you spawn anything. So this is a rewrite in Objective-C with its own highlighter using per-language compiled regexes running inside the extension&#x27;s sandbox, no external processes. A 2 MB Objective-C file highlights in about 140 ms end to end, so space-bar preview still stays snappy. It covers 51 languages (130+ filetypes) out of the box. Font, themes, line numbers and extension-to-language overrides are configurable in the app, and settings reach the sandboxed extension through a shared defaults domain. Builds are universal but I&#x27;ve only tested on Apple Silicon, and macOS 12 is the floor. Install is available via Homebrew or direct download. Development was AI assisted as most are now, I made all the decisions and spent time specifically optimizing for performance. I don&#x27;t think it&#x27;s too sloppy, and is working very well for me at least. The source is on GitHub under the MIT license.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://konstruukt.com/projects/qlcodepreview/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49928811",
+    "createdAt": "2026-10-02T02:26:01.259Z"
+  },
+  {
+    "slug": "soothsay-your-ai-types-curl-sh-soothsay-checks-the-script-first-hn",
+    "title": "Soothsay - Your AI types curl | sh. soothsay checks the script first",
+    "shortDescription": "Проект «Soothsay - Your AI types curl | sh. soothsay checks the script first», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Soothsay - Your AI types curl | sh. soothsay checks the script first», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/rijuld/soothsay",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49928435",
+    "createdAt": "2026-10-02T02:26:01.260Z"
+  },
+  {
+    "slug": "zero-slop-open-source-skill-that-finds-and-fixes-ai-slop-in-writing-hn",
+    "title": "Zero Slop – Open-source skill that finds and fixes AI slop in writing",
+    "shortDescription": "Проект «Zero Slop – Open-source skill that finds and fixes AI slop in writing», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Zero Slop – Open-source skill that finds and fixes AI slop in writing», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/manavmishra/ZeroSlop",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49928432",
+    "createdAt": "2026-10-02T02:26:01.260Z"
+  },
+  {
+    "slug": "grist-open-source-coding-harness-hn",
+    "title": "Grist, open source coding harness",
+    "shortDescription": "I built a coding harness on top of the new Opencode v2, it started with the the idea of using the new jev model for routing easy tasks to c…",
+    "fullDescription": "I built a coding harness on top of the new Opencode v2, it started with the the idea of using the new jev model for routing easy tasks to cheaper models such as deepseek and hard tasks to models such as Opus 5.5. In total in separated it into 4 rungs - easy, medium, hard and frontier. Two more layers compound the savings: the Sol-Pi methodology based on the recently published paper which uses action fusion and observation packing and cuts roken usage within every tier. Doctrine injection loads your engineering standards into every session by default, so the agent writes code the way your team would. There is also a real control plane - escalation, permission and verification hooks so the agent surfaces uncertainty instead of being confidently wrong in silence. Run it using your own key from Openrouter or Vercel AI gateway key, we need this since one key is able to call the jev decision model as well as the llms for coding. One more thing I added was the ability to connect your Meta Muse to use this for coding tasks which has worked really well so far you can try it out by copying the promp for agent on the website. Two ways you can use it today is the Mac app and the cli. Honest limitations are documented, happy to take any questions. Repo: https:&#x2F;&#x2F;github.com&#x2F;grist-ai&#x2F;grist npm CLI: npm install -g grist-ai\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://grist.lol/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49928275",
+    "createdAt": "2026-10-02T02:26:01.260Z"
+  },
+  {
     "slug": "strands-decider-github",
     "title": "strands-decider",
     "shortDescription": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with…",
