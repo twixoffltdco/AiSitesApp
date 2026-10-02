@@ -1,5 +1,69 @@
 [
   {
+    "slug": "teacher-planner-a-digital-planbook-with-ai-tools-for-teachers-hn",
+    "title": "Teacher Planner – A digital planbook with AI tools for teachers",
+    "shortDescription": "Hi HN, I built Teacher Planner to help teachers organize lessons and prepare classroom materials in one place. The digital planbook brings…",
+    "fullDescription": "Hi HN, I built Teacher Planner to help teachers organize lessons and prepare classroom materials in one place. The digital planbook brings together lesson plans, units, schedules, and curriculum standards, with day, week, and month views, read-only sharing, and configurable print layouts. It supports English and Chinese, and you can try the planner as a guest without creating an account. Alongside the planner, there are five AI tools: a lesson plan generator, worksheet generator, multiple-choice quiz generator, text rewriter, and writing feedback tool. These help produce drafts that teachers can review and adapt for their classes. I&#x27;d appreciate feedback from teachers and people building education software. Which parts of your planning and material preparation still take the most time, and where do existing tools fall short?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://teacherplanner.ai",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49939688",
+    "createdAt": "2026-10-02T23:56:34.821Z"
+  },
+  {
+    "slug": "portus-a-rust-based-apiaimcp-gateway-hn",
+    "title": "Portus, A Rust Based API/AI/MCP Gateway",
+    "shortDescription": "Portus is a Rust-based API&#x2F;AI&#x2F;MCP Gateway built on top of Rama as the networking stack (Rama replaced Pingora due to better throu…",
+    "fullDescription": "Portus is a Rust-based API&#x2F;AI&#x2F;MCP Gateway built on top of Rama as the networking stack (Rama replaced Pingora due to better throughput and lower resource usage). Portus uses a split control&#x2F;data plane architecture and conforms with the Kubernetes Gateway API specification (130&#x2F;130 tests across all profiles). Portus also runs in standalone mode outside of Kubernetes with a simple Yaml config file with ACME support built-in. Please give it a try and if you like it then if you wouldn&#x27;t mind going to Github and starring the project I would be very appreciative! If there is something missing that you would like to see then please leave feedback and I will see what I can do. Thank you! https:&#x2F;&#x2F;github.com&#x2F;Portus-Gateway&#x2F;Portus\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://portus-gateway.dev/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49938517",
+    "createdAt": "2026-10-02T23:56:34.821Z"
+  },
+  {
+    "slug": "fb-post-generator-hn",
+    "title": "FB Post Generator",
+    "shortDescription": "I just created a FB post generator that uses AI to make posts",
+    "fullDescription": "I just created a FB post generator that uses AI to make posts\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://gemini.google.com/share/1a34bce7137f",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49938281",
+    "createdAt": "2026-10-02T23:56:34.821Z"
+  },
+  {
+    "slug": "made-an-open-source-lego-ai-generator-hn",
+    "title": "Made an open-source Lego AI generator",
+    "shortDescription": "Hi there :-) New on HN, first time posting. Past year, around December, I started experimenting with making ChatGPT and Claude generate sou…",
+    "fullDescription": "Hi there :-) New on HN, first time posting. Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language. This LDraw is literally an &quot;assembly&quot; language, a low-level programming language that describes how to assemble LEGO pieces together into models, one placement instruction at a time. When executed by specific tools, like e.g. LDView, LeoCAD, Studio... these instructions become LEGO CAD models, that can be interacted with, modified, etc. Or, in other words: one LDraw source file in .mpd or .ldr format is equivalent to one LEGO CAD model. So, the idea I had was: if I manage for maybe ChatGPT or Claude to generate high-quality LDraw source files... then, they would actually be generating high-quality LEGO CAD models, right? Then, after months of iterations and trying one thing after the other... it worked!!! Long story short: using GPT-6 Astra and Opus 5.5, I&#x27;ve managed to create a python toolset, instructions, and docs for agents in general. Now, these can be used by them to generate LDraw models. I&#x27;ve packed it all as a dockerized web app for others to try and experiment, with several providers (and agents) to choose from: OpenAI, Claude and OpenRouter. Here&#x27;s a bunch of exmaples: https:&#x2F;&#x2F;anteloc.github.io&#x2F;index-samples.html . If you are curious about the internals of an .mpd model, the &quot;what was the agent picturing on its mind&quot;, open the .mpd file that got your attention on a text editor, and read the first line under the ones starting with &quot;0 FILE&quot;. I&#x27;d really appreciate feedback and comments, let&#x27;s see where this goes =)\n\nНайдено в разделе Show HN на Hacker News. 👍 55 баллов.",
+    "url": "https://github.com/anteloc/ldraw-nova",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49937916",
+    "createdAt": "2026-10-02T23:56:34.821Z"
+  },
+  {
     "slug": "nuvex-services-github",
     "title": "nuvex-services",
     "shortDescription": "Off-chain services for Nuvex. This repository does not deploy programs and it is not a source of protocol truth.",
