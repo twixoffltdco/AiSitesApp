@@ -1,5 +1,166 @@
 [
   {
+    "slug": "little-chits-github",
+    "title": "little-chits",
+    "shortDescription": "A living AI civilisation you can watch: tiny creatures discover, build, teach and pass knowledge on, with any LLM in their minds.",
+    "fullDescription": "A living AI civilisation you can watch: tiny creatures discover, build, teach and pass knowledge on, with any LLM in their minds.\n\nАвтор: Blackwellboy. Найдено в GitHub Trending (AI-тематика). ⭐ 10 звёзд.",
+    "url": "https://github.com/Blackwellboy/little-chits",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "artificial-life",
+      "llm",
+      "local-llm",
+      "simulation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1400293313",
+    "createdAt": "2026-10-02T08:49:20.463Z"
+  },
+  {
+    "slug": "ai-almanac-github",
+    "title": "ai-almanac",
+    "shortDescription": "The weekly AI Almanac.",
+    "fullDescription": "The weekly AI Almanac.\n\nАвтор: huawei-csl. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://almanac.huawei-csl.com/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "arxiv",
+      "github",
+      "research",
+      "trends",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1398156477",
+    "createdAt": "2026-10-02T08:49:20.463Z"
+  },
+  {
+    "slug": "muse-skill-hub-github",
+    "title": "Muse-Skill-Hub",
+    "shortDescription": "Open-source, LLM-agnostic capability runtime for AI agents — 97 skills as typed, permission-enforced MCP tools. Final certification: 23/23…",
+    "fullDescription": "Open-source, LLM-agnostic capability runtime for AI agents — 97 skills as typed, permission-enforced MCP tools. Final certification: 23/23 gates PASS.\n\nАвтор: wahyunuriman999. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/wahyunuriman999/Muse-Skill-Hub",
+    "category": "productivity",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "automation",
+      "claude",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1400209464",
+    "createdAt": "2026-10-02T08:49:20.463Z"
+  },
+  {
+    "slug": "hops-run-beat-semif-open-jev-and-kumo-nvidia-in-a-procedural-game-hn",
+    "title": "Hops Run: beat Semif (open Jev) and Kumo (Nvidia) in a procedural game",
+    "shortDescription": "Проект «Hops Run: beat Semif (open Jev) and Kumo (Nvidia) in a procedural game», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Hops Run: beat Semif (open Jev) and Kumo (Nvidia) in a procedural game», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://game.hopsworks.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49931052",
+    "createdAt": "2026-10-02T08:49:20.331Z"
+  },
+  {
+    "slug": "realtime-ebay-filtering-with-jev-hn",
+    "title": "Realtime eBay Filtering with Jev",
+    "shortDescription": "Проект «Realtime eBay Filtering with Jev», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Realtime eBay Filtering with Jev», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://tv.junkdrawer.ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49930615",
+    "createdAt": "2026-10-02T08:49:20.331Z"
+  },
+  {
+    "slug": "apple-developer-mcp-app-store-connect-via-your-ai-assistants-hn",
+    "title": "Apple Developer MCP, App Store Connect via Your AI Assistants",
+    "shortDescription": "Проект «Apple Developer MCP, App Store Connect via Your AI Assistants», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Apple Developer MCP, App Store Connect via Your AI Assistants», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://nova.civai.co/agent/mcp-apple_developer",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49930613",
+    "createdAt": "2026-10-02T08:49:20.331Z"
+  },
+  {
+    "slug": "run-google-dataproc-cluster-on-your-local-hn",
+    "title": "Run Google DataProc cluster on your local",
+    "shortDescription": "Google does not provide official docker image for developers or AI agents to run dataproc cluster locally. so everybody need to spin up for…",
+    "fullDescription": "Google does not provide official docker image for developers or AI agents to run dataproc cluster locally. so everybody need to spin up for even dev&#x2F;CI testing,etc.. now you or your AI agent can: docker run --rm agentcloud&#x2F;dataproc:3.0.0-debian13 self-test saves time and cost. it basically packages the same component version and make the hadoop and spark to developer. Here are docker images for other dataproc versions: https:&#x2F;&#x2F;hub.docker.com&#x2F;r&#x2F;agentcloud&#x2F;dataproc&#x2F;tags here is full blog for more use-cases: https:&#x2F;&#x2F;local.cloud&#x2F;blog&#x2F;run-dataproc-locally-docker&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://local.cloud/blog/run-dataproc-locally-docker/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49930154",
+    "createdAt": "2026-10-02T08:49:20.331Z"
+  },
+  {
+    "slug": "qc-control-tiny-macos-utility-tonight-control-your-bose-anc-levels-hn",
+    "title": "QC Control – Tiny macOS utility tonight control your Bose ANC levels",
+    "shortDescription": "I often find myself changing between Noise Cancelling and transparency multiple times a day while wearing my Bose. Eventually got annoyed t…",
+    "fullDescription": "I often find myself changing between Noise Cancelling and transparency multiple times a day while wearing my Bose. Eventually got annoyed that there wasn’t a nice menu option from Bose to configure the ANC presets or adjust the level similar to the AirPod Pros so decided to build my own utility for it. Enjoy!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Nash0x7E2/QC-Control",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49929763",
+    "createdAt": "2026-10-02T08:49:20.331Z"
+  },
+  {
+    "slug": "a-look-at-the-last-100-years-of-innovation-hn",
+    "title": "A look at the last 100 years of innovation",
+    "shortDescription": "It feels like innovation&#x2F;change is increasing at a breakneck speed these days. I was wondering... how does the current pace compare to…",
+    "fullDescription": "It feels like innovation&#x2F;change is increasing at a breakneck speed these days. I was wondering... how does the current pace compare to the last 10, 20, or 100 years? I pulled together some of our biggest milestones as humans and created a light visualization tool to explore it. Disclosures: AI was used in creating this, including the research Code is open source: https:&#x2F;&#x2F;github.com&#x2F;danahmadi&#x2F;a-century-compressed\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://a-century-compressed.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49929709",
+    "createdAt": "2026-10-02T08:49:20.331Z"
+  },
+  {
     "slug": "thinkterm-github",
     "title": "ThinkTerm",
     "shortDescription": "AI-проект с GitHub без описания.",
