@@ -1,5 +1,151 @@
 [
   {
+    "slug": "whirl-github",
+    "title": "whirl",
+    "shortDescription": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
+    "fullDescription": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.\n\nАвтор: whirlchat. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://whirl.chat",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-chat",
+      "chat",
+      "convex",
+      "llm",
+      "nextjs",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1401821001",
+    "createdAt": "2026-10-03T09:58:19.787Z"
+  },
+  {
+    "slug": "smbl-relay-github",
+    "title": "smbl-relay",
+    "shortDescription": "Relay is a desktop app for chatting with AI, getting tasks done, and working on code. Use models from OpenAI, Anthropic, Google, and more w…",
+    "fullDescription": "Relay is a desktop app for chatting with AI, getting tasks done, and working on code. Use models from OpenAI, Anthropic, Google, and more with your own API keys and server.\n\nАвтор: MrSheerluck. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://relay.smbl.dev",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "gpui",
+      "rust",
+      "rust-lang",
+      "topcoat",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1402660433",
+    "createdAt": "2026-10-03T09:58:19.788Z"
+  },
+  {
+    "slug": "golunch-github",
+    "title": "golunch",
+    "shortDescription": "Run the same agent CLI as many times as you want — each instance with its own private config, login, and      proxy. No containers, no name…",
+    "fullDescription": "Run the same agent CLI as many times as you want — each instance with its own private config, login, and      proxy. No containers, no namespaces, no daemon.\n\nАвтор: raaaas. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://raaaas.github.io/golunch/",
+    "category": "developer",
+    "tags": [
+      "9router",
+      "ai",
+      "golang",
+      "golang-package",
+      "harness",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1400018610",
+    "createdAt": "2026-10-03T09:58:19.788Z"
+  },
+  {
+    "slug": "ghostbench-do-ai-models-recommend-dead-saas-i-tested-my-own-thesis-hn",
+    "title": "GhostBench – do AI models recommend dead SaaS? I tested my own thesis",
+    "shortDescription": "Проект «GhostBench – do AI models recommend dead SaaS? I tested my own thesis», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «GhostBench – do AI models recommend dead SaaS? I tested my own thesis», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/kyv-attest/kyv",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49942554",
+    "createdAt": "2026-10-03T09:58:19.708Z"
+  },
+  {
+    "slug": "usageatlasoss-all-your-ai-coding-usage-insights-one-beautiful-view-hn",
+    "title": "UsageAtlas(OSS), All your AI coding usage insights. One beautiful view",
+    "shortDescription": "Track AI coding usage across 14 providers. Token history, available cost estimates, credits, and usage limits in one free, open-source desk…",
+    "fullDescription": "Track AI coding usage across 14 providers. Token history, available cost estimates, credits, and usage limits in one free, open-source desktop app.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://usageatlas.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49942530",
+    "createdAt": "2026-10-03T09:58:19.708Z"
+  },
+  {
+    "slug": "collaborative-ai-engineering-hn",
+    "title": "Collaborative AI Engineering",
+    "shortDescription": "Hi HN! I launched Griyd a few days ago to help tackle some of the challenges we faced at my workplace. I’m really passionate about this pro…",
+    "fullDescription": "Hi HN! I launched Griyd a few days ago to help tackle some of the challenges we faced at my workplace. I’m really passionate about this project and think it has a lot of potential. I hope others will find it useful. Any feedback would be greatly appreciated!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://griyd.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49942439",
+    "createdAt": "2026-10-03T09:58:19.708Z"
+  },
+  {
+    "slug": "rowan-an-open-source-sast-scanner-for-ai-apps-code-models-mcp-hn",
+    "title": "Rowan, an open-source SAST scanner for AI apps (code, models, MCP)\"",
+    "shortDescription": "Проект «Rowan, an open-source SAST scanner for AI apps (code, models, MCP)\"», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Rowan, an open-source SAST scanner for AI apps (code, models, MCP)\"», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/hedgerow-dev/rowan",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49941569",
+    "createdAt": "2026-10-03T09:58:19.709Z"
+  },
+  {
+    "slug": "offline-nhtsa-vin-decoder-verified-against-nhtsas-own-sql-hn",
+    "title": "Offline NHTSA VIN decoder, verified against NHTSA's own SQL",
+    "shortDescription": "I ported NHTSA&#x27;s spVinDecode to TypeScript and run it on Cloudflare Workers over the official monthly vPIC dump, so decoding needs no…",
+    "fullDescription": "I ported NHTSA&#x27;s spVinDecode to TypeScript and run it on Cloudflare Workers over the official monthly vPIC dump, so decoding needs no call to NHTSA (p50 about 1.4 ms). How it&#x27;s checked: It is compared with NHTSA&#x27;s own SQL functions on the original dump in PostgreSQL. There were 0 unexplained differences on 11,000 VINs. It matches the live API on 95.4% of 1,000 VINs. The rest is newer live data. While doing this I found that spvindecode in the PostgreSQL dump never applies VinDescriptor overrides. I wrote it up in docs&#x2F;NHTSA-ERRATA.md. Limits: only vPIC is fully live. Recalls and fuel economy are partial, and complaints&#x2F;NCAP are planned. Corgi is a similar project, and I haven&#x27;t benchmarked against it. Demo: https:&#x2F;&#x2F;data.ai-kit.net&#x2F;vpic\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/AIKitLLC/nhtsa-edge-api",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49941345",
+    "createdAt": "2026-10-03T09:58:19.709Z"
+  },
+  {
     "slug": "fileflipper-github",
     "title": "FileFlipper",
     "shortDescription": "FileFlipper — Quick Edit for Mac. One-click Markdown: turn Word, PDF, PowerPoint and Excel into clean Markdown that AI reads with fewer tok…",
