@@ -1,5 +1,234 @@
 [
   {
+    "slug": "fileflipper-github",
+    "title": "FileFlipper",
+    "shortDescription": "FileFlipper — Quick Edit for Mac. One-click Markdown: turn Word, PDF, PowerPoint and Excel into clean Markdown that AI reads with fewer tok…",
+    "fullDescription": "FileFlipper — Quick Edit for Mac. One-click Markdown: turn Word, PDF, PowerPoint and Excel into clean Markdown that AI reads with fewer tokens. Plus drag-and-Shift conversion in Finder: JPG, PNG, PDF, HEIC, MP4, crop, OCR, background removal. 100% on-device, free and open source. 一键转 Markdown，喂给 AI 更省 token。\n\nАвтор: Aimee51819. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://github.com/Aimee51819/FileFlipper",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "background-removal",
+      "docx-to-markdown",
+      "file-converter",
+      "finder",
+      "heic-to-jpg",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1402098750",
+    "createdAt": "2026-10-03T04:04:43.452Z"
+  },
+  {
+    "slug": "teamski-github",
+    "title": "Teamski",
+    "shortDescription": "Shared AI agents for teams: one agent per channel, with memory, connected apps and approvals. Open source and self-hostable. Hosted at team…",
+    "fullDescription": "Shared AI agents for teams: one agent per channel, with memory, connected apps and approvals. Open source and self-hostable. Hosted at teamski.in\n\nАвтор: janakrathi. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://teamski.in",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "collaboration",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1401368262",
+    "createdAt": "2026-10-03T04:04:43.452Z"
+  },
+  {
+    "slug": "burner-github",
+    "title": "burner",
+    "shortDescription": "Give your AI assistant a physical side phone.",
+    "fullDescription": "Give your AI assistant a physical side phone.\n\nАвтор: useburner. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://useburner.si",
+    "category": "chatbot",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "android",
+      "automation",
+      "meta-muse",
+      "muse",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1398879040",
+    "createdAt": "2026-10-03T04:04:43.452Z"
+  },
+  {
+    "slug": "airoute-github",
+    "title": "airoute",
+    "shortDescription": "Local AI router. One OpenAI-compatible endpoint for every provider you already have, and one key for opencode, claude code, Cursor and any…",
+    "fullDescription": "Local AI router. One OpenAI-compatible endpoint for every provider you already have, and one key for opencode, claude code, Cursor and any coding agent. Keys stay on your machine.\n\nАвтор: foisalislambd. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/foisalislambd/airoute",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "airouter",
+      "llm",
+      "llm-agent",
+      "llm-agents",
+      "llm-gateway",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1399424412",
+    "createdAt": "2026-10-03T04:04:43.452Z"
+  },
+  {
+    "slug": "liblayax-github",
+    "title": "LibLayaX",
+    "shortDescription": "Fast local AI decisions inside your application. A shared library and C API built on laya.cpp that runs the Laya typed-decision model in-pr…",
+    "fullDescription": "Fast local AI decisions inside your application. A shared library and C API built on laya.cpp that runs the Laya typed-decision model in-process: no server, no Python. Windows, Linux and macOS, x64 and ARM64, CPU or GPU\n\nАвтор: DaragonTech. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/DaragonTech/LibLayaX",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "c-api",
+      "cpp",
+      "cross-platform",
+      "decision-making",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1402116013",
+    "createdAt": "2026-10-03T04:04:43.452Z"
+  },
+  {
+    "slug": "noctis-github",
+    "title": "noctis",
+    "shortDescription": "A calm, AI-aware coding environment for the terminal, built on Neovim. Run Claude Code, Codex, Opencode or Kimi side by side with your code…",
+    "fullDescription": "A calm, AI-aware coding environment for the terminal, built on Neovim. Run Claude Code, Codex, Opencode or Kimi side by side with your code, watch every file change they make live, and review or safely revert it hunk by hunk.\n\nАвтор: abdulhalimaltuntas. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/abdulhalimaltuntas/noctis",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-coding",
+      "claude-code",
+      "cli",
+      "code-review",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1400853702",
+    "createdAt": "2026-10-03T04:04:43.452Z"
+  },
+  {
+    "slug": "mirageos-github",
+    "title": "MirageOS",
+    "shortDescription": "🌫️ MirageOS — 浏览器里的热点驱动幻觉操作系统 · A trending-driven hallucination OS in your browser",
+    "fullDescription": "🌫️ MirageOS — 浏览器里的热点驱动幻觉操作系统 · A trending-driven hallucination OS in your browser\n\nАвтор: FoLeaf. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://mirageos.litneq.workers.dev",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "browser-os",
+      "claude",
+      "cloudflare-workers",
+      "generative-ai",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1401417374",
+    "createdAt": "2026-10-03T04:04:43.452Z"
+  },
+  {
+    "slug": "fragms-github",
+    "title": "fragms",
+    "shortDescription": "Beautiful ready made components for AI interfaces. One React file each.",
+    "fullDescription": "Beautiful ready made components for AI interfaces. One React file each.\n\nАвтор: simonveprek. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://fragms.simonveprek.cz",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "components",
+      "react",
+      "shadcn",
+      "ui",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1399839268",
+    "createdAt": "2026-10-03T04:04:43.452Z"
+  },
+  {
+    "slug": "ai-ducpt-github",
+    "title": "ai-ducpt",
+    "shortDescription": "Free shared AI gateway, OpenAI compatible, sign up at ai.ducpt.com / Cổng AI dùng chung miễn phí, đăng ký tại ai.ducpt.com",
+    "fullDescription": "Free shared AI gateway, OpenAI compatible, sign up at ai.ducpt.com / Cổng AI dùng chung miễn phí, đăng ký tại ai.ducpt.com\n\nАвтор: ducdg88. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://ai.ducpt.com",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ducpt",
+      "free-ai",
+      "gemini",
+      "llm-router",
+      "mcp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1400231523",
+    "createdAt": "2026-10-03T04:04:43.452Z"
+  },
+  {
+    "slug": "fakeflac-go-a-tool-for-quickly-finding-fake-flac-files-hn",
+    "title": "Fakeflac-go – A tool for quickly finding \"fake\" .flac files",
+    "shortDescription": "This is my first real project; keep in mind I have no formal programming&#x2F;CS background. It is hand-written; AI was only used for some…",
+    "fullDescription": "This is my first real project; keep in mind I have no formal programming&#x2F;CS background. It is hand-written; AI was only used for some conceptual questions. Background: There&#x27;s an epidemic of &quot;fake&quot; .flac audio files floating around: lossy audio masquerading as true lossless-quality audio. I rewrote the fakeflac.py utility in Go, adding multithreading to greatly improve performance, and increasing portability by embedding an optional WASM build of ffmpeg. Limitations: the original fakeflac algorithm is a great starting point, but it fails to find a cutoff point with some (obviously very low quality) audio files and produces a false score of 100%. I added CLI flags to tune the cutoff detection, but future versions definitely need some work (less normalization? entirely new detection algorithm?)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/drichline/fakeflac-go",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49941004",
+    "createdAt": "2026-10-03T04:04:42.298Z"
+  },
+  {
+    "slug": "google-maps-scraper-mcp-hn",
+    "title": "Google Maps Scraper MCP",
+    "shortDescription": "Connect your AI agent to synchronous business search and structured listing data through one secure MCP connection.",
+    "fullDescription": "Connect your AI agent to synchronous business search and structured listing data through one secure MCP connection.\n\nНайдено в разделе Show HN на Hacker News. 👍 9 баллов.",
+    "url": "https://gmapscrawl.com/google-maps-scraper-mcp",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49940653",
+    "createdAt": "2026-10-03T04:04:42.298Z"
+  },
+  {
     "slug": "teacher-planner-a-digital-planbook-with-ai-tools-for-teachers-hn",
     "title": "Teacher Planner – A digital planbook with AI tools for teachers",
     "shortDescription": "Hi HN, I built Teacher Planner to help teachers organize lessons and prepare classroom materials in one place. The digital planbook brings…",
