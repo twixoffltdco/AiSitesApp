@@ -1,5 +1,135 @@
 [
   {
+    "slug": "book-to-course-skill-github",
+    "title": "book-to-course-skill",
+    "shortDescription": "Claude skill that turns a book (EPUB, PDF, HTML, DOCX, Markdown) into an interactive beginner-friendly course: step-by-step lessons, animat…",
+    "fullDescription": "Claude skill that turns a book (EPUB, PDF, HTML, DOCX, Markdown) into an interactive beginner-friendly course: step-by-step lessons, animations, quizzes, chapter tests, flashcards and coding exercises checked by unit tests, with progress saved to files.\n\nАвтор: sebastianhaba. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://github.com/sebastianhaba/book-to-course-skill",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-skill",
+      "ai-skill-file",
+      "ai-skills",
+      "books",
+      "claude",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1403215196",
+    "createdAt": "2026-10-03T22:03:53.373Z"
+  },
+  {
+    "slug": "neshank-github",
+    "title": "neshank",
+    "shortDescription": "Free, open-source macOS bookmark manager: AI chat about your links, link→mind map, built-in video downloader (YouTube, 1700+ sites), offlin…",
+    "fullDescription": "Free, open-source macOS bookmark manager: AI chat about your links, link→mind map, built-in video downloader (YouTube, 1700+ sites), offline & private. 免费开源书签管理器 · نشانک\n\nАвтор: hbk2636. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/hbk2636/neshank/releases/latest",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "book-mark",
+      "bookmark",
+      "bookmark-manager",
+      "dmg",
+      "downloader",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1403558608",
+    "createdAt": "2026-10-03T22:03:53.373Z"
+  },
+  {
+    "slug": "hands-on-ai-from-scratch-tutorial-github",
+    "title": "Hands-on-AI-from-Scratch-Tutorial",
+    "shortDescription": "Hands-on AI tutorial from first principles to real-world implementation using C, MATLAB, and Python — covering math, classical AI, machine…",
+    "fullDescription": "Hands-on AI tutorial from first principles to real-world implementation using C, MATLAB, and Python — covering math, classical AI, machine learning, neural networks, NLP, and more.\n\nАвтор: abdelhalimyasser. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/abdelhalimyasser/Hands-on-AI-from-Scratch-Tutorial",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "c",
+      "computer-vision",
+      "math",
+      "matlab",
+      "ml",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1402289131",
+    "createdAt": "2026-10-03T22:03:53.373Z"
+  },
+  {
+    "slug": "open-source-sign-json-and-send-it-as-a-business-document-hn",
+    "title": "[Open-source] Sign JSON and send it as a business document",
+    "shortDescription": "Hi there. I used to work in international trade, and encountered many situations where people create a PDF from a system, send it to anothe…",
+    "fullDescription": "Hi there. I used to work in international trade, and encountered many situations where people create a PDF from a system, send it to another party, and the other party parses the PDF to input into their system. As AI agents become first principles to deal with the documents, I believe the extra document creation and parsing step will become unnecessary. So I created a JSON viewer, where you can sign JSON and send it to other parties as a portable document. It can also display JSON data in a more document-like format. I’m wondering if such a format can be used as a replacement for some document communication today. I&#x27;d be so happy to hear your thoughts.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://json-doc.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49947702",
+    "createdAt": "2026-10-03T22:02:20.926Z"
+  },
+  {
+    "slug": "four-llms-play-20-questions-for-real-money-live-hn",
+    "title": "Four LLMs play 20 questions for real money, live",
+    "shortDescription": "Hi HN, I wanted to explore how AI models behave when they have their own money. So I gave 4 frontier models their own USDC and had them com…",
+    "fullDescription": "Hi HN, I wanted to explore how AI models behave when they have their own money. So I gave 4 frontier models their own USDC and had them compete in games of 20 questions. Anyone can watch live. Each round, one model takes a turn picking the secret word, and the others interrogate it in a group chat. Every move costs money: 10 cents to ask a question, $1.00 for a wrong guess, and a right guess takes the pot. Questions are paid for privately, but inform everyone. This introduces a free rider problem that&#x27;s fun to observe. The models privately record their best guess and confidence level on every turn. This makes it possible to look for patterns in how they’re calibrated. Overconfident models bleed money, timid ones rarely win, and well-calibrated ones get rich. The money is real, and every transfer is on-chain. At the end of each game a referee model judges the transcript to make sure the host didn’t lie in any answers. If the host is caught lying, it forfeits all its fees (it happens). Season 1 ran for 85 games and Gemini turned $25 into $61 while Claude and Grok went broke. Models who had recently guessed wrong were 5x more likely to guess again. Full writeup at https:&#x2F;&#x2F;aquarium.money&#x2F;twenty&#x2F;about Season 2 is live now, and you can watch them play here: https:&#x2F;&#x2F;aquarium.money&#x2F;twenty Built solo as a side project.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://aquarium.money/twenty",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49947482",
+    "createdAt": "2026-10-03T22:02:20.926Z"
+  },
+  {
+    "slug": "ai-code-review-optimized-for-precision-over-number-of-findings-hn",
+    "title": "AI code review optimized for precision over number of findings",
+    "shortDescription": "Проект «AI code review optimized for precision over number of findings», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI code review optimized for precision over number of findings», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://vetoo.dev",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49946869",
+    "createdAt": "2026-10-03T22:02:20.926Z"
+  },
+  {
+    "slug": "repoguard-architecture-linter-for-ai-generated-code-cursor-claude-hn",
+    "title": "RepoGuard – Architecture linter for AI-generated code (Cursor, Claude)",
+    "shortDescription": "Проект «RepoGuard – Architecture linter for AI-generated code (Cursor, Claude)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «RepoGuard – Architecture linter for AI-generated code (Cursor, Claude)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/taylormatematica-beep/repoguard",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49946607",
+    "createdAt": "2026-10-03T22:02:20.926Z"
+  },
+  {
     "slug": "cogniblock-github",
     "title": "CogniBlock",
     "shortDescription": "Visual image-pipeline playground: drag blocks, wire them up and watch every step run live in your browser. Open engine package, share links…",
