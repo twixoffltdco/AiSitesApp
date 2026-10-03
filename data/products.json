@@ -1,5 +1,110 @@
 [
   {
+    "slug": "cogniblock-github",
+    "title": "CogniBlock",
+    "shortDescription": "Visual image-pipeline playground: drag blocks, wire them up and watch every step run live in your browser. Open engine package, share links…",
+    "fullDescription": "Visual image-pipeline playground: drag blocks, wire them up and watch every step run live in your browser. Open engine package, share links and a Solana community token.\n\nАвтор: CogniBlock. Найдено в GitHub Trending (AI-тематика). ⭐ 10 звёзд.",
+    "url": "https://cogniblock.net/",
+    "category": "ai-tool",
+    "tags": [
+      "agi",
+      "ai",
+      "pipeline",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1403350376",
+    "createdAt": "2026-10-03T18:31:46.253Z"
+  },
+  {
+    "slug": "starsea-continuum-github",
+    "title": "starsea-continuum",
+    "shortDescription": "Know when an AI conversation thread is still safe to continue — a deterministic, dependency-free continuity planner.",
+    "fullDescription": "Know when an AI conversation thread is still safe to continue — a deterministic, dependency-free continuity planner.\n\nАвтор: Ahuai-Baiy. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Ahuai-Baiy/starsea-continuum",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "chatbot",
+      "context-management",
+      "continuity",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1400969102",
+    "createdAt": "2026-10-03T18:31:46.253Z"
+  },
+  {
+    "slug": "revline-an-ai-web-app-that-researches-tiktok-and-instagram-for-you-hn",
+    "title": "Revline – an AI web app that researches TikTok and Instagram for you",
+    "shortDescription": "I build revline because i was trying to figure out how viral content works across tiktok and instagram, since i am mainly developer, i was…",
+    "fullDescription": "I build revline because i was trying to figure out how viral content works across tiktok and instagram, since i am mainly developer, i was confused about how to create content that gets me users. Actually going viral requires single founder ( me ) to upload 3-4 videos a day, brainstorming all the formats was not effective to do alone, so i build the agent that does all the scrolling for me. would appreciate feedback\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://tryrevline.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49946506",
+    "createdAt": "2026-10-03T18:31:46.162Z"
+  },
+  {
+    "slug": "ui-for-answering-agent-questions-async-hn",
+    "title": "UI for answering agent questions async",
+    "shortDescription": "Проект «UI for answering agent questions async», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «UI for answering agent questions async», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://docs.plannotator.ai/open-source/workflows/questions",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49946139",
+    "createdAt": "2026-10-03T18:31:46.162Z"
+  },
+  {
+    "slug": "agentlytics-cookieless-analytics-your-ai-agent-can-read-and-act-on-hn",
+    "title": "Agentlytics – cookieless analytics your AI agent can read and act on",
+    "shortDescription": "Проект «Agentlytics – cookieless analytics your AI agent can read and act on», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Agentlytics – cookieless analytics your AI agent can read and act on», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://measuremy.site",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49945236",
+    "createdAt": "2026-10-03T18:31:46.162Z"
+  },
+  {
+    "slug": "pbloom-an-omarchy-theme-with-42-blueprint-style-wallpapers-hn",
+    "title": "P(bloom), an Omarchy theme with 42 blueprint style wallpapers",
+    "shortDescription": "Hi all! My name is Jacek Becela, this is my first Show HN. I wanted to create blueprint wallpapers for my desktop and got a bit carried awa…",
+    "fullDescription": "Hi all! My name is Jacek Becela, this is my first Show HN. I wanted to create blueprint wallpapers for my desktop and got a bit carried away. These were created along the way: - 42 unique wallpapers, each in 3 color intensity versions, 18 resolutions and aspect ratios giving in total 2268 files (~700MB) served on demand from Cloudflare R2 - the color theme, - music video with two genre options - a companion app for downloading the versions correct for your screen. - a blog post describing the journey I used AI during the whole creative process: Opus 5.5 on medium&#x2F;high and Suno. Used Suno for the first time and had so much fun! Completely new experience for me. I made almost 500 decisions during the process and I wrote about it here: https:&#x2F;&#x2F;jacekbecela.com&#x2F;blog&#x2F;omarchy-p-bloom-theme&#x2F; Feedback most welcome!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/ncr/omarchy-p-bloom-theme",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49944831",
+    "createdAt": "2026-10-03T18:31:46.163Z"
+  },
+  {
     "slug": "synapass-github-2",
     "title": "Synapass",
     "shortDescription": "AI inference gateway and control plane for multi-provider routing, policies, caching, tools, and observability.",
