@@ -1,5 +1,97 @@
 [
   {
+    "slug": "synapass-github-2",
+    "title": "Synapass",
+    "shortDescription": "AI inference gateway and control plane for multi-provider routing, policies, caching, tools, and observability.",
+    "fullDescription": "AI inference gateway and control plane for multi-provider routing, policies, caching, tools, and observability.\n\nАвтор: ShadowSafin. Найдено в GitHub Trending (AI-тематика). ⭐ 12 звёзд.",
+    "url": "synapass.com",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-gateway",
+      "api-gateway",
+      "inference",
+      "llm",
+      "llm-gateway",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1399055590",
+    "createdAt": "2026-10-03T14:37:11.976Z"
+  },
+  {
+    "slug": "deepseek2api-github",
+    "title": "deepseek2api",
+    "shortDescription": "OpenAI-compatible API proxy for chat.deepseek.com — pure Go, zero dependencies, streaming, vision, multi-account token pool.",
+    "fullDescription": "OpenAI-compatible API proxy for chat.deepseek.com — pure Go, zero dependencies, streaming, vision, multi-account token pool.\n\nАвтор: 0xgetz. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/0xgetz/deepseek2api",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "api-proxy",
+      "chat-completions",
+      "deepseek",
+      "deepseek-api",
+      "docker",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1402524752",
+    "createdAt": "2026-10-03T14:37:11.976Z"
+  },
+  {
+    "slug": "web2md-turn-any-url-into-clean-markdown-for-ai-agents-hn",
+    "title": "Web2MD – turn any URL into clean Markdown for AI agents",
+    "shortDescription": "Проект «Web2MD – turn any URL into clean Markdown for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Web2MD – turn any URL into clean Markdown for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/astra-intelligence/web2md-mcp",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49944139",
+    "createdAt": "2026-10-03T14:37:12.184Z"
+  },
+  {
+    "slug": "germanys-new-sovereign-ai-model-kolibri-hn",
+    "title": "Germany's new sovereign AI model Kolibri",
+    "shortDescription": "Проект «Germany's new sovereign AI model Kolibri», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Germany's new sovereign AI model Kolibri», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 106 баллов.",
+    "url": "https://tej.as/blog/aleph-alpha-kolibri",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49943034",
+    "createdAt": "2026-10-03T14:37:12.184Z"
+  },
+  {
+    "slug": "beautiful-form-back-end-for-ai-agents-nisuform-hn",
+    "title": "Beautiful form back end for AI agents – Nisuform",
+    "shortDescription": "Hi! everyone, really excited to share my latest project, which is a form backend service that&#x27;s very easy to setup. Feel free to ask a…",
+    "fullDescription": "Hi! everyone, really excited to share my latest project, which is a form backend service that&#x27;s very easy to setup. Feel free to ask anything about it :)\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://nisuform.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49942913",
+    "createdAt": "2026-10-03T14:37:12.184Z"
+  },
+  {
     "slug": "whirl-github",
     "title": "whirl",
     "shortDescription": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
