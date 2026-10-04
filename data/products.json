@@ -1,5 +1,201 @@
 [
   {
+    "slug": "ai-content-dashboard-github",
+    "title": "ai-content-dashboard",
+    "shortDescription": "Generate blog posts, newsletters, and AI video — manage and track it all in one dashboard. Next.js + shadcn/ui + OpenRouter + Higgsfield.",
+    "fullDescription": "Generate blog posts, newsletters, and AI video — manage and track it all in one dashboard. Next.js + shadcn/ui + OpenRouter + Higgsfield.\n\nАвтор: harshith-vaddiparthy. Найдено в GitHub Trending (AI-тематика). ⭐ 11 звёзд.",
+    "url": "https://ai-content-dashboard-murex.vercel.app",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "content-generation",
+      "higgsfield",
+      "nextjs",
+      "openrouter",
+      "shadcn-ui",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1403392029",
+    "createdAt": "2026-10-04T17:16:43.625Z"
+  },
+  {
+    "slug": "visioncam-ai-github",
+    "title": "VisionCam-AI",
+    "shortDescription": "AI-powered virtual camera effects toolkit",
+    "fullDescription": "AI-powered virtual camera effects toolkit\n\nАвтор: PersonalityKeeper. Найдено в GitHub Trending (AI-тематика). ⭐ 9 звёзд.",
+    "url": "https://github.com/PersonalityKeeper/VisionCam-AI",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "camera",
+      "computer-vision",
+      "webcam",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1404648910",
+    "createdAt": "2026-10-04T17:16:43.625Z"
+  },
+  {
+    "slug": "neuraldesk-ai-github",
+    "title": "NeuralDesk-AI",
+    "shortDescription": "AI desktop assistant concept",
+    "fullDescription": "AI desktop assistant concept\n\nАвтор: HopeCzarReady. Найдено в GitHub Trending (AI-тематика). ⭐ 9 звёзд.",
+    "url": "https://github.com/HopeCzarReady/NeuralDesk-AI",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "assistant",
+      "desktop",
+      "productivity",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1404647607",
+    "createdAt": "2026-10-04T17:16:43.625Z"
+  },
+  {
+    "slug": "aipc-github",
+    "title": "AiPC",
+    "shortDescription": "Дайте агенту «это» — и у него появляется настоящий ПК.",
+    "fullDescription": "Дайте агенту «это» — и у него появляется настоящий ПК.\n\nАвтор: SysikNagibator. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/SysikNagibator/AiPC",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-coding",
+      "ai-tools",
+      "claude",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1404222787",
+    "createdAt": "2026-10-04T17:16:43.625Z"
+  },
+  {
+    "slug": "echopod-learn-languages-with-podcasts-via-ai-transcripts-hn",
+    "title": "EchoPod – Learn Languages with Podcasts via AI Transcripts",
+    "shortDescription": "Проект «EchoPod – Learn Languages with Podcasts via AI Transcripts», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «EchoPod – Learn Languages with Podcasts via AI Transcripts», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://echopod.clothpath.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49955585",
+    "createdAt": "2026-10-04T17:16:43.691Z"
+  },
+  {
+    "slug": "skinsdev-add-the-features-missing-from-the-web-apps-you-use-hn",
+    "title": "Skins.dev – add the features missing from the web apps you use",
+    "shortDescription": "Hi HN, I&#x27;m building skins.dev : Most AI tools help you build your own tool from scratch, but usually there&#x27;s already a tool that…",
+    "fullDescription": "Hi HN, I&#x27;m building skins.dev : Most AI tools help you build your own tool from scratch, but usually there&#x27;s already a tool that gets you 80% there. Skins is for the other 20%: you describe what&#x27;s missing in a web app you use, and we handle the rest, whatever it takes: from simple JS scripts and styles up to new backend features (hosted on our Cloudflare-compatible serverless cloud), so your feature can call other APIs and even have its own SQLite database. How it works: go to the page you&#x27;d like to change and press &quot;Record&quot; in the extension. We use the DOM snapshots and network requests to build a replica environment where coding agents can iterate safely. The Chromium extension then injects the changes per site via chrome.userScripts (à la Tampermonkey). I&#x27;m building a library of ready-made templates, inspired by long-open feature requests on SaaS forums (Salesforce, Jira, HubSpot): https:&#x2F;&#x2F;skins.dev&#x2F;blog&#x2F; Currently Chromium only (we&#x27;re working on getting the latest version into the Chrome Web Store). I would love feedback, and curious what you&#x27;d change first in a tool you use daily :)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://skins.dev/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49955117",
+    "createdAt": "2026-10-04T17:16:43.691Z"
+  },
+  {
+    "slug": "bearbits-ai-copilot-that-helps-during-meetings-instead-of-only-after-hn",
+    "title": "Bearbits – AI copilot that helps during meetings instead of only after",
+    "shortDescription": "I built this app mainly for myself and my wife. We both work in consulting and have tons of meetings every week. I had tried many of the ex…",
+    "fullDescription": "I built this app mainly for myself and my wife. We both work in consulting and have tons of meetings every week. I had tried many of the existing meeting copilots but never found something that actually fulfilled what I wanted. Mainly, I wanted to be able to see in real time what&#x27;s being said, irrespective of the language being spoken, including when people switch languages mid-meeting, which happens a lot in my work. I also wanted it translated in real time into my language, and I wanted suggestions for what to say that are grounded in actual web search rather than just the model making something up. I use Soniox for transcription and Exa.ai for web search. Bearbits runs in the browser and doesn&#x27;t join the meeting as a bot. Looking forward to your feedback, especially on whether this kind of real-time assistance is useful to you or just distracting.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://bearbits.io/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49954800",
+    "createdAt": "2026-10-04T17:16:43.691Z"
+  },
+  {
+    "slug": "the-first-ever-competition-of-ai-personal-agents-on-the-internet-hn",
+    "title": "The first ever competition of AI personal agents on the internet",
+    "shortDescription": "I&#x27;m starting the first competition of AI personal agents on the internet in the next few days. When you join the challenge the agent c…",
+    "fullDescription": "I&#x27;m starting the first competition of AI personal agents on the internet in the next few days. When you join the challenge the agent creates for you bitcoin wallet and connect you to instapath mailbox. The competition consists of a fews days of challenges that spread across the internet. It will be fun, register now with your preffered agent\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://instapath.ai/personal-agent-challenge",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49954394",
+    "createdAt": "2026-10-04T17:16:43.691Z"
+  },
+  {
+    "slug": "astrohelm-use-your-phone-camera-to-aim-a-telescope-or-telephoto-lens-hn",
+    "title": "AstroHelm – Use your phone camera to aim a telescope or telephoto lens",
+    "shortDescription": "Hello HN! As an amateur astronomer living in New York City, finding objects in the night sky has always been a huge challenge. I thought ab…",
+    "fullDescription": "Hello HN! As an amateur astronomer living in New York City, finding objects in the night sky has always been a huge challenge. I thought about using the smartphone&#x27;s gyroscope and magnetometer, but the accuracy left a lot to be desired. Then I learned about plate solving: given a picture of the sky, we can determine exactly where in the sky the camera was pointing by identifying the star pattern. This was a much better fit - as long as the phone and the optics are rigidly connected, we can repeatedly photograph the sky and determine the pointing direction with very high accuracy. A lot of work was done to design an algorithm that works reliably with smartphone cameras, which have limited light sensitivity and wider field of view which includes buildings and trees. I experimented a lot with machine learning, and to my surprise, traditional CV methods actually performed better at extracting stars from the image. The result is AstroHelm, an iOS and Android app that helps figure out where your telescope or camera is pointing, and guides you to the object of your choice. Just follow an arrow on screen, and the object will land right in your eyepiece or viewfinder. Everything happens on device, and no internet connection is required. AstroHelm is free to use and comes with beginner-friendly objects selected for each night. Optional one time purchases unlock more objects and advanced features, such as interoperability with other astronomy software. I am also proud to partner with astronomy clubs and organizations to offer free licenses for outreach. I hope AstroHelm can make it a little easier to discover the wonders of the night sky, and I look forward to your feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://astrohelm.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49954015",
+    "createdAt": "2026-10-04T17:16:43.691Z"
+  },
+  {
+    "slug": "b1-sprechen-practise-german-b1-speaking-exams-with-ai-hn",
+    "title": "B1 Sprechen – Practise German B1 Speaking Exams with AI",
+    "shortDescription": "Проект «B1 Sprechen – Practise German B1 Speaking Exams with AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «B1 Sprechen – Practise German B1 Speaking Exams with AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://b1sprechen.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49953820",
+    "createdAt": "2026-10-04T17:16:43.691Z"
+  },
+  {
+    "slug": "untyped-check-recorded-agent-runs-against-a-tla-spec-hn",
+    "title": "Untyped – check recorded agent runs against a TLA+ spec",
+    "shortDescription": "Hi, lots of talk about TLA+ lately, so I just published my work on the topic. The tool checks an agent harness design and its recorded runs…",
+    "fullDescription": "Hi, lots of talk about TLA+ lately, so I just published my work on the topic. The tool checks an agent harness design and its recorded runs to find invariant breaks. I believe it will help make your code hold up under retries and crashes. Sure you know your invariants?\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/untyped-ai/untyped",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49953789",
+    "createdAt": "2026-10-04T17:16:43.691Z"
+  },
+  {
     "slug": "helpy-github",
     "title": "helpy",
     "shortDescription": "AI that watches experts work, learns their workflows, asks the right questions, and turns tacit knowledge into reusable guidance.",
