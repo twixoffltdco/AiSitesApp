@@ -1,5 +1,65 @@
 [
   {
+    "slug": "dlaya-github",
+    "title": "DLaya",
+    "shortDescription": "Fast local AI decisions in Delphi and Free Pascal. A binding for LibLayaX that runs the Laya typed-decision model in-process: no server, no…",
+    "fullDescription": "Fast local AI decisions in Delphi and Free Pascal. A binding for LibLayaX that runs the Laya typed-decision model in-process: no server, no Python. One unit, Laya.pas, with a TLayaAgent class. Windows, Linux and macOS, CPU or GPU, 64-bit\n\nАвтор: DaragonTech. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/DaragonTech/DLaya",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-decision-making",
+      "bindings",
+      "decision-making",
+      "delphi",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1402295720",
+    "createdAt": "2026-10-04T06:10:25.964Z"
+  },
+  {
+    "slug": "shioriai2api-github",
+    "title": "shioriai2api",
+    "shortDescription": "Turn shiori.ai into an OpenAI-compatible API — pure Go, zero dependencies, streaming, reasoning, multi-account token pool.",
+    "fullDescription": "Turn shiori.ai into an OpenAI-compatible API — pure Go, zero dependencies, streaming, reasoning, multi-account token pool.\n\nАвтор: 0xgetz. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://www.shiori.ai",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "api-proxy",
+      "chat-completions",
+      "chatgpt-alternative",
+      "convex",
+      "docker",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1403747111",
+    "createdAt": "2026-10-04T06:10:25.965Z"
+  },
+  {
+    "slug": "superlocalmemory-40-governed-memory-operating-system-for-ai-agents-hn",
+    "title": "SuperLocalMemory 4.0 \"Governed Memory Operating System for AI Agents\"",
+    "shortDescription": "Проект «SuperLocalMemory 4.0 \"Governed Memory Operating System for AI Agents\"», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «SuperLocalMemory 4.0 \"Governed Memory Operating System for AI Agents\"», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://arxiv.org/abs/2608.08253",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49950478",
+    "createdAt": "2026-10-04T06:10:25.775Z"
+  },
+  {
     "slug": "akili-github",
     "title": "akili",
     "shortDescription": "Open-source platform for orchestrating, governing, and safely automating AI agents across your infrastructure.",
