@@ -1,5 +1,81 @@
 [
   {
+    "slug": "akili-github",
+    "title": "akili",
+    "shortDescription": "Open-source platform for orchestrating, governing, and safely automating AI agents across your infrastructure.",
+    "fullDescription": "Open-source platform for orchestrating, governing, and safely automating AI agents across your infrastructure.\n\nАвтор: goakili. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://goakili.dev",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-agents-and-tools",
+      "ai-agents-automation",
+      "ai-agents-for-business",
+      "ai-agents-mcp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1401908083",
+    "createdAt": "2026-10-04T00:24:58.234Z"
+  },
+  {
+    "slug": "jarvis-desktop-github",
+    "title": "jarvis-desktop",
+    "shortDescription": "Ai personal assistant for Mac/Windows/Linux.Say \"Jarvis\", ask for anything, and get it done — using the AI subscriptions you already pay fo…",
+    "fullDescription": "Ai personal assistant for Mac/Windows/Linux.Say \"Jarvis\", ask for anything, and get it done — using the AI subscriptions you already pay for, with nothing risky happening without your OK.\n\nАвтор: lopadova. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/lopadova/jarvis-desktop",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-assistance",
+      "ai-assistants",
+      "ai-jarvis",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1403201776",
+    "createdAt": "2026-10-04T00:24:58.234Z"
+  },
+  {
+    "slug": "viralwiz-ai-captions-clips-and-thumbnails-for-short-form-video-hn",
+    "title": "ViralWiz – AI captions, clips and thumbnails for short-form video",
+    "shortDescription": "Проект «ViralWiz – AI captions, clips and thumbnails for short-form video», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ViralWiz – AI captions, clips and thumbnails for short-form video», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://viralwiz.co",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49949190",
+    "createdAt": "2026-10-04T00:24:58.130Z"
+  },
+  {
+    "slug": "agentiloop-agent-mac-gui-agent-loop-for-macos-146-or-later-hn",
+    "title": "AgentiLoop Agent Mac GUI Agent Loop for macOS 14.6 or Later",
+    "shortDescription": "Agent! originally appeared on Hacker News last April. A lot has changed since there. Recently a new feature has been developed called Auto-…",
+    "fullDescription": "Agent! originally appeared on Hacker News last April. A lot has changed since there. Recently a new feature has been developed called Auto-Pilot. It is given a goal and will not stop until the goal is reached. Think of it as tasks on steroids. What Agent does is create multi tasks. Each task is referred to as a Cycle. By default Auto-Pilot triggered by &#x2F;auto [goal] do not have a time frame. Agent! is told to keep running until its goal is reached. Auto-Pilot has a kill switch, a &quot;Stop All&quot; button. The user can also kill the current Cycle only using &#x2F;auto stop and can also kill all using &#x2F;auto stop all. In November a user will be able to have Multiple Auto-Pilots running on the same project. And an Auto-Pilot tab will be able to automatically spawn other tabs. Currently we are developing a Mario Kart like clone called &quot;GoKart&quot; written in GoDot 4. So far over 20 hours have been recorded developing and improving the game.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://agentiloop.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49948810",
+    "createdAt": "2026-10-04T00:24:58.131Z"
+  },
+  {
     "slug": "book-to-course-skill-github",
     "title": "book-to-course-skill",
     "shortDescription": "Claude skill that turns a book (EPUB, PDF, HTML, DOCX, Markdown) into an interactive beginner-friendly course: step-by-step lessons, animat…",
