@@ -1,5 +1,85 @@
 [
   {
+    "slug": "magic-file-renamer-8-ai-rewrote-my-26-year-old-app-hn",
+    "title": "Magic File Renamer 8 – AI rewrote my 26-year-old app",
+    "shortDescription": "Проект «Magic File Renamer 8 – AI rewrote my 26-year-old app», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Magic File Renamer 8 – AI rewrote my 26-year-old app», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.finebytes.com/mfr/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49957017",
+    "createdAt": "2026-10-04T20:19:35.474Z"
+  },
+  {
+    "slug": "ranking-the-most-ai-agent-friendly-tools-hn",
+    "title": "Ranking the most AI agent friendly tools",
+    "shortDescription": "Проект «Ranking the most AI agent friendly tools», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Ranking the most AI agent friendly tools», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.anchorterminal.com/tools/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49956865",
+    "createdAt": "2026-10-04T20:19:35.474Z"
+  },
+  {
+    "slug": "exro-i-got-tired-of-cleaning-up-copypaste-between-apps-hn",
+    "title": "Exro – I got tired of cleaning up copy/paste between apps",
+    "shortDescription": "Between Slack, Claude, GPT, and Gmail, I&#x27;m constantly making formatting changes: deleting timestamps and Slack&#x27;s (edited), making…",
+    "fullDescription": "Between Slack, Claude, GPT, and Gmail, I&#x27;m constantly making formatting changes: deleting timestamps and Slack&#x27;s (edited), making API fields inline code, removing weird highlighting, etc. I tried changing this with prompts, but for things like formatting rules, it didn&#x27;t get applied consistently. So I built Exro. It scans the pasted text and applies deterministic changes with no grammar&#x2F;copy changes whatsoever. You can paste something in and try it directly. Let me know if you have any suggestions!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.exro.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49956108",
+    "createdAt": "2026-10-04T20:19:35.474Z"
+  },
+  {
+    "slug": "stateful-linux-microvms-for-coding-agents-hn",
+    "title": "Stateful Linux microVMs for coding agents",
+    "shortDescription": "I always wanted to have fly.io&#x27;s sprite &quot;at home&quot; or orbs or whatever else there is. The VMs are based on libkrun. There is…",
+    "fullDescription": "I always wanted to have fly.io&#x27;s sprite &quot;at home&quot; or orbs or whatever else there is. The VMs are based on libkrun. There is also an option of replicated storage (based on S3&#x2F;R2 API): https:&#x2F;&#x2F;ahvm.app&#x2F;docs&#x2F;#replicated-storage Still in progress. Trash it. Yes I used AI.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/mariobm/agent-house",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49955804",
+    "createdAt": "2026-10-04T20:19:35.474Z"
+  },
+  {
+    "slug": "agents-sleep-preventer-keep-your-mac-awake-only-while-ai-agents-work-hn",
+    "title": "Agents Sleep Preventer – keep your Mac awake only while AI agents work",
+    "shortDescription": "I run several Claude Code and Codex sessions in parallel and kept coming back to either a sleeping Mac with half-finished work, or a Mac th…",
+    "fullDescription": "I run several Claude Code and Codex sessions in parallel and kept coming back to either a sleeping Mac with half-finished work, or a Mac that stayed up all night because I&#x27;d left caffeinate on. Agents Sleep Preventer hooks into the agents&#x27; own configs (Claude Code, Codex, Hermes), so it knows when each session is actually working. It keeps the Mac awake only then, lid closed included, and lets it sleep when they&#x27;re done. The menu bar lists every session by project and branch: which are working, which need you and why (&quot;Claude needs your permission to use Bash&quot;), and the background commands each one still runs, with a Stop button. &quot;Sleep when done&quot; puts the Mac to sleep once everything finishes, with an optional time limit for agents that poll forever. It also does local push-to-talk dictation (Whisper or Parakeet, nothing leaves the Mac). Free, MIT, Rust + Swift. macOS 14+ on Apple Silicon, plus a Windows build.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/CharlonTank/agents-sleep-preventer",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49954491",
+    "createdAt": "2026-10-04T20:19:35.474Z"
+  },
+  {
     "slug": "ai-content-dashboard-github",
     "title": "ai-content-dashboard",
     "shortDescription": "Generate blog posts, newsletters, and AI video — manage and track it all in one dashboard. Next.js + shadcn/ui + OpenRouter + Higgsfield.",
