@@ -1,5 +1,123 @@
 [
   {
+    "slug": "helpy-github",
+    "title": "helpy",
+    "shortDescription": "AI that watches experts work, learns their workflows, asks the right questions, and turns tacit knowledge into reusable guidance.",
+    "fullDescription": "AI that watches experts work, learns their workflows, asks the right questions, and turns tacit knowledge into reusable guidance.\n\nАвтор: maxRN. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://helpy.digital",
+    "category": "productivity",
+    "tags": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "automation",
+      "convex",
+      "react",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1403543620",
+    "createdAt": "2026-10-04T12:42:55.031Z"
+  },
+  {
+    "slug": "viralreel-make-the-viral-hotel-lobby-ai-template-video-in-60-seconds-hn",
+    "title": "ViralReel – Make the viral Hotel Lobby AI template video in 60 seconds",
+    "shortDescription": "Hotel lobby AI template: upload two photos, star in the viral orange-booth video in 60 seconds. Auto lip-sync, gestures and lighting for co…",
+    "fullDescription": "Hotel lobby AI template: upload two photos, star in the viral orange-booth video in 60 seconds. Auto lip-sync, gestures and lighting for couples, pets, babies.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.viralreel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49952515",
+    "createdAt": "2026-10-04T12:42:57.661Z"
+  },
+  {
+    "slug": "telegram-ai-video-generator-create-ai-videos-in-chat-hn",
+    "title": "Telegram AI Video Generator – Create AI Videos in Chat",
+    "shortDescription": "A Telegram bot that generates AI videos from text prompts or images. Supports 8 top models including Kling, Runway, Seedance, Veo, Wan, Hai…",
+    "fullDescription": "A Telegram bot that generates AI videos from text prompts or images. Supports 8 top models including Kling, Runway, Seedance, Veo, Wan, Hailuo, MiniMax, and Grok. No desktop software needed - just chat with the bot and get videos in seconds.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://videoall.ai/telegram-ai-video-generator",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49952489",
+    "createdAt": "2026-10-04T12:42:57.661Z"
+  },
+  {
+    "slug": "ai-search-for-every-photo-and-every-frame-of-video-on-macos-hn",
+    "title": "AI search for every photo and every frame of video on macOS",
+    "shortDescription": "Проект «AI search for every photo and every frame of video on macOS», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI search for every photo and every frame of video on macOS», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 13 баллов.",
+    "url": "https://github.com/allenv0/SCM",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49952111",
+    "createdAt": "2026-10-04T12:42:57.661Z"
+  },
+  {
+    "slug": "solvi-10-an-llm-proposes-checks-decide-every-decision-replays-hn",
+    "title": "Solvi 1.0 – an LLM proposes, checks decide, every decision replays",
+    "shortDescription": "Проект «Solvi 1.0 – an LLM proposes, checks decide, every decision replays», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Solvi 1.0 – an LLM proposes, checks decide, every decision replays», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/solvi-ai/solvi",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49951625",
+    "createdAt": "2026-10-04T12:42:57.661Z"
+  },
+  {
+    "slug": "thirdsai-beautiful-on-brand-images-and-pdfs-from-templates-hn",
+    "title": "Thirds.ai – Beautiful, on-brand images and PDFs from templates",
+    "shortDescription": "Проект «Thirds.ai – Beautiful, on-brand images and PDFs from templates», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Thirds.ai – Beautiful, on-brand images and PDFs from templates», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://thirds.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49951624",
+    "createdAt": "2026-10-04T12:42:57.661Z"
+  },
+  {
+    "slug": "artbucket-oss-brand-assets-and-portals-for-humans-and-ai-agents-hn",
+    "title": "Artbucket – OSS brand assets and portals for humans and AI agents",
+    "shortDescription": "Hello HN, I wanted to share a project I am working on. Artbucket is a way to manage brand guidelines and design asset, fully open source yo…",
+    "fullDescription": "Hello HN, I wanted to share a project I am working on. Artbucket is a way to manage brand guidelines and design asset, fully open source you can self-host with all the capabilites available. I built also a hosted version with free tier. All feedbacks are welcome x)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/pwnera/artbucket",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49951620",
+    "createdAt": "2026-10-04T12:42:57.661Z"
+  },
+  {
     "slug": "dlaya-github",
     "title": "DLaya",
     "shortDescription": "Fast local AI decisions in Delphi and Free Pascal. A binding for LibLayaX that runs the Laya typed-decision model in-process: no server, no…",
