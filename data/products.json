@@ -1,5 +1,173 @@
 [
   {
+    "slug": "pi-forge-github",
+    "title": "pi-forge",
+    "shortDescription": "The harness that builds harnesses: tell it about your work and it builds a custom AI agent with its own tools, views, skills and UI. Runs i…",
+    "fullDescription": "The harness that builds harnesses: tell it about your work and it builds a custom AI agent with its own tools, views, skills and UI. Runs in the browser, terminal, headless, or as a standalone app. Built on pi.\n\nАвтор: djtoon. Найдено в GitHub Trending (AI-тематика). ⭐ 9 звёзд.",
+    "url": "https://github.com/djtoon/pi-forge",
+    "category": "ai-tool",
+    "tags": [
+      "agent-builder",
+      "agent-harness",
+      "ai",
+      "ai-agents",
+      "claude",
+      "coding-agent",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1404137526",
+    "createdAt": "2026-10-05T09:26:02.221Z"
+  },
+  {
+    "slug": "ai-research-guide-github",
+    "title": "AI-Research-Guide",
+    "shortDescription": "AI 科研入门指南：大学选择、科研 60 问、入门项目、学习路线与论文卡片。A bilingual guide to getting started in AI research.",
+    "fullDescription": "AI 科研入门指南：大学选择、科研 60 问、入门项目、学习路线与论文卡片。A bilingual guide to getting started in AI research.\n\nАвтор: Takamatsu-Hikaru. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://takamatsu-hikaru.github.io/AI-Research-Guide/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "chinese",
+      "education",
+      "getting-started",
+      "machine-learning",
+      "research",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1405070384",
+    "createdAt": "2026-10-05T09:26:02.222Z"
+  },
+  {
+    "slug": "dsh-codex-effort-slider-github",
+    "title": "dsh-codex-effort-slider",
+    "shortDescription": "Codex 风格的推理等级滑条（DeepSeek Harness 插件）：可拖动连续滑条 + 高档位渐变星尘特效",
+    "fullDescription": "Codex 风格的推理等级滑条（DeepSeek Harness 插件）：可拖动连续滑条 + 高档位渐变星尘特效\n\nАвтор: Microqian2th. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/Microqian2th/dsh-codex-effort-slider",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "codex",
+      "deepseek",
+      "deepseek-ai",
+      "deepseek-harness",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1404377390",
+    "createdAt": "2026-10-05T09:26:02.222Z"
+  },
+  {
+    "slug": "comfyclean-github",
+    "title": "ComfyClean",
+    "shortDescription": "Photoshop plugin that cleans manhwa pages with AI: select text, a bubble, an SFX or a watermark, click once, and a local ComfyUI (Flux.2 Kl…",
+    "fullDescription": "Photoshop plugin that cleans manhwa pages with AI: select text, a bubble, an SFX or a watermark, click once, and a local ComfyUI (Flux.2 Klein / Kontext / Fill) paints it out. 100% local, non-destructive.\n\nАвтор: esmail-mkh. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/esmail-mkh/ComfyClean",
+    "category": "image-video",
+    "tags": [
+      "adobe-uxp",
+      "ai",
+      "flux",
+      "flux-fill",
+      "flux-kontext",
+      "image-editing",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1404581719",
+    "createdAt": "2026-10-05T09:26:02.222Z"
+  },
+  {
+    "slug": "borehole-acquisition-tech-due-diligence-from-a-repos-git-history-hn",
+    "title": "Borehole – acquisition tech due diligence from a repo's Git history",
+    "shortDescription": "I&#x27;ve done technical due diligence on acquisitions for years at Amazon. This is typically a very time consuming process, taking weeks t…",
+    "fullDescription": "I&#x27;ve done technical due diligence on acquisitions for years at Amazon. This is typically a very time consuming process, taking weeks to months of back and forth with technical interviews with engineers and poring through code and architecture. With borehole.dev, I&#x27;ve created a tool that automates quite a bit of the due diligence process using source control (GitHub, Gitlab, and more). The result is a deep report that helps a buyer understand the risks of the technology they are considering acquiring. Or if you are considering selling your company, you can run a report to anticipate the things a buyer might look at in the process of selling. There is no AI involved in the checks, it&#x27;s 100% code analysis and no model writes the reports. It&#x27;s free for public repositories! We do charge for private repos but it&#x27;s just launched and I&#x27;m giving away 20 free codes for private repos as long as you agree to take a short survey when you are done. The first 20 people who email support@borehole.dev with &quot;HN beta&quot; get a free Report key for their own private repository. Would love feedback and thoughts from the HN community. Website: https:&#x2F;&#x2F;borehole.dev&#x2F; Example report: https:&#x2F;&#x2F;borehole.dev&#x2F;r&#x2F;rustdesk&#x2F;rustdesk&#x2F;b5d8b97\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://borehole.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49962275",
+    "createdAt": "2026-10-05T09:26:02.096Z"
+  },
+  {
+    "slug": "decision-models-remove-training-not-production-ml-engineering-hn",
+    "title": "Decision models remove training, not production ML Engineering",
+    "shortDescription": "Проект «Decision models remove training, not production ML Engineering», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Decision models remove training, not production ML Engineering», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://agentunicorn.ai/research/decision-models-production",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49962099",
+    "createdAt": "2026-10-05T09:26:02.096Z"
+  },
+  {
+    "slug": "the-velocity-trap-the-phoenix-project-for-the-ai-age-hn",
+    "title": "The Velocity Trap, the Phoenix Project for the AI Age",
+    "shortDescription": "I&#x27;m taking a bit of a risk with this one, this is a novella I authored with the help of AI. If that offends you, please move on! Every…",
+    "fullDescription": "I&#x27;m taking a bit of a risk with this one, this is a novella I authored with the help of AI. If that offends you, please move on! Everyone on HN knows just how much AI is disrupting our industry. Although, much of the industry narrative focusses on the tools, the AI, the harnesses, and their ever-growing capabilities. We need to spend just as much, if not more time discussing the impact this is having on us. Humans will still be a significant part of the software engineering ‘system’, and many of us are rapidly trying to determine what our role will ultimately be. Storytelling is a great medium for communicating and understanding change. That’s why I really enjoy books like The Phoenix Project — a vehicle for helping people understand the DevOps transformation from a human perspective. This story is very much inspired by The Phoenix Project: a near-future account of the impact AI has on an organisation deep in the pursuit of speed, ignoring the risks and the human impact. This story was written with the help of AI. While I can write a decent technical blog post, there is no hope for me when it comes to works of fiction! I have not tried to disguise the AI writing, and I have not suppressed the em dashes — although I did remove one use of the term “load-bearing”! If you consider an AI-authored tale to be worthless slop, I totally understand. I was simply using AI as a tool to help me tell a story that I think needs telling.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://colineberhardt.github.io/the-velocity-trap/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49962088",
+    "createdAt": "2026-10-05T09:26:02.096Z"
+  },
+  {
+    "slug": "i-built-a-3d-globe-of-upcoming-ai-conferences-hn",
+    "title": "I built a 3D globe of upcoming AI conferences",
+    "shortDescription": "Проект «I built a 3D globe of upcoming AI conferences», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built a 3D globe of upcoming AI conferences», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://aieventsworld.com/en/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49961802",
+    "createdAt": "2026-10-05T09:26:02.096Z"
+  },
+  {
+    "slug": "recursant-the-agent-aware-model-router-built-for-hybrid-workloads-hn",
+    "title": "Recursant, the agent-aware model router built for hybrid workloads",
+    "shortDescription": "Sharing Recursant, the agent-aware model router for private&#x2F;public workloads. Cut your AI agent bill by 30% and seamlessly operate age…",
+    "fullDescription": "Sharing Recursant, the agent-aware model router for private&#x2F;public workloads. Cut your AI agent bill by 30% and seamlessly operate agents across private and public inference infrastructure. Recursant is agent-aware, routes intelligently, built to be fast (C), and intended for privacy. github.com&#x2F;ajensenwaud&#x2F;re… It’s still rough around the edges, but good enough to run across private&#x2F;public routing to your own vLLMs and OpenRouter. I am working on support for other providers as well. Hoping to get feedback from HN on use and efficiency.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/ajensenwaud/recursant/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49960535",
+    "createdAt": "2026-10-05T09:26:02.096Z"
+  },
+  {
     "slug": "flunkey-github",
     "title": "flunkey",
     "shortDescription": "Open Source Wisprflow alternative. Voice first Desktop Productivity Tool",
