@@ -1,5 +1,378 @@
 [
   {
+    "slug": "opencardboard-github",
+    "title": "OpenCardboard",
+    "shortDescription": "OpenCardboard — local-first chat-to-edit AI video editor. Your footage never leaves your machine.",
+    "fullDescription": "OpenCardboard — local-first chat-to-edit AI video editor. Your footage never leaves your machine.\n\nАвтор: rakesh0x. Найдено в GitHub Trending (AI-тематика). ⭐ 39 звёзд.",
+    "url": "https://github.com/rakesh0x/OpenCardboard",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "electron",
+      "local-first",
+      "mcp",
+      "video-editor",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1404192386",
+    "createdAt": "2026-10-05T18:43:34.749Z"
+  },
+  {
+    "slug": "visionstudio-github",
+    "title": "VisionStudio",
+    "shortDescription": "A desktop workspace for image analysis and computer vision workflows.",
+    "fullDescription": "A desktop workspace for image analysis and computer vision workflows.\n\nАвтор: PetaNewtDemonstrate. Найдено в GitHub Trending (AI-тематика). ⭐ 19 звёзд.",
+    "url": "https://github.com/PetaNewtDemonstrate/VisionStudio",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "computer-vision",
+      "desktop",
+      "images",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1405675222",
+    "createdAt": "2026-10-05T18:43:34.749Z"
+  },
+  {
+    "slug": "promptworkbench-github",
+    "title": "PromptWorkbench",
+    "shortDescription": "A practical workspace for creating, comparing, and documenting AI prompts.",
+    "fullDescription": "A practical workspace for creating, comparing, and documenting AI prompts.\n\nАвтор: JoinPolitician. Найдено в GitHub Trending (AI-тематика). ⭐ 19 звёзд.",
+    "url": "https://github.com/JoinPolitician/PromptWorkbench",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "developer-tools",
+      "productivity",
+      "prompts",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1405674646",
+    "createdAt": "2026-10-05T18:43:34.749Z"
+  },
+  {
+    "slug": "codeassistant-github",
+    "title": "CodeAssistant",
+    "shortDescription": "A developer utility for organizing AI-assisted coding workflows.",
+    "fullDescription": "A developer utility for organizing AI-assisted coding workflows.\n\nАвтор: EnamelMidgeLightning. Найдено в GitHub Trending (AI-тематика). ⭐ 19 звёзд.",
+    "url": "https://github.com/EnamelMidgeLightning/CodeAssistant",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "assistant",
+      "coding",
+      "developer-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1405673616",
+    "createdAt": "2026-10-05T18:43:34.749Z"
+  },
+  {
+    "slug": "aichatdesktop-github",
+    "title": "AIChatDesktop",
+    "shortDescription": "A lightweight desktop workspace for interacting with conversational AI models.",
+    "fullDescription": "A lightweight desktop workspace for interacting with conversational AI models.\n\nАвтор: MythicLieutenantFeel. Найдено в GitHub Trending (AI-тематика). ⭐ 19 звёзд.",
+    "url": "https://github.com/MythicLieutenantFeel/AIChatDesktop",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "chatbot",
+      "desktop",
+      "productivity",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1405671727",
+    "createdAt": "2026-10-05T18:43:34.749Z"
+  },
+  {
+    "slug": "aiwriter-github",
+    "title": "AIWriter",
+    "shortDescription": "A focused writing workspace for drafting, editing, and summarizing text with AI.",
+    "fullDescription": "A focused writing workspace for drafting, editing, and summarizing text with AI.\n\nАвтор: TarantulaSmelter. Найдено в GitHub Trending (AI-тематика). ⭐ 19 звёзд.",
+    "url": "https://github.com/TarantulaSmelter/AIWriter",
+    "category": "writing",
+    "tags": [
+      "ai",
+      "productivity",
+      "text",
+      "writing",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1405672758",
+    "createdAt": "2026-10-05T18:43:34.749Z"
+  },
+  {
+    "slug": "localmodelmanager-github",
+    "title": "LocalModelManager",
+    "shortDescription": "A desktop utility for organizing locally available AI models and configurations.",
+    "fullDescription": "A desktop utility for organizing locally available AI models and configurations.\n\nАвтор: RadianceTreasurer. Найдено в GitHub Trending (AI-тематика). ⭐ 19 звёзд.",
+    "url": "https://github.com/RadianceTreasurer/LocalModelManager",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "desktop",
+      "local-models",
+      "models",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1405674053",
+    "createdAt": "2026-10-05T18:43:34.749Z"
+  },
+  {
+    "slug": "audiolabai-github",
+    "title": "AudioLabAI",
+    "shortDescription": "A workspace for speech, transcription, and AI-assisted audio workflows.",
+    "fullDescription": "A workspace for speech, transcription, and AI-assisted audio workflows.\n\nАвтор: FigureEconomic. Найдено в GitHub Trending (AI-тематика). ⭐ 19 звёзд.",
+    "url": "https://github.com/FigureEconomic/AudioLabAI",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "audio",
+      "speech",
+      "transcription",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1405673166",
+    "createdAt": "2026-10-05T18:43:34.749Z"
+  },
+  {
+    "slug": "aiutilitiespack-github",
+    "title": "AIUtilitiesPack",
+    "shortDescription": "A collection of utilities for common AI-assisted desktop workflows.",
+    "fullDescription": "A collection of utilities for common AI-assisted desktop workflows.\n\nАвтор: Goldenchoquest. Найдено в GitHub Trending (AI-тематика). ⭐ 19 звёзд.",
+    "url": "https://github.com/Goldenchoquest/AIUtilitiesPack",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "desktop",
+      "productivity",
+      "utilities",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1405672276",
+    "createdAt": "2026-10-05T18:43:34.749Z"
+  },
+  {
+    "slug": "rashomon-an-independent-execution-record-for-ai-coding-agents-hn",
+    "title": "Rashomon – An independent execution record for AI coding agents",
+    "shortDescription": "I have been working on Rashomon, an open-source execution recorder for AI coding agents. The basic idea is that the agent transcript is not…",
+    "fullDescription": "I have been working on Rashomon, an open-source execution recorder for AI coding agents. The basic idea is that the agent transcript is not ground truth. Rashomon keeps its own record of what happened and compares it against the agent’s account. For Claude Code, it records things like: * shell commands, exit codes, and whether they may have written files * tool calls and outcomes * test commands and their outcomes * subagent lifecycle and ordering * timestamps and parent&#x2F;child relationships * keyed digests of command&#x2F;tool inputs and working directories It builds a timeline from these events. It does not store prompts, responses, file contents, or tool output. For example, it now detects patterns like: `test fails → only test files change → same test passes` and: `test command fails → same command passes → no corresponding file edit` These can indicate that an agent changed a test instead of fixing the underlying issue. Rashomon currently runs as a Claude Code plugin or through the CLI. CLI: `rashomon watch` then: `rashomon report` Plugin: `&#x2F;rashomon:report` There are still edge cases around cwd, git state, test-selection arguments, generated files, retries, and parallel execution. I would be interested in feedback from people building agents on what execution signals you would want Rashomon to capture or correlate. GitHub: https:&#x2F;&#x2F;github.com&#x2F;altrace-dev-role&#x2F;rashomon\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/altrace-dev-role/rashomon",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49968377",
+    "createdAt": "2026-10-05T18:43:34.709Z"
+  },
+  {
+    "slug": "made-a-xcom-like-game-in-a-weekend-with-ai-3d-textures-models-etc-hn",
+    "title": "Made a xcom like game in a weekend with AI. 3D, textures, models, etc.",
+    "shortDescription": "I published it to playgama, but first want to say how it helped me. One of my ideas was to make something like X-Com but provide an indirec…",
+    "fullDescription": "I published it to playgama, but first want to say how it helped me. One of my ideas was to make something like X-Com but provide an indirect control - you control the leader, and your squad members make the turns themselves, based on their intelligence stats! If they get alive over battles - they learn how to play smarter, not just to get MORE hp! Now the most interesting part - the development. I used three.js and vanilla js, no engines or frameworks at all. The critical part was to get the story, organize self testing process - game is challenging, units are clear, gameplay brings joy, no UI mistakes, etc. Other important part was to use subagents which focus on different tasks, AI downloaded the blender and music generator and provided enough of cool features to the game. I am really proud of what I can achieve in 2-3 days , I played it myself over 10 times and every time I was enjoying it. not AAA, but can compete with indies.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://playgama.ai/play/55p62bkfsc",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49967183",
+    "createdAt": "2026-10-05T18:43:34.709Z"
+  },
+  {
+    "slug": "open-source-instinct-hn",
+    "title": "Open-Source Instinct",
+    "shortDescription": "We’ve all heard that Instinct raised $1 billion to bring personal AI agents to everyone. But I think anyone can build their own Instinct fo…",
+    "fullDescription": "We’ve all heard that Instinct raised $1 billion to bring personal AI agents to everyone. But I think anyone can build their own Instinct for a specific group of people. You know your audience, understand what they need, and know how to reach them. So I built an open-source version. It can make purchases online, coordinate with other people’s agents, use a computer, connect to MCP tools, manage permissions + everything else instinct wants to do. Here’s the stack: - Pi, the open-source agent framework used by openclaw - Maritime for each agent’s VM and computer access (cheapest infra) - Composio for app integrations and managed Google OAuth - Inkbox for imessege + email If you want to start selling your own personal AI agent, you can host the backend on a platform like railway&#x2F;vercel (around $20 a month). Maritime handles provisioning each agent’s VM and the infrastructure behind it ($1 a month per agent) I’m open-sourcing this so we can build on it together: add more services and tools, better permissions, different payment strategies, better prompts... The goal is to make it easy and affordable for anyone to launch a startup selling agents so that the world isnt ruled by openai dots and meta muses Check it out and let me know what you think!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/mariagorskikh/open-instinct",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49966816",
+    "createdAt": "2026-10-05T18:43:34.709Z"
+  },
+  {
+    "slug": "designobo-ai-prototyping-tool-in-40kb-of-js-hn",
+    "title": "Designobo – AI prototyping tool in 40kb of js",
+    "shortDescription": "hi HN I&#x27;m building designobo, a very fast ai prototyping tool. It let&#x27;s you create and compare html prototypes in an infinite can…",
+    "fullDescription": "hi HN I&#x27;m building designobo, a very fast ai prototyping tool. It let&#x27;s you create and compare html prototypes in an infinite canvas. There&#x27;s also a full css editor if you want to manually edit styles. You can also connect any coding agent that supports MCP, so that you can use your own AI subscription. This is an SSR app powered by datastar. I use CQRS and html patches with brotli compression to stream updates to the client. I built designobo because I was tired of every single web app of this style being extremely slow and sluggish to use. I think this one is a bit better. Let me know if you like it!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://designobo.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49966733",
+    "createdAt": "2026-10-05T18:43:34.709Z"
+  },
+  {
+    "slug": "leftovers-foss-macos-app-to-cleanup-after-ai-agents-hn",
+    "title": "Leftovers – FOSS macOS app to cleanup after AI agents",
+    "shortDescription": "Проект «Leftovers – FOSS macOS app to cleanup after AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Leftovers – FOSS macOS app to cleanup after AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/arpwal/leftovers",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49966727",
+    "createdAt": "2026-10-05T18:43:34.709Z"
+  },
+  {
+    "slug": "i-gave-170-websites-their-2019-design-hn",
+    "title": "I gave 170 websites their 2019 design",
+    "shortDescription": "Every few months, the websites we’ve familiarized ourselves with get overhauled without our input. One day YouTube shorts cross everyone’s…",
+    "fullDescription": "Every few months, the websites we’ve familiarized ourselves with get overhauled without our input. One day YouTube shorts cross everyone’s feed, the next day there’s an AI ready to summarize every post. In response, I made a Chrome extension that freezes website design at a time in which it felt more functional. It’s free, local, open-source, non-intrusive, and tailor-made for 170+ of the most popular websites. Recommend websites to add or report issues here: https:&#x2F;&#x2F;github.com&#x2F;PigeonFlare&#x2F;net19&#x2F;issues\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://chromewebstore.google.com/detail/net19/aomcmjccojigoiehgcomlpbiabllpeif",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49966658",
+    "createdAt": "2026-10-05T18:43:34.709Z"
+  },
+  {
+    "slug": "devboard-a-simpler-clickup-for-small-dev-teams-native-apps-and-mcp-hn",
+    "title": "DevBoard – a simpler ClickUp for small dev teams, native apps and MCP",
+    "shortDescription": "After being &#x27;forced&#x27; to use popular solutions like Jira, Linear, ClickUp and Trello for years I had enough. I wanted to build a s…",
+    "fullDescription": "After being &#x27;forced&#x27; to use popular solutions like Jira, Linear, ClickUp and Trello for years I had enough. I wanted to build a simple, clutter free, bloat free, fast tool to help you get your shit organised. I built this using Flutter (native on macOS, iOS and Android, Windows and Linux coming) and Serverpod for backend, hosted on a VPS. And since we all use AI tools, it works with Cursor, Claude, etc over MCP. Would you switch from ClickUp or Jira to this? It&#x27;s free for everyone in the beta. PS: you need an account to try it, screenshots are on the page\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://getdevboard.app/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49965575",
+    "createdAt": "2026-10-05T18:43:34.709Z"
+  },
+  {
+    "slug": "jurl-curl-that-reads-the-page-for-you-hn",
+    "title": "Jurl – curl that reads the page for you",
+    "shortDescription": "jurl is a CLI. Tell it what you want from a page and it picks exactly that out: the paragraphs that answer a question, the code, the links…",
+    "fullDescription": "jurl is a CLI. Tell it what you want from a page and it picks exactly that out: the paragraphs that answer a question, the code, the links worth following, or a photo you describe. On Wikipedia&#x27;s Cologne page it finds the cathedral among 73 images in 2.3 s; on the Jevons page, the two paragraphs out of ~240 that explain his paradox. The link above lets you try it in the browser, no key needed. Or in your terminal, with your own TypeSafe key (it asks for it on first run): brew install rayoplateado&#x2F;tap&#x2F;jurl jurl -q &quot;What is the Jevons paradox?&quot; en.wikipedia.org&#x2F;wiki&#x2F;William_Stanley_Jevons jurl --code github.com&#x2F;BurntSushi&#x2F;ripgrep jurl -f &quot;a cathedral&quot; en.wikipedia.org&#x2F;wiki&#x2F;Cologne jurl -l -n 3 news.ycombinator.com | xargs -n1 jurl -n 1 How it works: jurl splits the page into blocks, links and images, and turns each one into a yes&#x2F;no question (&quot;does this block answer the question?&quot;). A decision model, Jev from TypeSafe, scores them all in a single request. For images, Clef on Cloudflare Workers AI looks at the pixels. The models return probabilities, never text: jurl picks, it doesn&#x27;t write. Everything it prints is on the page, so it&#x27;s safe to pipe into xargs curl. Most pages take under a second and cost a fraction of a cent, about a thousand pages per dollar, paid straight to the APIs: jurl calls them directly with your own keys (TypeSafe for text, plus Cloudflare only if you want it to look at images). Written in Rust, MIT or Apache-2.0. Code: https:&#x2F;&#x2F;github.com&#x2F;rayoplateado&#x2F;jurl I&#x27;d especially like to hear about pages where it picks the wrong thing. P.S. It&#x27;s pronounced &#x2F;xaɾl&#x2F;, &quot;harl&quot;: the name is a nod to the Spanish comedian Chiquito de la Calzada and his &quot;jarl&quot;.\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://jurl.dev/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49965478",
+    "createdAt": "2026-10-05T18:43:34.710Z"
+  },
+  {
+    "slug": "twrctrl-browser-based-tower-and-ground-atc-simulator-hn",
+    "title": "Twrctrl – Browser-Based Tower and Ground ATC Simulator",
+    "shortDescription": "I&#x27;ve been building this top-down browser-based air traffic control simulator where you handle the ground movement of aircraft after no…",
+    "fullDescription": "I&#x27;ve been building this top-down browser-based air traffic control simulator where you handle the ground movement of aircraft after noticing that a vast majority of browser ATC simulators are focused on the radar&#x2F;TRACON aspects of ATC that reduce our beautiful aircraft to dots on a screen with some text. You handle everything between the runway and gates, issuing pushback, taxi, takeoff, and landing clearances to aircraft in this simulator, with aircraft logic and command mechanics working as close as I could to memory of how real ATC works. I&#x27;ve both flown planes as a student pilot and also hold aircraft maintenance certification so there is a lot of my judgement in this too. These are all real airports, aircraft, weather, and operator patterns, referenced to publicly available airport data and satellite imagery, alongside input from fellow professionals in the industry. There are synthetic aircraft engine sounds that use powerplant-specific sound parameters such as turbofans using N1%&#x2F;N2% with turboprops having a TRQ% parameter in addition, tuned to match different general engine types. (like the howl of a CFM LEAP-1A&#x2F;B being different to the buzzing of a RR RB211) It works best on desktop, the phone mode is there but is a little bit clunky. No download or signup, all in the browser ready to go, with a quick tutorial under &quot;how to play&quot; to get you up to speed in aviation phraseology. This is a quasi-simulator, based on real-world operations but with some game-like aspects to keep the player engaged and the overall simulator visually appealing. Keflavík (BIKF) and Stockholm-Arlanda (ESSA) are the two airports currently modelled in the simulator by yours truly. I would love to hear anyone&#x27;s thoughts, especially curious to get feedback on the mechanics and experience from ANSP-adjacent or aviation professionals.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://twrctrl.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49964501",
+    "createdAt": "2026-10-05T18:43:34.710Z"
+  },
+  {
+    "slug": "seylo-project-files-and-references-your-ai-can-use-hn",
+    "title": "Seylo, project files and references your AI can use",
+    "shortDescription": "Hey HN, I am building Seylo solo. It keeps your projects references, files, notes, hooks, video scripts in one place. You can save stuff fr…",
+    "fullDescription": "Hey HN, I am building Seylo solo. It keeps your projects references, files, notes, hooks, video scripts in one place. You can save stuff from browser extension, fe. pinterest inspirations; your phone (now only iPhone supported) fe. tiktok&#x2F;ig videos of your competitors; What&#x27;s more you can also connect gpt, claude or any LLM that supports MCP, even local ones - So you can tell ur AI: &quot;Generate me 5 video scripts then save them into my project&quot; then tell another AI: &quot;Based on my project prepare my marketing campain&quot; - small examples. Seylo works sd clean workspace for your projects and as context bank for LLM u are using. Lemme know what you think\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://seylo.co",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49963994",
+    "createdAt": "2026-10-05T18:43:34.710Z"
+  },
+  {
+    "slug": "acruxcore-version-and-trace-the-prompts-and-tools-your-agents-use-hn",
+    "title": "AcruxCore – version and trace the prompts and tools your agents use",
+    "shortDescription": "Проект «AcruxCore – version and trace the prompts and tools your agents use», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AcruxCore – version and trace the prompts and tools your agents use», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/AcruxCore/AcruxCore",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49963031",
+    "createdAt": "2026-10-05T18:43:34.710Z"
+  },
+  {
+    "slug": "rerightit-human-approval-for-agent-written-text-hn",
+    "title": "Reright.it – Human approval for agent-written text",
+    "shortDescription": "So, I use agents to write a ton of stuff now: e-mails, client messages, commit messages, comments, etc. The problem is that AI writing is V…",
+    "fullDescription": "So, I use agents to write a ton of stuff now: e-mails, client messages, commit messages, comments, etc. The problem is that AI writing is VERY easy to spot and most of the time I don&#x27;t want it being sent under my name, since it does not sound like me at all. After failing at trying to fix it with rulebooks or skills like humanizer, I decided it was better to try to &quot;catch&quot; every time the agents write public-facing text and force the agents to send it to a single queue and wait for my editing and approval. Why this approach? I still want the agents to draft the text for me, since it&#x27;s time consuming to pull up the necessary information and create the initial structure of the message. All I need to make the text sound like me is to lightly re-structure some sentences, remove the enthusiasm, trim it down, remove words I don&#x27;t use, etc.. So I made this for myself and have used it for a while now, find it very useful, so I decided to make it public. If offers a nice looking UI with a proper text editor that allows me to easily edit and approve&#x2F;reject public facing text produced by any of my running agents. It&#x27;s super simple, can be used locally or with cloud session agents (but hooks don&#x27;t work there, so there&#x27;s no way to enforce its use there). Every message shows up as a draft that I can edit and it’s got all the context right there: what it is, who&#x27;s gonna read it, and why the agent even wrote it. Then, I can edit it, hit approve and the agent sends my version of the text. I figured other people might also find it useful, so here it goes. Any feedback is much appreciated.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://reright.it/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49962951",
+    "createdAt": "2026-10-05T18:43:34.710Z"
+  },
+  {
     "slug": "pi-forge-github",
     "title": "pi-forge",
     "shortDescription": "The harness that builds harnesses: tell it about your work and it builds a custom AI agent with its own tools, views, skills and UI. Runs i…",
