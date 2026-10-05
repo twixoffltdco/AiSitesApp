@@ -1,5 +1,124 @@
 [
   {
+    "slug": "flunkey-github",
+    "title": "flunkey",
+    "shortDescription": "Open Source Wisprflow alternative. Voice first Desktop Productivity Tool",
+    "fullDescription": "Open Source Wisprflow alternative. Voice first Desktop Productivity Tool\n\nАвтор: FlunkeyManager. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "flunkey.space",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "dictation-app",
+      "flunkey",
+      "productivity",
+      "prompt-engineering",
+      "rust",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1404353064",
+    "createdAt": "2026-10-05T02:16:02.881Z"
+  },
+  {
+    "slug": "promptology-github",
+    "title": "promptology",
+    "shortDescription": "An detailed catalog of provider-specific prompt enhancements.",
+    "fullDescription": "An detailed catalog of provider-specific prompt enhancements.\n\nАвтор: FlunkeyManager. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "flunkey.space/promptology",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "catalog",
+      "flunkey",
+      "generation",
+      "harness",
+      "keywords",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1404452634",
+    "createdAt": "2026-10-05T02:16:02.881Z"
+  },
+  {
+    "slug": "tradeguard-github",
+    "title": "TradeGuard",
+    "shortDescription": "AI-assisted pre-trade safety layer that turns natural-language trade ideas into validated, risk-aware orders with human confirmation.",
+    "fullDescription": "AI-assisted pre-trade safety layer that turns natural-language trade ideas into validated, risk-aware orders with human confirmation.\n\nАвтор: himanshu-jadhav108. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://trade-guard-snowy.vercel.app",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "cryptocurrency",
+      "digital-assets",
+      "fastapi",
+      "financial-technology",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1403214732",
+    "createdAt": "2026-10-05T02:16:02.881Z"
+  },
+  {
+    "slug": "suryodev-github",
+    "title": "suryodev",
+    "shortDescription": "Open source product video generator",
+    "fullDescription": "Open source product video generator\n\nАвтор: suhasbhairav. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/suhasbhairav/suryodev",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "gpt",
+      "llm",
+      "ollama",
+      "video-generation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1404576762",
+    "createdAt": "2026-10-05T02:16:02.881Z"
+  },
+  {
+    "slug": "a-hotspot-inspired-common-lisp-for-linuxwindowsandroid-hn",
+    "title": "A Hotspot-Inspired Common Lisp for Linux/Windows/Android",
+    "shortDescription": "Evergreen Common Lisp implements tiered JIT compilation with on-stack replacement, and includes many other interesting features (fibers! JV…",
+    "fullDescription": "Evergreen Common Lisp implements tiered JIT compilation with on-stack replacement, and includes many other interesting features (fibers! JVM integration! static and dynamic linked binaries! tree-shaking! speculative optimization w&#x2F; deoptimization!) You can even run native Android apps on your phone and connect to them with sly ( https:&#x2F;&#x2F;github.com&#x2F;atgreen&#x2F;evergreen-compose ). It still has long way to go, and sometimes is comically bad, but the Android apps working is a milestone that is good enough to share v0.0.1. The Android apps build directly from asdf. You don&#x27;t need any of the normal Android tooling, apart from adb (the debugger, to copy it to your phone and forward slynk ports). Made with AI, of course (&gt;2k commits over 2 months).\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/atgreen/evergreen",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49959513",
+    "createdAt": "2026-10-05T02:16:02.743Z"
+  },
+  {
+    "slug": "the-poteto-frontier-for-ai-agents-hn",
+    "title": "The Poteto Frontier for AI Agents",
+    "shortDescription": "I made this lil meme app based on @poteto (lauren tan)&#x27;s amazing talk asking: how many agents do you generally have working on your be…",
+    "fullDescription": "I made this lil meme app based on @poteto (lauren tan)&#x27;s amazing talk asking: how many agents do you generally have working on your behalf? her original talk: https:&#x2F;&#x2F;x.com&#x2F;poteto&#x2F;status&#x2F;2102050467505430555 source: https:&#x2F;&#x2F;github.com&#x2F;transitive-bullshit&#x2F;poteto-frontier\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://poteto-frontier.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49959257",
+    "createdAt": "2026-10-05T02:16:02.743Z"
+  },
+  {
     "slug": "desktopaiutilities-github",
     "title": "DesktopAIUtilities",
     "shortDescription": "A collection of desktop-oriented helpers for working with AI applications, local models, and automation workflows.",
