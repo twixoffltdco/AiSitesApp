@@ -1,5 +1,79 @@
 [
   {
+    "slug": "openchart-github-2",
+    "title": "openchart",
+    "shortDescription": "OSS Tradingview with your own AI, free forever",
+    "fullDescription": "OSS Tradingview with your own AI, free forever\n\nАвтор: longsurf-ai. Найдено в GitHub Trending (AI-тематика). ⭐ 79 звёзд.",
+    "url": "https://chart.chat",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "agentic-trader",
+      "ai",
+      "charting",
+      "charts",
+      "charts-js",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1406053875",
+    "createdAt": "2026-10-06T23:32:55.734Z"
+  },
+  {
+    "slug": "article-style-approach-github",
+    "title": "article-style-approach",
+    "shortDescription": "个人文章写作 + 去 AI 味的可复现方法论：机制与数据分离、证据优先、分级去 AI 味(L1-L6) + 语气硬门禁 | Reproducible methodology for writing in your own voice & removing AI flavor",
+    "fullDescription": "个人文章写作 + 去 AI 味的可复现方法论：机制与数据分离、证据优先、分级去 AI 味(L1-L6) + 语气硬门禁 | Reproducible methodology for writing in your own voice & removing AI flavor\n\nАвтор: xsoway. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://xsoway.github.io/article-style-approach/",
+    "category": "writing",
+    "tags": [
+      "ai",
+      "llm",
+      "persona",
+      "writing",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1403841769",
+    "createdAt": "2026-10-06T23:32:55.734Z"
+  },
+  {
+    "slug": "an-ai-agent-runs-ten-web-errands-a-day-every-transcript-published-hn",
+    "title": "An AI agent runs ten web errands a day, every transcript published",
+    "shortDescription": "Проект «An AI agent runs ten web errands a day, every transcript published», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An AI agent runs ten web errands a day, every transcript published», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://agentability.org/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49984736",
+    "createdAt": "2026-10-06T23:32:55.659Z"
+  },
+  {
+    "slug": "voxscribe-a-local-hold-to-talk-voice-dictation-app-for-windows-hn",
+    "title": "VoxScribe, a local hold-to-talk voice dictation app for Windows",
+    "shortDescription": "Проект «VoxScribe, a local hold-to-talk voice dictation app for Windows», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «VoxScribe, a local hold-to-talk voice dictation app for Windows», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/ahmedhmam1994/voxscribe-ai-voice-dictation",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49983690",
+    "createdAt": "2026-10-06T23:32:55.659Z"
+  },
+  {
     "slug": "motionmaxxing-github",
     "title": "motionmaxxing",
     "shortDescription": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
