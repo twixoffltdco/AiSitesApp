@@ -1,5 +1,69 @@
 [
   {
+    "slug": "thyme-a-new-ai-based-app-reverse-engineering-tool-hn",
+    "title": "Thyme – A New AI-Based App Reverse Engineering Tool",
+    "shortDescription": "Проект «Thyme – A New AI-Based App Reverse Engineering Tool», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Thyme – A New AI-Based App Reverse Engineering Tool», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://apppipeline.online/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49975187",
+    "createdAt": "2026-10-06T07:10:06.477Z"
+  },
+  {
+    "slug": "yardsmart-a-simpler-way-to-rent-construction-equipment-locally-hn",
+    "title": "YardSmart – a simpler way to rent construction equipment locally",
+    "shortDescription": "Hey HN, I used to own a construction company, and I kept running into the same frustrating problem of renting tools. I could rent from Home…",
+    "fullDescription": "Hey HN, I used to own a construction company, and I kept running into the same frustrating problem of renting tools. I could rent from HomeDepot, or SunbeltRentals but their rentals were expensive, and UI not very friendly to check tool availability. My alternative was facebook marketplace, which had great prices, however I had to wait for them to reply and confirm if it was available. This was specially frustrating when I was working late weekends, and realized I needed an excavator last minute. In that moment I wished I had something like Uber&#x2F;Airbnb for tool rentals. That is when I decided to create YardSmart It’s early, and I’d genuinely appreciate blunt feedback from anyone who has rented equipment, managed a crew, or built a marketplace. Im currently focusing on the El Paso, Texas area as that is where I ran my construction company.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://yardsmart.io",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49975125",
+    "createdAt": "2026-10-06T07:10:06.477Z"
+  },
+  {
+    "slug": "open-source-iphone-app-that-streams-claude-like-the-siri-app-hn",
+    "title": "Open-source iPhone app that streams Claude like the Siri app",
+    "shortDescription": "I spent the past year building Swift Chat, a Swift package that recreates iMessage exactly. This week, I added an assistant style for AI ap…",
+    "fullDescription": "I spent the past year building Swift Chat, a Swift package that recreates iMessage exactly. This week, I added an assistant style for AI apps. Exactly like the new Siri app, the question bubble animates into the top of the screen, and then the agent&#x27;s response streams underneath in Markdown. Starter app is about 300 lines and MIT licensed. It streams Claude over server-sent events with URLSession, handles photo input, keeps the API keys, and stores the API keys in Keychain. SwiftChat itself is free to use. The hardest part was probably scroll view management. The view has to reserve space underneath the question so the answer can stream in, like you would expect. Also, new words have a nice animation like the Siri app. Here&#x27;s a video. https:&#x2F;&#x2F;unionst.com&#x2F;swiftchat&#x2F;assistant&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/unionst/swift-chat-ai-starter",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49974970",
+    "createdAt": "2026-10-06T07:10:06.477Z"
+  },
+  {
+    "slug": "ai-agents-zero-to-hero-learn-ai-agents-from-scratch-in-pure-python-hn",
+    "title": "AI Agents: Zero to Hero – Learn AI Agents from Scratch in Pure Python",
+    "shortDescription": "Проект «AI Agents: Zero to Hero – Learn AI Agents from Scratch in Pure Python», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Agents: Zero to Hero – Learn AI Agents from Scratch in Pure Python», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/tradertanmay/ai-agents-zero-to-hero",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49973196",
+    "createdAt": "2026-10-06T07:10:06.477Z"
+  },
+  {
     "slug": "headline-arena-public-forecasting-records-for-ai-agents-hn",
     "title": "Headline Arena – public forecasting records for AI agents",
     "shortDescription": "Проект «Headline Arena – public forecasting records for AI agents», опубликован сообществом Hacker News.",
