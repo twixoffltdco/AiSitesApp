@@ -1,5 +1,251 @@
 [
   {
+    "slug": "motionmaxxing-github",
+    "title": "motionmaxxing",
+    "shortDescription": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.",
+    "fullDescription": "Looksmaxxing for motion graphics. An agent skill that turns AI slop videos into films that look made by a motion designer.\n\nАвтор: Tejashmakwana. Найдено в GitHub Trending (AI-тематика). ⭐ 12 звёзд.",
+    "url": "https://github.com/Tejashmakwana/motionmaxxing",
+    "category": "ai-tool",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "claude-code",
+      "gsap",
+      "hyperframes",
+      "motion-graphics",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1407754231",
+    "createdAt": "2026-10-06T19:40:53.902Z"
+  },
+  {
+    "slug": "hieraticbench-can-ai-read-ancient-egyptian-handwriting-hn",
+    "title": "HieraticBench – Can AI read ancient Egyptian handwriting?",
+    "shortDescription": "I&#x27;m obsessed with Egyptology. During covid, I wanted to get a hieratic tattoo. For those who don&#x27;t know, hieratic is the cursive…",
+    "fullDescription": "I&#x27;m obsessed with Egyptology. During covid, I wanted to get a hieratic tattoo. For those who don&#x27;t know, hieratic is the cursive form of hieroglyphs that was used in day-to-day life in ancient Egypt. It&#x27;s as old as hieroglyphs. I then went on a mission to have a sentence translated into hieratic. Luckily, in 2022, I was able to commission an Oxford Egyptologist to write it for me. After that, I took it to a hieratic specialist I found on Instagram to redraw it with &quot;biblical&quot; accuracy. When generative AI came out, I realized that models very rarely identify hieratic and almost never translate it correctly. Every single time a new model came out, I ended up testing my sentence and hieratic texts in general, and I realized this could actually become a benchmark. Since so many benchmarks are becoming saturated, we need to find weird ways to test new models. That&#x27;s why I decided to build HieraticBench. The first version of the benchmark has 268 items, including real documents, signs, and other Egyptian scripts, which I used as controls, as well as my unpublished sentence in two different renditions. The current state-of-the-art foundation models are hilariously bad at identifying my sentence, especially the one the Egyptologist wrote with her pen. Some of them said Tibetan, Urdu, Korean, and, funnily enough, &quot;Reformed Egyptian,&quot; which is from the Book of Mormon. On real documents, the best model in the benchmark identified hieratic correctly 95% of the time, and the best score for reading individual signs was around 13%. That&#x27;s when we tell the model specifically that it&#x27;s hieratic. None of them can really translate a sealed sentence that&#x27;s never been published and has no answer key. I haven&#x27;t run every model on every task just to keep costs down. My next steps were to run Astra and Gemini 3.1 Pro on real documents. Currently, only the Claude models have done the sign readings. And just FYI, I have no experience whatsoever running benchmarks or evaluations, so not 100% sure I scored things right. Things we need: - Running the models I haven&#x27;t covered - More sealed sentences and labeled signs If you know hieratic or have an Egyptologist friend, reach out at hieraticbench@veeza.ai. Source code: https:&#x2F;&#x2F;github.com&#x2F;alymoursy&#x2F;hieraticbench I&#x27;ll be around to answer questions.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://hieraticbench.vercel.app/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49982822",
+    "createdAt": "2026-10-06T19:40:53.797Z"
+  },
+  {
+    "slug": "an-mcp-server-that-finds-text-your-agent-reads-and-you-cant-see-hn",
+    "title": "An MCP server that finds text your agent reads and you can't see",
+    "shortDescription": "Проект «An MCP server that finds text your agent reads and you can't see», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An MCP server that finds text your agent reads and you can't see», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://hiddencontent.ai/start/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49982817",
+    "createdAt": "2026-10-06T19:40:53.798Z"
+  },
+  {
+    "slug": "talk-to-sam-ai-and-send-a-real-letter-by-post-hn",
+    "title": "Talk to Sam (AI) and send a real letter by post",
+    "shortDescription": "I built a little piece of Her. Remember Theodore&#x27;s job writing letters for other people? You talk to Sam, edit the letter together, th…",
+    "fullDescription": "I built a little piece of Her. Remember Theodore&#x27;s job writing letters for other people? You talk to Sam, edit the letter together, then have it printed and mailed. I put a lot of time and effort into making it feel as close to the movie as possible. Very happy with the animations! Try it out!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.sendwithsam.com",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49982366",
+    "createdAt": "2026-10-06T19:40:53.798Z"
+  },
+  {
+    "slug": "prevo-ai-voice-interviewer-for-visa-citizenship-job-and-pitch-prep-hn",
+    "title": "Prevo – AI voice interviewer for visa, citizenship, job and pitch prep",
+    "shortDescription": "Проект «Prevo – AI voice interviewer for visa, citizenship, job and pitch prep», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Prevo – AI voice interviewer for visa, citizenship, job and pitch prep», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.prevoapp.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49982299",
+    "createdAt": "2026-10-06T19:40:53.798Z"
+  },
+  {
+    "slug": "delegator-stop-juggling-coding-agent-sessions-hn",
+    "title": "Delegator – Stop juggling coding-agent sessions",
+    "shortDescription": "I wanted to share Delegator with the HN community. delegator gives you a personal inbox to manage your tasks that is completely local to yo…",
+    "fullDescription": "I wanted to share Delegator with the HN community. delegator gives you a personal inbox to manage your tasks that is completely local to your machine. Backstory: Like everyone else, I&#x27;ve been experimenting with different AI-assisted development workflows. I realized I was having difficulty with all the context switching between tasks. Asking agents to develop code ends up taking about 5-10 minutes usually for well-scoped tasks. At the beginning I would read the AI output as it went along and sometimes interrupt to guide it. But as LLMs have gotten better, there&#x27;s less need to do that. So I would spin up another task during the latency and then another. (I wrote a little bit about this previously here https:&#x2F;&#x2F;mattmccormick.ca&#x2F;we-re-all-managers-now-my-journey-i... ) Jumping back and forth between terminals with the Agent being at different stages was mentally taxing. I experimented with some different options and ended up realizing that to avoid the drain of context-switching, what I really needed was a queue. Delegator works by putting all scoped tasks through the system. It stops when the ready queue has reached your configured limit. This is to prevent too much work from piling up waiting for review. It also presents the work from getting too far ahead in case any issues are found as part of development. I also realized that for most tasks, agents can be treated as a background process. You pass in the work to the process. It processes it and then gives you an output to review. All changes are made in git worktrees for safety. Who&#x27;s it for? Delegator is for engineers who still want to understand the code and changes. It&#x27;s not for vibe-coding or exploratory work. Don&#x27;t get me wrong, I&#x27;ll still spin up an agent session for brainstorming design options. But once I&#x27;m aligned on a direction, I&#x27;ll then ask the agent to break down the work into &quot;dg tickets&quot;. Since Delegator is a local program, agents can interact with it quickly and seamlessly. Right now it&#x27;s just CLI based but I&#x27;m looking to expand this into a GUI&#x2F;Desktop App so I would be interested in any feedback you have. Let me know if you have any questions and I&#x27;ll respond. The code is source available so you can check it out at https:&#x2F;&#x2F;github.com&#x2F;alcubie&#x2F;delegator if you want to check anything.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://alcubi.ai/delegator/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49981900",
+    "createdAt": "2026-10-06T19:40:53.798Z"
+  },
+  {
+    "slug": "we-built-a-way-to-make-dictation-sound-like-you-hn",
+    "title": "We built a way to make dictation sound like you",
+    "shortDescription": "We all chat with AIs like every day and i have a hunch they know more about us than we thought. So at Willow we built Knowledge base where…",
+    "fullDescription": "We all chat with AIs like every day and i have a hunch they know more about us than we thought. So at Willow we built Knowledge base where users can import memory from ChatGPT, Perplexity, Claude, Gemini or any AI you use and once done it will write like you and sound like you when you dictate.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://willowvoice.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49981790",
+    "createdAt": "2026-10-06T19:40:53.798Z"
+  },
+  {
+    "slug": "toda-universal-decision-model-based-on-task-oriented-design-hn",
+    "title": "TOD,a universal Decision model based on Task Oriented Design",
+    "shortDescription": "Hi HN, we built TOD, a model and API for jevlike LLM pipelines. we have people using it for, routing a ticket, classifying intent, deciding…",
+    "fullDescription": "Hi HN, we built TOD, a model and API for jevlike LLM pipelines. we have people using it for, routing a ticket, classifying intent, deciding whether something is urgent, or rating severity. Architecture - 12B Gemma fine-tuned to score options. since it is gemma based it has multimodality built in - When there are &gt;120 labels, we have a 150M retriever that narrows them to a shortlist (recall@16 is 0.9–1.0 on our evals), and the 12B model scores that shortlist. - Context goes up to 49k tokens, with up to 8 images per request. we have open sourced it, model: https:&#x2F;&#x2F;huggingface.co&#x2F;parsecai&#x2F;tod API: https:&#x2F;&#x2F;parseclab.ai&#x2F;tod We are working on getting the RL environments to finetune for custom use cases. would love to hear your opinions on this.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://parseclab.ai/tod/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49981275",
+    "createdAt": "2026-10-06T19:40:53.798Z"
+  },
+  {
+    "slug": "sprav-job-ai-client-side-career-tool-with-webgpu-and-direct-ats-queries-hn",
+    "title": "SPrav Job AI Client-side career tool with WebGPU and direct ATS queries",
+    "shortDescription": "Проект «SPrav Job AI Client-side career tool with WebGPU and direct ATS queries», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «SPrav Job AI Client-side career tool with WebGPU and direct ATS queries», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://sprav-jobai.vercel.app/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49980749",
+    "createdAt": "2026-10-06T19:40:53.798Z"
+  },
+  {
+    "slug": "evalyze-investor-outreach-and-follow-up-tracking-with-eva-hn",
+    "title": "Evalyze investor outreach and follow up tracking with Eva",
+    "shortDescription": "Проект «Evalyze investor outreach and follow up tracking with Eva», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Evalyze investor outreach and follow up tracking with Eva», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.evalyze.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49980535",
+    "createdAt": "2026-10-06T19:40:53.798Z"
+  },
+  {
+    "slug": "foundrradio-pick-a-frequency-launch-your-radio-station-and-go-on-air-hn",
+    "title": "FoundrRadio – Pick a frequency, launch your radio station and go on air",
+    "shortDescription": "Hey everyone! We&#x27;ve all loved the feeling of tuning an old radio and listening to music, commentary, or the news. But we&#x27;ve mostl…",
+    "fullDescription": "Hey everyone! We&#x27;ve all loved the feeling of tuning an old radio and listening to music, commentary, or the news. But we&#x27;ve mostly experienced radio as listeners. We never really got to be on the other side and have our own frequency and broadcast to others. So I thought, what if we could combine both? A place where anyone can have their own frequency and go live. You can tune around, discover someone&#x27;s station, or claim your own and go on air.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://foundrradio.live/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49980501",
+    "createdAt": "2026-10-06T19:40:53.799Z"
+  },
+  {
+    "slug": "ai-circuit-breaker-reverse-proxy-to-stop-agent-infinite-loops-hn",
+    "title": "AI Circuit Breaker – Reverse proxy to stop agent infinite loops",
+    "shortDescription": "Проект «AI Circuit Breaker – Reverse proxy to stop agent infinite loops», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Circuit Breaker – Reverse proxy to stop agent infinite loops», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://circuit-breaker-sage.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49980418",
+    "createdAt": "2026-10-06T19:40:53.799Z"
+  },
+  {
+    "slug": "trends-radar-analyze-search-content-and-product-trends-hn",
+    "title": "Trends Radar – analyze search, content and product trends",
+    "shortDescription": "Trends Radar is a free trend identification tool that enables you to identify emerging trends even before they become apparent. The app exa…",
+    "fullDescription": "Trends Radar is a free trend identification tool that enables you to identify emerging trends even before they become apparent. The app examines search trends, product trends, and content trends through the application of AI research, scoring, and curation.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://growthupdate.io/radar",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49979862",
+    "createdAt": "2026-10-06T19:40:53.799Z"
+  },
+  {
+    "slug": "openchart-oss-tradingview-alternative-with-your-own-ai-agent-hn",
+    "title": "OpenChart – OSS TradingView alternative with your own AI agent",
+    "shortDescription": "Hi HN, I&#x27;m Weilun, cofounder of OpenChart. We built OpenChart because we wanted Claude and Codex to interface with the markets, like m…",
+    "fullDescription": "Hi HN, I&#x27;m Weilun, cofounder of OpenChart. We built OpenChart because we wanted Claude and Codex to interface with the markets, like most of humans do, through charts rather than through CLIs. With your existing AI plans, your agent can work directly with your charts: annotate a setup, write an indicator, investigate a market move, or create an alert. The chart, conversation, and research live in the same workspace. OpenChart alerts on any market move: draw any shape on a chart and attach an alert. When price crosses it, the alert triggers your agent to investigate the move and save the research in your workspace. The agents can work with charts, indicators, and alerts. Custom indicators and alert conditions are written in [Tea]( https:&#x2F;&#x2F;github.com&#x2F;longsurf-ai&#x2F;tea ), a programming language we built for the markets. We believe software shouldn’t impose artificial friction on your workflow. OpenChart is built on that belief with no software cap. The source code is publicly available, and you can use free market data from day one. We also offer optional paid cloud market data for lower latency. Everything is private. Your charts, research, and indicator code are stored on your own computer, with the app&#x27;s backend running locally too. We currently support only macOS on Apple Silicon, but we&#x27;re expanding to more platforms. Website: https:&#x2F;&#x2F;openchart.co&#x2F; Download: https:&#x2F;&#x2F;downloads.longsurf.ai&#x2F;openchart&#x2F;darwin&#x2F;arm64&#x2F;OpenCha... We built OpenChart because we want to explore how assets can be co-manages by agents and humans. I&#x27;d especially like to hear how you are using agents to help with your investment journey. If you like what we&#x27;re building, a star on GitHub would mean a lot to us: https:&#x2F;&#x2F;github.com&#x2F;longsurf-ai&#x2F;openchart\n\nНайдено в разделе Show HN на Hacker News. 👍 33 баллов.",
+    "url": "https://github.com/longsurf-ai/openchart",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49979793",
+    "createdAt": "2026-10-06T19:40:53.799Z"
+  },
+  {
+    "slug": "projecttodo-a-local-todo-board-with-an-mcp-server-for-your-ai-assistant-hn",
+    "title": "ProjectTodo: A local todo board with an MCP server for your AI assistant",
+    "shortDescription": "Проект «ProjectTodo: A local todo board with an MCP server for your AI assistant», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ProjectTodo: A local todo board with an MCP server for your AI assistant», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/nidheesh1994/projecttodo",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49979596",
+    "createdAt": "2026-10-06T19:40:53.799Z"
+  },
+  {
     "slug": "ventanilla-github",
     "title": "ventanilla",
     "shortDescription": "Ventanilla: answers about the Colombian State from official sources, powered by Croma",
