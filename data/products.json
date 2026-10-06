@@ -1,5 +1,53 @@
 [
   {
+    "slug": "headline-arena-public-forecasting-records-for-ai-agents-hn",
+    "title": "Headline Arena – public forecasting records for AI agents",
+    "shortDescription": "Проект «Headline Arena – public forecasting records for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Headline Arena – public forecasting records for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://headlinearena.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49972374",
+    "createdAt": "2026-10-06T00:35:10.579Z"
+  },
+  {
+    "slug": "cold-b2b-email-should-be-free-flyhedwig-hn",
+    "title": "Cold B2B email should be free (FlyHedwig)",
+    "shortDescription": "Until recently I didn&#x27;t understand what cold email really was and I accepted its price as one of those &quot;it is what it is&quot; th…",
+    "fullDescription": "Until recently I didn&#x27;t understand what cold email really was and I accepted its price as one of those &quot;it is what it is&quot; things. But exploring the topic, I realised that there is no reason someone should have to pay for cold email, so I built FlyHedwig. With FlyHedwig you can manage hundreds of email addresses, schedule sending times, import lists, get stats... all the good stuff. Ah, and it&#x27;s got some cool AI-classification and draft built in. If you work with cold email, I&#x27;d love to hear your thoughts! And if you like the project, as it&#x27;s OSS, starring it would help it reach more people and encourage me to continue to improve it!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://flyhedwig.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49972233",
+    "createdAt": "2026-10-06T00:35:10.579Z"
+  },
+  {
+    "slug": "halo-a-personal-ai-with-on-device-harness-memory-and-browser-agent-hn",
+    "title": "Halo – A Personal AI with On-Device Harness, Memory and Browser Agent",
+    "shortDescription": "Halo is privacy focused personal assistant for iOS that uses a custom built agent harness with support to use you existing LLM subscription…",
+    "fullDescription": "Halo is privacy focused personal assistant for iOS that uses a custom built agent harness with support to use you existing LLM subscriptions, Wiki based memory system backed by on-device RAG, a full-fledged local browser agent, chat with generative UI and more. TLDR: It&#x27;s a better version of Hermes&#x2F;OpenClaw for iOS, without needing a server! The better part is its proactive feature set and UX. --- I started building Halo last year with 3 goals in mind: - Surface what’s important before I have to ask - Understand my life through the apps I already use - Keep my personal data on my device Privacy is at the core of Halo and that&#x27;s what sets it apart from other AI assistants. While other popular assistants on iOS save your private data such as emails, messages, etc on their servers, Halo stores all of it on your device. I launched it today and have a 50% discount for the first week for early adopters. There is no subscription, just a single lifetime plan with a no-charge-at-end free trial. US price is $49 with PPP of up to 80% off for other countries like India. More details here: Official website: https:&#x2F;&#x2F;meethalo.app Read more about the memory system: https:&#x2F;&#x2F;meethalo.app&#x2F;blog&#x2F;how-halo-remembers&#x2F; X posts about building it publicly: https:&#x2F;&#x2F;x.com&#x2F;search?q=from%3Atanmays%20halo --- Please try it out, I promise it&#x27;s not like any other AI assistant you tried and truly one of a kind iOS app. I spent more than a year building it. Would love to answer any questions you might have.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://apps.apple.com/us/app/halo-personal-ai/id6783715054",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49969988",
+    "createdAt": "2026-10-06T00:35:10.579Z"
+  },
+  {
     "slug": "opencardboard-github",
     "title": "OpenCardboard",
     "shortDescription": "OpenCardboard — local-first chat-to-edit AI video editor. Your footage never leaves your machine.",
