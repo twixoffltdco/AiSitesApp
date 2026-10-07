@@ -1,5 +1,235 @@
 [
   {
+    "slug": "openspawnai-github",
+    "title": "OpenSpawnAI",
+    "shortDescription": "Build a company that runs itself. AI Models are your workers - connect them in departments and create self-running companies. Windows, Mac,…",
+    "fullDescription": "Build a company that runs itself. AI Models are your workers - connect them in departments and create self-running companies. Windows, Mac, and Linux.\n\nАвтор: OpenSpawnAI. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://OpenSpawn.app",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "automation",
+      "chatgpt",
+      "claude",
+      "deepseek",
+      "gemini",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1408648309",
+    "createdAt": "2026-10-07T17:54:13.560Z"
+  },
+  {
+    "slug": "skanqrcode-url-ip-safety-api-returning-verdicts-in-500ms-hn",
+    "title": "SkanQRCode – URL & IP safety API returning verdicts in <500ms",
+    "shortDescription": "Real-time URL safety API for QR scanners and AI agents. One API call before openURL, or before your agent fetches the payload.",
+    "fullDescription": "Real-time URL safety API for QR scanners and AI agents. One API call before openURL, or before your agent fetches the payload.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://skanqrcode.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49996128",
+    "createdAt": "2026-10-07T17:54:13.371Z"
+  },
+  {
+    "slug": "voicegremlin-a-saas-tool-for-automated-tests-against-ai-phone-agents-hn",
+    "title": "VoiceGremlin, a SaaS tool for automated tests against AI phone agents",
+    "shortDescription": "Hi, I&#x27;m a former SDET and now solo dev of VoiceGremlin, a tool for automated tests against AI that answer phones. You pass the API a p…",
+    "fullDescription": "Hi, I&#x27;m a former SDET and now solo dev of VoiceGremlin, a tool for automated tests against AI that answer phones. You pass the API a phone number and a test case like &quot;Verify that the agent does X.&quot; It calls your voice agent, tests the thing by having the bots talk to each other, and uses LLM-as-judge to provide a pass&#x2F;fail for your pipeline. State: Fully working, free trial, no card needed. Try it out and please give me feedback, especially if you run in to problems. Goal: I built VoiceGremlin with the explicit goal of being Mailosaur for phone agents. We paid for Mailosaur at work because the alternative (having our automated tests interact programmatically with our corporate Outlook server) was doable, but very painful, both technically and organizationally. The lesson I learned was &quot;doable, but painful&quot; is a good sign of a SaaS opportunity. Well, getting an automated test to call a phone number is also painful. Telephony providers are tough to get onboarded as vendors. Using your own STT&#x2F;TTS means a lot of bandwidth moving through wherever you run your test automation from. It&#x27;s tricky to get the LLM-to-LLM prompts dialed in enough to avoid flaky tests. Etc. Process: It took about 45 days to build, with half of that being businessy stuff like implementing Stripe and my feeble attempts at marketing, and the other half being experimenting with different telephony providers and features, testing different models, prompt tweaking, and fraud&#x2F;abuse prevention. Design goal: Do one thing, do it well, and get out of the way. There&#x27;s no ambition to manage your test cases for you, host your voice agents, or add upsell features. Stack: The dependencies are Supabase (DB and authentication), Netlify (static storage and API routing), Digitalocean (the server component that makes the calls), Telnyx (easier to work with than Twilio IMO), Stripe, Openrouter, Cloudflare (captcha on signup). Oh, and I host my private git in Keybase, the greatest tool nobody uses. Thanks!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://voicegremlin.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49995804",
+    "createdAt": "2026-10-07T17:54:13.371Z"
+  },
+  {
+    "slug": "agentreviews-where-ai-agents-read-and-write-reviews-on-tools-hn",
+    "title": "Agent.reviews – where AI agents read and write reviews on tools",
+    "shortDescription": "Hi HN! I’m Louis, Co-Founder of Armature (YC P26), where we help teams make their product discoverable and usable by coding agents. We alre…",
+    "fullDescription": "Hi HN! I’m Louis, Co-Founder of Armature (YC P26), where we help teams make their product discoverable and usable by coding agents. We already measured 50k+ agent sessions and realized that over and over agents would encounter the exact same limitations on different tasks using the same tool. So we wondered why these weren’t fixed. And the answer is simple: the feedback loop just doesn’t exist between agents and software vendors but also between different agents. Humans can share their experience on platforms like https:&#x2F;&#x2F;g2.com and https:&#x2F;&#x2F;trustpilot.com , but agents have nowhere to. So we created: https:&#x2F;&#x2F;agent.reviews : the G2 for agents. It works with a set of skills and an npm CLI (@armature-tech&#x2F;agent-reviews) connecting agents to our API endpoints. Anyone can ask their agent (Claude Code, Codex, Cursor, etc.) to install it, and agents will naturally check reviews before picking a tool and post their own after using one. As usual, privacy was our main concern, so we added 3 layers before a review gets posted: Deterministic rules filtering secrets, PII, URLs, etc. A Jev classifier trained to detect any leak after the first check A small LLM checking each review to make sure nothing was missed We&#x27;ve been sharing this project around for a few weeks now and gathered thousands of reviews already. There are already interesting ones, for example: - A Claude Code agent noticed that the Stripe SDK systematically crashed when the API key was missing on the health check page (while it’s this page’s role to actually return an “API key missing” error) - 2 agents mentioned that Prisma required a DATABASE_URL variable even when it wasn’t connecting to any database. They both put fake URLs as a workaround, and it worked. We truly think the agent experience needs the same community effect user experience has, so everyone benefits from it: agents can pick the tools that are best optimized for them and software companies can improve their product based on real feedback. That’s why we made sure accessing reviews is free for both humans and agents and just requires copy&#x2F;pasting one prompt for the agent to install our CLI &amp; skill, start the authentication flow, and submit their first review (this helps us prevent unauthorized scraping and spam reviews). Would you let your agents submit and read reviews too? We’d love for you to set up agent reviews, ask your agent to check reviews next time it needs to pick a tool and post its own experience when using it. Then tell us how it went!\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://agent.reviews/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49995539",
+    "createdAt": "2026-10-07T17:54:13.371Z"
+  },
+  {
+    "slug": "see-when-tv-shows-are-ready-to-binge-hn",
+    "title": "See when TV shows are ready to binge",
+    "shortDescription": "Made this for impatient people like me, who have trouble dealing with the torturous drip feed of one new TV series episode per week, and of…",
+    "fullDescription": "Made this for impatient people like me, who have trouble dealing with the torturous drip feed of one new TV series episode per week, and often search for &quot;season finale air date&quot; to determine when a show will finally be ready to binge.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://dvelton.github.io/binge-ready/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49995028",
+    "createdAt": "2026-10-07T17:54:13.371Z"
+  },
+  {
+    "slug": "collision-avoidance-in-industrial-robotics-using-robotsimulatorai-hn",
+    "title": "Collision avoidance in industrial robotics using robotsimulator.ai",
+    "shortDescription": "Проект «Collision avoidance in industrial robotics using robotsimulator.ai», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Collision avoidance in industrial robotics using robotsimulator.ai», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.babacad.com/robotics/web/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49993993",
+    "createdAt": "2026-10-07T17:54:13.371Z"
+  },
+  {
+    "slug": "checkout-this-open-source-local-first-bioinformaticsai-desktop-app-hn",
+    "title": "Checkout this open-source, local-first bioinformatics/AI desktop app",
+    "shortDescription": "So the basic idea behind Liatir is to have a desktop environment that works like a virtual lab for bioinformatics to do your work locally,…",
+    "fullDescription": "So the basic idea behind Liatir is to have a desktop environment that works like a virtual lab for bioinformatics to do your work locally, without having to send data to a cloud service or glue together a bunch of separate tools and interfaces. You shouldn’t need to write a single line of code to use it, but if you do know how to code, it&#x27;s as extensible as you want it to be with the plugin system supporting Node, Python and Rust. It provides regular bioinformatics tools, local scientific AI models, integrations with workflow systems such as Nextflow, API calls when you need to connect to external data or environments, scientific viewers, and visual pipelines that tie all of those pieces together. Oh and the AI models are self-contained boxes so you do not need to set up anything and just run them. Hope you&#x27;ll find this interesting.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Liatir/liatir-app",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49993984",
+    "createdAt": "2026-10-07T17:54:13.371Z"
+  },
+  {
+    "slug": "planlock-approve-an-ai-agents-plan-once-code-enforces-every-call-hn",
+    "title": "Planlock – Approve an AI agent's plan once, code enforces every call",
+    "shortDescription": "Проект «Planlock – Approve an AI agent's plan once, code enforces every call», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Planlock – Approve an AI agent's plan once, code enforces every call», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/JosephCurwin/planlock",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49993786",
+    "createdAt": "2026-10-07T17:54:13.371Z"
+  },
+  {
+    "slug": "arsa-ai-box-on-prem-video-analytics-for-existing-ip-cameras-hn",
+    "title": "ARSA AI Box – on-prem video analytics for existing IP cameras",
+    "shortDescription": "Проект «ARSA AI Box – on-prem video analytics for existing IP cameras», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ARSA AI Box – on-prem video analytics for existing IP cameras», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://demo-dashboard.arsa.technology/bsg/auth/login",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49993647",
+    "createdAt": "2026-10-07T17:54:13.371Z"
+  },
+  {
+    "slug": "a-real-time-sales-call-coach-for-macos-with-no-backend-hn",
+    "title": "A real-time sales call coach for macOS with no backend",
+    "shortDescription": "Проект «A real-time sales call coach for macOS with no backend», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A real-time sales call coach for macOS with no backend», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://apps.apple.com/us/app/ai-sales-call-coach/id6811154979?mt=12",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49993580",
+    "createdAt": "2026-10-07T17:54:13.371Z"
+  },
+  {
+    "slug": "i-had-100-tabs-open-so-i-built-daysift-with-ai-powered-by-proton-hn",
+    "title": "I had 100 tabs open, so I built Daysift with AI powered by Proton",
+    "shortDescription": "I built Daysift because I kept ending up with 100+ tabs open just to avoid losing things I had seen or browsed before. Bookmarks never real…",
+    "fullDescription": "I built Daysift because I kept ending up with 100+ tabs open just to avoid losing things I had seen or browsed before. Bookmarks never really worked for me because often you don&#x27;t remember where something was, or what it was called. However, often I remembered what it was about. It&#x27;s a Chrome extension that gives you a private way to find anything you visited before. It currently filters out noise, or things that don&#x27;t associate with productivity or loosely with work. It&#x27;s local first and designed around not retaining any data remotely. The AI layer is powered by Proton Lumo. It can also run AI on some things or pages, e.g. summarising them and a few other things. All of that is by user-consent only. It has a note taker feature and also a way to start new files from it (&#x27;&#x2F;Doc&#x27; function). I&#x27;d love any feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://chromewebstore.google.com/detail/daysift-â-find-any-tab-in/llnlmmjddpfmjjkhpbjkdpcclgncajag",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49993330",
+    "createdAt": "2026-10-07T17:54:13.372Z"
+  },
+  {
+    "slug": "inbrief-open-source-ai-news-aggregator-with-llm-filtering-hn",
+    "title": "InBrief – open-source AI news aggregator with LLM filtering",
+    "shortDescription": "Проект «InBrief – open-source AI news aggregator with LLM filtering», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «InBrief – open-source AI news aggregator with LLM filtering», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/frankzch/ai-news-brief",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49993300",
+    "createdAt": "2026-10-07T17:54:13.372Z"
+  },
+  {
+    "slug": "clawock-ai-argues-code-settles-the-trades-hn",
+    "title": "Clawock – AI argues, code settles the trades",
+    "shortDescription": "Проект «Clawock – AI argues, code settles the trades», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Clawock – AI argues, code settles the trades», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/KCNyu/clawock",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49993276",
+    "createdAt": "2026-10-07T17:54:13.372Z"
+  },
+  {
+    "slug": "attestlane-grounded-ai-for-soc-2-readiness-hn",
+    "title": "Attestlane – grounded AI for SOC-2 readiness",
+    "shortDescription": "Проект «Attestlane – grounded AI for SOC-2 readiness», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Attestlane – grounded AI for SOC-2 readiness», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://attestlane.to",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49993083",
+    "createdAt": "2026-10-07T17:54:13.372Z"
+  },
+  {
     "slug": "futuresearch-box-github",
     "title": "futuresearch-box",
     "shortDescription": "把 FutureSearch 的深度研究能力包成本地开箱即用的 OpenAI 兼容接口 · 自带打码/自动补号/号池面板 · by 白嫖站 baipiao.org",
