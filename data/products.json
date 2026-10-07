@@ -1,5 +1,221 @@
 [
   {
+    "slug": "aiusage-github",
+    "title": "aiusage",
+    "shortDescription": "AI Usage：一眼查看各家 AI 订阅的用量、剩余额度与重置时间的 iOS / Android 应用（Expo / React Native），支持 Codex、Copilot、OpenRouter、Cline 等",
+    "fullDescription": "AI Usage：一眼查看各家 AI 订阅的用量、剩余额度与重置时间的 iOS / Android 应用（Expo / React Native），支持 Codex、Copilot、OpenRouter、Cline 等\n\nАвтор: nextroad-dev. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/nextroad-dev/aiusage",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "android",
+      "codex",
+      "expo",
+      "ios",
+      "openrouter",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1407376717",
+    "createdAt": "2026-10-07T04:13:21.493Z"
+  },
+  {
+    "slug": "ailearningguide-github",
+    "title": "AILearningGuide",
+    "shortDescription": "A desktop app that teaches you how modern AI works by letting you play with it.",
+    "fullDescription": "A desktop app that teaches you how modern AI works by letting you play with it.\n\nАвтор: Fazmin. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Fazmin/AILearningGuide",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "educational",
+      "generative-ai",
+      "learning",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1405013963",
+    "createdAt": "2026-10-07T04:13:21.493Z"
+  },
+  {
+    "slug": "rapacego-github",
+    "title": "RapaceGo",
+    "shortDescription": "跟 AI 下棋、看客观数据、听本地模型讲棋的围棋工具（Electron + KataGo + LoGos）",
+    "fullDescription": "跟 AI 下棋、看客观数据、听本地模型讲棋的围棋工具（Electron + KataGo + LoGos）\n\nАвтор: Rapace7. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Rapace7/RapaceGo",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "baduk",
+      "board-game",
+      "electron",
+      "go",
+      "gogame",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1405942706",
+    "createdAt": "2026-10-07T04:13:21.493Z"
+  },
+  {
+    "slug": "flowcommit-github",
+    "title": "flowcommit",
+    "shortDescription": "Visual version control for vibe coders: design your app as a flowchart, let AI build it, keep every version in Git.",
+    "fullDescription": "Visual version control for vibe coders: design your app as a flowchart, let AI build it, keep every version in Git.\n\nАвтор: bashar94. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://www.npmjs.com/package/flowcommit",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude-code",
+      "flowchart",
+      "mcp",
+      "version-control",
+      "vibe-coding",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1405182273",
+    "createdAt": "2026-10-07T04:13:21.493Z"
+  },
+  {
+    "slug": "yap-github",
+    "title": "yap",
+    "shortDescription": "AI-powered voice dictation for the desktop, built with Tauri and React.",
+    "fullDescription": "AI-powered voice dictation for the desktop, built with Tauri and React.\n\nАвтор: furqanistic. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/furqanistic/yap",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "desktop-app",
+      "react",
+      "rust",
+      "speech-to-text",
+      "tauri",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1406198824",
+    "createdAt": "2026-10-07T04:13:21.493Z"
+  },
+  {
+    "slug": "ai-tech-fast-growth-github",
+    "title": "ai-tech-fast-growth",
+    "shortDescription": "一句话把 AI 新闻、GitHub 项目、推文链接变成 10 秒竖屏短视频 · Turn any AI news, repo or tweet into a 10s vertical video with one prompt · 本地合成 · 零密钥 · 跨智能助手通用",
+    "fullDescription": "一句话把 AI 新闻、GitHub 项目、推文链接变成 10 秒竖屏短视频 · Turn any AI news, repo or tweet into a 10s vertical video with one prompt · 本地合成 · 零密钥 · 跨智能助手通用\n\nАвтор: laozhong86. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/laozhong86/ai-tech-fast-growth",
+    "category": "productivity",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "ai-news",
+      "automation",
+      "claude-code",
+      "codex",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1405631739",
+    "createdAt": "2026-10-07T04:13:21.493Z"
+  },
+  {
+    "slug": "spicy-sdk-github",
+    "title": "spicy-sdk",
+    "shortDescription": "Official TypeScript SDK for SpicyAPI — image, video and text generation through one endpoint.",
+    "fullDescription": "Official TypeScript SDK for SpicyAPI — image, video and text generation through one endpoint.\n\nАвтор: spicyapi-ai. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://spicyapi.ai",
+    "category": "image-video",
+    "tags": [
+      "ai",
+      "ai-api",
+      "ai-sdk",
+      "api-client",
+      "generative-ai",
+      "image-generation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1405957642",
+    "createdAt": "2026-10-07T04:13:21.493Z"
+  },
+  {
+    "slug": "a-browser-only-checker-for-text-hiding-under-pdf-black-boxes-hn",
+    "title": "A browser-only checker for text hiding under PDF black boxes",
+    "shortDescription": "Проект «A browser-only checker for text hiding under PDF black boxes», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A browser-only checker for text hiding under PDF black boxes», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://camlabs.ai/redaction-checker/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49987828",
+    "createdAt": "2026-10-07T04:13:21.281Z"
+  },
+  {
+    "slug": "nanomuse-an-open-source-ai-agent-for-your-phone-and-computer-hn",
+    "title": "NanoMuse – An open-source AI agent for your phone and computer",
+    "shortDescription": "Проект «NanoMuse – An open-source AI agent for your phone and computer», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «NanoMuse – An open-source AI agent for your phone and computer», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/nano-muse/nanoMuse",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49987765",
+    "createdAt": "2026-10-07T04:13:21.281Z"
+  },
+  {
+    "slug": "zero-dependency-cross-language-background-job-queue-server-hn",
+    "title": "Zero dependency cross-language background job queue server",
+    "shortDescription": "I&#x27;m Chris, and this is Zizq, a centralised job queue with a heap of awesome features I won&#x27;t list off here. https:&#x2F;&#x2F;git…",
+    "fullDescription": "I&#x27;m Chris, and this is Zizq, a centralised job queue with a heap of awesome features I won&#x27;t list off here. https:&#x2F;&#x2F;github.com&#x2F;zizq-labs&#x2F;zizq It gets through the queue fast under heavy throughput and requires no setup out of the box. The server is built in Rust as a single static binary, and it provides its own durable storage via an LSM tree storage engine (fjall), and aims to make searching and mutability of jobs first-class considerations. For example you can update jobs that are sitting in the middle of a queue without draining them and re-queueing them. The server interacts with clients through a HTTP&#x2F;1 and HTTP&#x2F;2 API, using a persistent streaming connection with heartbeats and automated CI-tested disconnect or network partition&#x2F;split detection, which acts as the liveness probe on both client and server. Because it&#x27;s HTTP, clients are easy to write without re-inventing the queue machinery. Do it with curl and shell scripts on the command line if you really want to (I&#x27;ve actually done this but that is not released as I would strongly advise against doing such a thing in production). As of now there are four official clients, for Node, Rust, Elixir and Ruby. More to follow in due course and&#x2F;or on request. Jobs are always written to the LSM tree to ensure durability, but LSM trees are well optimised for write-heavy workloads like job queues (they always write sequentially) and internally Zizq employs some techniques like write coalescing and some lightweight use of in-memory skip list structures to get the most bang for buck out of the LSM tree storage. Feedback and questions appreciated.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/zizq-labs/zizq",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49987123",
+    "createdAt": "2026-10-07T04:13:21.281Z"
+  },
+  {
+    "slug": "agentos-run-your-coding-agents-from-your-phone-self-hosted-hn",
+    "title": "AgentOS – Run your coding agents from your phone, self-hosted",
+    "shortDescription": "Hi HN! I posted AgentOS here a few months ago. Back then, it was pretty amazing to see what these agents can do and I&#x27;m improved it a…",
+    "fullDescription": "Hi HN! I posted AgentOS here a few months ago. Back then, it was pretty amazing to see what these agents can do and I&#x27;m improved it a lot since then. The biggest change is that it&#x27;s built for my phone now. I start work at my desk, walk away, and check on it or answer an agent from my phone over Tailscale. Chat sessions run in their own process, so restarting the server doesn&#x27;t kill a turn that&#x27;s halfway done. It also runs tasks now. You give it a prompt, it makes a git worktree, the agent works there and opens a PR, and I review it later. Each workspace can have an orchestrator that starts tasks, reviews the PRs and merges the ones that pass CI and a review of that exact commit. Anything risky comes to me as an ask that needs Face ID to approve. It supports Claude Code, Codex, OpenCode, Gemini CLI, Aider, Cursor CLI, Amp and Pi. It&#x27;s still free and all self-hosted. npm install -g @saadnvd1&#x2F;agent-os https:&#x2F;&#x2F;github.com&#x2F;saadnvd1&#x2F;agent-os I&#x27;d love feedback and as I&#x27;m sure there will be issues, please share them! Also, if you want to build your own, just fork it. It&#x27;s all free.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/saadnvd1/agent-os",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49986138",
+    "createdAt": "2026-10-07T04:13:21.281Z"
+  },
+  {
     "slug": "openchart-github-2",
     "title": "openchart",
     "shortDescription": "OSS Tradingview with your own AI, free forever",
