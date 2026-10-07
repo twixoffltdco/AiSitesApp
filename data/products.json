@@ -1,5 +1,117 @@
 [
   {
+    "slug": "futuresearch-box-github",
+    "title": "futuresearch-box",
+    "shortDescription": "把 FutureSearch 的深度研究能力包成本地开箱即用的 OpenAI 兼容接口 · 自带打码/自动补号/号池面板 · by 白嫖站 baipiao.org",
+    "fullDescription": "把 FutureSearch 的深度研究能力包成本地开箱即用的 OpenAI 兼容接口 · 自带打码/自动补号/号池面板 · by 白嫖站 baipiao.org\n\nАвтор: kingenbomb. Найдено в GitHub Trending (AI-тематика). ⭐ 13 звёзд.",
+    "url": "https://github.com/kingenbomb/futuresearch-box",
+    "category": "developer",
+    "tags": [
+      "account-pool",
+      "ai",
+      "api-proxy",
+      "baipiao",
+      "cloudflare-turnstile",
+      "deep-research",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1408338970",
+    "createdAt": "2026-10-07T11:14:48.722Z"
+  },
+  {
+    "slug": "aurelio-finance-github",
+    "title": "aurelio-finance",
+    "shortDescription": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.",
+    "fullDescription": "Self-hosted personal wealth analysis: portfolio & net-worth tracking with AI insights. FastAPI + React.\n\nАвтор: LosaLosSantos. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/LosaLosSantos/aurelio-finance",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "fastapi",
+      "fintech",
+      "net-worth",
+      "personal-finance",
+      "portfolio-tracker",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1407873347",
+    "createdAt": "2026-10-07T11:14:48.722Z"
+  },
+  {
+    "slug": "markov-github",
+    "title": "markov",
+    "shortDescription": "A general-purpose LLM harness and coding agent implemented as a single, hackable Bash script.",
+    "fullDescription": "A general-purpose LLM harness and coding agent implemented as a single, hackable Bash script.\n\nАвтор: ienapliss. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/ienapliss/markov",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "bash",
+      "harness",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1406526333",
+    "createdAt": "2026-10-07T11:14:48.722Z"
+  },
+  {
+    "slug": "github-action-to-check-ai-written-code-changes-no-files-without-review-hn",
+    "title": "GitHub Action to check AI-written code changes no files, without review",
+    "shortDescription": "Проект «GitHub Action to check AI-written code changes no files, without review», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «GitHub Action to check AI-written code changes no files, without review», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/yuyuyuyuyu-dev/assert-no-unexpected-changes",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49989568",
+    "createdAt": "2026-10-07T11:14:48.577Z"
+  },
+  {
+    "slug": "chorus-ask-multiple-ais-at-once-on-mac-hn",
+    "title": "Chorus – Ask multiple AIs at once on Mac",
+    "shortDescription": "I built Chorus to ask the same question across different AIs without switching tabs. It’s a native Mac app that uses your existing accounts…",
+    "fullDescription": "I built Chorus to ask the same question across different AIs without switching tabs. It’s a native Mac app that uses your existing accounts and shows the answers side by side. Free and open source. Website &amp; download: https:&#x2F;&#x2F;askchorus.app&#x2F; GitHub: https:&#x2F;&#x2F;github.com&#x2F;askchorus&#x2F;chorus\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/askchorus/chorus",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49989271",
+    "createdAt": "2026-10-07T11:14:48.577Z"
+  },
+  {
+    "slug": "slopguesser-can-you-tell-if-code-was-written-by-ai-or-a-human-hn",
+    "title": "Slopguesser – can you tell if code was written by AI or a human?",
+    "shortDescription": "Проект «Slopguesser – can you tell if code was written by AI or a human?», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Slopguesser – can you tell if code was written by AI or a human?», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://slopguesser.dev",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "49989186",
+    "createdAt": "2026-10-07T11:14:48.577Z"
+  },
+  {
     "slug": "aiusage-github",
     "title": "aiusage",
     "shortDescription": "AI Usage：一眼查看各家 AI 订阅的用量、剩余额度与重置时间的 iOS / Android 应用（Expo / React Native），支持 Codex、Copilot、OpenRouter、Cline 等",
