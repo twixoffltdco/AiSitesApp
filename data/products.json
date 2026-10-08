@@ -1,5 +1,225 @@
 [
   {
+    "slug": "codex-manager-github",
+    "title": "codex-manager",
+    "shortDescription": "Codex 管家 · 多智能体 AI 会话管家：Token 用量看板 + 问答追踪 + SVG 流程画布 / 分布工作区 / 神经网络文字树图（单文件编辑器 + 本地服务，七家智能体适配）｜ Multi-agent AI session butler: usage dashbo…",
+    "fullDescription": "Codex 管家 · 多智能体 AI 会话管家：Token 用量看板 + 问答追踪 + SVG 流程画布 / 分布工作区 / 神经网络文字树图（单文件编辑器 + 本地服务，七家智能体适配）｜ Multi-agent AI session butler: usage dashboards, Q&A tracking, visual flow canvas, distributed workspace & neural text-treemap\n\nАвтор: sanhansan. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/sanhansan/codex-manager",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "codex",
+      "data-visualization",
+      "flowchart",
+      "javascript",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1406833335",
+    "createdAt": "2026-10-08T21:48:36.601Z"
+  },
+  {
+    "slug": "omarchy-laser-github",
+    "title": "omarchy-laser",
+    "shortDescription": "Laser: AI focus mode & distraction blocker for Omarchy / Hyprland. Judges every screen against your task (TypeSafe Jev), privacy-first, ADH…",
+    "fullDescription": "Laser: AI focus mode & distraction blocker for Omarchy / Hyprland. Judges every screen against your task (TypeSafe Jev), privacy-first, ADHD-friendly, ~1¢/day.\n\nАвтор: iYassr. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/iYassr/omarchy-laser#readme",
+    "category": "productivity",
+    "tags": [
+      "adhd",
+      "ai",
+      "arch-linux",
+      "deep-work",
+      "distraction-blocker",
+      "focus",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1409926228",
+    "createdAt": "2026-10-08T21:48:36.601Z"
+  },
+  {
+    "slug": "free-open-source-adobe-lightroom-alternative-completely-local-with-ai-hn",
+    "title": "Free open source Adobe Lightroom alternative, completely local with AI",
+    "shortDescription": "Проект «Free open source Adobe Lightroom alternative, completely local with AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Free open source Adobe Lightroom alternative, completely local with AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 14 баллов.",
+    "url": "https://github.com/thesnarkitecht/rembrandt",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50012199",
+    "createdAt": "2026-10-08T21:48:36.433Z"
+  },
+  {
+    "slug": "llm-motion-graphics-benchmark-hn",
+    "title": "LLM Motion Graphics Benchmark",
+    "shortDescription": "Given that agents are getting good at generating motion graphics I wanted to understand what the differences are in cost and time using say…",
+    "fullDescription": "Given that agents are getting good at generating motion graphics I wanted to understand what the differences are in cost and time using say Opus 5.5 and the cheaper models. Let me know if you want other LLMs added and feel free to click around the rest of the website. All videos are editable in place and aim to give engineers a simple way of discovering and remixing motion graphics without spending too much on compute.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://cliphou.se/benchmark/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50011813",
+    "createdAt": "2026-10-08T21:48:36.433Z"
+  },
+  {
+    "slug": "launching-ns-ui-easy-to-use-componentsai-slop-should-be-a-term-of-past-hn",
+    "title": "Launching NS UI easy to use components,AI slop should be a term of past",
+    "shortDescription": "A registry of hand picked&#x2F;built registry of ui&#x2F;ux components so now i can produce slop without ai. i always loved using and searc…",
+    "fullDescription": "A registry of hand picked&#x2F;built registry of ui&#x2F;ux components so now i can produce slop without ai. i always loved using and searching for ui components on every registry site that popped on my feed. i collected and saved all of these components but wanted to actually to build something thats more unique, free and easy to use. i was hooked by ASCII components and my main focus was building also some of them and the results are really appealing (feedback is always appreciated), although i am working on even more and more unique. there is an mcp and cli connection so your agent can easily search and use and component it finds interesting. there is also install by url and you can also get the prompt and also the code if you want to get only a section of the component. my goal with it is to get more feedback on what looks actually good and what doesnt, because all of this is a one persons tase, and to get also the design community to use it and add to the component catalog. if you have any question or feedback i would be really happy to listen&#x2F;help! *update the website is design.helpmarq.com\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://design.helpmarq.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50011077",
+    "createdAt": "2026-10-08T21:48:36.433Z"
+  },
+  {
+    "slug": "aura-a-self-hosted-multi-user-ai-agent-with-per-person-graph-memory-hn",
+    "title": "Aura – a self-hosted, multi-user AI agent with per-person graph memory",
+    "shortDescription": "Проект «Aura – a self-hosted, multi-user AI agent with per-person graph memory», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Aura – a self-hosted, multi-user AI agent with per-person graph memory», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/chetto1983/Aura",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50010250",
+    "createdAt": "2026-10-08T21:48:36.433Z"
+  },
+  {
+    "slug": "crashlytics-for-ai-coding-agents-hn",
+    "title": "Crashlytics for AI Coding Agents",
+    "shortDescription": "Проект «Crashlytics for AI Coding Agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Crashlytics for AI Coding Agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/0xfirattamur/xcrashlytics",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50009985",
+    "createdAt": "2026-10-08T21:48:36.433Z"
+  },
+  {
+    "slug": "marblemd-free-collaborative-alternative-to-typora-hn",
+    "title": "MarbleMD – Free collaborative alternative to Typora",
+    "shortDescription": "Over the past year, I found myself increasingly writing technical docs in Markdown. Unfortunately, there isn&#x27;t an easy way to share an…",
+    "fullDescription": "Over the past year, I found myself increasingly writing technical docs in Markdown. Unfortunately, there isn&#x27;t an easy way to share and collaborate on these docs in real time. I built Marble.md to solve this problem. Combining a minimalist Typora-like Markdown editor with real time collaboration. You can even connect your AI agents to do live edits. It support tables, code, LaTeX math, Mermaid diagrams, HTML, and so much more. Since it launched a month ago, it has been used by more than 1300 people already. Give it a try and let me know what to improve :)\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://marble.md",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50009928",
+    "createdAt": "2026-10-08T21:48:36.433Z"
+  },
+  {
+    "slug": "layer-one-api-for-polymarket-and-kalshi-hn",
+    "title": "Layer – One API for Polymarket and Kalshi",
+    "shortDescription": "Hi HN, I&#x27;m David. I built Layer, an API + SDK or building trading bots&#x2F;ai agents across prediction markets. The idea came from so…",
+    "fullDescription": "Hi HN, I&#x27;m David. I built Layer, an API + SDK or building trading bots&#x2F;ai agents across prediction markets. The idea came from something i kept running into while playing with trading bots. Once your bot needs access to more than 1 venue, you suddenly have to deal with different market schemas, contract definitions, prices, fees and APIs before you can reason about where to trade. That gets messy real fast, especially with prediction markets. The same real-world event can exist on Kalshi &amp; Polymarket, but the contracts can be represented differently. Here&#x27;s my broader thesis: as more trading becomes automated, bots&#x2F;agents will need a common interface to access different financial markets. Prediction markets felt like a good place to start because the fragmentation is obvious. With Layer&#x27;s SDK, you can: - pull normalized prediction-market data - match equivalent markets across Kalshi and Polymarket - compare prices across venues - see where a trade has a better payout - identify potential cross-venue arbitrage opportunities Additionally, I built an example bot called Spread using Layer. It finds matched markets across venues and compares their prices after fees, so you can see which venue pays more for the same bet. Layer is still super early and i would love your feedback, especially from people building trading bots&#x2F;agents, or prediction-market tools. Feel free to break it, build on it. Would love to see what you do with it.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://uselayer.sh",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50009330",
+    "createdAt": "2026-10-08T21:48:36.433Z"
+  },
+  {
+    "slug": "docflare-ai-open-source-docs-chatbot-on-cloudflares-free-tier-hn",
+    "title": "DocFlare AI – Open-source docs chatbot on Cloudflare's free tier",
+    "shortDescription": "Проект «DocFlare AI – Open-source docs chatbot on Cloudflare's free tier», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «DocFlare AI – Open-source docs chatbot on Cloudflare's free tier», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 10 баллов.",
+    "url": "https://github.com/p10node/docflare-ai",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50009313",
+    "createdAt": "2026-10-08T21:48:36.433Z"
+  },
+  {
+    "slug": "viberuler-measure-where-your-ai-coding-context-goes-hn",
+    "title": "Viberuler – measure where your AI coding context goes",
+    "shortDescription": "Проект «Viberuler – measure where your AI coding context goes», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Viberuler – measure where your AI coding context goes», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/master5d/viberuler",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50009232",
+    "createdAt": "2026-10-08T21:48:36.433Z"
+  },
+  {
+    "slug": "ai-sre-arena-an-open-benchmark-for-ai-sre-agents-on-kubernetes-hn",
+    "title": "AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes",
+    "shortDescription": "Проект «AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 22 баллов.",
+    "url": "https://github.com/edgedelta/project-arena",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50008642",
+    "createdAt": "2026-10-08T21:48:36.433Z"
+  },
+  {
+    "slug": "i-used-claude-code-to-address-the-hn-comments-on-my-2019-game-hn",
+    "title": "I used Claude Code to address the HN comments on my 2019 game",
+    "shortDescription": "In 2019 I posted Aim and Shoot here, a browser shooter where every enemy is a neural network evolved by a genetic algorithm between rounds:…",
+    "fullDescription": "In 2019 I posted Aim and Shoot here, a browser shooter where every enemy is a neural network evolved by a genetic algorithm between rounds: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=21353123 The thread had a lot of good feedback that I never got around to. This year I gave Claude Code the thread and the repo and worked through it: - &quot;Give the player full health every round&quot; (four of you asked): done. - &quot;I wish there was a scoreboard, I wanted a screenshot of how far I got&quot;: the game-over screen now shows the round you reached and your best. - &quot;The gun sound is jarring&quot;: quieter, and M mutes it. - &quot;Enemies spawn on top of you and drag you around&quot;: bots now spawn at a safe distance, collisions are fixed, and there&#x27;s a short grace period at the start of each round. - &quot;The bots all aim at the top-left corner, so camp bottom-right&quot;: this was a bug. Each bot only saw part of the game state. They now see every player, and aim, mutation and elitism are fixed too. - &quot;Kill the shooters first and the GA breeds pacifists&quot; (by generation 8 they were running into walls): the fitness rewarded bots for living long, so your kill order picked who reproduced. It now rewards hitting you. The biggest change came from a problem nobody quite named: evolution reset every time you died, so the bots never got far. Now there&#x27;s one shared population on the server, and every round anyone plays moves it forward. Your browser only reports raw stats per bot; the server checks them, scores and breeds. It&#x27;s PHP + SQLite on a small VPS, with a local fallback if the server is down. It&#x27;s at generation 1 right now. Whatever the bots are by tonight, you bred them. Code: https:&#x2F;&#x2F;github.com&#x2F;victorqribeiro&#x2F;aimAndShoot\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://victorribeiro.com/aimAndShoot/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50008086",
+    "createdAt": "2026-10-08T21:48:36.433Z"
+  },
+  {
     "slug": "lumi-github",
     "title": "Lumi",
     "shortDescription": "Lumi — Spotlight-style launcher for macOS and Windows: search apps and files, ask Claude, ChatGPT, Gemini or local models",
