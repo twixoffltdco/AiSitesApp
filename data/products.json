@@ -1,5 +1,135 @@
 [
   {
+    "slug": "gluon-github",
+    "title": "gluon",
+    "shortDescription": "A control platform for coding agents: runs Claude Code, Codex, Antigravity, Grok Build, OpenCode and Kimi Code side by side, on your own ke…",
+    "fullDescription": "A control platform for coding agents: runs Claude Code, Codex, Antigravity, Grok Build, OpenCode and Kimi Code side by side, on your own key or subscription\n\nАвтор: fidipro. Найдено в GitHub Trending (AI-тематика). ⭐ 23 звёзд.",
+    "url": "https://fidipro.github.io/gluon",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "bun",
+      "claude-code",
+      "cli",
+      "codex",
+      "coding-agents",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1409481558",
+    "createdAt": "2026-10-08T09:23:30.868Z"
+  },
+  {
+    "slug": "zcode-claim-9router-github",
+    "title": "zcode-claim-9router",
+    "shortDescription": "Automate the ZCode free Start-Plan claim (z.ai token/cookies -> ZCode JWT -> Start Plan) and wire GLM into 9Router as a glm provider pool.…",
+    "fullDescription": "Automate the ZCode free Start-Plan claim (z.ai token/cookies -> ZCode JWT -> Start Plan) and wire GLM into 9Router as a glm provider pool. Web UI console + CLI. Reverse-engineered from ZCode 3.14.4.\n\nАвтор: 0xgetz. Найдено в GitHub Trending (AI-тематика). ⭐ 14 звёзд.",
+    "url": "https://github.com/0xgetz/zcode-claim-9router",
+    "category": "developer",
+    "tags": [
+      "9router",
+      "ai",
+      "automation",
+      "browser-automation",
+      "cdp",
+      "coding-plan",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1409683147",
+    "createdAt": "2026-10-08T09:23:30.869Z"
+  },
+  {
+    "slug": "bemmoly-github",
+    "title": "bemmoly",
+    "shortDescription": "Open source, self-hosted, AI-first issue tracker and docs for your whole company. A Linear and Notion alternative: one Docker image, one Po…",
+    "fullDescription": "Open source, self-hosted, AI-first issue tracker and docs for your whole company. A Linear and Notion alternative: one Docker image, one Postgres, deployed in five minutes, free forever.\n\nАвтор: bemmoly. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://bemmoly.com",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "collaboration",
+      "docker",
+      "documentation",
+      "fastify",
+      "issue-tracker",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1409031931",
+    "createdAt": "2026-10-08T09:23:30.869Z"
+  },
+  {
+    "slug": "llmschema-dump-your-database-schema-as-compact-markdown-for-ai-agents-hn",
+    "title": "LLMSchema – Dump your database schema as compact Markdown for AI agents",
+    "shortDescription": "I built this last year because I noticed my coding agents would infer my database schema from migration files and code. Which seemed ineffi…",
+    "fullDescription": "I built this last year because I noticed my coding agents would infer my database schema from migration files and code. Which seemed inefficient. Its a simple tool that creates compact markdown schema doc(s). Which I could reference in my AGENTS.md or directly in my prompts. I keep the docs up to date by running it as a part of my migration command. It&#x27;s a single Go binary, MIT licensed, and works as a CLI or a library. Supports Postgres, MySQL and SQLite.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/tordrt/LLMSchema",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50003569",
+    "createdAt": "2026-10-08T09:23:30.575Z"
+  },
+  {
+    "slug": "proton-drive-for-linux-hn",
+    "title": "Proton Drive for Linux",
+    "shortDescription": "Hello everyone, I wanted to share this small project that I have. It&#x27;s born out of a necessity that I had, because Proton doesn&#x27;t…",
+    "fullDescription": "Hello everyone, I wanted to share this small project that I have. It&#x27;s born out of a necessity that I had, because Proton doesn&#x27;t ship a Linux version of the drive yet (it&#x27;s apparently coming out later this year but who knows?) and all the current solutions are hacky and wonky at best. But for the time being I really needed to mount my Proton drive on my Linux machine the way I mounted it on my Mac, so I (and my faithful AI slave) did this small utility that allows you to mount your Proton Drive in a FUSE FS like if it is a local folder. It&#x27;s fully written in Go because Proton&#x27;s drive SDK and API libs are all in Go, and there&#x27;s a community project on top of the reverse engineered proton API there too. I am not a Go developer, I know the foundations, so of course I used AI quite a lot, I am not super proud of it, but I am using it daily and testing it myself for a few months before releasing here. Hope you like it, feedbacks are welcome, just please be mindful of the person on the other side :)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50003545",
+    "createdAt": "2026-10-08T09:23:30.575Z"
+  },
+  {
+    "slug": "pluto-ai-model-run-tiny-mcus-hardware-control-of-natural-language-hn",
+    "title": "Pluto AI model, run tiny MCUs hardware control of natural language",
+    "shortDescription": "Проект «Pluto AI model, run tiny MCUs hardware control of natural language», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Pluto AI model, run tiny MCUs hardware control of natural language», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/dib-artificial/Pluto",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50003481",
+    "createdAt": "2026-10-08T09:23:30.575Z"
+  },
+  {
+    "slug": "pacer-will-your-ai-coding-subscription-last-until-the-reset-hn",
+    "title": "Pacer – will your AI coding subscription last until the reset?",
+    "shortDescription": "Проект «Pacer – will your AI coding subscription last until the reset?», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Pacer – will your AI coding subscription last until the reset?», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 7 баллов.",
+    "url": "https://github.com/dkremsa/claude-pacer",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50001750",
+    "createdAt": "2026-10-08T09:23:30.575Z"
+  },
+  {
     "slug": "resumeforge-ai-github",
     "title": "resumeforge-ai",
     "shortDescription": "AI-powered resume builder for students, freshers & professionals with professional templates, live preview, PDF export, ATS analysis, and j…",
