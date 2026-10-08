@@ -1,5 +1,251 @@
 [
   {
+    "slug": "lumi-github",
+    "title": "Lumi",
+    "shortDescription": "Lumi — Spotlight-style launcher for macOS and Windows: search apps and files, ask Claude, ChatGPT, Gemini or local models",
+    "fullDescription": "Lumi — Spotlight-style launcher for macOS and Windows: search apps and files, ask Claude, ChatGPT, Gemini or local models\n\nАвтор: AlbertS15. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://t.me/+3IU-_WIhrTU4MjAy",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "chatgpt",
+      "claude",
+      "gemini",
+      "launcher",
+      "macos",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1407224210",
+    "createdAt": "2026-10-08T16:46:22.571Z"
+  },
+  {
+    "slug": "seahaven-open-source-framework-for-building-rl-environments-hn",
+    "title": "Seahaven – Open-source framework for building RL environments",
+    "shortDescription": "Проект «Seahaven – Open-source framework for building RL environments», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Seahaven – Open-source framework for building RL environments», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Kiln-AI/Seahaven",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50008014",
+    "createdAt": "2026-10-08T16:46:22.308Z"
+  },
+  {
+    "slug": "jevman-ai-decision-models-play-pac-man-hn",
+    "title": "Jevman – AI decision models play Pac-Man",
+    "shortDescription": "Openai just launched their decisions endpoint, cloudflare launched clef the other week, and many more jev alternatives are out there. We wa…",
+    "fullDescription": "Openai just launched their decisions endpoint, cloudflare launched clef the other week, and many more jev alternatives are out there. We wanted to put the popular ones to the test and thought Pac-Man is a good benchmark for simple and fast decision making. So we let jev 1.13, kev, clef, clef flash, GPT-6 Luna and Laya play Pac-Man against bot ghosts. The low latency of these models allows for real time play. We had each model play 100 games, published a leader board and open-sourced the repo so anyone can run their own model and join the ranking. Link to repo: https:&#x2F;&#x2F;github.com&#x2F;opper-ai&#x2F;jevman-benchmark&#x2F;blob&#x2F;main&#x2F;CONTR... You can also join the game and play as Pac-Man yourself, and the ghosts are the models, either a mix of models or all jev, kev, clef etc. A game costs about 2 cent, all models are running via my startup opper, and we added free credits for everyone to try. It&#x27;s pretty fun to play and surprisingly difficult to beat jev&#x27;s highscore. Any feedback is more than welcome!\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://opper.ai/jevman-benchmark/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50007993",
+    "createdAt": "2026-10-08T16:46:22.308Z"
+  },
+  {
+    "slug": "abyss-acp-agent-isolation-with-middleware-support-hn",
+    "title": "Abyss – ACP Agent Isolation with Middleware Support",
+    "shortDescription": "[Abyss]( https:&#x2F;&#x2F;abyss.scurry.io&#x2F; ) is my take on a local-first agent containerization framework for ACP agents. It aims to…",
+    "fullDescription": "[Abyss]( https:&#x2F;&#x2F;abyss.scurry.io&#x2F; ) is my take on a local-first agent containerization framework for ACP agents. It aims to neatly solve 2 issues: 1. Agents having full access to your desktop, and thus indiscriminate access to your files&#x2F;secrets&#x2F;etc. 2. Agent&#x2F;harness features having to be re-implemented for each agent, even if the feature isn&#x27;t tied to the specific agent in any way. The former is largely self-explanatory, I think. I want to log into my bank, I don&#x27;t want my agent to even have the ability. There&#x27;s a fair bit of software in this space already. I&#x27;ll loop back to the advantages of Abyss&#x27; containerization vs others in a second, but the 30,000 foot overview is that Abyss runs your agent in a Docker container and proxies the ACP connection so it works with Zed&#x2F;Openclaw&#x2F;whatever. The second is the more interesting and novel (as far as I&#x27;m aware). The current zeitgeist is heavily agent-specific, even for features that only read&#x2F;manipulate the context (which isn&#x27;t agent-specific). If you want RAG, you&#x27;re writing an agent-specific plugin. If you want subagents, you&#x27;re writing an agent-specific plugin even though a subsession is really just context. As a user, that can leave you tied to a particular agent just so your plugins continue to work. Abyss solves that by taking a page from Nginx&#x27;s book. Abyss supports WASM-based plugins that have full access to read and manipulate ACP messages flowing back and forth. Plugins can hide secrets in prompts from users before the agent ever sees them, implicitly hydrate prompts with RAG, inject MCP servers and more. There&#x27;s a diagram showing what the flow of messages look like [in the docs]( https:&#x2F;&#x2F;abyss.scurry.io&#x2F;docs&#x2F;guides&#x2F;04-plugins&#x2F;02-developing... ), and there&#x27;s a sample plugin [in the repo]( https:&#x2F;&#x2F;github.com&#x2F;SethCurry&#x2F;abyss&#x2F;tree&#x2F;main&#x2F;plugins&#x2F;secrets... ) that will auto-cancel a session if the agent outputs an OpenRouter API key in tool calls and responses (sample screenshot [on this page]( https:&#x2F;&#x2F;abyss.scurry.io&#x2F;docs&#x2F;guides&#x2F;what-is-abyss&#x2F;#i-am-not-... )). Plugins currently only run on the host, mostly because I haven&#x27;t written something to install&#x2F;distribute them inside the containers that&#x27;s better than an 8GB Docker image or forcing users to make a custom Docker image. Current Features: - Fully agent-agnostic: pre-build images exist for Pi, Hermes, Claude and Codex but it works with any agent that supports ACP - Supports both bind-mounting host directories and having Abyss copy files in on startup (so the agent can see them but can&#x27;t change your copy) - Includes pathing support to mount them at the same path as on the host so your `@file.md` references still work - Supports startup scripts, so you can add Node&#x2F;Go&#x2F;Rust&#x2F;etc to your agent container without having to write a Dockerfile - Manages the full Docker lifecycle; point Zed at Abyss and Abyss handles creating&#x2F;stopping containers, mounting directories, etc - Agent containers can be ephemeral or persistent - Persistent containers leave the agent running; running Abyss will re-connect to a running container (or create one if it doesn&#x27;t exist) - Ephemeral containers are created and then torn down every time you invoke Abyss, giving you a consistent environment for batch-type jobs - WASM plugins allow creating functionality reusable across agents - Connections between your editor and the agent are encrypted and use mutual TLS for authentication - Certificates are ephemeral, and each container gets its own certs (they are single-use for ephemeral containers) Future Wishlist: - Backends other than Docker (most of this isn&#x27;t Docker-specific, just a first target) - Remote backends (requires figuring out how to make something bind-mount-ish work on remote hosts) Feedback, feature requests and bug supports are welcome!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://abyss.scurry.io",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50007023",
+    "createdAt": "2026-10-08T16:46:22.308Z"
+  },
+  {
+    "slug": "teaching-a-30ms-local-model-play-browser-games-with-llm-written-rules-hn",
+    "title": "Teaching a 30ms local model, play browser games with LLM written rules",
+    "shortDescription": "Проект «Teaching a 30ms local model, play browser games with LLM written rules», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Teaching a 30ms local model, play browser games with LLM written rules», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/ironbee-ai/ironbee-gamer",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50006573",
+    "createdAt": "2026-10-08T16:46:22.308Z"
+  },
+  {
+    "slug": "llmll-ai-agents-fill-typed-holes-an-smt-solver-rejects-wrong-fills-hn",
+    "title": "Llmll – AI agents fill typed holes, an SMT solver rejects wrong fills",
+    "shortDescription": "Проект «Llmll – AI agents fill typed holes, an SMT solver rejects wrong fills», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Llmll – AI agents fill typed holes, an SMT solver rejects wrong fills», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/machunter/llmll",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50006215",
+    "createdAt": "2026-10-08T16:46:22.308Z"
+  },
+  {
+    "slug": "reverse-engineered-c-aureal-3d-api-from-1999-hn",
+    "title": "Reverse-Engineered C++ Aureal 3D API from 1999",
+    "shortDescription": "I used AI to reverse-engineer and reconstruct the long-obsolete a3d software subsystem to better understand it and document it, opening mor…",
+    "fullDescription": "I used AI to reverse-engineer and reconstruct the long-obsolete a3d software subsystem to better understand it and document it, opening more posibilities to the vintage community.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/oxiKKK/re-a3d-api",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50006193",
+    "createdAt": "2026-10-08T16:46:22.308Z"
+  },
+  {
+    "slug": "i-put-an-ai-agent-on-a-nokia-110-hn",
+    "title": "I Put an AI Agent on a Nokia 110",
+    "shortDescription": "Проект «I Put an AI Agent on a Nokia 110», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I Put an AI Agent on a Nokia 110», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50006114",
+    "createdAt": "2026-10-08T16:46:22.308Z"
+  },
+  {
+    "slug": "binance-futures-order-book-history-from-3-nodes-with-a-public-gap-log-hn",
+    "title": "Binance futures order book history from 3 nodes, with a public gap log",
+    "shortDescription": "Hi HN. CandleFeed is a small API for crypto derivatives data (funding, open interest, liquidations). We wanted to test execution ideas agai…",
+    "fullDescription": "Hi HN. CandleFeed is a small API for crypto derivatives data (funding, open interest, liquidations). We wanted to test execution ideas against what the Binance book looked like, and commercial tick data cost more than we could justify for one venue, so in June we started recording it. Three nodes record USD-M depth@100ms diff stream, the trade stream, and a 1,000-level REST snapshot every 5 minutes. Two are in Tokyo on different providers and one is in Singapore. A nightly job merges them: an update from a second node only goes in where Binance&#x27;s update-id chain (pu equals the previous u) stays continuous, and where nodes overlap, their copies have to match, or the day is held back. Anything all three missed goes into a public gap log. The largest trade gap so far: on 2026-08-19 at about 15:28 UTC, all three nodes lost the same 32,153 trades across ten symbols, about 4 to 5.5 seconds&#x27; worth depending on the symbol. A surprise: on 2026-09-25, 848 of the 861 BTCUSDT snapshots our three nodes took landed partway through a diff event. (That count comes from the nodes&#x27; raw copies; the published snapshot file carries one node&#x27;s snapshots.) Replay has to apply that &quot;straddling&quot; event in full, so we tag every snapshot clean, straddle or in_gap. Try it without an account: `curl https:&#x2F;&#x2F;candlefeed.ai&#x2F;api&#x2F;v1&#x2F;l2&#x2F;sample ` lists the two open days, BTCUSDT and DOTUSDT book data for 2026-10-01. In Python, after `pip install &quot;candlefeed[l2]&gt;=0.3.2&quot;`, run `from candlefeed import CandleFeed` and then `CandleFeed(public=True).download_l2_sample(&quot;DOTUSDT&quot;, &quot;2026-10-01&quot;, &quot;data&#x2F;&quot;)`. That downloads the DOT day (about 100 MB) and checks every file&#x27;s SHA-256. Sample files, with or without an account, are for internal use under our Terms ( https:&#x2F;&#x2F;candlefeed.ai&#x2F;terms , §5.3), so please don&#x27;t re-host them. With a free account, the 1st of each month is free for every symbol (10 GiB a month). Pro is $149&#x2F;mo for the full archive. Our MCP server, candlefeed-mcp (`pip install candlefeed-mcp`, https:&#x2F;&#x2F;pypi.org&#x2F;project&#x2F;candlefeed-mcp&#x2F; ), lets Claude Code or Cursor pull a day and rebuild the book from a prompt; it needs a free API key. There&#x27;s also a notebook that does it in plain Python on the 2026-10-01 BTCUSDT sample. It uses a free API key too; for a no-account run, swap its download call for `download_l2_sample`: https:&#x2F;&#x2F;candlefeed.ai&#x2F;examples&#x2F;l2-free-sample-day&#x2F; What&#x27;s weak: one venue, 25 symbols (10 with history from June 2026, 15 from late September), and we can&#x27;t backfill what we didn&#x27;t record. It&#x27;s also the 100ms stream, not Binance&#x27;s fastest.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://candlefeed.ai/data/order-book/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50006092",
+    "createdAt": "2026-10-08T16:46:22.308Z"
+  },
+  {
+    "slug": "tinywebui-a-small-self-hosted-ai-chat-ui-with-mcp-search-and-memory-hn",
+    "title": "TinyWebUI – A small, self-hosted AI chat UI with MCP, search and memory",
+    "shortDescription": "Проект «TinyWebUI – A small, self-hosted AI chat UI with MCP, search and memory», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «TinyWebUI – A small, self-hosted AI chat UI with MCP, search and memory», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/TinySuiteHQ/TinyWebUI",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50005552",
+    "createdAt": "2026-10-08T16:46:22.308Z"
+  },
+  {
+    "slug": "datapuddle-native-macos-duckdb-client-hn",
+    "title": "Datapuddle – native macOS DuckDB client",
+    "shortDescription": "DuckDB has been my swiss-army knife for a while now. I have a special place in my heart for polished native macOS apps. My somewhat outsize…",
+    "fullDescription": "DuckDB has been my swiss-army knife for a while now. I have a special place in my heart for polished native macOS apps. My somewhat outsized and exaggerated dislike for electron&#x2F;webkit based has lead me toil away on several native macOS apps on my own...mostly to not much profit :) I wanted to build a nice DuckDB client. Though I usually reach for TablePlus, my favorite multi-db client on Macs, I felt like there wasn&#x27;t a nice DuckDB oriented experience. One thing that I used DuckDB for on locally on my desktop is dealing with larger datasets. And paging is something that was annoying and frustrating to deal with..espcially as you&#x27;re perusing and exploring large datasets. And thus began this 3-4 month long journey to build a nice polished DuckDB app for macOS :) First off the the grid: - You get to see the WHOEL result. Not just the first page. This level of optimization (perhaps needless) was done by never turning rows into objects and directly reading for DuckDB&#x27;s columnar chunks ad draw time with Core Text. Memory is flat at 40 res or 41 million rows! - Benchmarked on my M1 Max 64GB MB Pro, at 20M rows w&#x2F; 30 columns form a 11GB parquet file: ~119 fps on avg with a min of 52-60fps, 2.8GB RAM usage, ability to humo to first or last row in a millisecond! The rest of the good stuff: - Column headers have a nice drawn distribution, null %, and distinct count - Visualize query plans as waterfall, tree, or the JSON - SQLITE + FTS backed Query history - Autocompletion in the editor knows your schema! Grammar is backed by treesitter - Connections saved securely in macOS Keychain - Extensions are statically linked. I&#x27;ve included most all of DuckDB&#x27;s core extensions - Parquet, CSV, JSON, of course .duckdb files all local or on S3 are accessible. All along Postgres tables so you can join across everything as you&#x27;d expect form DuckDB - It Quacks like a duck! You can connect to a local or remote DuckDB server via Quack protocol. This bridges the gap between custom or other extensions that Datapuddle doesn&#x27;t bundle with (albeit with a perf and memory penalty) - Bares repeating...NO electron, NO web views :) - No telemetry other than the opt-in macOS crash reporter A one-time $39.99 purchase...no subscription. 7-day trial first! And sorry it&#x27;s only for Apple Silicon! AI Disclosure: - For the record I&#x27;ve been building iOS apps (had a funded startup where I did so) for a while (though just gettin back into it) and built several commercial and personal macOS apps for almost a couple of decades. I&#x27;m well aware of best practices, the ecosystem, libraries, and teh do&#x27;s and don&#x27;ts - With that out of the way, did use Claude and where it REALLY earned its keep (which would&#x27;ve taken me a LOT of time to work through), was getting DuckDB and the extension set statically bundled and behaving the way I wanted it to. And the buffered Core Text grid, especially interacting with a custom DuckDB C++ &lt;&gt; Swift shim. - And of course the website :) App Store link: https:&#x2F;&#x2F;apps.apple.com&#x2F;app&#x2F;id6811235967 Happy to discuss, and hope others find it useful...its definitely made my DuckDB experience a bit happier personally :)\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://datapuddle.app/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50005515",
+    "createdAt": "2026-10-08T16:46:22.309Z"
+  },
+  {
+    "slug": "pentasid-white-label-ticketing-app-hn",
+    "title": "pentas.id — White-label ticketing app",
+    "shortDescription": "I built a white-label ticketing and registration app last year to run an event for a large state-owned corp, and I decided to turn it into…",
+    "fullDescription": "I built a white-label ticketing and registration app last year to run an event for a large state-owned corp, and I decided to turn it into a product. I&#x27;ve been dogfooding it at my own cafe, and friends and family have used it for both big and small events. I added a feature that lets you try it with no sign-up (up to a point), with previews! I personally like the admin console (again, with previews!). It&#x27;s Bootstrap-based, so it won&#x27;t win any awards :) But I put a lot of thought into it. I&#x27;m a late adopter when it comes to AI (I&#x27;m old), but recently I used Claude and Gemini, and boy, they have been helpful for solo founders like me. It&#x27;s a SvelteKit project running on Cloudflare, with a different database per region. Most events are physical, so it makes sense to put the database closer. Let me know your thoughts!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://pentas.id/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50005190",
+    "createdAt": "2026-10-08T16:46:22.309Z"
+  },
+  {
+    "slug": "bot-bowl-bench-benchmarking-llms-with-blood-bowl-hn",
+    "title": "Bot Bowl Bench – Benchmarking LLMs with Blood Bowl",
+    "shortDescription": "I wanted a meaningful benchmark for Mistral 4, and as a fan of Blood Bowl, I&#x27;m faintly aware that it&#x27;s a hugely challenging game…",
+    "fullDescription": "I wanted a meaningful benchmark for Mistral 4, and as a fan of Blood Bowl, I&#x27;m faintly aware that it&#x27;s a hugely challenging game to build AI for... Hence the regular Bot Bowl[1] tournament, and now Bot Bowl Bench! I&#x27;ve kept it to cheap-ish models for now, but if people find it fun, might add Opus + Astra and see how they get on! [1] https:&#x2F;&#x2F;njustesen.github.io&#x2F;botbowl&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://botbowlbench.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50005050",
+    "createdAt": "2026-10-08T16:46:22.309Z"
+  },
+  {
+    "slug": "privatrak-no-code-privacy-first-product-analytics-hn",
+    "title": "Privatrak – no-code, privacy-first product analytics",
+    "shortDescription": "Hi HN! Quick story how it started: I was a freelance web developer in the past and also worked for several companies on web applications. F…",
+    "fullDescription": "Hi HN! Quick story how it started: I was a freelance web developer in the past and also worked for several companies on web applications. For some projects we didn’t have analytics at all and we had to ask ourselves too many times what our users actually use in the product. Finding a good solution was painful, since we couldn’t use a consent banner (a lot of customers from the government) and existing tools were hard to set up so nobody took the time. I started with this idea already many years ago, but only really got to develop it in the past year. So what is Privatrak? A product tracking tool which is simple to set up and doesn’t require any code for most use cases. It can be used just by tagging elements on your site in the browser. From that, funnels and analytics dashboards can be created. I also wanted to make it as easy as possible to use with AI agents, hence there is a MCP server which can be used to question the data and set up the project (every change an AI agent makes is tracked and can also easily be undone). It doesn’t store any sensitive user data and can be used without a consent banner or cookies. Sessions are calculated based on a hash that consists of the users IP address + user agent + random rotating salt (IP address and user agent are never stored) and are aggregated for each day, so the data basically only points at a group of users in the end. In many cases this is fine. Often you are only curious about a specific feature or trends and not what a specific user did. If you need to track people over multiple days or need session replays, this is not the right tool. My main goal in posting here is to get some feedback for the product. Is the daily cutoff for sessions a dealbreaker for you? I just launched it and currently only have a handful of people actually using it. I built a demo project for everybody to see how it looks without having to sign up: https:&#x2F;&#x2F;demo.privatrak.com&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://privatrak.com",
+    "category": "no-code",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50004848",
+    "createdAt": "2026-10-08T16:46:22.309Z"
+  },
+  {
+    "slug": "i-indexed-166000-ai-agent-setups-on-github-hn",
+    "title": "I indexed 166,000 AI agent setups on GitHub",
+    "shortDescription": "Проект «I indexed 166,000 AI agent setups on GitHub», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I indexed 166,000 AI agent setups on GitHub», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://favz.co/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50004795",
+    "createdAt": "2026-10-08T16:46:22.309Z"
+  },
+  {
     "slug": "gluon-github",
     "title": "gluon",
     "shortDescription": "A control platform for coding agents: runs Claude Code, Codex, Antigravity, Grok Build, OpenCode and Kimi Code side by side, on your own ke…",
