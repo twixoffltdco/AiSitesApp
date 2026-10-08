@@ -1,5 +1,169 @@
 [
   {
+    "slug": "resumeforge-ai-github",
+    "title": "resumeforge-ai",
+    "shortDescription": "AI-powered resume builder for students, freshers & professionals with professional templates, live preview, PDF export, ATS analysis, and j…",
+    "fullDescription": "AI-powered resume builder for students, freshers & professionals with professional templates, live preview, PDF export, ATS analysis, and job-specific tailoring.\n\nАвтор: arish096. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://resumeforge-studio.lovable.app/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "ats",
+      "ats-friendly",
+      "career",
+      "job-search",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1406865781",
+    "createdAt": "2026-10-08T02:29:14.483Z"
+  },
+  {
+    "slug": "patchbay-github",
+    "title": "patchbay",
+    "shortDescription": "One local endpoint for every model you have. OpenAI- & Anthropic-compatible proxy + menu-bar app for ChatGPT/Codex, Claude Pro/Max, Grok, O…",
+    "fullDescription": "One local endpoint for every model you have. OpenAI- & Anthropic-compatible proxy + menu-bar app for ChatGPT/Codex, Claude Pro/Max, Grok, OpenRouter and API keys.\n\nАвтор: Robinbinu. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/Robinbinu/patchbay",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "anthropic",
+      "api-gateway",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1407799117",
+    "createdAt": "2026-10-08T02:29:14.483Z"
+  },
+  {
+    "slug": "idx-skor-risiko-github",
+    "title": "idx-skor-risiko",
+    "shortDescription": "Self-hosted Telegram bot that scores Indonesian (IDX) stock risk with 28 sourced indicators and explains it in plain Bahasa Indonesia for b…",
+    "fullDescription": "Self-hosted Telegram bot that scores Indonesian (IDX) stock risk with 28 sourced indicators and explains it in plain Bahasa Indonesia for beginner investors. Bot Telegram penilai risiko saham IDX untuk investor pemula.\n\nАвтор: iqbal-rahmatullah. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://skor-risiko.pages.dev",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "docker",
+      "financial-analysis",
+      "fintech",
+      "idx",
+      "indonesia",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1407422117",
+    "createdAt": "2026-10-08T02:29:14.483Z"
+  },
+  {
+    "slug": "lang-chain-js-cn-github",
+    "title": "lang-chain-js-cn",
+    "shortDescription": "LangChain.js 中文入门电子书 · 9 章 38 个可运行示例。本书适合：会 JavaScript / TypeScript，但没接触过 LangChain；想用 JS/TS 构建 AI 应用：聊天机器人、知识库问答、智能体……；希望边读边跑代码，而不是只看理论。另有…",
+    "fullDescription": "LangChain.js 中文入门电子书 · 9 章 38 个可运行示例。本书适合：会 JavaScript / TypeScript，但没接触过 LangChain；想用 JS/TS 构建 AI 应用：聊天机器人、知识库问答、智能体……；希望边读边跑代码，而不是只看理论。另有 VitePress 站点：https://cleversnail.github.io/lang-chain-js-cn/\n\nАвтор: cleversnail. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://cleversnail.github.io/lang-chain-js-cn/",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "chinese",
+      "function-calling",
+      "langchain",
+      "langchainjs",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1408514347",
+    "createdAt": "2026-10-08T02:29:14.483Z"
+  },
+  {
+    "slug": "baton-github",
+    "title": "baton",
+    "shortDescription": "Portable session handoff for Claude: one living BATON.md you can drop into any chat or account",
+    "fullDescription": "Portable session handoff for Claude: one living BATON.md you can drop into any chat or account\n\nАвтор: raj742133. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://baton-handoff.vercel.app",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "claude",
+      "claude-code",
+      "context",
+      "handoff",
+      "productivity",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1408093063",
+    "createdAt": "2026-10-08T02:29:14.483Z"
+  },
+  {
+    "slug": "routehub-github",
+    "title": "RouteHub",
+    "shortDescription": "RouteHub is the Swarms LLM gateway, built for raw speed.",
+    "fullDescription": "RouteHub is the Swarms LLM gateway, built for raw speed.\n\nАвтор: The-Swarm-Corporation. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://swarms.ai",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "anthropic",
+      "claude",
+      "gpt-5",
+      "litellm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1407332993",
+    "createdAt": "2026-10-08T02:29:14.483Z"
+  },
+  {
+    "slug": "agentc-1mb-static-no-libc-minimal-embeddable-agent-with-rustc-api-hn",
+    "title": "Agentc: <1MB static, no Libc, minimal, embeddable agent with Rust/C API",
+    "shortDescription": "Sharing an agent that I built since most of the agents that&#x27;s nice to work with, take hefty deps like node or is provider dependent. I…",
+    "fullDescription": "Sharing an agent that I built since most of the agents that&#x27;s nice to work with, take hefty deps like node or is provider dependent. It&#x27;s heavily inspired by the wonderful pi agent - and builds on it as something that you can run on tiny hardware or embed easily in your own binaries without needing it&#x27;s hefty dependency chain. An agent doesn&#x27;t really need much - a minimal networking stack, a TUI and an agent loop. Then comes tools, mcp, skills and prompts. agentc does exactly that - a minimal, static, embeddable coding agent in C - no libc, less than 1MB, starts up using &lt;1MB of RAM, and RSS comfortably sits under a few MBs during usage. It&#x27;s extensible and everything including status, mcp, tools is architected as an extension. The embeddable part is by design, but exposing it as an API is still a pending plan and should be done in a few days. Also: would love some human testing on a Mac! CI builds for: linux - x64, arm64, risv64; win - x64, arm64 and darwin - arm64.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/abird-ai/agentc",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50001109",
+    "createdAt": "2026-10-08T02:29:14.249Z"
+  },
+  {
+    "slug": "stayleet-keeping-skills-sharp-in-ai-coding-era-hn",
+    "title": "StayLeet – keeping skills sharp in AI coding era",
+    "shortDescription": "As AI writes more and more of the code, it&#x27;s quite important to maintain sufficient skill and knowledge to even review or judge AI&#x2…",
+    "fullDescription": "As AI writes more and more of the code, it&#x27;s quite important to maintain sufficient skill and knowledge to even review or judge AI&#x27;s output. Here is a little project I whipped up - I personally found deliberate practice quite useful. It focusses on non-coding skills (as I think LOC production is basically solved by AI, IMO). Rather I start with two tracks: general technical fluency (CS &#x2F; systems &#x2F; practical fundamentals), and system design. And yes it was built primarily with help of AI tooling. Would love to get some feedback - in particular, do others feel the same way about skill atrophy risk on-the-job nowadays, and whether this tool is helpful potentially or not. What else do folks do instead, if anything.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://stayleet.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50000084",
+    "createdAt": "2026-10-08T02:29:14.250Z"
+  },
+  {
     "slug": "ai-data-extractor-github-3",
     "title": "ai-data-extractor",
     "shortDescription": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
