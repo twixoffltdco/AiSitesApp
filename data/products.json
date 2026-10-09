@@ -1,5 +1,183 @@
 [
   {
+    "slug": "inkling-github",
+    "title": "inkling",
+    "shortDescription": "Open-source personal AI assistant that lives in your WhatsApp: email, calendar, group plans, reminders and errands. Self-hosted, and it ask…",
+    "fullDescription": "Open-source personal AI assistant that lives in your WhatsApp: email, calendar, group plans, reminders and errands. Self-hosted, and it asks before it sends anything as you.\n\nАвтор: inklingfree. Найдено в GitHub Trending (AI-тематика). ⭐ 10 звёзд.",
+    "url": "https://inkling.free",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-assistant",
+      "assistant",
+      "azure-openai",
+      "baileys",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1409656222",
+    "createdAt": "2026-10-09T15:29:49.898Z"
+  },
+  {
+    "slug": "tailclaude-github",
+    "title": "tailclaude",
+    "shortDescription": "Claude Code on your Tailscale tailnet, powered by the iii engine.",
+    "fullDescription": "Claude Code on your Tailscale tailnet, powered by the iii engine.\n\nАвтор: AI-pro017. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/AI-pro017/tailclaude",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "claude",
+      "claude-code",
+      "claudecode",
+      "code",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1411797230",
+    "createdAt": "2026-10-09T15:29:49.898Z"
+  },
+  {
+    "slug": "aiezo-upscale-github",
+    "title": "aiezo-upscale",
+    "shortDescription": "AIEZO UpScale - Làm nét & phóng to ảnh lên 2K/4K/8K bằng AI (SeedVR2), chạy trên máy, miễn phí. https://aiezo.netlify.app",
+    "fullDescription": "AIEZO UpScale - Làm nét & phóng to ảnh lên 2K/4K/8K bằng AI (SeedVR2), chạy trên máy, miễn phí. https://aiezo.netlify.app\n\nАвтор: aiezosto. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://aiezo.netlify.app",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "aiezo",
+      "image-upscaling",
+      "seedvr2",
+      "super-resolution",
+      "upscale",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1411184558",
+    "createdAt": "2026-10-09T15:29:49.898Z"
+  },
+  {
+    "slug": "liquid-inference-auto-routing-to-competitive-llm-marketplace-hn",
+    "title": "Liquid Inference – auto-routing to competitive LLM marketplace",
+    "shortDescription": "Our background is trading systems and exchanges. Liquid Inference applies that to LLM inference. On Liquid Inference, model providers compe…",
+    "fullDescription": "Our background is trading systems and exchanges. Liquid Inference applies that to LLM inference. On Liquid Inference, model providers compete with each other on an open marketplace to offer the best price for any given model. We paired that with an intelligent auto-router so you always pay the lowest cost on the spot for a preset quality level. Currently we&#x27;re cheaper on Kimi&#x2F;GPT&#x2F;GLM but working hard to be the best price for all models. You can also customize your minimum routing settings if you have particular requirements like what region the compute can be served from, zero data retention, provider&#x2F;model allowlists, etc. It&#x27;s easy to set up, I usually just ask the harness itself to &quot;write me a shell script to start Claude Code using Liquid Inference&quot; for example and it just goes from there. We&#x27;re eager to hear your feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://liquidinference.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50021354",
+    "createdAt": "2026-10-09T15:29:49.634Z"
+  },
+  {
+    "slug": "circleit-circle-something-on-a-web-page-your-coding-agent-fixes-it-hn",
+    "title": "CircleIt – Circle something on a web page, your coding agent fixes it",
+    "shortDescription": "Hi HN! Agents have made our development so much faster and we&#x27;ve found that the bottleneck has moved to feedback from the rest of the…",
+    "fullDescription": "Hi HN! Agents have made our development so much faster and we&#x27;ve found that the bottleneck has moved to feedback from the rest of the team. We have marketers and sales teams that were screenshotting pages and providing notes via Google Docs which then had to be translated to prompts by devs. So we built CircleIt, a Chrome extension plus a Claude Code&#x2F;Codex plugin. Anyone on the team can circle (and more!) things on any page (live&#x2F;staging&#x2F;dev), explain the change, and send it straight to the developer’s running agent. The screenshot, comment and meta information then goes straight to the agent. Then it makes the change and reports back, and the status updates in the sender’s browser. Feedback is routed to the right repo by matching the site address, and you can require approval for specific people or sites before anything reaches the agent. For us, small UI changes went from around a day of back-and-forth to a few minutes. We’d love feedback - if this is useful then that&#x27;s great!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://circleit.ai",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50020545",
+    "createdAt": "2026-10-09T15:29:49.634Z"
+  },
+  {
+    "slug": "useralertx-let-your-ai-agent-text-you-only-you-hn",
+    "title": "UserAlertX – let your AI agent text you (only you)",
+    "shortDescription": "Проект «UserAlertX – let your AI agent text you (only you)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «UserAlertX – let your AI agent text you (only you)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://useralertx.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50019807",
+    "createdAt": "2026-10-09T15:29:49.634Z"
+  },
+  {
+    "slug": "llm-skill-to-generate-editable-3d-house-designs-hn",
+    "title": "LLM skill to generate editable 3D house designs",
+    "shortDescription": "I loved the stunning 3D designs created with Astra but they typically require a decent knowledge of Blender or Unreal engine which made it…",
+    "fullDescription": "I loved the stunning 3D designs created with Astra but they typically require a decent knowledge of Blender or Unreal engine which made it inaccessible. It also generated something you couldn&#x27;t edit which is tricky for the design process where you typically need to try different ideas out. This is especially painful if each series of Astra loop&#x27;s took 4 hours to complete. So... using Arcadium&#x27;s online house editor tool - I created a skill to generate JSON that it can understand. It&#x27;s still early stages - structures work pretty well but textures and complex models will need refinement (coming soon!). Would love to get feedback! thanks\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://arcadium3d.com/create-with-ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50019488",
+    "createdAt": "2026-10-09T15:29:49.634Z"
+  },
+  {
+    "slug": "i-let-claude-refactor-my-old-game-hn",
+    "title": "I let Claude refactor my old game",
+    "shortDescription": "I&#x27;ve been using Claude code to finish up some projects that were on hold for a while. I&#x27;ve been doing this in my laptop, keeping…",
+    "fullDescription": "I&#x27;ve been using Claude code to finish up some projects that were on hold for a while. I&#x27;ve been doing this in my laptop, keeping the changes local. In one session I was offered $100 usd credits to let Claude connect and work in one of my GitHub projects directly. So I chose aimAndShoot, a neural evolution game from 2019. It catched some bugs and introduced improvements. I told it I was going to post about this experience on hackernews and lo and behold, the topic was already in it&#x27;s training data. It knew about the project and the fact that I hadn&#x27;t addressed the feedback it got. Anyhow, I asked it to address the comments on the topic and here&#x27;s the result. Live game is here: https:&#x2F;&#x2F;victorribeiro.com&#x2F;aimAndShoot&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/victorqribeiro/aimAndShoot",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50018821",
+    "createdAt": "2026-10-09T15:29:49.634Z"
+  },
+  {
+    "slug": "vendiq-ai-agent-for-vendor-follow-ups-and-ops-automation-hn",
+    "title": "VendIQ – AI agent for vendor follow-ups and ops automation",
+    "shortDescription": "Проект «VendIQ – AI agent for vendor follow-ups and ops automation», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «VendIQ – AI agent for vendor follow-ups and ops automation», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://vendiq.rishailabs.com/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50018161",
+    "createdAt": "2026-10-09T15:29:49.634Z"
+  },
+  {
+    "slug": "spectromood-speech-emotion-detection-with-a-decision-model-hn",
+    "title": "SpectroMood, speech emotion detection with a decision model",
+    "shortDescription": "Voice AI industry still uses transcripts to determine the emotions of the user. So when me and my friend were discussing about this we got…",
+    "fullDescription": "Voice AI industry still uses transcripts to determine the emotions of the user. So when me and my friend were discussing about this we got the known limitations of transcriptions is that it doesn&#x27;t capture the user&#x27;s emotion from audio. Like, &quot;I&#x27;m frustrated with your service&quot; reads the same whether calm or angry. Then I thought, why can&#x27;t the decision model be tested for this to get quicker decisions on the go, knowing the limitation that it can&#x27;t accept the audio file directly? So I thought of converting it to a pictorial representation and then submitting it to the clef-flash [a cheaper option]. Although the results are not too exciting, I would say it is just starting, and we can fine-tune the decision model for the same use case, and it can help a lot in several scenarios. Worth giving it a try and checkout on your own voice.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/ketul93/spectromood",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50017751",
+    "createdAt": "2026-10-09T15:29:49.634Z"
+  },
+  {
     "slug": "justin-sun-alan-shao-ai-notes-github",
     "title": "justin-sun-alan-shao-ai-notes",
     "shortDescription": "孙宇晨 × 邵艾伦 4 小时对谈：全文 + 精华 + 一键丢给 AI 的规划 prompt",
