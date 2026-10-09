@@ -1,5 +1,149 @@
 [
   {
+    "slug": "lacuna-open-source-inline-ai-writing-suggestions-for-your-mac-hn",
+    "title": "Lacuna – open-source inline AI writing suggestions for your Mac",
+    "shortDescription": "This past week I built (prompted) a tool I find myself using day to day and wanted to share it with others who may find it useful as well.…",
+    "fullDescription": "This past week I built (prompted) a tool I find myself using day to day and wanted to share it with others who may find it useful as well. “Lacuna” is an opinionated way to invoke LLMs into any text input on your Mac. Specifically, you can type bracketed phrases {such as this}, press Shift-Command-K (or a different shortcut of your choosing), and the tool sends your bracketed phrase + the surrounding text contents to an LLM of your configuration for generating text to replace the bracketed phrase. The program returns 3 candidate phrases and the experience is entirely keyboard navigable. Demo: https:&#x2F;&#x2F;jackdamon.org&#x2F;assets&#x2F;images&#x2F;lacuna-scheduling-demo.g... Example scheduling workflow using Lacuna’s native UI and sample suggestions. So far I find myself frequently using it when drafting emails where I want help with quick phrasing. The project was inspired by Rectangle, an open source utility app for window tiling that is keyboard based. Lacuna is open source and available here: https:&#x2F;&#x2F;github.com&#x2F;jdamon96&#x2F;lacuna Blog: https:&#x2F;&#x2F;jackdamon.org&#x2F;blog&#x2F;lacuna&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://jackdamon.org/blog/lacuna/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50025559",
+    "createdAt": "2026-10-09T20:18:04.911Z"
+  },
+  {
+    "slug": "plannotator-inbox-decision-making-surface-for-agents-hn",
+    "title": "Plannotator Inbox – Decision Making Surface for Agents",
+    "shortDescription": "Проект «Plannotator Inbox – Decision Making Surface for Agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Plannotator Inbox – Decision Making Surface for Agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://plannotator.ai/inbox/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50024247",
+    "createdAt": "2026-10-09T20:18:04.911Z"
+  },
+  {
+    "slug": "pdfepub-reader-where-you-ask-ai-and-each-answer-links-to-the-passage-hn",
+    "title": "PDF/ePub reader where you ask AI and each answer links to the passage",
+    "shortDescription": "Проект «PDF/ePub reader where you ask AI and each answer links to the passage», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «PDF/ePub reader where you ask AI and each answer links to the passage», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://marginal-ia.app/en",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50024097",
+    "createdAt": "2026-10-09T20:18:04.911Z"
+  },
+  {
+    "slug": "taskhandoff-self-hosted-control-plane-for-containerized-ai-agents-hn",
+    "title": "TaskHandoff – Self-hosted control plane for containerized AI agents",
+    "shortDescription": "Проект «TaskHandoff – Self-hosted control plane for containerized AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «TaskHandoff – Self-hosted control plane for containerized AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/edgestorage/task-handoff",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50023550",
+    "createdAt": "2026-10-09T20:18:04.911Z"
+  },
+  {
+    "slug": "higherlevel-define-and-review-what-ai-agents-build-hn",
+    "title": "Higherlevel – Define and review what AI agents build",
+    "shortDescription": "Hi HN! I&#x27;m Ryan, I&#x27;m building Higherlevel ( https:&#x2F;&#x2F;higherlevel.to ) so product teams have one place to define and revi…",
+    "fullDescription": "Hi HN! I&#x27;m Ryan, I&#x27;m building Higherlevel ( https:&#x2F;&#x2F;higherlevel.to ) so product teams have one place to define and review software changes. Over the last couple of years, I&#x27;ve been increasingly delegating software implementation to AI coding agents. However, because it became easier and faster to ship complexity, I realised that it still takes me quite some time to even understand what the software is doing, why it is doing that, or review the changes. I also don&#x27;t do traditional code reviews anymore, it&#x27;s mostly automated but I still want to review the final outcome of the changes (rather than its implementation). I regularly work on complex B2B applications where a single feature can involve dozen of business rules, edge cases and interactions with existing functionality. I found myself spending more and more time discovering and explaining requirements to agents, reviewing their output, asking for evdience and trying to establish whether we actually agreed on what correct behaviour looked like. So I built Higherlevel. The idea is to bring product specifications and proof of work into a single collaborative workspace. You can: - describe the current behaviour, known limitations and expected changes - define business rules, acceptance scenarios using Given&#x2F;When&#x2F;Then - demand evidence in the form of a screenshot, a video, etc - comment directly on the spec, on a specific area of the image or a timestamp of the video - discuss changes, track revisions and approve results with your team I&#x27;ve written extensively about why I believe in specification driven development (and what it means to me) here https:&#x2F;&#x2F;higherlevel.to&#x2F;blog&#x2F;introducing-higherlevel Higherlevel is currently in beta and built with Elixir, Phoenix LiveView, and PostgreSQL.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://higherlevel.to/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50023234",
+    "createdAt": "2026-10-09T20:18:04.911Z"
+  },
+  {
+    "slug": "this-hotel-is-hella-ai-ready-book-directly-from-ai-without-mcps-hn",
+    "title": "This hotel is hella AI-ready. Book directly from AI without MCPs",
+    "shortDescription": "Hey guys! Excited to show how we were able to get AI agents to read a hotel&#x27;s live price and availabilities and even create the bookin…",
+    "fullDescription": "Hey guys! Excited to show how we were able to get AI agents to read a hotel&#x27;s live price and availabilities and even create the booking link to hand-off to the user. Get this, all working WITHOUT MCPs or connectors. All on the open web!!! Integrating with this system is possible under each hotel&#x27;s domain too.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://cadent.studio/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50022896",
+    "createdAt": "2026-10-09T20:18:04.911Z"
+  },
+  {
+    "slug": "senro-webmcp-evals-and-observability-hn",
+    "title": "Senro – WebMCP Evals and Observability",
+    "shortDescription": "Hi everyone, When I first heard about WebMCP 6 weeks ago, I started thinking about what problems it might create. One question that came to…",
+    "fullDescription": "Hi everyone, When I first heard about WebMCP 6 weeks ago, I started thinking about what problems it might create. One question that came to mind was how developers would evaluate WebMCP tools and monitor them in production. That&#x27;s when I decided to build Senro, a platform that helps devs test WebMCP tools using goal-oriented evals, trajectory evals, and more across LLMs, as well as monitor how those tools are used in production. Senro has a free plan (not a free trial). You can monitor up to 25K events&#x2F;mo and run up to 250 evals&#x2F;mo using your own API key (sorry, we&#x27;re not venture-backed yet).\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://senro.ai",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50022328",
+    "createdAt": "2026-10-09T20:18:04.911Z"
+  },
+  {
+    "slug": "fruit-inspector-real-time-yolo-tracking-at-40-fps-on-old-cpus-via-nim-hn",
+    "title": "Fruit Inspector – Real-time YOLO tracking at 40 FPS on old CPUs via Nim",
+    "shortDescription": "Проект «Fruit Inspector – Real-time YOLO tracking at 40 FPS on old CPUs via Nim», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Fruit Inspector – Real-time YOLO tracking at 40 FPS on old CPUs via Nim», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/olesha-ai/fruit-inspector-demo",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50022030",
+    "createdAt": "2026-10-09T20:18:04.911Z"
+  },
+  {
+    "slug": "let-your-ai-agents-paint-big-arrows-boxes-and-text-on-your-screen-hn",
+    "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+    "shortDescription": "Проект «Let your AI agents paint big arrows, boxes and text on your screen», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Let your AI agents paint big arrows, boxes and text on your screen», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 333 баллов.",
+    "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50018817",
+    "createdAt": "2026-10-09T20:18:04.911Z"
+  },
+  {
     "slug": "inkling-github",
     "title": "inkling",
     "shortDescription": "Open-source personal AI assistant that lives in your WhatsApp: email, calendar, group plans, reminders and errands. Self-hosted, and it ask…",
