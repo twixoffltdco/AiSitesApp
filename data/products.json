@@ -1,5 +1,167 @@
 [
   {
+    "slug": "justin-sun-alan-shao-ai-notes-github",
+    "title": "justin-sun-alan-shao-ai-notes",
+    "shortDescription": "孙宇晨 × 邵艾伦 4 小时对谈：全文 + 精华 + 一键丢给 AI 的规划 prompt",
+    "fullDescription": "孙宇晨 × 邵艾伦 4 小时对谈：全文 + 精华 + 一键丢给 AI 的规划 prompt\n\nАвтор: wousp112. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://github.com/wousp112/justin-sun-alan-shao-ai-notes",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "alan-shao",
+      "career-development",
+      "learning",
+      "prompt-engineering",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1411366774",
+    "createdAt": "2026-10-09T08:27:33.158Z"
+  },
+  {
+    "slug": "eido-github",
+    "title": "eido",
+    "shortDescription": "AI coding agent workspace for macOS, built on Zed and pi. Native code editing and review, browser use, computer use, and global agent acces…",
+    "fullDescription": "AI coding agent workspace for macOS, built on Zed and pi. Native code editing and review, browser use, computer use, and global agent access controls.\n\nАвтор: tony3liu. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://github.com/tony3liu/eido",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-assistant",
+      "browser-use",
+      "code-editor",
+      "code-review",
+      "coding-agent",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1410338898",
+    "createdAt": "2026-10-09T08:27:33.158Z"
+  },
+  {
+    "slug": "ownchat-github",
+    "title": "OwnChat",
+    "shortDescription": "OwnChat｜自部署的 AI 创作平台：角色扮演、长文写作、代码、图像与语音。跑在你自己的 Cloudflare Workers 上——数据、模型密钥与提示词尺度都由你决定；桌面 / 安卓客户端为域中立壳（Tauri）。 A self-hosted AI creation p…",
+    "fullDescription": "OwnChat｜自部署的 AI 创作平台：角色扮演、长文写作、代码、图像与语音。跑在你自己的 Cloudflare Workers 上——数据、模型密钥与提示词尺度都由你决定；桌面 / 安卓客户端为域中立壳（Tauri）。 A self-hosted AI creation platform for roleplay, long-form writing, code, image and voice — running on your own Cloudflare Workers with your own data, model keys and prompt settings. Domain-neutral desktop & Android clients (Tauri).\n\nАвтор: MaxChen12114. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://deploy.workers.cloudflare.com/?url=https://github.com/MaxChen12114/OwnChat",
+    "category": "writing",
+    "tags": [
+      "ai",
+      "ai-roleplay",
+      "character-card",
+      "chinese",
+      "cloudflare-workers",
+      "custom-prompts",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1408584028",
+    "createdAt": "2026-10-09T08:27:33.159Z"
+  },
+  {
+    "slug": "what-a-major-earthquake-does-to-vancouver-hn",
+    "title": "What a major earthquake does to Vancouver",
+    "shortDescription": "About 10 years ago, I attended a presentation by someone who had compiled existing engineering reports to describe the impact of a major ea…",
+    "fullDescription": "About 10 years ago, I attended a presentation by someone who had compiled existing engineering reports to describe the impact of a major earthquake on infrastructure in British Columbia. It was really striking, and it has stayed in the back of my mind ever since. I am now the point of contact for downtown Vancouver in the French community&#x27;s emergency network, and it drives me nuts that most people I talk to have no emergency kit at home and basically no water. People are shocked, or in denial, when I mention that it could take weeks to restore electricity and that they will have to rely on their own food and water for at least several days. So I decided to build a public-facing site that compiles existing information, as a way to lay out the facts and help convince people, instead of hearing back that &quot;the army will come&quot; or that &quot;there are emergency food reserves&quot; (there aren&#x27;t). I see this as a citizen initiative, with one main message: go buy some water and canned food, it&#x27;s your civic duty. I relied on AI agents to compile the information, which is spread across hundreds of reports. With different levels of validation, plus my own review, I am confident the information is reliable, even if some details may not be fully up to date. The process took 2–3 weeks, alongside work, a toddler and a baby! I&#x27;m posting it here because: 1) I&#x27;m curious to get feedback and suggestions. 2) Many HN readers are on the West Coast or in other seismic areas, so even if you&#x27;re not in Vancouver, the general recommendations may be of interest. Be smart: buy some food and water. Cheers Thomas\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://quakeimpact.ca/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50017252",
+    "createdAt": "2026-10-09T08:27:32.798Z"
+  },
+  {
+    "slug": "is-this-ai-training-on-my-prompts-a-dated-record-of-the-fine-print-hn",
+    "title": "Is this AI training on my prompts? A dated record of the fine print",
+    "shortDescription": "Проект «Is this AI training on my prompts? A dated record of the fine print», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Is this AI training on my prompts? A dated record of the fine print», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://trainedon.me/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50016459",
+    "createdAt": "2026-10-09T08:27:32.798Z"
+  },
+  {
+    "slug": "wy-a-rust-terminal-tool-for-understanding-ai-generated-code-hn",
+    "title": "Wy – a Rust terminal tool for understanding AI-generated code",
+    "shortDescription": "I have been an opensource terminal tool for understanding AI-generated code. A git-diff shows what changed, but the context behind it lives…",
+    "fullDescription": "I have been an opensource terminal tool for understanding AI-generated code. A git-diff shows what changed, but the context behind it lives somewhere within the agent&#x27;s session context, and often goes missing in long running agent execution. Wy helps reduce that understanding gap, and helps engineers build judgement. This is especially useful for unfamiliar codebases, where agents are the primary interface for the developers. It is meant to be used alongside the With wy, you can: - Browse changes, and relevant agent notes in a terminal UI - Request explanation and ask follow up questions and changes - Open code references and citations - Distinguish recorded justifications agents derived to get a better understanding of the changes. If you try, and find it useful consider supporting it with a github star or bug report or contribution.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/grandimam/wy",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50016298",
+    "createdAt": "2026-10-09T08:27:32.798Z"
+  },
+  {
+    "slug": "mindmesh-an-ai-workspace-that-prioritizes-your-work-hn",
+    "title": "MindMesh – An AI workspace that prioritizes your work",
+    "shortDescription": "Проект «MindMesh – An AI workspace that prioritizes your work», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «MindMesh – An AI workspace that prioritizes your work», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.mindmesh.global/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50015864",
+    "createdAt": "2026-10-09T08:27:32.798Z"
+  },
+  {
+    "slug": "sibuna-an-open-source-web-application-firewall-with-proof-of-work-hn",
+    "title": "Sibuna an open source web application firewall with proof of work",
+    "shortDescription": "Hi HN, We are building an open source web application firewall Sibuna to have more control over automated traffic from AI bots and crawlers…",
+    "fullDescription": "Hi HN, We are building an open source web application firewall Sibuna to have more control over automated traffic from AI bots and crawlers. Sibuna runs as a reverse proxy or alongside an existing ingress through forward-auth. It includes application inspection, OWASP CRS support and a wasm based management console. Please try it, and give us feedback for improvements. Github Project: https:&#x2F;&#x2F;github.com&#x2F;insanai&#x2F;sibuna\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/insanai/sibuna",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50015520",
+    "createdAt": "2026-10-09T08:27:32.798Z"
+  },
+  {
+    "slug": "rename-super-intelligence-back-to-artificial-intelligence-hn",
+    "title": "Rename Super Intelligence Back to Artificial Intelligence",
+    "shortDescription": "Automatically renames all occurrences of &quot;Super Intelligence &quot; to &quot;Artificial Intelligence&quot;. 100% vibe-coded in two pro…",
+    "fullDescription": "Automatically renames all occurrences of &quot;Super Intelligence &quot; to &quot;Artificial Intelligence&quot;. 100% vibe-coded in two prompts.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://chromewebstore.google.com/detail/si-→-ai/cfpagmhjlhnbjabgaoeobkciklolaekn",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50015492",
+    "createdAt": "2026-10-09T08:27:32.798Z"
+  },
+  {
     "slug": "awesome-ai-coding-tools-github",
     "title": "awesome-ai-coding-tools",
     "shortDescription": "Curated catalog of AI coding assistants, terminal agents, local LLMs, and automated testing tools",
