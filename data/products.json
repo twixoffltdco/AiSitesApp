@@ -1,5 +1,196 @@
 [
   {
+    "slug": "awesome-ai-coding-tools-github",
+    "title": "awesome-ai-coding-tools",
+    "shortDescription": "Curated catalog of AI coding assistants, terminal agents, local LLMs, and automated testing tools",
+    "fullDescription": "Curated catalog of AI coding assistants, terminal agents, local LLMs, and automated testing tools\n\nАвтор: mahmoudsajjadi. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/mahmoudsajjadi/awesome-ai-coding-tools",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "aider",
+      "awesome",
+      "awesome-list",
+      "code-generation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1410791311",
+    "createdAt": "2026-10-09T01:43:51.375Z"
+  },
+  {
+    "slug": "closofcode-cli-github",
+    "title": "closofcode-cli",
+    "shortDescription": "Closof Code CLI based OpenCode remakes",
+    "fullDescription": "Closof Code CLI based OpenCode remakes\n\nАвтор: closofdev. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/closofdev/closofcode-cli",
+    "category": "developer",
+    "tags": [
+      "agent",
+      "ai",
+      "cli",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1409925530",
+    "createdAt": "2026-10-09T01:43:51.375Z"
+  },
+  {
+    "slug": "prison-github",
+    "title": "prison",
+    "shortDescription": "Open-source prompt studio: turns a request into a verified prompt for ChatGPT, Claude, Gemini or Codex; an LLM council competes in a 3D are…",
+    "fullDescription": "Open-source prompt studio: turns a request into a verified prompt for ChatGPT, Claude, Gemini or Codex; an LLM council competes in a 3D arena. · 开源提示词工作室：把需求变成为目标 AI 编写、经过审核的提示词。· İsteği hedef yapay zekâ için doğrulanmış prompta dönüştüren stüdyo.\n\nАвтор: muhammetaycn. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/muhammetaycn/prison",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "chatgpt",
+      "claude",
+      "gemini",
+      "generative-ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1408601055",
+    "createdAt": "2026-10-09T01:43:51.375Z"
+  },
+  {
+    "slug": "autopaper-github",
+    "title": "AutoPaper",
+    "shortDescription": "Tell your computer what you'd like to see: new AI wallpapers from a few keywords, with moods, memory and echoes. Native apps for macOS, Win…",
+    "fullDescription": "Tell your computer what you'd like to see: new AI wallpapers from a few keywords, with moods, memory and echoes. Native apps for macOS, Windows and Linux; your own key or a local model.\n\nАвтор: msitarzewski. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://msitarzewski.github.io/AutoPaper/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "comfyui",
+      "flatpak",
+      "gtk4",
+      "image-generation",
+      "libadwaita",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1408118547",
+    "createdAt": "2026-10-09T01:43:51.375Z"
+  },
+  {
+    "slug": "model-ai-free-low-cost-github",
+    "title": "Model-AI-free-low-cost",
+    "shortDescription": "A curated list and gateway resources for free and low-cost AI models, APIs, and tools for developers.",
+    "fullDescription": "A curated list and gateway resources for free and low-cost AI models, APIs, and tools for developers.\n\nАвтор: dictionary-beep. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/dictionary-beep/Model-AI-free-low-cost",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "claude-code",
+      "developer-tools",
+      "free-api",
+      "gateway",
+      "gemni",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1408655321",
+    "createdAt": "2026-10-09T01:43:51.375Z"
+  },
+  {
+    "slug": "nythos-plus-adaptive-effort-runtime-for-local-ai-github",
+    "title": "Nythos-Plus-Adaptive-Effort-Runtime-for-Local-AI",
+    "shortDescription": "Nythos Plus is a single-file, standard-library-only Python runtime built around one idea:  reasoning effort is a resource, not a personalit…",
+    "fullDescription": "Nythos Plus is a single-file, standard-library-only Python runtime built around one idea:  reasoning effort is a resource, not a personality trait. Bardiya Shokeri\n\nАвтор: shokribardiya. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://shokribardiya.github.io/Oblivions0.github.io/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "lmstudio",
+      "localai",
+      "localai-agents",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1408357817",
+    "createdAt": "2026-10-09T01:43:51.375Z"
+  },
+  {
+    "slug": "naceai-document-intelligence-10-hn",
+    "title": "Nace.ai Document Intelligence 1.0",
+    "shortDescription": "Проект «Nace.ai Document Intelligence 1.0», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Nace.ai Document Intelligence 1.0», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://www.nace.ai/developers",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50014659",
+    "createdAt": "2026-10-09T01:43:51.274Z"
+  },
+  {
+    "slug": "edi-life-os-self-hosted-life-dashboard-with-an-mcp-server-for-ai-hn",
+    "title": "Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+    "shortDescription": "Проект «Edi Life OS – self-hosted life dashboard with an MCP server for AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Edi Life OS – self-hosted life dashboard with an MCP server for AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 15 баллов.",
+    "url": "https://github.com/edrisranjbar/lifeos",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50014150",
+    "createdAt": "2026-10-09T01:43:51.274Z"
+  },
+  {
+    "slug": "diffguardian-a-voice-and-visual-walkthrough-of-any-pr-or-codebase-hn",
+    "title": "DiffGuardian – A voice and visual walkthrough of any PR or codebase",
+    "shortDescription": "Проект «DiffGuardian – A voice and visual walkthrough of any PR or codebase», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «DiffGuardian – A voice and visual walkthrough of any PR or codebase», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://diffguardian.ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50013964",
+    "createdAt": "2026-10-09T01:43:51.274Z"
+  },
+  {
+    "slug": "awesomer-trending-github-repos-organized-by-awesome-list-hn",
+    "title": "Awesomer – trending GitHub repos, organized by awesome-list",
+    "shortDescription": "TL;DR, I made an app that sorts the repos on awesome lists by trending stars, and it updates daily. I&#x27;m not using AI to write this. kl…",
+    "fullDescription": "TL;DR, I made an app that sorts the repos on awesome lists by trending stars, and it updates daily. I&#x27;m not using AI to write this. kldjfklgjdcsjklxfhgjkshdfjkghsjkldfgyis8df7g897123hjkl23 See? I use awesome lists to discover the best open source projects, but in most cases, the lists are not even sorted alphabetically, let alone by trending. However, the popular lists, like awesome-selfhosted, are updated pretty regularly. 11:00 UTC daily, I run a local worker to update all the repos, and redeploy the site. And to be clear, I&#x27;m making no money off this. It&#x27;s really just to scratch my own itch, and to buff my own work portfolio for job hunting. It&#x27;s totally open source and if anyone wants to, I would gladly welcome contributions. That&#x27;s it. Enjoy! Github: https:&#x2F;&#x2F;github.com&#x2F;patrickclery&#x2F;awesomer Live: https:&#x2F;&#x2F;patrickclery.com&#x2F;awesomer&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/patrickclery/awesomer",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50012938",
+    "createdAt": "2026-10-09T01:43:51.274Z"
+  },
+  {
     "slug": "codex-manager-github",
     "title": "codex-manager",
     "shortDescription": "Codex 管家 · 多智能体 AI 会话管家：Token 用量看板 + 问答追踪 + SVG 流程画布 / 分布工作区 / 神经网络文字树图（单文件编辑器 + 本地服务，七家智能体适配）｜ Multi-agent AI session butler: usage dashbo…",
