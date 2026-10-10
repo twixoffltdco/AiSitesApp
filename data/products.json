@@ -1,5 +1,117 @@
 [
   {
+    "slug": "sunyuchen-alan-interview-github",
+    "title": "sunyuchen-alan-interview",
+    "shortDescription": "邵艾伦 Alan 访谈孙宇晨 4 小时 22 分全文逐字稿：约 7.5 万字，带时间戳，按话题切成 16 章，Markdown 可搜索可喂 AI",
+    "fullDescription": "邵艾伦 Alan 访谈孙宇晨 4 小时 22 分全文逐字稿：约 7.5 万字，带时间戳，按话题切成 16 章，Markdown 可搜索可喂 AI\n\nАвтор: LeoLee0812. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://github.com/LeoLee0812/sunyuchen-alan-interview",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "chinese",
+      "crypto",
+      "interview",
+      "justin-sun",
+      "markdown",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1411529408",
+    "createdAt": "2026-10-10T06:11:57.808Z"
+  },
+  {
+    "slug": "mcd-triple-target-github",
+    "title": "mcd-triple-target",
+    "shortDescription": "基于麦当劳官方 MCP 的三目标配餐优化 Skill（热量/蛋白质/预算），含 MCP 响应解包与 toon 解析完整实现",
+    "fullDescription": "基于麦当劳官方 MCP 的三目标配餐优化 Skill（热量/蛋白质/预算），含 MCP 响应解包与 toon 解析完整实现\n\nАвтор: yftu. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/yftu/mcd-triple-target",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "mcdonalds",
+      "mcp",
+      "nutrition",
+      "skills",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1412576654",
+    "createdAt": "2026-10-10T06:11:57.808Z"
+  },
+  {
+    "slug": "skyros-github",
+    "title": "skyros",
+    "shortDescription": "Persistent AI agents that remember.",
+    "fullDescription": "Persistent AI agents that remember.\n\nАвтор: Gren-Research. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Gren-Research/skyros",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "llm",
+      "memory",
+      "persistent-agents",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1412807236",
+    "createdAt": "2026-10-10T06:11:57.809Z"
+  },
+  {
+    "slug": "rutter-shared-decision-memory-across-ai-tools-hn",
+    "title": "Rutter – shared decision memory across AI tools",
+    "shortDescription": "Проект «Rutter – shared decision memory across AI tools», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Rutter – shared decision memory across AI tools», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ruttermemory.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50029798",
+    "createdAt": "2026-10-10T06:11:57.982Z"
+  },
+  {
+    "slug": "iimos-an-ai-app-that-ships-as-one-chat-box-and-rewrites-itself-hn",
+    "title": "Iimos – an AI app that ships as one chat box and rewrites itself",
+    "shortDescription": "Проект «Iimos – an AI app that ships as one chat box and rewrites itself», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Iimos – an AI app that ships as one chat box and rewrites itself», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/yanglongyun/iimos",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50029789",
+    "createdAt": "2026-10-10T06:11:57.982Z"
+  },
+  {
+    "slug": "bsos-business-communication-intelligence-api-for-saas-developers-hn",
+    "title": "BSOS – Business communication intelligence API for SaaS developers",
+    "shortDescription": "Проект «BSOS – Business communication intelligence API for SaaS developers», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «BSOS – Business communication intelligence API for SaaS developers», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://developers.priorityengineai.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50029598",
+    "createdAt": "2026-10-10T06:11:57.982Z"
+  },
+  {
     "slug": "cc-split-diff-view-github",
     "title": "cc-split-diff-view",
     "shortDescription": "Claude Code mod that draws Edit and Write diffs in two side-by-side columns",
