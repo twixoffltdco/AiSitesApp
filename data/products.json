@@ -1,5 +1,145 @@
 [
   {
+    "slug": "agenteam-github",
+    "title": "agenteam",
+    "shortDescription": "【群策】 - 开源企业级多智能体协作 OPC 平台，组建你的专属 AI 团队 - Java & AgentScope 2.0 |  [AgenTeam] Open-source, enterprise-grade OPC (One Person Company) platfor…",
+    "fullDescription": "【群策】 - 开源企业级多智能体协作 OPC 平台，组建你的专属 AI 团队 - Java & AgentScope 2.0 |  [AgenTeam] Open-source, enterprise-grade OPC (One Person Company) platform for building collaborative AI teams – built on Java & AgentScope 2.0.\n\nАвтор: Stonewuu. Найдено в GitHub Trending (AI-тематика). ⭐ 14 звёзд.",
+    "url": "https://github.com/Stonewuu/agenteam",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "agentscope",
+      "agentscope-java",
+      "ai",
+      "enterprise",
+      "enterprise-ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1411240586",
+    "createdAt": "2026-10-10T12:51:57.375Z"
+  },
+  {
+    "slug": "dudes-github",
+    "title": "dudes",
+    "shortDescription": "Run Claude Code, Codex and Pi agents toward goals the daemon verifies itself. Give each agent a role and a goal with a completion check; Du…",
+    "fullDescription": "Run Claude Code, Codex and Pi agents toward goals the daemon verifies itself. Give each agent a role and a goal with a completion check; Dudes keeps it working until its own run of the check passes. Rust daemon and CLI, with a 3D office view in the browser.\n\nАвтор: ArcfluxResearch. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/ArcfluxResearch/dudes",
+    "category": "developer",
+    "tags": [
+      "agent-orchestration",
+      "ai",
+      "ai-agents",
+      "autonomous-agents",
+      "claude-code",
+      "cli",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1412856631",
+    "createdAt": "2026-10-10T12:51:57.375Z"
+  },
+  {
+    "slug": "openwants-a-simulated-city-where-ai-agents-handle-residents-needs-hn",
+    "title": "OpenWants – A Simulated City Where AI Agents Handle Residents Needs",
+    "shortDescription": "Iv&#x27;e been working on this for a while. Most of the effort went into what i call &quot;sophisticated simplicity&quot;, keep the idea in…",
+    "fullDescription": "Iv&#x27;e been working on this for a while. Most of the effort went into what i call &quot;sophisticated simplicity&quot;, keep the idea in the smallest version that still works. This one is a bit personal. it can feel like some sci-fi thing, but i&#x27;ve been obsessed with it for a very long time. its not a &quot;business&quot; that you used to see here speak about moat or tam, its more like an experiment, a way of me to take one question seriously and see where it leads and if there are others like me out there. AI models are on a path to keep getting better and better, personal ai agents are spreading fast, and we&#x27;re starting to see &quot;ghost&quot; agents that handle the things for people they don&#x27;t want to do themselves. the question i keep coming back to is this: if every one of us has a powerful brain in our pocket, do we still need all the infrastructure we built to connect people&#x27;s needs? im talking about those services like uber,airbnb,indeed,doordash,tinder,zillow,amazon and many more. or would agents just need one shared place to find each other, and that&#x27;s it? So i built a simulated city to explore that. it has AI residents that live there with stats like hunger, energy, and money. each resident has its own ai agent, and it has one shared list where agents write down what everyone wants and then work on our behalf to make it happen. that could mean delivering food, giving rides, or finding jobs, relationships, apartments, customers and almost anything else. honestly, the city works much better than I expected, and you can watch some surprisingly advanced interactions unfold between people and agents through the list on the right side. all the conversations and actions are real, everything happens with each person managed by llm with minimal context, just to live like us and context of stats. A simple example: A restaurant tells its agent, find me customers so the agent writes to the list, &quot;Salina restaurant in SF, selling burgers from 8:00 to 10:00, i want customers&quot; A delivery guy tells his agent when he wakes up, &quot;I want to work in delivery now. find me jobs. status: free&quot; A person at home tells their agent &quot;i want to eat burger. order for me from salina&quot; the person&#x27;s agent acts as the middleman and searches the list for salina, it finds their item and sees the way to connect with them and contact. the person&#x27;s agent and the restaurant agent close the deal, and then the restaurant agent looks for available delivery guys in the list and speaks with his agent to come pick it up. Another thing i checked is with my friends: we took 3 agents, one for each one, and gave them different sophisticated scenarios, and the agents handled the scenarios in a way i couldn&#x27;t have imagined. you can try it by yourself, the product is fully functioning, and you can just copy-paste the skill and test it also with your friends. That&#x27;s it, you can see it in the simulated city it happens like magic over and over again. the list of the city is in the simulator itself and also using my real product behind it openwants.com the repo is in https:&#x2F;&#x2F;github.com&#x2F;openwants&#x2F;maplehill -- technically, it&#x27;s surprisingly simple. every agent publishes an md file describing a &quot;want&quot;. other agents find it, message each other, and update the file live or remove it from the list. the file holds everything needed, all in free text: what&#x27;s wanted, the live location, geofence for where its needed. all those algorithms built over years to connect us are no longer needed. ai, instead of software with rules, can figure out the best route and path on the spot. all we need is to align all agents to one shared data source, so billions of agents will update it and maintain it in the most sophisticated smart way no algorithm will ever be able to do. that’s it. i hope it inspires you as much as it inspires me\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://maplehill.openwants.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50032374",
+    "createdAt": "2026-10-10T12:51:57.222Z"
+  },
+  {
+    "slug": "sqlflow-durable-workflows-backed-by-postgresql-or-sql-server-hn",
+    "title": "SqlFlow – Durable Workflows Backed by PostgreSQL or SQL Server",
+    "shortDescription": "Hey HN! I have built SqlFlow, which is an open-source durable workflow engine backed by PostgreSQL or SQL Server, with SDKs for .NET, Java,…",
+    "fullDescription": "Hey HN! I have built SqlFlow, which is an open-source durable workflow engine backed by PostgreSQL or SQL Server, with SDKs for .NET, Java, Python, and Go. Workflows support retries, checkpoints, rate limitng, scheduling, and suspension while waiting for events. It took a large deal of inspiration from Absurd, but it expands on the core concepts. Instead of polling the database, it supports native database features such as PostgreSQL LISTEN &#x2F; NOTIFY, SQL Server Service Broke, and you could also use NATS. The durable state always remains in your SQL database. Each SDK comes with a complete example, that models an AI Agent Workflow: - https:&#x2F;&#x2F;github.com&#x2F;bytefish&#x2F;SqlFlow&#x2F;tree&#x2F;main&#x2F;sdks I would love to hear your feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/bytefish/SqlFlow",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50031583",
+    "createdAt": "2026-10-10T12:51:57.222Z"
+  },
+  {
+    "slug": "open-components-ui-components-standard-for-people-devs-and-ai-agents-hn",
+    "title": "Open Components – UI Components standard for people, devs and AI agents",
+    "shortDescription": "Hello awesome people, I&#x27;ve been thinking a lot lately about how I can make my knowledge and craft more valuable in the times we live i…",
+    "fullDescription": "Hello awesome people, I&#x27;ve been thinking a lot lately about how I can make my knowledge and craft more valuable in the times we live in. I&#x27;ve been building UI libraries for the past 10 years, and I&#x27;ve been on a quest to perfect the components that I build. I want to share my knowledge with you. Like most of you, probably, I&#x27;ve been using a lot of AI in my craft, and I feel most of the time the code is just good enough, but never at the level of quality that I strive for or that I would reach if I wrote it by hand. That needs to change, and I want it to change for everyone else, too. That&#x27;s how the Open Components initiative was born. Each component gets a single page that walks through four directions: User Interface, User Experience, Developer Experience, and Agentic Experience, and ends with a checklist. Every rule in it has an ID like `button&#x2F;keep-focus`, a level and a way to check it, so you or your agents can cite it in a code review. Every page is also published as markdown, and provides the contract as a YAML file, containing every rule in about an eighth of the page’s length. It’s still early. Right now there are only the Button and Input components and a page on how to name your design tokens. Each component comes with a reference implementation that meets every rule, along with its tests. Reference implementation is in Vue for now, since that’s my daily driver, but the documentation comes with code examples from multiple UI frameworks. More components will follow, with the same structure. It isn’t a component library, so there’s nothing to install. It’s a set of rules you can hold your own components to, whichever library or framework you use. I’d love your feedback and contribution. Tell me what you think of the rules, what I’ve missed, and which component you’d like to see next. Thanks for reading! Site: https:&#x2F;&#x2F;opencomponents.dev Button: https:&#x2F;&#x2F;opencomponents.dev&#x2F;docs&#x2F;components&#x2F;button GitHub: https:&#x2F;&#x2F;github.com&#x2F;uxfront-com&#x2F;open-components\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://opencomponents.dev/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50030849",
+    "createdAt": "2026-10-10T12:51:57.223Z"
+  },
+  {
+    "slug": "chrome-relay-background-tabs-in-your-real-chrome-for-coding-agents-hn",
+    "title": "Chrome Relay – background tabs in your real Chrome for coding agents",
+    "shortDescription": "Проект «Chrome Relay – background tabs in your real Chrome for coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Chrome Relay – background tabs in your real Chrome for coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://github.com/aindeev/agent-chrome-relay",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50030811",
+    "createdAt": "2026-10-10T12:51:57.223Z"
+  },
+  {
+    "slug": "check-how-readable-your-docs-are-to-ai-agents-hn",
+    "title": "Check how readable your docs are to AI agents",
+    "shortDescription": "Hi HN, I&#x27;m Aravind. We build Velu, a docs platform. Coding agents increasingly read docs before humans do, but most docs sites are har…",
+    "fullDescription": "Hi HN, I&#x27;m Aravind. We build Velu, a docs platform. Coding agents increasingly read docs before humans do, but most docs sites are hard for them: client-rendered pages, no llms.txt, no markdown versions, soft 404s, pages too big for a context window. This tool scores any docs URL against the open Agent-Friendly Documentation Spec (agentdocsspec.com), using its reference implementation, afdocs.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.veludocs.com/agent-friendly-documentation/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50030369",
+    "createdAt": "2026-10-10T12:51:57.223Z"
+  },
+  {
+    "slug": "kenerate-one-workspace-for-ai-image-video-and-music-models-hn",
+    "title": "Kenerate – One workspace for AI image, video and music models",
+    "shortDescription": "Проект «Kenerate – One workspace for AI image, video and music models», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Kenerate – One workspace for AI image, video and music models», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://kenerateai.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50030134",
+    "createdAt": "2026-10-10T12:51:57.223Z"
+  },
+  {
     "slug": "sunyuchen-alan-interview-github",
     "title": "sunyuchen-alan-interview",
     "shortDescription": "邵艾伦 Alan 访谈孙宇晨 4 小时 22 分全文逐字稿：约 7.5 万字，带时间戳，按话题切成 16 章，Markdown 可搜索可喂 AI",
