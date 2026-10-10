@@ -1,5 +1,127 @@
 [
   {
+    "slug": "citydiff-github",
+    "title": "citydiff",
+    "shortDescription": "Higher order diff tool that helps humans to control architecture and agents to generate interactive tours over their changes.",
+    "fullDescription": "Higher order diff tool that helps humans to control architecture and agents to generate interactive tours over their changes.\n\nАвтор: naqerl. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/naqerl/citydiff",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "diff",
+      "sick",
+      "threejs",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1412032748",
+    "createdAt": "2026-10-10T21:08:00.817Z"
+  },
+  {
+    "slug": "mss-boot-admin-github",
+    "title": "mss-boot-admin",
+    "shortDescription": "Governance-first Go admin backend with RBAC, API registry, configuration, i18n, operations, and AI-assisted OSS maintenance.",
+    "fullDescription": "Governance-first Go admin backend with RBAC, API registry, configuration, i18n, operations, and AI-assisted OSS maintenance.\n\nАвтор: mss-boot-sys. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "docs.mss-boot-io.top Topics",
+    "category": "developer",
+    "tags": [
+      "admin",
+      "admin-dashboard",
+      "ai",
+      "go",
+      "go-admin",
+      "mss-boot",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1410394750",
+    "createdAt": "2026-10-10T21:08:00.817Z"
+  },
+  {
+    "slug": "prx-automated-pr-reviews-in-macos-menu-bar-hn",
+    "title": "prx – Automated PR Reviews in macOS Menu Bar",
+    "shortDescription": "Hello, I fed with the AI Generated PRs so I built this PR Manager to help me review the PRs using Coding Agents. It sits on menu bar on mac…",
+    "fullDescription": "Hello, I fed with the AI Generated PRs so I built this PR Manager to help me review the PRs using Coding Agents. It sits on menu bar on macOS and has various lifecycle actions of PRs. feedbacks are welcome. Github Repo: https:&#x2F;&#x2F;github.com&#x2F;vs4vijay&#x2F;prx\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/vs4vijay/prx",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50036814",
+    "createdAt": "2026-10-10T21:08:00.713Z"
+  },
+  {
+    "slug": "tutor-a-self-hosted-llm-tutor-that-teaches-you-your-books-or-docs-hn",
+    "title": "Tutor, a self-hosted LLM tutor that teaches you your books or docs",
+    "shortDescription": "Reading does not always guarantee retention, especially for complex materials. So I created this tool that extracts the concepts and teache…",
+    "fullDescription": "Reading does not always guarantee retention, especially for complex materials. So I created this tool that extracts the concepts and teaches them back to you (and then tests you as much as you need) so you can really learn the study material. This is a local project (hosted option coming soon) and it works for EPUB, PDF books or online HTML pages. AI API key needed (Luna or Haiku makes this efficient and very cheap).\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/demetrius-edelin/tutor",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50036777",
+    "createdAt": "2026-10-10T21:08:00.713Z"
+  },
+  {
+    "slug": "eval-skills-for-automatic-agent-improvement-hn",
+    "title": "Eval-skills for automatic agent improvement",
+    "shortDescription": "Проект «Eval-skills for automatic agent improvement», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Eval-skills for automatic agent improvement», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/confident-ai/eval-skills",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50035864",
+    "createdAt": "2026-10-10T21:08:00.713Z"
+  },
+  {
+    "slug": "flopper-is-a-hardware-explorer-for-ai-infrastructure-and-beyond-hn",
+    "title": "Flopper is a hardware explorer for AI infrastructure and beyond",
+    "shortDescription": "Hello! I built Flopper to make it easier to compare GPUs and understand the tradeoffs for workloads for AI and beyond. When researching GPU…",
+    "fullDescription": "Hello! I built Flopper to make it easier to compare GPUs and understand the tradeoffs for workloads for AI and beyond. When researching GPUs from say Nvidia, AMD, and Huawei, I kept running into the same problem: specs were scattered across datasheets, and matching them to available configurations, vendors, and prices was cumbersome and a bit weird and frankly annoyingggg! AMD made me make an account :( So I started a place to bring that information together. Flopper lets you compare GPU specs, including TDP and compute throughput in terms of flops&#x2F;tops, alongside estimates for AI workloads or other compute workloads (say, ~FP32 based) I recently added pricing data from dozens of providers to help track how prices change over time. Getting reliable quotes for systems like the NVL72 is still particularly difficult tbh, not sure how I can tell you how much that costs easily due to them being behind large procurement contracts and big multi-nationals. One thing that&#x27;s become fairlyyyy clear is the interest in consumer cards and local LLMs. The bigger challenge is connecting advertised specs to real-world performance. In our testing so far, I’ve seen roughly 85% of advertised throughput, but that’s a ballpark observation for the workloads I’ve tested, not a general rule and so variable (power, cooling, workload etc). I&#x27;m considering a CLI that lets people run benchmarks and submit results, potentially using MLPerf as an automation? That way, we can all compare quoted performance with the workload, configuration etc. I&#x27;d love feedback: what information is missing, how can I improve it? And what would you need to see to trust a community-submitted benchmark? Corrections and additions also very welcome - some of the measurements are best efforts (and simple multiplications) but I hope it&#x27;s of some use. Thanks for looking :)\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://flopper.io/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50035826",
+    "createdAt": "2026-10-10T21:08:00.713Z"
+  },
+  {
+    "slug": "a-functioning-celery-man-computer-hn",
+    "title": "A functioning Celery Man computer",
+    "shortDescription": "Hi HN! It dawned on me that the latest AI models (Minimax H3 Max &#x2F; Audio, GPT-6 Luna) can finally recreate the computer from the class…",
+    "fullDescription": "Hi HN! It dawned on me that the latest AI models (Minimax H3 Max &#x2F; Audio, GPT-6 Luna) can finally recreate the computer from the classic Tim &amp; Eric Celery Man sketch. I spent a few days creating it: it has 100% parity with the original script, plus anything you ask for (doggy woof woof man or potato boy). Happy to answer any questions about the pipeline!\n\nНайдено в разделе Show HN на Hacker News. 👍 8 баллов.",
+    "url": "https://celeryman.fun/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50035527",
+    "createdAt": "2026-10-10T21:08:00.713Z"
+  },
+  {
     "slug": "lora-over-gguf-train-qwen38-flash-next-in-40g-vram-hn",
     "title": "LoRA over GGUF – Train Qwen3.8-Flash-Next in 40G VRAM",
     "shortDescription": "Open weight AI is like open source software. Users not only run the weights, but also modify the weights. It matters to develop training fr…",
