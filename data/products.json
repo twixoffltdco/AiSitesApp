@@ -1,5 +1,117 @@
 [
   {
+    "slug": "lora-over-gguf-train-qwen38-flash-next-in-40g-vram-hn",
+    "title": "LoRA over GGUF – Train Qwen3.8-Flash-Next in 40G VRAM",
+    "shortDescription": "Open weight AI is like open source software. Users not only run the weights, but also modify the weights. It matters to develop training fr…",
+    "fullDescription": "Open weight AI is like open source software. Users not only run the weights, but also modify the weights. It matters to develop training framework for local hardware. The method to train large AI models on local hardware is generally called QLoRA (Low Rank Adaptation over Quantized base model). In the last few years it&#x27;s usually done with HuggingFace Transformers (which is the basis of training frameworks such as Unsloth and Axolotl) and bnb 4-bit base model. However, bnb does not yet support MoE models, so the local training of recent MoE models seemed stall for some time. Since Transformers 5.18, it&#x27;s started to support GGUF, and it supports recent models with MoE and sparse attentions (and it&#x27;s not slow, already faster than llama.cpp on Mac). GGUF is a versatile container format. It can be smaller than 4 bpw with surprisingly good quantization quality, so there are new possibilities for local training. I&#x27;ve shown that we can train Qwen3.8-Flash-Next (125B-A6B + 51B engram) in 40 GiB VRAM without CPU offload. I&#x27;ve optimized it on Strix Halo and it trains at 200 token&#x2F;s. There is still room to optimize, compared to &gt; 1600 token&#x2F;s prompt processing we&#x27;ve achieved, and the common sense that LoRA training (with gradient checkpointing) takes 4-5x work of prompt processing. CPU&#x2F;disk offload (like Strata) and multi-GPU also need more work that I&#x27;m not currently focusing on. On Strix Halo we can also train DeepSeek-V4-Flash (284B-A13B) in 90 GiB VRAM at 100 token&#x2F;s, but I think it&#x27;s less practical than Qwen3.8FN for local use.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/woct0rdho/transformers5-qwen3.5-recipe",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50034625",
+    "createdAt": "2026-10-10T17:38:09.226Z"
+  },
+  {
+    "slug": "i-asked-10k-people-to-describe-ai-in-1-word-hn",
+    "title": "I asked 10k people to describe AI in 1 word",
+    "shortDescription": "Проект «I asked 10k people to describe AI in 1 word», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I asked 10k people to describe AI in 1 word», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://crowdle.gg/ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50034454",
+    "createdAt": "2026-10-10T17:38:09.227Z"
+  },
+  {
+    "slug": "health-explorer-see-how-genes-shape-health-from-dna-to-treatment-hn",
+    "title": "Health Explorer – See how genes shape health, from DNA to treatment",
+    "shortDescription": "Проект «Health Explorer – See how genes shape health, from DNA to treatment», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Health Explorer – See how genes shape health, from DNA to treatment», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://health-explorer.askcyph.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50034052",
+    "createdAt": "2026-10-10T17:38:09.227Z"
+  },
+  {
+    "slug": "peer-to-peer-instant-messaging-with-proof-of-work-spam-protection-hn",
+    "title": "Peer-to-peer instant messaging with proof-of-work spam protection",
+    "shortDescription": "Bitmessage.org still doesn&#x27;t support Python 3 and over the years I&#x27;ve tried several times to create something similar but each ti…",
+    "fullDescription": "Bitmessage.org still doesn&#x27;t support Python 3 and over the years I&#x27;ve tried several times to create something similar but each time have run up against unclear&#x2F;incomplete&#x2F;missing documentation in Python&#x2F;Rust&#x2F;flask&#x2F;tokio&#x2F;asyncio&#x2F;etc. Finally decided to give ChatGPT a real try and with tutoring based on minimal examples managed to have something usable in about a day. Most &quot;difficult&quot; part was having two instances of flask&#x2F;quart running simultaneously while also having other stuff happen periodically in background. Novel thing in p2pIM compared to Bitmessage is that messages&#x27; PoW decays and that larger messages require better PoW than smaller ones. Thus small messages that are discarded quickly require significantly less PoW than large messages that persist for a long time. p2pIM doesn&#x27;t support encryption but that should be straightforward to build on top. Message_v0 class in https:&#x2F;&#x2F;github.com&#x2F;iljah&#x2F;p2pIM&#x2F;blob&#x2F;main&#x2F;messages.py defines low level details such as PoW, how many bytes to use for nonce, checksum, etc. Currently they&#x27;re all only about 10 bytes or hex characters for easier debugging and testing. PoW is calculated as sha256 of timestamp+nonce+checksum, where checksum is sha256 of payload. Adding channel name as fourth item to PoW is on the https:&#x2F;&#x2F;github.com&#x2F;iljah&#x2F;p2pIM&#x2F;blob&#x2F;main&#x2F;TODO list. server1.py mentioned at end of README is my previous attempt at this (without AI help) and the one before that is probably https:&#x2F;&#x2F;github.com&#x2F;iljah&#x2F;a2amd in Rust.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/iljah/p2pIM",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50033558",
+    "createdAt": "2026-10-10T17:38:09.227Z"
+  },
+  {
+    "slug": "tessary-find-the-ai-agent-failures-your-sampled-evals-miss-hn",
+    "title": "Tessary – Find the AI agent failures your sampled evals miss",
+    "shortDescription": "Hey, I&#x27;m Akhil, co-founder of Tessary. An open-source agent reliability platform that monitors every production trace, detects issues…",
+    "fullDescription": "Hey, I&#x27;m Akhil, co-founder of Tessary. An open-source agent reliability platform that monitors every production trace, detects issues that sampled evals miss, and investigates to find the root cause. We started up about a year ago building synthetic users for usability testing of B2B software, we built the agents that would personify real users and use the software but, we were never able to make them work reliably enough for long running sessions. We had built a massive eval set to tune our agents but, then the evaluation itself got prohibitively costly - like 5x costlier than actually running the agent since we needed to grade across the many narrow intents of our agent. That&#x27;s where Tessary originated, we wanted to make agent reliability both cover more ground and be simultaneously less costly to run. Tessary works on 2 layers. L1 classifiers - which look at every agent trace and flag potentially erroneous ones extremely cheaply. We are talking 2-3 orders of magnitude cheaper than running the actual agent. L2 agents - which triage and find the root cause of the issue from the erroneous traces. These are run on SOTA models but, because we run them on already flagged traces, the time and $ spent finding the cause is much cheaper than running grading on even 1% of traces. In our testing on complex agents, at 1M traces, this approach was 5x cheaper than sampled evaluations and as your agent gets more reliable, the cost of reliability also goes down. we are open source and can be self-hosted so, you don&#x27;t need to send your traces to us. We support existing `gen_ai` spec and ingestion over OTLP so, you can add this as a new exporter to your existing setup. We have a cloud version, you can quickly try the features with a $10 credit. We are looking to build more classifiers and enable people to build custom classifiers for their needs and would love to hear feedback on common failure modes people have built solutions or evaluation for Repo: https:&#x2F;&#x2F;github.com&#x2F;tessaryai&#x2F;tessary Website: https:&#x2F;&#x2F;tessary.ai Try for free: https:&#x2F;&#x2F;app.tessary.ai\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/tessaryai/tessary",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50033189",
+    "createdAt": "2026-10-10T17:38:09.227Z"
+  },
+  {
+    "slug": "shipornah-free-security-scan-for-ai-generated-apps-hn",
+    "title": "ShipOrNah – Free security scan for AI-generated apps",
+    "shortDescription": "Проект «ShipOrNah – Free security scan for AI-generated apps», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ShipOrNah – Free security scan for AI-generated apps», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://shipornah.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50032632",
+    "createdAt": "2026-10-10T17:38:09.227Z"
+  },
+  {
+    "slug": "an-mcp-server-for-searching-ai-engineering-jobs-hn",
+    "title": "An MCP server for searching AI engineering jobs",
+    "shortDescription": "An MCP server for frontierroles.com, a board of about 3,500 AI engineering roles pulled nightly from employers&#x27; own applicant tracking…",
+    "fullDescription": "An MCP server for frontierroles.com, a board of about 3,500 AI engineering roles pulled nightly from employers&#x27; own applicant tracking systems, with tools to search roles. No account or API key needed: https:&#x2F;&#x2F;mcp.frontierroles.com&#x2F;mcp\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://frontierroles.com/mcp/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50032583",
+    "createdAt": "2026-10-10T17:38:09.227Z"
+  },
+  {
     "slug": "agenteam-github",
     "title": "agenteam",
     "shortDescription": "【群策】 - 开源企业级多智能体协作 OPC 平台，组建你的专属 AI 团队 - Java & AgentScope 2.0 |  [AgenTeam] Open-source, enterprise-grade OPC (One Person Company) platfor…",
