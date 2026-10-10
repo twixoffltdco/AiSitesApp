@@ -1,5 +1,168 @@
 [
   {
+    "slug": "cc-split-diff-view-github",
+    "title": "cc-split-diff-view",
+    "shortDescription": "Claude Code mod that draws Edit and Write diffs in two side-by-side columns",
+    "fullDescription": "Claude Code mod that draws Edit and Write diffs in two side-by-side columns\n\nАвтор: neteye-platform. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/neteye-platform/cc-split-diff-view",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude",
+      "claude-code",
+      "claude-code-hooks",
+      "claude-code-mods",
+      "claude-code-plugin",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1410527130",
+    "createdAt": "2026-10-10T00:12:30.489Z"
+  },
+  {
+    "slug": "local-ai-stack-github",
+    "title": "local-ai-stack",
+    "shortDescription": "Run your own private, production-grade local AI stack with one command. Features Ollama, Open WebUI, vector DB, and an OpenAI-compatible AP…",
+    "fullDescription": "Run your own private, production-grade local AI stack with one command. Features Ollama, Open WebUI, vector DB, and an OpenAI-compatible API gateway. 100% local, zero data leakage.\n\nАвтор: rasidi3112. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/rasidi3112/local-ai-stack",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "devtools",
+      "docker",
+      "llm",
+      "localai",
+      "ollama",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1411002050",
+    "createdAt": "2026-10-10T00:12:30.489Z"
+  },
+  {
+    "slug": "einfache-sprache-github",
+    "title": "einfache-sprache",
+    "shortDescription": "AI skill für Einfache Sprache nach DIN 8581-1",
+    "fullDescription": "AI skill für Einfache Sprache nach DIN 8581-1\n\nАвтор: codingjoe. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/codingjoe/einfache-sprache",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "skill",
+      "skill-md",
+      "skills",
+      "skills-sh",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1410460613",
+    "createdAt": "2026-10-10T00:12:30.489Z"
+  },
+  {
+    "slug": "attention-span-github",
+    "title": "attention-span",
+    "shortDescription": "Daily AI news, fact-checked and traced back to its roots. A source-checked history of AI since 1943, a glossary with lineage, and the labs…",
+    "fullDescription": "Daily AI news, fact-checked and traced back to its roots. A source-checked history of AI since 1943, a glossary with lineage, and the labs and people behind it. Open data, built nightly on free Gemini and Groq tiers.\n\nАвтор: shashikantdev3. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/shashikantdev3/attention-span",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-history",
+      "ai-news",
+      "artificial-intelligence",
+      "gemini",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1410580707",
+    "createdAt": "2026-10-10T00:12:30.489Z"
+  },
+  {
+    "slug": "ui-design-github",
+    "title": "UI-Design",
+    "shortDescription": "UI design system knowledge base: design tokens (W3C DTCG), art direction, motion design (anime.js, GSAP, Lenis, CSS scroll-driven animation…",
+    "fullDescription": "UI design system knowledge base: design tokens (W3C DTCG), art direction, motion design (anime.js, GSAP, Lenis, CSS scroll-driven animations), accessibility, and AI design prompts + LLM instructions that prevent generic AI-generated UI.\n\nАвтор: alisattorov06. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/alisattorov06/UI-Design",
+    "category": "design",
+    "tags": [
+      "accessibility",
+      "ai",
+      "animation",
+      "animejs",
+      "css",
+      "design-system",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1411703982",
+    "createdAt": "2026-10-10T00:12:30.489Z"
+  },
+  {
+    "slug": "local-langchain-voice-assistant-github",
+    "title": "Local-Langchain-Voice-Assistant",
+    "shortDescription": "A local LLM voice assistant that can listen, speak, and search on the web. Made with Ollama and Langchain",
+    "fullDescription": "A local LLM voice assistant that can listen, speak, and search on the web. Made with Ollama and Langchain\n\nАвтор: Hue-Jhan. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/Hue-Jhan/Local-Langchain-Voice-Assistant",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-assistants",
+      "langchain",
+      "langchain-python",
+      "llm",
+      "local-first",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1411675634",
+    "createdAt": "2026-10-10T00:12:30.489Z"
+  },
+  {
+    "slug": "see-how-your-competitors-get-customers-with-ai-hn",
+    "title": "See How Your Competitors Get Customers with AI",
+    "shortDescription": "Проект «See How Your Competitors Get Customers with AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «See How Your Competitors Get Customers with AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://findwinningfunnels.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50027493",
+    "createdAt": "2026-10-10T00:12:30.445Z"
+  },
+  {
+    "slug": "memdebug-see-what-changed-in-your-ai-agents-memory-and-undo-it-hn",
+    "title": "Memdebug – See what changed in your AI agent's memory, and undo it",
+    "shortDescription": "Проект «Memdebug – See what changed in your AI agent's memory, and undo it», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Memdebug – See what changed in your AI agent's memory, and undo it», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/juraj-jumic/memdebug",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50026431",
+    "createdAt": "2026-10-10T00:12:30.445Z"
+  },
+  {
     "slug": "lacuna-open-source-inline-ai-writing-suggestions-for-your-mac-hn",
     "title": "Lacuna – open-source inline AI writing suggestions for your Mac",
     "shortDescription": "This past week I built (prompted) a tool I find myself using day to day and wanted to share it with others who may find it useful as well.…",
