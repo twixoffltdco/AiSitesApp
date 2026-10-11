@@ -1,5 +1,201 @@
 [
   {
+    "slug": "troetochie-github",
+    "title": "troetochie",
+    "shortDescription": "Автоподсказки ответа в любом чате: курсор в пустое поле — серый ответ — Tab. macOS и Windows",
+    "fullDescription": "Автоподсказки ответа в любом чате: курсор в пустое поле — серый ответ — Tab. macOS и Windows\n\nАвтор: troetochie-online. Найдено в GitHub Trending (AI-тематика). ⭐ 12 звёзд.",
+    "url": "https://troetochie.online",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "autocomplete",
+      "macos",
+      "productivity",
+      "tauri",
+      "telegram",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1413527356",
+    "createdAt": "2026-10-11T00:19:45.921Z"
+  },
+  {
+    "slug": "pmai-github",
+    "title": "pmai",
+    "shortDescription": "Intelligent Agroecological Monitoring Platform (PMAI)",
+    "fullDescription": "Intelligent Agroecological Monitoring Platform (PMAI)\n\nАвтор: appjava. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://pmai-saas.web.app/",
+    "category": "developer",
+    "tags": [
+      "agroecological-zones",
+      "ai",
+      "fastapi",
+      "iot",
+      "postgresql",
+      "qwen",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1412830514",
+    "createdAt": "2026-10-11T00:19:45.921Z"
+  },
+  {
+    "slug": "askthis-github",
+    "title": "askthis",
+    "shortDescription": "选中，问它。Select it. Ask it. — 划词即问的轻量 AI 速查工具（macOS/Windows/Linux）。A lightweight quick-look lens: select text anywhere, press a shortcut, get…",
+    "fullDescription": "选中，问它。Select it. Ask it. — 划词即问的轻量 AI 速查工具（macOS/Windows/Linux）。A lightweight quick-look lens: select text anywhere, press a shortcut, get instant AI answers.\n\nАвтор: 537Lab. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/537Lab/askthis",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "electron",
+      "linux",
+      "macos",
+      "productivity",
+      "quick-look",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1412361379",
+    "createdAt": "2026-10-11T00:19:45.921Z"
+  },
+  {
+    "slug": "alan-shao-justin-sun-ai-interview-github",
+    "title": "alan-shao-justin-sun-ai-interview",
+    "shortDescription": "邵艾伦Alan对话孙宇晨：年轻人如何抓住 AI 时代的机会？｜两版逐字稿、PDF、15个核心观点与配套指南",
+    "fullDescription": "邵艾伦Alan对话孙宇晨：年轻人如何抓住 AI 时代的机会？｜两版逐字稿、PDF、15个核心观点与配套指南\n\nАвтор: Baymaxxx. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/Baymaxxx/alan-shao-justin-sun-ai-interview",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "alan-shao",
+      "chinese",
+      "interview",
+      "justin-sun",
+      "transcript",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1411590233",
+    "createdAt": "2026-10-11T00:19:45.921Z"
+  },
+  {
+    "slug": "noskip-github",
+    "title": "noskip",
+    "shortDescription": "noskip: anti-cheat for AI coding agents. Catches Claude Code, Codex, Cursor & Gemini when they skip, weaken or delete tests to make them pa…",
+    "fullDescription": "noskip: anti-cheat for AI coding agents. Catches Claude Code, Codex, Cursor & Gemini when they skip, weaken or delete tests to make them pass.\n\nАвтор: DariusHQ. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://www.npmjs.com/package/noskip",
+    "category": "developer",
+    "tags": [
+      "agentic-coding",
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "code-review",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1412471674",
+    "createdAt": "2026-10-11T00:19:45.921Z"
+  },
+  {
+    "slug": "ai-ad-creative-workbench-github",
+    "title": "ai-ad-creative-workbench",
+    "shortDescription": "面向广告创意、分镜与视频制作的 AI 工作台",
+    "fullDescription": "面向广告创意、分镜与视频制作的 AI 工作台\n\nАвтор: maipeici. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/maipeici/ai-ad-creative-workbench",
+    "category": "productivity",
+    "tags": [
+      "ad-creative",
+      "advertising",
+      "ai",
+      "creative-automation",
+      "generative-ai",
+      "nodejs",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1413431313",
+    "createdAt": "2026-10-11T00:19:45.921Z"
+  },
+  {
+    "slug": "aporium-a-umap-galaxy-of-5800-philosophy-excerpts-in-conversation-hn",
+    "title": "Aporium – A UMAP galaxy of 5800 philosophy excerpts in conversation",
+    "shortDescription": "The Starfield is Aporium’s 3d topic explorer made using the embeddings of 5800 philosophy excerpts styled to resemble a navigable galaxy. I…",
+    "fullDescription": "The Starfield is Aporium’s 3d topic explorer made using the embeddings of 5800 philosophy excerpts styled to resemble a navigable galaxy. It utilizes UMAP for excerpt-placement and extracted excerpt metadata for thematic region labeling. Scroll adjusts zoom, right click pans, and left click orbits. Aporium is my solo effort to bring the wisdom of the great works of philosophy into a format that balances depth of analysis, ease of reading, and multi-author perspective. I started this project 8 months ago to reduce my social media screen time, hoping to replace it with something addictive yet enriching. By extracting short yet meaningful 2-8 sentence excerpts from public-domain works and generating their embeddings, I created a pipeline utilizing cosine similarity and AI judging to form synthetic conversation ‘threads’ of dialogue using the real writings of philosophers. Not AI-generated ‘what would this author have said on X topic’; their real words. A byproduct of these embeddings is the ability to create structured, explorable 3d maps with distinct regions of thought. This went on to become the Starfield linked above. Here are a few representative examples of near-conversational sounding threads. Francis Bacon on anger, Cicero in disagreement: https:&#x2F;&#x2F;www.aporium.app&#x2F;thread&#x2F;ex_248310dbc3aff2ceb529d093 Emerson on self-reliance, Marcus Aurelius in opposition: https:&#x2F;&#x2F;www.aporium.app&#x2F;thread&#x2F;ex_57ea1e2ac8cc9b6f493f57c1 Montaigne on lying, Nietzsche disagreeing: https:&#x2F;&#x2F;www.aporium.app&#x2F;thread&#x2F;ex_6d7c367d5530d3b3e0fa34b2 Thoreau on vanity, Pascal shifting emphasis: https:&#x2F;&#x2F;www.aporium.app&#x2F;thread&#x2F;ex_6b6f8b13fcfc0e50cbab1af0 My goal is to extract and link together in conversation the most impactful ideas and excerpts from humanity’s greatest works, creating separate corpora for poetry, theology, psychology, history, and more. Any feedback is much appreciated.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.aporium.app/explore",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50038215",
+    "createdAt": "2026-10-11T00:19:45.840Z"
+  },
+  {
+    "slug": "manimgx-manims-api-on-a-rustwgpu-engine-for-3d-videos-in-python-hn",
+    "title": "ManimGX – Manim's API on a Rust/wgpu engine, for 3D videos in Python",
+    "shortDescription": "Video as code took off with the Opus 5.5 release. People now make videos by writing code, with Remotion, HyperFrames and others. We wanted…",
+    "fullDescription": "Video as code took off with the Opus 5.5 release. People now make videos by writing code, with Remotion, HyperFrames and others. We wanted the same for 3D videos. You can use something like Blender, but it&#x27;s heavy to install and slow to render. So we made ManimGX: - Lightweight: a 65–110 MB download, depending on the OS - Easy to install: pip install manimgx (Python 3.13+), with no system dependencies - Cross-platform: macOS, Windows and Linux, and even the browser via Pyodide and WebGPU - Blazingly fast: a Rust + wgpu engine, 90.6× faster than Manim CE and 18.7× faster than Blender Workbench, from launch to finished MP4 - Compatible with Manim Community Edition&#x27;s API, with LaTeX and Typst math built in Now it&#x27;s much easier for anyone with a coding agent to make 3D computer graphics videos. Repo: https:&#x2F;&#x2F;github.com&#x2F;academa-labs&#x2F;manimgx Docs: https:&#x2F;&#x2F;manimgx.academa.ai X post: https:&#x2F;&#x2F;x.com&#x2F;sinaatalay&#x2F;status&#x2F;2109045945149395421 Happy to answer any questions!\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/academa-labs/manimgx",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50037852",
+    "createdAt": "2026-10-11T00:19:45.840Z"
+  },
+  {
+    "slug": "i-built-a-macos-screensaver-that-reacts-to-ai-coding-agents-hn",
+    "title": "I built a macOS screensaver that reacts to AI coding agents",
+    "shortDescription": "Проект «I built a macOS screensaver that reacts to AI coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built a macOS screensaver that reacts to AI coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.ascendaflow.com/waterline",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50037448",
+    "createdAt": "2026-10-11T00:19:45.840Z"
+  },
+  {
+    "slug": "try-free-long-term-memory-for-ai-50m-token-window-hn",
+    "title": "Try Free Long-Term Memory for AI 50M-Token Window",
+    "shortDescription": "Проект «Try Free Long-Term Memory for AI 50M-Token Window», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Try Free Long-Term Memory for AI 50M-Token Window», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/corbenicai/galahad",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50037428",
+    "createdAt": "2026-10-11T00:19:45.841Z"
+  },
+  {
     "slug": "citydiff-github",
     "title": "citydiff",
     "shortDescription": "Higher order diff tool that helps humans to control architecture and agents to generate interactive tours over their changes.",
