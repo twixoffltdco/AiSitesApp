@@ -1,5 +1,89 @@
 [
   {
+    "slug": "filedig-github",
+    "title": "filedig",
+    "shortDescription": "Find your files by what's in them. Local AI search for docs, PDFs and photos on Windows",
+    "fullDescription": "Find your files by what's in them. Local AI search for docs, PDFs and photos on Windows\n\nАвтор: rupeshs. Найдено в GitHub Trending (AI-тематика). ⭐ 12 звёзд.",
+    "url": "https://github.com/rupeshs/filedig",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "rust",
+      "search",
+      "windows",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1414488993",
+    "createdAt": "2026-10-11T22:15:54.452Z"
+  },
+  {
+    "slug": "tracon-air-traffic-control-for-subagents-hn",
+    "title": "Tracon (air traffic control for subagents)",
+    "shortDescription": "My Claude Code workflow usually involves... a lot of subagents. I make one Opus model coordinate work as my tech lead, it dispatches subage…",
+    "fullDescription": "My Claude Code workflow usually involves... a lot of subagents. I make one Opus model coordinate work as my tech lead, it dispatches subagents using models appropriate for the task into their own git worktrees, and then I try to multitask and do something else while they run. I&#x27;d been finding lately (particularly with Opus 5.5) that there was a ton of drift and instances of subagents not doing anything and it was evading the attention of the TL despite the instructions I gave it to have them report in at a regular cadence. Running tracon in a split terminal is my new personal workflow. It gives me early indicators when things start going off the rails (ex. blocked on a prompt, idle, looping on a failing command, simultaneous edits to files other subagents are editing, drifting off the brief, etc.) and I can interrogate the subagent&#x27;s workflow and by pressing n the main agent gets a note to make a call on how and if to correct it. Read-only and runs on your machine: it tails transcripts in ~&#x2F;.claude&#x2F;projects&#x2F; and checks each worktree with ps, lsof, and git -- only thing that leaves your machine is what the Haiku judge reads for classification (or optionally you can turn that off with --no-judge). I&#x27;ve found it super useful for the game I&#x27;m building and figured others in the community might also find it useful. If you just want to give it a spin without committing: uvx tracon --demo macOS and Linux, Python 3.12+, MIT. (Not affiliated with Anthropic.)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/phalladar/tracon",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50046981",
+    "createdAt": "2026-10-11T22:15:54.447Z"
+  },
+  {
+    "slug": "a-calendar-tracker-for-openais-28-day-codex-reset-challenge-hn",
+    "title": "A calendar tracker for OpenAI's 28-day Codex reset challenge",
+    "shortDescription": "OpenAI recently announced a 28-day reset challenge: each day, either a &quot;clear improvement&quot; or a usage reset. I built this calenda…",
+    "fullDescription": "OpenAI recently announced a 28-day reset challenge: each day, either a &quot;clear improvement&quot; or a usage reset. I built this calendar to track the challenge. It updates throughout the day as updates become available. The site also has every reset since April 2025 backfilled, along with a &quot;percent on time&quot; chart similar to airline flights. This is part of a new project called ResetAlerts, which sends alerts about the latest Codex resets. Open to any thoughts, feedback, or features you want to see.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://resetalerts.com/codex-28-day-challenge",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50046959",
+    "createdAt": "2026-10-11T22:15:54.447Z"
+  },
+  {
+    "slug": "supplyvision-i-made-meta-search-for-independent-fashion-retailers-hn",
+    "title": "SupplyVision – I made meta-search for independent fashion retailers",
+    "shortDescription": "I made a search engine to find fashion deals across hundreds of independent fashion retailers. Fun technical stuff: - It doesn&#x27;t do an…",
+    "fullDescription": "I made a search engine to find fashion deals across hundreds of independent fashion retailers. Fun technical stuff: - It doesn&#x27;t do any webpage parsing to fill the index, instead relying on the UCP protocol. - It uses a complex deterministic engine that merges listings based on very messy and unreliable data from retailers (no, Jev can&#x27;t do that). - It parses shipping rules and compares prices after delivery and duties. - It is built on Hono, Vue, and Inertia, and fits on cheapest hetzner VM (app, merging engine, db). - It has MCP-less AI support, via serving markdown alternatives for every page.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://supplyvision.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50046206",
+    "createdAt": "2026-10-11T22:15:54.447Z"
+  },
+  {
+    "slug": "i-added-optional-chaining-to-cpython-hn",
+    "title": "I added optional chaining to CPython",
+    "shortDescription": "I forked CPython to experiment with adding optional chaining (?.) directly to the language. For example: name = response?.customer?.name.lo…",
+    "fullDescription": "I forked CPython to experiment with adding optional chaining (?.) directly to the language. For example: name = response?.customer?.name.lower() If response or customer is None, the expression short-circuits and evaluates to None. This isn&#x27;t a library or a transpiler change, but a direct CPython modification. A bit about the build: I used AI extensively for this experiment. Part of my motivation was to see how far I can get the modification in an unfamiliar codebase like CPython. A couple of hours in I had a working prototype. I would appreciate feedback from people familiar with CPython internals about the implementation. Source: https:&#x2F;&#x2F;github.com&#x2F;grandimam&#x2F;cpython\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/grandimam/cpython",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50046196",
+    "createdAt": "2026-10-11T22:15:54.447Z"
+  },
+  {
     "slug": "vocafy-listen-to-vocaloid-songs-by-producer-from-the-original-videos-hn",
     "title": "Vocafy – Listen to Vocaloid songs by producer, from the original videos",
     "shortDescription": "I built Vocafy, a music player web app for Vocaloid songs. You pick songs by producer, singer (voicebank), or year, and it plays the origin…",
