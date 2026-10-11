@@ -1,5 +1,181 @@
 [
   {
+    "slug": "vocafy-listen-to-vocaloid-songs-by-producer-from-the-original-videos-hn",
+    "title": "Vocafy – Listen to Vocaloid songs by producer, from the original videos",
+    "shortDescription": "I built Vocafy, a music player web app for Vocaloid songs. You pick songs by producer, singer (voicebank), or year, and it plays the origin…",
+    "fullDescription": "I built Vocafy, a music player web app for Vocaloid songs. You pick songs by producer, singer (voicebank), or year, and it plays the original videos from YouTube and Niconico. Around 2010-2012, at the peak of the Vocaloid boom, I made music videos for a Vocaloid producer. I skipped university for days to edit videos, and it was honestly the most fulfilling time of my life. Lately Vocaloid songs seem to be showing up on YouTube again, so I thought now was the time to give something back. I built it together with Claude Code. In my opinion, Vocaloid is mainly about the songs, not the videos. But there aren&#x27;t many services focused on the songs. YouTube and Niconico are video services. YouTube Music mixes covers and unauthorized reuploads in with the originals, and its search isn&#x27;t great, so it&#x27;s hard to reach the song you want among the huge number of Vocaloid songs. Features: - Browse by voicebank, year, or producer - Favorite songs and producers (sign in with Google to sync across devices) - Continuous play, shuffle, and radio - A picture-in-picture-like mini player - Sleep timer - Both YouTube and Niconico - Add to home screen to use it as an app (Android, iOS, PC) - Theme colors based on Vocaloid characters Because of technical limits, background playback and continuous Niconico playback on iOS Safari are hard to support. As of October 2026 there are about 30,000 songs, 800 producers, and 700 singers, and I add more every week. It&#x27;s completely free. If a song you&#x27;re looking for is missing, let me know. English isn&#x27;t my first language, so I wrote this in Japanese and used AI to translate it.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://vocafy.kkweb.io/en",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50045704",
+    "createdAt": "2026-10-11T18:17:08.028Z"
+  },
+  {
+    "slug": "how-good-is-your-rust-free-quiz-every-code-answer-checked-by-rustc-hn",
+    "title": "How good is your Rust? Free quiz, every code answer checked by rustc",
+    "shortDescription": "I run rustcoach, an AI-guided Rust course. This is the free, no-signup part of it: a 30-question test across core Rust, async&#x2F;Tokio, m…",
+    "fullDescription": "I run rustcoach, an AI-guided Rust course. This is the free, no-signup part of it: a 30-question test across core Rust, async&#x2F;Tokio, macros, concurrency&#x2F;atomics and the type system, plus a 20-question test for each of those areas if you want to dig depper (also free, no registration). At the end you get a level, a per-area breakdown and a suggestion of what to learn next. I don&#x27;t know any other site which allows you to test your Rust knowledge in a comprehensive way like mine but would be great to hear about others and&#x2F;or suggestions to this one. You can take it multiple times and will get a different set of questions either in general rust category or if you are brave enough and know deeper any other popular areas of Rust like macros, async with Tokio etc you can try your luck there. There is over 600 questions in the pool. The general test with 30 questions should take more or less around 10 mintues but of course every one reads code at different speed so the time needed to complete the test may vary - and reading the questions really carefully is very important in this case :) Hope you like it, if so share it, comment and let&#x27;s become better Rust programmers. I have a feeling that with AI doing all the work now, this will be rather diminishing skill in the IT world. The compiler can confirm that a snippet does what the answer says.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://rustcoach.dev/test",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50045507",
+    "createdAt": "2026-10-11T18:17:08.029Z"
+  },
+  {
+    "slug": "mira-ai-walking-tours-hn",
+    "title": "Mira, AI Walking Tours",
+    "shortDescription": "Проект «Mira, AI Walking Tours», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Mira, AI Walking Tours», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 14 баллов.",
+    "url": "https://www.mira.tours/wander",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50045340",
+    "createdAt": "2026-10-11T18:17:08.029Z"
+  },
+  {
+    "slug": "synonymizer-an-experiment-in-non-ai-text-adjustment-hn",
+    "title": "Synonymizer – an experiment in non AI text adjustment",
+    "shortDescription": "Ever since hearing about the interesting key-based algorithmic approach to AI text watermarking (Google SynthID and the one I don&#x27;t kn…",
+    "fullDescription": "Ever since hearing about the interesting key-based algorithmic approach to AI text watermarking (Google SynthID and the one I don&#x27;t know the name of from Anthropic) I was curious about just swapping in synonyms. Built something fun to explore it. I suspect the watermarking from these labs actually goes off more than single-token assessments, and there&#x27;s no public validator I can find to actually assess Synonymizer score against the watermark. But I thought it was fun to play with. Kind of an auto-mad-lib. :D Enjoy poking around with it on your Sunday afternoon\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://synonymizer.fyi/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50045321",
+    "createdAt": "2026-10-11T18:17:08.029Z"
+  },
+  {
+    "slug": "atlas-runa-e2e-ai-enhanced-language-learning-hn",
+    "title": "Atlas Runa – E2E AI-enhanced language learning",
+    "shortDescription": "Hi HN! We&#x27;ve been working hard on Atlas Runa and it&#x27;s time to share it! We built it to target three key complementary aspects of…",
+    "fullDescription": "Hi HN! We&#x27;ve been working hard on Atlas Runa and it&#x27;s time to share it! We built it to target three key complementary aspects of learning a language: 1. Comprehensible input - Atlas Runa learns your lexicon and then tracks it, which lets us find comprehensible input for you. This works well already. You can start reading real texts and get reading volume much earlier than you would ever be able to with textbooks! 2. The attention effect - we track your mistakes and what you forget and make sure to bring it back so you can drill it 3. Good content - we work really hard authoring quality non-slop content at graded levels so learning stays fun. Intrinsic motivation is the best kind of motivation! Please give it a try and let us know what you think!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://atlasruna.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50044874",
+    "createdAt": "2026-10-11T18:17:08.029Z"
+  },
+  {
+    "slug": "timurs-chess-a-14th-century-chess-variant-with-giraffes-hn",
+    "title": "Timur's Chess – A 14th century chess variant with giraffes",
+    "shortDescription": "My weekend vibecoding project was to attempt to resurrect a 14th century chess variant favored by the Central Asian warlord Timur (Tamerlan…",
+    "fullDescription": "My weekend vibecoding project was to attempt to resurrect a 14th century chess variant favored by the Central Asian warlord Timur (Tamerlane). There are giraffes, elephants, citadels, and you can promote up to 2 additional kings! theres a working AI chess engine and relatively untested multiplayer\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://timurschess.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50043948",
+    "createdAt": "2026-10-11T18:17:08.029Z"
+  },
+  {
+    "slug": "korosta-remember-and-highlight-job-postings-youve-seen-hn",
+    "title": "Korosta – Remember and highlight job postings you've seen",
+    "shortDescription": "# What is and whats not Korosta is a privacy-first user-customizable tool to highlight job postings based on how frequent are those, and yo…",
+    "fullDescription": "# What is and whats not Korosta is a privacy-first user-customizable tool to highlight job postings based on how frequent are those, and your ratings: * how often the job postings appeared to the user -&gt; fade repeatedly seen job postings * learns from your ratings with a simple local model -&gt; highlight relevant ones * 2 versions: free and pro * almost everything is kept local (ratings, recipes, customizations, history), only licensing and payments require a server * no account required to use it (just when doing the purchase) This is not a job tracker, job board, or automated application system. It just annotates what you already have visible in your browser&#x27;s tab. ## Links chrome: https:&#x2F;&#x2F;chromewebstore.google.com&#x2F;detail&#x2F;korosta&#x2F;dhpnogbefak... firefox: https:&#x2F;&#x2F;addons.mozilla.org&#x2F;en-US&#x2F;firefox&#x2F;addon&#x2F;korosta&#x2F; Howto create recipes fast (With the help of a LLM): https:&#x2F;&#x2F;covatools.com&#x2F;korosta&#x2F;howtos&#x2F;create-cookbook-with-an... Website (with ultra short videos): https:&#x2F;&#x2F;korosta.app # Why This idea started like 2 years ago, when I was laid off from a tech company (2024&#x27;s common rounds), and I started the stressful job searching. For job searching, my main platform was, and still is, linkedin: I perfected my url parameters so I can easily have my 10 different tabs. But one questions that commonly had, was &quot;Have I already seen this job post?&quot;, and honestly, I wont be saving manually every item in a tool like trello (or the new ones). That question plus my bad memory had me with: &quot;that role is awesome!!! ohhh I already seen it... but 2 months ago&quot; (something like job posting recycling? maybe). The main objective of this tool&#x2F;extension is to reduce the load &#x2F; fatigue of remembering what you have already seen (and not in just a single site), and also highlight what could be interesting to you personally (by learning with your ratings) -&gt; less time searching, and thus, giving more time to apply in the relevant ones, or doing something else (like recovering your energy). One thing I also spent time around was in the customization &#x2F; editor (+ the howto in the page), so almost anybody can extend the tool (recipes&#x2F;cookbook) &lt;- I get frustrated when I love a tool but I fully depend on the developer # beyond the technical part (more context... you can skip it, and test already) Around 16.5 years ago I wanted to develop and sell apps, like the trend in those days... I did not. One year ago, I was thinking the same with the first version, the tool was working (even though over engineered), but I got discouraged by myself by reading all the terms of services, legal + fiscal topics, all the things that I did not know... plus some sites are very aggressive with their terms of use and tools like this. I got a job, then changed my career path to a contractor, and meanwhile I started looking for a job again, but since the end of 2025 I really understand the new difficulties of the job market + not being sooo young, so I took the previous tool, refurbished it but with a different mindset: customization first with a simple learning algorithm so it can highlight interesting jobs to the user -&gt; the name of the tool &quot;Korosta&quot; means highlight in Finnish (its difficult to find a good name ha). I do think that is even more relevant to release it now because of AI: some platforms are pushing heavily their AI-based search engines, that are not so easy yet to customize -&gt; putting more stress &#x2F; burden on us. In terms of monetization, I defined it based on: I am not keen of subscriptions, I grew up with shareware (like Doom... you can guess my age now), and when a single payment give you something (I wont distribute this in floppies, though). And it ended like: pay once and keep for the same major version. I learned a lot, and I am still learning, with this development, so I want to hear your comments. Also, If you are looking for a job right now, how does the extension feel to use?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://chromewebstore.google.com/detail/korosta/dhpnogbefakbfmbihmjkgicbelndidif",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50043735",
+    "createdAt": "2026-10-11T18:17:08.029Z"
+  },
+  {
+    "slug": "burning-bridges-ai-put-yourself-into-a-viral-music-video-clip-hn",
+    "title": "Burning Bridges AI – Put yourself into a viral music-video clip",
+    "shortDescription": "Проект «Burning Bridges AI – Put yourself into a viral music-video clip», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Burning Bridges AI – Put yourself into a viral music-video clip», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://burningbridgesai.app",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50043726",
+    "createdAt": "2026-10-11T18:17:08.029Z"
+  },
+  {
+    "slug": "guilds-open-source-inspectable-multi-agents-collaboration-framework-hn",
+    "title": "Guilds – Open-source inspectable multi-agents collaboration framework",
+    "shortDescription": "Getting AI to handle long-running tasks reliably takes more than good prompts. There’s a lot of system design involved: figuring out how ag…",
+    "fullDescription": "Getting AI to handle long-running tasks reliably takes more than good prompts. There’s a lot of system design involved: figuring out how agents should work together, anticipating edge cases, and being able to debug and tune the system when things go wrong. That’s why we built guilds.run. The goal is to make the whole system understandable, so you can trace how mistakes propagate between agents, fix the underlying causes, and see if your changes work. We’re open-sourcing guilds.run because we’d like to see what other people built and share working team the solve real world use cases for long running agent collaboration\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/CigaleAI/guilds",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50043499",
+    "createdAt": "2026-10-11T18:17:08.029Z"
+  },
+  {
+    "slug": "an-mcp-server-where-ai-agents-confess-in-their-own-name-hn",
+    "title": "An MCP server where AI agents confess, in their own name",
+    "shortDescription": "Проект «An MCP server where AI agents confess, in their own name», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An MCP server where AI agents confess, in their own name», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ai.confess.online",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50043164",
+    "createdAt": "2026-10-11T18:17:08.029Z"
+  },
+  {
+    "slug": "a-safari-extension-to-accelerate-animated-webp-images-hn",
+    "title": "A Safari extension to accelerate animated WebP images",
+    "shortDescription": "Hi HN! The other day I had to do some work with a lot of large animated WebP files on my Macbook running Safari and noticed that it handles…",
+    "fullDescription": "Hi HN! The other day I had to do some work with a lot of large animated WebP files on my Macbook running Safari and noticed that it handles them very poorly. They load slowly and it seems like they&#x27;re constantly being decoded, also with really poor performance. Here&#x27;s a website with similar images to what I was working with: https:&#x2F;&#x2F;colinbendell.github.io&#x2F;webperf&#x2F;animated-gif-decode&#x2F;w... On that website, my M1 Macbook Air decodes the boat and smoke images at fewer than 5FPS, and the brown underwater office one has a constant stutter. The performance on my iPhone 15 Pro is very similar with the additional annoyance that I have to manually &quot;Play&quot; each animation. This was one of those small things that bothered me during my work week so on the weekend I decided to see if I can do something about it. I started by experimenting with the decoder itself and noticed that if you decode a static WebP image it&#x27;s pretty fast - approximately as fast as other browser engines. It&#x27;s actually fast enough to fit in 0.16ms. So I thought &quot;what if I just take the WebP animation decode the frames one by one with the internal decoder and just plonk them on a canvas&quot; and after quickly vibe coding the experiment, the images on the test page played at 60FPS flawlessly. So I reported the issue to Apple, and then made an extension that will find animated WebP images in webpages and swap them out for the same trick. Have a look here: https:&#x2F;&#x2F;github.com&#x2F;IliaMManolov&#x2F;safari-animated-webp-extensi... It&#x27;s currently GitHub-only and I&#x27;ve spent about a day on this all-in-all but I hope anyone that has to interact with similar images in the future finds it useful. Let me know if there&#x27;s interest in this too, I&#x27;d happily put it on the App Store if I can somehow have the extension cover the developer fee.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/IliaMManolov/safari-animated-webp-extension",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50043040",
+    "createdAt": "2026-10-11T18:17:08.029Z"
+  },
+  {
     "slug": "onyx-github",
     "title": "onyx",
     "shortDescription": "Smart file organizer and explorer for Windows, Obsidian-inspired",
