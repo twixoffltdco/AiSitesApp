@@ -1,5 +1,97 @@
 [
   {
+    "slug": "ai-writer-github",
+    "title": "ai-writer",
+    "shortDescription": "✨ Multilingual AI product copy from images. Responsive writing studio, translation, accounts, credits and automatic setup with optional Doc…",
+    "fullDescription": "✨ Multilingual AI product copy from images. Responsive writing studio, translation, accounts, credits and automatic setup with optional Docker MySQL.\n\nАвтор: csadigital. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://github.com/csadigital/ai-writer",
+    "category": "writing",
+    "tags": [
+      "ai",
+      "ecommerce",
+      "express",
+      "multilingual",
+      "nodejs",
+      "openai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1413910549",
+    "createdAt": "2026-10-11T06:09:23.829Z"
+  },
+  {
+    "slug": "candela-github",
+    "title": "candela",
+    "shortDescription": "开源可私有化的用户行为分析。Self-hosted user behavior analytics on ClickHouse and ClkLog. Events, funnels, retention, dashboards. AGPL-3.0.",
+    "fullDescription": "开源可私有化的用户行为分析。Self-hosted user behavior analytics on ClickHouse and ClkLog. Events, funnels, retention, dashboards. AGPL-3.0.\n\nАвтор: ac1261692159. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://github.com/ac1261692159/candela",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "analytics",
+      "analytics-tracking",
+      "clickhouse",
+      "clklog",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1413864127",
+    "createdAt": "2026-10-11T06:09:23.829Z"
+  },
+  {
+    "slug": "synoring-an-input-ring-for-smart-glasses-and-everything-hn",
+    "title": "SynoRing – An input ring for smart glasses and everything",
+    "shortDescription": "Проект «SynoRing – An input ring for smart glasses and everything», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «SynoRing – An input ring for smart glasses and everything», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.synoring.ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50040122",
+    "createdAt": "2026-10-11T06:09:23.687Z"
+  },
+  {
+    "slug": "gsd-task-manager-an-mcp-server-that-gives-your-ai-agent-a-task-list-hn",
+    "title": "GSD Task Manager – an MCP server that gives your AI agent a task list",
+    "shortDescription": "Проект «GSD Task Manager – an MCP server that gives your AI agent a task list», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «GSD Task Manager – an MCP server that gives your AI agent a task list», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://github.com/vscarpenter/gsd-task-manager",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50039633",
+    "createdAt": "2026-10-11T06:09:23.687Z"
+  },
+  {
+    "slug": "i-wrote-dependency-hell-5-years-ago-today-i-updated-it-for-ai-era-pdf-hn",
+    "title": "I wrote Dependency Hell 5 years ago. Today I updated it for AI Era [pdf]",
+    "shortDescription": "Проект «I wrote Dependency Hell 5 years ago. Today I updated it for AI Era [pdf]», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I wrote Dependency Hell 5 years ago. Today I updated it for AI Era [pdf]», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/jaronilan/stories/blob/main/Agent%20Loop.pdf",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50039051",
+    "createdAt": "2026-10-11T06:09:23.687Z"
+  },
+  {
     "slug": "troetochie-github",
     "title": "troetochie",
     "shortDescription": "Автоподсказки ответа в любом чате: курсор в пустое поле — серый ответ — Tab. macOS и Windows",
