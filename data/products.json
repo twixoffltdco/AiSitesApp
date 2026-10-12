@@ -1,5 +1,199 @@
 [
   {
+    "slug": "vitaforge-fullstack-github",
+    "title": "vitaforge-fullstack",
+    "shortDescription": "AI resume analyzer & builder: upload a resume, get an ATS score, and generate a one-page ATS-friendly DOCX/PDF. FastAPI + Groq agent, RAG,…",
+    "fullDescription": "AI resume analyzer & builder: upload a resume, get an ATS score, and generate a one-page ATS-friendly DOCX/PDF. FastAPI + Groq agent, RAG, CNN-style layout scan, Docker. Designed & developed by NIKHIL CHARY SRIRAMOJU.\n\nАвтор: Nikhil-creat. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://nikhil-creat.github.io/vitaforge-fullstack/",
+    "category": "developer",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "ats-resume",
+      "docker",
+      "fastapi",
+      "groq",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1412590148",
+    "createdAt": "2026-10-12T01:31:45.478Z"
+  },
+  {
+    "slug": "noapi-github",
+    "title": "NOAPI",
+    "shortDescription": "Use web ai models as your agent in opencode",
+    "fullDescription": "Use web ai models as your agent in opencode\n\nАвтор: cribest7890. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/cribest7890/NOAPI",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-assisted-development",
+      "bridge",
+      "browser",
+      "extension",
+      "modelcontextprotocol",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1413676047",
+    "createdAt": "2026-10-12T01:31:45.478Z"
+  },
+  {
+    "slug": "digital-me-github",
+    "title": "digital-me",
+    "shortDescription": "AI twin of NIKHIL CHARY SRIRAMOJU: talking avatar, RAG with a vector DB, LangGraph agents, voice, emotion detection, JWT auth. FastAPI + Do…",
+    "fullDescription": "AI twin of NIKHIL CHARY SRIRAMOJU: talking avatar, RAG with a vector DB, LangGraph agents, voice, emotion detection, JWT auth. FastAPI + Docker backend, GitHub Pages frontend.\n\nАвтор: Nikhil-creat. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://nikhil-creat.github.io/digital-me/",
+    "category": "image-video",
+    "tags": [
+      "ai",
+      "chromadb",
+      "digital-twin",
+      "docker",
+      "emotion-detection",
+      "fastapi",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1412786715",
+    "createdAt": "2026-10-12T01:31:45.478Z"
+  },
+  {
+    "slug": "raycast-cli-assistant-github",
+    "title": "raycast-cli-assistant",
+    "shortDescription": "AI in Raycast without Raycast Pro: ask, chat, translate and rewrite text through the Claude Code or Codex CLI, using your own Claude or Cha…",
+    "fullDescription": "AI in Raycast without Raycast Pro: ask, chat, translate and rewrite text through the Claude Code or Codex CLI, using your own Claude or ChatGPT plan.\n\nАвтор: umitaltintas. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/umitaltintas/raycast-cli-assistant",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "claude-code",
+      "codex",
+      "llm",
+      "macos",
+      "openai-codex",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1414710225",
+    "createdAt": "2026-10-12T01:31:45.479Z"
+  },
+  {
+    "slug": "eve-data-analyst-template-github",
+    "title": "eve-data-analyst-template",
+    "shortDescription": "eve Data Analyst Template (Postgres)",
+    "fullDescription": "eve Data Analyst Template (Postgres)\n\nАвтор: vercel-labs. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://vercel.com",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "eve",
+      "postgres",
+      "vercel",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1413056040",
+    "createdAt": "2026-10-12T01:31:45.479Z"
+  },
+  {
+    "slug": "sunset-github",
+    "title": "sunset",
+    "shortDescription": "Catch deprecated and retiring AI model IDs in your code, with dates quoted from each provider's official page.",
+    "fullDescription": "Catch deprecated and retiring AI model IDs in your code, with dates quoted from each provider's official page.\n\nАвтор: AppliedBenchmark. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://appliedbenchmark.com",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "amazon-bedrock",
+      "anthropic",
+      "azure-openai",
+      "cli",
+      "code-scanning",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1413606206",
+    "createdAt": "2026-10-12T01:31:45.479Z"
+  },
+  {
+    "slug": "drune-personalize-your-ai-and-use-it-anywhere-hn",
+    "title": "Drune – Personalize your AI and use it anywhere",
+    "shortDescription": "Проект «Drune – Personalize your AI and use it anywhere», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Drune – Personalize your AI and use it anywhere», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://drune.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50049983",
+    "createdAt": "2026-10-12T01:31:45.439Z"
+  },
+  {
+    "slug": "plimsoll-a-self-hosted-sandbox-for-code-your-ai-agent-writes-hn",
+    "title": "Plimsoll, a self-hosted sandbox for code your AI agent writes",
+    "shortDescription": "Проект «Plimsoll, a self-hosted sandbox for code your AI agent writes», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Plimsoll, a self-hosted sandbox for code your AI agent writes», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 7 баллов.",
+    "url": "https://github.com/plimsollmark/plimsoll",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50049388",
+    "createdAt": "2026-10-12T01:31:45.439Z"
+  },
+  {
+    "slug": "seodatadev-11-free-search-data-for-ai-agents-hn",
+    "title": "Seodata.dev (1.1) Free search data for AI agents",
+    "shortDescription": "Updated API with faster responses and added MCP 2.0",
+    "fullDescription": "Updated API with faster responses and added MCP 2.0\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.seodata.dev/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50048892",
+    "createdAt": "2026-10-12T01:31:45.439Z"
+  },
+  {
+    "slug": "shpyrd-a-new-type-of-cloud-for-ai-era-hn",
+    "title": "Shpyrd – A new type of cloud for AI era",
+    "shortDescription": "Проект «Shpyrd – A new type of cloud for AI era», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Shpyrd – A new type of cloud for AI era», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 7 баллов.",
+    "url": "https://www.shpyrd.io",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50048731",
+    "createdAt": "2026-10-12T01:31:45.440Z"
+  },
+  {
     "slug": "filedig-github",
     "title": "filedig",
     "shortDescription": "Find your files by what's in them. Local AI search for docs, PDFs and photos on Windows",
