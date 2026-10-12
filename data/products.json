@@ -1,5 +1,273 @@
 [
   {
+    "slug": "solid-glass-github",
+    "title": "solid-glass",
+    "shortDescription": "A design system for AI applications. Material, physical, tactile, technical.",
+    "fullDescription": "A design system for AI applications. Material, physical, tactile, technical.\n\nАвтор: deeplethe. Найдено в GitHub Trending (AI-тематика). ⭐ 229 звёзд.",
+    "url": "https://deeplethe.github.io/solid-glass",
+    "category": "design",
+    "tags": [
+      "agent-ui",
+      "ai",
+      "ai-agents",
+      "chat-ui",
+      "design-system",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1415358670",
+    "createdAt": "2026-10-12T18:34:02.085Z"
+  },
+  {
+    "slug": "coding9-lotse-github",
+    "title": "coding9-lotse",
+    "shortDescription": "KI-Interface für Shopware, Shopify, Magento & OpenMage: Produkte, Preise, SEO und Landingpages per Chat. Die KI liest nur, geschrieben wird…",
+    "fullDescription": "KI-Interface für Shopware, Shopify, Magento & OpenMage: Produkte, Preise, SEO und Landingpages per Chat. Die KI liest nur, geschrieben wird nach Freigabe.\n\nАвтор: Coding9GmbH. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://coding9.de/produkte/lotse",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude",
+      "docker",
+      "ecommerce",
+      "llm",
+      "magento",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1415229062",
+    "createdAt": "2026-10-12T18:34:02.086Z"
+  },
+  {
+    "slug": "portable-guided-reviews-you-can-send-as-html-hn",
+    "title": "Portable Guided Reviews you can send as HTML",
+    "shortDescription": "Inspired by Linear&#x27;s guided reviews feature, this is an open source alternative: https:&#x2F;&#x2F;github.com&#x2F;backnotprop&#x2F;pl…",
+    "fullDescription": "Inspired by Linear&#x27;s guided reviews feature, this is an open source alternative: https:&#x2F;&#x2F;github.com&#x2F;backnotprop&#x2F;plannotator video demo: https:&#x2F;&#x2F;plannotator.ai&#x2F;assets&#x2F;guided-review-demo.mp4\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://guides.show/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50060644",
+    "createdAt": "2026-10-12T18:34:02.131Z"
+  },
+  {
+    "slug": "i-bought-a-bunch-of-smart-devices-ai-was-able-to-hack-most-of-them-hn",
+    "title": "I bought a bunch of 'smart' devices. AI was able to hack most of them",
+    "shortDescription": "Проект «I bought a bunch of 'smart' devices. AI was able to hack most of them», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I bought a bunch of 'smart' devices. AI was able to hack most of them», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://hwrebench.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50060257",
+    "createdAt": "2026-10-12T18:34:02.131Z"
+  },
+  {
+    "slug": "ai-prompt-lighting-controls-hn",
+    "title": "AI Prompt Lighting Controls",
+    "shortDescription": "Проект «AI Prompt Lighting Controls», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Prompt Lighting Controls», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.kapwing.com/ai/prompt-generator/lighting",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50060074",
+    "createdAt": "2026-10-12T18:34:02.131Z"
+  },
+  {
+    "slug": "enso-method-agent-skills-for-building-software-for-someone-else-hn",
+    "title": "Enso Method – agent skills for building software for someone else",
+    "shortDescription": "The Enso Method is a new set of AI skills for Claude Code and Codex which I&#x27;ve open sourced on GitHub predominantly for developers who…",
+    "fullDescription": "The Enso Method is a new set of AI skills for Claude Code and Codex which I&#x27;ve open sourced on GitHub predominantly for developers who build for someone else who is making the product&#x2F;business calls. I&#x27;ve been using AI to write basically 100% of my code since late 2024, back in the Sonnet 3.5 days, when it barely worked and there were few people doing this and very little support for this way of developing. I stubbornly thought this was going to be the future and came up with a methodology for making it work, before &quot;AI skills&quot; were even a thing. Since then I&#x27;ve continued to refine the method and I just recently published it as open source. The method focuses on requirements (PRD, TDD) up front, and has skills that autonomously refine the requirements, declaring assumptions that should be validated by stakeholders. It doesn&#x27;t expect you to be a solo founder or that whoever is at the keyboard directing Claude or Codex to be the product owner and business decider in addition to being the developer. I think most of us sit in the seat where we develop for someone else who decides. And if AI is all about velocity, then if we have to slow down to get product owners to review and decide, that puts a serious damper on the efficiency everyone expects from AI development. So a defining attribute of the Enso Method is, when it reviews the requirements prior to implementation, it asks what questions&#x2F;gaps there are and it tries to answer its own questions. If it can get to 95%+ confidence in the answers, it just rolls with those. If less then it will declare the assumption in an assumptions.md file which gets routed to business stakeholders to review. In the meantime however we still consider this to be a green light, we can move forward and implement with the assumptions, and if we later hear from the business that the assumption was wrong, we update the requirements and re-implement, because implementation is now cheap, and waiting isn&#x27;t.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ensomethod.org/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50059416",
+    "createdAt": "2026-10-12T18:34:02.131Z"
+  },
+  {
+    "slug": "search-123-ai-labs-jobs-from-your-own-agent-no-signup-hn",
+    "title": "Search 123 AI labs' jobs from your own agent, no signup",
+    "shortDescription": "Проект «Search 123 AI labs' jobs from your own agent, no signup», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Search 123 AI labs' jobs from your own agent, no signup», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://workatailab.com/agents",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50059387",
+    "createdAt": "2026-10-12T18:34:02.131Z"
+  },
+  {
+    "slug": "ihmt-infinite-hierarchical-memory-tree-for-ai-agents-hn",
+    "title": "IHMT – Infinite Hierarchical Memory Tree for AI Agents",
+    "shortDescription": "Проект «IHMT – Infinite Hierarchical Memory Tree for AI Agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «IHMT – Infinite Hierarchical Memory Tree for AI Agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://github.com/gonzaroman/IHMT-MEMORY",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50058903",
+    "createdAt": "2026-10-12T18:34:02.131Z"
+  },
+  {
+    "slug": "weekend-hack-shoot-away-cloudflare-captchas-hn",
+    "title": "Weekend hack – shoot away Cloudflare CAPTCHAs",
+    "shortDescription": "The cf turnstile has been a constant annoyance ever since I started using VPNs for everyday browsing. This weekend I built a chrome extensi…",
+    "fullDescription": "The cf turnstile has been a constant annoyance ever since I started using VPNs for everyday browsing. This weekend I built a chrome extension that auto clicks the captcha using the chrome debugger api. Thanks to ai agents, even weekend projects can have fancy animations :)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/blowhacker/clickyphus",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50058822",
+    "createdAt": "2026-10-12T18:34:02.131Z"
+  },
+  {
+    "slug": "ai-slop-detector-120-patterns-that-make-writing-read-like-ai-hn",
+    "title": "AI Slop Detector – 120 patterns that make writing read like AI",
+    "shortDescription": "Проект «AI Slop Detector – 120 patterns that make writing read like AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Slop Detector – 120 patterns that make writing read like AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/FeedHive/ai-slop-detector",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50058453",
+    "createdAt": "2026-10-12T18:34:02.131Z"
+  },
+  {
+    "slug": "reflex-a-gguf-native-rustcuda-engine-for-scale-to-zero-llm-routing-hn",
+    "title": "Reflex – A GGUF-native Rust/CUDA engine for scale-to-zero LLM routing",
+    "shortDescription": "Проект «Reflex – A GGUF-native Rust/CUDA engine for scale-to-zero LLM routing», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Reflex – A GGUF-native Rust/CUDA engine for scale-to-zero LLM routing», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://console.runpod.io/hub/listing/lateos-ai/reflex",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50058408",
+    "createdAt": "2026-10-12T18:34:02.131Z"
+  },
+  {
+    "slug": "practice-for-the-new-ai-assisted-coding-interview-format-hn",
+    "title": "Practice for the new AI-assisted coding interview format",
+    "shortDescription": "Проект «Practice for the new AI-assisted coding interview format», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Practice for the new AI-assisted coding interview format», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://nyrion.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50058306",
+    "createdAt": "2026-10-12T18:34:02.131Z"
+  },
+  {
+    "slug": "boole-17b-a-1-bit-llm-that-outperforms-bonsai-17b-hn",
+    "title": "Boole-1.7B, a 1-bit LLM that outperforms Bonsai-1.7B",
+    "shortDescription": "Introducing Boole-1.7B, a 1-bit version of Qwen3-1.7B. Boole-1.7B retains 85.9% of BF16 performance using 247MB (13.9x smaller). It outperf…",
+    "fullDescription": "Introducing Boole-1.7B, a 1-bit version of Qwen3-1.7B. Boole-1.7B retains 85.9% of BF16 performance using 247MB (13.9x smaller). It outperforms 1-bit Bonsai-1.7B and similar-sized LFM models, and nearly matches 1.58-bit Bonsai-1.7B. It’s intended for low-latency tasks using English and non-thinking mode. To learn more, - Blog: https:&#x2F;&#x2F;precisionnumerics.ai&#x2F;blog&#x2F;boole-1p7b - Weights: https:&#x2F;&#x2F;huggingface.co&#x2F;precision-numerics&#x2F;Boole-1.7B - Chat in browser: https:&#x2F;&#x2F;precisionnumerics.ai&#x2F;chat&#x2F; We&#x27;re going to ship more capable models soon for the open-source community. Let us know what models&#x2F;capabilities you want to see next!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://precisionnumerics.ai/blog/boole-1p7b",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50058167",
+    "createdAt": "2026-10-12T18:34:02.131Z"
+  },
+  {
+    "slug": "e2e-open-source-agentic-testing-framework-for-web-ios-and-android-hn",
+    "title": "E2E – Open-source agentic testing framework for web, iOS and Android",
+    "shortDescription": "Hey HN, I’m Oskar, one of the co-founders of TesterArmy. We built an agentic testing framework for web and mobile because traditional testi…",
+    "fullDescription": "Hey HN, I’m Oskar, one of the co-founders of TesterArmy. We built an agentic testing framework for web and mobile because traditional testing frameworks can’t keep up with the pace of how we build software today. e2e allows you to mix deterministic and agentic APIs in the same test. You can write the test cases using familiar APIs like `getByText()`or `getByTestId()` which you can also mix it with agentic `agent.act()`. The unique part about it is that e2e will cache and replay the agentic actions so you don’t have to pay for AI on each run. You can use it with any LLM, including subscriptions you are already paying for. On top of that, the core of e2e is platform agnostic. We ship both web and mobile engines out of the box; adding support for more platforms is pretty straightforward. Here’s a code short code snippet of an example test: ```ts import { test, expect } from &#x27;e2e&#x27;; test(&#x27;a member upgrades to Pro&#x27;, async ({ app, agent, screen }) =&gt; { await app.open(&#x27;&#x2F;settings&#x2F;billing&#x27;); await agent.act(&#x27;upgrade the workspace to the Pro plan&#x27;); await agent.assert(&#x27;the invoice preview shows a prorated amount&#x27;); await expect(screen.getByRole(&#x27;status&#x27;)).toContainText(&#x27;Pro&#x27;); }); ``` Try it: npx e2e init GitHub: https:&#x2F;&#x2F;github.com&#x2F;tester-army&#x2F;e2e\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://github.com/tester-army/e2e",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50058032",
+    "createdAt": "2026-10-12T18:34:02.131Z"
+  },
+  {
+    "slug": "beeuni-an-ai-native-computer-for-agents-hn",
+    "title": "Beeuni – An AI-native computer for agents",
+    "shortDescription": "Проект «Beeuni – An AI-native computer for agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Beeuni – An AI-native computer for agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.beeuni.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50057642",
+    "createdAt": "2026-10-12T18:34:02.131Z"
+  },
+  {
+    "slug": "baa-a-menu-bar-app-that-frees-ram-your-ai-agents-forgot-about-hn",
+    "title": "Baa – a menu bar app that frees RAM your AI agents forgot about",
+    "shortDescription": "i built this because my mac keeps running out of RAM every 2 hours and i typically get around it by closing random apps and hoping it will…",
+    "fullDescription": "i built this because my mac keeps running out of RAM every 2 hours and i typically get around it by closing random apps and hoping it will help. :&#x27;) baa sits in the menu bar and: - finds stuff still eating memory after its app or terminal closed, or that ai agents started and forgot (dev servers, headless browsers) - shows how much you&#x27;d get back and frees it in one click - warns you a few minutes before you run out - also finds dev junk on your disk (old builds, package caches etc.) open source and nothing leaves your machine. would love feedback! baa would&#x27;ve cleared ~50gb on my mac :)\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/selviarora/baa",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50057241",
+    "createdAt": "2026-10-12T18:34:02.131Z"
+  },
+  {
     "slug": "new-term-radar-github",
     "title": "new-term-radar",
     "shortDescription": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools…",
