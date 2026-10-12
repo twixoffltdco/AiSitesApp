@@ -1,5 +1,155 @@
 [
   {
+    "slug": "new-term-radar-github",
+    "title": "new-term-radar",
+    "shortDescription": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools…",
+    "fullDescription": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.\n\nАвтор: zhuyansen. Найдено в GitHub Trending (AI-тематика). ⭐ 111 звёзд.",
+    "url": "https://github.com/zhuyansen/new-term-radar",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "aisa",
+      "github-actions",
+      "keyword-research",
+      "seo",
+      "trends",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1415214046",
+    "createdAt": "2026-10-12T08:34:29.293Z"
+  },
+  {
+    "slug": "awesome-rea-cases-github",
+    "title": "awesome-REA-cases",
+    "shortDescription": "REA / AI 逆向案例合集：每天 6 次定时追踪公开案例，自动筛选、去重并更新。",
+    "fullDescription": "REA / AI 逆向案例合集：每天 6 次定时追踪公开案例，自动筛选、去重并更新。\n\nАвтор: songshikang0111. Найдено в GitHub Trending (AI-тематика). ⭐ 10 звёзд.",
+    "url": "https://github.com/songshikang0111/awesome-REA-cases",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "awesome-list",
+      "rea",
+      "reverse-engineering",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1415075956",
+    "createdAt": "2026-10-12T08:34:29.293Z"
+  },
+  {
+    "slug": "graphersal-github",
+    "title": "graphersal",
+    "shortDescription": "In-memory graph database and Gremlin traversal engine in Rust: browser playground, CLI, MCP server for AI agents, durable store, Python bin…",
+    "fullDescription": "In-memory graph database and Gremlin traversal engine in Rust: browser playground, CLI, MCP server for AI agents, durable store, Python bindings.\n\nАвтор: graphersal. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://graphersal.dev",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "graph",
+      "graph-database",
+      "graph-traversal",
+      "graphrag",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1414431202",
+    "createdAt": "2026-10-12T08:34:29.293Z"
+  },
+  {
+    "slug": "velocity-github",
+    "title": "Velocity",
+    "shortDescription": "Совершенно новый подход к обучению",
+    "fullDescription": "Совершенно новый подход к обучению\n\nАвтор: SayGGGo. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://isvelocity.ru",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "b2c",
+      "education",
+      "flask",
+      "vite",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1412964080",
+    "createdAt": "2026-10-12T08:34:29.293Z"
+  },
+  {
+    "slug": "i-asked-opus-55-to-make-a-novel-portal-for-nfts-that-are-not-dead-yet-hn",
+    "title": "I asked Opus 5.5 to make a novel portal for NFT's that are not dead yet",
+    "shortDescription": "A curated live feed of NFT&#x27;s available on OpenSea that have market liquidity and historical relevance. Presented as graded &quot;slabs…",
+    "fullDescription": "A curated live feed of NFT&#x27;s available on OpenSea that have market liquidity and historical relevance. Presented as graded &quot;slabs&quot; because... Why not?\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.jpeg.deals",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50053022",
+    "createdAt": "2026-10-12T08:34:29.102Z"
+  },
+  {
+    "slug": "jruva-ai-workspace-for-chat-documents-and-images-hn",
+    "title": "Jruva – AI workspace for chat, documents and images",
+    "shortDescription": "Prefer writing your own short explanation of why you built Jruva and how its multi-provider fallback works.",
+    "fullDescription": "Prefer writing your own short explanation of why you built Jruva and how its multi-provider fallback works.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.jruva.in",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50052566",
+    "createdAt": "2026-10-12T08:34:29.102Z"
+  },
+  {
+    "slug": "skills-hub-a-desktop-app-for-managing-ai-agent-skills-hn",
+    "title": "Skills Hub, a desktop app for managing AI agent skills",
+    "shortDescription": "Проект «Skills Hub, a desktop app for managing AI agent skills», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Skills Hub, a desktop app for managing AI agent skills», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 9 баллов.",
+    "url": "https://github.com/qufei1993/skills-hub",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50050732",
+    "createdAt": "2026-10-12T08:34:29.102Z"
+  },
+  {
+    "slug": "atticus-hold-to-talk-voice-assistant-for-macos-that-runs-on-claude-p-hn",
+    "title": "Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+    "shortDescription": "Hi HN! I&#x27;m Saarth. I&#x27;m in 9th grade, and I built Atticus. Atticus is an incredibly fast and cheap Mac assistant that can do tasks…",
+    "fullDescription": "Hi HN! I&#x27;m Saarth. I&#x27;m in 9th grade, and I built Atticus. Atticus is an incredibly fast and cheap Mac assistant that can do tasks for you. You hold down Control-Option-Space, speak or type your task, be it complex or a simple browser search, and Atticus will get on it. The interesting part is that simple tasks, like opening apps, playing a Spotify playlist, or web queries, don&#x27;t touch AI, and instead are processed locally and typically finish in under a second. For example, prompting Atticus to open apps takes around 0.08 seconds, sometimes even finishing before you finish your sentence, sort of like Jev. Any tasks that are more complicated will be sent to Claude via claude -p, meaning you never need an API key and Atticus will run on your existing Claude Pro or Max plan. By using this approach, costs are also cut down immensely, with, on average, tasks costing a fraction of a cent. To achieve Atticus&#x27; speed, it remembers shortcuts from each task it completes. When it does a task right for the first time, it saves its steps and replays them the next time without AI. For example, a workflow of creating a new meeting took about 30 seconds the first time around. Atticus then logs the exact steps to memory and takes 5-8 seconds on the next pass. To add to this, Atticus also learns about you as you use it more and from what&#x27;s on your computer, including your name, your apps, and things you want it to remember, personalizing its answers to you. To combat the safety concerns over giving an AI unrestricted access to your device, Atticus has toggleable restrictions, so before anything is deleted, sent, bought, or written to a file, the user is prompted before that action. Some features I&#x27;m currently working on include a meeting copilot that capitalizes on Atticus&#x27; speed, allowing Atticus to listen in on meetings and answer questions in real time as they come in, personalized to the context of the meeting and what it knows about you. To run Atticus, macOS 26 or higher is required for its voice transcription features. The voice transcription is also done locally by macOS. Atticus is free, open source, and also very fresh, and I&#x27;m completely aware of its many rough edges, which is why I&#x27;d love to hear from everyone about what breaks and what you guys would like to see Atticus do!\n\nНайдено в разделе Show HN на Hacker News. 👍 22 баллов.",
+    "url": "https://github.com/SaarthurR/atticus-mac",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50049588",
+    "createdAt": "2026-10-12T08:34:29.102Z"
+  },
+  {
     "slug": "vitaforge-fullstack-github",
     "title": "vitaforge-fullstack",
     "shortDescription": "AI resume analyzer & builder: upload a resume, get an ATS score, and generate a one-page ATS-friendly DOCX/PDF. FastAPI + Groq agent, RAG,…",
