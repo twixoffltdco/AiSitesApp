@@ -1,5 +1,289 @@
 [
   {
+    "slug": "opencode-free-bridge-github",
+    "title": "opencode-free-bridge",
+    "shortDescription": "OpenAI-compatible bridge for OpenCode free-tier models — no account required",
+    "fullDescription": "OpenAI-compatible bridge for OpenCode free-tier models — no account required\n\nАвтор: azrinaldi. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/azrinaldi/opencode-free-bridge",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "bridge",
+      "deepseek",
+      "free",
+      "llm",
+      "muse-spark",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1416660289",
+    "createdAt": "2026-10-13T16:14:04.499Z"
+  },
+  {
+    "slug": "rice-github",
+    "title": "rice",
+    "shortDescription": "Mac meeting notes: local transcription (whisper.cpp) + AI notes with your own Claude, ChatGPT, Gemini, OpenCode or Antigravity. No servers,…",
+    "fullDescription": "Mac meeting notes: local transcription (whisper.cpp) + AI notes with your own Claude, ChatGPT, Gemini, OpenCode or Antigravity. No servers, no telemetry. MIT.\n\nАвтор: WalissonCF. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/WalissonCF/rice",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "claude",
+      "electron",
+      "local-first",
+      "macos",
+      "meeting-notes",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1414702858",
+    "createdAt": "2026-10-13T16:14:04.499Z"
+  },
+  {
+    "slug": "agor-multiplayer-ai-stop-running-agents-alone-hn",
+    "title": "Agor, multiplayer AI – stop running agents alone",
+    "shortDescription": "Проект «Agor, multiplayer AI – stop running agents alone», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Agor, multiplayer AI – stop running agents alone», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 7 баллов.",
+    "url": "https://github.com/preset-io/agor",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50073109",
+    "createdAt": "2026-10-13T16:14:03.316Z"
+  },
+  {
+    "slug": "pi-infinite-context-hn",
+    "title": "Pi-Infinite-Context",
+    "shortDescription": "Hi HN! Since I created this extension and heavily refined its core design, I&#x27;m not worrying about context size anymore. It just works…",
+    "fullDescription": "Hi HN! Since I created this extension and heavily refined its core design, I&#x27;m not worrying about context size anymore. It just works so well. So I wanted to share. It is stress-tested with OpenAI and Anthropic models. Since HN is sensitive to good readmes, I wanted to do it well here. I started writing it by hand, but noticed that it was not great. then I decided to go back to LLM help, but iterate on it until it was short, simple and readable. I hope you like it. In this process I had an insight about AI generated content. Slop is not only the fact that AI was used, but that the creator did not care about a high quality result. I&#x27;m interested to hear what you think about this take.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/fdietze/pi-infinite-context",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50072881",
+    "createdAt": "2026-10-13T16:14:03.316Z"
+  },
+  {
+    "slug": "podway-your-self-hosted-apps-run-by-an-ai-admin-hn",
+    "title": "Podway – your self-hosted apps, run by an AI admin",
+    "shortDescription": "Проект «Podway – your self-hosted apps, run by an AI admin», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Podway – your self-hosted apps, run by an AI admin», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://podway.io",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50072616",
+    "createdAt": "2026-10-13T16:14:03.316Z"
+  },
+  {
+    "slug": "recall-long-term-memory-for-ai-agents-that-notices-when-facts-change-hn",
+    "title": "Recall – long-term memory for AI agents that notices when facts change",
+    "shortDescription": "Проект «Recall – long-term memory for AI agents that notices when facts change», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Recall – long-term memory for AI agents that notices when facts change», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/recallmem/recall",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50072239",
+    "createdAt": "2026-10-13T16:14:03.316Z"
+  },
+  {
+    "slug": "gpt-load-a-self-hosted-ai-gateway-with-reversible-redaction-hn",
+    "title": "GPT-Load – A self-hosted AI gateway with reversible redaction",
+    "shortDescription": "Проект «GPT-Load – A self-hosted AI gateway with reversible redaction», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «GPT-Load – A self-hosted AI gateway with reversible redaction», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/tbphp/gpt-load",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50071796",
+    "createdAt": "2026-10-13T16:14:03.316Z"
+  },
+  {
+    "slug": "syncopate-free-sheet-music-with-piano-play-along-hn",
+    "title": "Syncopate – free sheet music with piano play-along",
+    "shortDescription": "It’s my website where I host my arrangements of public domain music completely for free. Right now there are only arrangements for my instr…",
+    "fullDescription": "It’s my website where I host my arrangements of public domain music completely for free. Right now there are only arrangements for my instrument, tuba, but I’d love to add more instruments like ocarina or bassoon in the future. I started this because over the 10 years I have played tuba, I probably went through all free tuba resources on the internet multiple times and many pieces I wanted to play I did not even find for tuba. I’m working completely alone on this, so to be honest with you: I got a lot of AI help. Basically the pipeline for getting a public domain piece onto my website is downloading a well scanned score from a library like IMSLP, then a couple of Claude subagents read through it bar by bar and write the tuba part from it. A script checks for clashes with the piano accompaniment and a separate Claude session proofreads the result against the scan. Then I play it through myself, look through the sheet music and double check weird passages with other sources on the internet. Most of the time there are maybe 2 errors left in a big piece like the Can-Can, so the subagents already do a great job! The sheet music player is rendered by alphaTab. It had some bugs that I patched, at some point I want to send them the fixes so they can fix them in alphaTab itself too. I also got a recording feature, there I had a big problem with the piano accompaniment coming through the speaker and tried to subtract it from the recording, but it still doesn’t work too well sadly. Lately I rewrote my page turn logic to do half page turns, cause every musician knows how frustrating it is to not see the next notes until the page turns. My big vision is a bit unrealistic, but I want to somehow host all public domain pieces there are for free for all instruments, so people don’t have to pay $20 anymore for some Danse macabre euphonium arrangement for example... Would love to know from the musicians here whether you like my current arrangements and if you have ideas for other pain points I can try to fix for free with my website? Thanks!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://wesyncopate.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50071753",
+    "createdAt": "2026-10-13T16:14:03.316Z"
+  },
+  {
+    "slug": "mana-family-organizer-with-an-ai-assistant-hn",
+    "title": "Mana – family organizer with an AI assistant",
+    "shortDescription": "Hi HN, I built Mana, a family organizer: shared calendars, shopping lists, receipt scanners, meal planning, chores, and notes for the whole…",
+    "fullDescription": "Hi HN, I built Mana, a family organizer: shared calendars, shopping lists, receipt scanners, meal planning, chores, and notes for the whole household, with a built-in AI assistant (&quot;add milk and eggs,&quot; &quot;plan dinners for the week&quot;) plus automations (e.g., milk goes back on the list before it runs out). Additionally, you can connect Mana MCP to your Claude, ChatGPT, Gemini etc. The goal is to eventually take the model calls and storage to local but that&#x27;s work to be done. Appreciate if there&#x27;s any feedback. Thank you!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ourmana.app/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50071636",
+    "createdAt": "2026-10-13T16:14:03.316Z"
+  },
+  {
+    "slug": "i-found-a-new-planetary-candidate-in-kepler-data-with-ai-hn",
+    "title": "I found a new planetary candidate in Kepler Data with AI",
+    "shortDescription": "Hey HN! I was playing around with the Kepler and TESS data last weekend when I hacked around a way to pixel-peep stars dimming periodically…",
+    "fullDescription": "Hey HN! I was playing around with the Kepler and TESS data last weekend when I hacked around a way to pixel-peep stars dimming periodically to potentially find new exoplanets with Codex. I ended up running the engine to find an interesting signal in Kepler data that was uncatalogued with a dip repeating every 13.77 days around KIC 5689121, a red dwarf in Lyra about 970 light-years away. If it&#x27;s a planet, it&#x27;d be roughly 2.5–3 times Earth&#x27;s radius ! Funnily enough, this candidate is just 7.1 arcseconds from a much brighter neighbour (KIC 5689116) and is very hard to see because of how much brighter it is (probably why it went unnoticed for so long) Of course, there&#x27;s work to do before calling it confirmed - my TRICERATOPS analysis is about 6.9% and we have to get IR&#x2F;AO &#x2F; Keck observations to prove it&#x27;s out there ! (which I&#x27;m honestly intimidated by but cautiously optimistic about because I&#x27;ve never worked in non-CS adjacent research) but I found the activity of making cool tools to potentially discover things about our universe quite fun ! Would love feedback, especially from anyone who&#x27;s worked with Kepler data or exoplanet validation :) https:&#x2F;&#x2F;x.com&#x2F;kuberwastaken&#x2F;status&#x2F;2109240782368751834\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://kuber.studio/planethunt/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50071497",
+    "createdAt": "2026-10-13T16:14:03.316Z"
+  },
+  {
+    "slug": "vaguely-right-a-jev-based-daily-game-submit-a-clue-to-hit-the-target-hn",
+    "title": "Vaguely Right, a Jev-based daily game – submit a clue to hit the target",
+    "shortDescription": "Each round you get a spectrum with a target on it (Calm ----X-- Stressful). Name something that sits at the target: a job interview, a walk…",
+    "fullDescription": "Each round you get a spectrum with a target on it (Calm ----X-- Stressful). Name something that sits at the target: a job interview, a walk in the park, a goose? The closer you are, the higher your score. Mechanically it&#x27;s like a crossover between Wavelength and Family Feud. The model is prompted to place the submitted clue as most people would see it, so you are aiming for the consensus reading of the spectrum and your clue. Every player gets the same 5 rounds a day. Free, no signup, play the game then see what others submitted. --- When we prompt Jev we can&#x27;t just ask it to place the clue on the spectrum, we ask: - a score for 5 levels specifically authored for each spectrum - whether the clue is specific enough or too vague - is the clue fine to show to a general audience, is it trying to steer the evaluator, hateful, nsfw, harassing, etc. --- There are some fun, silly little touches in the UI. Try sharing your score. My score from today: 10&#x2F;20, let me know if you beat me :)\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://minisani.com/vaguely-right/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50071000",
+    "createdAt": "2026-10-13T16:14:03.316Z"
+  },
+  {
+    "slug": "memorysync-memory-for-ai-agents-hn",
+    "title": "MemorySync – Memory for AI Agents",
+    "shortDescription": "I created MemorySync because I kept running into the problem of AI agents not being able to remember useful things about users between conv…",
+    "fullDescription": "I created MemorySync because I kept running into the problem of AI agents not being able to remember useful things about users between conversations. I wanted an easy way to give the agents memory in my application without having to build the whole thing myself. MemorySync is an API for giving AI agents memory. The application sends MemorySync information provided by the user, MemorySync saves useful memories for that user, and they can be retrieved later when needed. Give it a try without creating an account: https:&#x2F;&#x2F;memorysync.io&#x2F;try Store a memory, refresh the page, and ask for it back to see if it remembers. If you&#x27;re interested in using the API, I put the documentation here: https:&#x2F;&#x2F;docs.memorysync.io&#x2F; It&#x27;s hosted only at the moment, so there is no self-hosting option. It&#x27;s currently available in one US region, and it takes a few seconds to store a memory. The free plan allows 10k saves and 1k searches per month, and no credit card is required. I&#x27;d like to know if you think this is a useful abstraction for building AI agents, and what else you would expect from a memory API.\n\nНайдено в разделе Show HN на Hacker News. 👍 22 баллов.",
+    "url": "https://memorysync.io/try",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50070688",
+    "createdAt": "2026-10-13T16:14:03.317Z"
+  },
+  {
+    "slug": "helicon-desktop-app-for-metas-muse-code-cli-linux-windows-macos-hn",
+    "title": "Helicon – Desktop App for Meta's Muse Code CLI (Linux, Windows, macOS)",
+    "shortDescription": "Hi Hacker News, I&#x27;m Harjot. I&#x27;ve been using Meta&#x27;s Muse Code CLI daily for a few weeks now. One thing that I found difficult…",
+    "fullDescription": "Hi Hacker News, I&#x27;m Harjot. I&#x27;ve been using Meta&#x27;s Muse Code CLI daily for a few weeks now. One thing that I found difficult to handle was managing or controlling multiple sessions across multiple projects, while using the terminal for the muse CLI. Initially, I used cmux to create workspaces&#x2F;groups for my different projects to group them, and then created 4 split terminals in each of those projects, that ran muse code sessions in each of them. It worked, but it was ugly. I didn&#x27;t like using that. It could be because I&#x27;m not really a terminal person and would much rather prefer a proper dedicated GUI or desktop&#x2F;app interface, and I would prefer it any time over a terminal screen or CLI. So it might be personal preference but yeah. So, I started building a desktop app around it, mainly to scratch my own itch. Helicon is a desktop app for Windows, macOS and Linux, plus a VS Code extension that also works in Cursor and Devin. It doesn&#x27;t replace the CLI. It runs `muse serve` and talks to it, and it reuses your existing `muse login`, so you don&#x27;t have to get an API key and you don&#x27;t pay an extra bill. You can use your existing Muse Code subscription plans. Some things that I use the most: 1. Resuming sessions that I started in the terminal. I don&#x27;t start many sessions in the terminal now that Helicon exists, but initially I wanted to access all the sessions that were running in a terminal to be accessible from Helicon, when it was created initially. 2. Inline diffs that I can approve, similar to how Cursor works. 3. I can clearly see my 5-hour and weekly plan limits directly from the app itself and don&#x27;t have to manually keep going to Meta&#x27;s Muse Code billing page and manually keep refreshing the page to see my current usage&#x2F;limits. I built it using Tauri 2 and React. It is MIT licensed. I built a lot of it with AI coding agents, especially Opus 5.5 (I really like using this model). It&#x27;s at v0.21.9 now, and 9 people have contributed so far. Some issues: the Windows installer isn&#x27;t code-signed yet, so you&#x27;ll see a SmartScreen warning. And the macOS build isn&#x27;t notarized, so you need to click &quot;Open Anyway&quot; once. You can try it in the browser with mock data, no install needed: https:&#x2F;&#x2F;helicon.sh&#x2F;try It&#x27;s unofficial and not affiliated with Meta. If you use a coding CLI every day, what would you want from a GUI for it? And what would make you go back to the terminal?\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/HarjjotSinghh/helicon",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50070313",
+    "createdAt": "2026-10-13T16:14:03.317Z"
+  },
+  {
+    "slug": "autograph-a-music-notation-editor-you-can-drive-with-claude-over-mcp-hn",
+    "title": "Autograph – a music notation editor you can drive with Claude over MCP",
+    "shortDescription": "Hi HN, For the past few months on evenings and weekends, I’ve been working on a music notation editor for iPad and Mac called Autograph. ht…",
+    "fullDescription": "Hi HN, For the past few months on evenings and weekends, I’ve been working on a music notation editor for iPad and Mac called Autograph. https:&#x2F;&#x2F;autographmusic.com It has mcp support, so you can drive it from Claude Code or claude desktop. It’s not just an AI wrapper there is a full music notation engine written in Swift, engraving, playback and pdf export. Please ask any questions or feedback and I’ll be sure to be online for the morning&#x2F;day. I’m looking for what’s missing in the for how you write music and what’s broken especially for handwriting recognition on iPad. Oh and Autograph collects no personal information, but you can select record handwriting on iPad and send me the records so I can improve the handwriting recognition engine, which is rules-based, not a trained model. Also there&#x27;s a 28 day free trial and 29.99$ thereafter, no subscription. It’s not for engraving a symphony although maybe it’ll get there eventually. There’s also lots of stuff in the pipeline so feel free to ask. Who am I: I’m a longtime musician and developer based in Toronto. I take singing and tenor sax lessons. I built it as kind of a love of coding and music. Thanks\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://autographmusic.com",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50070306",
+    "createdAt": "2026-10-13T16:14:03.317Z"
+  },
+  {
+    "slug": "ai-crimes-a-game-where-you-spot-the-bug-an-ai-wrote-hn",
+    "title": "AI Crimes, a game where you spot the bug an AI wrote",
+    "shortDescription": "I&#x27;m holding AI accountable. For the last few months I&#x27;ve been documenting the errors LLMs have been making in my projects and oth…",
+    "fullDescription": "I&#x27;m holding AI accountable. For the last few months I&#x27;ve been documenting the errors LLMs have been making in my projects and others - the crimes they have been committing to projects (pun intended). Now I&#x27;ve turned it into a game to see if you would spot the issue. Free to play with keyword matching judgement. Pay is only to add symantic judging.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://solveaicrimes.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50070259",
+    "createdAt": "2026-10-13T16:14:03.317Z"
+  },
+  {
+    "slug": "acceptodds-a-prediction-market-for-research-hn",
+    "title": "Acceptodds a Prediction Market for Research",
+    "shortDescription": "I built acceptodds.com a prediction market for research paper. Think polymarket but not with real money. It now has several markets includi…",
+    "fullDescription": "I built acceptodds.com a prediction market for research paper. Think polymarket but not with real money. It now has several markets including ICLR 2027 acceptance, Neurips 2026 papers and OpenAI Math results and over 2k registered traders. It&#x27;s an experiment and the hope would be to get a better signal of paper quality than the current review system which is under heavy strain due to AI submissions. Larry Wasserman has an excellent essay that partly inspired this work: https:&#x2F;&#x2F;www.stat.cmu.edu&#x2F;~brian&#x2F;zach-00&#x2F;765-2019&#x2F;764-2016&#x2F;we... If you have suggestions for this lmk and go make some trades to help sort out the good from the bad!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://acceptodds.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50070108",
+    "createdAt": "2026-10-13T16:14:03.317Z"
+  },
+  {
+    "slug": "forkcast-a-meal-planner-and-tracker-with-focus-on-weekly-planning-hn",
+    "title": "Forkcast, a meal planner and tracker with focus on weekly planning",
+    "shortDescription": "Hej HN, I’m Tizzy. I built forkcast, a meal planner and calorie tracker that is built around planning the week ahead instead of ad hoc trac…",
+    "fullDescription": "Hej HN, I’m Tizzy. I built forkcast, a meal planner and calorie tracker that is built around planning the week ahead instead of ad hoc tracking Demo (runs fully in your browser, no sign-up): https:&#x2F;&#x2F;check-forkcast.tizzy.dev&#x2F;demo&#x2F; Repo: https:&#x2F;&#x2F;github.com&#x2F;tizzyapunkt&#x2F;forkcast After signing up for a 90-day challenge to lose weight and get fitter, meal planning and meal prepping have been the most important things, next to exercising oc. The apps that have been suggested for planning and tracking (yazio, fddb, MyFitnessPal), were nice for logging what I just ate but annoying to use as a planning tool so this is where forkcast comes from and how it works differently: - You plan the week against your calorie and macro goals and see which days goals are met. Recipes are logged as their ingredients, not as one entity, which makes swapping ingredients or changing amounts a lot easier eg changing 100g of pasta for 75g of rice. - Recipes serve two purposes. Logging them (leaving out ingredients that do not make sense to log, like herbs) and cooking them (seeing steps and all ingredients). - The grocery list comes straight out of the weekly plan (and can go to Bring! if supported where you live). Packaged food comes from Open Food Facts, generic food from a local, editable catalog which is seeded with common foods. - AI only where it saved me time which was importing recipes from photos and reading nutrition labels. It’s optional and uses your own Anthropic key. Full disclosure at this point: I decided to build something that works for me, a dad of two (when I started they were two under two), full-time job, but still ready to get in shape! I would have loved to code this myself, since I am a software engineer and techie by heart, but my time was limited to reading specs, reviewing code and steering Claude Code. Without that, I would not have anything usable. The stack is Hono + React PWA and deliberately kept without a real DB, multi-user or the like. Self-hosting is possible with docker and under AGPL. I am posting to find out if anyone besides me finds this useful, and if so, whether a hosted version would be worth building besides the self-hosting option. There is a one click vote on https:&#x2F;&#x2F;check-forkcast.tizzy.dev Any feedback is welcome, even if it&#x27;s just &#x27;wow, yet another calorie tracker&#x27;. Oh, and in the meantime, I found out that the clever and creative name I thought I came up with was chosen several times already. Meh. Ideas welcome. :)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://check-forkcast.tizzy.dev/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50070055",
+    "createdAt": "2026-10-13T16:14:03.317Z"
+  },
+  {
     "slug": "opencode-rust-github",
     "title": "opencode-rust",
     "shortDescription": "The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents — no Docker required.",
