@@ -1,5 +1,257 @@
 [
   {
+    "slug": "indra-github",
+    "title": "indra",
+    "shortDescription": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+    "fullDescription": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown\n\nАвтор: datalab-to. Найдено в GitHub Trending (AI-тематика). ⭐ 25 звёзд.",
+    "url": "https://www.datalab.to",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "cpu",
+      "document-parsing",
+      "ocr",
+      "onnx",
+      "pdf",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1416887041",
+    "createdAt": "2026-10-13T21:24:49.471Z"
+  },
+  {
+    "slug": "yt-cartell-studio-source-github",
+    "title": "yt-cartell-studio-source",
+    "shortDescription": "YT Cartell Studio — відкритий код ШІ-відеостудії: історія → план → кадри → відео й озвучка → монтаж. Go, один exe, Windows і macOS. MIT.",
+    "fullDescription": "YT Cartell Studio — відкритий код ШІ-відеостудії: історія → план → кадри → відео й озвучка → монтаж. Go, один exe, Windows і macOS. MIT.\n\nАвтор: gitkalenyuk. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://gitkalenyuk.github.io/yt-cartell-studio/",
+    "category": "image-video",
+    "tags": [
+      "ai",
+      "gio",
+      "go",
+      "open-source",
+      "text-to-video",
+      "video-generation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1416046648",
+    "createdAt": "2026-10-13T21:24:49.471Z"
+  },
+  {
+    "slug": "stack-tender-supplement-tracking-and-product-scanning-hn",
+    "title": "Stack Tender, supplement tracking and product scanning",
+    "shortDescription": "The URL is to a public stack page. Without an account you can view the supplement catalog. It contains over 300 supplements. Yes it is AI g…",
+    "fullDescription": "The URL is to a public stack page. Without an account you can view the supplement catalog. It contains over 300 supplements. Yes it is AI generated but through a fairly long process that involves pulling the latest research, finding sources for supplement dosage and discovering contraindications, interactions and synergies between supplements. If you&#x27;re into taking health supplements, it&#x27;s a great app. I made it for myself initially then just kept going with it, adding features that I wanted as I went along. Now it can even scan your supplement bottles for whats inside and it&#x27;s pretty accurate. If you&#x27;re using the phone app and know how to take a picture it will read your bottle correctly. Open to honest feedback from people who actually use a lot of supplements. If you do make an account, it&#x27;s free, no paid tier or even ads.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://stacktender.com/users/charlie/stacks/memory-and-focus/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50078403",
+    "createdAt": "2026-10-13T21:24:49.255Z"
+  },
+  {
+    "slug": "wonderhop-a-daily-game-guess-what-most-people-say-or-what-none-do-hn",
+    "title": "Wonderhop – A daily game: guess what most people say, or what none do",
+    "shortDescription": "Wonderhop is a game that runs in your browser, with no account to create. Every day there are 4 rounds of 7 questions like &quot;Name a foo…",
+    "fullDescription": "Wonderhop is a game that runs in your browser, with no account to create. Every day there are 4 rounds of 7 questions like &quot;Name a food that a lot of people hate.&quot; We&#x27;re a couple from Montreal, not professional developers. We always liked guessing games where you try to say what most people would say, and one day we wondered what the opposite would look like: a real answer that almost nobody would give. That became the game. We built it in about two months. My girlfriend drew the whole look of it: the rabbit in a hot-air balloon, the cliffs, the sky and the abyss. There are 4 modes. In Sky, you give the answer the most people would give. In Abyss, you give a real answer that almost nobody would give. In Past, it&#x27;s the oldest answer, and in Future, the most recent one. In Sky and Abyss, the higher you climb or the deeper you dive, the more points you score. In Past and Future, you travel through time instead. There&#x27;s a leaderboard for the day. The hardest part, and the most interesting, was understanding answers typed freely, in 10 languages: typos, plurals, nicknames, translations. When an answer isn&#x27;t on the list, it goes to a &quot;judge&quot; that checks it really exists. The percentages start from an estimate, then move with the answers of real players. If the list missed a good answer, it gets added as soon as a few different players give it. There are also secrets hidden in the game, so go find them. To be honest about AI: the code was written with AI tools, and without them we couldn&#x27;t have built this as a two-person team. The questions are generated by AI, then checked and filtered by scripts and a second AI review. My girlfriend&#x27;s drawings were cleaned up with AI. We&#x27;d love to know two things. Is the goal clear from the very first question? And were any good answers rejected unfairly?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://wonderhop.io/en/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50078221",
+    "createdAt": "2026-10-13T21:24:49.255Z"
+  },
+  {
+    "slug": "parsimony-an-open-source-benchmark-for-how-much-code-ai-models-add-hn",
+    "title": "Parsimony – an open-source benchmark for how much code AI models add",
+    "shortDescription": "Existing benchmarks measure solve rate and token output&#x2F;cost, but don&#x27;t punish excess code, which makes a codebase harder to work…",
+    "fullDescription": "Existing benchmarks measure solve rate and token output&#x2F;cost, but don&#x27;t punish excess code, which makes a codebase harder to work with in the long term. I wanted to measure this since it matters most for long-term projects. Method: it takes the patches that benchmarks already publish (DeepSWE, SWE-bench Verified, SWE-bench Live) and counts &quot;coding units&quot;: syntax elements like statements, calls, names and literals. I didn&#x27;t use lines of code, so cramming code isn&#x27;t rewarded. Deleted code is subtracted, so it measures net units. GPT-6 and Claude 5.5 have no public patches yet, so I ran them myself on 3–10 tasks on my own subscriptions (shown as faded circles, not ranked). Any feedback or model contributions are welcome, especially public patch exports for newer models. GitHub: https:&#x2F;&#x2F;github.com&#x2F;La5u&#x2F;Parsimony Not affiliated with any of the benchmarks.\n\nНайдено в разделе Show HN на Hacker News. 👍 10 баллов.",
+    "url": "https://parsimony.lasu.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50077619",
+    "createdAt": "2026-10-13T21:24:49.255Z"
+  },
+  {
+    "slug": "tern-native-macos-ssh-client-in-rustgpui-76-mb-vs-tabbys-580-mb-hn",
+    "title": "Tern – Native macOS SSH Client in Rust/GPUI (76 MB vs. Tabby's 580 MB)",
+    "shortDescription": "On my day to day work i mostly use termius and tabby as multi project ssh tool with vault, somehow most of the features i use are just vaul…",
+    "fullDescription": "On my day to day work i mostly use termius and tabby as multi project ssh tool with vault, somehow most of the features i use are just vault and password manager, and they are bulky, takes about 500mb ram for such simple program, and termius wants paid plan just to sync the vault. There are free tools but their ux is not at that level. So i built my own simple ssh client with a little bit of my taste added, it has vault, password manager, repo sync, background gallery etc. I have been working with rust on my hobby projects about 2-3 years and really got headaches from it, because its really hard to maintain features on rust project while fighting the borrow checker. Now with claude and some llm tools its very easy to build things, even some of the code written by agents is still slop but its fine to live with some slop. The main parts are modified from well written software. Instead of cheap copying or writing from scratch, i copied from real world solutions with apache or mit license, well maintained and well written software that has almost no ai slop. With some amateur level rust knowledge and some inspiration projects its really easy to build such low memory software, it only takes 85-125mb with wallpaper, mostly 80mb ram. Here&#x27;s the repo https:&#x2F;&#x2F;github.com&#x2F;your-moon&#x2F;tern any feedback and feature requests are welcome, i gladly answer\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/your-moon/tern",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50077412",
+    "createdAt": "2026-10-13T21:24:49.255Z"
+  },
+  {
+    "slug": "faster-cheaper-databricks-spark-with-real-time-ml-config-management-hn",
+    "title": "Faster, Cheaper Databricks Spark with Real-Time ML Config Management",
+    "shortDescription": "Проект «Faster, Cheaper Databricks Spark with Real-Time ML Config Management», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Faster, Cheaper Databricks Spark with Real-Time ML Config Management», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://espresso.ai/post/databricks-spark",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50077361",
+    "createdAt": "2026-10-13T21:24:49.255Z"
+  },
+  {
+    "slug": "corextrader-a-cross-platform-trading-dsl-and-voice-ai-terminal-hn",
+    "title": "CoreXTrader – A cross-platform Trading DSL and Voice AI terminal",
+    "shortDescription": "Проект «CoreXTrader – A cross-platform Trading DSL and Voice AI terminal», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «CoreXTrader – A cross-platform Trading DSL and Voice AI terminal», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://corextrader.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50077221",
+    "createdAt": "2026-10-13T21:24:49.255Z"
+  },
+  {
+    "slug": "factory-ds-a-factorio-like-game-for-the-nintendo-ds-hn",
+    "title": "Factory DS, A Factorio-Like Game for the Nintendo DS",
+    "shortDescription": "Hi HN, I&#x27;m Ronan. I love the Nintendo DS but ran out of games that kept me hooked, so I tried porting the kind of game I play today: a…",
+    "fullDescription": "Hi HN, I&#x27;m Ronan. I love the Nintendo DS but ran out of games that kept me hooked, so I tried porting the kind of game I play today: a factory game in the spirit of Factorio, on a 67 MHz ARM9 with 4 MB of RAM. I had never written code for the DS, and I built it with Claude Code. I wrote the specs, the design and the balancing, and Claude wrote most of the C. The post goes through how that worked, and through the technical parts I found the most fun: - a 2048x2048 world that is never stored: terrain is computed from (x, y), only the player&#x27;s changes are kept in a hash table - night done by changing the 256-color palette instead of redrawing the screen - power grids and pipes computed per network with union-find (there is a small step-by-step animation in the post) - trains with schedules, block signals and pathfinding, plus redstone-like logic gates - a headless Mac build of the game with a text interface, so AI agents could play ~470 test sessions and even help balance the game You can download the ROM (English and French) and play it on a flashcart or in melonDS.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://ronangaillard.github.io/posts/factory-ds-a-factory-game-for-the-nintendo-ds/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50076586",
+    "createdAt": "2026-10-13T21:24:49.255Z"
+  },
+  {
+    "slug": "commit-aware-router-route-llm-traffic-around-your-aicloud-commitments-hn",
+    "title": "Commit-Aware Router, route LLM traffic around your AI/cloud commitments",
+    "shortDescription": "LLM routers can optimize for different factors like price, latency, quality, etc. Enterprises tend to have prepaid AI credits, minimum-spen…",
+    "fullDescription": "LLM routers can optimize for different factors like price, latency, quality, etc. Enterprises tend to have prepaid AI credits, minimum-spend agreements, cloud commitments, or commercial ceilings across OpenAI, Anthropic, AWS, Azure, and other providers. We’ll call these “AI commits”. This project is designed to consider the state of an enterprises’ current AI commits and use it to inform LLM routing decisions alongside other common variables (price, performance, etc.). This is an early PoC built using LiteLLM. Target audience would CFOs, Strategic Finance, FinOps, Cloud Finance, and AI Platform folks who care about making sure AI commit minimums are met, and maximums are not exceeded. Would love any feedback from folks!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/tejaspruthi/CommitAwareRouter",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50076439",
+    "createdAt": "2026-10-13T21:24:49.255Z"
+  },
+  {
+    "slug": "hatoba-an-open-source-ssh-client-with-an-ai-assistant-and-e2ee-sync-hn",
+    "title": "Hatoba, an open-source SSH client with an AI assistant and E2EE sync",
+    "shortDescription": "I&#x27;ve used SSH tools for years and didn&#x27;t really plan on building yet another SSH client, but I ended up building one the way I wa…",
+    "fullDescription": "I&#x27;ve used SSH tools for years and didn&#x27;t really plan on building yet another SSH client, but I ended up building one the way I wanted. Hatoba is a desktop SSH client for Windows, Linux and macOS. It&#x27;s written in Rust with Tauri 2 and MIT licensed. Each terminal has an AI assistant panel next to it. You describe the problem, and it reads the terminal screen, runs commands, types into the shell, and reads, edits and searches files on the host to find the cause and fix it. You can approve every command and edit it before it runs, let a model you pick approve the safe ones, or turn approval off. Files it changes show a diff you can undo. It works with any OpenAI-compatible or Anthropic API, local models included, and supports skills and MCP servers. Sync doesn&#x27;t go through a server of mine. Hatoba deploys a Worker and a D1 database to your own Cloudflare account and syncs hosts, keys and AI conversations through them. The free plan usually covers personal use. Everything is encrypted on the device before it leaves. Keys are derived from your master password with Argon2id, every item is encrypted with AES-256-GCM, and the Worker only stores ciphertext plus the hashes it needs to sign you in. Someone who gets hold of the whole Cloudflare account still only gets ciphertext. Sync is optional, and everything works offline without it. The usual SSH client features are there too: groups, tags and fuzzy search, ~&#x2F;.ssh&#x2F;config import, ProxyJump and SOCKS5&#x2F;HTTP proxies, an SFTP panel, local port forwarding, and a key vault that imports OpenSSH, PEM and PuTTY keys. There&#x27;s also a dashboard showing CPU, memory, disk and network for every saved host, read over plain SSH with nothing installed on the servers. SSH is russh, the terminal is xterm.js with the WebGL renderer, and the UI is React. I develop on Windows, so it&#x27;s Windows first, with a custom title bar that supports Snap Layouts and Mica, and working CJK input methods. The Linux packages and the macOS build get far less testing on real machines. The macOS build is Apple Silicon only and isn&#x27;t notarized, so macOS blocks it on first launch until you allow it in Privacy &amp; Security. Bug reports from Linux and Mac users would help the most. Website: https:&#x2F;&#x2F;hatoba.fog.moe Downloads: https:&#x2F;&#x2F;hatoba.fog.moe&#x2F;download&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/scarletkc/Hatoba",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50076388",
+    "createdAt": "2026-10-13T21:24:49.255Z"
+  },
+  {
+    "slug": "deslop-oxlint-rules-for-ai-generated-typescript-hn",
+    "title": "Deslop – Oxlint rules for AI-generated TypeScript",
+    "shortDescription": "Catches unsafe types, duplicate code, and low-value tests.",
+    "fullDescription": "Catches unsafe types, duplicate code, and low-value tests.\n\nНайдено в разделе Show HN на Hacker News. 👍 20 баллов.",
+    "url": "https://github.com/maharshi365/deslop",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50075809",
+    "createdAt": "2026-10-13T21:24:49.255Z"
+  },
+  {
+    "slug": "the-first-open-weight-model-for-general-deterministic-task-hn",
+    "title": "The first open-weight model for general deterministic task",
+    "shortDescription": "Hey HN! Today we’re releasing interfaze-1.1-lite, an open-weight model for tasks with a deterministic answer: OCR, STT with speaker diariza…",
+    "fullDescription": "Hey HN! Today we’re releasing interfaze-1.1-lite, an open-weight model for tasks with a deterministic answer: OCR, STT with speaker diarization, classification and more. Lite is a reasoning core plus a collection of specialist models (document reader, line detector, speech recognizer, segmentation). The core chooses the specialists to be executed and produces the answer in your JSON schema. The specialist models give you: bounding boxes, word timestamps and a confidence score per each line and word. The raw outputs are returned next to the answer so that you can filter based on that. E.g., post rows above 0.9 automatically and forward the rest to a human. Runs on a single 80 GB GPU (e.g. H100) without any additional services. Happy to answer any questions regarding the architecture, benchmarks and limitations.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://huggingface.co/interfaze-ai/interfaze-1-lite",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50075058",
+    "createdAt": "2026-10-13T21:24:49.255Z"
+  },
+  {
+    "slug": "let-muse-book-your-services-and-leave-you-a-message-hn",
+    "title": "Let Muse book your services and leave you a message",
+    "shortDescription": "Проект «Let Muse book your services and leave you a message», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Let Muse book your services and leave you a message», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/mudroom-ai/gateway",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50074958",
+    "createdAt": "2026-10-13T21:24:49.255Z"
+  },
+  {
+    "slug": "treesum-replace-ms-excelproject-with-a-code-editor-hn",
+    "title": "Treesum – Replace MS Excel/Project with a Code Editor",
+    "shortDescription": "# Intro The goal of this software is to make it easy to get the plan that&#x27;s in your head onto the page. Start with the outline then ad…",
+    "fullDescription": "# Intro The goal of this software is to make it easy to get the plan that&#x27;s in your head onto the page. Start with the outline then add details. Then more details. Then numbers: costs, time, quantities. Then organize and categorize with #tags. All the sums, graphs and pivot table functionality happens automatically in the Calcs, Timeline, Stats views. And everything looks nice without you having to format it. Currently, it&#x27;s all local, saved in your browser. Save your plan permanently by downloading the &#x27;.tsum&#x27; file. Open (upload) the &#x27;.tsum&#x27; to start working again. Everything happens in the browser. The files are stored where ever you like. The &#x27;.tsum&#x27; file is just text - human and AI readable. Use it to plan anything. We hope it works like your brain does - by organizing things in trees. # Story This software is entirely vibe-coded. It had to be - none of my developer friends would help me out. The front end JS on this app is too complex for a part time developer like myself. I&#x27;ve had this idea for a while and was only able to bring it to life because of AI. It may not gain traction, but at least I can put it out there, use it myself, or stop thinking about it altogether. It&#x27;s amazing to see it and actually use it - to know if my idea was good or not, at least for me. And I&#x27;m actually happy with it and have been using it. If you have thoughts about the idea, feel free to let me know. I&#x27;m open to suggestions for improvement. # Disclaimer This tool is mainly intended to help with project planning. But it can be used for any data that looks more like a tree than a table. Creating a quote or estimate for one-off projects is my favorite use case. The varying structure of costs across lumber, electrical, concrete and labor fits well. Obviously, it doesn&#x27;t replace all the many things Excel can do. It tries to improve on MS Project by making it easier to get your schedule on the page by coding into an editor instead of poking at menus in a GUI. It is still a proof of concept at this point, not a bullet-proof software package. If there&#x27;s interest, it will be developed further. For now, it&#x27;s good enough for me. # Roadmap I want this software to be the Excalidraw of Excel: free, simple, browser-based and fun to use. There are great things that Excalidraw does that would require servers and more costs. These features could be turned into a paid product if there is interest. So, if you&#x27;re interested, please let me know: treesum.app (at) gmail.com. # Thanks HN This project would not have been possible with out AI. But also not without HN. Reading HN nearly every work day really shapes how to think about software and presenting it to people - especially for someone who is not a full-time developer. It&#x27;s a great community and I&#x27;ve happily been a member since (at least) 2013.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.treesum.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50074864",
+    "createdAt": "2026-10-13T21:24:49.256Z"
+  },
+  {
     "slug": "opencode-free-bridge-github",
     "title": "opencode-free-bridge",
     "shortDescription": "OpenAI-compatible bridge for OpenCode free-tier models — no account required",
