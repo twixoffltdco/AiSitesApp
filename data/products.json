@@ -1,5 +1,183 @@
 [
   {
+    "slug": "opencode-rust-github",
+    "title": "opencode-rust",
+    "shortDescription": "The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents — no Docker required.",
+    "fullDescription": "The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents — no Docker required.\n\nАвтор: vakandi. Найдено в GitHub Trending (AI-тематика). ⭐ 35 звёзд.",
+    "url": "https://vakandi.github.io/opencode-rust/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "cli",
+      "coding-agent",
+      "llm",
+      "lsp",
+      "mcp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1416407675",
+    "createdAt": "2026-10-13T08:04:28.208Z"
+  },
+  {
+    "slug": "dsh-prompt-forge-github",
+    "title": "dsh-prompt-forge",
+    "shortDescription": "WorkBuddy's 增强提示词 (Enhance Prompt) as a DeepSeek Harness plugin: rewrite the composer draft into a stronger prompt with one click.",
+    "fullDescription": "WorkBuddy's 增强提示词 (Enhance Prompt) as a DeepSeek Harness plugin: rewrite the composer draft into a stronger prompt with one click.\n\nАвтор: 2861292267. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/2861292267/dsh-prompt-forge",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "deepseek-harness",
+      "dsh-plugin",
+      "plugin",
+      "prompt-engineering",
+      "workbuddy",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1415296748",
+    "createdAt": "2026-10-13T08:04:28.208Z"
+  },
+  {
+    "slug": "tracesmd-github",
+    "title": "TRACES.md",
+    "shortDescription": "TRACES.md — AGENTS.md, but for what agents did. A simple, open format for recording what AI agents did, for error analysis and self-optimiz…",
+    "fullDescription": "TRACES.md — AGENTS.md, but for what agents did. A simple, open format for recording what AI agents did, for error analysis and self-optimization.\n\nАвтор: MaxonT. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://maxont.github.io/TRACES.md/",
+    "category": "developer",
+    "tags": [
+      "agent-traces",
+      "agentic-ai",
+      "agents-md",
+      "ai",
+      "ai-agents",
+      "andrew-ng",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1416136262",
+    "createdAt": "2026-10-13T08:04:28.208Z"
+  },
+  {
+    "slug": "lightweight-self-hosted-web-analytics-app-hn",
+    "title": "Lightweight, self-hosted, web analytics app",
+    "shortDescription": "Hey everyone! I just wanted to share a little project I have been working on. It&#x27;s a lightweight, minimal, self-hosted, web analytics…",
+    "fullDescription": "Hey everyone! I just wanted to share a little project I have been working on. It&#x27;s a lightweight, minimal, self-hosted, web analytics app alternative to Google Analytics, Umami, GoatCounter etc. Tldr: Created a self hosted web analytics app that is one binary (docker image available). AI was used to assist. Check it out if you care. I wanted to self host a lightweight web analytics app to see if any of my pages had any visitors, but all of the self hosted apps I found were either way to heavy for what I was looking for, or simply didn’t have a UI&#x2F;UX I liked. So I just made one myself. The app features a dashboard with multi-site and subdomain support, and some simple filtering on date and visitor details (all EU regulation friendly, so no PIs such as IPs etc). A bit about the process: As I wanted it simple and lightweight, a single executable was the goal. Deciding for the frontend was easy since it doesn’t need SEO or any server side rendering, therefore I chose React with plain CSR (thankfully the DX these days is nice with Vite). The backend was a bit more tricky, since I wanted to have it fast, but also be able to get an MVP out sooner rather than later. The plan was thus two folded; first to do it in Deno to keep everything TypeScript and to implement features fast (it is still my go-to language for prototypes), then to refactor everything to a compiled language (Go or Rust) once I considered the app feature complete. So I started the prototype, but just a couple of days later, the announcement of Deno being sunset came out. As I had already gotten to a point where the backend was mostly functional, I decided to pull the plug early and refactor! The tough decision was Rust vs Go, and Rust ultimately won as I like the DX and how the language looks and writes a wee bit more. So I did what most engineers do in 2026 (looking at you Bun), and I asked my AI for help. Although I consider myself pretty ok with Rust, there are still parts that I haven’t wrapped my head around fully, so as the intention was to get something out fast, I had to bite the bullet. Lastly for the database I wanted something embedded, so SQLite was the natural choice. The final app ended up with a decent ~10mb (down from ~250mb with Deno) which I don’t think is too shabby. Some quick benchmarking on 1 cpu and 2gb RAM told me it could handle ~16.000 incoming analytics requests per second. The bottleneck being the database writer lock (give it more CPU, and it can do better). As this is a hobby project, and I dont expect a peak load of more than maybe 10 a day, I am content with this. I consider this app mostly feature complete, and will use it for the next month before eventually releasing a v1 after fixing whatever bugs that may show themselves. If you think you can improve the app further and want to spend time on it, feel free to make a PR ^^ To sum up the stack: React+Vite+TanStack+Tailwind frontend, Rust+Axum backend and SQLite database; all compiled to one binary of about ~10mb. Disclaimer: Yes, AI has been used for parts of the development, docs and for commit messages, but the code has been reviewed and iterated over by me, a somewhat reasonably sentient human.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/lmxrd/potoo",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50068234",
+    "createdAt": "2026-10-13T08:04:27.991Z"
+  },
+  {
+    "slug": "gotemail-a-native-mac-mail-app-with-one-click-sign-in-codes-hn",
+    "title": "GotEmail – a native Mac mail app with one-click sign-in codes",
+    "shortDescription": "Hi HN, I&#x27;m one of the two people behind GotEmail. It&#x27;s a native Mac mail client for IMAP accounts (Gmail, Outlook, iCloud, Fastma…",
+    "fullDescription": "Hi HN, I&#x27;m one of the two people behind GotEmail. It&#x27;s a native Mac mail client for IMAP accounts (Gmail, Outlook, iCloud, Fastmail, any IMAP). Things we focused on: speed, a calm UI, and small things like copying a sign-in code or opening a magic link from a login email in one click. AI drafting and summaries are there, but only when you ask. It&#x27;s a one-time purchase, $19.99, for every Mac you own. Happy to answer anything, and critical feedback is very welcome.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://gotemail.net/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50068031",
+    "createdAt": "2026-10-13T08:04:27.991Z"
+  },
+  {
+    "slug": "bifrost-high-performance-ai-gateway-hn",
+    "title": "Bifrost – High-performance AI gateway",
+    "shortDescription": "Проект «Bifrost – High-performance AI gateway», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Bifrost – High-performance AI gateway», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/maximhq/bifrost",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50067832",
+    "createdAt": "2026-10-13T08:04:27.991Z"
+  },
+  {
+    "slug": "proofsource-find-where-ai-leaves-you-out-and-fix-it-hn",
+    "title": "Proofsource. Find where AI leaves you out. And Fix it",
+    "shortDescription": "Hi HN. I am Lokesh. I built Proofsource as an internal tool to help my finance ERP product , Rivane, to gain visibility into AI engines lik…",
+    "fullDescription": "Hi HN. I am Lokesh. I built Proofsource as an internal tool to help my finance ERP product , Rivane, to gain visibility into AI engines like ChatGPT, Claude, Perplexity, Google AI mode and such. But when I talked about it to my friends, they also saw value in it and it became a product of itself. And now proofsource had 5 paying customers(paying $1500pm in total) in the first week itself and more than 60 brands used it to get their visibility since we launched out of beta last week. What proofsource does is that it queries ChatGPT, Perplexity, Claude and Google AI Overviews using the questions or prompts that buyers normally ask and then it shows then which competitor shows up instead of their own brand for the questions&#x2F;prompt. It also gives visibility into which sources the answers cite and other things like sentiments. Everything is shown to you along with what to fix and how each data and number is calculated to give 100% transparency into what we did and why and how you can use all this information to improve your visibility. We are still adding features based on initial user&#x27;s feedback like auto fixing and publishing to their social and web platforms. Running ads for them for improving the visibility. We are just learning as we interact with each customer so feel free to share your feedback. And thank you for your time. :)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://proofsource.co/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50067749",
+    "createdAt": "2026-10-13T08:04:27.992Z"
+  },
+  {
+    "slug": "search-for-ai-agents-with-usefulness-score-built-in-hn",
+    "title": "Search for AI agents with usefulness score built in",
+    "shortDescription": "Hi HN. I partnered with Simon Kley to build this project at innovation intelligence hackathon (Berkeley). Simply, we’re building a usefulne…",
+    "fullDescription": "Hi HN. I partnered with Simon Kley to build this project at innovation intelligence hackathon (Berkeley). Simply, we’re building a usefulness score on top of search for ai-agents. Instead of agents reading 10 ranked relevant pages, we run a usefulness score first and give it only those that pass. We’re able to save token and cost with this and slightly better answers. During our research, we found out that the current search results already do justice when it comes to simple queries. The rankings work well. They struggle when the task requires deep research or recency matters. So, we decided to talk to devs building ai-agents that research companies for sales outreach. Deep research and recency matters a lot to them. And in their words “every so often, stale facts reach emails.” They catch them by someone responding to the email or human review. From our tests, When an agent got outdated alert for 7 companies, it pitched outdated news for 4 out of them. Talking to the engineers already building this agents, we learned that cost saving is not the real goal. They’re ready to pay premium for confident results. So we added another check to our score. We call it superseding score, it check for pages replaced by newer news. For example, if two recent pages were fetched for news on Humane ai pin. If the first talks about how groundbreaking the product is and the second did that + talked about the HP acquisition, then the second page supersedes the first. The first page gets a lower score. We’re looking for feedbacks here and also teams that are building agents that research companies for outreach. Thanks. Plus, we rank a page once and every agent reuses it, so the more the agents use us, the cheaper the search gets.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Ayobamiu/usefulness-search",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50066559",
+    "createdAt": "2026-10-13T08:04:27.992Z"
+  },
+  {
+    "slug": "malleable-video-editor-that-adapts-to-your-workflow-hn",
+    "title": "Malleable video editor that adapts to your workflow",
+    "shortDescription": "Both me and my cofounder are in high school, and we&#x27;re currently building Powermove, a video-editing tool that connects to an AI agent…",
+    "fullDescription": "Both me and my cofounder are in high school, and we&#x27;re currently building Powermove, a video-editing tool that connects to an AI agent, letting users modify the app featureset, and generate effects and extensions. We think this is the next step when it comes to software. We&#x27;re already starting to see it, especially since a similar feature was just added recently in Claude Code. We believe that it will prove most useful in creative software though, and allow creatives to make essentially anything they want. As a motion designer myself with a few years of experience, it has already turbocharged my outputs. The video you&#x27;re seeing above was only possible with Powermove. It&#x27;s also completely free and open source.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/iterative-computer/powermove",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50066460",
+    "createdAt": "2026-10-13T08:04:27.992Z"
+  },
+  {
+    "slug": "rl-environment-for-complex-ml-development-hn",
+    "title": "RL environment for complex ML Development",
+    "shortDescription": "Проект «RL environment for complex ML Development», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «RL environment for complex ML Development», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://blazerops.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50066393",
+    "createdAt": "2026-10-13T08:04:27.992Z"
+  },
+  {
     "slug": "vibereceipt-github",
     "title": "vibereceipt",
     "shortDescription": "Print a store receipt for your AI coding: tokens, what they'd cost at API prices, and how many times the agent said \"You're absolutely righ…",
