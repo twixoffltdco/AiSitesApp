@@ -1,5 +1,106 @@
 [
   {
+    "slug": "skopos-github",
+    "title": "skopos",
+    "shortDescription": "AI-powered infrastructure incident investigation, remediation, and verification.",
+    "fullDescription": "AI-powered infrastructure incident investigation, remediation, and verification.\n\nАвтор: skopos-org. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://skopos-org.github.io/skopos/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "elixir",
+      "incident-response",
+      "infrastructure",
+      "phoenix",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1418146781",
+    "createdAt": "2026-10-14T05:15:36.698Z"
+  },
+  {
+    "slug": "fabee-an-ai-nutrition-coach-get-advice-that-fits-youios-hn",
+    "title": "Fabee, an AI nutrition coach, get advice that fits you.(iOS)",
+    "shortDescription": "Проект «Fabee, an AI nutrition coach, get advice that fits you.(iOS)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Fabee, an AI nutrition coach, get advice that fits you.(iOS)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://heyfabee.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50082451",
+    "createdAt": "2026-10-14T05:15:36.641Z"
+  },
+  {
+    "slug": "agentgate-fast-authorization-gateway-for-ai-agent-tools-hn",
+    "title": "AgentGate – Fast authorization gateway for AI agent tools",
+    "shortDescription": "Проект «AgentGate – Fast authorization gateway for AI agent tools», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AgentGate – Fast authorization gateway for AI agent tools», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/mohitdebian/AgentGate",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50082319",
+    "createdAt": "2026-10-14T05:15:36.641Z"
+  },
+  {
+    "slug": "genclass-a-10-mb-in-browser-model-that-catches-bugs-that-never-throw-hn",
+    "title": "GenClass, A 10 MB in-browser model that catches bugs that never throw",
+    "shortDescription": "Daybot is ranked number two in Canada, after Shopify, for making e-commerce stores. With a lot of AI-generated stores like Daybot&#x27;s, w…",
+    "fullDescription": "Daybot is ranked number two in Canada, after Shopify, for making e-commerce stores. With a lot of AI-generated stores like Daybot&#x27;s, we ran into the issue of the CSS sometimes not being up to standard. For example, the text and the background might end up the same color. I&#x27;ve also seen that race conditions often happen on the client side and are never caught in test cases, because they aren&#x27;t tested under load, or because clients sometimes do actions that are just random. With AI-generated code becoming more popular, we thought that an AI agent that runs in the browser at runtime, is very lightweight, catches bugs like race conditions, stops unintended behavior, and gets better the more users use it would completely change the game. Now you can even run code faster. So I want you to try it out. You can add it with one line. It&#x27;s published as an npm package. Please let me know what you think.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.npmjs.com/package/@genclass/runtime",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50081861",
+    "createdAt": "2026-10-14T05:15:36.641Z"
+  },
+  {
+    "slug": "can-ai-read-your-mind-hn",
+    "title": "Can AI read your mind?",
+    "shortDescription": "Проект «Can AI read your mind?», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Can AI read your mind?», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://jeffyclassify.com/blog/mind-reader/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50081353",
+    "createdAt": "2026-10-14T05:15:36.641Z"
+  },
+  {
+    "slug": "ai-hub-open-access-lesson-plans-for-teaching-students-about-ai-hn",
+    "title": "AI Hub – Open Access Lesson Plans for Teaching Students about AI",
+    "shortDescription": "The AI Hub provides 91 curated lesson plans teaching middle and high school students about AI - how it works, what the risks and benefits o…",
+    "fullDescription": "The AI Hub provides 91 curated lesson plans teaching middle and high school students about AI - how it works, what the risks and benefits of AI are, and how it is impacting society. These activities come from six different nonprofit organizations that are building educational resources for classrooms. Our nonprofit worked with 16 different teachers to comb through more than 200 different resources, with the teachers vetting these resources to find the best resources for their classrooms. The end result is 91 different lesson plans and activities that cover a wide range of different topics. Schools across Pittsburgh will be using these resources over the course of this year to help teach their students about AI, and they will be scaled up nationally over the coming years. If you&#x27;re a human that has thoughts or feedback, please drop a comment! What&#x27;s top of mind: &quot;What else should we teach students?&quot; I&#x27;d appreciate any ideas you all have as we continue to build and refine this library of resources.\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://aihub.remakelearning.org/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50081297",
+    "createdAt": "2026-10-14T05:15:36.641Z"
+  },
+  {
     "slug": "benchmark-coding-agents-on-deploying-apps-hn",
     "title": "Benchmark coding agents on deploying apps",
     "shortDescription": "Проект «Benchmark coding agents on deploying apps», опубликован сообществом Hacker News.",
