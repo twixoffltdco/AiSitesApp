@@ -1,5 +1,85 @@
 [
   {
+    "slug": "fantastic-canvas-hn",
+    "title": "Fantastic Canvas",
+    "shortDescription": "Fantastic is my own harness. It runs on an Erlang-like, OS-like meta-runtime instead of agent loops or agent graphs. I believe this is the…",
+    "fullDescription": "Fantastic is my own harness. It runs on an Erlang-like, OS-like meta-runtime instead of agent loops or agent graphs. I believe this is the right design for an AI runtime: it puts humans, AI agents and tools on equal footing. It will grow into a convenient multi-OS runtime that can do what other AI libraries and harnesses do. For now it’s a technical demo with two modes: a CLI coder, and a spatial canvas that’s very handy for a lot of everyday work. I think the canvas mode is the kind of software we’ll all be using in the 2030s. I don’t have a name for it yet, so for now let’s call it “emergent software”. The idea is that you build, run and engineer your own systems visually, with help from AI, inside your own dynamic interface that you build for yourself. It’s a lot of fun, especially for multimedia projects. For example, in a canvas project I’m still working on, a third-party AI agent generates UI and agents: it builds a control panel for making a Manim animation, and a viewport for a Blender video built from the Manim animation’s guidelines. I’ll record a video later; for now I just want to share the general idea. Maybe someone will like it. If anyone wants to talk about it more, let me know in the comments and I’ll respond. Have a fantastic day! Oleksandr\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/aisixteen/fantastic",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50096424",
+    "createdAt": "2026-10-14T22:57:57.214Z"
+  },
+  {
+    "slug": "checkobot-detect-deepfakes-and-ai-images-hn",
+    "title": "Checkobot – Detect Deepfakes and AI Images",
+    "shortDescription": "Hello HN, I am Kartikeya &amp; we are building the best AI Slop Detector - Checkobot. Current AI Image Detectors are functionally jagged. S…",
+    "fullDescription": "Hello HN, I am Kartikeya &amp; we are building the best AI Slop Detector - Checkobot. Current AI Image Detectors are functionally jagged. Some are not able to detect deepfakes, some fail on the latest flux models. Some have an unacceptable false flag rate on genuine images. We have been solving the deepfake detection problem at our parent company - SpoofSense.ai for a while now &amp; we wanted to train a general purpose AI Image Detector that actually works. Checkobot does 3 things: 1.Full Image Model - Detect for AI generator signals in the entire image. 2. Face Specialist - Focuses only on the face to spot face-swaps, edits. 3. C2PA - Checks if the file has signed Content Credentials that record AI generation or editing. Free checks are processed in memory and not stored; we keep the SHA-256 and the verdict. 3 free checks a day. I&#x27;d like to hear where it gets things wrong, especially images it misses or flags unfairly.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://checkobot.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50094049",
+    "createdAt": "2026-10-14T22:57:57.214Z"
+  },
+  {
+    "slug": "oss-ai-engineering-telemetry-without-collecting-prompts-or-code-hn",
+    "title": "OSS AI engineering telemetry without collecting prompts or code",
+    "shortDescription": "Проект «OSS AI engineering telemetry without collecting prompts or code», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «OSS AI engineering telemetry without collecting prompts or code», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/ascendaone-com/ai-engineer-tools",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50094034",
+    "createdAt": "2026-10-14T22:57:57.214Z"
+  },
+  {
+    "slug": "dub-anything-dub-videos-in-each-actors-own-voice-hn",
+    "title": "Dub Anything – Dub videos in each actor's own voice",
+    "shortDescription": "There are many movies and shows out there with neither subtitles or dubs in English (or any other language). Pretty much impossible to watc…",
+    "fullDescription": "There are many movies and shows out there with neither subtitles or dubs in English (or any other language). Pretty much impossible to watch. With SOTA AI now directing the process, you can do it locally on your machine. You basically just clone the repo, open up Codex or Claude and tell it to dub the video you want in the language you want. The repo contains all the scripts and guidance I&#x27;ve developed over the past few weeks to create dubs that are watchable, as an added bonus the voices in the dub are the actors own voices which is really nice. Also it&#x27;s self improving, each dub may modify the scripts for better fidelity. So feel free to push them back to the repo so everyone benefits. Thanks.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/swax/dub-anything",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50094005",
+    "createdAt": "2026-10-14T22:57:57.214Z"
+  },
+  {
+    "slug": "ai-interview-index-which-companies-allow-ai-in-coding-interviews-hn",
+    "title": "AI Interview Index – which companies allow AI in coding interviews",
+    "shortDescription": "Проект «AI Interview Index – which companies allow AI in coding interviews», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Interview Index – which companies allow AI in coding interviews», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aiinterviewindex.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50093749",
+    "createdAt": "2026-10-14T22:57:57.214Z"
+  },
+  {
     "slug": "laravel-ai-blog-github",
     "title": "laravel-ai-blog",
     "shortDescription": "Laravel blog package with built-in SEO scoring, AI drafting (laravel/ai) and an MCP server so Claude and ChatGPT can write to it. Headless…",
