@@ -1,5 +1,85 @@
 [
   {
+    "slug": "benchmark-coding-agents-on-deploying-apps-hn",
+    "title": "Benchmark coding agents on deploying apps",
+    "shortDescription": "Проект «Benchmark coding agents on deploying apps», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Benchmark coding agents on deploying apps», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/cloudishai/ai-deploy-bench",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50080712",
+    "createdAt": "2026-10-14T00:28:23.442Z"
+  },
+  {
+    "slug": "jevcrawl-a-web-crawler-for-ai-agents-with-no-llm-in-the-crawl-loop-hn",
+    "title": "Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop",
+    "shortDescription": "Проект «Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/RayenMlayeh/jevcrawl",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50080450",
+    "createdAt": "2026-10-14T00:28:23.442Z"
+  },
+  {
+    "slug": "pulse-local-a-mac-budgeting-app-whose-ai-models-run-on-your-machine-hn",
+    "title": "Pulse Local, a Mac budgeting app whose AI models run on your machine",
+    "shortDescription": "Hi HN, I&#x27;m Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models th…",
+    "fullDescription": "Hi HN, I&#x27;m Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger and your questions stay on the machine, and the app sends no analytics or crash logs. I felt there are not enough consumer apps that run locally with no calls to the outside world that help us manage sensitive corners of our lives. This app in its local variant only downloads a couple of models and occasional updates, it does not send any analytics nor data. Features-wise, Pulse local is a complete budgeting app that offers an assistant built on top of a fine-tuned model and thousands of rules embedded in the code itself. I&#x27;m sharing it for free with options to help me continue experimenting with fine-tuning and expanding along this direction. How it works: you import a CSV from any bank, in any currency. When you ask a question, a tuned Qwen3 0.6B model reads it into a structured query, and code, not the model, does the money math against the ledger. A 4B checker model double-checks each money answer; when the two readings disagree, the app says it is not sure instead of guessing. That change took wrong answers from about one in five to 5 in 494 questions across our last three tests. The write-up covers how we test, the designs that failed, and the limits of the claim: https:&#x2F;&#x2F;pulseos.finance&#x2F;pulse-local&#x2F;writing&#x2F;agree-or-not-sur... The tuned weights are on Hugging Face (PulseOS&#x2F;pulse-local-qwen3-0.6b). Limitations: the first start downloads about 2.9 GB of models. With the checker on, a money answer takes 12 to 14 seconds (you can turn the checker off). Small models can still misread an open-ended question. The app answers in English. Mac only for now; Windows is next. The app is free. An optional Connected mode (Sync Pass, $29&#x2F;year) syncs US banks through Plaid; transactions pass through our server&#x27;s memory and are not stored. Feedback welcome, especially on wrong answers and on questions it should handle but does not.\n\nНайдено в разделе Show HN на Hacker News. 👍 17 баллов.",
+    "url": "https://pulseos.finance",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50080275",
+    "createdAt": "2026-10-14T00:28:23.442Z"
+  },
+  {
+    "slug": "sugabots-group-chats-where-your-team-and-ai-agents-work-together-hn",
+    "title": "Sugabots – Group chats where your team and AI agents work together",
+    "shortDescription": "Showing off Sugabots, an internal project I built at work that we&#x27;ve decided to open-source. I got tired of the team just copying cont…",
+    "fullDescription": "Showing off Sugabots, an internal project I built at work that we&#x27;ve decided to open-source. I got tired of the team just copying context between agents and Slack. So I built an internal tool for shared chats where our team and agents could work together, using our choice of models and tools. The team is now actively maintaining and building on it to add all the features we&#x27;re missing. We&#x27;ve shared a hosted offering with a few other teams and has proven useful for them too. Its open-source (MIT) and self-hostable if you want to use it yourself. Let me know what you think.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://sugabots.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50079791",
+    "createdAt": "2026-10-14T00:28:23.442Z"
+  },
+  {
+    "slug": "keep-your-eyes-in-one-place-while-typing-hn",
+    "title": "Keep your eyes in one place while typing",
+    "shortDescription": "I wanted a way of typing that&#x27;s tuned towards stream of consciousness&#x2F;get down a bunch of words quickly. And I&#x27;m too lazy to…",
+    "fullDescription": "I wanted a way of typing that&#x27;s tuned towards stream of consciousness&#x2F;get down a bunch of words quickly. And I&#x27;m too lazy to move my eyes, so I wanted something where I could relax my eyes&#x2F;brain and just get words out.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://claude.ai/artifact/XrdjCJXgerVYbG75qzv3HB",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50079111",
+    "createdAt": "2026-10-14T00:28:23.442Z"
+  },
+  {
     "slug": "indra-github",
     "title": "indra",
     "shortDescription": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
