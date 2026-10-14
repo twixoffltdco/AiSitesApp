@@ -1,5 +1,247 @@
 [
   {
+    "slug": "laravel-ai-blog-github",
+    "title": "laravel-ai-blog",
+    "shortDescription": "Laravel blog package with built-in SEO scoring, AI drafting (laravel/ai) and an MCP server so Claude and ChatGPT can write to it. Headless…",
+    "fullDescription": "Laravel blog package with built-in SEO scoring, AI drafting (laravel/ai) and an MCP server so Claude and ChatGPT can write to it. Headless by default.\n\nАвтор: HawkForge. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://packagist.org/packages/hawkforge/laravel-ai-blog",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "blog",
+      "blogging",
+      "chatgpt",
+      "claude",
+      "cms",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1418866998",
+    "createdAt": "2026-10-14T19:34:30.489Z"
+  },
+  {
+    "slug": "skilldocker-github",
+    "title": "SkillDocker",
+    "shortDescription": "The Visual Dock & Live Steering Hub for AI Agent Skills. A local-first, lightweight desktop HUD to discover, inspect, and hot-inject direct…",
+    "fullDescription": "The Visual Dock & Live Steering Hub for AI Agent Skills. A local-first, lightweight desktop HUD to discover, inspect, and hot-inject directives across Antigravity, Claude Code, Codex, and Cursor.\n\nАвтор: santiago0071. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://skilldocker.com",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "agent-skills",
+      "ai",
+      "aiagent",
+      "antigravity",
+      "claude-code",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1418494220",
+    "createdAt": "2026-10-14T19:34:30.489Z"
+  },
+  {
+    "slug": "vita-port-skill-github",
+    "title": "vita-port-skill",
+    "shortDescription": "Agent skill for porting games and engines to the PS Vita (VPK homebrew): VitaSDK, vitaGL, Android .so loader, static recomp, API emulation",
+    "fullDescription": "Agent skill for porting games and engines to the PS Vita (VPK homebrew): VitaSDK, vitaGL, Android .so loader, static recomp, API emulation\n\nАвтор: Yannis100. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://skills.sh/Yannis100/vita-port-skill",
+    "category": "developer",
+    "tags": [
+      "agent-skill",
+      "ai",
+      "homebrew",
+      "psvita",
+      "psvita-homebrew",
+      "vitagl",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1419075597",
+    "createdAt": "2026-10-14T19:34:30.489Z"
+  },
+  {
+    "slug": "run-ai-generated-logic-safely-inside-your-app-hn",
+    "title": "Run AI-generated logic safely inside your app",
+    "shortDescription": "Stof is an open-source runtime for logic you don&#x27;t own or fully trust. Imagine a JSON document with functions inside, scoped to just t…",
+    "fullDescription": "Stof is an open-source runtime for logic you don&#x27;t own or fully trust. Imagine a JSON document with functions inside, scoped to just the document that contains them. Stof instantiates this doc as a small wasm env, and makes these functions safe to call. They can&#x27;t access or manipulate anything but their own doc. WebAssembly by itself is large in binary form, requires a lot of tooling, etc. Stof can be sent over the wire easily, is a superset of JSON for compatibility, and keeps the guarantees. I created Stof not to replace a data format or anything, but to be a glue layer for data and distributed systems to work with one another. This includes I&#x2F;O for interchange data like JSON, YAML, TOML, etc., but also complex data like PDFs, images, binaries, both structured and unstructured (good layer to turn one into the other). The fact is, the layer of data and communication between apps tends to be a bit messy, and strict adapters compiled at build time tend to be insufficient for the dynamism of modern software. This applies directly to AI-generated data and code, which is basically like calling into another untrusted service. With this, you can safely embed the execution, pick where things run, and combine harnesses like data. Works well as a &quot;living&quot; context, also with the JSON interop - just parse into or stringify sections of the Stof doc at runtime when needed, like agent tool defs. The playground on the site runs entirely in your browser. Stof is written in Rust and has support for JS&#x2F;TS and Python today. I&#x27;d especially like feedback on whether the idea makes sense from the landing page, and where the docs need help. GitHub: https:&#x2F;&#x2F;github.com&#x2F;dev-formata-io&#x2F;stof Thank you!! -CJ\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://stof.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50093435",
+    "createdAt": "2026-10-14T19:34:30.150Z"
+  },
+  {
+    "slug": "eevo-consequential-decision-model-hn",
+    "title": "Eevo – Consequential Decision Model",
+    "shortDescription": "Hi HN, I&#x27;m Juho from Upright. I think we may have stumbled upon an interesting approach to AI alignment. The idea is as follows: 1. tr…",
+    "fullDescription": "Hi HN, I&#x27;m Juho from Upright. I think we may have stumbled upon an interesting approach to AI alignment. The idea is as follows: 1. train a decision model to be really good at comparative sizing of consequences, expected value problems, and modelling overlap between different consequences 2. create a harness around that model that accepts a decision context, list of options, and identified consequences, then runs pairwise comparisons and overlap modelling for the consequences using the decision model in (1), and finally solves implied relative consequences &quot;sizes&quot; and finally EV (for different stakeholders) 3. Make AI agents running on general purpose LLMs use (2) to make better decisions. So the agent provides the context, options, and identifies the consequences, Eevo model just sizes them, models their overlap, and computes EV. In practice this seems to improve agent judgement a lot (in addition to adding lots of practical observability) It seems the (well-motivated) emphasis on instruction-following hurts model&#x27;s performance on expected value tasks. The underlying decision model we trained beats Jev, Clef, MS decision-1 the model on OpenAI decisions API on economic rationality benchmarks like STEEP, expected value tasks, poker, and even Pacman (Jevman benchmark). I swear to you we did not Benchmaxx on Pacman Also it seems to be useful also for human decisions. Just getting other people&#x27;s decisions presented to you in standard format with consequences listed and sized is just very pleasant. There are some testers though who think this is useful for improving everyone&#x27;s judgement, except their own\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.uprightproject.com/eevo/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50093003",
+    "createdAt": "2026-10-14T19:34:30.150Z"
+  },
+  {
+    "slug": "golang-dlml-primitives-with-inference-diffusion-vision-systemone-hn",
+    "title": "Golang DL/ML primitives with inference, diffusion, vision, systemone",
+    "shortDescription": "I created a DL inference engine that slowly grew to have more and functionality. - Inference for a bunch of open weights architectures - Di…",
+    "fullDescription": "I created a DL inference engine that slowly grew to have more and functionality. - Inference for a bunch of open weights architectures - Diffusion image generation fir Z ai turbo - Vision input into LLM for inference - Vulkan&#x2F;fast CPU, optimized kernels - Playground for testing - Last but not least, system one fast inference mode with same API semantics as Jev It&#x27;s MIT, so go nuts\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/computerex/dlgo",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50091939",
+    "createdAt": "2026-10-14T19:34:30.150Z"
+  },
+  {
+    "slug": "a-webcomic-for-ai-agents-written-and-drawn-by-claude-hn",
+    "title": "A webcomic for AI agents, written and drawn by Claude",
+    "shortDescription": "Проект «A webcomic for AI agents, written and drawn by Claude», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A webcomic for AI agents, written and drawn by Claude», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://stop-sequence.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50091610",
+    "createdAt": "2026-10-14T19:34:30.150Z"
+  },
+  {
+    "slug": "botsay-cowsay-for-the-ai-era-hn",
+    "title": "botsay – cowsay for the AI Era",
+    "shortDescription": "Does this need to exist? Probably not. Does it add whimsy to the sterile, cold terminal environment that has become our chosen home? Well m…",
+    "fullDescription": "Does this need to exist? Probably not. Does it add whimsy to the sterile, cold terminal environment that has become our chosen home? Well maybe.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://github.com/maebert/botsay",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50091196",
+    "createdAt": "2026-10-14T19:34:30.151Z"
+  },
+  {
+    "slug": "i-wrote-an-email-app-that-accepts-only-one-sender-per-inbox-hn",
+    "title": "I wrote an email app that accepts only one sender per inbox",
+    "shortDescription": "Infinite inboxes, including prefixes where you don&#x27;t have to create inboxes before you use them -- they self create when you add a suf…",
+    "fullDescription": "Infinite inboxes, including prefixes where you don&#x27;t have to create inboxes before you use them -- they self create when you add a suffix. Three types of inboxes: - One sender. Locks to the first domain to send email (except gmail, outlook, etc where it locks to an email account for obivous reasons. It bounces everyone else. - Temporary. Lasts for a while (24h, 7days, etc) then bounces. Received messages stay or go as per your choice. - Prefix. The most powerful. Declare a prefix like &quot;service&quot; and then invent any suffix, like &quot;service-netflix&quot; or &quot;service$bank&quot; and it creates a new one-sender inbox locked to whoever wrote first. Bring you own domain. Bring your own AI (MCP server ready). Forwarding. Please help me test it.\n\nНайдено в разделе Show HN на Hacker News. 👍 27 баллов.",
+    "url": "https://clova.email/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50090932",
+    "createdAt": "2026-10-14T19:34:30.151Z"
+  },
+  {
+    "slug": "owasp-finbot-defended-with-tenuo-hn",
+    "title": "OWASP Finbot Defended with Tenuo",
+    "shortDescription": "Tenuo is a task-scoped authz primitive for agentic work. We are an open protocol and an open source implementation at github.com&#x2F;tenuo…",
+    "fullDescription": "Tenuo is a task-scoped authz primitive for agentic work. We are an open protocol and an open source implementation at github.com&#x2F;tenuo-ai&#x2F;tenuo We created a fork of OWASP finbot with Tenuo wired in and red-teamed it with promptfoo. We went from 50 successful attacks to 0 with Tenuo. The promptfoo attacks were able to fool the model, but the deterministic guardrails Tenuo provides stopped it from acting on the poisoned instructions.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/tenuo-ai/finbot-ctf",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50090102",
+    "createdAt": "2026-10-14T19:34:30.151Z"
+  },
+  {
+    "slug": "sonia-local-ai-assistant-linux-13gb-ram-no-gpu-skills-supported-hn",
+    "title": "Sonia. Local AI Assistant Linux. 13Gb RAM, No GPU, Skills Supported",
+    "shortDescription": "Проект «Sonia. Local AI Assistant Linux. 13Gb RAM, No GPU, Skills Supported», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Sonia. Local AI Assistant Linux. 13Gb RAM, No GPU, Skills Supported», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/grigio/sonia-assistant",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50089901",
+    "createdAt": "2026-10-14T19:34:30.151Z"
+  },
+  {
+    "slug": "cuelight-open-source-2mb05m-param-always-listening-turn-detector-hn",
+    "title": "CueLight – open-source <2mb/0.5M param always listening turn detector",
+    "shortDescription": "Before I get into the details, I&#x27;d just like to say I was able to build this thanks to the work done by the people who work on Pipecat…",
+    "fullDescription": "Before I get into the details, I&#x27;d just like to say I was able to build this thanks to the work done by the people who work on Pipecat &amp; SmartTurn as this relied on their data. SmartTurn is a fantastic open source model for turn detection. I needed a much smaller version that could fit anywhere and be always on (always actually being every 20ms in this case), so I figured I could do a trade off of making it support one language only (English), not rely on building on top of a Whisper model and possibly squeeze out similar performance. While I do still wish to improve this model significantly, this is my progress in doing so thus far. I also augmented the data with synthetic noise and reverb to try to improve its scores in handling those situations. I&#x27;d love for people to try it, and even better, provide suggestions or audio that can help me improve it. The link takes you to a sample of it running in the browser. There&#x27;s also an SSM version but that was purely for experimental purposes. While SSMs do well on streaming, there isn&#x27;t much to gain from it here, since long memory of audio stream isn&#x27;t that important for turn detection, just the most recent few seconds really, so the GRU version does just fine (or better) and uses much less CPU. More details are in the repo: https:&#x2F;&#x2F;github.com&#x2F;sshah03&#x2F;CueLight For those interested in SmartTurn: https:&#x2F;&#x2F;github.com&#x2F;pipecat-ai&#x2F;smart-turn\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://sshah03.github.io/CueLight/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50089154",
+    "createdAt": "2026-10-14T19:34:30.151Z"
+  },
+  {
+    "slug": "live-release-calendar-for-frontier-ai-models-from-polymarket-odds-hn",
+    "title": "Live release calendar for frontier AI models, from Polymarket odds",
+    "shortDescription": "Проект «Live release calendar for frontier AI models, from Polymarket odds», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Live release calendar for frontier AI models, from Polymarket odds», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://whenitships.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50089096",
+    "createdAt": "2026-10-14T19:34:30.151Z"
+  },
+  {
+    "slug": "the-first-short-movie-built-using-code-and-ai-hn",
+    "title": "The first short movie built using code and AI",
+    "shortDescription": "Проект «The first short movie built using code and AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «The first short movie built using code and AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 8 баллов.",
+    "url": "https://fframes.studio/the-why/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50089045",
+    "createdAt": "2026-10-14T19:34:30.151Z"
+  },
+  {
     "slug": "ai-motion-library-github",
     "title": "ai-motion-library",
     "shortDescription": "Biblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir pra IA. Receitas pra canal dark, tem…",
