@@ -1,5 +1,269 @@
 [
   {
+    "slug": "ai-motion-library-github",
+    "title": "ai-motion-library",
+    "shortDescription": "Biblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir pra IA. Receitas pra canal dark, tem…",
+    "fullDescription": "Biblioteca de Motion apenasdouglas: 24 efeitos de animação com o nome em português e o termo pra pedir pra IA. Receitas pra canal dark, tema escuro e claro, skill pro Claude Code. Motion graphics prompts in Portuguese.\n\nАвтор: apenasdouglas. Найдено в GitHub Trending (AI-тематика). ⭐ 12 звёзд.",
+    "url": "https://apenasdouglas.github.io/ai-motion-library/",
+    "category": "developer",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "animation",
+      "brasil",
+      "canal-dark",
+      "claude-code",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1418958164",
+    "createdAt": "2026-10-14T15:21:02.156Z"
+  },
+  {
+    "slug": "attentionmachine-skills-github",
+    "title": "attentionmachine-skills",
+    "shortDescription": "Rob's skills to make you post every day without the hassle of editing. Turn raw recordings into finished Reels with the Claude or Codex you…",
+    "fullDescription": "Rob's skills to make you post every day without the hassle of editing. Turn raw recordings into finished Reels with the Claude or Codex you already have.\n\nАвтор: robinebers. Найдено в GitHub Trending (AI-тематика). ⭐ 9 звёзд.",
+    "url": "https://www.attentionmachine.ai",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "editing",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1415147905",
+    "createdAt": "2026-10-14T15:21:02.156Z"
+  },
+  {
+    "slug": "graphicle-a-rust-port-of-graphify-with-memory-for-coding-agents-hn",
+    "title": "Graphicle, a Rust port of Graphify with memory for coding agents",
+    "shortDescription": "Проект «Graphicle, a Rust port of Graphify with memory for coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Graphicle, a Rust port of Graphify with memory for coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/graphicle-ai/graphicle",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50088713",
+    "createdAt": "2026-10-14T15:21:01.963Z"
+  },
+  {
+    "slug": "bscaff-a-cli-tool-for-project-scaffolding-and-snippets-hn",
+    "title": "BScaff - A CLI tool for project scaffolding and snippets",
+    "shortDescription": "I built BScaff, a CLI tool for saving and reusing project structures, templates, files, and text snippets. It can serve as a URL bookmark t…",
+    "fullDescription": "I built BScaff, a CLI tool for saving and reusing project structures, templates, files, and text snippets. It can serve as a URL bookmark tool as well. It started with project scaffolding, but I wanted something more general-purpose: a tool that could save almost any reusable starting point and bring it back whenever needed. For each language, I had a specific way of structuring projects that I have refined over years, but I could not find any tool which can quickly help to generate such scaffolding quickly. Copier and Cookiecutter exists but they depend on templates, and I didn&#x27;t want to create templates for such tasks. One more use-case I had was when I used AI chatbots who suggest some project structure, and I want to quickly create that. So I wanted something offline which can quickly help me save and recreate file trees. Then I added snippets to it too, but I mostly use it for notes taking personally. Some things you can do with it: * Save Git repository templates locally and use them offline whenever you need to create a new project * Create reusable templates from existing directories * Save and recreate directory structures by copying ASCII file trees and the tool will read it from clipboard and recreate it (or save it for later) * Save collections of files and generate them again in another directory * Save text snippets and either copy them to the clipboard or generate files from them The idea is to avoid repeatedly recreating the same boilerplate, directory structures, configuration files, etc. And you can use it as a note-taking app as well with snippets. It has templates support as well with Jinja-based variable replacement. Template updates are supported, but project updates are not yet implemented, have planned it for future. It is written in TypeScript, runs on Node.js, and is available on npm. GitHub: https:&#x2F;&#x2F;github.com&#x2F;akashnag&#x2F;bscaff Install: npm install -g @akashnag&#x2F;bscaff Feedback, feature suggestions ( I already have a big backlog though :P ), and contributions are welcome!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/akashnag/bscaff",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50088096",
+    "createdAt": "2026-10-14T15:21:01.963Z"
+  },
+  {
+    "slug": "merlin-run-your-claude-code-and-codex-from-slack-linear-and-github-hn",
+    "title": "Merlin, Run Your Claude Code and Codex from Slack, Linear and GitHub",
+    "shortDescription": "Hi HN, I built Merlin to let you use your own Claude Code and Codex subscription from Slack, Linear, and GitHub. There is a desktop app for…",
+    "fullDescription": "Hi HN, I built Merlin to let you use your own Claude Code and Codex subscription from Slack, Linear, and GitHub. There is a desktop app for macOS and Windows, and a CLI daemon for Linux. When someone mentions Merlin in a Slack thread or Linear issue comment, the task runs on that team member&#x27;s machine, using their own Claude Code or Codex runtime, and progress and results come back to the original thread. Teammates can steer the agent mid-run. Merlin also has schedules, shared skills, and memory. I know you&#x27;ve probably heard about Claude Tag. Merlin is similar to that but also different. The model usage goes to the Claude Code or Codex subscription instead of API bill, and you can use Merlin across different surfaces to streamline workflow instead of just in Slack (Linear&#x27;s agent session works particularly well with Merlin. You can just leverage Linear as your control panel for agentic work using Merlin). Merlin also runs on your local machines, which means that you can use your local context including MCPs, skills and local files instead of in a cloud sandbox. Merlin does not upload your working directory, and provider credentials stay on the device. The request and the context it needs pass through Merlin. Runtimes start private, and an owner can make one public so teammates, including non-engineers, can use it. But there&#x27;re also some limits, and we&#x27;ll probably deal with them in future updates: - An offline or sleeping machine can&#x27;t take work. The same issue as OpenClaw. But if you have a mac mini or ec2 setup it should be fine. - Linux is CLI only. We may later add desktop for Linux. - While runtime delegation isn&#x27;t a problem for now, we&#x27;re still working on how to make the best use of each team member&#x27;s local runtime and let them work together cohesively. We&#x27;ve been internally using Merlin for quite some time. It really helps when you&#x27;re trying to add some AI juice to the conversation or just delegate things to your agents. I think it reduces the friction of having to do the copying &amp; pasting and switch to another app to ask for AI&#x27;s input when you&#x27;re having a discussion in a collaborative environment like Slack or Linear. It&#x27;s really the fastest way from intent to execution. Pricing: free for up to 5 active users and 1,000 requests&#x2F;month. We think this should get small teams started and get real value from it. Team is $59&#x2F;mo and Scale is $99&#x2F;mo, with a 14-day Team trial and no credit card required. I&#x27;m here all day to answer questions, and I&#x27;d especially like to hear whether non-engineers on your team would actually use this.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://usemerlin.ai",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50088088",
+    "createdAt": "2026-10-14T15:21:01.963Z"
+  },
+  {
+    "slug": "open-source-dfm-checks-for-manufacturing-and-mcp-hn",
+    "title": "Open-source DFM checks for manufacturing and MCP",
+    "shortDescription": "Проект «Open-source DFM checks for manufacturing and MCP», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Open-source DFM checks for manufacturing and MCP», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://openmrp.ai/dfm",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50088069",
+    "createdAt": "2026-10-14T15:21:01.963Z"
+  },
+  {
+    "slug": "veduta-personal-agent-with-genui-hn",
+    "title": "Veduta – Personal Agent with GenUI",
+    "shortDescription": "The idea came to me while I was watching a livestream with Antirez and mr RIP, one of the first streams they did together. I thought Antire…",
+    "fullDescription": "The idea came to me while I was watching a livestream with Antirez and mr RIP, one of the first streams they did together. I thought Antirez might be right when he said that once AI agents moved beyond the terminal, we would reach a whole new level. So I decided to create &quot;Veduta&quot;, which is basically Hermes&#x2F;OpenClaw but with a UI. What exactly is the advantage? It could track everything for you and give you visual feedback without you actually having to ask the same questions again, because all the information is stored inside the daemon running on the server. Instead of having something that just runs, you have something that delivers &quot;sheets with written reports that you can consult at any time.&quot; This translates into saving tokens and accessing information faster, while also keeping everything organized. I don&#x27;t know if you&#x27;ll appreciate this open-source project, but feel free to leave any kind of feedback. It&#x27;s always welcome! :) Thanks, everyone!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Ic3b3rg/veduta",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50087496",
+    "createdAt": "2026-10-14T15:21:01.964Z"
+  },
+  {
+    "slug": "an-embeddable-docxxlsxpptx-editor-sdk-for-your-ai-agent-hn",
+    "title": "An embeddable DOCX/XLSX/PPTX editor SDK for your AI agent",
+    "shortDescription": "Проект «An embeddable DOCX/XLSX/PPTX editor SDK for your AI agent», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An embeddable DOCX/XLSX/PPTX editor SDK for your AI agent», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://playground.developers.thinkfree.com/playground/editor-ai-sdk/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50087264",
+    "createdAt": "2026-10-14T15:21:01.964Z"
+  },
+  {
+    "slug": "evlat-see-which-of-your-ai-agents-waiting-on-you-hn",
+    "title": "Evlat, see which of your AI agents waiting on you",
+    "shortDescription": "Проект «Evlat, see which of your AI agents waiting on you», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Evlat, see which of your AI agents waiting on you», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://evlat.kalaomer.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50087078",
+    "createdAt": "2026-10-14T15:21:01.964Z"
+  },
+  {
+    "slug": "my-ai-agent-kept-quoting-undated-market-numbers-so-i-built-prereason-hn",
+    "title": "My AI agent kept quoting undated market numbers, so I built PreReason",
+    "shortDescription": "Проект «My AI agent kept quoting undated market numbers, so I built PreReason», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «My AI agent kept quoting undated market numbers, so I built PreReason», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.prereason.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50086562",
+    "createdAt": "2026-10-14T15:21:01.964Z"
+  },
+  {
+    "slug": "busymail-an-imap-email-client-with-an-mcp-server-for-ai-agents-hn",
+    "title": "Busymail – an IMAP email client with an MCP server for AI agents",
+    "shortDescription": "Проект «Busymail – an IMAP email client with an MCP server for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Busymail – an IMAP email client with an MCP server for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://busymail.app/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50086476",
+    "createdAt": "2026-10-14T15:21:01.964Z"
+  },
+  {
+    "slug": "geneva-a-rust-ffmpeg-cli-alternative-with-htmlcss-graphics-hn",
+    "title": "Geneva, a Rust FFmpeg CLI alternative with HTML/CSS graphics",
+    "shortDescription": "I built this for my own use case, and I think other people could benefit from it. It&#x27;s essentially a Rust rewrite of the ffmpeg CLI co…",
+    "fullDescription": "I built this for my own use case, and I think other people could benefit from it. It&#x27;s essentially a Rust rewrite of the ffmpeg CLI command, but with a modern API and good defaults + a native HTML&#x2F;CSS composition engine that&#x27;s been fine tuned for speed and memory efficiency. Under the hood, it still uses the libav* codecs from ffmpeg, so it can still work on a variety of formats. Works very well with AI agents too: prompt what kind or intro&#x2F;animation&#x2F;graphics you need (or give it a reference), let the LLM come up with the HTML&#x2F;CSS for it (Opus 5.5 is quite good at this), and let it use them on geneva. It&#x27;s way faster than the usual alternatives for putting still or animated graphics on videos (remotion, playwright etc.) because it doesn&#x27;t use a browser or chromium. Everything is rendered natively, in a single pass.\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://genevarender.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50086224",
+    "createdAt": "2026-10-14T15:21:01.964Z"
+  },
+  {
+    "slug": "i-aggregated-1600-remote-ai-training-jobs-from-24-companies-hn",
+    "title": "I aggregated 1,600 remote AI training jobs from 24 companies",
+    "shortDescription": "Проект «I aggregated 1,600 remote AI training jobs from 24 companies», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I aggregated 1,600 remote AI training jobs from 24 companies», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aitrainerjobs.co/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50086155",
+    "createdAt": "2026-10-14T15:21:01.964Z"
+  },
+  {
+    "slug": "boostmyagents-a-readme-badge-lets-your-users-pay-for-your-ai-usage-hn",
+    "title": "boostmyagents – A README badge lets your users pay for your AI usage",
+    "shortDescription": "Проект «boostmyagents – A README badge lets your users pay for your AI usage», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «boostmyagents – A README badge lets your users pay for your AI usage», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://boostmyagents.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50085877",
+    "createdAt": "2026-10-14T15:21:01.964Z"
+  },
+  {
+    "slug": "tsv-has-fast-formatters-and-parsers-for-svelte-typescriptjs-css-hn",
+    "title": "tsv has fast formatters and parsers for Svelte, TypeScript/JS, CSS",
+    "shortDescription": "tsv is a set of performance-focused language tools for the Web. Today it ships formatters and parsers for TypeScript&#x2F;JS, CSS, and Svel…",
+    "fullDescription": "tsv is a set of performance-focused language tools for the Web. Today it ships formatters and parsers for TypeScript&#x2F;JS, CSS, and Svelte, including a vscode&#x2F;openvsx extension. JSON and HTML are planned, maybe linting after. The readme has a loose roadmap - https:&#x2F;&#x2F;github.com&#x2F;fuzdev&#x2F;tsv tsv&#x27;s benchmarks show how the Web&#x27;s newer native tools have some performance left on the table. Formatting TypeScript, tsv is more than twice as fast as oxfmt, and is smaller and uses less memory - https:&#x2F;&#x2F;tsv.fuz.dev&#x2F;docs&#x2F;benchmarks From the site: - formatting TypeScript, tsv is ~2.2x faster than Oxfmt (native), ~36x faster than Prettier (native Rust vs Prettier&#x27;s JS; ~26x as wasm), and ~7.6x faster than Biome (wasm) - formatting Svelte, tsv is ~79x faster than Prettier (~55x as wasm) and ~10x faster than Biome (wasm) - formatting CSS, tsv is ~3.6x faster than Oxfmt (native), ~111x faster than Prettier (~78x as wasm), and ~12x faster than Biome (wasm) tsv is focused on the Web and Svelte, and doesn&#x27;t support other nonstandard languages like JSX&#x2F;TSX and SCSS. This limits possible adoption, but it keeps the tool slim and simple, and there are plenty of other tools that offer a generic language platform - tsv isn&#x27;t trying to compete with them. Part of my motivation was being tired of slow tools and Svelte&#x27;s second-class status in this next generation. Before starting the project, I had tried to build on Oxc and Biome, and ran into some discouraging edges. On the benchmarks&#x27; language support section, you&#x27;ll see Oxc doesn&#x27;t export its CSS parser (recently added, a fork of Raffia - https:&#x2F;&#x2F;github.com&#x2F;g-plane&#x2F;raffia ), and Biome doesn&#x27;t export its parsers. Also oxfmt doesn&#x27;t ship wasm to the browser yet, and tsv&#x27;s smaller footprint is useful there (Biome is 46.9 MB to tsv&#x27;s 2.7). Parser conformance is as good or better than Oxc, Biome, and swc, except negative parser cases (errors), which are unfinished. https:&#x2F;&#x2F;tsv.fuz.dev&#x2F;docs&#x2F;conformance The codebase turns 1 year old at the end of the month. It&#x27;s my first serious AI-generated project, built with Claude Code. I learned Rust in 2015, built some toys including an arcade action prototype, and followed its development over the years, but this is my first project since. tsv wouldn&#x27;t exist without LLMs - it requires far too much labor for a side project. tsv leans heavily on Prettier, but doesn&#x27;t copy it. This is why this production release took almost a year, despite the silly fast coding part. I made some different stylistic choices, more for Svelte than TypeScript, and fixed numerous quirks and bugs and documented them. tsv also takes advantage of Svelte 5&#x27;s whitespace rules, which further diverged from HTML to trim leading whitespace in tags, fixing longstanding formatting warts - https:&#x2F;&#x2F;svelte.dev&#x2F;docs&#x2F;svelte&#x2F;v5-migration-guide#Whitespace... The formatter takes no style config, and instead is hardcoded to Prettier&#x27;s style with Svelte&#x27;s config. Supporting Prettier&#x27;s config would force significant costs on tsv with a JS runtime, so instead I&#x27;m keeping the formatters non-configurable instead of making all users pay those costs. Part of these costs can be see in the CLI benchmark (which is a fork of Oxc&#x27;s official bench-formatter) - when tsv&#x27;s binary is used directly instead of via Node, the single-repo CLI benchmark runs tsv 1.7x faster using less than half the memory. Next I&#x27;m exploring rearchitecting to Zig-inspired data-oriented parsing - https:&#x2F;&#x2F;mitchellh.com&#x2F;zig&#x2F;parser - which should get tsv closer to Yuku&#x27;s speed, measured on the site. The vscode extension is `fuzdev.tsv-format` - https:&#x2F;&#x2F;marketplace.visualstudio.com&#x2F;items?itemName=fuzdev.t... - and Open VSX - https:&#x2F;&#x2F;open-vsx.org&#x2F;extension&#x2F;fuzdev&#x2F;tsv-format Repo: https:&#x2F;&#x2F;github.com&#x2F;fuzdev&#x2F;tsv\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/fuzdev/tsv",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50085627",
+    "createdAt": "2026-10-14T15:21:01.964Z"
+  },
+  {
+    "slug": "kryzz-ai-local-first-android-agent-workspace-mit-hn",
+    "title": "Kryzz AI – local-first Android agent workspace (MIT)",
+    "shortDescription": "Проект «Kryzz AI – local-first Android agent workspace (MIT)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Kryzz AI – local-first Android agent workspace (MIT)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/kriddss3/kryzz-ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50085614",
+    "createdAt": "2026-10-14T15:21:01.964Z"
+  },
+  {
     "slug": "awesome-ai-game-dev-tools-github",
     "title": "awesome-ai-game-dev-tools",
     "shortDescription": "Open-source AI tools for making games, and for decompiling, remixing and mashing up games you own. 100+ stars, active in the last year, ref…",
