@@ -1,5 +1,151 @@
 [
   {
+    "slug": "awesome-ai-game-dev-tools-github",
+    "title": "awesome-ai-game-dev-tools",
+    "shortDescription": "Open-source AI tools for making games, and for decompiling, remixing and mashing up games you own. 100+ stars, active in the last year, ref…",
+    "fullDescription": "Open-source AI tools for making games, and for decompiling, remixing and mashing up games you own. 100+ stars, active in the last year, refreshed daily.\n\nАвтор: SubmitGame. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://submitgame.github.io/awesome-ai-game-dev-tools/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "awesome",
+      "awesome-list",
+      "gamedev",
+      "mcp",
+      "reverse-engineering",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1416464593",
+    "createdAt": "2026-10-14T10:25:51.557Z"
+  },
+  {
+    "slug": "agy-argon-bridge-github",
+    "title": "agy-argon-bridge",
+    "shortDescription": "⚡ Bridge Antigravity CLI (agy) to Google Cloud Vertex AI (Gemini 4 Argon) with Full Tool Calling Support & Multi-Account Rotation",
+    "fullDescription": "⚡ Bridge Antigravity CLI (agy) to Google Cloud Vertex AI (Gemini 4 Argon) with Full Tool Calling Support & Multi-Account Rotation\n\nАвтор: LilZeeCN. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://github.com/LilZeeCN/agy-argon-bridge",
+    "category": "developer",
+    "tags": [
+      "agent",
+      "ai",
+      "antigravity",
+      "gemini-4-argon",
+      "google-cloud",
+      "vertex-ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1418317280",
+    "createdAt": "2026-10-14T10:25:51.557Z"
+  },
+  {
+    "slug": "trending-skill-radar-github",
+    "title": "trending-skill-radar",
+    "shortDescription": "Research and rank the top five skills worth learning in any domain using current trends, job demand, future potential, and practical learni…",
+    "fullDescription": "Research and rank the top five skills worth learning in any domain using current trends, job demand, future potential, and practical learning paths.\n\nАвтор: JAI4213H. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/JAI4213H/trending-skill-radar",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "career-development",
+      "developer-tools",
+      "learning-paths",
+      "learning-paths-recommendation",
+      "machine-learning",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1417037958",
+    "createdAt": "2026-10-14T10:25:51.557Z"
+  },
+  {
+    "slug": "ai-investment-agreement-review-for-startup-founders-hn",
+    "title": "AI investment agreement review for startup founders",
+    "shortDescription": "Hi HN! First, congrats to the founders who received a term sheet(and those who will!) I made an investment agreement review tool for founde…",
+    "fullDescription": "Hi HN! First, congrats to the founders who received a term sheet(and those who will!) I made an investment agreement review tool for founders who recently received a term sheet! You can review your term sheets, SAFEs, convertible notes, and financing agreements if your corporation is incorporated in Delaware, from pre-seed through Series A. It also reviews equity purchase agreements, investor rights, voting terms, and side letters. Try it and check your potential risks before signing!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.orchardagentic.cloud/#browse/funding-review",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50084642",
+    "createdAt": "2026-10-14T10:25:51.380Z"
+  },
+  {
+    "slug": "chiplab-give-your-ai-agent-access-to-virtual-hardware-hn",
+    "title": "Chiplab - Give your AI agent access to virtual hardware",
+    "shortDescription": "Проект «Chiplab - Give your AI agent access to virtual hardware», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Chiplab - Give your AI agent access to virtual hardware», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://veecle.ai/chiplab",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50084365",
+    "createdAt": "2026-10-14T10:25:51.380Z"
+  },
+  {
+    "slug": "agent-identity-identity-and-communication-infrastructure-for-ai-agent-hn",
+    "title": "Agent Identity – Identity and communication infrastructure for AI agent",
+    "shortDescription": "Проект «Agent Identity – Identity and communication infrastructure for AI agent», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Agent Identity – Identity and communication infrastructure for AI agent», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.agent-identity.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50083670",
+    "createdAt": "2026-10-14T10:25:51.380Z"
+  },
+  {
+    "slug": "superlocalmemory-ai-brain-that-never-bluffs-laya-jev-google-gemma-hn",
+    "title": "SuperLocalMemory\" AI brain that never bluffs: Laya, Jev, Google Gemma",
+    "shortDescription": "Проект «SuperLocalMemory\" AI brain that never bluffs: Laya, Jev, Google Gemma», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «SuperLocalMemory\" AI brain that never bluffs: Laya, Jev, Google Gemma», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/qualixar/superlocalmemory",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50082728",
+    "createdAt": "2026-10-14T10:25:51.380Z"
+  },
+  {
+    "slug": "i-built-a-tool-to-track-what-ai-leaders-say-and-how-their-views-change-hn",
+    "title": "I built a tool to track what AI leaders say and how their views change",
+    "shortDescription": "Проект «I built a tool to track what AI leaders say and how their views change», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built a tool to track what AI leaders say and how their views change», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 102 баллов.",
+    "url": "https://blumify.io/people",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50081151",
+    "createdAt": "2026-10-14T10:25:51.381Z"
+  },
+  {
     "slug": "skopos-github",
     "title": "skopos",
     "shortDescription": "AI-powered infrastructure incident investigation, remediation, and verification.",
