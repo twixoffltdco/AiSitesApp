@@ -1,5 +1,68 @@
 [
   {
+    "slug": "omnicrab-github",
+    "title": "Omnicrab",
+    "shortDescription": "Terminal UI to chat with, compare and orchestrate many AI accounts and local models, with encrypted storage in PostgreSQL",
+    "fullDescription": "Terminal UI to chat with, compare and orchestrate many AI accounts and local models, with encrypted storage in PostgreSQL\n\nАвтор: xn0kkx. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/xn0kkx/Omnicrab",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude-code",
+      "llm",
+      "ollama",
+      "postgresql",
+      "rust",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1419240724",
+    "createdAt": "2026-10-15T01:18:06.809Z"
+  },
+  {
+    "slug": "kastor-dbeaver-ai-chat-github",
+    "title": "kastor-dbeaver-ai-chat",
+    "shortDescription": "Chatbot de IA integrado ao DBeaver, que permite conectar qualquer modelo.",
+    "fullDescription": "Chatbot de IA integrado ao DBeaver, que permite conectar qualquer modelo.\n\nАвтор: EduardoRocha234. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/EduardoRocha234/kastor-dbeaver-ai-chat",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "chat",
+      "chat-application",
+      "chatbot",
+      "database",
+      "database-design",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1418293209",
+    "createdAt": "2026-10-15T01:18:06.809Z"
+  },
+  {
+    "slug": "cronos-ai-github",
+    "title": "cronos-ai",
+    "shortDescription": "Cronos-AI is a supervised software factory for taking a project task through a structured, agent-assisted workflow.",
+    "fullDescription": "Cronos-AI is a supervised software factory for taking a project task through a structured, agent-assisted workflow.\n\nАвтор: ixdi. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://ixdi.github.io/cronos-ai/",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "software-engineering",
+      "software-factory",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1417075556",
+    "createdAt": "2026-10-15T01:18:06.809Z"
+  },
+  {
     "slug": "fantastic-canvas-hn",
     "title": "Fantastic Canvas",
     "shortDescription": "Fantastic is my own harness. It runs on an Erlang-like, OS-like meta-runtime instead of agent loops or agent graphs. I believe this is the…",
