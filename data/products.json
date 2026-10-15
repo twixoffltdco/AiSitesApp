@@ -1,5 +1,117 @@
 [
   {
+    "slug": "guess-the-llm-read-an-answer-and-guess-which-model-wrote-it-hn",
+    "title": "Guess the LLM – read an answer and guess which model wrote it",
+    "shortDescription": "Hi HN, I made a game to test if people can really tell AI models apart. Models from all the frontier labs answer the same question. You rea…",
+    "fullDescription": "Hi HN, I made a game to test if people can really tell AI models apart. Models from all the frontier labs answer the same question. You read one answer and guess who wrote it. You can also pick just the models you want to compare. I made it and still only get 5&#x2F;10 lol. Curious how you all do.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://guessthellm.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50110907",
+    "createdAt": "2026-10-15T22:58:02.577Z"
+  },
+  {
+    "slug": "rebuilt-our-directory-of-241-ai-tools-for-hardware-engineering-hn",
+    "title": "Rebuilt our directory of 241 AI tools for hardware engineering",
+    "shortDescription": "Проект «Rebuilt our directory of 241 AI tools for hardware engineering», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Rebuilt our directory of 241 AI tools for hardware engineering», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://productflo.io/ai-tools",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50110759",
+    "createdAt": "2026-10-15T22:58:02.578Z"
+  },
+  {
+    "slug": "an-improved-kokoro-distillation-in-9mb-hn",
+    "title": "An improved kokoro distillation in 9MB",
+    "shortDescription": "I&#x27;m a 47yo full stack developer that&#x27;s investing all his free time (and not only that) into thinkering, building, researching wit…",
+    "fullDescription": "I&#x27;m a 47yo full stack developer that&#x27;s investing all his free time (and not only that) into thinkering, building, researching with AI. Some days ago I found a paper about distilling kokoro on a ~9MB with around 25x RTF. It was very interesting and since the experiment was on a single english voice and I&#x27;m Italian, I wanted to see if I could manage to distill it in my language but the training recipe wasn&#x27;t replicable. So I spent some days researching, experimenting and found the why and even some more tweaks to improve the overall result. The demo I linked shows you how close it is to the original kokoro and you can play straight in the browser (If you use the package locally it&#x27;s faster) Paper: https:&#x2F;&#x2F;doi.org&#x2F;10.5281&#x2F;zenodo.23400040 Code (Apache-2.0): https:&#x2F;&#x2F;github.com&#x2F;MithrilMan&#x2F;teacher-in-the-loop Weights: https:&#x2F;&#x2F;huggingface.co&#x2F;MithrilMan&#x2F;teacher-in-the-loop pip install teacher-in-the-loop P.S. I wanted to publish the paper on arXiv but I need to be endorsed, would be nice if anyone that can help me could endorse me arxiv.org&#x2F;auth&#x2F;endorse?x=GPI7BZ Honestly would be just to be added to the hf papers, I don&#x27;t seek fame nor fortune lol\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://huggingface.co/spaces/MithrilMan/teacher-in-the-loop",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50110729",
+    "createdAt": "2026-10-15T22:58:02.578Z"
+  },
+  {
+    "slug": "drift-hot-air-balloon-simulator-hn",
+    "title": "Drift – Hot air balloon simulator",
+    "shortDescription": "Проект «Drift – Hot air balloon simulator», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Drift – Hot air balloon simulator», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://hakancn.com/drift/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50110695",
+    "createdAt": "2026-10-15T22:58:02.578Z"
+  },
+  {
+    "slug": "endo-a-higher-order-harness-hn",
+    "title": "Endo – A Higher-Order Harness",
+    "shortDescription": "Endo is a Higher-Order Harness (HOH). From the easiest concept to understand to the more complex ones, Endo gives you: * A single, simple U…",
+    "fullDescription": "Endo is a Higher-Order Harness (HOH). From the easiest concept to understand to the more complex ones, Endo gives you: * A single, simple UI to use any agent provider with your existing subscriptions, and hot-swap agents right in the middle of a session. * An orchestration layer, which I call HOH, allowing arbitrary composition of agents to achieve any workflow. A fun case I tried was asking Fable and Astra to mock a presidential debate. * An agent protocol that abstracts any agent. The key insight here is that every LLM is an agent—instead of treating the LLM as just one node inside an external ReAct loop. Endo was a concept formed while I was building OpenChart ( https:&#x2F;&#x2F;github.com&#x2F;longsurf-ai&#x2F;openchart ). To power trading workflows, I needed to support scenarios where strict determinism is required, while still keeping the flexibility of an agent&#x27;s inference-time decision-making capability. A new form factor was needed between rigid n8n-style workflows and open-ended ReAct loop agents. Thus the creation of Endo. Endo is short for Endomorphism, a term rooted in category theory and functional programming. An endomorphism is a function that transforms an object into another object of the same type. Similarly, Endo itself is built purely on functional programming principles, relying heavily on Effect ( https:&#x2F;&#x2F;github.com&#x2F;Effect-TS&#x2F;effect ). ..And if you have patience to speak technical jargons, Endo is: * An agent orchestration layer—Higher-Order Harness (HOH)—where an entire agent is treated the same as a single LLM call, enabling arbitrary composition of extremely complex workflows. * A way to abstract any harness into a standardized protocol, where raw models and agents behave the exact same way, in a KV-cache-friendly manner. * A workflow engine that enables arbitrary composition of agents with a single workflow language. It&#x27;s completely open source, and if you think this idea is cool, let&#x27;s build together. Just for the fun of it.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/longsurf-ai/endo",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50110614",
+    "createdAt": "2026-10-15T22:58:02.578Z"
+  },
+  {
+    "slug": "turbo-lisp-a-common-lisp-ide-for-macos-and-the-terminal-hn",
+    "title": "Turbo Lisp – A Common Lisp IDE for macOS and the Terminal",
+    "shortDescription": "When Apple left Clozure Common Lisp behind by switching to Apple Silicon, I started kicking around the idea of building my own Lisp&#x2F;Ob…",
+    "fullDescription": "When Apple left Clozure Common Lisp behind by switching to Apple Silicon, I started kicking around the idea of building my own Lisp&#x2F;Objective-C bridge by combining Apple Documentation, the clang AST, and introspection of the Objective-C runtime. There was a CCL porting effort, but I really wanted to use SBCL anyway. Truth be told — what I really wanted was a 21st-century CLIM variant on top of modern AppKit 26. So I let that idea rattle around in my skull for a while — and eventually it bounced up against the memory of Ck (Curses-based Tk). Anybody remember that? I liked Tcl&#x2F;Tk and [incr Tcl] and it had always stuck in my head how great an idea it was to have something along the lines of CLIM for regular terminals as well as GUI. So anyway, I stumbled upon the open-source CLIM2 source still maintained by Franz, and the wheels commenced to turn. Oh yeah, and my very first programming environment had been Turbo Pascal. That integrated debugger was really something. And y&#x27;know, it all started to come together as an idea about modernizing CLIM and modifying Portable Hemlock to run on top of it — and integrating a Debugger with conditional breakpoints and Step In&#x2F;Step Out&#x2F;Step Over, CLIM presentations, Inspector... And in years past, I&#x27;d have just dreamed about it. But the past three years have been crazy. GPT4 was the first time I seriously tried to build things with an LLM. And I&#x27;ve been pushing the LLMs as far as they would go to build my intuition mainly. But up until this year they&#x27;ve been mostly crap. I used &quot;Build Common Lisp&quot; as my north star because the Dietz ANSI tests seemed like a nearly perfect product specification. Long story short: I threw away 7 attempts before I won ANSI — https:&#x2F;&#x2F;gitlab.com&#x2F;patchwork1-ai&#x2F;whateverlisp — and while I was waiting for Claude and Codex to grovel through ANSI I was trying my hand at my grand idea of Turbo Lisp. Side note: my high score on ANSI is 21,916&#x2F;21,925 passing (99.96%); 21,925 executed; 9 failing. And those 9? Yeah I don&#x27;t think you could pass those without failing 30+ other ones. So anyway — It’s called *Turbo Lisp* (based on SBCL). It brings together a Listener, debugger, object inspector, conditional breakpoints + stepper, and Zeta—a variant of Portable Hemlock that uses WhateverCLIM as its front-end. On macOS, it uses native AppKit UI through *Chattanooga, a Lisp&#x2F;Objective-C bridge I built*. It also runs in the terminal through *Oak Ridge, my Lisp port of Ratatui*. Both use *WhateverCLIM*, which is the CLIM2 code from Franz plus my own modernization, including * presentations* : displayed Lisp objects you can click and inspect. *v0.2.1 patch release* is available for Apple Silicon Macs, Intel Macs, and Linux x86-64. The Mac builds currently require macOS 26. I’m especially interested in hearing: * Does it install and start properly on your machine? * Can you find your way around the Listener, editor, and debugger? * Does the terminal interface work with your terminal emulator? * Where does it feel confusing, awkward, or broken? A report that says “I tried this and got stuck here” is useful. Please include your OS, CPU architecture, and terminal emulator where relevant. It’s still early, and I’m looking for honest feedback from people using it outside my own setup.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://gitlab.com/patchwork1-ai/turbolisp",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50110159",
+    "createdAt": "2026-10-15T22:58:02.578Z"
+  },
+  {
+    "slug": "brod-quick-cloud-to-deploy-ai-apps-hn",
+    "title": "Brod – Quick cloud to deploy AI apps",
+    "shortDescription": "Hi YC, With AI, we’ve started building entire web apps just by chatting. But once the app is built, there’s still a lot to do: push the cod…",
+    "fullDescription": "Hi YC, With AI, we’ve started building entire web apps just by chatting. But once the app is built, there’s still a lot to do: push the code to GitHub, set up a database, configure user management and access control, and deploy everything. Brod makes this simple. Connect an MCP, deploy your app, and everything you need to get it running is taken care of.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/brodsh/brod",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50109773",
+    "createdAt": "2026-10-15T22:58:02.578Z"
+  },
+  {
     "slug": "explanations-and-follow-ons-for-openaimath-hn",
     "title": "Explanations and follow-ons for OpenAI/math",
     "shortDescription": "The official openai&#x2F;math repo is closed to issues, PRs, and discussion. I made this app to share some explanatory videos that help us…",
