@@ -1,5 +1,181 @@
 [
   {
+    "slug": "explanations-and-follow-ons-for-openaimath-hn",
+    "title": "Explanations and follow-ons for OpenAI/math",
+    "shortDescription": "The official openai&#x2F;math repo is closed to issues, PRs, and discussion. I made this app to share some explanatory videos that help us…",
+    "fullDescription": "The official openai&#x2F;math repo is closed to issues, PRs, and discussion. I made this app to share some explanatory videos that help us all make sense of the release, catalogue follow-ons and improvements that build on the openai research, and more broadly provide a set of community tools for distributed research. I am not a trained mathematician and most of the math exceeds my understanding. As such, the videos _are_ AI-generated, but IMHO, go a long ways towards helping folks like me understand the problems, proofs, and related ideas. Suggestions are welcome.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://thecompanygardener.yaks.app/openai-math/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50109249",
+    "createdAt": "2026-10-15T19:58:27.946Z"
+  },
+  {
+    "slug": "reliamesh-open-source-reliability-monitoring-for-ai-agents-hn",
+    "title": "ReliaMesh – Open-source reliability monitoring for AI agents",
+    "shortDescription": "Проект «ReliaMesh – Open-source reliability monitoring for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ReliaMesh – Open-source reliability monitoring for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/PrefilerLabs/reliamesh",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50108933",
+    "createdAt": "2026-10-15T19:58:27.946Z"
+  },
+  {
+    "slug": "hireready-interview-prep-with-spaced-repetition-and-ai-voice-mocks-hn",
+    "title": "HireReady, interview prep with spaced repetition and AI voice mocks",
+    "shortDescription": "Проект «HireReady, interview prep with spaced repetition and AI voice mocks», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «HireReady, interview prep with spaced repetition and AI voice mocks», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://imhireready.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50108667",
+    "createdAt": "2026-10-15T19:58:27.946Z"
+  },
+  {
+    "slug": "life-sprites-custom-trackers-briefings-and-guides-hn",
+    "title": "Life Sprites – custom trackers, briefings and guides",
+    "shortDescription": "There&#x27;s a no login demo if you want to try it. There&#x27;s also an MCP server if you&#x27;d rather use your favorite or local AI. Lan…",
+    "fullDescription": "There&#x27;s a no login demo if you want to try it. There&#x27;s also an MCP server if you&#x27;d rather use your favorite or local AI. Landing Page: https:&#x2F;&#x2F;lifesprites.com Demo Page: https:&#x2F;&#x2F;lifesprites.com&#x2F;demo MCP Setup Page: https:&#x2F;&#x2F;lifesprites.com&#x2F;connect\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://lifesprites.com/demo",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50108154",
+    "createdAt": "2026-10-15T19:58:27.947Z"
+  },
+  {
+    "slug": "cooldock-a-second-dock-for-macos-with-live-widgets-and-an-mcp-server-hn",
+    "title": "CoolDock – a second Dock for macOS with live widgets and an MCP server",
+    "shortDescription": "I always hated desktop widgets because I never see them. They sit behind every window I have open. Same problem with Notification Center, i…",
+    "fullDescription": "I always hated desktop widgets because I never see them. They sit behind every window I have open. Same problem with Notification Center, it&#x27;s hidden away so I never use it. The dock, however, is always there, it&#x27;s already taking the real estate from the bottom of my screen, so why not add a second dock on the exact same real estate, that shows up as soon as the dock hides and vice versa, but not for apps - for widgets! CoolDock is that solution with 20+ widget categories - music, weather, AI usage, 3rd party integrations, mail, todo, habit tracker, posture reminder, water reminder and over 150 wallpapers to switch to based on my mood. And the best part is that it looks completely native with Liquid Glass, doesn&#x27;t require disabling the macOS default dock and runs completely local, no telemetry, no account, only widgets and your integrations. Oh and best part #2 - I added an MCP server so I don&#x27;t actually have to clickops my way to complete setup, I could just ask my AI to add a widget and configure it however I want it (MCP starts as read-only, you can choose to give it permission to actually change things). I actually acquired CoolDock from its original developer, and it&#x27;s the second dock app I acquired from a developer (ExtraDock was the first). CoolDock currently has passed 1,200 users I am constantly adding new widgets based on user requests, currently at 160+ widgets to choose from, you can see them on the website https:&#x2F;&#x2F;cooldock.app Happy to answer any question!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://cooldock.app/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50108054",
+    "createdAt": "2026-10-15T19:58:27.947Z"
+  },
+  {
+    "slug": "rdst-a-local-agent-that-watches-postgresmysql-for-query-regressions-hn",
+    "title": "RDST – A local agent that watches Postgres/MySQL for query regressions",
+    "shortDescription": "We noticed during the course of many many years of DBA related work that fixes to database issues and queries are always reactive. An entir…",
+    "fullDescription": "We noticed during the course of many many years of DBA related work that fixes to database issues and queries are always reactive. An entire database can fall over extremely quickly when an unbounded query grows without warning. Traditionally, DBAs hear complaints of slowness and follow a methodical process: - manually browse pg_stats or other database related performance internal tables - see which queries are slowest - figure out what indexes are missing - figure out which indexes are actually bad and slowing down writes - painstakingly implement a fix In the age of cheap intelligence, we decided that there is no reason we can’t have an always-on agent that is designed to do this job for you. Databases need something or someone that is always watching with a massive amount of contextual understanding to be able to take quick actions. We’ve watched the alternative play out repeatedly. One of our users’s checkout page went from loading instantly to taking 11 seconds in a single night with no code change. How? Well somehow their order table grew by 40M rows because BI team had injected historical data and suddenly postgres started doing full table scans. Sometimes routine operations have unintended results and can easily destroy your database. We wanted to catch these kinds of regressions instantly. So we built RDST. RDST is a desktop agent that runs on your PC and connects to PostgreSQL &#x2F; MYSQL (read only) and compares every query against its own performance every minute. Every expensive query is automatically EXPLAIN ANALYZED, stripped of PII and sent to U.S. based frontier or open model providers to analyze which indexes are missing, how the query could be rewritten, and provides the fix. We then run a classifier model (JEV) to decide if you should be notified (is this standard behavior for this particular query?), and the full history of the query performance is kept for years. RDST also keeps track of your entire database health in general, and recommends more fixes than simply bad queries. Since it runs locally we can keep the database credentials stored in your OS Keychain (RDST never keeps them in its own storage layer), and the connection goes straight to your database (using a jump host or SSH tunnel for private connections). You can read more about how we handle data especially as it pertains to LLM use here. https:&#x2F;&#x2F;readyset.io&#x2F;docs&#x2F;readyset-ai&#x2F;rdst&#x2F;desktop&#x2F;privacy We really want feedback from the community from people running Postgres and MySQL in production. We are giving inference away completely for free. Just as a reminder, RDST will NOT run any updates or indexes against your database at this time. We are considering a fully autonomous auto-pilot mode in the future, but for now we are leaving the actual fixes in your hands. Let us know what you think!\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://github.com/readysettech/rdst",
+    "category": "no-code",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50107729",
+    "createdAt": "2026-10-15T19:58:27.947Z"
+  },
+  {
+    "slug": "receptive-field-learn-convolutional-neural-networks-interactively-hn",
+    "title": "Receptive Field – Learn Convolutional Neural Networks Interactively",
+    "shortDescription": "As a current student at UC Berkeley, I mostly have been leveraging AI as a tutor to get me through my classes. As a result, I have a collec…",
+    "fullDescription": "As a current student at UC Berkeley, I mostly have been leveraging AI as a tutor to get me through my classes. As a result, I have a collection of artifacts and tools that primarily help interact with and visualize complex concepts. I&#x27;ve turned this into a side project in the hopes some other people would find this helpful as well. As a broke college student I understand the need behind free educational resources, so this is completely free and will stay free. Looking for feedback, let me know what you think!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://receptive-field-flame.vercel.app/appendix/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50107564",
+    "createdAt": "2026-10-15T19:58:27.947Z"
+  },
+  {
+    "slug": "a-curated-directory-of-ai-tools-hn",
+    "title": "A curated directory of AI Tools",
+    "shortDescription": "A curated directory of AI-powered coding tools, autonomous agents, and developer utilities.",
+    "fullDescription": "A curated directory of AI-powered coding tools, autonomous agents, and developer utilities.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/QAInsights/awesome-ai-tools",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50107075",
+    "createdAt": "2026-10-15T19:58:27.947Z"
+  },
+  {
+    "slug": "blastloop-a-structure-first-coding-method-for-ai-agents-hn",
+    "title": "BlastLoop, a structure-first coding method for AI agents",
+    "shortDescription": "Проект «BlastLoop, a structure-first coding method for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «BlastLoop, a structure-first coding method for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 7 баллов.",
+    "url": "https://github.com/rlshaw-ml/BlastLoop",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50106062",
+    "createdAt": "2026-10-15T19:58:27.947Z"
+  },
+  {
+    "slug": "council-ai-spot-biases-hallucinations-in-top-ai-models-hn",
+    "title": "Council AI. Spot biases / hallucinations in top AI models",
+    "shortDescription": "Examples: &quot;The best and worst of AI in 2026&quot;. https:&#x2F;&#x2F;councilai.app&#x2F;s&#x2F;e305b362-2835-4ac3-94e4-6a7c935f948c &q…",
+    "fullDescription": "Examples: &quot;The best and worst of AI in 2026&quot;. https:&#x2F;&#x2F;councilai.app&#x2F;s&#x2F;e305b362-2835-4ac3-94e4-6a7c935f948c &quot;The best and worst of Trump 2026&quot;. https:&#x2F;&#x2F;councilai.app&#x2F;s&#x2F;9b4ca3f0-ee7e-47ed-9585-e5ab1b37a541\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://councilai.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50105935",
+    "createdAt": "2026-10-15T19:58:27.948Z"
+  },
+  {
+    "slug": "haakon-amplify-haiku-to-beat-opus-hn",
+    "title": "Haakon – Amplify Haiku to Beat Opus",
+    "shortDescription": "Проект «Haakon – Amplify Haiku to Beat Opus», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Haakon – Amplify Haiku to Beat Opus», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://haakon.ai/research",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50105930",
+    "createdAt": "2026-10-15T19:58:27.948Z"
+  },
+  {
     "slug": "echo-interview-github",
     "title": "echo-interview",
     "shortDescription": "AI 模拟面试官：每条扣分都强制引用你回答的逐字原文（机器校验，编造引用会被重试/丢弃），四维度加权由确定性代码计算而非模型现编，评分体系设计为可经真人盲评校准 · FastAPI + Vue3 + LangGraph",
