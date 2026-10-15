@@ -1,5 +1,123 @@
 [
   {
+    "slug": "laravel-ai-blog-github-2",
+    "title": "laravel-ai-blog",
+    "shortDescription": "Laravel blog package with built-in SEO scoring, AI drafting (laravel/ai) and an MCP server so Claude and ChatGPT can write to it. Headless…",
+    "fullDescription": "Laravel blog package with built-in SEO scoring, AI drafting (laravel/ai) and an MCP server so Claude and ChatGPT can write to it. Headless by default.\n\nАвтор: byteminus. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://packagist.org/packages/byteminus/laravel-ai-blog",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "blog",
+      "blogging",
+      "chatgpt",
+      "claude",
+      "cms",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1418866998",
+    "createdAt": "2026-10-15T11:53:25.851Z"
+  },
+  {
+    "slug": "openkoda-launch-insurance-innovations-with-ai-hn",
+    "title": "Openkoda – Launch Insurance Innovations with AI",
+    "shortDescription": "Проект «Openkoda – Launch Insurance Innovations with AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Openkoda – Launch Insurance Innovations with AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://openkoda.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50102030",
+    "createdAt": "2026-10-15T11:53:25.512Z"
+  },
+  {
+    "slug": "i-built-a-rogue-ai-game-then-let-five-ai-models-play-it-hn",
+    "title": "I built a rogue AI game, then let five AI models play it",
+    "shortDescription": "Проект «I built a rogue AI game, then let five AI models play it», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built a rogue AI game, then let five AI models play it», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.viberant.app/view.php?id=82",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50101275",
+    "createdAt": "2026-10-15T11:53:25.512Z"
+  },
+  {
+    "slug": "reproducible-failure-drills-for-ai-coding-agents-hn",
+    "title": "Reproducible failure drills for AI coding agents",
+    "shortDescription": "Проект «Reproducible failure drills for AI coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Reproducible failure drills for AI coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/second-time-is-a-bug-book/book-companion",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50101157",
+    "createdAt": "2026-10-15T11:53:25.512Z"
+  },
+  {
+    "slug": "hotel-lobby-ai-916-vertical-colors-show-rap-videos-with-wan-30-hn",
+    "title": "Hotel Lobby AI – 9:16 vertical COLORS show rap videos with Wan 3.0",
+    "shortDescription": "Проект «Hotel Lobby AI – 9:16 vertical COLORS show rap videos with Wan 3.0», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Hotel Lobby AI – 9:16 vertical COLORS show rap videos with Wan 3.0», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://hotellobbyvideoai.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50100584",
+    "createdAt": "2026-10-15T11:53:25.512Z"
+  },
+  {
+    "slug": "thinkbeside-ai-sidebar-for-gpt-claude-and-gemini-hn",
+    "title": "Thinkbeside – AI Sidebar for GPT, Claude and Gemini",
+    "shortDescription": "Проект «Thinkbeside – AI Sidebar for GPT, Claude and Gemini», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Thinkbeside – AI Sidebar for GPT, Claude and Gemini», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://chromewebstore.google.com/detail/thinkbeside-ai-sidebar-fo/plcbbhlakibeddilmfjnkdpfcjdcliip",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50100286",
+    "createdAt": "2026-10-15T11:53:25.512Z"
+  },
+  {
+    "slug": "daily-image-location-guessing-agains-ai-hn",
+    "title": "Daily image location guessing agains AI",
+    "shortDescription": "Every day, I let all frontier AI models play five rounds of an image location guess game. Try it out how you perform against the AI. I rece…",
+    "fullDescription": "Every day, I let all frontier AI models play five rounds of an image location guess game. Try it out how you perform against the AI. I recently released my browser image location game, a hobby project where you’re get random images from sources like Wikimedia Commons and have to guess the image’s location. There are an incredible number of images with rich metadata on Wikimedia Commons, most of them depict trivial but interesting places or events. My goal was to make this online catalog playable and to make it easier to discover new places and Wikipedia articles. I realize I’m certainly not the first person to have this idea, but I’ve tried to build a cohesive overall concept around it with multiplayer, content filter, own image collections and more. I thought it would be interesting to see how well AI models do at guessing images, and I have to say, they&#x27;re very good. To make it a little more interesting, every user can also take a guess at each image. I hope you find it interesting and enjoy guessing. I know it&#x27;s not really a fair comparison. In the end it&#x27;s more entertainment then a real competition. Please feel free to ask any questions and I look forward to any suggestions&#x2F;feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://mediaguesser.com/human-vs-ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50099986",
+    "createdAt": "2026-10-15T11:53:25.512Z"
+  },
+  {
     "slug": "softjl-github",
     "title": "SoftJL",
     "shortDescription": "面向大学生毕业设计与课程设计的 AI 助手，提供从需求到成果交付的全流程辅助。将项目想法转化为 UML 模型、系统设计、测试用例和可编辑的工程文档，并连接编程助手完成代码实现。让项目过程有迹可循，让设计思路更容易讲清楚。",
