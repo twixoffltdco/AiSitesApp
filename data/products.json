@@ -1,5 +1,235 @@
 [
   {
+    "slug": "mailmomo-oss-github",
+    "title": "mailmomo-oss",
+    "shortDescription": "Calm, keyboard-first, AI-native email client you self-host. Any IMAP/SMTP account, built-in MCP server.",
+    "fullDescription": "Calm, keyboard-first, AI-native email client you self-host. Any IMAP/SMTP account, built-in MCP server.\n\nАвтор: moaljumaa. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://github.com/moaljumaa/mailmomo-oss",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "email",
+      "imap",
+      "mcp",
+      "nextjs",
+      "self-hosted",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1422073570",
+    "createdAt": "2026-10-16T16:02:52.654Z"
+  },
+  {
+    "slug": "agent-chat-in-your-markdown-notes-chat-with-context-and-save-response-hn",
+    "title": "Agent Chat in Your Markdown Notes – Chat with Context and Save Response",
+    "shortDescription": "EtherPK now has Agent Chat. I use AI agents in two distinct ways. For coding I use TUIs, but for day-to-day and non code projects I used to…",
+    "fullDescription": "EtherPK now has Agent Chat. I use AI agents in two distinct ways. For coding I use TUIs, but for day-to-day and non code projects I used to use the web chat UIs like many others. Two things about this was always jarring: You&#x27;re starting context from scratch. You might have a couple of agent instructions configured, but you have to tell the agent what you&#x27;re thinking, from the beginning. When you get the information you need, holding on to it is hard. Within a day or two it&#x27;s burried in your chat history. EtherPK is a mardown based PKMS (notes app), and it solves both of these problems. You can type &#x2F;Agent within your notes (EtherPK supports standard prose and outliner blocks in the same document). The Agent Chat panel opens within your document, and you can choose how much context to give it. That might be nothing, the current block tree, the document or the whole graph (in the case of the latter - immediate surounding context is sent and the agent is given tools to navigate the rest of your graph). You control what the agent gets, and what stays private.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://blog.etherpk.com/agent-chat-ask-a-language-model-about-your-notes",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50119958",
+    "createdAt": "2026-10-16T16:02:54.679Z"
+  },
+  {
+    "slug": "termexo-one-ai-operating-your-other-coding-agents-on-windows-hn",
+    "title": "Termexo – one AI operating your other coding agents, on Windows",
+    "shortDescription": "Проект «Termexo – one AI operating your other coding agents, on Windows», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Termexo – one AI operating your other coding agents, on Windows», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/gemron/Termexo",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50119778",
+    "createdAt": "2026-10-16T16:02:54.679Z"
+  },
+  {
+    "slug": "we-built-an-open-source-agent-first-alternative-to-profound-hn",
+    "title": "We built an open source, agent-first, alternative to Profound",
+    "shortDescription": "We wanted a way to track AI visibility locally in an agent first way, so we built Canonry. On top of AI visibility, it integrates GSC, Anal…",
+    "fullDescription": "We wanted a way to track AI visibility locally in an agent first way, so we built Canonry. On top of AI visibility, it integrates GSC, Analytics, server traffic, and ads to give your agent a full view of your site&#x27;s visibility. Some of the things we&#x27;ve built on top of Canonry: an automated content generation engine, in-depth site health check monitor, ads optimizer. We learned a lot about AI visibility and how to optimize sites during this process, happy to answer any questions!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Canonry/canonry",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50119748",
+    "createdAt": "2026-10-16T16:02:54.679Z"
+  },
+  {
+    "slug": "busabase-an-open-source-system-of-record-for-ai-agent-work-hn",
+    "title": "Busabase – an open-source system of record for AI agent work",
+    "shortDescription": "Проект «Busabase – an open-source system of record for AI agent work», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Busabase – an open-source system of record for AI agent work», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/busabase/busabase",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50119352",
+    "createdAt": "2026-10-16T16:02:54.679Z"
+  },
+  {
+    "slug": "rstation-a-shared-research-lab-for-your-ai-agents-hn",
+    "title": "rStation – A shared research lab for your AI agents",
+    "shortDescription": "Проект «rStation – A shared research lab for your AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «rStation – A shared research lab for your AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 9 баллов.",
+    "url": "https://rstation.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50118876",
+    "createdAt": "2026-10-16T16:02:54.679Z"
+  },
+  {
+    "slug": "monitoring-my-dumb-boiler-with-ai-hn",
+    "title": "Monitoring my 'dumb' boiler with AI",
+    "shortDescription": "I have this boiler at a rental property I own. It has 3 smart thermostats (Ecobee). They&#x27;re great and give the individual tenants zone…",
+    "fullDescription": "I have this boiler at a rental property I own. It has 3 smart thermostats (Ecobee). They&#x27;re great and give the individual tenants zone control, but they only notify me something is wrong when it&#x27;s already too late as they rely on observing the &#x27;call for heat&#x27; and a ongoing decline in room temperature to trigger the alert. The boiler is pretty smart, it has all kinds of cool error codes, but the issue is I have no way of knowing theres an error flashing on the screen. That is, until now. I put a Tapo camera pointed at the boiler (getting Tapo to export still frames was a whole other issue, code for doing that is in the same github project for anyone interested) and use AI to read the screen and zone controller lights. The result is a system that sends me a text message any time something goes outside of the normal operating parameters. My goal is to deliver a great experience for the tenants living at this property, and now I&#x27;m able to connect my &#x27;dumb&#x27; appliances to the internet without any of the typical risks associated with exposing critical infrastructure to the web.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://ndroo.github.io/tapo-boiler-monitor/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50118394",
+    "createdAt": "2026-10-16T16:02:54.679Z"
+  },
+  {
+    "slug": "slopgrid-create-your-own-oneshot-ai-model-benchmarks-hn",
+    "title": "SlopGrid – Create your own oneshot AI model benchmarks",
+    "shortDescription": "This is something I&#x27;ve been playing with for the last couple days - an app I vibecoded to arrange oneshot LLM visual benchmarks withou…",
+    "fullDescription": "This is something I&#x27;ve been playing with for the last couple days - an app I vibecoded to arrange oneshot LLM visual benchmarks without the need to write any code. I do it form my phone so the excellence of mobile UI is high in the priority list. It is inspired by Simon Willison&#x27;s benchmark writeups[0], basically you can recreate them in one go. Besides text and images, it supports SVG outputs and whole static websites, which is where benchmarks get the most interesting. Additionally, I added the ability to alter chat history for the chat completion API, which I think is useful for model red teaming (or if you just want to see how different models apologize) - but I haven&#x27;t found any impressive uses of that feature yet. This thing helped me improve my intuition on different SOTA models&#x27; strengths and weaknesses; check out the various examples on the website, and feel free to create your own [0] https:&#x2F;&#x2F;simonwillison.net&#x2F;tags&#x2F;svg&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://slopgrid.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50118127",
+    "createdAt": "2026-10-16T16:02:54.679Z"
+  },
+  {
+    "slug": "heldkeys-see-which-credentials-your-ai-coding-agent-can-reach-hn",
+    "title": "Heldkeys, see which credentials your AI coding agent can reach",
+    "shortDescription": "Проект «Heldkeys, see which credentials your AI coding agent can reach», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Heldkeys, see which credentials your AI coding agent can reach», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/hugomn/heldkeys",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50118028",
+    "createdAt": "2026-10-16T16:02:54.679Z"
+  },
+  {
+    "slug": "aegiskernel-zero-trust-deterministic-security-runtime-for-ai-agents-hn",
+    "title": "AegisKernel – Zero-trust deterministic security runtime for AI agents",
+    "shortDescription": "Проект «AegisKernel – Zero-trust deterministic security runtime for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AegisKernel – Zero-trust deterministic security runtime for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/adikshatriyag-crypto/aegis-kernel",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50118011",
+    "createdAt": "2026-10-16T16:02:54.679Z"
+  },
+  {
+    "slug": "check-if-your-ai-agent-looks-good-for-clients-hn",
+    "title": "Check if your AI Agent looks good for clients",
+    "shortDescription": "Just sign in with a free account, go to the Agents Scoring section, and paste the public URL of your x402&#x2F;mpp agent. It will tell you…",
+    "fullDescription": "Just sign in with a free account, go to the Agents Scoring section, and paste the public URL of your x402&#x2F;mpp agent. It will tell you what can be discovered by clients, what you can improve, etc.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://nevermined.app/agents-scoring",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50117886",
+    "createdAt": "2026-10-16T16:02:54.680Z"
+  },
+  {
+    "slug": "videre-a-rust-cli-to-manage-your-photos-and-videos-with-joy-hn",
+    "title": "Videre – a Rust CLI to manage your photos and videos with joy",
+    "shortDescription": "Long story short it&#x27;s a media library licensed under Apache2. It cares about your privacy. It doesn&#x27;t send any data and it doesn&…",
+    "fullDescription": "Long story short it&#x27;s a media library licensed under Apache2. It cares about your privacy. It doesn&#x27;t send any data and it doesn&#x27;t have telemetry. It is local only project. It&#x27; helps you to organize, view, search and do plenty of things with your photos and videos locally. If you are interested in it&#x27;s story you can read on OR visit https:&#x2F;&#x2F;videre.sh for installation instructions. I have been collecting my photos and videos since 2000s. My collection grew exponentially when I bought iPhone 3GS back in 2010. I had roughly 1TB of backups in multiple iPhoto folders. It was nice at the beginning but than I realized that there are multiple copies of files in multiple backups. It&#x27;s not just one or two, they were like thousands because I copied them here and there time to time from drive to external drive and import from iCloud etc. So There was a big chunk of unnecessary data sitting in my external drive. I tried iPhoto itself to resolve it but it wasn&#x27;t good enough. So I decided to write small app (dedupe) to eliminate them by myself. The story of `videre` started like that. There is a longer story in videre.sh&#x2F;blog if you would like to read. `videre` is local &amp; privacy first CLI tool. You can do many things with it such as duplicate elimination, date&#x2F;time fix with EXIF&#x2F;mtime support, recognise&#x2F;cluster faces automatically, date grouping, event detection, map, advanced search via composable filters and lucene syntax, import&#x2F;export Google&#x2F;Apple&#x2F;Adobe, XMP support, tags&#x2F;keywords etc. Other media libraries have similar features but the difference of `videre` is CLI. Since it runs in terminal it&#x27;s very convenient to use it via AI Assistant. So you don&#x27;t even have to know all those commands and their usages. You may ask to you AI assistant: &quot;Find my photos with George in NY at last summer by using videre&quot; and that should be enough (of course you need to define who is George via `videre gallery` People section first). I enjoy using it. It&#x27;s not because I built, it&#x27;s a strong tool and you can do many things. Especially it&#x27;s gallery command and web UI is strongly recommended. I bet all of you need such tool at some point so just give it a shot. Installation is very easy and then scan some files and see `videre gallery` UI&#x2F;UX. Hope you enjoy it. Github: https:&#x2F;&#x2F;github.com&#x2F;aegea-dev&#x2F;videre Docs: https:&#x2F;&#x2F;docs.videre.sh\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://videre.sh/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50117598",
+    "createdAt": "2026-10-16T16:02:54.680Z"
+  },
+  {
+    "slug": "cr34teit-a-website-anyone-can-rewrite-one-turn-at-a-time-with-ai-hn",
+    "title": "Cr34te.it – a website anyone can rewrite one turn at a time with AI",
+    "shortDescription": "Yeah I built this out of a silly idea a couple of weeks ago. You can change what the website shows. You may change minor things or add some…",
+    "fullDescription": "Yeah I built this out of a silly idea a couple of weeks ago. You can change what the website shows. You may change minor things or add something completely new. It bascially works like that: 1. You claim a turn. If the queue is empty, you start right away. 2. When it&#x27;s your turn, you copy a prompt to a web based AI or - more comfy - our local coding agent. 3. The AI will fetch the current status of the website and ask what you want to change. 4. You answer - and the AI gets back a JSON that you paste back to the website - or the coding agent POST it directly to an endpoint. 5. Submission will be moderated against all of the things you must expect when anonymous people post stuff. There are a couple of apparenty restrictions. You will find out. 6. Eventually it&#x27;s being published. Historical submissions are being preserved, you can browse them.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://cr34te.it/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50117588",
+    "createdAt": "2026-10-16T16:02:54.680Z"
+  },
+  {
+    "slug": "deterministic-ai-agents-guardrail-hn",
+    "title": "Deterministic AI Agents Guardrail",
+    "shortDescription": "Hi all, With everybody (and especially companies) using AI agents, I have decided to work on a deterministic guardrail tool for AI agents.…",
+    "fullDescription": "Hi all, With everybody (and especially companies) using AI agents, I have decided to work on a deterministic guardrail tool for AI agents. What does it mean? On the same way that an AI agent can run “terraform plan”, it can also run “terraform destroy”. The tool ALLOWS or BLOCKS AI commands accordingly, to avoid unexpected “tragedies”. Please, note that this is not a hardened sandbox. The tool can be bypassed by a capable person or process, since this is my first proof of concept. I would like to present it to the community and receive honest feedback (pros, cons, issues, concerns, is it really useful? Would companies be interested in using it?). Please, feel free to visit the GitHub page, read more details in the README file and download it to try. Thanks!!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/aws-safebox/aws-safebox",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50117268",
+    "createdAt": "2026-10-16T16:02:54.680Z"
+  },
+  {
     "slug": "singularity-github",
     "title": "singularity",
     "shortDescription": "Where Claude Code meets Antigravity",
