@@ -1,5 +1,21 @@
 [
   {
+    "slug": "muse-jailbreak-let-muse-use-your-own-chrome-hn",
+    "title": "Muse Jailbreak – Let Muse use your own Chrome",
+    "shortDescription": "Hi HN. I built a small macOS menu bar app that lets the Muse agent use the Chrome browser on your own Mac. I built it because I kept hittin…",
+    "fullDescription": "Hi HN. I built a small macOS menu bar app that lets the Muse agent use the Chrome browser on your own Mac. I built it because I kept hitting the same wall. I&#x27;d ask Muse to do something on the web and it would come back holding a login page. I&#x27;m already signed in to a thousand places in my own Chrome; I don&#x27;t want to hand every one of those logins over to an agent, or sign in all over again inside some cloud browser. So I built a bridge that lets Muse use the browser I already have: my Chrome, my sessions, signed in as me. How it works: the app launches a dedicated Chrome profile on your Mac and exposes it over CDP. You turn it on, it shows a one-time code, you give that code to Muse, and Muse connects through a tunnel (Cloudflare Quick Tunnel by default, or a self-hosted sish fallback if you prefer your own infrastructure). The browser never leaves your machine: cookies, sessions and logins stay on your computer. The tunnel only carries the agent&#x27;s control traffic, and it is end-to-end encrypted (AES-256-GCM). Muse sees screenshots and sends back clicks and keystrokes; where a page needs a genuine mouse event it can also click at the OS level via the Accessibility API. It is native Swift with no third-party dependencies, and everything is open source (app, protocol, tunnel client) so you can audit exactly what it does before running it. Honest caveats: this gives an AI real control of a browser where you are logged in. That is the point, and also the risk. Use the dedicated profile, don&#x27;t leave it running unattended, and only connect agents you trust. macOS only for now. I built it for my own use and would genuinely like feedback on the security model: what is missing, and what would make you comfortable (or uncomfortable) running something like this?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://gitlab.com/pablosanzo/musejailbreak",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50119806",
+    "createdAt": "2026-10-16T22:29:32.510Z"
+  },
+  {
     "slug": "pickyourai-github",
     "title": "pickyour.ai",
     "shortDescription": "PickYour.AI — a PCPartPicker-style builder for complete AI stacks (preview with synthetic data).",
