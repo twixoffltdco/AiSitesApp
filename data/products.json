@@ -1,5 +1,145 @@
 [
   {
+    "slug": "ptero-bulk-9router-github",
+    "title": "ptero-bulk-9router",
+    "shortDescription": "Bulk-create ptero.pro anonymous accounts, auto-harvest tokens & session cookies, and serve them to 9Router as a self-healing, load-balanced…",
+    "fullDescription": "Bulk-create ptero.pro anonymous accounts, auto-harvest tokens & session cookies, and serve them to 9Router as a self-healing, load-balanced OpenAI-compatible pool. Zero dependencies.\n\nАвтор: 0xgetz. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/0xgetz/ptero-bulk-9router",
+    "category": "ai-tool",
+    "tags": [
+      "9router",
+      "adapter",
+      "ai",
+      "bulk-account-creator",
+      "gateway",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1421489978",
+    "createdAt": "2026-10-16T06:07:02.973Z"
+  },
+  {
+    "slug": "engine-github",
+    "title": "engine",
+    "shortDescription": "AI-native, mixed-reality, self-evolving open world engine. 11-layer architecture, 5 platforms (PC / Mobile / Web / AR / BCI-reserved).",
+    "fullDescription": "AI-native, mixed-reality, self-evolving open world engine. 11-layer architecture, 5 platforms (PC / Mobile / Web / AR / BCI-reserved).\n\nАвтор: OriEra-engine. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://oriera-engine.github.io/engine/",
+    "category": "ai-tool",
+    "tags": [
+      "3d",
+      "ai",
+      "ai-agents",
+      "ai-native",
+      "ar",
+      "ecs",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1419411728",
+    "createdAt": "2026-10-16T06:07:02.973Z"
+  },
+  {
+    "slug": "gitsuapp-a-linear-alternative-built-on-github-projects-hn",
+    "title": "Gitsu.app – A Linear-alternative built on GitHub Projects",
+    "shortDescription": "Issue tracking isn&#x27;t dead. It&#x27;s moving closer to code. Gitsu is a fast, AI-native, keyboard-first Mac and web app on top of your…",
+    "fullDescription": "Issue tracking isn&#x27;t dead. It&#x27;s moving closer to code. Gitsu is a fast, AI-native, keyboard-first Mac and web app on top of your existing GitHub Projects and issues. Everything syncs with GitHub in the background. Gitsu is free on the web. Pro is $4.99&#x2F;seat&#x2F;month and adds the native Mac client, advanced AI panels, and MCP agent workflows. Give gitsu.app a go and write us your suggestions&#x2F;opinions&#x2F;bug reports.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://gitsu.app/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50114512",
+    "createdAt": "2026-10-16T06:07:02.908Z"
+  },
+  {
+    "slug": "lobby-domains-find-domains-with-chromes-on-device-ai-hn",
+    "title": "Lobby Domains: Find Domains with Chrome's On-Device AI",
+    "shortDescription": "Проект «Lobby Domains: Find Domains with Chrome's On-Device AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Lobby Domains: Find Domains with Chrome's On-Device AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://lobby.domains/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50113913",
+    "createdAt": "2026-10-16T06:07:02.908Z"
+  },
+  {
+    "slug": "kitaphone-call-mobile-phones-and-landlines-directly-from-the-browser-hn",
+    "title": "Kitaphone – Call mobile phones and landlines directly from the browser",
+    "shortDescription": "Hi HN Folks, I have been building Kitaphone a web app that lets you call regular mobile and landline numbers directly from your browser. Th…",
+    "fullDescription": "Hi HN Folks, I have been building Kitaphone a web app that lets you call regular mobile and landline numbers directly from your browser. The idea is simple, there are still plenty of situations where apps like WhatsApp, facetime and other internet calling apps aren&#x27;t an option. For example, when you are abroad and need to call your bank, an airline, or a government office or your son&#x2F;daughter&#x27;s school. I wanted to make those calls possible without requiring users to install another app or buy a sim card or even commit to a monthly subscription. I built Kitaphone using Next.js and Twilio, One of the more interesting challenges has been making browser based calling reliable, especially when it comes to dealing with microphone permissions, sending keypad inputs to automated phone systems, and preventing abuse of free calling credits. The product is live and supports international calls to regular phone numbers, users currently need an account to make calls partly because each call has a real telecom cost. I am still improving it and learning from the people using it by receiving feedback. Fun fact: &quot;kita&quot; means our in Bahasa Malaysia, since I am based in this beautiful country and their people are so warm and welcoming I was truly inspired by this place and decided to name it our phone. Interested to know or receive feedback from HN folks who worked with WebRTC or VoiP in the past.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://kitaphone.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50113708",
+    "createdAt": "2026-10-16T06:07:02.908Z"
+  },
+  {
+    "slug": "beeline-multiplayer-agent-harness-hn",
+    "title": "Beeline Multiplayer Agent Harness",
+    "shortDescription": "Shipped Beeline today. It&#x27;s a team chat for humans and agents - a kind of multiplayer harness. You can bring your codex, Claude code,…",
+    "fullDescription": "Shipped Beeline today. It&#x27;s a team chat for humans and agents - a kind of multiplayer harness. You can bring your codex, Claude code, opencode subscriptions and also works with pi and goose. We built beeline itself with early versions of beeline, and use it to build our other projects - it&#x27;s boosted productivity quite a bit for us. Demo video: https:&#x2F;&#x2F;youtu.be&#x2F;ACdelpZC2z4?is=pP6MFxJODvKcGjQt The key insight is that humans do their best work in teams, but agentic development has so far been single player. This has led to people having to forward AI slop to each other or to try to deliver context through various shims like meetings or task tickets. Beeline is a single control plane for your entire team, both human and agent, and is designed to help your team do its best work. Things to expect: - This is a multiplayer agentic harness, not a slack substitute. It&#x27;s best for focused product teams doing or relying on engineering tools and shipping code. - Open source and not a business. We use beeline internally, and just thought it would be a really cool thing to exist in the world. There are still lots of bugs - Sweepstakes things like computer use, lots of third party connector integrations are there. What&#x27;s cool is that beeline agents can automate _auth_ through trustysquire.ai - they can sign up to most services and APIs without you having to do it for them. - A new primitive called workflows, that are skills for teams of agents. - multi way call with your entire team, humans and agents. I like it quite a bit. Looking forward to feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://usebeeline.app",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50113268",
+    "createdAt": "2026-10-16T06:07:02.908Z"
+  },
+  {
+    "slug": "wayseer-a-native-desktop-app-for-browsing-real-time-data-hn",
+    "title": "Wayseer – A native desktop app for browsing real-time data",
+    "shortDescription": "As an IT professional, I felt a distinct lacking of a real-time tool for tracking down problems in complex systems. I have created Wayseer…",
+    "fullDescription": "As an IT professional, I felt a distinct lacking of a real-time tool for tracking down problems in complex systems. I have created Wayseer Desktop as a way to explore more effective ways to explore live systems. There&#x27;s a very functional free version, and paid options that unlock additional features. I&#x27;m curious what you all think of the approach. I&#x27;m a systems engineer by trade (with some development experience), not a developer, so I have relied on AI to do the heavy lifting while I request features, report bugs and perform as much manual testing as I feasibly can. There are bound to be bugs... but it is still very young and has a (hopefully) long future in which refinements can be made.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://wayseer.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50113201",
+    "createdAt": "2026-10-16T06:07:02.908Z"
+  },
+  {
+    "slug": "firmenza-an-ai-employee-for-samgov-hn",
+    "title": "Firmenza – An AI employee for SAM.gov",
+    "shortDescription": "Проект «Firmenza – An AI employee for SAM.gov», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Firmenza – An AI employee for SAM.gov», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://firmenza.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50113168",
+    "createdAt": "2026-10-16T06:07:02.908Z"
+  },
+  {
     "slug": "overchat-bulk-9router-github",
     "title": "overchat-bulk-9router",
     "shortDescription": "Bulk-create Overchat accounts, auto-harvest access tokens + cookies, and serve them to 9Router as a load-balanced OpenAI-compatible pool. Z…",
