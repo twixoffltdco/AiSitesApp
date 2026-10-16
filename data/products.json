@@ -1,5 +1,75 @@
 [
   {
+    "slug": "singularity-github",
+    "title": "singularity",
+    "shortDescription": "Where Claude Code meets Antigravity",
+    "fullDescription": "Where Claude Code meets Antigravity\n\nАвтор: voltyx01. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/voltyx01/singularity",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "antigravity",
+      "antigravity-ai",
+      "antigravity-cli",
+      "antigravity-skills",
+      "antigravity-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1419062108",
+    "createdAt": "2026-10-16T11:44:54.926Z"
+  },
+  {
+    "slug": "flashpapers-interactive-explainers-for-ai-papers-hn",
+    "title": "Flashpapers – Interactive explainers for AI papers",
+    "shortDescription": "Проект «Flashpapers – Interactive explainers for AI papers», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Flashpapers – Interactive explainers for AI papers», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://flashpapers.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50117104",
+    "createdAt": "2026-10-16T11:44:54.816Z"
+  },
+  {
+    "slug": "wp-replai-ai-chatbot-built-right-into-wordpress-hn",
+    "title": "WP Replai – AI chatbot built right into WordPress",
+    "shortDescription": "Проект «WP Replai – AI chatbot built right into WordPress», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «WP Replai – AI chatbot built right into WordPress», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://wpreplai.com/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50115538",
+    "createdAt": "2026-10-16T11:44:54.817Z"
+  },
+  {
+    "slug": "citeproof-catch-fake-ai-legal-citations-hn",
+    "title": "CiteProof – Catch fake AI legal citations",
+    "shortDescription": "Проект «CiteProof – Catch fake AI legal citations», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «CiteProof – Catch fake AI legal citations», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://getciteproof.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50114653",
+    "createdAt": "2026-10-16T11:44:54.817Z"
+  },
+  {
     "slug": "ptero-bulk-9router-github",
     "title": "ptero-bulk-9router",
     "shortDescription": "Bulk-create ptero.pro anonymous accounts, auto-harvest tokens & session cookies, and serve them to 9Router as a self-healing, load-balanced…",
