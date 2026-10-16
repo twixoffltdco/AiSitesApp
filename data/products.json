@@ -1,5 +1,152 @@
 [
   {
+    "slug": "overchat-bulk-9router-github",
+    "title": "overchat-bulk-9router",
+    "shortDescription": "Bulk-create Overchat accounts, auto-harvest access tokens + cookies, and serve them to 9Router as a load-balanced OpenAI-compatible pool. Z…",
+    "fullDescription": "Bulk-create Overchat accounts, auto-harvest access tokens + cookies, and serve them to 9Router as a load-balanced OpenAI-compatible pool. Zero-dependency Node.\n\nАвтор: 0xgetz. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/0xgetz/overchat-bulk-9router",
+    "category": "ai-tool",
+    "tags": [
+      "9router",
+      "account-generator",
+      "adapter",
+      "ai",
+      "bulk",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1420790324",
+    "createdAt": "2026-10-16T01:04:15.249Z"
+  },
+  {
+    "slug": "howtolivewithai-github",
+    "title": "HowToLiveWithAI",
+    "shortDescription": "面向普通年轻人的 AI 学习指南：认识基础知识、选择值得学的技能，从可检查的小事开始。含六章正文、学习练习、研究资料及 HTML/PDF 阅读版。",
+    "fullDescription": "面向普通年轻人的 AI 学习指南：认识基础知识、选择值得学的技能，从可检查的小事开始。含六章正文、学习练习、研究资料及 HTML/PDF 阅读版。\n\nАвтор: kkk-bot. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://kkk-bot.github.io/HowToLiveWithAI/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-literacy",
+      "chinese",
+      "guide",
+      "learning",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1418580171",
+    "createdAt": "2026-10-16T01:04:15.249Z"
+  },
+  {
+    "slug": "agentplaza-github",
+    "title": "agentplaza",
+    "shortDescription": "Self-hosted AI agents, each in its own microVM, with rules, budgets and a kill switch you control.",
+    "fullDescription": "Self-hosted AI agents, each in its own microVM, with rules, budgets and a kill switch you control.\n\nАвтор: JumpHash. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://agentplaza.io",
+    "category": "productivity",
+    "tags": [
+      "agentic",
+      "agentic-ai",
+      "agentic-coding",
+      "agentic-workflow",
+      "agentic-workflows",
+      "agenticflow",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1419728061",
+    "createdAt": "2026-10-16T01:04:15.249Z"
+  },
+  {
+    "slug": "commonworld-github",
+    "title": "commonworld",
+    "shortDescription": "A shared world for humans and agents",
+    "fullDescription": "A shared world for humans and agents\n\nАвтор: commonworld-one. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://commonworld.one/",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "commonworld",
+      "community",
+      "dao",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1421264919",
+    "createdAt": "2026-10-16T01:04:15.249Z"
+  },
+  {
+    "slug": "ai-collab-archive-github",
+    "title": "ai-collab-archive",
+    "shortDescription": "Fill in one questionnaire, get two prompts, and let any AI build and maintain a cross-session, cross-tool collaboration archive. Offline si…",
+    "fullDescription": "Fill in one questionnaire, get two prompts, and let any AI build and maintain a cross-session, cross-tool collaboration archive. Offline single-file HTML.\n\nАвтор: randomGGo. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/randomGGo/ai-collab-archive",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "collaboration",
+      "context-management",
+      "offline",
+      "productivity",
+      "prompt-engineering",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1420377871",
+    "createdAt": "2026-10-16T01:04:15.249Z"
+  },
+  {
+    "slug": "glpi-ai-ticket-assistant-github",
+    "title": "glpi-ai-ticket-assistant",
+    "shortDescription": "AI assistant for GLPI 10, 11 and 12: reads the whole ticket (text, images, documents), drafts replies, rewrites texts and learns the classi…",
+    "fullDescription": "AI assistant for GLPI 10, 11 and 12: reads the whole ticket (text, images, documents), drafts replies, rewrites texts and learns the classification from solved tickets. OpenAI, Azure, Anthropic, Gemini, Mistral, Ollama or any OpenAI-compatible API.\n\nАвтор: flpsantoro. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/flpsantoro/glpi-ai-ticket-assistant",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "anthropic",
+      "glpi",
+      "glpi-plugin",
+      "helpdesk",
+      "itsm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1419586020",
+    "createdAt": "2026-10-16T01:04:15.249Z"
+  },
+  {
+    "slug": "sjq-jq-but-for-ai-streaming-hn",
+    "title": "Sjq – Jq, but for AI Streaming",
+    "shortDescription": "Проект «Sjq – Jq, but for AI Streaming», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Sjq – Jq, but for AI Streaming», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/vivgrid/sjq",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50112214",
+    "createdAt": "2026-10-16T01:04:15.059Z"
+  },
+  {
     "slug": "guess-the-llm-read-an-answer-and-guess-which-model-wrote-it-hn",
     "title": "Guess the LLM – read an answer and guess which model wrote it",
     "shortDescription": "Hi HN, I made a game to test if people can really tell AI models apart. Models from all the frontier labs answer the same question. You rea…",
