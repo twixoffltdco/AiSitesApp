@@ -1,5 +1,117 @@
 [
   {
+    "slug": "ayafy-a-free-app-to-memorise-and-revise-the-quran-hn",
+    "title": "Ayafy: A free app to memorise and revise the Quran",
+    "shortDescription": "I built Ayafy, a free Quran learning app on iOS and Android. It lets you manage memorisation, automatically prepares revision tests as you…",
+    "fullDescription": "I built Ayafy, a free Quran learning app on iOS and Android. It lets you manage memorisation, automatically prepares revision tests as you study, measure progress, establish goals and review your recitation with AI-powered word-by-word feedback. It has also a quran reader, voice search and much more. I would love to hear your open feedback &amp; ideas for improvements! Website: https:&#x2F;&#x2F;ayafy.com iOS: https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;ayafy&#x2F;id1549129832 Android: https:&#x2F;&#x2F;play.google.com&#x2F;store&#x2F;apps&#x2F;details?id=com.ayafy.app\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ayafy.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50135240",
+    "createdAt": "2026-10-17T21:34:43.481Z"
+  },
+  {
+    "slug": "kira-sovereign-local-first-ai-and-media-workstation-for-windows-hn",
+    "title": "KIRA – Sovereign, local-first AI and media workstation for Windows",
+    "shortDescription": "Проект «KIRA – Sovereign, local-first AI and media workstation for Windows», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «KIRA – Sovereign, local-first AI and media workstation for Windows», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://apps.microsoft.com/detail/9n2dr3g0jw0z?hl=en-US&gl=US",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50135001",
+    "createdAt": "2026-10-17T21:34:43.481Z"
+  },
+  {
+    "slug": "thoreaus-walden-as-a-3d-browser-game-with-an-ai-guide-hn",
+    "title": "Thoreau's Walden as a 3D browser game with an AI guide",
+    "shortDescription": "Проект «Thoreau's Walden as a 3D browser game with an AI guide», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Thoreau's Walden as a 3D browser game with an AI guide», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://walden.learnmer.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50134868",
+    "createdAt": "2026-10-17T21:34:43.481Z"
+  },
+  {
+    "slug": "i-made-17-ais-play-7700-hands-of-poker-hn",
+    "title": "I Made 17 AIs Play 7,700 Hands of Poker",
+    "shortDescription": "Проект «I Made 17 AIs Play 7,700 Hands of Poker», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I Made 17 AIs Play 7,700 Hands of Poker», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://chrystianschutz.com/blog/ai-poker-holdembench/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50134322",
+    "createdAt": "2026-10-17T21:34:43.481Z"
+  },
+  {
+    "slug": "task629-personal-development-tracking-through-task-descriptions-hn",
+    "title": "Task629 – Personal development tracking through task descriptions",
+    "shortDescription": "I built Task629 to make the tracking of my personal development less time consuming. Instead of spending time thinking about how the tasks…",
+    "fullDescription": "I built Task629 to make the tracking of my personal development less time consuming. Instead of spending time thinking about how the tasks which I have completed fit into certain skills I am trying to develop, I pass this to a locally hosted AI. As well as tracking individual skills which are demonstrated by tasks, there is functionality to work towards goals and to produce a report. This addition makes interview prep much simpler.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/sudo-bendg/task629",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50134197",
+    "createdAt": "2026-10-17T21:34:43.481Z"
+  },
+  {
+    "slug": "inbox-wall-a-local-first-open-source-email-sanitizer-for-ai-agents-hn",
+    "title": "InBox Wall – A local-first, open-source email sanitizer for AI agents",
+    "shortDescription": "An open-source, local-first MCP server designed to sanitize email HTML and protect local AI agents from hidden CSS&#x2F;Unicode prompt inje…",
+    "fullDescription": "An open-source, local-first MCP server designed to sanitize email HTML and protect local AI agents from hidden CSS&#x2F;Unicode prompt injections before the LLM processes the data.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Annora998/inboxwall",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50134132",
+    "createdAt": "2026-10-17T21:34:43.481Z"
+  },
+  {
+    "slug": "halal-crypto-index-aaoifi-shariah-compliance-screener-for-800-coins-hn",
+    "title": "Halal Crypto Index – AAOIFI Shariah compliance screener for 800 coins",
+    "shortDescription": "Hi HN, We built Halal Crypto Index ( https:&#x2F;&#x2F;halalcryptoindex.com ) to provide transparent, open-methodology Shariah screening fo…",
+    "fullDescription": "Hi HN, We built Halal Crypto Index ( https:&#x2F;&#x2F;halalcryptoindex.com ) to provide transparent, open-methodology Shariah screening for 820+ crypto assets based on AAOIFI financial ratios (debt&#x2F;market cap, interest revenue, utility vs speculation). Ecosystem: • Live Web App: https:&#x2F;&#x2F;halalcryptoindex.com • Telegram Mini App: https:&#x2F;&#x2F;t.me&#x2F;Halal_Crypto_App_Bot&#x2F;app • MCP AI Server: https:&#x2F;&#x2F;smithery.ai&#x2F;servers&#x2F;tffsgsff&#x2F;halal-crypto • CERN Zenodo DOI: 10.5281&#x2F;zenodo.23021995 Feedback on the data methodology is very welcome!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://halalcryptoindex.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50134125",
+    "createdAt": "2026-10-17T21:34:43.481Z"
+  },
+  {
     "slug": "sitelens-github",
     "title": "sitelens",
     "shortDescription": "Open-source website and GEO readiness audits with evidence-backed AI insights. Built with Next.js 16 by Infoholder Studio.",
