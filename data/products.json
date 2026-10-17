@@ -1,5 +1,81 @@
 [
   {
+    "slug": "breakinggood-github",
+    "title": "breakinggood",
+    "shortDescription": "One command. Any URL. Cloned, reverse-engineered, running.",
+    "fullDescription": "One command. Any URL. Cloned, reverse-engineered, running.\n\nАвтор: eklavya2201. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://github.com/eklavya2201/breakinggood",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "cli",
+      "clone",
+      "developer-tools",
+      "npx",
+      "playwright",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1423186275",
+    "createdAt": "2026-10-17T13:27:01.637Z"
+  },
+  {
+    "slug": "awesome-rea-games-github",
+    "title": "awesome-rea-games",
+    "shortDescription": "A collection of game decompilations, recompilations, demos, ports",
+    "fullDescription": "A collection of game decompilations, recompilations, demos, ports\n\nАвтор: HaozheH3. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/HaozheH3/awesome-rea-games",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "awesome",
+      "awesome-list",
+      "rea",
+      "reverse-engineer",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1422764927",
+    "createdAt": "2026-10-17T13:27:01.637Z"
+  },
+  {
+    "slug": "animated-step-by-step-hints-for-any-cryptic-crossword-clue-hn",
+    "title": "Animated step-by-step hints for any cryptic crossword clue",
+    "shortDescription": "Cryptic crosswords are fun AND hard, and I&#x27;ve recently been introducing easier ones to my 11y&#x2F;o daughter. It made me realise that…",
+    "fullDescription": "Cryptic crosswords are fun AND hard, and I&#x27;ve recently been introducing easier ones to my 11y&#x2F;o daughter. It made me realise that when you&#x27;re stuck, all you can do is hope you somehow come up with the way to crack it, or look at the answer and have all the satisfaction of figuring it out yourself removed! I also realised that when I was explaining to her how clues worked, I would scribble all manner of letters, arrows doodles to make sense of how the words of the clue could be mangled and eventually produce the answer. So I made a thing that would replicate the pencil and paper solving process, and create stepped visual animations that would enable you to get just enough info to make solving it within your reach, so you could feel like you did enough of the working out to get that &quot;Aha!&quot; feeling, without just getting straight to the answer. You can paste in any cryptic clue with its length, e.g. &quot;Around Los Angeles, coatless dudes make AI model, say (6)&quot;, and the animation shows you how to solve it, one step at a time. It&#x27;s split into 3 or 4 sections, which most cryptic clues fit into: 1. Which end of the clue is the definition 2. What type of clue is it (there are several conventions in the cryptic world, a clue can be 1 of these, or a combination of several) 3. What are the pieces used to build the answer 4. How do the pieces fit together to create the answer You can stop as soon as you have enough info to get you back to solving it yourself. It was easy to get a smart AI to solve the clue - but it was trickier to get it to be reliable and correct. LLMs can be very good at writing a confident, plausible breakdown for a completely wrong answer! So I needed to use a multi-pass approach: 1. A small, fast model checks that the input looks like a cryptic clue. 2. A more capable model solves it and writes a step-by-step breakdown. 3. Another independent model solves it &quot;blind&quot;, without seeing the first attempt or its answer. 4. A &quot;judge&quot; then checks that the two solvers agree on the answer and method, and that the letters in the breakdown actually add up to the answer. If that fails, it tells you it’s unsure instead of bluffing, and if it’s only fairly sure that the answer and &quot;how to&quot; is the correct one, it says so. The breakdown of how the clue is solved is then drawn as an animation, step by step, with letters and meanings scribbled and manipulated the way you&#x27;d do if you solving it yourself on paper. Depending on the complexity, a clue usually takes between about 10 to 30 seconds to be solved. There&#x27;s a cache, so clues that have already been solved once can be returned without going through the AI process again. It can still get things wrong, especially on loose clues or ones with some flexibility in how they can be interpreted, but generally it performs pretty well. Your first clue solve is free, and an account gets you two more. There are paid plans to cover the AI costs involved for multiple solves as there is a cost to it. There&#x27;s also some good resources for learning cryptic crosswords basics - and a library of clues with hints to practice with. You can also write and share your own cryptic clues - along with the hint animation generated for them https:&#x2F;&#x2F;crypticinkling.co.uk&#x2F;create I’d love feedback from any cryptic crossword ninjas or beginners alike. PS here&#x27;s the breakdown for the clue at the top of this post: &quot;Around Los Angeles, coatless dudes make AI model, say (6)&quot; - how many hints do you need to crack it? https:&#x2F;&#x2F;crypticinkling.co.uk&#x2F;clues&#x2F;1hi0s2x\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://crypticinkling.co.uk",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50130491",
+    "createdAt": "2026-10-17T13:27:01.485Z"
+  },
+  {
+    "slug": "gridmark-make-logos-by-tweaking-shapes-on-a-grid-hn",
+    "title": "Gridmark – make logos by tweaking shapes on a grid",
+    "shortDescription": "I built this (with claude) as i needed a logo for a project im working on but really did not want to use AI to make the logo. It all runs i…",
+    "fullDescription": "I built this (with claude) as i needed a logo for a project im working on but really did not want to use AI to make the logo. It all runs in browser and you can make logos and save them and download png and svgs without watermarks or anything. At the end of the day it&#x27;s just an SVG manipulator with some sensible bounds for making some pretty cool looking designs. I did add a paid feature to download the whole brand kit but not really looking to make any money out of it. Would love feedback or any ideas on things to add for different grid types &#x2F; styles.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://gridmark.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50129683",
+    "createdAt": "2026-10-17T13:27:01.486Z"
+  },
+  {
     "slug": "harshpreet-hand-github",
     "title": "harshpreet-hand",
     "shortDescription": "I gave Claude Code 120 pages of my handwritten college notes. It gave me back my handwriting as a real font, in 66 minutes for $13.68.",
