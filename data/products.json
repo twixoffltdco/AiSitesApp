@@ -1,5 +1,97 @@
 [
   {
+    "slug": "harshpreet-hand-github",
+    "title": "harshpreet-hand",
+    "shortDescription": "I gave Claude Code 120 pages of my handwritten college notes. It gave me back my handwriting as a real font, in 66 minutes for $13.68.",
+    "fullDescription": "I gave Claude Code 120 pages of my handwritten college notes. It gave me back my handwriting as a real font, in 66 minutes for $13.68.\n\nАвтор: harshpreet931. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://harshpreet931.github.io/harshpreet-hand/",
+    "category": "writing",
+    "tags": [
+      "ai",
+      "claude",
+      "claude-code",
+      "computer-networks",
+      "computer-vision",
+      "font",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1422962789",
+    "createdAt": "2026-10-17T09:34:49.289Z"
+  },
+  {
+    "slug": "omp-sidelight-github",
+    "title": "omp-sidelight",
+    "shortDescription": "Long answers from your coding agent, made readable. A full-screen reader for omp: ask about any passage on the side, without derailing the…",
+    "fullDescription": "Long answers from your coding agent, made readable. A full-screen reader for omp: ask about any passage on the side, without derailing the conversation.\n\nАвтор: Mannan-Goyal. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://www.npmjs.com/package/omp-sidelight",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "coding-agent",
+      "llm",
+      "markdown",
+      "oh-my-pi",
+      "omp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1422335509",
+    "createdAt": "2026-10-17T09:34:49.289Z"
+  },
+  {
+    "slug": "citeladder-open-source-ai-search-visibility-tracker-hn",
+    "title": "CiteLadder – open-source AI search visibility tracker",
+    "shortDescription": "Проект «CiteLadder – open-source AI search visibility tracker», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «CiteLadder – open-source AI search visibility tracker», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/abhij1306/CiteLadder",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50129168",
+    "createdAt": "2026-10-17T09:34:49.148Z"
+  },
+  {
+    "slug": "sys2txt-transcribe-system-audio-to-text-in-the-cli-with-a-local-llm-hn",
+    "title": "Sys2txt – transcribe system audio to text in the CLI with a local LLM",
+    "shortDescription": "sys2txt is a command line tool that records whatever audio your Linux machine is playing (via PulseAudio&#x2F;PipeWire&#x27;s monitor sourc…",
+    "fullDescription": "sys2txt is a command line tool that records whatever audio your Linux machine is playing (via PulseAudio&#x2F;PipeWire&#x27;s monitor source) and transcribes it live with Whisper, OpenAI&#x27;s AI-based speech-to-text model. I use it to caption meetings, videos, and calls playing on my own machine without routing audio through anything else. It supports faster-whisper, openai-whisper, and whisper.cpp (with Vulkan GPU support for AMD), and can either record-then-transcribe once or stream continuously in segments with live output in txt&#x2F;srt&#x2F;vtt&#x2F;json&#x2F;tsv. I&#x27;d be keen to collaborate with others extend its functionality to other operating systems and hardware. (I have been using and developing this tool since November 2025.)\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://Joe-Heffer.github.io/sys2txt/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50129017",
+    "createdAt": "2026-10-17T09:34:49.148Z"
+  },
+  {
+    "slug": "i-built-a-free-collection-of-browser-based-3d-tools-hn",
+    "title": "I built a free collection of browser-based 3D tools",
+    "shortDescription": "I built 3DValley, a collection of free tools for generating and editing 3D models. You can turn images into 3D models using AI, retexture e…",
+    "fullDescription": "I built 3DValley, a collection of free tools for generating and editing 3D models. You can turn images into 3D models using AI, retexture existing models, remesh geometry, and use other 3D utilities. Some tools run entirely in your browser, while the more computationally expensive AI models run on shared GPUs with free daily credits.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://3dvalley.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50128507",
+    "createdAt": "2026-10-17T09:34:49.148Z"
+  },
+  {
     "slug": "tokenforge-github",
     "title": "TokenForge",
     "shortDescription": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory via SQLite + FTS5, and enf…",
