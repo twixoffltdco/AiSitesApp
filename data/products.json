@@ -1,5 +1,123 @@
 [
   {
+    "slug": "sitelens-github",
+    "title": "sitelens",
+    "shortDescription": "Open-source website and GEO readiness audits with evidence-backed AI insights. Built with Next.js 16 by Infoholder Studio.",
+    "fullDescription": "Open-source website and GEO readiness audits with evidence-backed AI insights. Built with Next.js 16 by Infoholder Studio.\n\nАвтор: TheWallet-AI. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://infoholder.io/app-studio/en/tools/site-check",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "generative-engine-optimization",
+      "geo",
+      "infoholder",
+      "nextjs",
+      "self-hosted",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1422218593",
+    "createdAt": "2026-10-17T19:00:36.800Z"
+  },
+  {
+    "slug": "pay-per-crawl-make-ai-crawlers-pay-per-page-in-usdc-for-10-stacks-hn",
+    "title": "Pay-per-Crawl – make AI crawlers pay per page in USDC, for 10 stacks",
+    "shortDescription": "Проект «Pay-per-Crawl – make AI crawlers pay per page in USDC, for 10 stacks», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Pay-per-Crawl – make AI crawlers pay per page in USDC, for 10 stacks», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://forgemesh.io/blog/pay-per-crawl-every-stack",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50133559",
+    "createdAt": "2026-10-17T19:00:36.826Z"
+  },
+  {
+    "slug": "battle-isle-2-via-spec-hn",
+    "title": "Battle Isle 2 via spec",
+    "shortDescription": "Ongoing reimplementation of Battle Isle 2, done via first defining the spec of the rules and files.",
+    "fullDescription": "Ongoing reimplementation of Battle Isle 2, done via first defining the spec of the rules and files.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aidistillery.dev/notes/bi2/intro/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50133449",
+    "createdAt": "2026-10-17T19:00:36.827Z"
+  },
+  {
+    "slug": "tezgrid-experimenting-with-ai-inference-on-idle-computers-and-macs-hn",
+    "title": "TezGrid – Experimenting with AI inference on idle computers and Macs",
+    "shortDescription": "Проект «TezGrid – Experimenting with AI inference on idle computers and Macs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «TezGrid – Experimenting with AI inference on idle computers and Macs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://tezgrid.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50133290",
+    "createdAt": "2026-10-17T19:00:36.827Z"
+  },
+  {
+    "slug": "bitty-turn-ai-coding-wait-time-into-brain-breaks-hn",
+    "title": "Bitty – Turn AI coding wait time into brain breaks",
+    "shortDescription": "Проект «Bitty – Turn AI coding wait time into brain breaks», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Bitty – Turn AI coding wait time into brain breaks», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://playbitty.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50133119",
+    "createdAt": "2026-10-17T19:00:36.827Z"
+  },
+  {
+    "slug": "would-you-merge-it-24-bugs-ai-assistants-write-as-fix-it-katas-hn",
+    "title": "Would You Merge It? – 24 bugs AI assistants write, as fix-it katas",
+    "shortDescription": "Проект «Would You Merge It? – 24 bugs AI assistants write, as fix-it katas», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Would You Merge It? – 24 bugs AI assistants write, as fix-it katas», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/SohailKhan0525/would-you-merge",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50132908",
+    "createdAt": "2026-10-17T19:00:36.827Z"
+  },
+  {
+    "slug": "aegiskernel-test-prompt-injection-attacks-on-ai-agents-in-the-browser-hn",
+    "title": "AegisKernel – Test prompt injection attacks on AI agents in the browser",
+    "shortDescription": "Проект «AegisKernel – Test prompt injection attacks on AI agents in the browser», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AegisKernel – Test prompt injection attacks on AI agents in the browser», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://adikshatriyag-crypto.github.io/aegis-kernel/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50132623",
+    "createdAt": "2026-10-17T19:00:36.827Z"
+  },
+  {
     "slug": "superbase-github",
     "title": "superbase",
     "shortDescription": "A local MCP server that connects AI assistants to a live Roblox executor session. Read console logs and errors, search and inspect the inst…",
