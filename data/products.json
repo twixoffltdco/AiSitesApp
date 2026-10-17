@@ -1,5 +1,251 @@
 [
   {
+    "slug": "pick-your-ai-research-github",
+    "title": "pick-your-ai-research",
+    "shortDescription": "Research and shared data contracts for Pick Your AI: component catalogs, compatibility rules, pricing, and evidence for AI stacks.",
+    "fullDescription": "Research and shared data contracts for Pick Your AI: component catalogs, compatibility rules, pricing, and evidence for AI stacks.\n\nАвтор: Pick-Your-AI. Найдено в GitHub Trending (AI-тематика). ⭐ 13 звёзд.",
+    "url": "https://github.com/orgs/Pick-Your-AI/projects/1",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-infrastructure",
+      "ai-stack",
+      "compatibility",
+      "json-schema",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1421934086",
+    "createdAt": "2026-10-17T00:43:30.315Z"
+  },
+  {
+    "slug": "voice-ai-assistant-github",
+    "title": "voice-ai-assistant",
+    "shortDescription": "Python voice AI assistant: microphone STT, Google Gemini answers, offline TTS with pyttsx3. Clean env-based setup.",
+    "fullDescription": "Python voice AI assistant: microphone STT, Google Gemini answers, offline TTS with pyttsx3. Clean env-based setup.\n\nАвтор: ahmedbadr-dev. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/ahmedbadr-dev/voice-ai-assistant",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "gemini",
+      "python",
+      "speech-recognition",
+      "tts",
+      "voice-assistant",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1421421443",
+    "createdAt": "2026-10-17T00:43:30.315Z"
+  },
+  {
+    "slug": "github-github",
+    "title": ".github",
+    "shortDescription": "Organization profile, contribution guidance, and shared community health files for Pick Your AI, a PCPartPicker-inspired AI stack builder.",
+    "fullDescription": "Organization profile, contribution guidance, and shared community health files for Pick Your AI, a PCPartPicker-inspired AI stack builder.\n\nАвтор: Pick-Your-AI. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Pick-Your-AI",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-stack",
+      "community",
+      "github-profile",
+      "organization-profile",
+      "pick-your-ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1422014674",
+    "createdAt": "2026-10-17T00:43:30.315Z"
+  },
+  {
+    "slug": "awesome-ai-api-hub-github",
+    "title": "awesome-ai-api-hub",
+    "shortDescription": "🔌 精选 AI API 中转站 / 聚合网关 / 导航比价站合集 —— 一个 Key 打通 GPT、Claude、Gemini、DeepSeek 与国产大模型",
+    "fullDescription": "🔌 精选 AI API 中转站 / 聚合网关 / 导航比价站合集 —— 一个 Key 打通 GPT、Claude、Gemini、DeepSeek 与国产大模型\n\nАвтор: Han-maker-wp. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/Han-maker-wp/awesome-ai-api-hub",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-api",
+      "api",
+      "api-gateway",
+      "awesome-list",
+      "chatgpt",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1421872160",
+    "createdAt": "2026-10-17T00:43:30.315Z"
+  },
+  {
+    "slug": "prism-github",
+    "title": "prism",
+    "shortDescription": "Lanceur pour macOS inspiré de Raycast, fonctionnalités Pro comprises : apps, calculatrice, presse-papiers, snippets, fenêtres, IA (Apple In…",
+    "fullDescription": "Lanceur pour macOS inspiré de Raycast, fonctionnalités Pro comprises : apps, calculatrice, presse-papiers, snippets, fenêtres, IA (Apple Intelligence, Ollama, OpenAI, Anthropic), extensions Raycast, notes, concentration. Natif en Swift, sans compte ni serveur.\n\nАвтор: Guillaume69. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://guillaume69.github.io/prism/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "clipboard-manager",
+      "launcher",
+      "macos",
+      "productivity",
+      "raycast",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1420726418",
+    "createdAt": "2026-10-17T00:43:30.315Z"
+  },
+  {
+    "slug": "nonoisenews-github",
+    "title": "nonoisenews",
+    "shortDescription": "Your daily news, written for you by Claude: only the stories you care about, with sources, in 10 minutes. Runs on your own computer.",
+    "fullDescription": "Your daily news, written for you by Claude: only the stories you care about, with sources, in 10 minutes. Runs on your own computer.\n\nАвтор: facunicedev. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/facunicedev/nonoisenews",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "claude",
+      "claude-code",
+      "daily-briefing",
+      "local-first",
+      "news",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1420072394",
+    "createdAt": "2026-10-17T00:43:30.315Z"
+  },
+  {
+    "slug": "deepseek-api-ai-agent-github",
+    "title": "Deepseek-API-AI-Agent",
+    "shortDescription": "Reverse engineered Deepseek chat into an IDE AI Agent compatible API. Access V4 and R1 models through a simple REST OpenAI-compatible forma…",
+    "fullDescription": "Reverse engineered Deepseek chat into an IDE AI Agent compatible API. Access V4 and R1 models through a simple REST OpenAI-compatible format.\n\nАвтор: mitxyultra-cloud. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/mitxyultra-cloud/Deepseek-API-AI-Agent",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "copilot",
+      "deepseek",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1422175343",
+    "createdAt": "2026-10-17T00:43:30.315Z"
+  },
+  {
+    "slug": "gbloxk-ultimate-ai-github",
+    "title": "GBLOXK-ULTIMATE-AI",
+    "shortDescription": "GBLOXKOS is a 100% local, free AI assistant that unifies:  - 💬 Chat, completion, research, RAG ,Pentesting",
+    "fullDescription": "GBLOXKOS is a 100% local, free AI assistant that unifies:  - 💬 Chat, completion, research, RAG ,Pentesting\n\nАвтор: gbloxkos-sudo. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/gbloxkos-sudo/GBLOXK-ULTIMATE-AI",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "cyber-security",
+      "cybersecurity",
+      "cybersecurity-tools",
+      "penetration-testing",
+      "pentesting",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1422566013",
+    "createdAt": "2026-10-17T00:43:30.315Z"
+  },
+  {
+    "slug": "flow-studio-github",
+    "title": "flow-studio",
+    "shortDescription": "Local macOS studio for Google Flow images and video. Multi-account sessions, references, keyframes, history, exports and MCP.",
+    "fullDescription": "Local macOS studio for Google Flow images and video. Multi-account sessions, references, keyframes, history, exports and MCP.\n\nАвтор: 0xGunDone. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/0xGunDone/flow-studio#readme",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "electron",
+      "google-flow",
+      "image-generation",
+      "macos",
+      "mcp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1420979203",
+    "createdAt": "2026-10-17T00:43:30.315Z"
+  },
+  {
+    "slug": "fakeipedia-wikipedia-for-worlds-that-dont-exist-hn",
+    "title": "Fakeipedia – Wikipedia for worlds that don't exist",
+    "shortDescription": "Hi HN! Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explo…",
+    "fullDescription": "Hi HN! Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red links. I came up with this idea a few months ago after playing around with worldbuilding in Gemini, but I didn&#x27;t want to release it until a powerful enough model could do it justice, and I decided that Argon is creative enough to write articles that are worth reading. I was surprised how well it turned out and how engaging some of the writing actually is. If you want to generate an article there is a nominal charge attached ($0.90), which helps cover AI&#x2F;Stripe costs, and I think I just about break even. You can also steer the generation ala choose-your-own-adventure books when generating a new article. Everything generated is free and public for everyone to see. I hope you like it and I&#x27;m very much open to hearing about new world ideas&#x2F;features that would make this project better.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://fakeipedia.org",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50126334",
+    "createdAt": "2026-10-17T00:43:30.188Z"
+  },
+  {
+    "slug": "ozil-ai-turn-one-photo-into-the-viral-ozil-goal-video-hn",
+    "title": "Ozil AI – Turn one photo into the viral Ozil goal video",
+    "shortDescription": "Проект «Ozil AI – Turn one photo into the viral Ozil goal video», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Ozil AI – Turn one photo into the viral Ozil goal video», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ozilai.net/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50125797",
+    "createdAt": "2026-10-17T00:43:30.188Z"
+  },
+  {
+    "slug": "fly-a-tesla-roadster-over-parked-teslas-before-the-air-runs-out-hn",
+    "title": "Fly a Tesla Roadster over parked Teslas before the air runs out",
+    "shortDescription": "(credits to Fable 5.1)",
+    "fullDescription": "(credits to Fable 5.1)\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://roadster.pavlin.dev",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50125746",
+    "createdAt": "2026-10-17T00:43:30.188Z"
+  },
+  {
     "slug": "muse-jailbreak-let-muse-use-your-own-chrome-hn",
     "title": "Muse Jailbreak – Let Muse use your own Chrome",
     "shortDescription": "Hi HN. I built a small macOS menu bar app that lets the Muse agent use the Chrome browser on your own Mac. I built it because I kept hittin…",
