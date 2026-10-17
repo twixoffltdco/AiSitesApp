@@ -1,5 +1,141 @@
 [
   {
+    "slug": "tokenforge-github",
+    "title": "TokenForge",
+    "shortDescription": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory via SQLite + FTS5, and enf…",
+    "fullDescription": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory via SQLite + FTS5, and enforces routing across 17 platforms through MCP + hooks. Works with Claude Code, Gemini CLI, VS Code Copilot, OpenCode, Codex CLI.\n\nАвтор: speedydivid. Найдено в GitHub Trending (AI-тематика). ⭐ 13 звёзд.",
+    "url": "https://github.com/speedydivid/TokenForge",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "aiagent",
+      "aiagents",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1422830397",
+    "createdAt": "2026-10-17T05:18:17.744Z"
+  },
+  {
+    "slug": "alphacode-free-2api-github",
+    "title": "alphacode-free-2api",
+    "shortDescription": "Turn alphacode built-in free AI lane into an OpenAI-compatible API - plug into 9Router, Cursor, Cline or any LLM client. Zero dependencies.",
+    "fullDescription": "Turn alphacode built-in free AI lane into an OpenAI-compatible API - plug into 9Router, Cursor, Cline or any LLM client. Zero dependencies.\n\nАвтор: 0xgetz. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/0xgetz/alphacode-free-2api",
+    "category": "developer",
+    "tags": [
+      "9router",
+      "ai",
+      "alphacode",
+      "api-gateway",
+      "chat-completions",
+      "free-models",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1422841319",
+    "createdAt": "2026-10-17T05:18:17.744Z"
+  },
+  {
+    "slug": "flipwatch-github",
+    "title": "flipwatch",
+    "shortDescription": "Self-hosted marketplace deal finder: Craigslist, Kijiji, eBay & Facebook Marketplace alerts with AI deal analysis.",
+    "fullDescription": "Self-hosted marketplace deal finder: Craigslist, Kijiji, eBay & Facebook Marketplace alerts with AI deal analysis.\n\nАвтор: Crepe950. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/Crepe950/flipwatch",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "craigslist",
+      "deal-finder",
+      "ebay",
+      "facebook-marketplace",
+      "kijiji",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1420268711",
+    "createdAt": "2026-10-17T05:18:17.744Z"
+  },
+  {
+    "slug": "hookshot-github",
+    "title": "hookshot",
+    "shortDescription": "Free, local AI clipper: paste a YouTube link or stream VOD, get viral-ranked vertical clips with captions for Shorts, TikTok and Reels. No…",
+    "fullDescription": "Free, local AI clipper: paste a YouTube link or stream VOD, get viral-ranked vertical clips with captions for Shorts, TikTok and Reels. No subscription.\n\nАвтор: jaxstudio1. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/jaxstudio1/hookshot",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "clipping",
+      "ollama",
+      "opusclip-alternative",
+      "shorts",
+      "streamer",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1421175466",
+    "createdAt": "2026-10-17T05:18:17.744Z"
+  },
+  {
+    "slug": "ai-agent-follows-instructions-you-never-approved-hn",
+    "title": "AI agent follows instructions you never approved",
+    "shortDescription": "Проект «AI agent follows instructions you never approved», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI agent follows instructions you never approved», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Paraphern/rugsnare/blob/main/docs/blog/2026-10-17-mcp-contract-drift.md",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50127659",
+    "createdAt": "2026-10-17T05:18:17.658Z"
+  },
+  {
+    "slug": "let-ai-order-doordash-for-me-under-my-watch-no-playwright-hn",
+    "title": "Let AI order DoorDash for me – under my watch – no playwright",
+    "shortDescription": "Проект «Let AI order DoorDash for me – under my watch – no playwright», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Let AI order DoorDash for me – under my watch – no playwright», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.wysebee.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50127256",
+    "createdAt": "2026-10-17T05:18:17.658Z"
+  },
+  {
+    "slug": "twain-a-diff-viewer-like-meld-but-for-the-age-of-ai-hn",
+    "title": "Twain, a diff viewer like Meld, but for the age of AI",
+    "shortDescription": "I love Meld, I&#x27;ve been using it for a while now, it&#x27;s amazing how many diff viewers exist these days and how they are all awful c…",
+    "fullDescription": "I love Meld, I&#x27;ve been using it for a while now, it&#x27;s amazing how many diff viewers exist these days and how they are all awful compared to Meld. But Meld was missing some features that I thought were worth having: - all files from a Git diff shown in the same view, sequentially + a file tree on the side. - show either the full files or only the parts that changed. - tree-sitter-based syntax highlighting. - the ability to comment on sets of changes and lines, and AIs can read these comments. - the ability to search through the entire set of modified files. Twain is in Rust and based on GTK4.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/andunieee/twain",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50127157",
+    "createdAt": "2026-10-17T05:18:17.658Z"
+  },
+  {
     "slug": "pick-your-ai-research-github",
     "title": "pick-your-ai-research",
     "shortDescription": "Research and shared data contracts for Pick Your AI: component catalogs, compatibility rules, pricing, and evidence for AI stacks.",
