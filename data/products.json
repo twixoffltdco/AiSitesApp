@@ -1,5 +1,59 @@
 [
   {
+    "slug": "github-star-benchmarks-github",
+    "title": "github-star-benchmarks",
+    "shortDescription": "AI research dataset on GitHub stars: 32.6M starred repositories, star thresholds (100/1k/10k/100k), language and age cohorts, plus star-buy…",
+    "fullDescription": "AI research dataset on GitHub stars: 32.6M starred repositories, star thresholds (100/1k/10k/100k), language and age cohorts, plus star-buying and fake-star research context from ICSE 2026. Open CSVs and reproducible queries for empirical software engineering, scientometrics and LLM evaluation.\n\nАвтор: repoboost-hq. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://buygithub.com/blog/how-many-github-stars-is-good/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-research",
+      "benchmarks",
+      "csv",
+      "dataset",
+      "empirical-software-engineering",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1424056080",
+    "createdAt": "2026-10-18T07:52:27.003Z"
+  },
+  {
+    "slug": "connecting-captions-local-private-ai-interpreter-hn",
+    "title": "Connecting Captions Local Private AI Interpreter",
+    "shortDescription": "Hi HN, I built Connecting Captions, a live captioning and translation overlay for macOS that runs entirely on-device. Nothing goes over the…",
+    "fullDescription": "Hi HN, I built Connecting Captions, a live captioning and translation overlay for macOS that runs entirely on-device. Nothing goes over the network: no API calls, no audio leaving your machine, and it keeps working offline. I wanted live translation I could use in meetings and conversations without worrying about connectivity, latency spikes, or sending sensitive audio to a third party. The technically interesting part is a low-latency, self-correcting pipeline for speech-to-text and translation. It has two modes: Sentence mode: buffers until a sentence boundary, then translates with full context. It’s more accurate, especially between languages with different word order. Streaming mode: translates word by word as speech arrives, trading grammatical accuracy for minimal delay. Current state: Platform: macOS Models: Whisper Latency: ~200 ms Languages: 25 Code: https:&#x2F;&#x2F;github.com&#x2F;chrisswimlee&#x2F;connectingCaptions I’d love feedback, especially on the self-correction approach and which use cases matter most to people.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://local-host.ai/connectingCaptions/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50138839",
+    "createdAt": "2026-10-18T07:52:26.770Z"
+  },
+  {
+    "slug": "sphinx-a-hook-that-quizzes-you-on-your-ais-code-before-shipping-hn",
+    "title": "Sphinx – A hook that quizzes you on your AI's code before shipping",
+    "shortDescription": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it&#x27;ll throw up a questionnaire that…",
+    "fullDescription": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it&#x27;ll throw up a questionnaire that checks if you understand how the code you&#x27;re pushing works.\n\nНайдено в разделе Show HN на Hacker News. 👍 90 баллов.",
+    "url": "https://sphinx-six-theta.vercel.app/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50137950",
+    "createdAt": "2026-10-18T07:52:26.770Z"
+  },
+  {
     "slug": "ocs-deepseekai-github",
     "title": "OCS-DeepseekAI",
     "shortDescription": "本地小服务：给 OCS 题库插件提供 AI 答题接口。联网搜资料 + DeepSeek 两遍独立作答互校，不一致自动终审，结果本地缓存。纯 Python 标准库，零依赖。",
