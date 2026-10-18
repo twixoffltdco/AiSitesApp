@@ -1,5 +1,113 @@
 [
   {
+    "slug": "a2ui-github",
+    "title": "a2ui",
+    "shortDescription": "An Elixir implementation of A2UI protocol",
+    "fullDescription": "An Elixir implementation of A2UI protocol\n\nАвтор: a2ui-elixir. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://a2ui-elixir.github.io/a2ui/",
+    "category": "ai-tool",
+    "tags": [
+      "a2ui",
+      "a2ui-protocol",
+      "a2ui-renderer",
+      "agents",
+      "ai",
+      "elixir",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1423274182",
+    "createdAt": "2026-10-18T16:03:17.641Z"
+  },
+  {
+    "slug": "cdu-ai-github",
+    "title": "CDU-AI",
+    "shortDescription": "CDU AI｜开发中（M0）：面向成都大学全校学生的开放 AI 学习与交流社区，非学校官方平台",
+    "fullDescription": "CDU AI｜开发中（M0）：面向成都大学全校学生的开放 AI 学习与交流社区，非学校官方平台\n\nАвтор: A7m0spHere. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/A7m0spHere/CDU-AI",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "astro",
+      "chengdu-university",
+      "community",
+      "education",
+      "static-site",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1424122434",
+    "createdAt": "2026-10-18T16:03:17.641Z"
+  },
+  {
+    "slug": "ai-zombie-trendgenerating-multi-shot-narrative-videos-from-two-photos-hn",
+    "title": "AI Zombie Trend–Generating multi-shot narrative videos from two photos",
+    "shortDescription": "Проект «AI Zombie Trend–Generating multi-shot narrative videos from two photos», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Zombie Trend–Generating multi-shot narrative videos from two photos», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aizombietrend.online/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50141889",
+    "createdAt": "2026-10-18T16:03:17.448Z"
+  },
+  {
+    "slug": "wisp-a-voice-ai-on-your-shoulder-with-spatial-audio-in-the-browser-hn",
+    "title": "Wisp – a voice AI on your shoulder, with spatial audio in the browser",
+    "shortDescription": "Проект «Wisp – a voice AI on your shoulder, with spatial audio in the browser», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Wisp – a voice AI on your shoulder, with spatial audio in the browser», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://wispplayer.com/?tab=ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50141830",
+    "createdAt": "2026-10-18T16:03:17.448Z"
+  },
+  {
+    "slug": "taskpocket-a-to-do-app-with-an-mcp-server-instead-of-built-in-ai-hn",
+    "title": "TaskPocket, a to-do app with an MCP server instead of built-in AI",
+    "shortDescription": "Проект «TaskPocket, a to-do app with an MCP server instead of built-in AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «TaskPocket, a to-do app with an MCP server instead of built-in AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://taskpocket.io/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50141513",
+    "createdAt": "2026-10-18T16:03:17.448Z"
+  },
+  {
+    "slug": "documemory-persistent-memory-and-context-for-ai-coding-tools-hn",
+    "title": "DocuMemory – Persistent memory and context for AI coding tools",
+    "shortDescription": "Проект «DocuMemory – Persistent memory and context for AI coding tools», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «DocuMemory – Persistent memory and context for AI coding tools», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.documemory.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50141365",
+    "createdAt": "2026-10-18T16:03:17.448Z"
+  },
+  {
     "slug": "hh-sniper-github",
     "title": "hh-sniper",
     "shortDescription": "Снайпер вакансий hh.ru: LLM-скоринг под ваш профиль, автопилот откликов в первые 10 минут после публикации (обгоняем ботов), статические пи…",
