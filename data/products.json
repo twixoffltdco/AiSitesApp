@@ -1,5 +1,145 @@
 [
   {
+    "slug": "hh-sniper-github",
+    "title": "hh-sniper",
+    "shortDescription": "Снайпер вакансий hh.ru: LLM-скоринг под ваш профиль, автопилот откликов в первые 10 минут после публикации (обгоняем ботов), статические пи…",
+    "fullDescription": "Снайпер вакансий hh.ru: LLM-скоринг под ваш профиль, автопилот откликов в первые 10 минут после публикации (обгоняем ботов), статические письма с гвардом от галлюцинаций. Всё локально на вашем ПК, официальный API, Python.\n\nАвтор: Riper21. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/Riper21/hh-sniper",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "auto-apply",
+      "automation",
+      "bot",
+      "cover-letter",
+      "gpt",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1424147822",
+    "createdAt": "2026-10-18T12:26:02.785Z"
+  },
+  {
+    "slug": "highwater-github",
+    "title": "highwater",
+    "shortDescription": "AI provider quota monitoring desktop widget for Linux and Windows. Native Rust + Slint, 60+ providers.",
+    "fullDescription": "AI provider quota monitoring desktop widget for Linux and Windows. Native Rust + Slint, 60+ providers.\n\nАвтор: kakadon000. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://kakadon000.github.io/highwater/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude",
+      "desktop",
+      "gemini",
+      "linux",
+      "monitoring",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1424036118",
+    "createdAt": "2026-10-18T12:26:02.786Z"
+  },
+  {
+    "slug": "callsitter-bot-that-answers-my-calls-and-wastes-scammers-time-hn",
+    "title": "CallSitter – bot that answers my calls and wastes scammers' time",
+    "shortDescription": "Anyone else get a lot of dumb scam calls? These days I mostly get them on my mobile. I used to just ignore them, but then I got fed up and…",
+    "fullDescription": "Anyone else get a lot of dumb scam calls? These days I mostly get them on my mobile. I used to just ignore them, but then I got fed up and built a bot that answers my calls and wastes their time. It runs on OpenAI Live 1. Jev classifies each call as spam, scam or genuine and steers the bot accordingly. Works like a charm. All my calls go to the bot now. I can also steer it from Telegram mid-call. In this one the bot ended up accusing the scammer of being an AI :) https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=SpuTzRg8_fU\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/szerintedmi/callsitter",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50140472",
+    "createdAt": "2026-10-18T12:26:02.660Z"
+  },
+  {
+    "slug": "shipback-sftp-deploys-your-ai-agent-can-undo-hn",
+    "title": "Shipback – SFTP deploys your AI agent can undo",
+    "shortDescription": "Проект «Shipback – SFTP deploys your AI agent can undo», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Shipback – SFTP deploys your AI agent can undo», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/aldohushi1-stack/shipback-sftp",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50140229",
+    "createdAt": "2026-10-18T12:26:02.660Z"
+  },
+  {
+    "slug": "flying-car-ai-make-your-car-or-your-product-fly-from-one-photo-hn",
+    "title": "Flying Car AI – make your car or your product fly from one photo",
+    "shortDescription": "Проект «Flying Car AI – make your car or your product fly from one photo», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Flying Car AI – make your car or your product fly from one photo», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://flyingcar-ai.org",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50140152",
+    "createdAt": "2026-10-18T12:26:02.660Z"
+  },
+  {
+    "slug": "chrome-extension-that-types-one-prompt-into-many-ai-chat-tabs-hn",
+    "title": "Chrome extension that types one prompt into many AI chat tabs",
+    "shortDescription": "Проект «Chrome extension that types one prompt into many AI chat tabs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Chrome extension that types one prompt into many AI chat tabs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://chromewebstore.google.com/detail/use-multiple-chat-ai-at-o/pcpciffaliaooacnhiefjiegigjidehp",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50139795",
+    "createdAt": "2026-10-18T12:26:02.660Z"
+  },
+  {
+    "slug": "aiops-cockpit-an-open-source-ai-sre-with-human-in-the-loop-safety-hn",
+    "title": "AIOps Cockpit – An open-source AI SRE with human-in-the-loop safety",
+    "shortDescription": "Проект «AIOps Cockpit – An open-source AI SRE with human-in-the-loop safety», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AIOps Cockpit – An open-source AI SRE with human-in-the-loop safety», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/matricphase-dot/aiops",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50139640",
+    "createdAt": "2026-10-18T12:26:02.660Z"
+  },
+  {
+    "slug": "risphai-picks-the-ai-model-tools-and-prompt-for-each-request-hn",
+    "title": "Risphai – picks the AI model, tools and prompt for each request",
+    "shortDescription": "I noticed that a lot of non-technical people don’t use AI to its full extent. Like they use the wrong model for the task, the wrong reasoni…",
+    "fullDescription": "I noticed that a lot of non-technical people don’t use AI to its full extent. Like they use the wrong model for the task, the wrong reasoning effort, or vague prompts. That gap between &quot;what the AI can do&quot; and &quot;what people actually get&quot; is what I wanted to fix. So I spent the last two years in my spare time building a consumer AI product that tries to fix this issue. This is how it works: When it receives the request, an LLM decides the task type (chat, reasoning, coding, writing) and the tool calls that are needed (web search, image generation, video generation, audio generation). Then it routes it to a suitable model and applies a prompt based on the task type. If it&#x27;s a media generation task, it rewrites the prompt into a detailed one using prompt formulas (the prompt formulas for specific styles are mentioned in the system prompt). The LLM that is used for answering the request can also use a map, generate a mermaid diagram, generate a quiz or flashcards, generate files, etc. A limitation right now is that routing adds latency, but I&#x27;m currently experimenting with decision-models like Jev, PPLX Decider, etc. and might use decision-models to route to the right LLM and give the tool calls like web search and media generation to the answering LLM. It launched this week, so it&#x27;s still early and I will keep improving it and adding new things. Also sign-up&#x2F;in is required to prevent abuse. I’d really like honest feedback: what’s confusing, what’s missing, etc.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://risphai.com",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50139344",
+    "createdAt": "2026-10-18T12:26:02.660Z"
+  },
+  {
     "slug": "github-star-benchmarks-github",
     "title": "github-star-benchmarks",
     "shortDescription": "AI research dataset on GitHub stars: 32.6M starred repositories, star thresholds (100/1k/10k/100k), language and age cohorts, plus star-buy…",
