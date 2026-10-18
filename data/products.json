@@ -1,5 +1,39 @@
 [
   {
+    "slug": "guya-github",
+    "title": "Guya",
+    "shortDescription": "Voice to text on your desktop, with Guya.",
+    "fullDescription": "Voice to text on your desktop, with Guya.\n\nАвтор: MahdiMirshafiee. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/MahdiMirshafiee/Guya",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "stt",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1423080270",
+    "createdAt": "2026-10-18T21:14:31.454Z"
+  },
+  {
+    "slug": "snitch-see-every-connection-your-computer-makes-hn",
+    "title": "Snitch – see every connection your computer makes",
+    "shortDescription": "Проект «Snitch – see every connection your computer makes», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Snitch – see every connection your computer makes», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/aixisstudio/Snitch",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50144098",
+    "createdAt": "2026-10-18T21:14:31.320Z"
+  },
+  {
     "slug": "firmendaten-parsed-balance-sheets-for-every-austrian-company-hn",
     "title": "Firmendaten: Parsed balance sheets for every Austrian company",
     "shortDescription": "Ever since January 2025 the Austrian Ministry of Justice has made the Firmenbuch public (and free!) as part of the EUs Open Data Directive.…",
