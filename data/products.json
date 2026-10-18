@@ -1,5 +1,65 @@
 [
   {
+    "slug": "ocs-deepseekai-github",
+    "title": "OCS-DeepseekAI",
+    "shortDescription": "本地小服务：给 OCS 题库插件提供 AI 答题接口。联网搜资料 + DeepSeek 两遍独立作答互校，不一致自动终审，结果本地缓存。纯 Python 标准库，零依赖。",
+    "fullDescription": "本地小服务：给 OCS 题库插件提供 AI 答题接口。联网搜资料 + DeepSeek 两遍独立作答互校，不一致自动终审，结果本地缓存。纯 Python 标准库，零依赖。\n\nАвтор: haoyudai410-rgb. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/haoyudai410-rgb/OCS-DeepseekAI",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "deepseek",
+      "http-server",
+      "llm",
+      "python",
+      "question-bank",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1423890136",
+    "createdAt": "2026-10-18T02:57:41.277Z"
+  },
+  {
+    "slug": "lastdrop-github",
+    "title": "lastdrop",
+    "shortDescription": "How much AI is left in the tank, one click away. A Windows 11 tray app for your AI usage limits.",
+    "fullDescription": "How much AI is left in the tank, one click away. A Windows 11 tray app for your AI usage limits.\n\nАвтор: 2Fivers. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/2Fivers/lastdrop",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "llm",
+      "rust",
+      "slint",
+      "tray-app",
+      "usage-tracker",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1423026395",
+    "createdAt": "2026-10-18T02:57:41.277Z"
+  },
+  {
+    "slug": "hardwareos-turn-a-prompt-into-hardware-project-you-can-wire-and-flash-hn",
+    "title": "HardwareOS - Turn a prompt into hardware project you can wire and flash",
+    "shortDescription": "Проект «HardwareOS - Turn a prompt into hardware project you can wire and flash», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «HardwareOS - Turn a prompt into hardware project you can wire and flash», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://hardwareos.ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50136365",
+    "createdAt": "2026-10-18T02:57:41.136Z"
+  },
+  {
     "slug": "primerkit-financial-market-work-at-agent-speed-hn",
     "title": "PrimerKit, financial market work at agent speed",
     "shortDescription": "Проект «PrimerKit, financial market work at agent speed», опубликован сообществом Hacker News.",
