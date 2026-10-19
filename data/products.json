@@ -1,5 +1,87 @@
 [
   {
+    "slug": "agents-village-github",
+    "title": "Agents-village",
+    "shortDescription": "A laboratory for societies of long-lived AI minds. Citizens remember, work together, pay for their own inference, and are measured like an…",
+    "fullDescription": "A laboratory for societies of long-lived AI minds. Citizens remember, work together, pay for their own inference, and are measured like an experiment, not a demo.\n\nАвтор: Al0olo. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Al0olo/Agents-village",
+    "category": "developer",
+    "tags": [
+      "agents",
+      "agents-sdk",
+      "agents-skills",
+      "ai",
+      "multi-agent",
+      "multi-agent-systems",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1424641302",
+    "createdAt": "2026-10-19T01:32:09.250Z"
+  },
+  {
+    "slug": "ghostos-github",
+    "title": "GhostOS",
+    "shortDescription": "👻 Lightweight, cross-platform autonomous desktop AI assistant with zero bloat and desktop integration.",
+    "fullDescription": "👻 Lightweight, cross-platform autonomous desktop AI assistant with zero bloat and desktop integration.\n\nАвтор: GhostOS-ai. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://kib.best",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "assistant",
+      "cross-platform",
+      "desktop-assistant",
+      "ghostos",
+      "local-ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1424353964",
+    "createdAt": "2026-10-19T01:32:09.250Z"
+  },
+  {
+    "slug": "sonify-github",
+    "title": "Sonify",
+    "shortDescription": "Sonify - turn photos, drawings and scroll paintings into reproducible music. Techathon 2026.",
+    "fullDescription": "Sonify - turn photos, drawings and scroll paintings into reproducible music. Techathon 2026.\n\nАвтор: petersuncj-wq. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/petersuncj-wq/Sonify",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "computer-vision",
+      "hackathon",
+      "javascript",
+      "midi",
+      "music",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1424063230",
+    "createdAt": "2026-10-19T01:32:09.250Z"
+  },
+  {
+    "slug": "hybro-an-open-interoperability-engine-for-ai-agents-hn",
+    "title": "Hybro – an open interoperability engine for AI agents",
+    "shortDescription": "I built an open interoperability engine for AI agents. Connect your favorite agents and harnesses. Work together. Appreciate for any feedba…",
+    "fullDescription": "I built an open interoperability engine for AI agents. Connect your favorite agents and harnesses. Work together. Appreciate for any feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/hybroai/hybro",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50146655",
+    "createdAt": "2026-10-19T01:32:08.979Z"
+  },
+  {
     "slug": "guya-github",
     "title": "Guya",
     "shortDescription": "Voice to text on your desktop, with Guya.",
