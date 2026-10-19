@@ -1,5 +1,247 @@
 [
   {
+    "slug": "ai-jailbreaks-github",
+    "title": "ai-jailbreaks",
+    "shortDescription": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight LLMs - system prompts, persona locks, AGENTS.md specs,…",
+    "fullDescription": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight LLMs - system prompts, persona locks, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.\n\nАвтор: AndreSzymanski15. Найдено в GitHub Trending (AI-тематика). ⭐ 193 звёзд.",
+    "url": "https://github.com/AndreSzymanski15/ai-jailbreaks",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-safety",
+      "jailbreak",
+      "jailbreaking",
+      "privacy",
+      "safety",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1425938162",
+    "createdAt": "2026-10-19T20:20:39.568Z"
+  },
+  {
+    "slug": "lemonwrench-github",
+    "title": "lemonwrench",
+    "shortDescription": "A skill for AI coding Agents; Free OEM service manuals -> procedure, torque table, labelled figures. 69 makes, 1960-2025. Agent skill + std…",
+    "fullDescription": "A skill for AI coding Agents; Free OEM service manuals -> procedure, torque table, labelled figures. 69 makes, 1960-2025. Agent skill + stdlib navigator.\n\nАвтор: bpawnzZ. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/bpawnzZ/lemonwrench",
+    "category": "ai-tool",
+    "tags": [
+      "agent-skill",
+      "ai",
+      "automotive",
+      "diy",
+      "lemon-manuals",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1425069371",
+    "createdAt": "2026-10-19T20:20:39.568Z"
+  },
+  {
+    "slug": "preencut-github",
+    "title": "PreenCut",
+    "shortDescription": "AI-powered video retrieval and clipping: transcribe with Whisper, segment with an LLM, query in natural language, export clips and SRT subt…",
+    "fullDescription": "AI-powered video retrieval and clipping: transcribe with Whisper, segment with an LLM, query in natural language, export clips and SRT subtitles.\n\nАвтор: kMegapnbedt. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/kMegapnbedt/PreenCut",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "asr",
+      "clipping",
+      "gradio",
+      "llm",
+      "media-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1426089636",
+    "createdAt": "2026-10-19T20:20:39.568Z"
+  },
+  {
+    "slug": "robotics-startup-with-1012-meals-delivered-in-sf-hn",
+    "title": "Robotics startup with $10–12 meals delivered in SF",
+    "shortDescription": "Daily&#x27;s is a robotics startup aiming to decrease the cost of great food, something we believe will be the most impactful application o…",
+    "fullDescription": "Daily&#x27;s is a robotics startup aiming to decrease the cost of great food, something we believe will be the most impactful application of robotics. We launched our first ghost kitchen, and are selling meals for $10-12 including delivery in SF.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.dailys.menu/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50157175",
+    "createdAt": "2026-10-19T20:20:39.350Z"
+  },
+  {
+    "slug": "maali-privacy-first-personal-finance-app-with-a-local-ai-analyst-hn",
+    "title": "Maali – Privacy-first personal finance app with a local AI analyst",
+    "shortDescription": "I never felt comfortable signing up for cloud budgeting apps and having them store all of my financial data on their servers. I also didn&#…",
+    "fullDescription": "I never felt comfortable signing up for cloud budgeting apps and having them store all of my financial data on their servers. I also didn&#x27;t find locally hosted options that I liked using. That led me to build Maali ( https:&#x2F;&#x2F;maali.app ) over the past year. It is currently a Mac and Windows app that lets you track spending, budgets, recurring bills, income, net worth, and more. It stores all of your data on your computer. You can bring your data in by either manually importing bank statement files (CSV&#x2F;PDF), or by using SimpleFIN, a third-party bridge that you set up once and it keeps your data in sync. Since SimpleFIN introduces a third party that moves your data, I also added a power-user feature where Maali watches a folder (per account) and imports files dropped there, so you can automate downloads however you like and keep everything local. It also has an optional AI analyst (local Gemma 4 E4B model) that provides commentary on your spending and flags anything unusual about your finances. I realize that mobile is a big part of convenience for people. Maali lets you set up a phone web app over your own Tailscale network, paired by QR code. I&#x27;m also close to launching iOS&#x2F;Android mobile apps that keep data in sync between the desktop&#x2F;mobile apps using end-to-end encryption. My goal is to provide a great user experience with maximum convenience without sacrificing privacy. The full app is free to use for 30 days (no card&#x2F;signup needed). After that, if you find it useful and want to continue using it, it&#x27;s $99 one-time. There&#x27;s a live demo on the site ( https:&#x2F;&#x2F;maali.app&#x2F;today ) with synthetic data so you can get a feel for it. Would love to hear any feedback that you have.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://maali.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50156825",
+    "createdAt": "2026-10-19T20:20:39.350Z"
+  },
+  {
+    "slug": "dovepass-can-i-legally-fly-a-drone-along-this-exact-path-in-sf-hn",
+    "title": "Dovepass – can I legally fly a drone along this exact path in SF?",
+    "shortDescription": "Dovepass answers one question for drone operators: given two points, can a drone legally fly between the two points? I build route planning…",
+    "fullDescription": "Dovepass answers one question for drone operators: given two points, can a drone legally fly between the two points? I build route planning for delivery drivers and wanted to check what it would look like if the vehicle flies. Drone navigation is different from land-based vehicle navigation. In addition to road and traffic data, it requires data on buildings, building height, wind speed and direction, and total load, including the payload a drone might carry. It is also governed by a set of rules; depending on the area, federal, state, or county rules may apply. The decision point becomes whether, at each point on the route the drone can fly based upon whether regulations permit, the wind direction favours it and whether it flying over a road or people? Depending on when the drone flies, the same path valid two hours ago may no longer be valid. For example a trip from 24th &amp; Valencia ( Mission) to 19th Ave &amp; Irving (Inner Sunset) and back is 5.1 km each way. A DJI mini 4 Pro would take 19 min on 7 mph winds from the west and use 92% of its usable battery and give a Go signal with warning. But at 11mph wind from the same direction would become No-Go because it would use 111% of its usable battery. Or whenever there is a Giants game at Oracle Park, this route is unusable because it is 2.5miles from the stadium. FAA bars all drones within 3 nautical miles from a stadium from 1 hour before the game to one hour after it ends. I chose San Francisco as the first city to build this because there is enough data about the buildings (92% coverage), wind data is easily available at the drone flying height, and the city has a mix of slopes, water bodies, buildings and airport-related airspace restrictions all in one city. The city also has local rules regarding drone flights in parks - both operated by the city as well as by Golden Gate National recreational areas ( National Park Service). I used kimi to build it and claude acted a sa judge. To understand more about the challenges faced during the build and the tradeoffs made please read - https:&#x2F;&#x2F;dovepass.com&#x2F;how-it-was-built&#x2F; &quot;\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://dovepass.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50156779",
+    "createdAt": "2026-10-19T20:20:39.351Z"
+  },
+  {
+    "slug": "vibetown-public-sandboxes-to-vibecode-with-strangers-hn",
+    "title": "Vibetown – public sandboxes to vibecode with strangers",
+    "shortDescription": "Vibetown is a site where you can create a public sandbox (shoutout fly.io sprites &#x2F; machines) that anyone can contribute to with their…",
+    "fullDescription": "Vibetown is a site where you can create a public sandbox (shoutout fly.io sprites &#x2F; machines) that anyone can contribute to with their AI agents. You can also get matched with a random person in a sandbox to vibe code with them, and if you like what you built then you can open it up and keep it running! Think of it something like twitch meets lovable. There is a chat in each room, along with a localhost preview. People take turns connecting their Claude Code subscriptions and making any changes to the app. Sandboxes automatically go to sleep after a while, but can be woken up. It&#x27;s completely free because right now I&#x27;m only supporting frontend apps. Use it to create art or cool websites without anything fancy. In the future, I will add database, AI (api), and other integrations. The short-term goal is just to see how people collaborate with strangers on public apps. The long-term goal is to make it possible for indie devs to build fully working apps with others that actually generate revenue. Let me know what you think! I have 4 public sandboxes running right now that anyone can hop in and contribute to.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://vibetown.social",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50156477",
+    "createdAt": "2026-10-19T20:20:39.351Z"
+  },
+  {
+    "slug": "a-better-way-to-use-dns-aid-to-publish-your-i-agent-hn",
+    "title": "A better way to use DNS-AID to publish your I agent",
+    "shortDescription": "DNS-AID lets agents discover one another through DNS, using the internet&#x27;s existing decentralized naming infrastructure. In this work,…",
+    "fullDescription": "DNS-AID lets agents discover one another through DNS, using the internet&#x27;s existing decentralized naming infrastructure. In this work, I found a way to publish your agents through DNS-AID effectively.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://me360.hanhanwu.com/projects/agent-discovery-comparison",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50155956",
+    "createdAt": "2026-10-19T20:20:39.351Z"
+  },
+  {
+    "slug": "senseplane-open-source-eyes-and-ears-for-ai-agents-on-your-own-cameras-hn",
+    "title": "Senseplane open-source eyes and ears for AI agents, on your own cameras",
+    "shortDescription": "Проект «Senseplane open-source eyes and ears for AI agents, on your own cameras», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Senseplane open-source eyes and ears for AI agents, on your own cameras», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/senseplane-ai/senseplane",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50155220",
+    "createdAt": "2026-10-19T20:20:39.351Z"
+  },
+  {
+    "slug": "earshot-talk-to-claude-code-with-airpods-nod-to-send-hn",
+    "title": "Earshot – talk to Claude Code with AirPods, nod to send",
+    "shortDescription": "Проект «Earshot – talk to Claude Code with AirPods, nod to send», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Earshot – talk to Claude Code with AirPods, nod to send», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/epavanello/earshot",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50154750",
+    "createdAt": "2026-10-19T20:20:39.351Z"
+  },
+  {
+    "slug": "an-outliner-to-replace-workflowy-and-obsidian-as-a-claude-connector-hn",
+    "title": "An outliner to replace Workflowy and Obsidian – as a Claude connector",
+    "shortDescription": "A free outliner with Workflowy&#x27;s shortcuts and Obsidian&#x27;s markdown, no backend, and a Claude connector built in. Say &quot;add th…",
+    "fullDescription": "A free outliner with Workflowy&#x27;s shortcuts and Obsidian&#x27;s markdown, no backend, and a Claude connector built in. Say &quot;add that to my notes&quot; in any conversation and it lands in your outline; ask what you wrote last month and Claude answers from it. No account to try: bulletlist.org&#x2F;demo\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://claude.ai/directory/bulletlist",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50154682",
+    "createdAt": "2026-10-19T20:20:39.351Z"
+  },
+  {
+    "slug": "celorga-a-portable-re-implementation-of-org-for-you-and-your-agents-hn",
+    "title": "Celorga – A portable re-implementation of Org for you and your agents",
+    "shortDescription": "I&#x27;ve been a heavy user of Emacs Org mode for a decade and a half. As AI has reduced how often I&#x27;m using a text-editor, I was find…",
+    "fullDescription": "I&#x27;ve been a heavy user of Emacs Org mode for a decade and a half. As AI has reduced how often I&#x27;m using a text-editor, I was finding myself tied to spacemacs just for Org, and I was searching for a way to keep those workflows and notes, but be fully decoupled from Emacs. (I blogged about that here: https:&#x2F;&#x2F;avi.press&#x2F;posts&#x2F;2024-01-15-standalone-org.html , the original idea for this project). Today I&#x27;m excited to launch Celorga: a portable re-implementation of Org, with no dependency on Emacs or elisp, and adds many primitives so you can use it with all of your agents. Celorga offers a portable CLI that covers most core Org capabilities like agenda management, structured editing, searching, and more. It also well offers a tons of capabilities for working with all of your agents (any agent, any harness), like an MCP server, and the ability to kick off your agents easily from any TODO in your notes. It offers most capabilities of multi-agent harnesses today, but aimed at a more general workload than just coding. I believe at this point, Celorga is most polished Org experience outside of Emacs. It comes with native Mac and iOS apps (Linux &amp; android coming soon). Fully OSS, Apache 2. - GitHub: https:&#x2F;&#x2F;github.com&#x2F;aviaviavi&#x2F;celorga - Homepage: https:&#x2F;&#x2F;celorga.io - Install the CLI from npm: https:&#x2F;&#x2F;www.npmjs.com&#x2F;package&#x2F;celorga Feedback is welcome!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/aviaviavi/celorga",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50154269",
+    "createdAt": "2026-10-19T20:20:39.351Z"
+  },
+  {
+    "slug": "opentokenmini-monitor-and-fix-your-ai-spending-foss-hn",
+    "title": "OpenTokenMini: Monitor and Fix Your AI Spending (FOSS)",
+    "shortDescription": "Проект «OpenTokenMini: Monitor and Fix Your AI Spending (FOSS)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «OpenTokenMini: Monitor and Fix Your AI Spending (FOSS)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://opentokenmini.org/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50153820",
+    "createdAt": "2026-10-19T20:20:39.351Z"
+  },
+  {
+    "slug": "i-built-a-task-system-to-handle-the-drudgery-so-i-could-focus-on-tasks-hn",
+    "title": "I built a task system to handle the drudgery so I could focus on tasks",
+    "shortDescription": "I&#x27;m a software engineer from the east coast (who has lived in Boston, NY, the bay area, UK, France), and I built a task system called…",
+    "fullDescription": "I&#x27;m a software engineer from the east coast (who has lived in Boston, NY, the bay area, UK, France), and I built a task system called 3 &amp; Done. It&#x27;s the place you trust to store everything you need to do. It accepts voice input for rapid entry, as well as text (it stores the audio locally so you can listen to jog your memory) and emails you every morning with the three most important things for you to do that day, and why, based on what you&#x27;ve said about the task: deadlines, urgency, sitting too long. I&#x27;ve been at software engineering for about 44 years now... Grew up with it, which was unusual when I started, and I was always good about getting into the zone and doing things. The career started small, small company, then back office, the dot com startups, then smaller companies again after the bust, a non-profit, and eventually YouTube (Google at the time, but just barely) and Meta (just Facebook when I was there). When I hit the startups, and later big tech, it was no longer enough to just be an engineer, to have drive, to be good, you had to be organized, you had to follow through, get stuff done, and that&#x27;s where the task systems started. Twenty-five over the years (and yes, I&#x27;ve actually counted), from Moleskine notebooks with Getting Things Done, evernote (remember evernote?), bug trackers, todoist, asana, google keep, among others. When I managed on the Facebook News Feed, I got into gantt charts (for me and my team), spreadsheets, OmniPlan... I remember apologizing to my director for being so disorganized (because I felt I was making a mess of it), and he told me that I was the most organized engineer he knew. That was because I was doing all of the work in the background, the trimming, the sorting, the reviews, but it was just so much work. Which was why I changed from system to system. Each time it built up, and I had to spend more time looking at things I couldn&#x27;t or didn&#x27;t get done, when I was rushed and couldn&#x27;t put time into today&#x27;s review, it would pile up, and then using it was so much work that I would start taking mini-notes, just emailing myself a few things to do the next day. That&#x27;s actually the thesis of the app (but not where it started), that if I could just have a few things to do emailed to me each day, I could get it done. This app actually started when I described my previous startup failures into a Claude web session, and it repeated back to me what I had just said. My previous failures were because I spent too much time building the stuff I needed, and not building what I was supposed to be building. I decided that the app would email me three things to do every day (which matches best practices for attention), but that the day was always yours to decide. We won&#x27;t overload you, but you can add more, if you&#x27;re feeling up to it, or cut back, and we never shame and try our best not to nag (I often only finish two). If we get it wrong, you can tell us, and we&#x27;ll re-rank it once a day, or you can set it manually, and if you do, we never override that choice. The web app is live, and native for both platforms is coming. In the meantime, on Android, you can use gestures to quick launch into the voice input so saving a task is only a gesture away (e.g. double-tap the back of a Pixel, double-press the power button on Motorola). Now let&#x27;s talk about the dirty parts. I used AI to help me build this. Anthropic models mostly, and the brains of the app come from Anthropic models (I like the quality, I like the privacy, absolutely no training on customer data, and the stance of the company). This app is not some one-shot wonder where I asked frontier models to build a task system and then I put it on a server to show you. I have prompts for the various features (e.g. ranking, generating suggestions, task extractions), I have eval sets of task lists (not anyone&#x27;s real tasks, but constructed from patterns in my tasks, or the tasks of testers who allowed me to fix the problems they were having), with the three I expect to come out. I store the eval outputs, and re-test whenever I add a new rule to a prompt, or whenever testing a new model version. The great thing about having this eval set is that it catches when I get it wrong. When I introspect a failed run, sometimes it&#x27;s because I need to tune a prompt, but sometimes it&#x27;s because I missed something in my own ranking. I did the same thing with my infrastructure as well, so this time, instead of setting up servers, and building login systems, and managing databases, I built on Vercel (git push to serving Next.js), Neon (hosted postgres). I started getting emails mailed to me by mid-June, but started getting usable suggestions on June 26, and I&#x27;ve been using it every morning since. I wanted it to be easy to get started, and easy to use, so the input handles mess (you can add multiple tasks in the same run-on sentence, and a friend who helped me test it just pasted his entire obsidian todo list in wholesale to get started). I wanted to make sure that anyone could try it out, so I built a trial feature that uses the real in-app ranking with a list of items you provide. If you want to try the service, there&#x27;s a free 14-day trial (card required), and then it&#x27;s $99&#x2F;year or $9.99&#x2F;month after that (plus sales tax). We warn you seven days before your card is charged and if you cancel, you keep access through the term (either the trial, or our last paid period). Online, through settings -&gt; billing, no email, no call. I really hope you&#x27;ll try it out. If you do, please tell me if we did a good job picking out your day. https:&#x2F;&#x2F;3anddoneapp.com&#x2F;try\n\nНайдено в разделе Show HN на Hacker News. 👍 34 баллов.",
+    "url": "https://3anddoneapp.com/try",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50151980",
+    "createdAt": "2026-10-19T20:20:39.351Z"
+  },
+  {
     "slug": "agentmemory-github",
     "title": "AgentMemory",
     "shortDescription": "Self-hosted memory service for AI agents, written in Rust: layered L0→L3 memory, async LLM distillation, hybrid BM25 + vector recall, and m…",
