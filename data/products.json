@@ -1,5 +1,101 @@
 [
   {
+    "slug": "mediationbench-testing-ai-mediators-in-62-simulated-conflicts-hn",
+    "title": "MediationBench – testing AI mediators in 62 simulated conflicts",
+    "shortDescription": "Проект «MediationBench – testing AI mediators in 62 simulated conflicts», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «MediationBench – testing AI mediators in 62 simulated conflicts», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://mediationbench.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50159226",
+    "createdAt": "2026-10-19T23:50:52.952Z"
+  },
+  {
+    "slug": "accessibility-context-for-ui-with-ai-hn",
+    "title": "Accessibility Context for UI with AI",
+    "shortDescription": "Проект «Accessibility Context for UI with AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Accessibility Context for UI with AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.typeui.sh/ui-foundations/configurator",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50158513",
+    "createdAt": "2026-10-19T23:50:52.953Z"
+  },
+  {
+    "slug": "craig-a-tui-for-running-parallel-coding-agents-hn",
+    "title": "Craig – A TUI for running parallel coding agents",
+    "shortDescription": "Hello HN! My name is Sam and this is Craig. Craig is a local-first TUI for managing AI coding agents. It’s agent-agnostic, creates isolated…",
+    "fullDescription": "Hello HN! My name is Sam and this is Craig. Craig is a local-first TUI for managing AI coding agents. It’s agent-agnostic, creates isolated worktrees by default, and has a rich CLI for the agent to interact with to manipulate state and perform actions in the TUI. I started building Craig when I got a job offer at a shop that was using Cursor. I was previously using Claude Code with Conductor and really enjoyed this type of experience. However Conductor didn’t support Cursor at the time and I wasn’t a big fan of the Cursor 3 Agents interface. For personal projects I was using mostly Codex with some Claude Code. Switching between tooling was frustrating. Around the same time I also started really enjoying the agent CLIs and how they just “felt good”. Craig kind of builds on that and I think of it as a heads-up display and controls around the CLI. With the TUI being keyboard-driven you can get into a nice multi-task flow and move around pretty quickly. The UX is made to be low friction and high signal-to-noise. To get started you can run `npm install -g craig-cli`, launch your favorite terminal (I like Ghostty), pop it in fullscreen and run the `craig` command. Once you launch it you can create a workspace, this can be a single repo directory or multiple. Then create a new task under the workspace to launch Cursor, Codex, or Claude. Do your thang, and use your agent to create a PR. You’ll see Craig automatically sync that PR, poll for checks and let you know when the PR is ready to merge. Merge it and keep moving in the same thread or start a new one. I’d love for you to give it a try and let me know what you think - any feedback is greatly appreciated.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://craig-cli.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50157942",
+    "createdAt": "2026-10-19T23:50:52.953Z"
+  },
+  {
+    "slug": "one-click-ai-pr-review-buttons-no-api-keys-no-ci-hn",
+    "title": "One-click AI PR review buttons (no API keys, no CI)",
+    "shortDescription": "Проект «One-click AI PR review buttons (no API keys, no CI)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «One-click AI PR review buttons (no API keys, no CI)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.skills.sh/tdk-landscape/tdk-skills/tdk-pr-review-buttons",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50157926",
+    "createdAt": "2026-10-19T23:50:52.953Z"
+  },
+  {
+    "slug": "flyingcarpet-a-physics-simulation-of-teslas-flying-roadster-stunt-hn",
+    "title": "Flyingcar.pet – a physics simulation of Tesla's flying Roadster stunt",
+    "shortDescription": "Hi HN. I kept watching the Tesla Roadster&#x27;s flying video and wondered how much force would be required to pull off a stunt like that s…",
+    "fullDescription": "Hi HN. I kept watching the Tesla Roadster&#x27;s flying video and wondered how much force would be required to pull off a stunt like that since it seemed unreal to me, so I asked Claude Opus 5.5 to create a simulation for me. I gave Opus one task: look at the video and create a simulation like that using three.js, matching the video as closely as possible. I&#x27;d thought that Opus would one- or two-shotted this since in my mind it was just estimating height and distances and working backwards to compute the thrusts. Little did I know this would turn into a multi-day project. Opus&#x27;s first hurdle was recognizing the five parked Tesla vehicles. The video was dark, so it was hard for Opus to see. I helped it identify the models and also gave it the approximate dimensions of all six Tesla vehicles, including the Roadster. 1. The initial version looked close enough to the video, but Opus made the car fly straight, whereas the video shows the Roadster veering to the left and landing to its left, so I asked Opus to watch the video again and correct that. 2. The next version showed the car drifting to the left mid-flight like the video, but the position was off when I compared frame by frame to the video. It turned out that Opus was being lazy and used only a few frames as reference instead of doing it frame by frame. 3. Once Opus matched the car position to the video, frame by frame, I realized that the roll did not match, so I asked Opus to investigate and redo. 4. The next version had the position and roll correct, but I did not see any thrusters firing during flight. It turned out that Opus was creating a smooth trajectory where the thrusters only fired for the launch and the landing, and stayed off mid-flight. This was not what I&#x27;d seen in the video, however. 5. Opus then changed it so that the thrusters would fire during the flight, which would affect the trajectory continuously. However, at this point I realized something odd: it was firing a thruster upward, which is in the opposite direction of the four bottom-mounted thrusters. It was definitely strange since the video did not show any upward-firing thrusters. It turned out that Opus was using 12 thrusters in total because it relied on Elon Musk&#x27;s comment in 2018 that the Roadster would have around 10 thrusters. Using 12 thrusters was what allowed it to create any trajectory it wanted to. I asked it to use only 6 thrusters: four bottom ones for lifting and landing, and two side thrusters mounted near the front wheels since those were the ones I could see firing in the video. 6. Opus gave me another simulation with 6 thrusters firing, but now I could not see the side thrusters firing at all during the flight, which is similar to #4. It turned out that up to this point, Opus had been doing the simulation under the ideal conditions where the trajectory was pre-computed instead of doing a closed-loop control and constantly adjusting the thrust to keep the car on the planned path. Opus then added wind gusts and redid the simulation using a 100 Hz feedback loop. At this point, I have something that is close enough to the video. It is still not perfect since I would love to match the firing sequence, intensity, and cloud shape of the thrusters during the flight, but I think this is a good stopping point for me, and now I have something where I can tweak the params like the car&#x27;s weight, max thruster force, max height, number of rolls, etc. and model any flight path I&#x27;d like. There are a lot of params to configure, and some combinations can result in invalid flight paths, so I added WebMCP so that we can use the Claude plugin for Chrome to drive the simulation and ask the AI any questions. I found that Sonnet 5.5 Medium is good enough for this. Haiku 5.5 Medium is fast but also makes mistakes. Caveats: the mass, drag coefficients, thruster positions and gas performance are estimates, not Tesla data. The closed-loop model also assumes perfect sensors.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://flyingcar.pet",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50157876",
+    "createdAt": "2026-10-19T23:50:52.953Z"
+  },
+  {
+    "slug": "realtime-talking-avatar-running-free-locally-90fps-on-rtx4090-hn",
+    "title": "Realtime talking avatar running free locally (90+FPS on RTX4090)",
+    "shortDescription": "I wanted to give my humble voice AI a face. The only way to do that was to use Tavus or Lemonslice and pay a large amount of money per minu…",
+    "fullDescription": "I wanted to give my humble voice AI a face. The only way to do that was to use Tavus or Lemonslice and pay a large amount of money per minute of usage. I wanted some cheaper option that I can run locally, attach to my existing voice agent and get a talking face, so I built this. Just select an image and you can create a realtime talking avatar with lipsynced video generated on your own GPU. While it is still in very early stage, but the results look very promising.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/openspline/openspline",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50157684",
+    "createdAt": "2026-10-19T23:50:52.953Z"
+  },
+  {
     "slug": "ai-jailbreaks-github",
     "title": "ai-jailbreaks",
     "shortDescription": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight LLMs - system prompts, persona locks, AGENTS.md specs,…",
