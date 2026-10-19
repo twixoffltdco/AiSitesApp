@@ -1,5 +1,167 @@
 [
   {
+    "slug": "lightshottranslate-github",
+    "title": "LightShotTranslate",
+    "shortDescription": "Windows 截图 / OCR / 原位翻译 / 贴图 / AI 悬浮球（.NET 8 WinForms + ONNX Runtime）",
+    "fullDescription": "Windows 截图 / OCR / 原位翻译 / 贴图 / AI 悬浮球（.NET 8 WinForms + ONNX Runtime）\n\nАвтор: alinturatpx-dotcom. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/alinturatpx-dotcom/LightShotTranslate",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "dotnet",
+      "ocr",
+      "onnxruntime",
+      "screenshot",
+      "translation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1424546139",
+    "createdAt": "2026-10-19T07:17:08.959Z"
+  },
+  {
+    "slug": "my-software-factory-github",
+    "title": "my-software-factory",
+    "shortDescription": "The AI Engineer's Creed: a parody of the famous scene from Full Metal Jacket.",
+    "fullDescription": "The AI Engineer's Creed: a parody of the famous scene from Full Metal Jacket.\n\nАвтор: transitive-bullshit. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://transitivebullsh.it/projects/the-ai-engineers-creed-full-metal-jacket-parody",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-engineer",
+      "fmj",
+      "full-metal-jacket",
+      "parody",
+      "video",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1423358752",
+    "createdAt": "2026-10-19T07:17:08.959Z"
+  },
+  {
+    "slug": "hypercontext-mode-github",
+    "title": "hypercontext-mode",
+    "shortDescription": "Unified context OS for AI coding agents: sandboxed tool output + persistent memory + reversible conversation compression. Merges context-mo…",
+    "fullDescription": "Unified context OS for AI coding agents: sandboxed tool output + persistent memory + reversible conversation compression. Merges context-mode and billion-context.\n\nАвтор: cv-superding. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/cv-superding/hypercontext-mode",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude-code",
+      "codex",
+      "coding-agent",
+      "context-compression",
+      "context-window",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1424199718",
+    "createdAt": "2026-10-19T07:17:08.959Z"
+  },
+  {
+    "slug": "strot-compile-an-llms-intent-once-run-decisions-locally-hn",
+    "title": "Strot – Compile an LLM's intent once, run decisions locally",
+    "shortDescription": "Проект «Strot – Compile an LLM's intent once, run decisions locally», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Strot – Compile an LLM's intent once, run decisions locally», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 23 баллов.",
+    "url": "https://github.com/strot-ai/Project-STROT",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50148396",
+    "createdAt": "2026-10-19T07:17:08.721Z"
+  },
+  {
+    "slug": "chitra-studio-your-ai-media-workstation-for-macs-hn",
+    "title": "Chitra Studio – Your AI Media Workstation for Macs",
+    "shortDescription": "Проект «Chitra Studio – Your AI Media Workstation for Macs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Chitra Studio – Your AI Media Workstation for Macs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://chitra.studio/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50148376",
+    "createdAt": "2026-10-19T07:17:08.721Z"
+  },
+  {
+    "slug": "yila-a-codex-for-scientific-research-hn",
+    "title": "Yila – A Codex for Scientific Research",
+    "shortDescription": "Проект «Yila – A Codex for Scientific Research», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Yila – A Codex for Scientific Research», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://yila.ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50148356",
+    "createdAt": "2026-10-19T07:17:08.721Z"
+  },
+  {
+    "slug": "open-artifacts-host-ai-artifacts-on-your-own-cloudflare-account-hn",
+    "title": "Open Artifacts – host AI artifacts on your own Cloudflare account",
+    "shortDescription": "Проект «Open Artifacts – host AI artifacts on your own Cloudflare account», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Open Artifacts – host AI artifacts on your own Cloudflare account», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://open-artifacts.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50148333",
+    "createdAt": "2026-10-19T07:17:08.721Z"
+  },
+  {
+    "slug": "stream-reducer-podcastvideo-ai-summarization-at-scale-hn",
+    "title": "Stream Reducer – Podcast/Video AI Summarization at Scale",
+    "shortDescription": "Hi I have just open sourced a project https:&#x2F;&#x2F;github.com&#x2F;hmumixaM&#x2F;stream-reducer . This project can summarize videos, p…",
+    "fullDescription": "Hi I have just open sourced a project https:&#x2F;&#x2F;github.com&#x2F;hmumixaM&#x2F;stream-reducer . This project can summarize videos, podcasts, and blog posts at scale. I also have a hosted website that&#x27;s completely free. Checkout this website for details https:&#x2F;&#x2F;reducer.xgoose.org View for a crafted collection as well: https:&#x2F;&#x2F;reducer.xgoose.org&#x2F;collections&#x2F;ai4-2026 Any suggestions on improving the usage and avaialbility will be greatly appreciated.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://reducer.xgoose.org/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50147957",
+    "createdAt": "2026-10-19T07:17:08.721Z"
+  },
+  {
+    "slug": "meetcap-free-on-device-meeting-transcription-your-ai-agent-can-run-hn",
+    "title": "MeetCap – Free on-device meeting transcription your AI agent can run",
+    "shortDescription": "MeetCap records your meetings, transcribes them on your computer, and works with your AI agent in both directions. Your agent can run it. I…",
+    "fullDescription": "MeetCap records your meetings, transcribes them on your computer, and works with your AI agent in both directions. Your agent can run it. In Claude Code, Codex or any agent that can load a skill, say &quot;record this meeting&quot; and the menu bar icon turns into a red dot. The agent can also stop the recording, name speakers, get the minutes, and search past meetings. It can run your agent. Pick one you already use and MeetCap calls it in the background to write the live summaries and the minutes, on the subscription you already pay for. It works with 20+ agents, including Claude Code, Codex, Cursor, Copilot CLI and Qwen Code. No agent? Use your own API key, or let MeetCap download a local model. Speech recognition, live captions, speaker diarization and recognizing voices you&#x27;ve named all run on your computer, and recording, captions and diarization keep going offline. With the local model, the summaries and minutes are written on your computer too, so not even the text leaves it. During the call you get a summary every few minutes, with background on terms you might not know. Afterward, each point in the minutes links to the transcript line it came from, and you can play the audio back from there. Transcripts and minutes are Markdown files in a folder you pick. The app and the command line are free, with no account and no time limits. macOS 14.2 or later, Apple silicon or Intel: curl -fsSL https:&#x2F;&#x2F;meetcap.seacen.dev&#x2F;install.sh | bash That installs the app, the meetcap command, and the MeetCap skill for each agent it finds on your computer. Or download it from https:&#x2F;&#x2F;meetcap.seacen.dev&#x2F;download&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://meetcap.seacen.dev/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50140879",
+    "createdAt": "2026-10-19T07:17:08.722Z"
+  },
+  {
     "slug": "agents-village-github",
     "title": "Agents-village",
     "shortDescription": "A laboratory for societies of long-lived AI minds. Citizens remember, work together, pay for their own inference, and are measured like an…",
