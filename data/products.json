@@ -1,5 +1,69 @@
 [
   {
+    "slug": "flyte-devbox-now-runs-gpu-workloads-on-apple-silicon-hn",
+    "title": "Flyte devbox now runs GPU workloads on Apple Silicon",
+    "shortDescription": "Проект «Flyte devbox now runs GPU workloads on Apple Silicon», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Flyte devbox now runs GPU workloads on Apple Silicon», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.union.ai/blog-post/your-code-on-the-apple-silicon-gpu-apple-silicon-flyte-devbox",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50173195",
+    "createdAt": "2026-10-20T22:04:30.027Z"
+  },
+  {
+    "slug": "tenbri-a-log-ai-agents-cant-secretly-rewrite-hn",
+    "title": "Tenbri, a log AI agents can’t secretly rewrite",
+    "shortDescription": "Проект «Tenbri, a log AI agents can’t secretly rewrite», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Tenbri, a log AI agents can’t secretly rewrite», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://tenbri.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50172642",
+    "createdAt": "2026-10-20T22:04:30.027Z"
+  },
+  {
+    "slug": "agent-zero-starter-template-for-ai-native-coding-projects-hn",
+    "title": "Agent-Zero – Starter template for AI-native coding projects",
+    "shortDescription": "Hi All, Agent-Zero is a GitHub template that you can use for new coding projects that use AI-first development workflows. It includes the m…",
+    "fullDescription": "Hi All, Agent-Zero is a GitHub template that you can use for new coding projects that use AI-first development workflows. It includes the minimum necessary to nudge agents to write good code, work well in sandboxes, and get stuff done on GitHub (e.g. commits and PRs). It only includes a basic CLAUDE.md file and a few scripts and GitHub templates so it&#x27;s very easy to customize. I&#x27;ve had good luck using it to produce high-quality coding output but that&#x27;s subjective so your mileage may vary (e.g. https:&#x2F;&#x2F;github.com&#x2F;kstackhq&#x2F;kstack ). If you have any suggestions on how to improve the template let me know! Andres\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/amorey/agent-zero",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50172112",
+    "createdAt": "2026-10-20T22:04:30.027Z"
+  },
+  {
+    "slug": "modula-9-a-wirth-family-language-designed-for-auditing-ai-written-code-hn",
+    "title": "Modula-9, a Wirth-family language designed for auditing AI-written code",
+    "shortDescription": "Проект «Modula-9, a Wirth-family language designed for auditing AI-written code», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Modula-9, a Wirth-family language designed for auditing AI-written code», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.modula9.net",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50171402",
+    "createdAt": "2026-10-20T22:04:30.027Z"
+  },
+  {
     "slug": "meanp-injector-rpocket-team-github",
     "title": "meanp-injector-rpocket-team",
     "shortDescription": "Advanced Lightweight C++26 DLL Injection Framework for Windows Memory Patching 2026",
