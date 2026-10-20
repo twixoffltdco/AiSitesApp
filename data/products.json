@@ -1,5 +1,183 @@
 [
   {
+    "slug": "tokenation-github",
+    "title": "tokenation",
+    "shortDescription": "Daily-updated, official-page-verified free LLM API offers - evergreen free tiers AND limited-time promos with real deadlines. 每日核实仍有效的免费 LL…",
+    "fullDescription": "Daily-updated, official-page-verified free LLM API offers - evergreen free tiers AND limited-time promos with real deadlines. 每日核实仍有效的免费 LLM API 额度与限时羊毛活动，常态/限时双清单。\n\nАвтор: precisionz. Найдено в GitHub Trending (AI-тематика). ⭐ 9 звёзд.",
+    "url": "https://github.com/precisionz/tokenation",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "api",
+      "awesome-list",
+      "bilingual",
+      "chinese",
+      "daily-updated",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1424613684",
+    "createdAt": "2026-10-20T03:19:42.238Z"
+  },
+  {
+    "slug": "wool-gathering-github",
+    "title": "wool-gathering",
+    "shortDescription": "🐑 全网 AI/游戏 免费福利活动自动收集 | 薅羊毛 | 代金券 | 免费额度 | Epic免费游戏 | Steam限免 | 华为云/阿里云/腾讯云/百度云/火山引擎/智谱/Kimi/DeepSeek | 大模型免费试用 | GPU免费算力 | GitHub Actions…",
+    "fullDescription": "🐑 全网 AI/游戏 免费福利活动自动收集 | 薅羊毛 | 代金券 | 免费额度 | Epic免费游戏 | Steam限免 | 华为云/阿里云/腾讯云/百度云/火山引擎/智谱/Kimi/DeepSeek | 大模型免费试用 | GPU免费算力 | GitHub Actions 每日自动更新 | SVG日历嵌入README | OpenAI兼容中转站 | fork即可使用 | 不依赖Pages\n\nАвтор: jiuyuan233. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/jiuyuan233/wool-gathering",
+    "category": "productivity",
+    "tags": [
+      "aggregator",
+      "ai",
+      "automation",
+      "coupons",
+      "daily-update",
+      "deals",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1424606291",
+    "createdAt": "2026-10-20T03:19:42.238Z"
+  },
+  {
+    "slug": "ochrelle-github",
+    "title": "ochrelle",
+    "shortDescription": "Give AI a design sense. 28 open-source Agent Skills for interface art direction: 1 master skill that picks the right visual style, 27 speci…",
+    "fullDescription": "Give AI a design sense. 28 open-source Agent Skills for interface art direction: 1 master skill that picks the right visual style, 27 specialists that execute it with production-quality guidance and WCAG 2.2 AA guardrails. Plain markdown, MIT.\n\nАвтор: izynu. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://izynu.github.io/ochrelle/",
+    "category": "ai-tool",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "design",
+      "design-system",
+      "design-systems",
+      "design-tool",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1425412542",
+    "createdAt": "2026-10-20T03:19:42.238Z"
+  },
+  {
+    "slug": "search-for-ai-agents-and-usefulness-score-hn",
+    "title": "Search for AI-agents and usefulness score",
+    "shortDescription": "We presented this project at innovationintelligencehackathon.com and today we are putting a url out for you to test and give us feedback. a…",
+    "fullDescription": "We presented this project at innovationintelligencehackathon.com and today we are putting a url out for you to test and give us feedback. after talking to teams building agents that research companies to create outreach, we found few things that are very important to them. one of them is recency. When we prompted agents with outdated alert about companies, 4 out of 7 times, they came up with outdated insights, even when they had recent news in context. A bigger model didnt fix it. So we built search for ai-agents with usefulness score on top. So, when you search each page comes with score+price. this solve 3 problems; 1. token, SOTA agents read all pages to make sense of the useful ones 2. cost, when agents pay for pages they read, its is cost-effective to read only useful ones 3. quality, our score consider the task&#x2F;query at hand and score useful pages, increasing quality of answers. we want to find out fast if we are really up to something here. we&#x27;d love to hear from you.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://xtract-production-2efc.up.railway.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50160830",
+    "createdAt": "2026-10-20T03:19:41.996Z"
+  },
+  {
+    "slug": "yana-a-local-first-human-governed-ai-runtime-and-ide-in-rust-hn",
+    "title": "Yana – A local-first, human-governed AI runtime and IDE in Rust",
+    "shortDescription": "Проект «Yana – A local-first, human-governed AI runtime and IDE in Rust», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Yana – A local-first, human-governed AI runtime and IDE in Rust», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/yanacuti1121/yana-ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50160774",
+    "createdAt": "2026-10-20T03:19:41.996Z"
+  },
+  {
+    "slug": "privacy-layer-for-frontier-models-hn",
+    "title": "Privacy Layer for Frontier Models",
+    "shortDescription": "Kinda crazy how many people submit their sensitive information to frontier models. Tax documents, health data, financial transactions etc.…",
+    "fullDescription": "Kinda crazy how many people submit their sensitive information to frontier models. Tax documents, health data, financial transactions etc. Built this as a proof of concept. Venice AI is on a similar wavelength where they limit identity connected to prompts, but not information in the prompts. Sometimes it&#x27;s tough to actually filter all sensitive information and keep the same quality in responses. I can share the github if anyone is interested. Note: Was also experimenting with OpenMed Privacy Filter on my mac, but it is not compatible with a linux server.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://privai-sandy.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50160374",
+    "createdAt": "2026-10-20T03:19:41.996Z"
+  },
+  {
+    "slug": "a-legal-assistant-that-refuses-to-cite-law-it-cant-verify-hn",
+    "title": "A legal assistant that refuses to cite law it can't verify",
+    "shortDescription": "Проект «A legal assistant that refuses to cite law it can't verify», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A legal assistant that refuses to cite law it can't verify», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://ailegal.legal/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50160110",
+    "createdAt": "2026-10-20T03:19:41.996Z"
+  },
+  {
+    "slug": "self-hosted-ai-spend-attribution-hn",
+    "title": "Self-hosted AI spend attribution",
+    "shortDescription": "Проект «Self-hosted AI spend attribution», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Self-hosted AI spend attribution», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://demo.costura.ai/overview",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50160102",
+    "createdAt": "2026-10-20T03:19:41.996Z"
+  },
+  {
+    "slug": "openflow-ai-agent-workflow-builder-hn",
+    "title": "OpenFlow – AI Agent Workflow Builder",
+    "shortDescription": "Проект «OpenFlow – AI Agent Workflow Builder», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «OpenFlow – AI Agent Workflow Builder», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/SeeRay11/OpenFlow",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50159710",
+    "createdAt": "2026-10-20T03:19:41.996Z"
+  },
+  {
+    "slug": "chai-ui-a-design-system-to-generative-ai-apps-hn",
+    "title": "Chai-UI – A design system to generative AI apps",
+    "shortDescription": "Проект «Chai-UI – A design system to generative AI apps», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Chai-UI – A design system to generative AI apps», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://chai-ui.com/",
+    "category": "design",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50159662",
+    "createdAt": "2026-10-20T03:19:41.996Z"
+  },
+  {
     "slug": "mediationbench-testing-ai-mediators-in-62-simulated-conflicts-hn",
     "title": "MediationBench – testing AI mediators in 62 simulated conflicts",
     "shortDescription": "Проект «MediationBench – testing AI mediators in 62 simulated conflicts», опубликован сообществом Hacker News.",
