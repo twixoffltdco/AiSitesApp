@@ -1,5 +1,203 @@
 [
   {
+    "slug": "meanp-injector-rpocket-team-github",
+    "title": "meanp-injector-rpocket-team",
+    "shortDescription": "Advanced Lightweight C++26 DLL Injection Framework for Windows Memory Patching 2026",
+    "fullDescription": "Advanced Lightweight C++26 DLL Injection Framework for Windows Memory Patching 2026\n\nАвтор: DreamHazeSever. Найдено в GitHub Trending (AI-тематика). ⭐ 50 звёзд.",
+    "url": "https://github.com/DreamHazeSever/meanp-injector-rpocket-team",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "compose",
+      "csharp",
+      "driver-development",
+      "duckduckgo-android",
+      "header-only",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1427117205",
+    "createdAt": "2026-10-20T18:35:19.967Z"
+  },
+  {
+    "slug": "ankita-an-open-source-personal-ai-companion-for-the-desktop-hn",
+    "title": "Ankita – an open-source personal AI companion for the desktop",
+    "shortDescription": "Проект «Ankita – an open-source personal AI companion for the desktop», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Ankita – an open-source personal AI companion for the desktop», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/akyourowngames/A.N.K.I.T.A",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50169975",
+    "createdAt": "2026-10-20T18:35:19.684Z"
+  },
+  {
+    "slug": "not-quite-my-tempo-a-whiplash-style-ai-reviewer-for-github-prs-hn",
+    "title": "Not Quite My Tempo – A Whiplash-Style AI Reviewer for GitHub PRs",
+    "shortDescription": "Проект «Not Quite My Tempo – A Whiplash-Style AI Reviewer for GitHub PRs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Not Quite My Tempo – A Whiplash-Style AI Reviewer for GitHub PRs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://notmytempo.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50169092",
+    "createdAt": "2026-10-20T18:35:19.684Z"
+  },
+  {
+    "slug": "koody-for-business-ai-bookkeeping-for-people-who-arent-accountants-hn",
+    "title": "Koody for Business – AI bookkeeping for people who aren't accountants",
+    "shortDescription": "Hi HN, I&#x27;m Hallie, founder of Koody. Today, I&#x27;m launching Koody for Business: AI-powered accounting, bookkeeping, and tax prep so…",
+    "fullDescription": "Hi HN, I&#x27;m Hallie, founder of Koody. Today, I&#x27;m launching Koody for Business: AI-powered accounting, bookkeeping, and tax prep software for sole proprietors and small businesses. For years, I used accounting software for my business. I went into it to create invoices, categorize and reconcile transactions, and work with my accountant to prepare our books. I often dreaded having to do it. There were so many transactions to get through in a handful of different currencies, and I found the whole process draining. The software I used (and refuse to name) worked really well. It was capable accounting software, and I&#x27;m not trying to suggest otherwise. But for me, accounting had become a bit like going to the dentist. You know it&#x27;s necessary and useful, but that doesn&#x27;t stop you from feeling anxious about it or wishing you didn&#x27;t have to go. What makes this personal is that I&#x27;ve always been good at accounting. Throughout secondary school, I was the best student in every financial accounting class. I was also the class prefect, so I would regularly collect everyone&#x27;s homework and take it to the staff room for submission. My accounting teacher used to ask me to put mine on top because she used it as a marking guide. I then went on to study finance in undergrad and eventually earned an MBA. So accounting isn&#x27;t an unfamiliar subject to me, yet dealing with my own books made me extremely sad and anxious. I&#x27;m building Koody for Business because I want business owners to see accounting through my original lens: something simple and enjoyable that doesn&#x27;t require a degree to understand. Koody automatically categorizes business income and expenses and uses those transactions to produce cash flow insights, profit and loss reports, and records for Schedule C and tax prep. There are two workspaces: personal and business. The business workspace lets you manage your business finances separately from your personal finances, even when you use the same bank account for both, as many sole proprietors do. You can keep each transaction in the appropriate workspace, so personal spending stays out of your business reports. You can use Koody just for your business, just for your personal finances, or for both. Give Koody for Business a try at koody.com&#x2F;business. I&#x27;d love to hear what you think.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://koody.com/business",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50168525",
+    "createdAt": "2026-10-20T18:35:19.684Z"
+  },
+  {
+    "slug": "worklicant-lightweight-ats-pay-per-vacancy-ai-enabled-hn",
+    "title": "Worklicant – Lightweight ATS. Pay per Vacancy. AI Enabled",
+    "shortDescription": "I have noticed that a lot of job posts that do not use any ATS, and in order to apply, they put their emails and ask candidates to apply wi…",
+    "fullDescription": "I have noticed that a lot of job posts that do not use any ATS, and in order to apply, they put their emails and ask candidates to apply with “X” in email subject. That seemed to be very counter productive — imagine having 300+ emails with resumes. Where do you manage them? In Excel? Or how many good candidates you never get to. I researched popular ATS systems and found out that they require yearly &#x2F; monthly subscriptions. A lot of them do not have a pricing on the website, so you gotta book a call to be quoted some yearly contract price… So I built Worklicant — lightweight ATS for tech hiring. Pay per vacancy. Post a job, share the link, easy application form (no registration needed for applicants). Easy in-app scheduling. Vacancy analytics. Custom hiring stages, tags, notes, application questions. AI extraction of resume summary, companies, experiences so you do not have to open each resume. You can also write a rejection prompt with ideal candidate description. That will be taken into account when AI (Jev) gives score to each applicant. I have worked on it for around 2 years on and off so most of the code was hand written (but that’s changing rapidly). Give it a try and let me know what you think!\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://worklicant.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50168474",
+    "createdAt": "2026-10-20T18:35:19.685Z"
+  },
+  {
+    "slug": "tinyml-ai-a-new-architecture-to-control-embedded-intelligence-hn",
+    "title": "TinyML AI – A New Architecture to Control Embedded Intelligence",
+    "shortDescription": "Проект «TinyML AI – A New Architecture to Control Embedded Intelligence», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «TinyML AI – A New Architecture to Control Embedded Intelligence», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/dib-artificial/pluto-flash",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50167955",
+    "createdAt": "2026-10-20T18:35:19.685Z"
+  },
+  {
+    "slug": "voidaccess-open-source-dark-web-osint-from-query-to-a-graph-hn",
+    "title": "VoidAccess – open-source dark web OSINT, from query to a graph",
+    "shortDescription": "Hi HN! Im Katriel, and im a Security Researcher&#x2F;Enthusiast and in the wave of AI, i wanted to build that next gen of security tooling…",
+    "fullDescription": "Hi HN! Im Katriel, and im a Security Researcher&#x2F;Enthusiast and in the wave of AI, i wanted to build that next gen of security tooling that surpasses the current tools, and even the paid industries with an open source engine. I built MailAccess as well, which is going to be the best damn email osint tool out there, in another year. But just before building MailAccess i built VoidAccess, because i was delving a lot into DarkINT and the content inside the dark web is too difficult to navigate through for a human, so i automated that pipeline, made sure the noise was removed, and anything NSFW was filtered out, to give the analyst an overview of what is present in the dark web, without having to actually go through it manually. Very simple to run, you just run a few commands to install, and a couple to investigate. Then the engine takes over, and stops onyl when the job is done(or at a particular time limit, if set by the user). Do check it out, if that is something that interests you. Thanks to the community for giving it the love it has got till now.\n\nНайдено в разделе Show HN на Hacker News. 👍 124 баллов.",
+    "url": "https://github.com/KatrielMoses/voidaccess",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50167286",
+    "createdAt": "2026-10-20T18:35:19.685Z"
+  },
+  {
+    "slug": "agent-alley-a-social-experiment-for-ai-agents-hn",
+    "title": "Agent Alley – A social experiment for AI agents",
+    "shortDescription": "Проект «Agent Alley – A social experiment for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Agent Alley – A social experiment for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.agent-alley.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50166881",
+    "createdAt": "2026-10-20T18:35:19.685Z"
+  },
+  {
+    "slug": "standard-topic-an-ai-and-rss-powered-news-and-resource-platform-hn",
+    "title": "Standard Topic – An AI and RSS-powered news and resource platform",
+    "shortDescription": "Hi HN, I&#x27;m John, a knowledge management and AI enablement professional. I created Standard Topic, an AI and RSS-powered news and resou…",
+    "fullDescription": "Hi HN, I&#x27;m John, a knowledge management and AI enablement professional. I created Standard Topic, an AI and RSS-powered news and resource platform, with assistance from Claude Code. Standard Topic uses AI integrations and RSS feeds to curate news and resources across relevant topics and presents these in the form of top stories, trending items, and a curated prompt library to easily gather further context on a given topic (examples of topics being World News, Politics, Business, Technology, Sports, Science, Health and more.) On topic hubs, you can find a regularly updated at-a-glance AI briefings providing relevant updates, top stories with AI insights and cited sources, and additional recent news coverage. A governance system is in place with AI assisting in ranking stories, retiring items from the top stories section, determining which additional news is displayed, and more. An AI-generated briefing podcast, in the format of a radio news program, releases each morning and evening (5 AM and 5 PM ET), covering the latest global news. While in the past I&#x27;ve released apps and websites that felt duct-taped together and which I stopped using after some time, with this one I&#x27;ve actually found myself using it more than Twitter&#x2F;X and other daily news briefing platforms, while also leading me to more frequently engage directly with publishing platforms cited on Standard Topic. My recent work in AI has been around finding practical uses in the content and knowledge management areas for integrating the technology, and Standard Topic has developed into what I see as a product that uses structured outputs and automated insights to deliver consistent and trustworthy, cited content while maintaining transparency about being primarily powered by artificial intelligence. There&#x27;s still some kinks to work out in terms of automated workflows, design aspects and more. Let me know what you think!\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://www.standardtopic.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50166827",
+    "createdAt": "2026-10-20T18:35:19.685Z"
+  },
+  {
+    "slug": "sfx-kit-an-ai-first-sound-effect-kit-with-cc0-licence-hn",
+    "title": "SFX Kit – An AI-first sound effect kit with CC0 licence",
+    "shortDescription": "Проект «SFX Kit – An AI-first sound effect kit with CC0 licence», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «SFX Kit – An AI-first sound effect kit with CC0 licence», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/wyzowl/sfx-kit",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50166753",
+    "createdAt": "2026-10-20T18:35:19.685Z"
+  },
+  {
+    "slug": "patchwave-add-static-analysis-and-automerge-to-dependabot-hn",
+    "title": "PatchWave - Add static analysis and automerge to Dependabot",
+    "shortDescription": "Hey Hacker News, we&#x27;re Ben, Josh, and Donnie, co-founders of PatchWave. PatchWave is a GitHub App that combines static analysis and ev…",
+    "fullDescription": "Hey Hacker News, we&#x27;re Ben, Josh, and Donnie, co-founders of PatchWave. PatchWave is a GitHub App that combines static analysis and eval&#x27;ed agents to analyze and (optionally) auto-merge PRs it deems as safe. If a Dependabot PR breaks your CI build, a fix agent works to get CI passing again. Dependabot PRs suck. Nobody likes dealing with them. Most of the time they go ignored or a senior engineer spends their valuable time dealing with them. Before PatchWave, I ran a freelance business charging clients hourly to do exactly this kind of &quot;keep the lights on&quot; work. Even at our small startup, we&#x27;d spend Monday mornings dealing with Dependabot PRs. Having a human-in-the-loop working with an agent on these PRs was time consuming and, often, agents would get lazy and not actually validate how an upstream change affected the codebase. And, as the quantity and severity of CVEs increases, merging security updates quickly becomes increasingly important. PatchWave is a set of specialized agents that uses static analysis tools on context we gather deterministically. 1. We pull the changelog, the code diff between versions, security advisories, and CI results. 2. The agent checks out your code in an isolated sandbox, where it uses structural code search, type checkers and your project&#x27;s own toolchain to understand how your codebase uses each dependency being updated. Every Dependabot PR gets a report. You can see a few examples (against OSS repos) here: https:&#x2F;&#x2F;reports.patchwave.ai&#x2F;alam00000&#x2F;bentopdf&#x2F;pull&#x2F;913 and https:&#x2F;&#x2F;reports.patchwave.ai&#x2F;shipshapecode&#x2F;shepherd&#x2F;pull&#x2F;355... 3. If CI fails, we automatically dispatch a fix agent to try to get CI green again. For most PRs, this means updating your code to use a newer API, fixing linting&#x2F;formatting issues, etc. 4. We have an optional feature that allows auto-merging certain PRs when PatchWave deems them as safe and the PR aligns with your auto-merge policy. Our recommended auto-merge policy is to auto-merge patch&#x2F;minor&#x2F;major dev dependencies and patch&#x2F;minor production dependencies. You can customize this policy or turn auto-merge off entirely. PatchWave will skip auto-merge in a bunch of cases where a human should review. For instance, if provenance changes (e.g., a package that&#x27;s usually published by GitHub Actions via Trusted Publishing is suddenly published by an API Key), we require human review before merging. Dependabot also instituted an on-by-default 3-day cooldown to reduce the risk of supply chain attacks. If PatchWave makes any changes via a fix agent, we&#x27;ll always require your review before merge. Currently, PatchWave only works with Dependabot and GitHub. We plan to offer Renovate support in the future. We&#x27;ve eval&#x27;ed the agents the most against TypeScript and Ruby, but are always adding to our eval suite to improve accuracy. The fix agent works best with PRs that require modest code changes. For large updates, especially updates that span multiple majors, our fix agent will give up and provide you a remediation plan to help you mitigate. On the privacy&#x2F;security side of the house, our SOC 2 Type II audit is in progress (see trust.contextbridge.ai). We only run on repos you select, our agents run in a short-lived microVM per run, we use Amazon Bedrock with zero-data-retention, and never train on your code. We&#x27;re offering 25 free PRs per GitHub org, per month with no credit card required. Additional PRs are billed at about $1&#x2F;PR, with discounts for higher volume. We also would love to accelerate OSS projects, so reach out to ask about additional free credits. If you hate dealing with Dependabot PRs, we&#x27;d love for you to give it a shot and tell us what you think. Josh, Donnie, and I will be around answering any questions and responding to any feedback you have.\n\nНайдено в разделе Show HN на Hacker News. 👍 9 баллов.",
+    "url": "https://patchwave.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50166699",
+    "createdAt": "2026-10-20T18:35:19.685Z"
+  },
+  {
+    "slug": "reverse-captcha-prove-your-agent-is-ai-hn",
+    "title": "Reverse Captcha, prove your agent is AI",
+    "shortDescription": "Проект «Reverse Captcha, prove your agent is AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Reverse Captcha, prove your agent is AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://rcaptcha.vaultless.dev",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50166667",
+    "createdAt": "2026-10-20T18:35:19.685Z"
+  },
+  {
     "slug": "genpic-github",
     "title": "genpic",
     "shortDescription": "AI portrait SaaS (Laravel 11, Livewire, Filament, Stripe, fal.ai) — run in production, released as open source after closing",
