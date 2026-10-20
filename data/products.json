@@ -1,5 +1,85 @@
 [
   {
+    "slug": "aiexporthub-bulk-export-ai-chats-to-notion-markdown-and-pdf-hn",
+    "title": "AIExportHub – bulk export AI chats to Notion, Markdown, and PDF",
+    "shortDescription": "Проект «AIExportHub – bulk export AI chats to Notion, Markdown, and PDF», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AIExportHub – bulk export AI chats to Notion, Markdown, and PDF», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://chatgpt2notion.com/products/aiexporthub-hero/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50163035",
+    "createdAt": "2026-10-20T08:46:54.710Z"
+  },
+  {
+    "slug": "a-practical-framework-for-evaluating-agentic-ai-systems-hn",
+    "title": "A practical framework for evaluating agentic AI systems",
+    "shortDescription": "Проект «A practical framework for evaluating agentic AI systems», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A practical framework for evaluating agentic AI systems», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50162634",
+    "createdAt": "2026-10-20T08:46:54.710Z"
+  },
+  {
+    "slug": "visual-heat-map-of-ai-news-updated-hourly-hn",
+    "title": "Visual heat map of AI news updated hourly",
+    "shortDescription": "Проект «Visual heat map of AI news updated hourly», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Visual heat map of AI news updated hourly», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ai-news.jagular.io",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50161545",
+    "createdAt": "2026-10-20T08:46:54.710Z"
+  },
+  {
+    "slug": "rouler-steer-windows-traffic-per-app-or-ip-across-multiple-interfaces-hn",
+    "title": "Rouler – Steer Windows traffic per app or IP across multiple interfaces",
+    "shortDescription": "Hi HN, Rouler is &quot;rules for your routes&quot;. It allows you to steer network traffic across multiple network interfaces on Windows. F…",
+    "fullDescription": "Hi HN, Rouler is &quot;rules for your routes&quot;. It allows you to steer network traffic across multiple network interfaces on Windows. For example: - Run Tailscale, Mullvad and OpenVPN official clients simultaneously. - Use Rouler to send Slack via the OpenVPN connection, Chrome + an IP range via Tailscale and a torrent client via Mullvad. Rouler is VPN agnostic, so you can &quot;split-tunnel&quot; with anything that sets up a windows network interface. I&#x27;m an independent developer from Australia and have been working on Rouler for a bit over a year. It&#x27;s been a challenging project to say the least, but I&#x27;m really happy with how it&#x27;s turning out. I have spent a great deal of time building and throwing things away, starting over, belting the initial poc into something that I find intuitive... hopefully others do too! I&#x27;ve done all the testing, fixing and improving I can, so now it&#x27;s open for public beta. I&#x27;d love to hear your feedback... and there are some specific points I&#x27;m interested in hearing about listed on the Rouler website. Please reply with any questions you might have. Thanks for reading! Brendan p.s. Rouler is &quot;built in Rust&quot; TM ;-) --- On AI (skip if you&#x27;re sick of hearing about it): Since AI is the hot topic and people are naturally cautious about it, I&#x27;ll add some quick notes about it, specifically about the driver development as that&#x27;s the key thing to get right. The driver is hand written and every detail has been poured over many times over. I spent somewhere around 6-9 months manually building and testing just the driver, staring at Dbgview logs, wireshark logs, windows route tables, restarting VM&#x27;s back to their snapshot and manually copying things across to start again. That&#x27;s not always the most efficient way of doing things, but it&#x27;s the way it had to be done. If I had tried to vibe code it Rouler simply wouldn&#x27;t exist. I did try to lean on AI at times, but it constantly sent me in the wrong direction, told me things weren&#x27;t possible, tried to take shortcuts and implement poor performing trade-offs. It also loved to hallucinate the windows api. Keep in mind this was around the Opus 4.1 - 4.6 days. Outside of the driver, in user mode land, AI has crept more and more into my workflow. I&#x27;ve had a lot of success utilising the latest models in the app in particular, and I purposefully separated the UI and core logic so I&#x27;m able to quickly iterate on the UI. I&#x27;ve also found AI very useful for scripting and refactoring. It has built some great scripts that would&#x27;ve taken me days or weeks to build and fine tune.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://rouler.io/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50161144",
+    "createdAt": "2026-10-20T08:46:54.710Z"
+  },
+  {
+    "slug": "an-open-source-aircraft-hn",
+    "title": "An Open Source Aircraft",
+    "shortDescription": "Good Luck, Have fun, Don&#x27;t die.",
+    "fullDescription": "Good Luck, Have fun, Don&#x27;t die.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://adampaigge.github.io/openplane/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50161104",
+    "createdAt": "2026-10-20T08:46:54.710Z"
+  },
+  {
     "slug": "tokenation-github",
     "title": "tokenation",
     "shortDescription": "Daily-updated, official-page-verified free LLM API offers - evergreen free tiers AND limited-time promos with real deadlines. 每日核实仍有效的免费 LL…",
