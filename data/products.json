@@ -1,5 +1,113 @@
 [
   {
+    "slug": "minitoolai-bulk-9router-github",
+    "title": "minitoolai-bulk-9router",
+    "shortDescription": "Bulk MiniToolAI account creator that harvests session cookies and tokens, then serves 62 free AI models through an OpenAI-compatible adapte…",
+    "fullDescription": "Bulk MiniToolAI account creator that harvests session cookies and tokens, then serves 62 free AI models through an OpenAI-compatible adapter wired into 9Router.\n\nАвтор: 0xgetz. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://9router.com",
+    "category": "developer",
+    "tags": [
+      "9router",
+      "adapter",
+      "ai",
+      "bulk-account",
+      "cli",
+      "cookies",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1427827339",
+    "createdAt": "2026-10-21T05:41:54.310Z"
+  },
+  {
+    "slug": "opencodedesktoppluginmanager-github",
+    "title": "OpencodeDesktopPluginManager",
+    "shortDescription": "OpenCode V2 plugin manager: browse 39 ecosystem plugins, check V1/V2 compatibility and npm status, and toggle installs from a tool, slash c…",
+    "fullDescription": "OpenCode V2 plugin manager: browse 39 ecosystem plugins, check V1/V2 compatibility and npm status, and toggle installs from a tool, slash command, or local dashboard.\n\nАвтор: WindToFly. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/WindToFly/OpencodeDesktopPluginManager",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "dashboard",
+      "ecosystem",
+      "opencode",
+      "opencode-plugin",
+      "plugin-manager",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1425446384",
+    "createdAt": "2026-10-21T05:41:54.310Z"
+  },
+  {
+    "slug": "vortex-code-hn",
+    "title": "Vortex Code",
+    "shortDescription": "Проект «Vortex Code», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Vortex Code», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://spinozalabs.ai/software",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50175849",
+    "createdAt": "2026-10-21T05:41:54.176Z"
+  },
+  {
+    "slug": "litedeck-agentless-server-management-gui-over-plain-ssh-hn",
+    "title": "Litedeck – Agentless server management GUI over plain SSH",
+    "shortDescription": "I made Agentless server management GUI over plain SSH. In Litedeck, we can show and download file, service, docker container, terminal and…",
+    "fullDescription": "I made Agentless server management GUI over plain SSH. In Litedeck, we can show and download file, service, docker container, terminal and security, and resource monitoring. Because, I have some Raspberry pi4, mini pc(N97, N100), jetson nano but cockpit or other app install in the server, but I don&#x27;t want that. My servers haven&#x27;t lot of resource. so I made litedeck. And Claude or Codex install in server is heavy too. AI can connect to ssh but, I want to watch what AI&#x27;s do. So I make to tracking AI and show graph view using my Litedeck mcp.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/cpprhtn/LiteDeck",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50175121",
+    "createdAt": "2026-10-21T05:41:54.176Z"
+  },
+  {
+    "slug": "ida-the-mac-assistant-siri-should-have-been-hn",
+    "title": "Ida, the Mac assistant Siri should have been",
+    "shortDescription": "Hi HN, I&#x27;m Francisco. I&#x27;ve spent the last couple of months building what Siri promised to be 10 years ago. I&#x27;m calling it Id…",
+    "fullDescription": "Hi HN, I&#x27;m Francisco. I&#x27;ve spent the last couple of months building what Siri promised to be 10 years ago. I&#x27;m calling it Ida. Ida is a native macOS voice assistant. Hold a shortcut, say what you want, let go, and Ida does it in the apps it&#x27;s connected to. Before it does anything that matters, it shows you what it&#x27;s about to do and waits for you. It sits quietly at the top of your screen, built into the notch. It&#x27;s free and publicly available for macOS 14+. Voice transcription runs in the cloud, or locally on your Mac if you prefer. Feel free to try it out. Would love your feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.heyida.ai/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50175117",
+    "createdAt": "2026-10-21T05:41:54.176Z"
+  },
+  {
+    "slug": "unterm-a-pure-rust-terminal-for-humans-and-ai-agents-hn",
+    "title": "Unterm – A pure-Rust terminal for humans and AI agents",
+    "shortDescription": "Проект «Unterm – A pure-Rust terminal for humans and AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Unterm – A pure-Rust terminal for humans and AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/zhitongblog/unterm",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50175026",
+    "createdAt": "2026-10-21T05:41:54.176Z"
+  },
+  {
     "slug": "eze-github",
     "title": "eze",
     "shortDescription": "Self-hosted private websites for your team. Upload a folder of HTML and get a link only your coworkers can open, with a database, live upda…",
