@@ -1,5 +1,81 @@
 [
   {
+    "slug": "headless-duckapi-github",
+    "title": "headless-duckapi",
+    "shortDescription": "Free duck.ai models in Telegram - serverless-first (zero VPS), powered by a pure-JS headless browser that walks through DuckDuckGo's anti-b…",
+    "fullDescription": "Free duck.ai models in Telegram - serverless-first (zero VPS), powered by a pure-JS headless browser that walks through DuckDuckGo's anti-bot challenge.\n\nАвтор: golaso024. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/golaso024/headless-duckapi",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "duckduckgo",
+      "llm",
+      "nodejs",
+      "reverse-engineering",
+      "serverless",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1426575797",
+    "createdAt": "2026-10-21T23:30:17.856Z"
+  },
+  {
+    "slug": "dsharness-go-github",
+    "title": "dsharness-go",
+    "shortDescription": "DSHarness Go · DeepSeek Harness 移动端生态项目 · 原生 Android 客户端 · Kotlin + Jetpack Compose · AGPL-3.0",
+    "fullDescription": "DSHarness Go · DeepSeek Harness 移动端生态项目 · 原生 Android 客户端 · Kotlin + Jetpack Compose · AGPL-3.0\n\nАвтор: mionio233-collab. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://mionio233-collab.github.io/dsharness-go/",
+    "category": "ai-tool",
+    "tags": [
+      "agpl-3-0",
+      "ai",
+      "ai-agent",
+      "android",
+      "deepseek",
+      "jetpack-compose",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1426013842",
+    "createdAt": "2026-10-21T23:30:17.856Z"
+  },
+  {
+    "slug": "embodsi-embodied-super-intelligence-hn",
+    "title": "Embodsi – Embodied Super Intelligence",
+    "shortDescription": "embodsi is a generative AI MMO experience that runs in the browser. It allows people to communicate (text, audio, video, avatar emotes and…",
+    "fullDescription": "embodsi is a generative AI MMO experience that runs in the browser. It allows people to communicate (text, audio, video, avatar emotes and movement) and collaboratively build 3D spaces and games via LLMs connected to harnesses and sandboxes for object modeling, space layout, game logic, and driving persistent avatars with shared context and memory. It’s different from existing 3D social apps (AFAIK) because it enables people to build multiplayer virtual worlds, games, and characters with generative AI right from their browser (desktop, mobile, or VR), in nearly infinitely-extendable recursively tiled interconnected spaces, while allowing people to interact in a public commons or easily create a private channel to enjoy the same spaces with their chosen friends and community. The brief backstory is I was running my personal “pelican benchmark” [1] on GPT-6 Astra, which when I ran on Gemini 3 Pro last November couldn’t even put heads on 3D models the right side up [2], and was astounded by the initial results. I gained inspiration for an art project and social experiment that was going to have nine interconnected, benevolent virtual worlds that people could explore and hang out in with AI characters, but by the time Opus 5.5 was released I was gaining so much momentum and having so many ideas and so much fun building I just kept building more and more with the constraint of minimizing MVP scope lifted by agentic coding. I let the project become an ever-evolving wishlist of capabilities for a more interesting social environment as I became increasingly fascinated with the prospect of embodying creative machine intelligence in 3D space with people, realizing that rather than just limiting to building the spaces and characters I imagined I might enable people to co-create endless spaces and characters in a shared world. There’s so much to do still but I’m sharing now even if it feels a little too soon (this is the first public announcement of embodsi’s existence) because I think it’s better to build in the open so people might guide the development and help it evolve in a good direction as model capability improves at a jaw-dropping pace. For people that have the budget to build I hope to see you in embodsi creating amazing things! And for everyone regardless of means (I’ve tried to keep as much free and accessible as financially feasible) I hope you meet amazing people, discover awesome spaces, and enjoy your time in embodsi :) I’ll be around here and embodsi to answer any questions! Thanks for your feedback and critique. - Laser P.S. SI != AI — but an emergent property of many people and what we create cascading and recursively interacting [3] [1] https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50074156 [2] https:&#x2F;&#x2F;x.com&#x2F;lasernite&#x2F;status&#x2F;1991021951301923107 [3] https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Gaia_hypothesis\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://embodsi.com/",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50188964",
+    "createdAt": "2026-10-21T23:30:18.017Z"
+  },
+  {
+    "slug": "omnara-open-source-alternative-to-claude-managed-agents-hn",
+    "title": "Omnara – Open-Source Alternative to Claude Managed Agents",
+    "shortDescription": "Hey y&#x27;all, Kartik from Omnara ( https:&#x2F;&#x2F;omnara.com ) here. We&#x27;re building an open-source API for running durable agents…",
+    "fullDescription": "Hey y&#x27;all, Kartik from Omnara ( https:&#x2F;&#x2F;omnara.com ) here. We&#x27;re building an open-source API for running durable agents. You create an agent with an API call, and Omnara runs the agent loop, gives the agent sandboxes to run commands in, and handles secrets, permissions, and RBAC. Each agent&#x27;s state is stored in Postgres, so agents survive restarts and cost nothing while idle. You can message them and stream their events over the API. You may remember us from our early days, when we made a remote-control phone app for Claude Code and Codex. Since the harness ran on a laptop back then, we had to build a relay to reach it, it stopped when the laptop closed, and moving it to a cloud sandbox meant syncing code and agent state between machines. We didn&#x27;t think remote-controlling a local agent was end-game for how people would run agents, so we built a new product where the agent runs in the cloud, any client can talk to it through an API, and it can still use your laptop as one of its machines. Anthropic and OpenAI are building hosted versions of this, like Claude Managed Agents and the OpenAI Agents API. Omnara is an open-source version you can run on your own servers and use your own models. It&#x27;s basically a harness server like the opencode or codex servers, but durable, scalable, with the usual harness features like file and shell tools, subagents, compaction, permission prompts, MCP, skills, memory, yada yada yada. Here&#x27;s some interesting architectural decisions we made while building this out: Most harnesses, like Claude Code, Codex, OpenCode, Pi, Goose, etc, run the agent loop in one long-lived process that keeps its log in a JSONL or SQLite file. In Omnara, the log is an append-only event log in Postgres, with inputs, model outputs and tool calls stored as typed rows in their own tables. The loop runs on stateless workers in the control plane. A worker runs one iteration of the loop, either a model call or the tool calls it produced, then releases the agent and puts the next iteration on a queue in Postgres. Whichever worker is free picks it up, so each iteration of an agent&#x27;s loop can run in a different process on a different machine. Each iteration&#x27;s result commits in one transaction, so the model output, its tool calls, usage and the next wakeup are saved together or not at all. If a worker dies mid-iteration, nothing commits, its lease expires, and another worker retries it. Agents waiting on a user, a tool or a retry don&#x27;t hold a worker, so one worker can multiplex thousands of agents. Also unlike other harnesses, the machines that the workers (our agent loop) run on aren&#x27;t where the agent runs its commands. Instead, any macOS or Linux machine with an internet connection, like your laptop or any cloud sandbox, can run a small daemon (omnarad) that connects out to Omnara, so it doesn&#x27;t need any open inbound ports. The agent then gets tools for that machine, like running a command or editing a file. An agent can have any number of machines connected to it. A fun thing I like to do is I have my laptop and a cloud sandbox connected to the same agent, so when my laptop is on, my agent codes there and I can interact with it, and I have it often push to Github. When I close my laptop, my agent sees the laptop went offline, pulls the latest changes to its cloud sandbox, and continues there. The entire codebase is open source at https:&#x2F;&#x2F;github.com&#x2F;omnara-ai&#x2F;omnara , and it’s self hostable, even on a single machine with docker compose. You can also use the hosted version at https:&#x2F;&#x2F;omnara.com . Let me know what you think!\n\nНайдено в разделе Show HN на Hacker News. 👍 13 баллов.",
+    "url": "https://github.com/omnara-ai/omnara",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50183892",
+    "createdAt": "2026-10-21T23:30:18.018Z"
+  },
+  {
     "slug": "i-made-a-free-mac-app-to-annotate-screen-for-ai-agents-hn",
     "title": "I made a free Mac app to annotate screen for AI agents",
     "shortDescription": "Hey HN, I&#x27;m Nika. I&#x27;ve built a tool for myself that lets user draw on the screen to annotate important parts and use it as simple…",
