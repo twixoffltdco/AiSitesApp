@@ -1,5 +1,229 @@
 [
   {
+    "slug": "i-made-a-free-mac-app-to-annotate-screen-for-ai-agents-hn",
+    "title": "I made a free Mac app to annotate screen for AI agents",
+    "shortDescription": "Hey HN, I&#x27;m Nika. I&#x27;ve built a tool for myself that lets user draw on the screen to annotate important parts and use it as simple…",
+    "fullDescription": "Hey HN, I&#x27;m Nika. I&#x27;ve built a tool for myself that lets user draw on the screen to annotate important parts and use it as simpler pointers for AI agents screenshot inputs.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.trylasso.online",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50186893",
+    "createdAt": "2026-10-21T20:16:45.002Z"
+  },
+  {
+    "slug": "is-there-a-yc-advantage-for-sales-hn",
+    "title": "Is there a YC advantage for sales?",
+    "shortDescription": "Hi all, I had a hypothesis that YC companies sell to other YC companies. Many times to their own batch, other times to older YC companies.…",
+    "fullDescription": "Hi all, I had a hypothesis that YC companies sell to other YC companies. Many times to their own batch, other times to older YC companies. One of my YC friends told me that when they approached a big, well-known company for a potential pilot, the director of engineering there was a YC alum. He said &quot;yeah, I understand&quot; and gave them a pilot or LOI. My theory is that most of the logos YC startups show on their landing pages will be other YC companies. They&#x27;ll use that momentum at Demo Day to raise their seed round. What this also means is that sometimes, when I read Launch HNs or look at other YC products, I get the perception that they&#x27;re very mature products (kudos to their design), and often that perception comes from the logos. So as someone looking to buy a YC product, I&#x27;m not sure if I&#x27;m being hustled or if they actually have a good customer base. I&#x27;m not judging them. This is genuine curiosity, and also, this is what the YC advantage means. I set out to test my hypothesis by running my agents against YC&#x27;s Summer 2026 batch: visit each landing page, look for customer logos, and check what percent of those are YC companies. What do I get out of this? Probably nothing :p Just curious. Here&#x27;s a quick summary: - My hypothesis that most logos will be other YC companies is wrong. - In certain sub segments like horizontal AI tools, I did see that ~40% logos are YC companies. Check the link for the analysis. Curious what your thoughts are? Any other directions we can push the analysis into? [This post is handwritten by me]\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://elegant-chebakia-7aee64.netlify.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50186301",
+    "createdAt": "2026-10-21T20:16:45.002Z"
+  },
+  {
+    "slug": "ai-agent-security-audit-console-offline-audit-in-15-min-hn",
+    "title": "AI Agent Security Audit Console – offline audit in 15 min",
+    "shortDescription": "Проект «AI Agent Security Audit Console – offline audit in 15 min», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Agent Security Audit Console – offline audit in 15 min», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://theaioperatorstore.gumroad.com/l/uszyx",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50185936",
+    "createdAt": "2026-10-21T20:16:45.002Z"
+  },
+  {
+    "slug": "slidum-play-ai-generated-html-slide-decks-from-a-link-sandboxed-hn",
+    "title": "Slidum – play AI-generated HTML slide decks from a link, sandboxed",
+    "shortDescription": "Проект «Slidum – play AI-generated HTML slide decks from a link, sandboxed», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Slidum – play AI-generated HTML slide decks from a link, sandboxed», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://slidum.com/p/jIKOH_XgqwpjumtD-3dEWRAog_hB5Pq-TBnaIJpK8bQ",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50185516",
+    "createdAt": "2026-10-21T20:16:45.002Z"
+  },
+  {
+    "slug": "aw-1-deterministic-ast-circuit-breaker-and-kernel-jail-for-ai-agents-hn",
+    "title": "Aw-1 – Deterministic AST circuit breaker and kernel jail for AI agents",
+    "shortDescription": "Проект «Aw-1 – Deterministic AST circuit breaker and kernel jail for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Aw-1 – Deterministic AST circuit breaker and kernel jail for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/MvikManners/aw1-circuit-breaker",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50185134",
+    "createdAt": "2026-10-21T20:16:45.002Z"
+  },
+  {
+    "slug": "rmbg-remove-backgrounds-from-images-in-the-browser-no-uploads-hn",
+    "title": "RMBG – remove backgrounds from images in the browser (no uploads)",
+    "shortDescription": "I am a person who does editing and digital designing. I used to use this tool, remove.bg, for getting transparent PNGs from either stock im…",
+    "fullDescription": "I am a person who does editing and digital designing. I used to use this tool, remove.bg, for getting transparent PNGs from either stock images or my own images. It was good, fast, free, and convenient. The only caveats for me were the export resolution limits and a privacy factor, that is, my images got uploaded to their servers. Recently, remove.bg announced that they are shutting down the standalone website and moving to inside Canva only. This really made me sad. I have been using this tool for a long time now. So, I made my own open-source tool, RMBG, which is: 1. Privacy-focused: the images never get uploaded somewhere; they stay and get processed only in your own browser. 2. No watermark or export resolution limits. 3. Fully free and open source with an MIT licence. No sign-in or accounts needed. 4. You can batch process and export as ZIP. 5. You can edit the image after the automated background removal, like erase objects, restore areas, recompute, etc. There are many view modes—mask, split, etc. 6. You can export in PNG, WebP, JPEG, and, in most browsers, AVIF. Other notes: Behind the scenes, it uses the BiRefNet-lite AI model in ONNX through Transformers.js. Inference runs in a worker with WebGPU where available and a single-threaded WASM fallback. The first visit downloads the runtime and about 98 MB of model weights from CDNs (that&#x27;s why the first visit might be slower); later visits usually reuse the browser cache, so it can be fast. There is minimal analytics, using only GoatCounter for small events such as page visits, successful inferences, and quality feedback. No image pixels, filenames, or dimensions are collected. I am looking for contributors and as much help and support as possible, so I would appreciate people trying it out and giving feedback. Any ideas, PRs, and issues will be greatly appreciated. I will be active on HN and will reply to comments here. Hope to see some support here! Links: 1. Website - https:&#x2F;&#x2F;velmet44.github.io&#x2F;rmbg&#x2F; 2. Source code on GitHub - https:&#x2F;&#x2F;github.com&#x2F;Velmet44&#x2F;rmbg 3. GoatCounter public analytics dashboard - https:&#x2F;&#x2F;velmet.goatcounter.com&#x2F; 4. Demo image - https:&#x2F;&#x2F;velmet44.github.io&#x2F;rmbg&#x2F;sample-split.png\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://velmet44.github.io/rmbg/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50185013",
+    "createdAt": "2026-10-21T20:16:45.002Z"
+  },
+  {
+    "slug": "synteq-hackathon-is-giving-out-a-flamethrower-12-a-cow-a-dgx-spark-hn",
+    "title": "Synteq hackathon is giving out a flamethrower, 1/2 a cow, a DGX Spark",
+    "shortDescription": "Hi HN, I&#x27;m Ben from Synteq. We&#x27;re a cloud provider who has - until now - mostly sold GPU clusters, VMs, and block storage. Yester…",
+    "fullDescription": "Hi HN, I&#x27;m Ben from Synteq. We&#x27;re a cloud provider who has - until now - mostly sold GPU clusters, VMs, and block storage. Yesterday we launched Apps and Functions, our first move into PaaS. In the spirit of having fun, we’re running a hackathon. Build anything with a UI on Apps (can use other providers, Synteq vps’, etc in the product) Prizes: - 1st: NVIDIA DGX Spark - 2nd: A flamethrower and half a cow (butchered, packed, delivered) - 3rd: AirPods Max, $250 in Chipotle, and a tin of Zyns We debated whether the prize list should make sense... It doesn’t. Details: Format: virtual, solo or teams up to 5 Every participant gets $20 in free credits. More details are on our event page.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://hack.synteq.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50184697",
+    "createdAt": "2026-10-21T20:16:45.003Z"
+  },
+  {
+    "slug": "decentralised-ai-inference-network-hn",
+    "title": "Decentralised AI Inference Network",
+    "shortDescription": "Проект «Decentralised AI Inference Network», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Decentralised AI Inference Network», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://rootmode.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50184593",
+    "createdAt": "2026-10-21T20:16:45.003Z"
+  },
+  {
+    "slug": "ide-for-a-general-purpose-visual-programming-language-pipe-hn",
+    "title": "IDE for a general-purpose visual programming language \"Pipe\"",
+    "shortDescription": "I&#x27;m happy to announce the release of the web-based Pipe IDE, availablle by clicking button &quot;Try Pipe IDE&quot; on website. Pipe I…",
+    "fullDescription": "I&#x27;m happy to announce the release of the web-based Pipe IDE, availablle by clicking button &quot;Try Pipe IDE&quot; on website. Pipe IDE requires no account - all data is stored locally in your browser&#x27;s database, keeping friction to a minimum. ====== Frequently Asked Questions 1. Why now? The need for visual programming has become especially clear now that we&#x27;re building with AI, which has introduced several serious problems that appear unrelated - yet visual programming addresses all of them at the root: - AI predictability and customization. Instead of relying on one unpredictable, hard-to-customize model - which can only be changed through costly, time-consuming retraining - you can split it into small, specialized, and therefore more predictable agents, then build an explicitly programmed orchestration layer on top to coordinate them. Customization then happens through that orchestration layer, and visual programming is a far more user-friendly way to do it. This shift is already underway - specialized models like TypeSafe&#x27;s Jev are built for exactly this kind of orchestration. - Cybersecurity. AI makes it far easier for anyone to find and exploit vulnerabilities, so threats are growing. Because Pipe is semantically powerful enough to keep the entire program as a live visual graph in production rather than compiling it into a single opaque artifact, every block in an application stays directly accessible. That access solves two long-standing problems at once: slow patching, by swapping, disabling, or rerouting a faulty block in place instead of waiting on a full CI&#x2F;CD deployment; and partially-blind monitoring, by tapping the inputs and outputs of any or all blocks directly, so telemetry no longer depends on log statements that may be missing where you need them.The EU Cyber Resilience Act&#x27;s core demands map directly onto these capabilities - independent confirmation this approach is where regulation is heading. - Code review. AI writes code faster than developers can review it, and leaning on AI to review AI doesn&#x27;t fix the root problem - that AI can hallucinate too, so human eyes are still required. Visual programming gives those eyes a far clearer representation of the logic to review. AI-introduced errors are already piling up in production code - one study found nearly a quarter survive for months as silent technical debt. 2. Why start with a book instead of building the software first? Most new languages start with an implementation. For visual languages, that software-first path is exactly what traps them in a single domain and keeps them from ever becoming general-purpose. I did the opposite and specified the full language first; the software is what I&#x27;m actively building now. It avoids both failure modes. Software-first visual languages get stuck in their first implementation&#x27;s domain, while purely theoretical ones get buried in complexity - too intricate and incomplete to be practical. Pipe takes the middle ground: well-chosen, practical primitives within a complete, coherent architecture. The book&#x27;s subtitle says it best - &quot;A Pragmatic Approach to Visual Programming.&quot; It rests on seven years of R&amp;D but stays in the practical lane, and the result is a consistent, usable, end-to-end visual language. 3. Do we need to rewrite our existing system in Pipe? To some extent, yes - but the transition is far less disruptive than it sounds: - The migration is gradual - you don&#x27;t have to discard all existing code at once. You start by wrapping your entire project in a single top-level block. That&#x27;s the initial step. Then, whenever you&#x27;re ready, you add a workflow inside that top-level block and distribute the code across the visual blocks of the newly created workflow - and you can keep going, level by level. - You choose how far to go. You can stop subdividing blocks at any point, so it&#x27;s entirely your decision which parts of the system become visual and which remain as text. - Pipe makes integration easy. It provides a simple bridge for connecting visual blocks to your existing text code. - AI reduces the overhead of going visual. AI can generate diagram layouts from your existing code, update them as the code changes, suggest how to partition logic across blocks, and flag structural issues as your model grows. 4. We tried visual programming before, and it didn&#x27;t work. Every technology advances in a spiral - it fails several times before its lessons are learned and it finally succeeds. Pipe was built by studying exactly why earlier visual languages fell short. Two lessons in particular shaped it: - A visual language must be both general-purpose and semantically powerful to compete with text. Text-based languages dominate precisely because they have both qualities; any visual language that lacks either will fail. Pipe has both. - The answer isn&#x27;t to swing between extremes. We tried pure visual programming, it didn&#x27;t work, so we went back to text-only - which has its own problems, now made obvious by AI. Good engineering doesn&#x27;t jump between extremes; it finds a synthesis that keeps the strengths of each while minimizing their weaknesses. That&#x27;s Pipe&#x27;s core philosophy: it doesn&#x27;t replace text-based languages - it complements them. In practice, that means the developer decides what goes into visual diagrams and what stays as text.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.pipelang.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50183915",
+    "createdAt": "2026-10-21T20:16:45.003Z"
+  },
+  {
+    "slug": "nift-frictionless-fast-note-taking-app-hn",
+    "title": "NiFT – Frictionless, Fast, Note taking app",
+    "shortDescription": "I have built a note taking, to-do application, what makes this different then others? This app targets to make note taking fun, and efficie…",
+    "fullDescription": "I have built a note taking, to-do application, what makes this different then others? This app targets to make note taking fun, and efficient. - Most important feature it&#x27;s fast. Performance wise, and usage wise. It&#x27;s a combination of convenient, clever (actually obvious) keyboard shortcuts, and focused optimizations to make it extremely simple to take notes fast. - This is completely hand crafted application, Not an AI slop, nor AI assisted. And, a lot of thought has been put to architect the app, and design. - Stores all notes in a simple text file, so personal data is never locked down. If you are a Linux user, you can simply use grep&#x2F;ripgrep to filter&#x2F;search your data. - Every note is one liners, actions are done through keyboard shortcuts - Local only - Organize notes using Projects, Tags - A simple but effecting Task management system - Unlimited undo&#x2F;redo - Search - Filtering by date, date range - Context system to group notes and focused work - Notes are archived, instead of being deleted. But in future there will be way to purge archived notes WIP feature: Reminders - Planned features Back-links, Simple Bookmark manager, Kanban, Timer, Eisenhower matrix, while storing all data in text file. This app is still in development, and many things will be cleaned up gradually. But even in current state it&#x27;s a complete powerful, efficient note taking application. [Check here for more details, and screenshots]( https:&#x2F;&#x2F;mtarin.com&#x2F;projects&#x2F;nift&#x2F; ) [Demo video here]( https:&#x2F;&#x2F;youtu.be&#x2F;r4c6hFey-8M ) [Demo version download]( https:&#x2F;&#x2F;github.com&#x2F;tmahmood&#x2F;fluffy_sparrow&#x2F;releases ) Let me know what do you think! NB: Previously I posted this app as FluffySparrow, NiFT uses same back-end, but the UI is completely rewritten using Tauri, with more features.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://mtarin.com/projects/nift/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50183626",
+    "createdAt": "2026-10-21T20:16:45.003Z"
+  },
+  {
+    "slug": "riff-an-iphone-calendar-you-zoom-instead-of-switching-views-hn",
+    "title": "Riff – An iPhone calendar you zoom instead of switching views",
+    "shortDescription": "Hi, HN. I am Magnus from Sweden with a side project: Riff is an iPhone calendar where you can zoom smoothly from half a year to a single da…",
+    "fullDescription": "Hi, HN. I am Magnus from Sweden with a side project: Riff is an iPhone calendar where you can zoom smoothly from half a year to a single day, and every stop on the way is a working calendar. You create, edit, and reschedule with your other events in view. As with a paper planner, you find a free spot and type only what you need. This is an idea I had for several years, but only now, with AI-assisted development, has it become feasible. Still, it took four months and 1,400 commits trying different concepts and, in the end, fine-tuning the feel and usability. I have since learned that the idea isn&#x27;t quite novel, but I believe the execution is. It works directly on the calendars already on your phone. There is no account, no server, and no analytics. It is free for three weeks with nothing to sign up for, then $39.99 once, or a subscription at $1.99 a month or $19.99 a year. I hope it will get some traction, but even if it doesn&#x27;t, I will continue to maintain it as I wouldn&#x27;t want to be without it. Even if you don&#x27;t install it, the homepage has a screen recording. I would love to hear how the zoom feels and what would make Riff your calendar.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://riffcalendar.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50183591",
+    "createdAt": "2026-10-21T20:16:45.003Z"
+  },
+  {
+    "slug": "nysa-shared-memory-for-teams-that-work-with-ai-agents-hn",
+    "title": "Nysa – Shared memory for teams that work with AI agents",
+    "shortDescription": "Проект «Nysa – Shared memory for teams that work with AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Nysa – Shared memory for teams that work with AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://usenysa.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50183382",
+    "createdAt": "2026-10-21T20:16:45.003Z"
+  },
+  {
+    "slug": "global-compute-you-pick-one-api-hn",
+    "title": "Global Compute, you pick. One API",
+    "shortDescription": "Hi HN, I’m Anil. I wanted to test the waters for a cloud computing site I created. It connects developers with access to the global compute…",
+    "fullDescription": "Hi HN, I’m Anil. I wanted to test the waters for a cloud computing site I created. It connects developers with access to the global compute using a unified API. It’s like a compute Marketplace. You state what you need (region, price point, performance target) and deploy the same way, no matter which provider is underneath. I also benchmark every server and publish the results alongside per-second pricing. Stack: The nodes that get created are basically Cloud Hypervisor VMMs on Ubuntu. I used Linux networking (VXLAN&#x2F;NAT) to do all of the VPC and IP configs. Disclaimer: This is early and the provider pool is small — mainly in Fremont, California (HE.net), and no other formal provider partnerships yet; I buy capacity the same way anyone would. That’s why some systems are reservable rather than instantly deployable. Hoping for some feedback! I am very receptive to evolving this whole idea. ps: There’s also $20 free compute credit for new users, if you want to poke at it.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.nodepick.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50183257",
+    "createdAt": "2026-10-21T20:16:45.003Z"
+  },
+  {
+    "slug": "pawmc-aka-talking-diary-an-llm-chat-with-compartmentalised-memory-hn",
+    "title": "Pawmc a.k.a. talking diary, an LLM chat with compartmentalised memory",
+    "shortDescription": "What pawmc is (from the blog post): It’s an LLM chat app with minimal system prompt and no tools&#x2F;web-search by design. It stores most…",
+    "fullDescription": "What pawmc is (from the blog post): It’s an LLM chat app with minimal system prompt and no tools&#x2F;web-search by design. It stores most important context across your conversations in isolated buckets, called “diaries” and “topics”. This means that when you start a conversation in { diary: personal, topic: books }, the AI receives your first message along with summaries of that diary and that topic. It’s close in concept to Karpathy’s LLM Wiki, but simpler, easier to wrap your head around and maintain — no extra tooling and no different types of documents: it’s just your conversations as the source of truth and the summaries of topics and diaries as the “wiki” Post links a hosted demo with a scripted walkthrough of a typical flow, no LLM. And here is the repo: https:&#x2F;&#x2F;github.com&#x2F;kol3x&#x2F;pawmc\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://pawmc-demo.kolaegipet.workers.dev/?demo=1",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50183227",
+    "createdAt": "2026-10-21T20:16:45.003Z"
+  },
+  {
     "slug": "ai-roadmap-2026-github",
     "title": "ai-roadmap-2026",
     "shortDescription": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources a…",
