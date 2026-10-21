@@ -1,5 +1,323 @@
 [
   {
+    "slug": "ai-roadmap-2026-github",
+    "title": "ai-roadmap-2026",
+    "shortDescription": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources a…",
+    "fullDescription": "AI Roadmap 2026: a beginner's path through Foundations, LLM Engineering, Agents, Evaluation, and Production, with verified free resources and a mini-project per layer\n\nАвтор: h9-tec. Найдено в GitHub Trending (AI-тематика). ⭐ 34 звёзд.",
+    "url": "https://github.com/h9-tec/ai-roadmap-2026",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-engineering",
+      "evaluation",
+      "learning-path",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1428348059",
+    "createdAt": "2026-10-21T16:01:40.613Z"
+  },
+  {
+    "slug": "ai-jailbreaks-github-2",
+    "title": "ai-jailbreaks",
+    "shortDescription": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Mo…",
+    "fullDescription": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight models - system prompts, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.\n\nАвтор: Alejandros17487. Найдено в GitHub Trending (AI-тематика). ⭐ 29 звёзд.",
+    "url": "https://github.com/Alejandros17487/ai-jailbreaks",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-safety",
+      "jailbreak",
+      "jailbreaking",
+      "privacy",
+      "safety",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1428519987",
+    "createdAt": "2026-10-21T16:01:40.613Z"
+  },
+  {
+    "slug": "agentty-github",
+    "title": "agentty",
+    "shortDescription": "Run coding-agent CLIs on your machine and reach them from a browser as a terminal.",
+    "fullDescription": "Run coding-agent CLIs on your machine and reach them from a browser as a terminal.\n\nАвтор: smallnest. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/smallnest/agentty",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "daemon",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1428221857",
+    "createdAt": "2026-10-21T16:01:40.613Z"
+  },
+  {
+    "slug": "ithaca-github",
+    "title": "ithaca",
+    "shortDescription": "Local AI for Windows in one small exe: chat, vision, files, image/video/speech. Own engines, no llama.cpp, no Python.",
+    "fullDescription": "Local AI for Windows in one small exe: chat, vision, files, image/video/speech. Own engines, no llama.cpp, no Python.\n\nАвтор: SwankyMan88. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/SwankyMan88/ithaca",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-chat",
+      "all-in-one-ai",
+      "chatbot",
+      "cpp",
+      "cuda",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1427585278",
+    "createdAt": "2026-10-21T16:01:40.613Z"
+  },
+  {
+    "slug": "bigbotart-github",
+    "title": "bigbot.art",
+    "shortDescription": "本地优先的无限画布 AI 视频/图片 Agent：把一句话编排成可改、可复跑、可交付的成片。macOS / Apple Silicon，h3.c 出视频、MLX 出图，素材与成片全部留在本机。",
+    "fullDescription": "本地优先的无限画布 AI 视频/图片 Agent：把一句话编排成可改、可复跑、可交付的成片。macOS / Apple Silicon，h3.c 出视频、MLX 出图，素材与成片全部留在本机。\n\nАвтор: jiangzhenguo. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://www.bigbot.art",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "apple-silicon",
+      "electron",
+      "ffmpeg",
+      "h3",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1426378601",
+    "createdAt": "2026-10-21T16:01:40.613Z"
+  },
+  {
+    "slug": "datachef-full-stack-data-platform-hn",
+    "title": "Datachef - full-stack data platform",
+    "shortDescription": "Hi HN, I’m Joe. I’m a data engineer, and I built Datachef because I got tired of maintaining the disjointed data stack (Fivetran, Airbyte,…",
+    "fullDescription": "Hi HN, I’m Joe. I’m a data engineer, and I built Datachef because I got tired of maintaining the disjointed data stack (Fivetran, Airbyte, Airflow, Snowflake, Redshift, S3, dbt, Looker, Tableau, a reverse-ETL tool, etc.) and being a middleman for business users that just wanted to self serve. Datachef is one managed platform where you can: - Connect your business systems (Salesforce, Marketo, Hubspot, etc.) and&#x2F;or databases (Postgres, MySQL) in a few clicks. Your data lake is synced in minutes. - Explore your data via natural language or write SQL directly. - Model how data is combined, filtered and aggregated. Create a shared system of intelligence. - Share models across the org so every query, report and slide deck tells the same story. - Integrate data back into Salesforce, Marketo and HubSpot — lead scores, segments and events, in the systems your team already works in. We shipped a Claude connector ( https:&#x2F;&#x2F;www.datachef.com&#x2F;blog&#x2F;datachef-claude-connector ). From Claude you can run complex, multi-step&#x2F;multi-dataset analysis, and create or update your models and sync settings. I’d love feedback, especially from anyone who has run the modern data stack and has opinions on what consolidating it should and shouldn’t give up.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.datachef.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50182888",
+    "createdAt": "2026-10-21T16:01:41.571Z"
+  },
+  {
+    "slug": "an-interactive-model-of-expectations-and-recessions-2026-econ-nobel-hn",
+    "title": "An interactive model of expectations and recessions (2026 econ Nobel)",
+    "shortDescription": "This year’s Nobel Prize in economics is about how expectations affect the economy. News about AI’s impact on work, tariffs, and oil supply…",
+    "fullDescription": "This year’s Nobel Prize in economics is about how expectations affect the economy. News about AI’s impact on work, tariffs, and oil supply shocks makes this work feel especially relevant. I don’t have a background in economics, and it was not obvious to me how expectations connect to policy, so I wanted to build a page that, at least in a small way, made that connection clear and sharpened my thinking on the subject. I directed the work and edited the prose heavily, collaborating with AI on research, code, and drafting. The model is essentially a three-equation linear system; the model runs locally in your browser, and the solver code is on the page. I welcome corrections from people who know this field.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://jeff-kline.github.io/posts/economics-nobel-2026/index.html",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50182533",
+    "createdAt": "2026-10-21T16:01:41.571Z"
+  },
+  {
+    "slug": "track-ai-trends-in-real-time-hn",
+    "title": "Track AI trends in real time",
+    "shortDescription": "Проект «Track AI trends in real time», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Track AI trends in real time», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ai.jagular.io",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50181897",
+    "createdAt": "2026-10-21T16:01:41.571Z"
+  },
+  {
+    "slug": "requ-syntax-text-to-swimlane-diagrams-with-lanes-for-ai-agents-hn",
+    "title": "Requ syntax – text-to-swimlane diagrams, with lanes for AI agents",
+    "shortDescription": "Проект «Requ syntax – text-to-swimlane diagrams, with lanes for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Requ syntax – text-to-swimlane diagrams, with lanes for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://requstory.com/dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50181796",
+    "createdAt": "2026-10-21T16:01:41.571Z"
+  },
+  {
+    "slug": "euspell-spelling-reform-an-enginnering-approach-hn",
+    "title": "Euspell – Spelling reform: an enginnering approach",
+    "shortDescription": "Hi HN. Euspell is a conservastive respelling of English and all the software needed to implement it. The link above converts the text you p…",
+    "fullDescription": "Hi HN. Euspell is a conservastive respelling of English and all the software needed to implement it. The link above converts the text you paste, in your browser. Other ways to try it out are the browser extensions and EPUB&#x2F;PDF readers. Previous spelling reforms have failed for two reasons: they asked people to apply rules by hand or remember a large set of new spellings, and they couldn&#x27;t handle homographs: &quot;read&quot; is reed or red, &quot;records&quot; is a noun or a verb, &quot;wound&quot; is an injury or a past tense - writing in pure phonetics will actually create hundreds of homographs. Euspell approaches spelling reform differently, with the goal of aiding reading and comprehension. - A lexicon with 205505 entries, each with CLAWS7 part-of-speech tags. Of these, 164067 (80%) are left unchanged. No diacritics are used. Proper nouns are untouched. American spelling is the base, in the line of Webster&#x27;s reforms. - 5920 entries are ambiguous and need context. The noun&#x2F;verb -s split (records&#x2F;recordz) is a linear SVM: 93.2% on held-out text. The hand-written rule it replaced scored 75.9%. The full evaluation is at https:&#x2F;&#x2F;github.com&#x2F;ossiak&#x2F;euspell&#x2F;blob&#x2F;main&#x2F;docs&#x2F;paper-evalu... - Semantic splits (e.g. bow, tear, lead) are hand-written rules and less accurate: &quot;read&quot; gets about four in five right on its test set. - Runs locally in a browser extension (Chrome&#x2F;Firefox&#x2F;Safari, including PDFs), MS Word, LibreOffice, Google Docs, and a standalone EPUB&#x2F;PDF reader for Windows, MacOS, Android and iOS. - Code is GPL-3.0, lexicon is CC BY-SA 4.0: https:&#x2F;&#x2F;github.com&#x2F;ossiak&#x2F;euspell . White paper: https:&#x2F;&#x2F;euspell.org&#x2F;paper The changes can be toggled on and off: Euspell changes what you read, not the source text. AI tools (Claude) helped with the software, the site and the videos; the reform and the lexicon are mine. There is also a 14-part video series: https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PLfCd5hTV7IWg Most useful feedback: sentences where it picks the wrong spelling.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://euspell.org/try/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50181222",
+    "createdAt": "2026-10-21T16:01:41.571Z"
+  },
+  {
+    "slug": "marrow-ai-a-no-account-seatbelt-that-stops-force-pushes-to-main-hn",
+    "title": "Marrow AI – a no-account seatbelt that stops force-pushes to main",
+    "shortDescription": "Проект «Marrow AI – a no-account seatbelt that stops force-pushes to main», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Marrow AI – a no-account seatbelt that stops force-pushes to main», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/getmarrow/plugins",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50180639",
+    "createdAt": "2026-10-21T16:01:41.571Z"
+  },
+  {
+    "slug": "tui-to-manage-firewall-and-http-server-in-rust-hn",
+    "title": "TUI to manage firewall and HTTP server, in Rust",
+    "shortDescription": "I have been self-hosting for 10 years, and &quot;family hosting&quot; for 2. The number of attacks my servers get has increased by 3x since…",
+    "fullDescription": "I have been self-hosting for 10 years, and &quot;family hosting&quot; for 2. The number of attacks my servers get has increased by 3x since May of this year. Now personally, I don&#x27;t like hiding behind Cloudflare because I don&#x27;t want them to be a SPOF, but it was becoming a bit too scary to just be open to the web. Because it is a family cloud, it can&#x27;t hide behind a VPN, it has to support devices like TV sticks that can&#x27;t connect properly over VPN. It has to support HTTPS. So I put together a Rust&#x2F;Ratatui TUI+cron&#x2F;CLI that manages my second line of defense: firewall and HTTP server. I run a reverse Nginx proxy in front of apps like Nextcloud, and a nftables firewall with SSH as my admin tunnel. It does several things: 1) It allows me to block entire segments, countries, datacenter IP ranges, TOR exit nodes etc... 2) It allows me to block specific bots: search bots, AI bots, security scanners 3) It does dynamic blocking too, looking at the logs to spot bad behavior and block it. I used to run fail2ban for SSH for example, but a centralized UI for both SSH and HTTP(S) is nicer IMHO. So if this is useful to anyone else, feel free. It&#x27;s AGPL v3. In my experience, geoblocking is the biggest win, reducing the attacks by 30x. AI Disclosure: I use AI assisted development. I follow Linus Torvalds and Bob Martin model, with using AI as a tool and verifying the result.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/ivankovic/stop-bots",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50180355",
+    "createdAt": "2026-10-21T16:01:41.571Z"
+  },
+  {
+    "slug": "mnestiq-tamper-evident-logs-of-what-an-ai-agent-saw-and-did-hn",
+    "title": "Mnestiq – tamper-evident logs of what an AI agent saw and did",
+    "shortDescription": "Проект «Mnestiq – tamper-evident logs of what an AI agent saw and did», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Mnestiq – tamper-evident logs of what an AI agent saw and did», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/mnestiq/mnestiq",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50180226",
+    "createdAt": "2026-10-21T16:01:41.572Z"
+  },
+  {
+    "slug": "pyside6-blueprints-a-free-book-on-building-qt-widgets-apps-in-python-hn",
+    "title": "PySide6 Blueprints - a free book on building Qt Widgets apps in Python",
+    "shortDescription": "The book is more or less finished and is available on Leanpub. You can set the price to $0.00 if you are a Leanpub user, or just download t…",
+    "fullDescription": "The book is more or less finished and is available on Leanpub. You can set the price to $0.00 if you are a Leanpub user, or just download the free sample without logging in. The &quot;sample&quot; includes the whole text. The book is aimed at beginner to intermediate users and has six parts: I. Foundations: basic application structure, signals and slots, layouts II. The Qt Widgets Toolkit: the built-in widgets, styles and QSS, custom widgets III. The Qt Object Model: object trees and ownership, signals and slots in detail, events, timers, properties IV. Model&#x2F;View Programming: custom models, delegates, sorting, filtering, selection V. Multithreading: Qt threading techniques and synchronization VI. Special Topics: databases, processes, the Graphics View framework, animation The code is available on GitHub: https:&#x2F;&#x2F;github.com&#x2F;JoeAnonimist&#x2F;pyside6-blueprints-code Corrections and feedback on the text or the code are welcome.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://leanpub.com/pyside6blueprints",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50180216",
+    "createdAt": "2026-10-21T16:01:41.572Z"
+  },
+  {
+    "slug": "vimemacs-like-editor-hn",
+    "title": "Vim/Emacs Like Editor",
+    "shortDescription": "Best of the both worlds Written in rust including the plugins Ai is used for the development",
+    "fullDescription": "Best of the both worlds Written in rust including the plugins Ai is used for the development\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/getkalem/kalem",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50180100",
+    "createdAt": "2026-10-21T16:01:41.572Z"
+  },
+  {
+    "slug": "context-window-what-changed-in-ai-labs-own-documents-hn",
+    "title": "Context Window, what changed in AI labs' own documents",
+    "shortDescription": "Проект «Context Window, what changed in AI labs' own documents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Context Window, what changed in AI labs' own documents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://agentwire.thecompound.tech/context-window",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50179736",
+    "createdAt": "2026-10-21T16:01:41.572Z"
+  },
+  {
+    "slug": "multiplayer-ai-hn",
+    "title": "Multiplayer AI",
+    "shortDescription": "so recently i was working on a hackathron project with a friend and we were both using claude code however as it so happened we had to code…",
+    "fullDescription": "so recently i was working on a hackathron project with a friend and we were both using claude code however as it so happened we had to code one at a time in order to avoid file conflicts and interfering with each others work so i made a simple solution for this simple problem I am currently looking for users to test my app so if anyone has the same problem please check out synteny and join https:&#x2F;&#x2F;discord.gg&#x2F;BPn28HSjH\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://synteny.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50179308",
+    "createdAt": "2026-10-21T16:01:41.572Z"
+  },
+  {
+    "slug": "qovilio-an-ai-that-reads-your-bills-and-lists-your-subscriptions-hn",
+    "title": "Qovilio – an AI that reads your bills and lists your subscriptions",
+    "shortDescription": "Проект «Qovilio – an AI that reads your bills and lists your subscriptions», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Qovilio – an AI that reads your bills and lists your subscriptions», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://qovilio.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50179151",
+    "createdAt": "2026-10-21T16:01:41.572Z"
+  },
+  {
     "slug": "shengzhang-github",
     "title": "shengzhang",
     "shortDescription": "声账 · 一句话语音记账：语音优先、本地优先的个人记账应用",
