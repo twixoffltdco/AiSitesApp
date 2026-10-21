@@ -1,5 +1,151 @@
 [
   {
+    "slug": "shengzhang-github",
+    "title": "shengzhang",
+    "shortDescription": "声账 · 一句话语音记账：语音优先、本地优先的个人记账应用",
+    "fullDescription": "声账 · 一句话语音记账：语音优先、本地优先的个人记账应用\n\nАвтор: zhixiang-luo. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "http://8.152.201.57/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "bookkeeping",
+      "expo",
+      "fastify",
+      "react-native",
+      "sqlite",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1425598649",
+    "createdAt": "2026-10-21T11:08:07.978Z"
+  },
+  {
+    "slug": "rag-docs-chat-github",
+    "title": "rag-docs-chat",
+    "shortDescription": "Upload PDFs and ask questions; answers cite the source passage. Includes a retrieval eval script",
+    "fullDescription": "Upload PDFs and ask questions; answers cite the source passage. Includes a retrieval eval script\n\nАвтор: techsaurabh-394. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/techsaurabh-394/rag-docs-chat",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "claude",
+      "docker",
+      "fastapi",
+      "llm",
+      "pdf",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1428181847",
+    "createdAt": "2026-10-21T11:08:07.978Z"
+  },
+  {
+    "slug": "ai-traffic-light-github",
+    "title": "ai-traffic-light",
+    "shortDescription": "An always-on-top Windows tray app that shows the live status of local AI sessions (Claude Code / Codex / DeepSeek Harness) as a traffic lig…",
+    "fullDescription": "An always-on-top Windows tray app that shows the live status of local AI sessions (Claude Code / Codex / DeepSeek Harness) as a traffic light. Per-monitor DPI, privacy mode, quick replies.\n\nАвтор: IDShallow. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/IDShallow/ai-traffic-light",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude-code",
+      "codex",
+      "deepseek",
+      "dpi",
+      "monitor",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1426504224",
+    "createdAt": "2026-10-21T11:08:07.978Z"
+  },
+  {
+    "slug": "we-built-an-ai-powered-search-engine-for-e-commerce-catalogs-hn",
+    "title": "We built an AI-powered search engine for e-commerce catalogs",
+    "shortDescription": "Проект «We built an AI-powered search engine for e-commerce catalogs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «We built an AI-powered search engine for e-commerce catalogs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://visidea.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50178568",
+    "createdAt": "2026-10-21T11:08:07.726Z"
+  },
+  {
+    "slug": "we-replayed-12-real-ai-agent-incidents-against-our-open-source-tool-hn",
+    "title": "We replayed 12 real AI agent incidents against our open-source tool",
+    "shortDescription": "Проект «We replayed 12 real AI agent incidents against our open-source tool», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «We replayed 12 real AI agent incidents against our open-source tool», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://squidbrake.com/benchmark",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50178546",
+    "createdAt": "2026-10-21T11:08:07.726Z"
+  },
+  {
+    "slug": "linkit-ai-bookmark-manager-100-free-and-open-source-hn",
+    "title": "Linkit – AI bookmark manager, 100% free and open source",
+    "shortDescription": "Проект «Linkit – AI bookmark manager, 100% free and open source», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Linkit – AI bookmark manager, 100% free and open source», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/blue-idea/linkit",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50178218",
+    "createdAt": "2026-10-21T11:08:07.726Z"
+  },
+  {
+    "slug": "local-directml-ai-and-floating-toolstrip-for-photocraft-in-rust-hn",
+    "title": "Local DirectML AI and Floating Toolstrip for PhotoCraft in Rust",
+    "shortDescription": "Проект «Local DirectML AI and Floating Toolstrip for PhotoCraft in Rust», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Local DirectML AI and Floating Toolstrip for PhotoCraft in Rust», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/kobaltgit/photocraft-companion",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50177345",
+    "createdAt": "2026-10-21T11:08:07.726Z"
+  },
+  {
+    "slug": "grafista-ai-graphic-designer-built-to-fight-slop-hn",
+    "title": "Grafista – AI graphic designer built to fight slop",
+    "shortDescription": "You don&#x27;t need advanced prompt or design skills to create a professional designs using Grafista. Just add your content and your brand.…",
+    "fullDescription": "You don&#x27;t need advanced prompt or design skills to create a professional designs using Grafista. Just add your content and your brand. Fully editable designs in any language. Plans from €10&#x2F;month, no per seat charge. Startups get 50% for the first 3 months.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://grafista.io/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50176914",
+    "createdAt": "2026-10-21T11:08:07.726Z"
+  },
+  {
     "slug": "minitoolai-bulk-9router-github",
     "title": "minitoolai-bulk-9router",
     "shortDescription": "Bulk MiniToolAI account creator that harvests session cookies and tokens, then serves 62 free AI models through an OpenAI-compatible adapte…",
