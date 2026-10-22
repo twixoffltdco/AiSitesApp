@@ -1,5 +1,84 @@
 [
   {
+    "slug": "fun-loader-github",
+    "title": "fun-loader",
+    "shortDescription": "Playful, rotating loading text for AI apps. Tiny web component for HTML, React and Vue.",
+    "fullDescription": "Playful, rotating loading text for AI apps. Tiny web component for HTML, React and Vue.\n\nАвтор: VectorChi. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://vectorchi.github.io/fun-loader/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "animations-library",
+      "llm",
+      "loading",
+      "loading-animation",
+      "loading-animations",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1427066637",
+    "createdAt": "2026-10-22T01:45:13.478Z"
+  },
+  {
+    "slug": "buildtonight-github",
+    "title": "buildtonight",
+    "shortDescription": "What should you build tonight? A macOS app that picks your next project.",
+    "fullDescription": "What should you build tonight? A macOS app that picks your next project.\n\nАвтор: idkatanica. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/idkatanica/buildtonight",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "idea-generator",
+      "macos",
+      "macos-app",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1428136607",
+    "createdAt": "2026-10-22T01:45:13.479Z"
+  },
+  {
+    "slug": "purrge-github",
+    "title": "purrge",
+    "shortDescription": "🐾 Purrge — macOS AI 磁盘清理工具，支持 Claude Code 和 Codex：空间不足时提醒，AI 逐项判断能清什么，你勾选确认后才清理",
+    "fullDescription": "🐾 Purrge — macOS AI 磁盘清理工具，支持 Claude Code 和 Codex：空间不足时提醒，AI 逐项判断能清什么，你勾选确认后才清理\n\nАвтор: RabbittuX. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/RabbittuX/purrge",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude-code",
+      "codex",
+      "disk-cleanup",
+      "macos",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1427148830",
+    "createdAt": "2026-10-22T01:45:13.479Z"
+  },
+  {
+    "slug": "harnesshive-collaborative-wiring-harness-design-platform-in-browser-hn",
+    "title": "HarnessHive – collaborative wiring harness design platform in browser",
+    "shortDescription": "Hey HN! We built https:&#x2F;&#x2F;harnesshive.com , a browser based tool to help you design wiring harnesses together. HarnessHive has thr…",
+    "fullDescription": "Hey HN! We built https:&#x2F;&#x2F;harnesshive.com , a browser based tool to help you design wiring harnesses together. HarnessHive has three key features 1) multiple engineers editing the same harness in real time 2) BOM and drawings that stay in sync automatically and 3) AI-native agent + MCP to assist designing. We hope HarnessHive can make harness design less painful than Excel and Visio for some of you :). Let me know if you have any questions&#x2F;comments&#x2F;feature requests!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://harnesshive.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50190012",
+    "createdAt": "2026-10-22T01:45:13.359Z"
+  },
+  {
     "slug": "headless-duckapi-github",
     "title": "headless-duckapi",
     "shortDescription": "Free duck.ai models in Telegram - serverless-first (zero VPS), powered by a pure-JS headless browser that walks through DuckDuckGo's anti-b…",
