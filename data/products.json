@@ -1,5 +1,181 @@
 [
   {
+    "slug": "i-made-a-chrome-extension-to-dim-youtube-videos-labeled-made-with-ai-hn",
+    "title": "I made a Chrome extension to dim YouTube videos labeled \"Made with AI\"",
+    "shortDescription": "Проект «I made a Chrome extension to dim YouTube videos labeled \"Made with AI\"», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I made a Chrome extension to dim YouTube videos labeled \"Made with AI\"», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Nova-47/ai-label-filter-for-youtube",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50194592",
+    "createdAt": "2026-10-22T13:05:34.465Z"
+  },
+  {
+    "slug": "lumabri-run-large-ai-models-across-your-computers-and-serverspure-c-hn",
+    "title": "Lumabri – Run large AI models across your computers and servers.Pure C",
+    "shortDescription": "Проект «Lumabri – Run large AI models across your computers and servers.Pure C», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Lumabri – Run large AI models across your computers and servers.Pure C», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/JustVugg/lumabri/blob/main/README.md",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50194425",
+    "createdAt": "2026-10-22T13:05:34.465Z"
+  },
+  {
+    "slug": "whybook-tackling-the-gap-between-ai-notebooks-and-human-understanding-hn",
+    "title": "Whybook, tackling the gap between AI notebooks and human understanding",
+    "shortDescription": "Whybook is a JupyterLab extension, a research prototype that explores how to close the understanding gap in data analysis: the divide betwe…",
+    "fullDescription": "Whybook is a JupyterLab extension, a research prototype that explores how to close the understanding gap in data analysis: the divide between what AI can effortlessly produce and what the analyst can understand without scratching their head for hours.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://whybook.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50194307",
+    "createdAt": "2026-10-22T13:05:34.465Z"
+  },
+  {
+    "slug": "return-ledger-free-portfolio-twrxirr-tracker-with-ai-pdf-import-hn",
+    "title": "Return Ledger free portfolio TWR/XIRR tracker with AI PDF import",
+    "shortDescription": "Hi HN, I made a simple single-page tool that computes portfolios return &#x2F; performance (TWR and XIRR), gross and net of fees and tax. I…",
+    "fullDescription": "Hi HN, I made a simple single-page tool that computes portfolios return &#x2F; performance (TWR and XIRR), gross and net of fees and tax. It requires logging all transactions. It&#x27;s client-side, with no accounts, and data lives in the browser localStorage. It started as a personal tool . I wanted a way to understand what was the return of my portfolio and of a tenanted rental property (XIRR). The experimental part is an import: you upload a broker&#x27;s trade notice PDF and an LLM proposes one ledger row, which you confirm. It solves a problem I had: understanding my bank&#x27;s documents, especially for bonds, at least here in Italy, where there are multiple numbers to add or subtract to get the real return. It&#x27;s an alpha. I&#x27;ve only tested it on real documents from one Italian bank (about 40 notices, all correct on the first attempt) and on a few synthetic ones from other countries, so I&#x27;d really like to hear how it does on yours. Caveats: the PDF goes to the model provider and is neither stored nor logged by me. The AI import needs an access code, because I&#x27;m paying for the API calls out of pocket, so ask me by writing to hello@returnledger.site and I&#x27;ll send one. The tracker itself works without it. I&#x27;m looking for some feedback regarding AI interpreting other brokers&#x27; documents (no need look at sensitive information, though). I&#x27;m happy to answer questions about the validation approach or the architecture (Azure Static Web Apps with a small Python function behind it).\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://returnledger.site",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50193813",
+    "createdAt": "2026-10-22T13:05:34.465Z"
+  },
+  {
+    "slug": "runspace-disposable-cloud-sandboxes-for-humans-and-ai-agents-hn",
+    "title": "Runspace: Disposable cloud sandboxes for humans and AI agents",
+    "shortDescription": "Проект «Runspace: Disposable cloud sandboxes for humans and AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Runspace: Disposable cloud sandboxes for humans and AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://runspace.sandbox.ec/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50193594",
+    "createdAt": "2026-10-22T13:05:34.465Z"
+  },
+  {
+    "slug": "continue-a-chatgptclaudegemini-chat-in-another-free-ai-at-the-limit-hn",
+    "title": "Continue a ChatGPT/Claude/Gemini chat in another free AI at the limit",
+    "shortDescription": "Проект «Continue a ChatGPT/Claude/Gemini chat in another free AI at the limit», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Continue a ChatGPT/Claude/Gemini chat in another free AI at the limit», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aifreetoday.com/us/transfer-chat/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50193447",
+    "createdAt": "2026-10-22T13:05:34.465Z"
+  },
+  {
+    "slug": "explain-a-free-directory-of-compliance-scores-for-ai-tools-hn",
+    "title": "ExplAIn, a free directory of compliance scores for AI tools",
+    "shortDescription": "Проект «ExplAIn, a free directory of compliance scores for AI tools», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ExplAIn, a free directory of compliance scores for AI tools», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.explain-ai.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50193342",
+    "createdAt": "2026-10-22T13:05:34.465Z"
+  },
+  {
+    "slug": "aiqualityhq-browser-native-prompt-qa-and-security-guardrails-hn",
+    "title": "AIQualityHQ – Browser-native prompt QA and security guardrails",
+    "shortDescription": "Проект «AIQualityHQ – Browser-native prompt QA and security guardrails», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AIQualityHQ – Browser-native prompt QA and security guardrails», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aiqualityhq.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50192928",
+    "createdAt": "2026-10-22T13:05:34.465Z"
+  },
+  {
+    "slug": "the-companion-lab-what-7-ai-companion-apps-charge-on-bank-statements-hn",
+    "title": "The Companion Lab – What 7 AI companion apps charge on bank statements",
+    "shortDescription": "Проект «The Companion Lab – What 7 AI companion apps charge on bank statements», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «The Companion Lab – What 7 AI companion apps charge on bank statements», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://thecompanionlab.com/billing/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50192891",
+    "createdAt": "2026-10-22T13:05:34.465Z"
+  },
+  {
+    "slug": "map-any-folder-to-a-real-drive-on-windows-ai-agent-sandbox-hn",
+    "title": "Map any folder to a real drive on Windows – AI agent sandbox",
+    "shortDescription": "Проект «Map any folder to a real drive on Windows – AI agent sandbox», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Map any folder to a real drive on Windows – AI agent sandbox», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://subst.scsoi.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50192853",
+    "createdAt": "2026-10-22T13:05:34.465Z"
+  },
+  {
+    "slug": "the-fastest-browser-for-ai-agents-to-run-browser-automation-hn",
+    "title": "The fastest browser for AI agents to run browser automation",
+    "shortDescription": "Проект «The fastest browser for AI agents to run browser automation», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «The fastest browser for AI agents to run browser automation», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 9 баллов.",
+    "url": "https://ego-lite.apposters.com",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50192585",
+    "createdAt": "2026-10-22T13:05:34.465Z"
+  },
+  {
     "slug": "ai-voice-studio-github",
     "title": "ai-voice-studio",
     "shortDescription": "Turn a phone voice note into a studio mic voice. Local and free, by @justbyamine",
