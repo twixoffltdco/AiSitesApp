@@ -1,5 +1,171 @@
 [
   {
+    "slug": "mnema-github",
+    "title": "Mnema",
+    "shortDescription": "A free AI interface with memory, local agents and multitasking. One memory for Claude, ChatGPT, Gemini and local models — on your computer.",
+    "fullDescription": "A free AI interface with memory, local agents and multitasking. One memory for Claude, ChatGPT, Gemini and local models — on your computer.\n\nАвтор: Pumpetee. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Pumpetee/Mnema",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-memory",
+      "chatgpt",
+      "claude",
+      "desktop-app",
+      "gemini",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1430129300",
+    "createdAt": "2026-10-22T21:50:19.315Z"
+  },
+  {
+    "slug": "ai-prompt-chain-builder-offline-multi-step-prompt-workflows-hn",
+    "title": "AI Prompt Chain Builder – offline multi-step prompt workflows",
+    "shortDescription": "Проект «AI Prompt Chain Builder – offline multi-step prompt workflows», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Prompt Chain Builder – offline multi-step prompt workflows», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://theaioperatorstore.gumroad.com/l/kjxamb",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50201281",
+    "createdAt": "2026-10-22T21:50:19.085Z"
+  },
+  {
+    "slug": "ai-for-group-chats-hn",
+    "title": "AI for Group Chats",
+    "shortDescription": "Проект «AI for Group Chats», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI for Group Chats», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://boba.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50201068",
+    "createdAt": "2026-10-22T21:50:19.086Z"
+  },
+  {
+    "slug": "secure-your-ai-agents-on-mac-hn",
+    "title": "Secure your AI agents on Mac",
+    "shortDescription": "Plango is a Mac native security suite for anyone running AI coding tools. It works by running a custom local security model that evaluates…",
+    "fullDescription": "Plango is a Mac native security suite for anyone running AI coding tools. It works by running a custom local security model that evaluates threats against the lethal trifecta (data access, communication, exposure). Some cool features: - Restrict Agent access by type of data (ssh keys, env files) or finder tags (finally a good reason to use the color tags in finder). - On device security model, but can switch to another local agent or bring your own key. - Review your Mac&#x27;s privacy and access, apps, startup &amp; extensions. - Automatically move env secrets into keychain. - Network blocks&#x2F;allow lists, see what apps and agents are accessing. Stop them from data exfil. - Check skills and plugins for bad behavior. - Create custom rules for all of these things. - Log every action, request, block etc in an easy dashboard. - Vuln scan of all projects on your Mac. About us: I&#x27;m Fred, long term hacker first time shower. My co-founder Rich and I care about privacy, security and believe that AI software development is the future. We have two decades of combined experience in cyber, NLP and AI and are working on this tool full time. Given how fast cyber is evolving we&#x27;re pushing changes to this on a daily basis. Please download and trial for free! We&#x27;re here to answer any questions about the app or cyber&#x2F;AI.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://installplango.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50200396",
+    "createdAt": "2026-10-22T21:50:19.086Z"
+  },
+  {
+    "slug": "linear-a-decipherment-open-sourced-hn",
+    "title": "Linear A decipherment open-sourced",
+    "shortDescription": "Test the proposed Semitic reading yourself and see all the work behind it",
+    "fullDescription": "Test the proposed Semitic reading yourself and see all the work behind it\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://www.plasma.ai/research/linear-a",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50200278",
+    "createdAt": "2026-10-22T21:50:19.086Z"
+  },
+  {
+    "slug": "forked-git-for-ai-agent-state-hn",
+    "title": "Forked – Git for AI agent state",
+    "shortDescription": "Проект «Forked – Git for AI agent state», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Forked – Git for AI agent state», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/clibequilibrium/forked",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50199793",
+    "createdAt": "2026-10-22T21:50:19.086Z"
+  },
+  {
+    "slug": "mnemolith-ai-coding-memory-that-goes-stale-when-your-code-changes-hn",
+    "title": "Mnemolith – AI coding memory that goes stale when your code changes",
+    "shortDescription": "Hi HN, I&#x27;m Anish. I built Mnemolith because the AI coding tools I use (Claude Code, Cursor, Codex) either forget my project between se…",
+    "fullDescription": "Hi HN, I&#x27;m Anish. I built Mnemolith because the AI coding tools I use (Claude Code, Cursor, Codex) either forget my project between sessions, or remember things that quietly stopped being true. Tell the agent &quot;we use Postgres&quot;, migrate to MySQL two weeks later, and it keeps building on the old fact. How it works: - It&#x27;s an MCP server, so Claude Code, Cursor and Codex share one memory per project (keyed by the git repo). - When the agent saves a memory, it can link it to the files it depends on. Mnemolith stores each file&#x27;s git blob hash. If the file&#x27;s contents change (committed or not), the memory is set aside and flagged for review, so the agent stops relying on it. - A local dashboard shows what the agent remembers, where each memory came from (tool, session, file versions), and its full history. You can confirm a memory is still true, or retire it and say what&#x27;s true now. - Contradictions are judged by the agent, not by a similarity threshold. In my calibration, &quot;we use Postgres&quot; vs &quot;we migrated to MySQL&quot; only scored 0.30 similarity, so a threshold can&#x27;t tell a contradiction from an unrelated fact. - Current memories can sync into a managed section of AGENTS.md &#x2F; CLAUDE.md, so they get reviewed in PRs. Under the hood it runs on an engine I wrote from scratch in Java: a Redis-compatible server with a built-in memory model and an HNSW vector index. Embeddings run locally (all-MiniLM-L6-v2). Everything stays on your machine. It&#x27;s early (v0.2.1). There&#x27;s no team sync yet beyond the AGENTS.md&#x2F;CLAUDE.md files, and it needs Java 11+ (it downloads a private copy if you don&#x27;t have one). I&#x27;d really like feedback, especially from people running coding agents on real codebases. What does your agent keep getting wrong?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/anishchugh05/mnemolith",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50199581",
+    "createdAt": "2026-10-22T21:50:19.086Z"
+  },
+  {
+    "slug": "zof-api-contract-check-hn",
+    "title": "Zof API Contract Check",
+    "shortDescription": "Проект «Zof API Contract Check», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Zof API Contract Check», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Zof-AI/zof-api-contract-check/tree/e9d45f612e75406b1f943c7bab76fab600fa950f",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50199331",
+    "createdAt": "2026-10-22T21:50:19.086Z"
+  },
+  {
+    "slug": "ui-micro-interactions-prompts-for-ai-hn",
+    "title": "UI micro interactions prompts for AI",
+    "shortDescription": "Проект «UI micro interactions prompts for AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «UI micro interactions prompts for AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 56 баллов.",
+    "url": "https://www.typeui.sh/micro-interactions",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50199290",
+    "createdAt": "2026-10-22T21:50:19.086Z"
+  },
+  {
+    "slug": "decido-an-open-decision-model-that-runs-cpu-only-on-a-laptop-hn",
+    "title": "Decido – an open decision model that runs CPU-only on a laptop",
+    "shortDescription": "Проект «Decido – an open decision model that runs CPU-only on a laptop», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Decido – an open decision model that runs CPU-only on a laptop», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/decido-ai/decido",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50199105",
+    "createdAt": "2026-10-22T21:50:19.086Z"
+  },
+  {
     "slug": "abliteratedoutthebox-github",
     "title": "AbliteratedOutTheBox",
     "shortDescription": "llama.cpp fork that abliterates at inference",
