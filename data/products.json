@@ -1,5 +1,103 @@
 [
   {
+    "slug": "ai-voice-studio-github",
+    "title": "ai-voice-studio",
+    "shortDescription": "Turn a phone voice note into a studio mic voice. Local and free, by @justbyamine",
+    "fullDescription": "Turn a phone voice note into a studio mic voice. Local and free, by @justbyamine\n\nАвтор: OutOfAmine. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/OutOfAmine/ai-voice-studio",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "audio-enhancement",
+      "content-creation",
+      "ffmpeg",
+      "gradio",
+      "podcast",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1428636722",
+    "createdAt": "2026-10-22T07:03:33.474Z"
+  },
+  {
+    "slug": "piswitch-github",
+    "title": "piswitch",
+    "shortDescription": "Desktop workbench for the pi coding agent: visual models.json editor, one-click provider switching, MCP/skills management, session cost rep…",
+    "fullDescription": "Desktop workbench for the pi coding agent: visual models.json editor, one-click provider switching, MCP/skills management, session cost reports, and undoable writes. Tauri 2 + React.\n\nАвтор: Frank-StarsChild. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/Frank-StarsChild/piswitch",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "coding-agent",
+      "config-manager",
+      "llm",
+      "pi",
+      "tauri",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1426499403",
+    "createdAt": "2026-10-22T07:03:33.474Z"
+  },
+  {
+    "slug": "usage-gauge-github",
+    "title": "usage-gauge",
+    "shortDescription": "쓰는 모든 AI의 남은 한도를, 언제 바닥나는지까지 — 그래프 12종 · 스타일 3종의 macOS · Windows 플로팅 게이지와 메뉴바",
+    "fullDescription": "쓰는 모든 AI의 남은 한도를, 언제 바닥나는지까지 — 그래프 12종 · 스타일 3종의 macOS · Windows 플로팅 게이지와 메뉴바\n\nАвтор: Power-xc. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/Power-xc/usage-gauge",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude",
+      "claude-code",
+      "codex",
+      "cursor",
+      "developer-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1427900694",
+    "createdAt": "2026-10-22T07:03:33.474Z"
+  },
+  {
+    "slug": "tensemem-deterministic-memory-for-ai-agents-hn",
+    "title": "TenseMem – deterministic memory for AI agents",
+    "shortDescription": "Проект «TenseMem – deterministic memory for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «TenseMem – deterministic memory for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/tensemem/tensemem",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50191478",
+    "createdAt": "2026-10-22T07:03:33.286Z"
+  },
+  {
+    "slug": "hn-sieve-every-show-hn-scored-and-summarized-by-ai-hn",
+    "title": "HN Sieve – every Show HN scored and summarized by AI",
+    "shortDescription": "Проект «HN Sieve – every Show HN scored and summarized by AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «HN Sieve – every Show HN scored and summarized by AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://hnsieve.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50190403",
+    "createdAt": "2026-10-22T07:03:33.286Z"
+  },
+  {
     "slug": "fun-loader-github",
     "title": "fun-loader",
     "shortDescription": "Playful, rotating loading text for AI apps. Tiny web component for HTML, React and Vue.",
