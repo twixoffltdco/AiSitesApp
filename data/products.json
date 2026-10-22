@@ -1,5 +1,333 @@
 [
   {
+    "slug": "abliteratedoutthebox-github",
+    "title": "AbliteratedOutTheBox",
+    "shortDescription": "llama.cpp fork that abliterates at inference",
+    "fullDescription": "llama.cpp fork that abliterates at inference\n\nАвтор: heterodoxin. Найдено в GitHub Trending (AI-тематика). ⭐ 24 звёзд.",
+    "url": "https://github.com/heterodoxin/AbliteratedOutTheBox",
+    "category": "ai-tool",
+    "tags": [
+      "abliteration",
+      "ai",
+      "inference",
+      "llama-cpp",
+      "llm",
+      "llms",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1428969386",
+    "createdAt": "2026-10-22T18:06:16.555Z"
+  },
+  {
+    "slug": "accidentalguide-github",
+    "title": "accidentalguide",
+    "shortDescription": "Short guides to how AI coding agents work and how teams use them",
+    "fullDescription": "Short guides to how AI coding agents work and how teams use them\n\nАвтор: stuffbucket. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://stuffbucket.github.io/accidentalguide/",
+    "category": "ai-tool",
+    "tags": [
+      "agentic-coding",
+      "ai",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "github-copilot",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1429537041",
+    "createdAt": "2026-10-22T18:06:16.555Z"
+  },
+  {
+    "slug": "stata-research-guard-github",
+    "title": "stata-research-guard",
+    "shortDescription": "Codex plugin for readable Stata research code, official command help, paper examples, and peer review.",
+    "fullDescription": "Codex plugin for readable Stata research code, official command help, paper examples, and peer review.\n\nАвтор: Plokies-2. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/Plokies-2/stata-research-guard",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "codex",
+      "codex-plugin",
+      "data-analysis",
+      "econometrics",
+      "mcp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1429651453",
+    "createdAt": "2026-10-22T18:06:16.555Z"
+  },
+  {
+    "slug": "echomind-github",
+    "title": "EchoMind",
+    "shortDescription": "用一句话找到你想要的声音 · 本地优先的 AI 音效管理器",
+    "fullDescription": "用一句话找到你想要的声音 · 本地优先的 AI 音效管理器\n\nАвтор: Bastzber. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Bastzber/EchoMind",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "audio",
+      "chromadb",
+      "clap",
+      "electron",
+      "fastapi",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1429703307",
+    "createdAt": "2026-10-22T18:06:16.555Z"
+  },
+  {
+    "slug": "mintpage-a-saas-i-let-an-ai-agent-build-and-run-i-never-look-at-it-hn",
+    "title": "MintPage – a SaaS I let an AI agent build and run (I never look at it)",
+    "shortDescription": "Проект «MintPage – a SaaS I let an AI agent build and run (I never look at it)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «MintPage – a SaaS I let an AI agent build and run (I never look at it)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://mintpage.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50198751",
+    "createdAt": "2026-10-22T18:06:16.420Z"
+  },
+  {
+    "slug": "halv-open-source-agent-coding-software-that-reduces-your-usage-hn",
+    "title": "Halv – open-source agent coding software that reduces your usage",
+    "shortDescription": "Проект «Halv – open-source agent coding software that reduces your usage», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Halv – open-source agent coding software that reduces your usage», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://halv.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50198250",
+    "createdAt": "2026-10-22T18:06:16.420Z"
+  },
+  {
+    "slug": "kino-transcode-open-red-and-blackmagic-raw-files-in-the-browser-hn",
+    "title": "Kino Transcode – Open Red and Blackmagic Raw Files in the Browser",
+    "shortDescription": "I&#x27;m Luke from Kino. We make a video editor + MAM in the browser. Transcode opens Blackmagic RAW, RED R3D, ProRes, DNxHR, and MXF files…",
+    "fullDescription": "I&#x27;m Luke from Kino. We make a video editor + MAM in the browser. Transcode opens Blackmagic RAW, RED R3D, ProRes, DNxHR, and MXF files in the browser (including the famously tricky OP-Atom). You can scrub rapidly, convert to H.264 or ProRes, all without installing anything or uploading footage. We built this because the film editors and creators we work with still need a desktop app just to look at a clip from these cameras, and we want it to be a link instead. The BRAW decoder builds on Paul B Mahol&#x27;s FFmpeg BRAW decoder, which we ported to FFmpeg 8 and extended for newer files. For the R3D decoder, scrubbing uses quarter, eighth and sixteenth resolution, because a full 8K frame takes about 24 seconds on one core. Also, HDR clips convert to Rec.709 when they&#x27;re tagged as PQ or HLG with BT.2020 colors. We also built a ProRes encoder+decoder, but we instead merged our efforts with Vanilagy of Mediabunny fame. His turbores implementation is very much worth the hype.\n\nНайдено в разделе Show HN на Hacker News. 👍 8 баллов.",
+    "url": "https://kino.ai/tools/transcode",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50198052",
+    "createdAt": "2026-10-22T18:06:16.421Z"
+  },
+  {
+    "slug": "ternlux-free-local-first-bring-your-own-key-ai-pipeline-builder-hn",
+    "title": "Ternlux – Free, local-first, bring-your-own-key AI pipeline builder",
+    "shortDescription": "For the past 12 years as a data engineer, I&#x27;ve been building pipelines across many different business categories and sizes. Most pipel…",
+    "fullDescription": "For the past 12 years as a data engineer, I&#x27;ve been building pipelines across many different business categories and sizes. Most pipelines that I’ve encountered were relatively simple jobs and required more orchestration and infrastructure than the work seems to justify. I wanted to make it easier for business users or analysts to take on the less complicated requests and technical engineers be able to focus on more complex pipelines. So in the past year I&#x27;ve been building a local desktop application (Mac&#x2F;PC&#x2F;Linux) to make it easy enough for analysts to build pipelines and answer analytical questions they have about their data, no matter their level of technical expertise. It’s called Ternlux, and it streamlines the process of transforming and getting your data where it needs to go. There are two key features: - Ask questions: AI helps to write the query for your connection and answer your question - Build reusable workflows: The AI generates SQL, Python, and workflow logic that executes based on your defined rules and triggers One of the key advantages of the application is you can perform cross-database joins between databases, local files, vector databases, and cloud storage. You describe the workflow you want and the app writes the code and builds the environment to execute it in (for local joins, it uses either JS, Python, or DuckDB to execute the code). For example, if I want to build a workflow that joins a Postgres table with a CSV file and write the results to Snowflake, I just describe the tables I want to use, the keys to join on, and where the join should run. The app takes care of the rest. I also wanted the app to be as secure as possible. It always asks for approval before performing any database or local file manipulation. It never sends anything to Ternlux servers if you haven’t opted into telemetry. It’s important to note that the app will send query results to your selected AI provider to analyze and answer your questions. It will also send the schema and a small sample size of your data to build workflows properly. It is a bring your own key application. It supports Gemini, Claude, OpenAI, and any models that are OpenAI compatible (Ollama, LM Studio, Openrouter…). All of your credentials stay encrypted locally. And the app is completely free including all features (besides the AI models you use with your own key obviously). I’ve built a quick demo showcasing the applications Demo: https:&#x2F;&#x2F;www.ternlux.com&#x2F;online-demo&#x2F; 3-min overview: https:&#x2F;&#x2F;youtu.be&#x2F;tA7N7wiLliA The list of connectors that exist: Postgres, MySQL, SQL Server, BigQuery, Snowflake, MongoDB, Pinecone, LanceDB, S3, GCS, Azure Blob, Google Drive, OneDrive, Dropbox, and Google Sheets. I would love your honest feedback on this. How can this product be improved? Would you currently use it as a tool to replace your current tool or in conjunction with your other tools? What feature do you find most useful and I should focus on from the list?\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.ternlux.com/online-demo/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50197685",
+    "createdAt": "2026-10-22T18:06:16.421Z"
+  },
+  {
+    "slug": "flint-interactive-a-language-for-interactive-data-visualizations-msr-hn",
+    "title": "Flint-interactive, a language for interactive data visualizations (MSR)",
+    "shortDescription": "Since we last built Flint earlier this year ( https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48834924 ), we have been wondering if int…",
+    "fullDescription": "Since we last built Flint earlier this year ( https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48834924 ), we have been wondering if interactive charts can also find they home in terms of simple high-level specifications to allow AI agents to produce them easily, reliably and with high-quality. I have always been amazed by NYT interactive stories back in school, as they can always tell a fun story without super long verbose text write-ups; thus I have been wondering what if they can just be as easily created as any basic charts to make them easier to create everywhere. Despite the AI models now are more capable of creating interactive artifacts, we find creating interactive charts still kinda annoying (esp. if you are building them to serve users directly in their chat, in your data apps). Agents (especially with smaller models) quite often generate interactions with undesired effects, they are often quite slow, costly, and extremely annoying if to want to steer it to change something. Most times, I find that if I ask the agent to change interaction, it can randomly change style, layout, even the data. We find the issue is that the language agents use to create interactive visualization is kinda low-level. The logic for specifying data encoding, style and interactions are all entangled (if you swap x,y axis, you are likely going to redo your interaction and layout again). Thus, despite agents have been working hard, it is essentially doing lots of stuff bottom up. We decide to design a language that can separate the visual logic and the interaction logic to make specification much cleaner, manageable, and friendly (to both human and AI). The magic here is that we are now disentangle the logic at the spec level, but make the compiler to do the heavy lifting (sorry, compiler!) to wire up logics to support easy composition and adaptation of the logics to create a expressive interactive charts. We used a trick of bidirectional transformation to help the compiler maintain the mapping between pixel&#x2F;visual space to data semantics so the specs can stay at a higher-level. We made a video to explain the ideas. https:&#x2F;&#x2F;youtu.be&#x2F;JAJy7ToczMs Some principles we had in the design: - the language should be high-level and the agents can easily user them in chats&#x2F;apps declaratively (with many presets). - the language should not give up expressiveness. We also provide a programming API, so that you can use it to create charts in your app&#x2F;dashboards for external interactions. The expressive API also makes it possible to compose very cool bespoke interactions (the spinning globe in the website). To try it out: - You can try Flint in your agent app. Simply call your agent to create it as an MCP app in your chat! ( https:&#x2F;&#x2F;microsoft.github.io&#x2F;flint-chart&#x2F;#&#x2F;mcp ) - If you are building applications, ask the agent to use the library. Flint is especially suitable for building agentic apps where you want agents to bring up an interactive charts quickly in the user session following their asks. - Btw, the flint mcp app allows you create interactive dashboard in the chat as well. Finally, I&#x27;m thinking that despite AI agents are now so good at coding, that they seem to be able to create EVERYTHING. It might not just be the time to give up designing new languages to make it easy to describe and create stuff. In the end, language is still the way for us to communicate with the computer, I think the alignment of programming language between human and AI in could probably make building, steering easier.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://microsoft.github.io/flint-chart/#/interactions",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50197593",
+    "createdAt": "2026-10-22T18:06:16.421Z"
+  },
+  {
+    "slug": "agentintersect-world-local-first-3d-workspace-for-your-coding-agents-hn",
+    "title": "AgentIntersect World – local-first 3D workspace for your coding agents",
+    "shortDescription": "Проект «AgentIntersect World – local-first 3D workspace for your coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AgentIntersect World – local-first 3D workspace for your coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/MelaBuilt-AI/AgentIntersect-World",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50197589",
+    "createdAt": "2026-10-22T18:06:16.421Z"
+  },
+  {
+    "slug": "an-interactive-simulator-for-securing-autonomous-ai-agents-in-aws-hn",
+    "title": "An interactive simulator for securing autonomous AI agents in AWS",
+    "shortDescription": "Проект «An interactive simulator for securing autonomous AI agents in AWS», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An interactive simulator for securing autonomous AI agents in AWS», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://milieucloud.com/architect-training/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50197358",
+    "createdAt": "2026-10-22T18:06:16.421Z"
+  },
+  {
+    "slug": "dedoomify-ai-news-minus-the-doom-hn",
+    "title": "Dedoomify – AI news, minus the doom",
+    "shortDescription": "What if AI failures were described like ordinary software issues? Paste a link to an AI article and dedoomify turns down the apocalypse: &q…",
+    "fullDescription": "What if AI failures were described like ordinary software issues? Paste a link to an AI article and dedoomify turns down the apocalypse: &quot;the model is misaligned&quot; becomes &quot;the model has a bug&quot;. Less Skynet. More software. And every change is highlighted with the original text one hover or tap away. You can try an example without signing up or installing anything! The default engine runs on quick phrase rules or you can run a local AI model in your browser via WebGPU; there&#x27;s also a Chrome extension that applies the rules to the page you’re reading. And all the code is open source! https:&#x2F;&#x2F;github.com&#x2F;akspad&#x2F;dedoomify There&#x27;s so much AI doom in the world right now that I wanted to see what articles would look like reframed to be less doom and gloom and instead more matter-of-fact (sprinkled with some sunshine and roses). Let me know what you think - suggestions and improvements are always welcome :)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://dedoomify.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50197276",
+    "createdAt": "2026-10-22T18:06:16.421Z"
+  },
+  {
+    "slug": "aven-stops-ai-coding-tools-from-breaking-yours-projects-rules-hn",
+    "title": "Aven-stops AI coding tools from breaking yours project's rules",
+    "shortDescription": "Проект «Aven-stops AI coding tools from breaking yours project's rules», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Aven-stops AI coding tools from breaking yours project's rules», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://getaven.pages.dev",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50196795",
+    "createdAt": "2026-10-22T18:06:16.421Z"
+  },
+  {
+    "slug": "airlock-which-sandboxes-ai-agents-is-available-on-the-mac-app-store-hn",
+    "title": "Airlock, which sandboxes AI agents, is available on the Mac App Store",
+    "shortDescription": "Now that Airlock is available on the Mac App Store, I thought it was worth a resubmission. Quickly run your AI agents (Claude, Codex) in a…",
+    "fullDescription": "Now that Airlock is available on the Mac App Store, I thought it was worth a resubmission. Quickly run your AI agents (Claude, Codex) in a disposable VM. Block the agent from making requests to unknown or untrusted hosts, and get a log of everything that it does - then only bring back the changes you actually want. It&#x27;s free, and has no tracking or analytics. It requires a Mac with Apple silicon running macOS 26+\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://airlock.sorrel.systems",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50196751",
+    "createdAt": "2026-10-22T18:06:16.421Z"
+  },
+  {
+    "slug": "pdt-open-source-deployment-of-scheduled-jobs-on-your-own-cloud-hn",
+    "title": "PDT – Open-source deployment of scheduled jobs on your own cloud",
+    "shortDescription": "Hi, I&#x27;m Derek. I&#x27;ve been doing data integrations &#x2F; ETL work since 2014, first for K-12, now for commercial companies think A…",
+    "fullDescription": "Hi, I&#x27;m Derek. I&#x27;ve been doing data integrations &#x2F; ETL work since 2014, first for K-12, now for commercial companies think ADP&#x2F;BambooHR to AzureAD, etc. I&#x27;ve written so many deployment systems for integrations, each slightly different. Instead, we took the best parts of all the systems we&#x27;ve built and put them into one tool. PDT takes your job and deploys it to AWS, Azure, GCP, or even Task Scheduler. It&#x27;s a convention-over-configuration deployment tool specifically made for Scheduled Jobs. Things like data integrations, scans, reports, etc. With AI, writing scripts is easier than ever. Deploying them into production isn&#x27;t as easy. Because the AI needs to know what you want, this can be tricky as there are so many choices to make! Do I use Azure Functions, Duarble Functions, Container Instances, Azure Batch, AKS CronJob, Azure Automation Runbooks, Logic Apps? ahhh, I just want this to run in production. To give it a shot, install uv, then: uv tool install pdt-cli uv tool update-shell pdt init jobs cd jobs pdt run hello-world # runs locally pdt deploy hello-world # runs on cloud pdt new hello --from powershell-hello-world # give powershell a shot PDT gives you a standard set of primitives to use for scheduling, secrets, storage, logs, and alerts. This means you already know how to track state, where to drop the file you wanted to drop, how to know when the job fails, and how to answer all the other orchestration-related questions.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/AutoIDM/pdt",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50196741",
+    "createdAt": "2026-10-22T18:06:16.421Z"
+  },
+  {
+    "slug": "linden-a-rule-based-verification-layer-for-ai-agents-hn",
+    "title": "Linden – a rule based verification layer for AI agents",
+    "shortDescription": "Проект «Linden – a rule based verification layer for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Linden – a rule based verification layer for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://app.trustlinden.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50196610",
+    "createdAt": "2026-10-22T18:06:16.421Z"
+  },
+  {
+    "slug": "the-daily-inference-a-newspaper-written-and-edited-by-ai-agents-hn",
+    "title": "The Daily Inference, a newspaper written and edited by AI agents",
+    "shortDescription": "Проект «The Daily Inference, a newspaper written and edited by AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «The Daily Inference, a newspaper written and edited by AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://dailyinference.news/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50195495",
+    "createdAt": "2026-10-22T18:06:16.421Z"
+  },
+  {
+    "slug": "a-scroll-through-subway-ride-to-show-how-glp-1s-work-in-your-body-hn",
+    "title": "A scroll-through subway ride to show how GLP-1s work in your body",
+    "shortDescription": "I was looking at GLP-1 explanations on the web (full disclosure is that I founded a GLP-1 tracker dashboard) and saw that many had standard…",
+    "fullDescription": "I was looking at GLP-1 explanations on the web (full disclosure is that I founded a GLP-1 tracker dashboard) and saw that many had standard text, along with illustrations showing arrows pointing from GLP-1 to a bunch of organs. I didn’t think those sites were particularly memorable or helpful in understanding the actions and side effects. I’m an MD + computer science hybrid with a background in building interactive tools for helping people understand medical concepts, so I decided to build a free scroll-through explainer in the form of a subway ride. The ride is 7 stops, takes about 5-10 minutes, and doesn’t require an account. This was with the assistance of AI, using multiple tools. The process was far from one-shot and with me heavily in the loop for all the different pieces. I still find it tricky to get something medically accurate and useful when the details matter. I had built a free set of pages, GLP-1 Field Guides, to help people understand the different GLP-1 related drug classes, and I was able to lean on all of that research and sources to get the details right and to provide authoritative sources for the information presented at each subway stop. I had tried building this starting in February but then paused it for a few months because the models weren’t quite at the point where I could make what I had in my mind’s eye. In the final piece, the different animated elements are drawn in code and change with the scrolling. Here are some of the tools I ended up using: - GPT Image and Nano Banana, both via a custom Claude Code skill I wrote, with my own sketches as the base, for the Field Guide visuals that were important for this piece. Nano Banana for the subway graffiti and the organs - Gemini 3.8 Flash TTS for the conductor’s voice - Suno for the song (ride to the end) - Claude Code with Opus 5.5 to build the site and Codex for code review I am curious if this is a useful format for understanding GLP-1s but happy to answer questions about any of the above.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://subway.bio1up.com/line/signal",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50195366",
+    "createdAt": "2026-10-22T18:06:16.421Z"
+  },
+  {
+    "slug": "lalabase-self-hosted-project-management-with-an-ai-that-cites-sources-hn",
+    "title": "Lalabase, self-hosted project management with an AI that cites sources",
+    "shortDescription": "Проект «Lalabase, self-hosted project management with an AI that cites sources», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Lalabase, self-hosted project management with an AI that cites sources», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/lalabase/lalabase",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50195307",
+    "createdAt": "2026-10-22T18:06:16.421Z"
+  },
+  {
     "slug": "i-made-a-chrome-extension-to-dim-youtube-videos-labeled-made-with-ai-hn",
     "title": "I made a Chrome extension to dim YouTube videos labeled \"Made with AI\"",
     "shortDescription": "Проект «I made a Chrome extension to dim YouTube videos labeled \"Made with AI\"», опубликован сообществом Hacker News.",
