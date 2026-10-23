@@ -1,5 +1,101 @@
 [
   {
+    "slug": "apple-music-effect-github",
+    "title": "apple-music-effect",
+    "shortDescription": "Recreates the new Apple Music liquid brand identity with webgl + opus 5.5.",
+    "fullDescription": "Recreates the new Apple Music liquid brand identity with webgl + opus 5.5.\n\nАвтор: transitive-bullshit. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://apple-music-effect.transitivebullsh.it",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "apple",
+      "apple-music",
+      "webgl",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1429775250",
+    "createdAt": "2026-10-23T05:10:12.242Z"
+  },
+  {
+    "slug": "accidentalguide-github-2",
+    "title": "accidentalguide",
+    "shortDescription": "Short guides to how AI coding agents work and how teams use them",
+    "fullDescription": "Short guides to how AI coding agents work and how teams use them\n\nАвтор: stuffbucket. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://accidental.info",
+    "category": "ai-tool",
+    "tags": [
+      "agentic-coding",
+      "ai",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "github-copilot",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1429537041",
+    "createdAt": "2026-10-23T05:10:12.242Z"
+  },
+  {
+    "slug": "litpage-github",
+    "title": "litpage",
+    "shortDescription": "Open-source, self-hosted workspace for pages, databases and AI. One Node.js process with SQLite.",
+    "fullDescription": "Open-source, self-hosted workspace for pages, databases and AI. One Node.js process with SQLite.\n\nАвтор: litmers-dev. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/litmers-dev/litpage",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "block-editor",
+      "database",
+      "knowledge-base",
+      "nodejs",
+      "open-source",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1430540152",
+    "createdAt": "2026-10-23T05:10:12.242Z"
+  },
+  {
+    "slug": "ployz-a-rust-imperative-orchestrator-and-cloud-like-ux-hn",
+    "title": "Ployz – a Rust imperative orchestrator and cloud-like UX",
+    "shortDescription": "Hi HN, I&#x27;m Nick. Ployz ( https:&#x2F;&#x2F;ployz.dev ) gives you Railway&#x27;s UX on Linux servers you rent - start with a single ser…",
+    "fullDescription": "Hi HN, I&#x27;m Nick. Ployz ( https:&#x2F;&#x2F;ployz.dev ) gives you Railway&#x27;s UX on Linux servers you rent - start with a single server and grow from there. The code is at https:&#x2F;&#x2F;github.com&#x2F;getployz&#x2F;ployz . I&#x27;ve always wanted a self-hosting solution that can deliver a top-tier experience rivalling or beating what cloud platforms offer. By being opinionated, I believe it delivers on this: - A single flat mesh (any service can contact any other service, simply) - Start with a single server, scale from there - ZFS volumes (instant snapshots, host-to-host syncing, instant branching soon) - No separate management servers to run. You tell Ployz what to do, it does it, and it&#x27;s done. Basically, it&#x27;s my dream orchestrator with Railway&#x27;s UX on top. It&#x27;s also a bet that AI will be much better at managing a system of simple imperative primitives than a declarative system like Kubernetes. I tagged the 0.3 beta today. I&#x27;d love for you to try it. It&#x27;s fully drivable from the CLI, MCP, or sidebar. Nick\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/getployz/ployz",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50203821",
+    "createdAt": "2026-10-23T05:10:11.946Z"
+  },
+  {
+    "slug": "grillmyprofile-ai-roast-of-your-linkedin-scored-against-a-job-hn",
+    "title": "GrillMyProfile – AI roast of your LinkedIn, scored against a job",
+    "shortDescription": "Проект «GrillMyProfile – AI roast of your LinkedIn, scored against a job», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «GrillMyProfile – AI roast of your LinkedIn, scored against a job», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.grillmyprofile.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50203354",
+    "createdAt": "2026-10-23T05:10:11.946Z"
+  },
+  {
     "slug": "ai-native-github",
     "title": "ai-native",
     "shortDescription": "지능을 전기처럼 쓰는 시대 — AI 네이티브 핸드북 2026 (PDF·EPUB, CC BY-NC-ND 4.0)",
