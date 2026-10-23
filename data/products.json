@@ -1,5 +1,147 @@
 [
   {
+    "slug": "ai-native-github",
+    "title": "ai-native",
+    "shortDescription": "지능을 전기처럼 쓰는 시대 — AI 네이티브 핸드북 2026 (PDF·EPUB, CC BY-NC-ND 4.0)",
+    "fullDescription": "지능을 전기처럼 쓰는 시대 — AI 네이티브 핸드북 2026 (PDF·EPUB, CC BY-NC-ND 4.0)\n\nАвтор: hollobit. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/hollobit/ai-native",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "book",
+      "cc-by-nc-nd",
+      "creative-commons",
+      "ebook",
+      "korean",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1429824275",
+    "createdAt": "2026-10-23T00:22:50.673Z"
+  },
+  {
+    "slug": "prism-github-2",
+    "title": "prism",
+    "shortDescription": "Free AI that codes, beautifully. No subscription, no card, no account.",
+    "fullDescription": "Free AI that codes, beautifully. No subscription, no card, no account.\n\nАвтор: sjdsjadjajdjsa. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/sjdsjadjajdjsa/prism",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "cli",
+      "coding-assistant",
+      "docker",
+      "free",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1429518583",
+    "createdAt": "2026-10-23T00:22:50.673Z"
+  },
+  {
+    "slug": "ai-jailbreak-prompts-github",
+    "title": "ai-jailbreak-prompts",
+    "shortDescription": "AI Jailbreak Prompts for ChatGPT, Claude, Gemini, Grok, Deepseek, Qwen & More",
+    "fullDescription": "AI Jailbreak Prompts for ChatGPT, Claude, Gemini, Grok, Deepseek, Qwen & More\n\nАвтор: Stealth-Coder44. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://discord.gg/sSZA24P8Ek",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-jailbreak",
+      "ai-jailbreak-assistant",
+      "ai-jailbreak-collection",
+      "ai-jailbreak-free",
+      "ai-jailbreak-master-list",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1430205696",
+    "createdAt": "2026-10-23T00:22:50.673Z"
+  },
+  {
+    "slug": "skills-github-6",
+    "title": "skills",
+    "shortDescription": "A collection of reusable Agent Skills for AI coding agents, covering debugging, code review, testing, security, DevOps, documentation, and…",
+    "fullDescription": "A collection of reusable Agent Skills for AI coding agents, covering debugging, code review, testing, security, DevOps, documentation, and software development workflows. Open source, community-driven, and built on the Agent Skills standard.\n\nАвтор: OpenSelfHosting. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/OpenSelfHosting/skills",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-agents-and-tools",
+      "ai-agents-cli",
+      "claude",
+      "claude-code",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1430212263",
+    "createdAt": "2026-10-23T00:22:50.673Z"
+  },
+  {
+    "slug": "ai-handbook-github",
+    "title": "ai-handbook",
+    "shortDescription": "AI 手册：从入门到精通 —— 学 AI（六站课程 · 学习路径）· AI 工具（常用产品档案 · 同一套维度对比）· AI 模型（开源闭源谱系 · 训练 · 量化部署）。中文为主，中英双语，每条判断带官方出处。How to learn AI, then use it, the…",
+    "fullDescription": "AI 手册：从入门到精通 —— 学 AI（六站课程 · 学习路径）· AI 工具（常用产品档案 · 同一套维度对比）· AI 模型（开源闭源谱系 · 训练 · 量化部署）。中文为主，中英双语，每条判断带官方出处。How to learn AI, then use it, then run it — with sources.\n\nАвтор: speculcom. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://learn.specul.com",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-models",
+      "ai-tools",
+      "artificial-intelligence",
+      "chinese",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1427826591",
+    "createdAt": "2026-10-23T00:22:50.673Z"
+  },
+  {
+    "slug": "catt-021-test-agentsservices-against-a-museinstinct-alike-in-ci-hn",
+    "title": "CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
+    "shortDescription": "Hey HN, we recently open sourced our Consumer Agent Testing Tool to help teams iterate against proprietary assistants like Muse and Instinc…",
+    "fullDescription": "Hey HN, we recently open sourced our Consumer Agent Testing Tool to help teams iterate against proprietary assistants like Muse and Instinct. We built this to reduce our own frustrations with building an MCP&#x2F;API for these agents to consume. The problem: testing against these tools is hard! Agent memory + account statefulness make reproducibility, in the ways required for repeatable&#x2F;reliable outcomes, between agents and the APIs&#x2F;MCPs they interact with very challenging. The solution: CATT lets devs test their services against a surrogate Muse or Instinct agent (not affiliated with either of these companies). Testers define starting conditions, approvals, and success conditions for their service&#x27;s state. CATT then records the full interaction (incl. tool calls, responses) so it can diff what happened from what the agent reports. Runs can be tested in local builds or via CI, with or without LLM backing. CATT is designed to emulate the important parts of personal assistant interactions. Its got: - Tool calls and command-line tool access - Simulated approvals for service actions - Outcomes tracking and comparison - Optional MCP profile based on an unofficial Muse template There are limitations to how much we know about different assistant specific behaviors so the tool labels its assumptions as `documented`, `unofficial`, `assumed` or `unknown` for developer review. We&#x27;ll do our best to keep the tool updated as new insights about the internal workings of these assistants come to light. It is an area of active research and interest, a good example is this recent report on how Instinct uses Exa for web search [0]. Are you building a connector or MCP? If yes, we&#x27;d like to hear from you! Have you had assistants behave incoherently, use stale information, or procalim success without evidence? What else should we add tests for? The best way to get started is...to point your coding assistant at the repo and ask it to integrate the tool with your CI or local testing pipeline! Hope it&#x27;s helpful! [0]: https:&#x2F;&#x2F;www.sunbeam.ai&#x2F;thoughts&#x2F;instinct-is-using-exa-for-we...\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://github.com/Coverage-Cat/consumer-agent-testing-tool",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50201860",
+    "createdAt": "2026-10-23T00:22:50.416Z"
+  },
+  {
+    "slug": "stumble-upon-for-ai-news-hn",
+    "title": "Stumble Upon for AI News",
+    "shortDescription": "I built an AI news tabulator. Inspired by Stumble Upon from years ago. Cheers.",
+    "fullDescription": "I built an AI news tabulator. Inspired by Stumble Upon from years ago. Cheers.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://ainews247.org/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50201754",
+    "createdAt": "2026-10-23T00:22:50.416Z"
+  },
+  {
     "slug": "mnema-github",
     "title": "Mnema",
     "shortDescription": "A free AI interface with memory, local agents and multitasking. One memory for Claude, ChatGPT, Gemini and local models — on your computer.",
