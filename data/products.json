@@ -1,5 +1,217 @@
 [
   {
+    "slug": "call-of-duty-modern-warfare-resocket-4-fps-optimizer-github",
+    "title": "call-of-duty-modern-warfare-resocket-4-fps-optimizer",
+    "shortDescription": "Lightweight desktop tool for Call of Duty: Modern Warfare 4. Smart FPS optimization, performance tuning, process management and real-time m…",
+    "fullDescription": "Lightweight desktop tool for Call of Duty: Modern Warfare 4. Smart FPS optimization, performance tuning, process management and real-time monitoring. Designed to improve frame rates and stability. Regularly updated.\n\nАвтор: Demonwave56032. Найдено в GitHub Trending (AI-тематика). ⭐ 29 звёзд.",
+    "url": "https://github.com/Demonwave56032/call-of-duty-modern-warfare-resocket-4-fps-optimizer",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "fps-booster-exe",
+      "fps-booster-for-games",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1430699587",
+    "createdAt": "2026-10-23T10:22:15.774Z"
+  },
+  {
+    "slug": "interviewcopilot-rpocket-team-github",
+    "title": "InterviewCopilot-rpocket-team",
+    "shortDescription": "EdTech application designed to bridge the gap between learning and landing your dream job",
+    "fullDescription": "EdTech application designed to bridge the gap between learning and landing your dream job\n\nАвтор: Cinderubasp. Найдено в GitHub Trending (AI-тематика). ⭐ 29 звёзд.",
+    "url": "https://github.com/Cinderubasp/InterviewCopilot-rpocket-team",
+    "category": "chatbot",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "api",
+      "application",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1430700661",
+    "createdAt": "2026-10-23T10:22:15.774Z"
+  },
+  {
+    "slug": "dafeiyu-cleaner-github",
+    "title": "dafeiyu-cleaner",
+    "shortDescription": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论…",
+    "fullDescription": "DeepSeek 蓝色大肥鱼消除计划：识别并清理 B 站（Bilibili）评论区中由 DeepSeek 大模型、AI Agent 驱动的机器人账号（大肥鱼）的 Chrome / Edge / Firefox 浏览器插件。离线规则 + DeepSeek API 精判，AI 评论检测、空间主页鉴定、鲸鱼娘一键清场。DeepSeek AI bot detector for Bilibili comments.\n\nАвтор: liyupi. Найдено в GitHub Trending (AI-тематика). ⭐ 20 звёзд.",
+    "url": "https://www.bilibili.com/video/BV1Ywn46EEyF",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-content-detection",
+      "ai-detection",
+      "aigc",
+      "anti-spam",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1430540130",
+    "createdAt": "2026-10-23T10:22:15.774Z"
+  },
+  {
+    "slug": "aseprite-mcp-live-github",
+    "title": "aseprite-mcp-live",
+    "shortDescription": "连接 AI 与 Aseprite 的 MCP 服务，支持实时读取和编辑未保存画布、图像预览、撤销重做及基础动画，保留 CLI 文件批处理能力，让人与 AI 在同一文档中协作创作像素画；An MCP server connecting AI to Aseprite for col…",
+    "fullDescription": "连接 AI 与 Aseprite 的 MCP 服务，支持实时读取和编辑未保存画布、图像预览、撤销重做及基础动画，保留 CLI 文件批处理能力，让人与 AI 在同一文档中协作创作像素画；An MCP server connecting AI to Aseprite for collaborative pixel art, with live canvas editing, unsaved document access, image previews, undo/redo, basic animation, and CLI batch processing\n\nАвтор: greenlogs. Найдено в GitHub Trending (AI-тематика). ⭐ 10 звёзд.",
+    "url": "https://github.com/greenlogs/aseprite-mcp-live",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "aseprite",
+      "aseprite-script",
+      "llm",
+      "lua",
+      "mcp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1429556812",
+    "createdAt": "2026-10-23T10:22:15.774Z"
+  },
+  {
+    "slug": "universal-ai-starter-github",
+    "title": "universal-ai-starter",
+    "shortDescription": "The Universal AI Development Operating System (AI-OS) for Cursor, Claude Code, Antigravity & Copilot. Stop AI amnesia and context drift wit…",
+    "fullDescription": "The Universal AI Development Operating System (AI-OS) for Cursor, Claude Code, Antigravity & Copilot. Stop AI amnesia and context drift with an in-repo framework featuring quota-safe handover, 4 golden disciplines, PreToolUse guard hooks, and slash commands.\n\nАвтор: vantu1998. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/vantu1998/universal-ai-starter/releases/tag/v1.3.0",
+    "category": "chatbot",
+    "tags": [
+      "agentic-workflows",
+      "ai",
+      "ai-agents",
+      "ai-coding",
+      "antigravity",
+      "claude-code",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1430596944",
+    "createdAt": "2026-10-23T10:22:15.775Z"
+  },
+  {
+    "slug": "tradingview-chartsense-github",
+    "title": "tradingview-chartsense",
+    "shortDescription": "Drop a TradingView screenshot, get a plain-English technical read with levels, a TradingView-style gauge and an auditable confidence score.…",
+    "fullDescription": "Drop a TradingView screenshot, get a plain-English technical read with levels, a TradingView-style gauge and an auditable confidence score. Local-first Next.js. Your API key only ever goes to your provider.\n\nАвтор: 85599. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/85599/tradingview-chartsense",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "chart-analysis",
+      "llm",
+      "local-first",
+      "nextjs",
+      "nifty50",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1430752209",
+    "createdAt": "2026-10-23T10:22:15.775Z"
+  },
+  {
+    "slug": "kronlstm-walkthrough-hn",
+    "title": "KronLSTM Walkthrough",
+    "shortDescription": "KronLSTM launched! KronLSTM is built on the Kronecker Delta Rule: instead of correcting the vector stored at a key, it corrects a single sc…",
+    "fullDescription": "KronLSTM launched! KronLSTM is built on the Kronecker Delta Rule: instead of correcting the vector stored at a key, it corrects a single scalar, how strongly this key is bound to this value. An existing association is disturbed only if both its key AND its value overlap with the new pair (Klambauer). Enjoy a short walkthrough of the net.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://kron-lstm.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50206431",
+    "createdAt": "2026-10-23T10:22:15.516Z"
+  },
+  {
+    "slug": "kucedr-was-friday-a-desktop-ai-agent-that-runs-on-your-machine-hn",
+    "title": "Kucedr (was Friday) – a desktop AI agent that runs on your machine",
+    "shortDescription": "Проект «Kucedr (was Friday) – a desktop AI agent that runs on your machine», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Kucedr (was Friday) – a desktop AI agent that runs on your machine», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.kucedr.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50206354",
+    "createdAt": "2026-10-23T10:22:15.516Z"
+  },
+  {
+    "slug": "kuron-a-5-device-airline-system-from-one-prompt-no-code-generated-hn",
+    "title": "Kuron – A 5-device airline system from one prompt, no code generated",
+    "shortDescription": "Проект «Kuron – A 5-device airline system from one prompt, no code generated», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Kuron – A 5-device airline system from one prompt, no code generated», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://claude.ai/artifact/UMMbf2FcV3ULi6d5WaW1yp",
+    "category": "no-code",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50205523",
+    "createdAt": "2026-10-23T10:22:15.516Z"
+  },
+  {
+    "slug": "audimind-create-audiobooks-in-one-ai-powered-workspace-hn",
+    "title": "Audimind – Create audiobooks in one AI-powered workspace",
+    "shortDescription": "Проект «Audimind – Create audiobooks in one AI-powered workspace», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Audimind – Create audiobooks in one AI-powered workspace», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.audimind.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50205393",
+    "createdAt": "2026-10-23T10:22:15.517Z"
+  },
+  {
+    "slug": "an-automated-news-site-distribute-software-hn",
+    "title": "An automated news site Distribute Software",
+    "shortDescription": "I wanted to see what it would look like building a fully automated news site monitoring different newsrooms, desks, feeds etc on the web. C…",
+    "fullDescription": "I wanted to see what it would look like building a fully automated news site monitoring different newsrooms, desks, feeds etc on the web. Creating an aggregator of aggregators. There is some AI utilized here, the new Deepseek API for search, classifiers from Cloudflare (and mostly hosted here). With almost 0 work. Amazing what you can spin up in an evening these days.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://distribute.software/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50204971",
+    "createdAt": "2026-10-23T10:22:15.517Z"
+  },
+  {
     "slug": "apple-music-effect-github",
     "title": "apple-music-effect",
     "shortDescription": "Recreates the new Apple Music liquid brand identity with webgl + opus 5.5.",
