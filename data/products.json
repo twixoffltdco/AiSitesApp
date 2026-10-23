@@ -1,5 +1,107 @@
 [
   {
+    "slug": "anythingllm-desktop-github",
+    "title": "AnythingLLM-Desktop",
+    "shortDescription": "AnythingLLM Desktop — The enhanced all-in-one AI desktop app.",
+    "fullDescription": "AnythingLLM Desktop — The enhanced all-in-one AI desktop app.\n\nАвтор: QuickButlerPace65. Найдено в GitHub Trending (AI-тематика). ⭐ 13 звёзд.",
+    "url": "https://github.com/QuickButlerPace65/AnythingLLM-Desktop",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-assistants",
+      "aws",
+      "chatbot",
+      "desktop-app",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1431583397",
+    "createdAt": "2026-10-23T22:30:13.285Z"
+  },
+  {
+    "slug": "codex-quota-tracker-garmin-watch-face-hn",
+    "title": "Codex quota tracker Garmin watch face",
+    "shortDescription": "I think I&#x27;m not alone with that quota-based AI subscriptions have given me a new hobby: checking how many tokens I have left. How’s my…",
+    "fullDescription": "I think I&#x27;m not alone with that quota-based AI subscriptions have given me a new hobby: checking how many tokens I have left. How’s my 5-hour and 7-day limits? When’s the next reset? Can this task wait, or should I use a smaller model? I used to check my Garmin for steps and heart rate. Now I’ve built a watch face to track my AI usage limits and reset countdowns too. The idea was to make it very easy to add usage data from other vendors as well.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/greg76/token-quota/tree/main",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50216187",
+    "createdAt": "2026-10-23T22:30:13.427Z"
+  },
+  {
+    "slug": "aisniff-underline-the-phrases-in-a-text-that-read-like-ai-wrote-them-hn",
+    "title": "AiSniff, underline the phrases in a text that read like AI wrote them",
+    "shortDescription": "Проект «AiSniff, underline the phrases in a text that read like AI wrote them», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AiSniff, underline the phrases in a text that read like AI wrote them», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Arthur031221/AiSniff",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50215712",
+    "createdAt": "2026-10-23T22:30:13.427Z"
+  },
+  {
+    "slug": "i-trained-a-160m-code-model-on-one-gpu-and-got-2256-on-humaneval-hn",
+    "title": "I trained a 160M code model on one GPU and got 22.56% on HumanEval",
+    "shortDescription": "Проект «I trained a 160M code model on one GPU and got 22.56% on HumanEval», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I trained a 160M code model on one GPU and got 22.56% on HumanEval», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://jakubcwirlej.com/ai-dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50215711",
+    "createdAt": "2026-10-23T22:30:13.427Z"
+  },
+  {
+    "slug": "ai-detector-that-is-private-free-and-unlimited-use-hn",
+    "title": "AI Detector that is private, free and unlimited use",
+    "shortDescription": "Проект «AI Detector that is private, free and unlimited use», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Detector that is private, free and unlimited use», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://kouh.me/ai-text-detector",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50215330",
+    "createdAt": "2026-10-23T22:30:13.427Z"
+  },
+  {
+    "slug": "argus-run-ai-agents-unattended-on-a-vps-controlled-from-web-tlgrm-hn",
+    "title": "Argus – Run AI agents unattended on a VPS, controlled from Web & Tlgrm",
+    "shortDescription": "Проект «Argus – Run AI agents unattended on a VPS, controlled from Web & Tlgrm», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Argus – Run AI agents unattended on a VPS, controlled from Web & Tlgrm», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/rla-labs/argus",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50214205",
+    "createdAt": "2026-10-23T22:30:13.427Z"
+  },
+  {
     "slug": "mind-cleaner-github",
     "title": "Mind-Cleaner",
     "shortDescription": "Fast, lightweight mind-map desktop app with AI map generation — Rust + Tauri, Persian & English",
