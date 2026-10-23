@@ -1,5 +1,139 @@
 [
   {
+    "slug": "mind-cleaner-github",
+    "title": "Mind-Cleaner",
+    "shortDescription": "Fast, lightweight mind-map desktop app with AI map generation — Rust + Tauri, Persian & English",
+    "fullDescription": "Fast, lightweight mind-map desktop app with AI map generation — Rust + Tauri, Persian & English\n\nАвтор: raminturne. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/raminturne/Mind-Cleaner",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "desktop-app",
+      "mind-map",
+      "persian",
+      "productivity",
+      "rtl",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1431059883",
+    "createdAt": "2026-10-23T19:26:21.216Z"
+  },
+  {
+    "slug": "instant-local-ai-search-with-a-95-hit-rate-uses-perplexity-models-hn",
+    "title": "Instant – Local AI search with a 95% hit rate (uses Perplexity models)",
+    "shortDescription": "Hi HN! Instant Search is the first accurate local AI file search that uses the latest embedding models from Perplexity to find the exact fi…",
+    "fullDescription": "Hi HN! Instant Search is the first accurate local AI file search that uses the latest embedding models from Perplexity to find the exact file (and page) with the content you’re looking for with a 95% hit rate. Search never worked properly, especially with local files. Now, you can find the right image, document, or Obsidian file in seconds. Looking for your driver’s license? Just type “driver’s license”. Looking for a particular note? Just explain the context. Why not Finder&#x2F;Spotlight? Spotlight is just a keyword search. It doesn’t understand file content. Instant finds the exact file you’re describing in under a second. Why not RAG? Traditional RAG models give you a single embedding vector per entire body of text. That means either you have a vector that’s not detailed enough to give you an accurate semantic representation, or it’s too precise and doesn’t contain enough surrounding context. Instant circumvents these problems by relying on a bidirectional late-interaction embedding model that works flawlessly. How much space does indexing need? An average library of content needs less than 1GB of disk space. Check it out, share with friends, and let me know your feedback! It&#x27;s free.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://useinstantsearch.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50213691",
+    "createdAt": "2026-10-23T19:26:20.849Z"
+  },
+  {
+    "slug": "the-cost-of-slop-subscription-adjusted-hn",
+    "title": "The cost of slop. Subscription-adjusted",
+    "shortDescription": "All the AI model analytics website show how much the models cost at API pricing. I adjusted the cost based on what value the subscriptions…",
+    "fullDescription": "All the AI model analytics website show how much the models cost at API pricing. I adjusted the cost based on what value the subscriptions actually offer (e.g. Codex got nerfed hard recently). Ofc this is based on incomplete data, but it&#x27;s the best we have right now I believe!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://slopsidy.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50213599",
+    "createdAt": "2026-10-23T19:26:20.849Z"
+  },
+  {
+    "slug": "lcc-compact-claude-code-sessions-without-summarizing-them-hn",
+    "title": "Lcc – compact Claude Code sessions without summarizing them",
+    "shortDescription": "Проект «Lcc – compact Claude Code sessions without summarizing them», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Lcc – compact Claude Code sessions without summarizing them», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/lucasmartins-ai/lcc",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50213585",
+    "createdAt": "2026-10-23T19:26:20.849Z"
+  },
+  {
+    "slug": "ai-data-footprint-tracker-audit-what-your-ai-tools-hold-offline-hn",
+    "title": "AI Data Footprint Tracker – audit what your AI tools hold, offline",
+    "shortDescription": "Проект «AI Data Footprint Tracker – audit what your AI tools hold, offline», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Data Footprint Tracker – audit what your AI tools hold, offline», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://theaioperatorstore.gumroad.com/l/womuyx",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50213538",
+    "createdAt": "2026-10-23T19:26:20.849Z"
+  },
+  {
+    "slug": "upa-an-explicit-organizational-model-for-humans-and-ai-hn",
+    "title": "UPA – An explicit organizational model for humans and AI",
+    "shortDescription": "Проект «UPA – An explicit organizational model for humans and AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «UPA – An explicit organizational model for humans and AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/julianfromano/upa-organization-brain",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50213379",
+    "createdAt": "2026-10-23T19:26:20.849Z"
+  },
+  {
+    "slug": "koala-run-ai-agents-in-isolated-linux-vms-on-macos-hn",
+    "title": "Koala – Run AI Agents in Isolated Linux VMs on macOS",
+    "shortDescription": "Проект «Koala – Run AI Agents in Isolated Linux VMs on macOS», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Koala – Run AI Agents in Isolated Linux VMs on macOS», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://kunalkushwaha.github.io/homebrew-koala/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50211429",
+    "createdAt": "2026-10-23T19:26:20.849Z"
+  },
+  {
+    "slug": "anyone-else-frustrated-with-mermaid-diagrams-hn",
+    "title": "Anyone else frustrated with mermaid diagrams?",
+    "shortDescription": "I’ve been struggling with Mermaid in Markdown for a while. I appreciate the technical finesse of its rendering, but the diagrams are often…",
+    "fullDescription": "I’ve been struggling with Mermaid in Markdown for a while. I appreciate the technical finesse of its rendering, but the diagrams are often unreadable. So we wrote an alternative that is optimized for MCP and LLMs while still looking good to humans. The LLM can position elements, and it stays Markdown-compatible. It’s MIT licensed, and I hope you can use it. our rational: https:&#x2F;&#x2F;uberblick.ai&#x2F;blog&#x2F;2026&#x2F;why-we-dropped-mermaid Cheers\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/uberblick-ai/ablauf",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50211015",
+    "createdAt": "2026-10-23T19:26:20.849Z"
+  },
+  {
     "slug": "verity-enhanced-github",
     "title": "verity-enhanced",
     "shortDescription": "Unofficial Enhanced Edition of the Verity Minecraft mod. Upgraded AI, new scenarios, multiple endings, and support for Forge 1.18 - 1.21.11",
