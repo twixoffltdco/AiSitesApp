@@ -1,5 +1,91 @@
 [
   {
+    "slug": "awesome-ai-tools-for-game-dev-github",
+    "title": "awesome-ai-tools-for-game-dev",
+    "shortDescription": "Curated list of AI tools for game developers: 3D/2D assets, sprites, animation, voice, music, AI NPCs, engine assistants & MCP servers, pla…",
+    "fullDescription": "Curated list of AI tools for game developers: 3D/2D assets, sprites, animation, voice, music, AI NPCs, engine assistants & MCP servers, playtesting. 2026 refresh of simoninithomas' list.\n\nАвтор: aigamedevs. Найдено в GitHub Trending (AI-тематика). ⭐ 9 звёзд.",
+    "url": "https://github.com/aigamedevs/awesome-ai-tools-for-game-dev",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "awesome",
+      "awesome-list",
+      "game-development",
+      "gamedev",
+      "generative-ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1431523549",
+    "createdAt": "2026-10-24T05:38:42.008Z"
+  },
+  {
+    "slug": "pilely-build-and-ship-web-apps-within-your-ai-chat-hn",
+    "title": "Pilely – Build and ship web apps within your AI chat",
+    "shortDescription": "Проект «Pilely – Build and ship web apps within your AI chat», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Pilely – Build and ship web apps within your AI chat», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://pilely.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50218573",
+    "createdAt": "2026-10-24T05:38:41.693Z"
+  },
+  {
+    "slug": "a-map-of-outdoor-gyms-and-pull-up-bars-hn",
+    "title": "A map of outdoor gyms and pull-up bars",
+    "shortDescription": "I&#x27;ve been training mostly outside for over a decade. I spent a decent amount of time in front of a screen, so it&#x27;s usually a good…",
+    "fullDescription": "I&#x27;ve been training mostly outside for over a decade. I spent a decent amount of time in front of a screen, so it&#x27;s usually a good opportunity to get some sun and fresh air. I used https:&#x2F;&#x2F;calisthenics-parks.com&#x2F; for most of that time, but it was always slow and clunky. And then they took the site offline. So, I built this: a map of 25k+ outdoor gyms, pull-up bars, and other exercise stations all over the world. Maybe that&#x27;s helpful to others.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://openairworkout.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50218188",
+    "createdAt": "2026-10-24T05:38:41.693Z"
+  },
+  {
+    "slug": "inference-cooperative-user-governed-ai-hn",
+    "title": "Inference Cooperative, user-governed AI",
+    "shortDescription": "Проект «Inference Cooperative, user-governed AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Inference Cooperative, user-governed AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://inference.coop/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50218142",
+    "createdAt": "2026-10-24T05:38:41.693Z"
+  },
+  {
+    "slug": "web-bot-auth-sdk-and-ssh-utilty-hn",
+    "title": "Web Bot Auth SDK and SSH Utilty",
+    "shortDescription": "Launched a beta&#x2F;buggy version of the SDK for web bot auth, and it&#x27;s live at https:&#x2F;&#x2F;messh.io Inspired by https:&#x2F;&#…",
+    "fullDescription": "Launched a beta&#x2F;buggy version of the SDK for web bot auth, and it&#x27;s live at https:&#x2F;&#x2F;messh.io Inspired by https:&#x2F;&#x2F;datatracker.ietf.org&#x2F;wg&#x2F;webbotauth&#x2F;documents&#x2F; While solving this, I realized it solves the hassle of adding SSH keys, the overhead of copy-pasting n number of times to a remote server; just do messh add amul It will automatically search for Amul&#x27;s public key and add it to my server Do try if you find it interesting. But the main product aim is to solve web bot auth for agentic traffic\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://messh.io",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50218119",
+    "createdAt": "2026-10-24T05:38:41.693Z"
+  },
+  {
     "slug": "37studio-github",
     "title": "37studio",
     "shortDescription": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-h…",
