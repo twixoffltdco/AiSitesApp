@@ -1,5 +1,65 @@
 [
   {
+    "slug": "tokenbar-github",
+    "title": "TokenBar",
+    "shortDescription": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutte…",
+    "fullDescription": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutter.\n\nАвтор: lwh0630. Найдено в GitHub Trending (AI-тематика). ⭐ 9 звёзд.",
+    "url": "https://github.com/lwh0630/TokenBar",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "android",
+      "claude",
+      "codex",
+      "cursor",
+      "dart",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1431932080",
+    "createdAt": "2026-10-24T14:04:17.384Z"
+  },
+  {
+    "slug": "cutvii-github",
+    "title": "cutvii",
+    "shortDescription": "CutVii - Creative editing. Flexible workflow. On-device AI",
+    "fullDescription": "CutVii - Creative editing. Flexible workflow. On-device AI\n\nАвтор: zidniryi. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://cutvii.space",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "cross-platform",
+      "ffmeg",
+      "karaoke",
+      "karaoke-application",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1429770615",
+    "createdAt": "2026-10-24T14:04:17.384Z"
+  },
+  {
+    "slug": "mantid-a-mac-app-that-lets-non-ml-people-train-their-own-ai-models-hn",
+    "title": "Mantid, a Mac app that lets non-ML people train their own AI models",
+    "shortDescription": "Проект «Mantid, a Mac app that lets non-ML people train their own AI models», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Mantid, a Mac app that lets non-ML people train their own AI models», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://mantid.dev",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50220773",
+    "createdAt": "2026-10-24T14:04:17.180Z"
+  },
+  {
     "slug": "local-ai-for-dictation-meetings-background-tasks-and-more-hn",
     "title": "Local AI for dictation, meetings, background tasks and more",
     "shortDescription": "Проект «Local AI for dictation, meetings, background tasks and more», опубликован сообществом Hacker News.",
