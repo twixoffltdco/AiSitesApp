@@ -1,5 +1,75 @@
 [
   {
+    "slug": "kubic-github-2",
+    "title": "kubic",
+    "shortDescription": "Agentic coding, in your control",
+    "fullDescription": "Agentic coding, in your control\n\nАвтор: konic-labs. Найдено в GitHub Trending (AI-тематика). ⭐ 25 звёзд.",
+    "url": "https://konic.io",
+    "category": "developer",
+    "tags": [
+      "agentic-coding",
+      "ai",
+      "ai-agent",
+      "cli",
+      "coding-agent",
+      "developer-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1430016846",
+    "createdAt": "2026-10-24T22:37:31.295Z"
+  },
+  {
+    "slug": "a-client-side-adaptive-cognitive-test-measuring-micro-hesitations-hn",
+    "title": "A client-side adaptive cognitive test measuring micro-hesitations",
+    "shortDescription": "Hi HN! I’m not a software engineer by trade. My background is in behavioral science and human-computer interaction, but I wanted to solve a…",
+    "fullDescription": "Hi HN! I’m not a software engineer by trade. My background is in behavioral science and human-computer interaction, but I wanted to solve a specific problem I found when applying for jobs which is the logical test. They are booooring, easy to cheat on if you really want to and provides very limited information about people. I built this prototype from scratch sing AI to bring my idea to life. So now I&#x27;ve been working on this side project for a Cognitive Adaption Engine (CAT&#x2F;KAT in swedish) for about three weeks. Many pre-employment screening tests i&#x27;ve done use a static item bank and are very liberal with the time allowed on each question, making it easy for Vision LLMs or bots to beat. I wanted to see if I could build a fast, client-side engine (JS&#x2F;SVG) that combats this problem by measuring certain biometric cognitive signatures like &quot;switch cost&quot; (how long it takes for your brain to re-adjust when logical rules change) and &quot;post error-slowing&quot;. To go beyond the simple grading of correct&#x2F;incorrect, this test dynamically gives you waves of patterns&#x2F;challenges through a local item bank based on your millisecond response times. If you use an LLM, the constant latencies gets punished with a lower score. If they use a script, the complete lack of natural human variance will be picked up on. I am currently trying to calibrate a baseline and need high-aptitude users to stress-test it and to provide more data. It also makes it very fast to complete. Everything runs 100% locally in your browser and since I did use AI, I would love your feedback on how the architecture holds up and the technical approach to anti-cheating or anything that comes to mind on this topic. (Optional) When you finish the test, you can press Ctrl + Shift + X on the results page which unlocks a hidden admin console. There you can see more info on your performance and even download a HR-pdf that translate your data into three tailored interview questions. Unfortunately the admin page is in Swedish, but I believe you will get the idea.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://kat-assessment.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50225764",
+    "createdAt": "2026-10-24T22:37:31.080Z"
+  },
+  {
+    "slug": "perch-a-calm-mac-app-for-juggling-claude-code-sessions-hn",
+    "title": "Perch, a calm Mac app for juggling Claude Code sessions",
+    "shortDescription": "I&#x27;m an engineer, but I also hate using tools that make things overcomplicated. It&#x27;s also tough with the new pace of AI-driven dev…",
+    "fullDescription": "I&#x27;m an engineer, but I also hate using tools that make things overcomplicated. It&#x27;s also tough with the new pace of AI-driven development to really get into the flow state, and maintain (still needed!) focus on 1 thing. So I built a tool that I actually want to use every day. Curious if others would find this useful, too, or have any feedback? Like if it&#x27;s nearly there, what changes would make this a win for your workflow? Details: - It&#x27;s a Mac app (Apple Silicon) that runs your Claude Code sessions side by side. Each piece of work gets a &quot;context&quot; with its own session, next steps, status, PRs, and links. - The dashboard groups contexts by whose move it is: yours, waiting on a reviewer or teammate, Claude working, or idle. You get a notification when a session needs you or a PR gets review comments. - For non-engineers, there&#x27;s a Chat view instead of the terminal, a guided Claude Code install, and folder pickers instead of paths. Engineers can stay in the real Claude Code terminal. - It runs the actual claude CLI, and sessions keep running if you quit Perch. You can also import your existing Claude Code sessions. - Everything stays on your Mac. There&#x27;s no account and no analytics, and crash reports are opt-in.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://perchfocus.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50225233",
+    "createdAt": "2026-10-24T22:37:31.080Z"
+  },
+  {
+    "slug": "claude-codeand-others-embedded-in-your-app-hn",
+    "title": "Claude Code(and others) embedded in your app",
+    "shortDescription": "I started this project in 2024 when I got fascinated with LLMs, and what I did was a coding agent (CLI -&gt; interactive -&gt; GUI). I also…",
+    "fullDescription": "I started this project in 2024 when I got fascinated with LLMs, and what I did was a coding agent (CLI -&gt; interactive -&gt; GUI). I also added an integration with Vite for having it embedded inside my apps(mostly games). Few months ago I pivoted it to become a low profile AI provider wrapper library (think jQuery for LLM usage), because I realized there is no point to have custom coding agent. Recently I did yet another pivot, and now it is a solution that allows you to embed Claude Code inside of your app, and use it directly from there for 1. development, 2. every day ops and automate the tasks in the app In theory all you need to try it is this command: `npx genaicode embed`, I wonder if anyone would like to give it a try, and let me know how it worked!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/gtanczyk/genaicode",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50225165",
+    "createdAt": "2026-10-24T22:37:31.081Z"
+  },
+  {
     "slug": "arkdraw-github-2",
     "title": "arkdraw",
     "shortDescription": "Arkdraw is an open-source diagramming app for creating flowcharts, UML, ER diagrams, network maps, wireframes, and mind maps with a built-i…",
