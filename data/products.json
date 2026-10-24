@@ -1,5 +1,85 @@
 [
   {
+    "slug": "local-ai-for-dictation-meetings-background-tasks-and-more-hn",
+    "title": "Local AI for dictation, meetings, background tasks and more",
+    "shortDescription": "Проект «Local AI for dictation, meetings, background tasks and more», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Local AI for dictation, meetings, background tasks and more», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://sideos.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50219166",
+    "createdAt": "2026-10-24T10:15:37.817Z"
+  },
+  {
+    "slug": "inspect-ai-recommendation-evidence-and-turn-findings-into-website-tasks-hn",
+    "title": "Inspect AI recommendation evidence and turn findings into website tasks",
+    "shortDescription": "Проект «Inspect AI recommendation evidence and turn findings into website tasks», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Inspect AI recommendation evidence and turn findings into website tasks», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aicitewho.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50219085",
+    "createdAt": "2026-10-24T10:15:37.817Z"
+  },
+  {
+    "slug": "let-your-ai-agent-put-things-on-a-screen-hn",
+    "title": "Let your AI agent put things on a screen",
+    "shortDescription": "Проект «Let your AI agent put things on a screen», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Let your AI agent put things on a screen», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://console.usetd.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50218670",
+    "createdAt": "2026-10-24T10:15:37.817Z"
+  },
+  {
+    "slug": "code-counter-machine-a-modern-analysis-of-ai-driven-development-costs-hn",
+    "title": "Code Counter Machine a modern analysis of AI driven development costs",
+    "shortDescription": "I worked a lot of cloc, sloc and scc and used them for various usage. But with AI driven development some of the models COCOMO I and II mig…",
+    "fullDescription": "I worked a lot of cloc, sloc and scc and used them for various usage. But with AI driven development some of the models COCOMO I and II might not be that relevant. So built a new cli ccm short for code counter machine. Documentation: https:&#x2F;&#x2F;insanai.github.io&#x2F;ccm&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/insanai/ccm",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50218624",
+    "createdAt": "2026-10-24T10:15:37.817Z"
+  },
+  {
+    "slug": "latch-make-any-website-usable-by-ai-agents-in-one-line-webmcp-hn",
+    "title": "Latch – Make any website usable by AI agents in one line (WebMCP)",
+    "shortDescription": "Проект «Latch – Make any website usable by AI agents in one line (WebMCP)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Latch – Make any website usable by AI agents in one line (WebMCP)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://latch.tools/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50218601",
+    "createdAt": "2026-10-24T10:15:37.817Z"
+  },
+  {
     "slug": "awesome-ai-tools-for-game-dev-github",
     "title": "awesome-ai-tools-for-game-dev",
     "shortDescription": "Curated list of AI tools for game developers: 3D/2D assets, sprites, animation, voice, music, AI NPCs, engine assistants & MCP servers, pla…",
