@@ -1,5 +1,129 @@
 [
   {
+    "slug": "arkdraw-github",
+    "title": "arkdraw",
+    "shortDescription": "OpenDraw is an open-source diagramming app for creating flowcharts, UML, ER diagrams, network maps, wireframes, and mind maps with a built-…",
+    "fullDescription": "OpenDraw is an open-source diagramming app for creating flowcharts, UML, ER diagrams, network maps, wireframes, and mind maps with a built-in AI assistant that generates and edits diagrams from natural-language prompts.\n\nАвтор: gabe-santana. Найдено в GitHub Trending (AI-тематика). ⭐ 31 звёзд.",
+    "url": "https://github.com/gabe-santana/opendraw/releases/latest",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "architecture-diagrams",
+      "aws",
+      "azure",
+      "diagram",
+      "diagram-editor",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1431430280",
+    "createdAt": "2026-10-24T17:31:27.622Z"
+  },
+  {
+    "slug": "run-ai-locally-github",
+    "title": "Run-AI-Locally",
+    "shortDescription": "Run ChatGPT-style AI for free, offline and private on your own laptop. Beginner guide + a Windows tool that picks the right model for your…",
+    "fullDescription": "Run ChatGPT-style AI for free, offline and private on your own laptop. Beginner guide + a Windows tool that picks the right model for your hardware.\n\nАвтор: cosmos-droid117. Найдено в GitHub Trending (AI-тематика). ⭐ 10 звёзд.",
+    "url": "https://github.com/cosmos-droid117/Run-AI-Locally",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "apple-silicon",
+      "beginner-friendly",
+      "chatgpt-alternative",
+      "deepseek",
+      "gemma",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1432243723",
+    "createdAt": "2026-10-24T17:31:27.622Z"
+  },
+  {
+    "slug": "lobole-open-source-parametric-cad-that-ai-agents-can-drive-hn",
+    "title": "Loböle, open-source parametric CAD that AI agents can drive",
+    "shortDescription": "I could never get used to FreeCAD, so I built my own. It turns out Claude is really good at using it. Loböle is a parametric B-Rep CAD buil…",
+    "fullDescription": "I could never get used to FreeCAD, so I built my own. It turns out Claude is really good at using it. Loböle is a parametric B-Rep CAD built on OpenCASCADE and Vulkan, with sketches, assemblies, drawings, FEM and CAM. The GUI, Python scripts and AI agents all go through the same commands, so an agent can do anything you can in the GUI. The engine, watch and bicycle in the README were each built by Claude writing a script against it.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/eliasaronson/lobole",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50223070",
+    "createdAt": "2026-10-24T17:31:27.459Z"
+  },
+  {
+    "slug": "orisuji-a-maze-you-solve-by-folding-your-phone-hn",
+    "title": "Orisuji, a maze you solve by folding your phone",
+    "shortDescription": "When Apple announced the iPhone Duo I felt the same excitement that I had felt when I got my first iPhone, way back when. I remember playin…",
+    "fullDescription": "When Apple announced the iPhone Duo I felt the same excitement that I had felt when I got my first iPhone, way back when. I remember playing Tap Tap Revenge, Fruit Ninja and all those other games that really took advantage of the new hardware to create new experiences. I also loved playing cute puzzles like Cut the Rope and Where’s my water. A month ago, I got the itch to build something for the duo, in the lineage of those apps. Something that would be a fun puzzle with a unique game mechanic. I started with a simple premise: what if the cover screen was partly transparent? That could make a fun maze that you have to fold and unfold as you solve it. Orisuji is a turn based paper maze, when the phone is open you have your base maze on the right part of the screen, but the only way to solve it is to figure out when to fold&#x2F;unfold it to create bridges and new routes. Along the way you’ll encounter increasing complex levels: cats and foxes patrolling, doors you need to unlock, platforms you can toggle, and floors that crumble under you. Some fun things I built&#x2F;had to do that aren’t obvious: - I built a web based level editor that runs the game’s rules engine compiled from Swift to wasm. - Every level is validated by a solver that identifies shortest solutions, lints the board and identifies which “tricks” are required to solve it. This helped me a few times when designing levels where I would make a change but accidentally would introduce a shortcut. - Figuring out how to translate the fold mechanic to non iPhone Duos was a cool challenge, I ended up adding a “virtual” on screen fold, which still doesn’t justice to the game. - As much as I would love to have some data on how people play the game, it was super important to me that the game worked totally offline, not collecting any data. It was so incredibly fun to build this, as you can expect I leaned heavily into agentic tools, which enabled me to move pretty fast. Every puzzled was however designed by hand, AIs are not good at “fun”, and from a game design perspective this was the most interesting part to me. The whole game costs $4.99, all 69 levels (and already working on new worlds), no IAP ever. Trailer: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=w98lwzHgGWA If you’ve got a duo (or not) I’d love to hear your feedback. And more than happy to answer anything about building&#x2F;designing it!\n\nНайдено в разделе Show HN на Hacker News. 👍 9 баллов.",
+    "url": "https://apps.apple.com/us/app/orisuji/id6817092898",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50222876",
+    "createdAt": "2026-10-24T17:31:27.459Z"
+  },
+  {
+    "slug": "ai-agent-swarms-test-if-new-cves-are-exploitable-in-your-env-hn",
+    "title": "AI agent swarms test if new CVEs are exploitable in your env",
+    "shortDescription": "Проект «AI agent swarms test if new CVEs are exploitable in your env», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI agent swarms test if new CVEs are exploitable in your env», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://app.enclave.ai/threat-feed",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50222559",
+    "createdAt": "2026-10-24T17:31:27.459Z"
+  },
+  {
+    "slug": "jam-a-platform-where-beginners-can-collaborate-in-music-hn",
+    "title": "Jam – a platform where beginners can collaborate in music",
+    "shortDescription": "I made a website where users who don&#x27;t own an instrument can learn music and collaborate together. There are two main modes : 1) Free…",
+    "fullDescription": "I made a website where users who don&#x27;t own an instrument can learn music and collaborate together. There are two main modes : 1) Free jam mode, where users can play whatever they want freely 2) Song mode, where users play a rhythm game by following falling notes with their chosen instrument. I specifically aimed for young students who haven&#x27;t started learning music yet, so I focused on simplicity and entertainment. I&#x27;d appreciate feedback, especially if there is anything that may be confusing for someone who is new to music.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/hellojunchobo/Jam-music",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50221873",
+    "createdAt": "2026-10-24T17:31:27.459Z"
+  },
+  {
+    "slug": "shotstash-self-hosted-media-cloud-for-creators-mit-byo-ai-hn",
+    "title": "Shotstash – Self-hosted media cloud for creators (MIT, BYO-AI)",
+    "shortDescription": "Проект «Shotstash – Self-hosted media cloud for creators (MIT, BYO-AI)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Shotstash – Self-hosted media cloud for creators (MIT, BYO-AI)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Aldyernesto/shotstash",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50221460",
+    "createdAt": "2026-10-24T17:31:27.459Z"
+  },
+  {
     "slug": "tokenbar-github",
     "title": "TokenBar",
     "shortDescription": "Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows, macOS, Linux, Android and iOS. Built with Flutte…",
