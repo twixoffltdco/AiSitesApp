@@ -1,5 +1,43 @@
 [
   {
+    "slug": "37studio-github",
+    "title": "37studio",
+    "shortDescription": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-h…",
+    "fullDescription": "Open-source AI alternative to Buffer and Opus Clip: Claude Code makes on-brand videos, posts them to 9 platforms and drafts replies. Self-hosted, your own keys.\n\nАвтор: Shaitrish. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://studio.shaitrish.com",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "docker",
+      "golang",
+      "hyperframes",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1430410922",
+    "createdAt": "2026-10-24T00:59:36.248Z"
+  },
+  {
+    "slug": "ai-crash-debugging-gauntlet-hn",
+    "title": "AI Crash Debugging Gauntlet",
+    "shortDescription": "One of the core conceits of ForensicDbg was that if we build a significantly improved crash debugging core, that value would carry through,…",
+    "fullDescription": "One of the core conceits of ForensicDbg was that if we build a significantly improved crash debugging core, that value would carry through, regardless of the final workflow. Our testers have helped us confirm that on the more traditional, visual debugging side. But how do you confirm that for AI debugging workflows? With a crash dump evaluation gauntlet, of course! If you just want the results, or even grab a pdf with the raw testing results, that is all at the bottom.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.forensicdbg.com/post/forensicdbg-s-ai-crash-debugging-gauntlet",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50216641",
+    "createdAt": "2026-10-24T00:59:36.094Z"
+  },
+  {
     "slug": "anythingllm-desktop-github",
     "title": "AnythingLLM-Desktop",
     "shortDescription": "AnythingLLM Desktop — The enhanced all-in-one AI desktop app.",
