@@ -1,5 +1,101 @@
 [
   {
+    "slug": "agenttrust-zero-trust-security-and-human-approvals-for-ai-agents-hn",
+    "title": "AgentTrust – Zero-trust security and human approvals for AI agents",
+    "shortDescription": "Проект «AgentTrust – Zero-trust security and human approvals for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AgentTrust – Zero-trust security and human approvals for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/SRN0129/Agenttrust",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50235909",
+    "createdAt": "2026-10-25T21:03:35.350Z"
+  },
+  {
+    "slug": "mtarip-a-train-visualizer-that-shows-congestion-hn",
+    "title": "MTA.rip: a train visualizer that shows congestion",
+    "shortDescription": "It bugged me recently that the New York City subway countdown clocks show an estimated time that is often inaccurate. Since many of the del…",
+    "fullDescription": "It bugged me recently that the New York City subway countdown clocks show an estimated time that is often inaccurate. Since many of the delays are due to other trains on the same track, I figured: why not just show the trains? Source code: https:&#x2F;&#x2F;github.com&#x2F;fatlotus&#x2F;mta-dot-rip&#x2F; . Disclaimer: This project was written with AI. The code is very hacky, I wouldn&#x27;t use it for learning if you&#x27;re just getting started with Go or JavaScript.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://mta.rip/?station=127&route=1&view=trackmap",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50235759",
+    "createdAt": "2026-10-25T21:03:35.350Z"
+  },
+  {
+    "slug": "hycli-reverse-engineer-websites-into-cli-and-mcp-tools-for-ai-agents-hn",
+    "title": "Hycli – reverse-engineer websites into CLI and MCP tools for AI agents",
+    "shortDescription": "Проект «Hycli – reverse-engineer websites into CLI and MCP tools for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Hycli – reverse-engineer websites into CLI and MCP tools for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Hybirdss/Hycli",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50235425",
+    "createdAt": "2026-10-25T21:03:35.351Z"
+  },
+  {
+    "slug": "sqlite-on-object-storage-using-gcs-appendable-objects-hn",
+    "title": "SQLite-on-object storage using GCS Appendable Objects",
+    "shortDescription": "Recently, I have been playing around with GCS Rapid, a new API in GCS that lets you append to an existing object. It&#x27;s pretty fast, an…",
+    "fullDescription": "Recently, I have been playing around with GCS Rapid, a new API in GCS that lets you append to an existing object. It&#x27;s pretty fast, and it&#x27;s cool that you can do a log-structured merge tree on top to get a durable database without needing to run a server. Disclaimer: I am a Google employee, but this is not an official Google product. Do not use this code in production; it has 0 production airmiles and was written with AI.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/fatlotus/sqlite-on-gcs-rapid",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50235408",
+    "createdAt": "2026-10-25T21:03:35.351Z"
+  },
+  {
+    "slug": "optio-a-self-hosted-orchestration-platform-for-ai-agents-hn",
+    "title": "Optio – A self-hosted orchestration platform for AI agents",
+    "shortDescription": "Hey HN! I shared Optio here back in March. Originally it was focused on getting swarms of coding agents (claude code&#x2F;codex) to drive P…",
+    "fullDescription": "Hey HN! I shared Optio here back in March. Originally it was focused on getting swarms of coding agents (claude code&#x2F;codex) to drive PRs towards a merge by automatically resuming them on CI failures or PR comments. Since then, I&#x27;ve reworked the project to be a general platform for running any kind of AI workflow on your infra by allowing users to configure each component of a possible workflow: When: On demand, a cron schedule, or triggered by external events such as a webhook, slack message, ticket (jira&#x2F;linear&#x2F;gh), pagerduty&#x2F;datadog&#x2F;alertsmanager&#x2F;pylon&#x2F;sentry. Where: In a k8s pod or any machine you have installed the optio daemon on (I use my laptop). Who: Any harness you prefer (Claude Code, Codex, Gemini, Pi, etc.) What&#x2F;Why: You can format parameters from the triggers directly into the prompts and then configure if the agent should exit, be resumed automatically, or be persistent. You can either define workflows in the web ui or as yaml files that get synced to the orchestrator (ai config-as-code). I&#x27;ve also built native iOS and Android apps so you can connect to your cluster and create&#x2F;manage agents remotely. The marketing page is at https:&#x2F;&#x2F;optio.host and the code is still open source at https:&#x2F;&#x2F;github.com&#x2F;jonwiggins&#x2F;optio Would love feedback or any thoughts you might have on how I could make it better!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://optio.host/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50234643",
+    "createdAt": "2026-10-25T21:03:35.351Z"
+  },
+  {
+    "slug": "open-accountant-ai-customizable-budgeting-app-for-freelancers-hn",
+    "title": "Open Accountant – AI-customizable budgeting app for freelancers",
+    "shortDescription": "This is my own very opinionated take on personal accounting &#x2F; budgeting for freelancers and small business owners operating in multipl…",
+    "fullDescription": "This is my own very opinionated take on personal accounting &#x2F; budgeting for freelancers and small business owners operating in multiple currencies. A lot of this is influenced by my circumstances: - consultant &#x2F; freelancer &#x2F; business owner with multiple revenue streams - revenue fluctuates a lot and changes month to month - we&#x27;re nomad, so currencies and shops change a lot, but categories stay stable - mobile and agentic first (PWA and MCP) with good desktop support on top - import from Wise, Plaid (so most banks), CSV, + screenshots and PDFs from mobile apps when all else fails - automatic categorization that does the right thing 90% of the time and learns for your corrections - deployed on a CloudFlare account (free account is usually enough) Think of this as a template - just hand the repo URL to your agent and go wild. This is built to be infinitely malleable and extendable because accounting setups and needs differ so much between people. Extracted from my own heavily used setup after removing all the private and unique bits. May we all take control of our funds, each in our unique way.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/finereli/open-accountant",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50234412",
+    "createdAt": "2026-10-25T21:03:35.351Z"
+  },
+  {
     "slug": "cvengine-github",
     "title": "CVEngine",
     "shortDescription": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP int…",
