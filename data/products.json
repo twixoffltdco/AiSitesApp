@@ -1,5 +1,69 @@
 [
   {
+    "slug": "the-fastest-most-token-efficient-ios-simulator-mcp-for-ai-agents-hn",
+    "title": "The fastest, most token-efficient iOS Simulator MCP for AI agents",
+    "shortDescription": "Проект «The fastest, most token-efficient iOS Simulator MCP for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «The fastest, most token-efficient iOS Simulator MCP for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/NoMac-app/simulator-use",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50231724",
+    "createdAt": "2026-10-25T14:46:41.363Z"
+  },
+  {
+    "slug": "kolo-share-your-ai-coding-sessions-with-anyone-hn",
+    "title": "Kolo – share your AI coding sessions with anyone",
+    "shortDescription": "Проект «Kolo – share your AI coding sessions with anyone», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Kolo – share your AI coding sessions with anyone», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/komovaar/kolo",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50231567",
+    "createdAt": "2026-10-25T14:46:41.363Z"
+  },
+  {
+    "slug": "open-source-cybersecurity-platform-uses-ai-agents-to-protect-businesses-hn",
+    "title": "Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses",
+    "shortDescription": "Проект «Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 15 баллов.",
+    "url": "https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50231486",
+    "createdAt": "2026-10-25T14:46:41.363Z"
+  },
+  {
+    "slug": "find-overlapping-rust-tests-with-mutation-testing-hn",
+    "title": "Find overlapping Rust tests with mutation testing",
+    "shortDescription": "To tackle the ever-increasing number of tests, I built cargo-test-prune. The idea behind it is to use cargo-mutants to generate mutants, an…",
+    "fullDescription": "To tackle the ever-increasing number of tests, I built cargo-test-prune. The idea behind it is to use cargo-mutants to generate mutants, and then solve the set cover problem for those mutants to suggest which tests can be eliminated. (use a greedy algorithm to cover the detected mutants with fewer tests) I came up with this as a countermeasure against the monotonically increasing tests that tend to accumulate, especially when coding with AI. In fact, this very repository was also written using AI. I ran this tool on a previous revision of this repository. There were 11 tests and 108 generated mutants: 73 were caught by the tests, 23 survived, and 12 failed to compile. I removed the 5 tests suggested by the tool and re-ran the same 108 mutants. The remaining 6 tests caught the exact same 73 mutants. Tests partly serve as documentation, so simply applying this isn&#x27;t necessarily recommended, but since writing less code still holds value in the AI era, I think this tool could be quite useful.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://github.com/yasuyuky/cargo-test-prune",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50230702",
+    "createdAt": "2026-10-25T14:46:41.363Z"
+  },
+  {
     "slug": "emblem-github",
     "title": "Emblem",
     "shortDescription": "An open-source, 1:1 rebuild of Monogram AI in SwiftUI. Every answer is a native iPhone page.",
