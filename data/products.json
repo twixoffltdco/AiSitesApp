@@ -1,5 +1,75 @@
 [
   {
+    "slug": "autosdlc-crewai-github",
+    "title": "autosdlc-crewai",
+    "shortDescription": "Multi-agent SDLC generator: CrewAI agents take an idea through planning, design, review, code, tests and deployment, with a live Streamlit…",
+    "fullDescription": "Multi-agent SDLC generator: CrewAI agents take an idea through planning, design, review, code, tests and deployment, with a live Streamlit UI.\n\nАвтор: gurkanucar. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/gurkanucar/autosdlc-crewai",
+    "category": "productivity",
+    "tags": [
+      "agentinc-ai",
+      "ai",
+      "ai-agents",
+      "automation",
+      "crewai",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1431553202",
+    "createdAt": "2026-10-25T00:48:01.600Z"
+  },
+  {
+    "slug": "adrs-for-ai-deliberation-records-for-humanai-work-versioned-in-git-hn",
+    "title": "ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+    "shortDescription": "Проект «ADRs for AI – Deliberation records for human–AI work, versioned in Git», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ADRs for AI – Deliberation records for human–AI work, versioned in Git», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://adrs.systems",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50227041",
+    "createdAt": "2026-10-25T00:48:01.413Z"
+  },
+  {
+    "slug": "sparse-kernel-delivering-36-higher-training-throughput-hn",
+    "title": "Sparse kernel delivering 36% higher training throughput",
+    "shortDescription": "I developed a custom GPU kernel in Triton to accelerate training with a sparse feed-forward network (FFN). With K=256, activating 256 of 4,…",
+    "fullDescription": "I developed a custom GPU kernel in Triton to accelerate training with a sparse feed-forward network (FFN). With K=256, activating 256 of 4,096 FFN neurons per token (6.25%), the sparse model achieved 36% higher training throughput than its dense counterpart. The kernel has so far been tested on a single NVIDIA RTX PRO 6000 GPU and requires GPU hardware with BF16 support. Whether a model trained with a sparse FFN and densified afterwards can match the quality of a model trained densely remains an open question. These early results have motivated me to continue training a larger model using this approach. More about EUGEN and my work: https:&#x2F;&#x2F;jakubcwirlej.com&#x2F;ai-dev&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://huggingface.co/JakCwi/eugen-sparse",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50226525",
+    "createdAt": "2026-10-25T00:48:01.413Z"
+  },
+  {
+    "slug": "omni-verify-my-ai-agent-cant-post-until-kane-checks-every-promise-hn",
+    "title": "Omni Verify, my AI agent can't post until Kane checks every promise",
+    "shortDescription": "Проект «Omni Verify, my AI agent can't post until Kane checks every promise», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Omni Verify, my AI agent can't post until Kane checks every promise», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/DainoJung/omni-verify",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50226442",
+    "createdAt": "2026-10-25T00:48:01.413Z"
+  },
+  {
     "slug": "kubic-github-2",
     "title": "kubic",
     "shortDescription": "Agentic coding, in your control",
