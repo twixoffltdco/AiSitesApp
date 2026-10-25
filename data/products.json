@@ -1,5 +1,37 @@
 [
   {
+    "slug": "glitchrupt-glitch-your-desktop-when-your-ai-agent-needs-your-attention-hn",
+    "title": "Glitchrupt: Glitch your desktop when your AI agent needs your attention",
+    "shortDescription": "I keep missing my AI agents&#x27; requests for my attention. So I had it build a thing that glitches the whole screen, like the glitches in…",
+    "fullDescription": "I keep missing my AI agents&#x27; requests for my attention. So I had it build a thing that glitches the whole screen, like the glitches in the SpiderVerse movies.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/elbee19/glitchrupt",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50236627",
+    "createdAt": "2026-10-25T23:25:51.853Z"
+  },
+  {
+    "slug": "i-built-an-ai-agent-to-find-customers-on-telegram-while-i-sleep-hn",
+    "title": "I built an AI agent to find customers on Telegram while I sleep",
+    "shortDescription": "Проект «I built an AI agent to find customers on Telegram while I sleep», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built an AI agent to find customers on Telegram while I sleep», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://opensparta.com/en",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50236396",
+    "createdAt": "2026-10-25T23:25:51.853Z"
+  },
+  {
     "slug": "agenttrust-zero-trust-security-and-human-approvals-for-ai-agents-hn",
     "title": "AgentTrust – Zero-trust security and human approvals for AI agents",
     "shortDescription": "Проект «AgentTrust – Zero-trust security and human approvals for AI agents», опубликован сообществом Hacker News.",
