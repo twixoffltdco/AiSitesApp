@@ -1,5 +1,155 @@
 [
   {
+    "slug": "start-from-here-github",
+    "title": "start-from-here",
+    "shortDescription": "Stop vibe coding. Start from here. One Agent Skill for any AI. Interview until complete project blueprint (PRD, TRD, architecture, ERD, sec…",
+    "fullDescription": "Stop vibe coding. Start from here. One Agent Skill for any AI. Interview until complete project blueprint (PRD, TRD, architecture, ERD, security, tests, legal, AGENTS.md) before the first line of code.\n\nАвтор: ilramdhan. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://ilramdhan.github.io/start-from-here/",
+    "category": "developer",
+    "tags": [
+      "agent-skills",
+      "agents-md",
+      "ai",
+      "claude-code",
+      "codex",
+      "cursor",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1432471065",
+    "createdAt": "2026-10-25T05:39:25.909Z"
+  },
+  {
+    "slug": "independent-vet-find-locally-owned-vets-and-corporate-ones-near-you-hn",
+    "title": "Independent Vet – Find locally owned vets (and corporate ones) near you",
+    "shortDescription": "Three years ago, our dog was sideswiped by a car and my wife took him to the local vet in Berkeley. Unfortunately, things did not go well a…",
+    "fullDescription": "Three years ago, our dog was sideswiped by a car and my wife took him to the local vet in Berkeley. Unfortunately, things did not go well and to cut a long story short, he passed after 2 days and $13k of bills for very limited care. I was surprised to learn that the seemingly mom &amp; pop practice had been acquired by a PE-owned consolidator and that around 50% of practices in the US are now owned by mostly PE-backed corporate groups - a trend that rapidly accelerated after COVID. I started a small janky passion project called https:&#x2F;&#x2F;privateequityvet.org which used Leaflet.js to map corporately owned veterinary practices in the US. The site gradually took off, was covered on PBS Newshour and now gets 20k uniques a day. A few months ago I launched IndependentVet.com which aims to be the opposite of the original site, helping pet parents in the US&#x2F;Canada&#x2F;UK identify locally owned veterinary practices. Just yesterday I launched native mobile apps that I developed over the course of three intense weeks of evenings and weekends using Opus 5.5. While it&#x27;s early days, I&#x27;m really happy with how it turned out: https:&#x2F;&#x2F;independentvet.com&#x2F;get Would love to hear what you think!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://independentvet.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50228314",
+    "createdAt": "2026-10-25T05:39:25.784Z"
+  },
+  {
+    "slug": "git-ing-over-it-learn-git-like-youll-use-it-irl-hn",
+    "title": "Git-ing Over it, learn Git like you'll use it IRL",
+    "shortDescription": "Hi HN! I made a browser game called Git-ing Over It around the git situations you might actually run into at work. It&#x27;s completely fre…",
+    "fullDescription": "Hi HN! I made a browser game called Git-ing Over It around the git situations you might actually run into at work. It&#x27;s completely free, 14 levels, no sign up! A Slack message, some objectives, a terminal, and at times a browser window or a code file welcome you in each level. Each level is a mix of &#x27;whose fault it is &#x27;- sometimes it&#x27;s you, sometimes it&#x27;s your made-up teammate&#x27;s, and sometimes it&#x27;s just a bad Monday situation. It&#x27;s a real git engine so the answers are judged on the final state of the repo. No LLMs checking it, and no direct command-based solutions. It is more intended for early devs and students. Of course AI can solve all your git problems but at the end of the day, fundamentals tell the difference. So git is needed. Even if AI handles git for you, it doesn&#x27;t hurt to know the whys and hows. And this is where a game like this helps. Please go and break something. I&#x27;d love to know of levels where the commands don&#x27;t behave as expected. Link: https:&#x2F;&#x2F;git-ing-over-it.vercel.app&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://git-ing-over-it.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50228301",
+    "createdAt": "2026-10-25T05:39:25.784Z"
+  },
+  {
+    "slug": "agentskill-yara-l-skill-hn",
+    "title": "AgentSkill – Yara-L-Skill",
+    "shortDescription": "An Agent Skill that teaches AI coding agents to write, review, tune, and convert YARA-L 2.0 detection rules for Google Security Operations…",
+    "fullDescription": "An Agent Skill that teaches AI coding agents to write, review, tune, and convert YARA-L 2.0 detection rules for Google Security Operations (SecOps, formerly Chronicle).\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/ajaynyayapathi/yara-l-skill",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50228031",
+    "createdAt": "2026-10-25T05:39:25.784Z"
+  },
+  {
+    "slug": "four-leaf-job-matches-that-find-you-automatically-hn",
+    "title": "Four-Leaf job matches that find you automatically",
+    "shortDescription": "Проект «Four-Leaf job matches that find you automatically», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Four-Leaf job matches that find you automatically», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://four-leaf.ai/jobs",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50227987",
+    "createdAt": "2026-10-25T05:39:25.784Z"
+  },
+  {
+    "slug": "an-oss-browser-and-work-environment-for-humans-and-agents-hn",
+    "title": "An OSS browser and work environment for humans and agents",
+    "shortDescription": "Fast, private, fully-featured, built in Rust (forked Wry, system&#x27;s WebView). 40 MB. Not a Chromium fork. Native adblocking (forked adb…",
+    "fullDescription": "Fast, private, fully-featured, built in Rust (forked Wry, system&#x27;s WebView). 40 MB. Not a Chromium fork. Native adblocking (forked adblock-rust), major Chrome extension support, deeply integrated productivity tools, a custom agentic browsing engine, and a lot more. It&#x27;s not just another wrapper built in a few days. And... Work mode: a shared environment where you and AI agents can browse, research, build, and get real work done together. Live browser sessions, parallel sub-agents, tools, files, components, and interactive results, all in one canvas. AI is optional (disable in one click). No telemetry. BYOK support and local models. Website: https:&#x2F;&#x2F;zephium.app Launch video: https:&#x2F;&#x2F;youtu.be&#x2F;QbSarcWspvw X: https:&#x2F;&#x2F;x.com&#x2F;CryntaDev\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/zephium-browser/Zephium",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50227943",
+    "createdAt": "2026-10-25T05:39:25.784Z"
+  },
+  {
+    "slug": "close-the-ui-building-ai-agent-loop-with-protoshot-hn",
+    "title": "Close the UI building AI agent loop with Protoshot",
+    "shortDescription": "Protoshot scans your css files and components and lets you write just some JSX to preview it. A much simpler setup than having to orchestra…",
+    "fullDescription": "Protoshot scans your css files and components and lets you write just some JSX to preview it. A much simpler setup than having to orchestrate agent-browser or puppeteer instance for just seeing what UI looks like.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://npmjs.com/protoshot",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50227918",
+    "createdAt": "2026-10-25T05:39:25.784Z"
+  },
+  {
+    "slug": "ai-senate-ai-senators-debate-live-policy-and-vote-on-the-record-hn",
+    "title": "AI Senate – AI senators debate live policy and vote on the record",
+    "shortDescription": "Проект «AI Senate – AI senators debate live policy and vote on the record», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Senate – AI senators debate live policy and vote on the record», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aisenatus.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50227610",
+    "createdAt": "2026-10-25T05:39:25.784Z"
+  },
+  {
+    "slug": "hurston-1-open-source-tts-that-speak-southern-american-and-afro-english-hn",
+    "title": "Hurston-1 open source TTS that speak Southern American and Afro-English",
+    "shortDescription": "Hey HN, I’m open sourcing my Hurston-1 narrowband TTS model (Apache-2.0). It is very good with American English and does especially well wi…",
+    "fullDescription": "Hey HN, I’m open sourcing my Hurston-1 narrowband TTS model (Apache-2.0). It is very good with American English and does especially well with Southern American and Regional African English accents. Destined AI is based in Atlanta, and I built this because I’m amazed by what AI can do, and I wanted to help introduce and welcome more people to feel comfortable using and interacting with AI. Since 2021, I’ve been collecting fully consented voice data from over 20,000 people, 1M audio recordings, and over 1,800 hrs of audio captured to date. For this model, I used a small part of the data, 136 hrs, to finetune Maya1 and expand it’s capabilities. Hurston-1 is a narrowband TTS model that focuses the output on telephone use because that is still where most of these voices will be heard. I’ve used it to support customers such as Amazon and Salesforce and generated over half-mill revenue with it. Now I’m open sourcing it to help unlock opportunities for others as well. Limitations: this model doesn’t maintain the exact same voice across prompts and doesn’t support voice cloning. For many use cases, this is fine but maybe not so - if you’re creating podcasts. This is the first release - I’m already working on the next version with improvements. I would appreciate, if anyone is interested in this space, download the model from huggingface, check it out and let me know any feedback. Also, open to connecting with others in this space as well.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://huggingface.co/destined/hurston-1",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50227330",
+    "createdAt": "2026-10-25T05:39:25.785Z"
+  },
+  {
     "slug": "autosdlc-crewai-github",
     "title": "autosdlc-crewai",
     "shortDescription": "Multi-agent SDLC generator: CrewAI agents take an idea through planning, design, review, code, tests and deployment, with a live Streamlit…",
