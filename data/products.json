@@ -1,5 +1,81 @@
 [
   {
+    "slug": "cvengine-github",
+    "title": "CVEngine",
+    "shortDescription": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP int…",
+    "fullDescription": "AI-first external attack surface assessment with continuous discovery, evidence-based vulnerability validation, and developer-agent MCP integration.\n\nАвтор: hevnsnt. Найдено в GitHub Trending (AI-тематика). ⭐ 35 звёзд.",
+    "url": "https://github.com/hevnsnt/CVEngine",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "attack-surface-management",
+      "bbot",
+      "cybersecurity",
+      "mcp",
+      "nmap",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1432649361",
+    "createdAt": "2026-10-25T18:06:05.467Z"
+  },
+  {
+    "slug": "skills-github-7",
+    "title": "skills",
+    "shortDescription": "This repository is a collection of independent skills and tools for software development and automation. Each skill is a self-contained pro…",
+    "fullDescription": "This repository is a collection of independent skills and tools for software development and automation. Each skill is a self-contained project with its own purpose, implementation, and documentation.\n\nАвтор: larchanka. Найдено в GitHub Trending (AI-тематика). ⭐ 9 звёзд.",
+    "url": "https://larchanka.com",
+    "category": "productivity",
+    "tags": [
+      "agent",
+      "agent-skill",
+      "agent-skills",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1433136529",
+    "createdAt": "2026-10-25T18:06:05.467Z"
+  },
+  {
+    "slug": "junior-an-open-source-ai-junior-engineer-that-runs-on-your-mac-hn",
+    "title": "Junior – an open-source AI junior engineer that runs on your Mac",
+    "shortDescription": "Hi HN, I&#x27;m Samar, a software engineer. I built Junior because I was spending more time fixing CI issues, babysitting PRs and resolving…",
+    "fullDescription": "Hi HN, I&#x27;m Samar, a software engineer. I built Junior because I was spending more time fixing CI issues, babysitting PRs and resolving merge conflicts. I thought maybe i should automate all of it, and that&#x27;s why I started building Junior. Junior is an agent that runs locally on macOS and picks up that kind of work. It connects with my Linear, Slack, Github etc and autopicks work for himself. It works on it and shares a report for me to review. It&#x27;s open source under. I&#x27;d love feedback, especially on the permission model and how autonomous should it work. Happy to answer anything.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/usejunior-sh/junior",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50233491",
+    "createdAt": "2026-10-25T18:06:05.559Z"
+  },
+  {
+    "slug": "directory-958-inspirational-artisans-craftspeople-smiths-for-post-ai-hn",
+    "title": "Directory 958 inspirational artisans, craftspeople, smiths, for post-AI",
+    "shortDescription": "Проект «Directory 958 inspirational artisans, craftspeople, smiths, for post-AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Directory 958 inspirational artisans, craftspeople, smiths, for post-AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.worldofbuilders.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50232415",
+    "createdAt": "2026-10-25T18:06:05.559Z"
+  },
+  {
     "slug": "the-fastest-most-token-efficient-ios-simulator-mcp-for-ai-agents-hn",
     "title": "The fastest, most token-efficient iOS Simulator MCP for AI agents",
     "shortDescription": "Проект «The fastest, most token-efficient iOS Simulator MCP for AI agents», опубликован сообществом Hacker News.",
