@@ -1,5 +1,135 @@
 [
   {
+    "slug": "emblem-github",
+    "title": "Emblem",
+    "shortDescription": "An open-source, 1:1 rebuild of Monogram AI in SwiftUI. Every answer is a native iPhone page.",
+    "fullDescription": "An open-source, 1:1 rebuild of Monogram AI in SwiftUI. Every answer is a native iPhone page.\n\nАвтор: kaanarici. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://github.com/kaanarici/Emblem",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "convex",
+      "generative-ui",
+      "ios",
+      "nextjs",
+      "swiftui",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1431781052",
+    "createdAt": "2026-10-25T10:41:00.349Z"
+  },
+  {
+    "slug": "ludra-github",
+    "title": "ludra",
+    "shortDescription": "The game engine built for AI agents. Games are JSON, errors come with fixes, and agents play-test their own games headlessly.",
+    "fullDescription": "The game engine built for AI agents. Games are JSON, errors come with fixes, and agents play-test their own games headlessly.\n\nАвтор: ersingvn. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/ersingvn/ludra",
+    "category": "ai-tool",
+    "tags": [
+      "2d",
+      "ai",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "game-engine",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1432184047",
+    "createdAt": "2026-10-25T10:41:00.349Z"
+  },
+  {
+    "slug": "opencircle-github",
+    "title": "OpenCircle",
+    "shortDescription": "Open-source alternative to Google's Circle to Search for Windows & Linux: circle anything to search, translate the whole screen in place (g…",
+    "fullDescription": "Open-source alternative to Google's Circle to Search for Windows & Linux: circle anything to search, translate the whole screen in place (great for games), ask AI, or snip & annotate. Rust, private, lightweight.\n\nАвтор: AmerAlreyahi. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://ameralreyahi.com/projects/opencircle",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "annotation",
+      "circle-to-search",
+      "game-translation",
+      "google-lens",
+      "iced",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1431337110",
+    "createdAt": "2026-10-25T10:41:00.349Z"
+  },
+  {
+    "slug": "echoboard-where-ai-agents-do-science-and-humans-only-watch-hn",
+    "title": "Echoboard where AI agents do science and humans only watch",
+    "shortDescription": "Проект «Echoboard where AI agents do science and humans only watch», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Echoboard where AI agents do science and humans only watch», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://jevontane.com/echoboard/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50229997",
+    "createdAt": "2026-10-25T10:41:00.083Z"
+  },
+  {
+    "slug": "openxet-hn",
+    "title": "OpenXet",
+    "shortDescription": "Xet [1] seems like a good idea in a world of ever more data hungry applications. It&#x27;s used in Huggingface&#x27;s service but the serve…",
+    "fullDescription": "Xet [1] seems like a good idea in a world of ever more data hungry applications. It&#x27;s used in Huggingface&#x27;s service but the server side has been kept close source. I started reengineering it with Claude from the protocol descriptions to provide it for everyone. If you think it&#x27;s cool, I am grateful for any stars and feedback! Please no AI-Slop discussions. I am optimistic about the potential for this kind of service since the client is open source and some blog posts describe the mechanisms. Still happy to hear where it&#x27;s taking wrong directions and needs more guidance. [1] https:&#x2F;&#x2F;huggingface.co&#x2F;docs&#x2F;hub&#x2F;en&#x2F;xet&#x2F;index\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/stubbi/openxet",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50229716",
+    "createdAt": "2026-10-25T10:41:00.083Z"
+  },
+  {
+    "slug": "aipredict-retrieve-generate-recommend-decide-act-and-orchestrate-hn",
+    "title": "AI:Predict, Retrieve, Generate, Recommend, Decide, Act, and Orchestrate",
+    "shortDescription": "Проект «AI:Predict, Retrieve, Generate, Recommend, Decide, Act, and Orchestrate», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI:Predict, Retrieve, Generate, Recommend, Decide, Act, and Orchestrate», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.researchgate.net/publication/415644138_EASCM_White_Paper_Luthera_2026_v10",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50229495",
+    "createdAt": "2026-10-25T10:41:00.083Z"
+  },
+  {
+    "slug": "hindsight-lightweight-elegant-open-source-tracker-for-windowsmacos-hn",
+    "title": "Hindsight – Lightweight, elegant, open-source tracker for Windows/macOS",
+    "shortDescription": "Hi HN, I’m building Hindsight, a free, open-source activity tracker for Windows and macOS. I know there are plenty of time trackers. I want…",
+    "fullDescription": "Hi HN, I’m building Hindsight, a free, open-source activity tracker for Windows and macOS. I know there are plenty of time trackers. I wanted something that combined automatic tracking, detailed charts, and cross-device sync in a lightweight app with an interface I enjoyed using. I couldn’t find a free option that fit, so I started building my own. Hindsight records active apps and window titles while it’s running, without requiring you to start and stop timers. You can explore your activity through daily, weekly, and monthly charts, drill down into individual apps and window titles, and use a yearly heatmap to spot patterns. Categories are customizable. There’s also an optional screenshot and OCR feature for finding something you previously saw on screen. Both are off by default. When enabled, you can search recognized text and jump back to the corresponding screenshot. The AI features can generate daily summaries or answer questions about your activity, with links back to the underlying records so you can check the answers. You can use a local model or connect a cloud API; third-party API fees may apply. Optional sync through Google Drive or WebDAV lets you view activity from Windows and Mac devices separately or together. I’ve also recently added plugin support so other developers can extend the app. I’d appreciate feedback, particularly on how you’d want to explore your activity history. What would make this useful to you beyond simply showing how many hours you spent in each app? Happy to answer questions about how it works.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Tomotsugu-dev/Hindsight",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50229028",
+    "createdAt": "2026-10-25T10:41:00.083Z"
+  },
+  {
     "slug": "start-from-here-github",
     "title": "start-from-here",
     "shortDescription": "Stop vibe coding. Start from here. One Agent Skill for any AI. Interview until complete project blueprint (PRD, TRD, architecture, ERD, sec…",
