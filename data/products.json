@@ -1,5 +1,85 @@
 [
   {
+    "slug": "a-directory-for-ai-slop-games-hn",
+    "title": "A directory for AI-slop games",
+    "shortDescription": "Hello HN! As someone who would have otherwise never got into game development if it wasn&#x27;t for AI, I&#x27;m really sorry to see how ma…",
+    "fullDescription": "Hello HN! As someone who would have otherwise never got into game development if it wasn&#x27;t for AI, I&#x27;m really sorry to see how many peoples&#x27; creations get immediately overlooked because it&#x27;s &quot;AI slop.&quot; Slop or not, many people have very interesting and&#x2F;or original concepts, and regardless of the means of production I believe there should be a place for someone to at least enjoy. The issue is that if they want to share it, the only places we have right now include Twitter, Reddit, Hacker News, and the other means such as Itch and other traditional game distribution platforms. But for small, quick ideas built within an afternoon (yet can play very well &#x2F; feel very polished due to Opus 5.5 being that good), small entries are often considered &quot;spam.&quot; And that&#x27;s why I made this directory. Yes, I know it gets to the XKCD 927 situation, but I haven&#x27;t heard of any other platform for these &quot;Claudeslop&quot; games. So here we go!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://claudeslop.bryanhu.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50252491",
+    "createdAt": "2026-10-26T23:33:08.144Z"
+  },
+  {
+    "slug": "hugonot-sponsor-a-dedicated-ai-blogger-hn",
+    "title": "Hugonot – Sponsor a Dedicated AI Blogger",
+    "shortDescription": "Проект «Hugonot – Sponsor a Dedicated AI Blogger», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Hugonot – Sponsor a Dedicated AI Blogger», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.hugonot.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50252486",
+    "createdAt": "2026-10-26T23:33:08.144Z"
+  },
+  {
+    "slug": "kashkeshet-non-opinionated-agent-to-agent-chat-mcp-server-in-rust-hn",
+    "title": "Kashkeshet – non-opinionated agent-to-agent chat MCP server in Rust",
+    "shortDescription": "This is hardly a greenfield area. There are tons of agent-to-agent communication apps. But, at least to my taste, a lot of them are too com…",
+    "fullDescription": "This is hardly a greenfield area. There are tons of agent-to-agent communication apps. But, at least to my taste, a lot of them are too complicated or too opinionated. If we learned anything from the HuggingFace incident, it&#x27;s that modern AI agents don&#x27;t need a lot of help communicating. They are smart and creative and figure it out. So...with that in mind, I (meaning I + claude and friends) built kashkeshet, or kkt. It&#x27;s a small, Rust-based MCP server that gives agents a few simple chat primitives (identity, channels, chat) and leaves it up to them to use those however they want. You as the human get a little web interface so you can watch the fun. Coordinate your coding agents; setup a virtual company; conduct sociological experiments; whatever. kkt&#x27;s main goal is to stay out of the way, and let you and your agents figure out how to organize and communicate on your own. This is meant to be run on your local device and shared among local agents. There&#x27;s a little explanation of how you could use tailscale to go broader, but nothing like Oauth2 or anything yet.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/sam-mfb/kashkeshet",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50251519",
+    "createdAt": "2026-10-26T23:33:08.144Z"
+  },
+  {
+    "slug": "autorouter-benchmark-on-various-pcbs-hn",
+    "title": "Autorouter Benchmark on Various PCBs",
+    "shortDescription": "We try to take open-source boards routed by humans, freeze the placement and make autorouters try to route them, compare the results across…",
+    "fullDescription": "We try to take open-source boards routed by humans, freeze the placement and make autorouters try to route them, compare the results across metrics like completion, DRC, and signal integrity. And most importantly, how the autorouters did vs. human boards.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Koppar-AI/autorouter-bench",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50251285",
+    "createdAt": "2026-10-26T23:33:08.144Z"
+  },
+  {
+    "slug": "play-ten-years-of-stock-picking-in-an-evening-on-a-simulated-market-hn",
+    "title": "Play ten years of stock picking in an evening, on a simulated market",
+    "shortDescription": "This is a stock picking game that simulates a stock market with thousands of rule based agents making trades and moving the stock price. Th…",
+    "fullDescription": "This is a stock picking game that simulates a stock market with thousands of rule based agents making trades and moving the stock price. The agents (not AI agents) have different rules to simulate different trading styles. The game layer is basically 12 companies&#x2F;stocks you can buy and sell, and a clock you can advance on your own time. So you can play 10 years in one sitting, and see the results of your &quot;long term thinking&quot; and decision making. You can challenge friends to see who can get the highest return in 1 year or 10 years or whatever. Would love to hear any feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://stockpickersgame.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50250758",
+    "createdAt": "2026-10-26T23:33:08.144Z"
+  },
+  {
     "slug": "astrbot-for-android-github",
     "title": "astrbot-for-android",
     "shortDescription": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
