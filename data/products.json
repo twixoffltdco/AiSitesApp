@@ -1,5 +1,113 @@
 [
   {
+    "slug": "flashmindgemini-38-flashsmart-agent-github",
+    "title": "Flashmind_Gemini-3.8-Flash_Smart-agent",
+    "shortDescription": "flashmind — Gemini 3.8 Flash Smart Agent. Gives Gemini Flash persistent memory (Engram), coding skills, and no-hallucination rules. Works i…",
+    "fullDescription": "flashmind — Gemini 3.8 Flash Smart Agent. Gives Gemini Flash persistent memory (Engram), coding skills, and no-hallucination rules. Works in Gemini CLI, Antigravity, Cursor, VS Code, Claude Code and any MCP client.\n\nАвтор: Hvftpie13. Найдено в GitHub Trending (AI-тематика). ⭐ 17 звёзд.",
+    "url": "https://github.com/Hvftpie13/Flashmind_Gemini-3.8-Flash_Smart-agent",
+    "category": "developer",
+    "tags": [
+      "agent-skills",
+      "agents",
+      "ai",
+      "ai-coding",
+      "anti-hallucination",
+      "antigravity",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1433668019",
+    "createdAt": "2026-10-26T06:49:39.403Z"
+  },
+  {
+    "slug": "hi-shell-github",
+    "title": "hi-shell",
+    "shortDescription": "Material 3 Expressive desktop shell for Hyprland, built on Quickshell — Claude AI, live wallpaper theming, widgets, animations everywhere.…",
+    "fullDescription": "Material 3 Expressive desktop shell for Hyprland, built on Quickshell — Claude AI, live wallpaper theming, widgets, animations everywhere. English & Russian.\n\nАвтор: imu-useful. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://t.me/tux_empire",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "arch-linux",
+      "claude",
+      "desktop-shell",
+      "dotfiles",
+      "hyprland",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1432977891",
+    "createdAt": "2026-10-26T06:49:39.404Z"
+  },
+  {
+    "slug": "quill-desktop-lightweight-ai-harness-no-electronwebkit-native-gui-hn",
+    "title": "Quill Desktop; Lightweight AI harness, no electron/WebKit native GUI",
+    "shortDescription": "Still a work in progress. Let me know if you like it and want to see it finished. Contributions are welcome.",
+    "fullDescription": "Still a work in progress. Let me know if you like it and want to see it finished. Contributions are welcome.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/alshlabs/quill",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50239793",
+    "createdAt": "2026-10-26T06:49:39.202Z"
+  },
+  {
+    "slug": "frontier-log-database-of-ai-events-models-and-benchmarks-hn",
+    "title": "Frontier Log – Database of AI events, models and benchmarks",
+    "shortDescription": "Проект «Frontier Log – Database of AI events, models and benchmarks», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Frontier Log – Database of AI events, models and benchmarks», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://frontierlog.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50239697",
+    "createdAt": "2026-10-26T06:49:39.202Z"
+  },
+  {
+    "slug": "uipalooza-do-ai-models-have-a-recognizable-design-taste-hn",
+    "title": "UIPalooza – Do AI models have a recognizable design taste?",
+    "shortDescription": "This question has been bugging me for a while: do different AI models have a different design sense? Does it matter which one I pick? I bui…",
+    "fullDescription": "This question has been bugging me for a while: do different AI models have a different design sense? Does it matter which one I pick? I built UI Palooza to explore that. I gave models the same four frontend briefs, with enough room to choose their own typography, colors, layouts, and interactions. Then I repeated the runs with different design skills and sample directions. The public collection has 1,784 designs. You can compare them side by side and open the working websites, not just screenshots. No signup required. One way to explore it: pick a brief and Baseline A, then compare Vanilla with a design skill. Or keep the skill fixed and look across models. I’d be interested in which patterns you notice—and what you’d change about the experiment.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://uipalooza.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50238943",
+    "createdAt": "2026-10-26T06:49:39.202Z"
+  },
+  {
+    "slug": "nodecode-open-source-living-agent-in-lisp-that-rewrites-itself-for-you-hn",
+    "title": "Nodecode, open-source living agent in Lisp that rewrites itself for you",
+    "shortDescription": "Hi HN, we&#x27;re Mike and Thom. Agents of the future should only have one tool (the interpreter, ideally a LISP eval), nothing more or les…",
+    "fullDescription": "Hi HN, we&#x27;re Mike and Thom. Agents of the future should only have one tool (the interpreter, ideally a LISP eval), nothing more or less; to interact with the world. Agents remember by writing markdown files. NODECODE remembers by rewriting itself. And that is in itself a new paradigm in working with agents. What if memories, skills, MCPs, provider connectors, tools, etc. all live under the same image as *.lisp files instead of in disarray across random folders? Ask it for something it can’t do, and it writes what it needs into its OWN running image and keeps it even after a restart. (Changes in a LISP image have significantly lower ceremony and overhead than in harnesses written in other languages): Small intuitive scenario: &gt; you can&#x27;t read PDFs. teach yourself. (defun read-pdf (path) ...) ; runs at once, kept (read-pdf &quot;invoices&#x2F;0421.pdf&quot;) ;; Globex owes $1,240.00, due Oct 24, unpaid. [… rest of PDF content] read-pdf is still there after a restart, in your terminal, and in every other UI clients (Discord, web app, etc.) Technically at a lower level; NODECODE runs as one process in SBCL, a Common Lisp system, and shells attach to it. The model has one tool: it evaluates LISP in the running program. Code is data, so a program can rewrite itself while it runs. What the model defines runs at once and is kept, one file per definition, committed with git, loaded at every start. Why LISP now? Current SOTA models have reached an optimum point in how they efficiently work with LISP, though not as fluently as Python. Still, we believe AGI will understand ANY language (past&#x2F;present&#x2F;future) by understanding the crux of any given language, and not through excessive and expensive pretraining scheme. Why LISP in general? We believe LISP is the current language that communicates to the world with the least bandwidth. Why another LISP agent? The LISP harnesses we found are hard to use unless you already know the language itself, and so we had this idea of simplifying and condensing the UX to be user friendly for the masses, while leveraging the power of LISP. Code as data is what lets an agent change itself, and that shouldn&#x27;t need a LISP hacker to run. NODECODE is our first step toward putting it on everyone&#x27;s PC and mobile. You ask in plain words, the model writes LISP, and you get briefed in natural language; that is how it should be. Extensions? Code as data also suits extensions. We see NODECODE as a living agent organism. To us, it feels very much alive, and so this brings us to the Cells system. A Cell is a folder that teaches NODECODE something new: a chat room it can live in (e.g Discord, Telegram, Slack, etc. - Yes we made Cells for channels to have it act as a very capable personal agent), a skill, a memory, MCPs, new tools, etc. Install one from our Cell hub or ask it to write a custom, personalized one. Either way it is more code the agent can read and change. Your terminal, a browser tab, your phone and bots in Discord, Telegram and Slack all attach to that SAME gateway process, so a tool it writes in one is there in ALL of them. Over time it becomes yours and it is continuously evolving; the organism within it; NODECODE. MIT License. https:&#x2F;&#x2F;github.com&#x2F;nodecode-ai&#x2F;nodecode X&#x2F;twitter&#x2F;demo launch post: https:&#x2F;&#x2F;x.com&#x2F;pomterree&#x2F;status&#x2F;2113721985167728757 docs: https:&#x2F;&#x2F;nodecode.ai&#x2F;docs\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/nodecode-ai/nodecode",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50238751",
+    "createdAt": "2026-10-26T06:49:39.202Z"
+  },
+  {
     "slug": "matos-github",
     "title": "MatOS",
     "shortDescription": "MatOS: an agent operating system for materials research, with a layered scientific asset graph, stateful adaptive workflows and evidence-dr…",
