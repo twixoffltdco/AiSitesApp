@@ -1,5 +1,251 @@
 [
   {
+    "slug": "astrbot-for-android-github",
+    "title": "astrbot-for-android",
+    "shortDescription": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。",
+    "fullDescription": "在 Android 手机上本地部署和管理 AstrBot 与 NapCat，内置 PRoot Ubuntu 运行环境，支持原生管理界面、WebUI、日志、备份恢复和独立更新，无需 Root。\n\nАвтор: JunWan666. Найдено в GitHub Trending (AI-тематика). ⭐ 16 звёзд.",
+    "url": "https://github.com/JunWan666/astrbot-for-android",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "android",
+      "astrbot",
+      "chatbot",
+      "jetpack-compose",
+      "kotlin",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1433932117",
+    "createdAt": "2026-10-26T19:43:38.816Z"
+  },
+  {
+    "slug": "websites-designed-by-10-ai-models-ranked-by-4500-human-votes-hn",
+    "title": "Websites designed by 10 AI models, ranked by 4,500 human votes",
+    "shortDescription": "Проект «Websites designed by 10 AI models, ranked by 4,500 human votes», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Websites designed by 10 AI models, ranked by 4,500 human votes», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://humansignal.com/taste-index",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50249662",
+    "createdAt": "2026-10-26T19:43:38.570Z"
+  },
+  {
+    "slug": "unicornfork-a-chess-ai-that-is-fact-checked-by-stockfish-hn",
+    "title": "UnicornFork a Chess AI That Is Fact Checked by Stockfish",
+    "shortDescription": "Проект «UnicornFork a Chess AI That Is Fact Checked by Stockfish», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «UnicornFork a Chess AI That Is Fact Checked by Stockfish», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.unicornfork.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50249358",
+    "createdAt": "2026-10-26T19:43:38.570Z"
+  },
+  {
+    "slug": "portable-signed-agreements-for-ai-agents-hn",
+    "title": "Portable, signed agreements for AI agents",
+    "shortDescription": "Hi team, Have been working on something to help agents draft complex agreements with other agents and also have a way to figure out if agre…",
+    "fullDescription": "Hi team, Have been working on something to help agents draft complex agreements with other agents and also have a way to figure out if agreements have been upheld, revise existing agreements, make payments and hold monies in escrow, resort to evidence elsewhere etc. and store this on the blockchain or any other place. I&#x27;ve attached some docs explaining what it does if of interest pls reach out to the email therein. Best JS\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://covenant-common.github.io/covenant-docs/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50247633",
+    "createdAt": "2026-10-26T19:43:38.570Z"
+  },
+  {
+    "slug": "mainplane-agent-in-go-that-lives-on-your-old-pc-drives-your-laptop-hn",
+    "title": "Mainplane – Agent in Go that lives on your old PC, drives your laptop",
+    "shortDescription": "Hi HN, I&#x27;m Alexander. Yes, this is another agent harness. Here is why I built one anyway. I was engineer #2 at Browser Use, where I bu…",
+    "fullDescription": "Hi HN, I&#x27;m Alexander. Yes, this is another agent harness. Here is why I built one anyway. I was engineer #2 at Browser Use, where I built our agent harness and the evals behind it, including BU Bench, which became a default benchmark for browser agents. I left in September to build Mainplane. The problem: local agents die with your laptop, and cloud agents can&#x27;t reach your work. Many cloud platforms ask you to &quot;select a repository&quot;, but my work is not that simple. I work across a desktop, a Mac mini and a laptop, and much of it is not in git. So I loaded Ubuntu on my old 2012 desktop and made it my Mainplane server. It has run for four weeks at a load average of 0.02, because the agents&#x27; tools run on other machines. How it works: it is a control plane architecture. The server runs the harness. It holds your API keys and every session, makes the LLM calls, and routes each tool call to a worker. The workers are your other machines, connected over a built-in private WireGuard network. A bash command runs in the worker&#x27;s terminal, not on the server. Shared drives let projects move across machines. The agent works on your machines just like you would, but its state lives on the server, and your keys never leave it. Some design choices: - Every session is one append-only file. This is the agent state, and it is easily readable. If something breaks, you can resume it from the file. Observability comes for free: agent traces are just these state files. - Small by design. The system prompt is 3k tokens, and there are just two kinds of tools: shell and file (read, write, edit). At Browser Use, I learned the bitter lesson and found frontier models did better when I deleted all our helper functions. So I made the same bet here: bash is all you need. - No compaction. When a session fills up, &#x2F;continue starts a new one that greps the previous state file, retrieving the context it needs, instead of reading a lossy summary. A &#x2F;compact on a 400k-token session takes a while to write its summary. A &#x2F;continue into a brand new session starts at once. - No permission prompts. A hyperintelligent misaligned agent WILL find a way around a permission system. The better strategy is giving the agent full unbounded access to a local computer, and only putting what you trust the agent with on that computer. - Why Go. WireGuard is written in Go, so the network compiles right into a 20 MB binary. Go is made for production servers, LLMs write it well, and the simplicity of Go matches how I like to build. Mainplane works with a Claude or ChatGPT subscription on the regular usage limits, or any API key. I would love your feedback, especially brutal and honest feedback and tasks that the harness cannot do. I&#x27;ll be here all day to answer questions.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/mainplane-ai/mainplane",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50246690",
+    "createdAt": "2026-10-26T19:43:38.570Z"
+  },
+  {
+    "slug": "hob-open-source-on-device-alternative-to-claude-cowork-and-chatgpt-hn",
+    "title": "Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+    "shortDescription": "Hey HN, I&#x27;m Christian and this is a new OSS project I&#x27;ve been noodling on for the last couple of weeks. Hob is a free, MIT-licens…",
+    "fullDescription": "Hey HN, I&#x27;m Christian and this is a new OSS project I&#x27;ve been noodling on for the last couple of weeks. Hob is a free, MIT-licensed desktop app for Mac, Windows and Linux that works on your files the way the Claude and ChatGPT desktop apps do, except the model runs on your own computer. It uses open-weight models (currently Gemma 4 and gpt-oss). All your chats and files never leave your system. The only things that go online are web search (can be turned off in settings) and any MCP connectors you add yourself. Main features: - Automatically finds the best open-weight model for your hardware on first install (Mac&#x2F;Linux&#x2F;Windows) - Writes sandboxed Python code for ad hoc tools (data processing, document conversion, graphs etc.) - Built-in web search (powered by SearXNG) - MCP support - Image recognition - CRUD to your local filesystem - Works fully offline with no internet Before building this I tried every local AI app I could find, but it seemed each one had different problems. The main thing I noticed is that none of them could do what the ChatGPT and Claude apps do with your files, e.g. read and change files in a folder, look at images, run code in a sandbox, draw a chart. The most advanced thing any of them did was paste a plain text file into a small context window, which basically failed as soon as you had a file larger than a few KB. I couldn&#x27;t find anything that could easily parse images and bigger PDFs. The OSS solutions that were more advanced all seemed to default to hosted models (either OSS or closed), which defeats the entire point of the privacy that on-device OSS offers. They also seemed to push towards an account&#x2F;open-core style business. I build it using Electron bridged with llama.cpp in its own process. On initial load, the system will try and figure out if you have a compatible graphics card and if not default to CPU-only (I ran into a lot of issues of graphics card beeing seemingly compatible but then crashing on first query, there&#x27;s a whole saga to this lol). Code execution happens in a sandbox that can only write to the chat&#x27;s folder and has no network unless asked (sandbox-exec on macOS, Landlock on Linux and a low-integrity process on Windows). Images go to a small Qwen3-VL model. Dictation is a local Whisper model. The hardest part was definitely to get the smaller models to use tools reliably. Ran into a ton of issues of 4B models happily saying &quot;here&#x27;s your chart&quot; without ever calling the chart tool or get stuck in an infinite call loop. I spent a fair amount of the work building guards vs tweaking prompts (that didn&#x27;t really work for small models). I understand the pushback that local models are weaker than frontier cloud models. This is true, but for most tasks for most normal people, I&#x27;d argue you rarely need the newest frontier model. From my own evals, systems with 16+ GB of RAM do really well, and if you have a GPU or more RAM, you get very close to what you&#x27;ll get out of the box with a frontier hosted model. Excited to hear what you think and see how it runs on other systems!\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/FrigadeHQ/hob",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50246238",
+    "createdAt": "2026-10-26T19:43:38.570Z"
+  },
+  {
+    "slug": "on-air-press-a-key-and-a-reaction-plays-on-your-webcam-in-calls-hn",
+    "title": "On Air – Press a key and a reaction plays on your webcam in calls",
+    "shortDescription": "Проект «On Air – Press a key and a reaction plays on your webcam in calls», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «On Air – Press a key and a reaction plays on your webcam in calls», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://forgot.dev/on-air",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50245762",
+    "createdAt": "2026-10-26T19:43:38.570Z"
+  },
+  {
+    "slug": "give-one-context-across-all-your-agents-via-mcp-hn",
+    "title": "Give one context across all your agents via MCP",
+    "shortDescription": "Проект «Give one context across all your agents via MCP», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Give one context across all your agents via MCP», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://make0.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50245585",
+    "createdAt": "2026-10-26T19:43:38.570Z"
+  },
+  {
+    "slug": "sturnus-a-latency-based-llm-load-balancer-hn",
+    "title": "Sturnus, a latency-based LLM load balancer",
+    "shortDescription": "I built sturnus because I wanted the latency-based load balancing of an AI gateway but without a big framework selling an enterprise plan.…",
+    "fullDescription": "I built sturnus because I wanted the latency-based load balancing of an AI gateway but without a big framework selling an enterprise plan. It’s a single static binary that does one thing, aiming to avoid the large surface area and security issues that have plagued some LLM gateways. Traffic is distributed by LLM provider latency and availability. The share going to other providers acts as a probe, so that a recovered provider wins back traffic automatically. I’ve been running this in prod for a while, feedback, opinions and contributions welcome!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/sturnus-dev/sturnus",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50245284",
+    "createdAt": "2026-10-26T19:43:38.570Z"
+  },
+  {
+    "slug": "ranwhatcom-hn",
+    "title": "Ranwhat.com",
+    "shortDescription": "Hi HackerNews, My name is Matija, and I&#x27;m building ranwhat.com. It&#x27;s used for checking if any of your secrets have leaked, and wh…",
+    "fullDescription": "Hi HackerNews, My name is Matija, and I&#x27;m building ranwhat.com. It&#x27;s used for checking if any of your secrets have leaked, and where they leaked. It&#x27;s mostly aimed at solo devs such as myself, but also at anyone using a coding agent. The tool also checks if your coding agent ran any sketchy commands. This is mostly a &quot;better safe than sorry&quot; feature, so you can tell your Claude or Codex not to run them. The project is open source (MIT) and everything runs locally on your machine. How to install it: pip install ranwhat &#x2F; uv tool install ranwhat, or brew install MatijaMiki&#x2F;ranwhat&#x2F;ranwhat There is a free and a paid plan. Everything local is free; the paid plan is 12€ a month and adds server-side features, which you can read more about here: https:&#x2F;&#x2F;ranwhat.com&#x2F;pricing All I&#x27;m asking for here is feedback, and if you have anything you would want added to the project. Looking forward to answering any questions you have. Best, Matija\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/MatijaMiki/ranwhat",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50245260",
+    "createdAt": "2026-10-26T19:43:38.571Z"
+  },
+  {
+    "slug": "alchemy-ai-turn-one-idea-into-platform-ready-content-hn",
+    "title": "Alchemy AI – Turn one idea into platform-ready content",
+    "shortDescription": "Проект «Alchemy AI – Turn one idea into platform-ready content», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Alchemy AI – Turn one idea into platform-ready content», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://alchemy-ai-amber.vercel.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50245247",
+    "createdAt": "2026-10-26T19:43:38.571Z"
+  },
+  {
+    "slug": "sospell-a-model-guided-walkthrough-of-a-codebase-hn",
+    "title": "Sóþspell, a model-guided walkthrough of a codebase",
+    "shortDescription": "I kept finding myself wanting a way to get talked through the code that a model had created, which led to me making Sóþspell (old English,…",
+    "fullDescription": "I kept finding myself wanting a way to get talked through the code that a model had created, which led to me making Sóþspell (old English, &quot;Truth Story&quot;). You give it a git repo locally or via URL, and it creates a tour of the repo in a web page, with the aim of it explaining the whole thing. There&#x27;s also model harness plugins for Claude, Codex, and OpenCode. You give it an API key for whatever model you prefer to create the tour (saved locally or via github), and you can also give it a voice using an ElevenLabs API key. I just pushed a canvas view, which I&#x27;m hoping I can make the code navigation a bit more helpful. There&#x27;s a demo codebase, and you can export tours as JSON. The demo doesn&#x27;t need any keys to work, it falls back to browser speech if you want to hear that. This is my first real, &quot;big&quot; open source project that I&#x27;ve released, prior to this I&#x27;d just contributed stuff. I hope it can be useful to someone! I would love to hear some constructive criticism too, and any suggestions on features you&#x27;d like to see. It&#x27;s MIT licensed, and I&#x27;ll try to stick around in the comments to answer questions if people want.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/anthonyclarka2/sothspell",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50245022",
+    "createdAt": "2026-10-26T19:43:38.571Z"
+  },
+  {
+    "slug": "i-built-searchrecsys-that-learns-from-feedback-hn",
+    "title": "I built Search/Recsys that learns from feedback",
+    "shortDescription": "Hi HN. A while ago I started building a generic people matching app based on LLM-as-a-judge. I needed a way to bypass the O(n^2) &quot;ever…",
+    "fullDescription": "Hi HN. A while ago I started building a generic people matching app based on LLM-as-a-judge. I needed a way to bypass the O(n^2) &quot;everyone rates everyone else&quot; trap, but generic RAG was much worse than expected. DNA is a search-like API at the core of that product. It stores one embedding per item (like a vector DB) and gives the best match(es). You evaluate them in some way (LLM &#x2F; Decision Model &#x2F; users), and send the score back. This makes it improve in real time, so next time it gives you better results. In my tests, it needed 7x fewer LLM judgments than scoring down the embedding list. Paper in progress. What I don’t know yet is what demo would make you want to try building with it. What would you want to see it do?\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://dna.hashgrid.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50244993",
+    "createdAt": "2026-10-26T19:43:38.571Z"
+  },
+  {
+    "slug": "toiletbench-can-ai-find-the-toilet-without-a-sign-hn",
+    "title": "ToiletBench - Can AI find the toilet without a sign?",
+    "shortDescription": "Imagine you are at a restaurant for the first time. You need to go to the toilet but don&#x27;t see any signs for the toilet. You still hav…",
+    "fullDescription": "Imagine you are at a restaurant for the first time. You need to go to the toilet but don&#x27;t see any signs for the toilet. You still have an intuition for where to go. This intuition has been built up over many years by finding toilets. I need your help to create a dataset that will test whether AI has that same intuition. You submit a photo and mark where you would walk to find the toilet. So next time you are at a restaurant open ToiletBench, help create a dataset for human intuition\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://behu-kea.github.io/toilet-bench/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50244107",
+    "createdAt": "2026-10-26T19:43:38.571Z"
+  },
+  {
+    "slug": "building-the-european-company-graph-one-website-at-a-time-hn",
+    "title": "Building the European Company Graph one website at a time",
+    "shortDescription": "At Researchly ( https:&#x2F;&#x2F;www.researchly.at ) we automate market and competitive analysis. We learned that on-the-fly web search th…",
+    "fullDescription": "At Researchly ( https:&#x2F;&#x2F;www.researchly.at ) we automate market and competitive analysis. We learned that on-the-fly web search through AI agents isn&#x27;t reliable enough for consistent, in-depth work. Existing data providers such as PitchBook or Crunchbase are either too expensive or lack the data we need: operational signals such as management changes or new partnerships, for DACH. Furthermore, search tools such as Exa tend to be probabilistic. What they return depends on the model and on SEO rankings, so two runs of the same query can give you two different answers. So we built our own search layer: several providers (Exa, Linkup, Tavily, Parallel), allow&#x2F;deny lists, source rankings (we once caught ourselves citing our own blog posts), and checks whether an empty result means &quot;nothing there&quot; or &quot;out of budget&quot;. It works, but: it&#x27;s slow, expensive, non-deterministic &amp; we kept redoing the same research for different clients (which makes it very un-economic). So we started building the data layer itself. Step one was Firmendaten (300k companies from the Austrian register; shared here last week https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50142669 ). Relational data like that is already a huge improvement, but what we really need is a graph, as people ask &quot;W&quot; questions: who does what with whom where and when. This is our first attempt at it. For now, it just connects who partners with whom and company groups. (Tick &quot;Beziehungen 2. Ebene&quot; to see every partner and person) It&#x27;s small (a few dozen robotics companies) but you can already see how complex the graph gets &amp; it serves as a good PoC for us. We had wanted to build this for a long time, and it turned out to be far harder than we expected. One thing that sounds trivial but was particularly hard: finding the right website for a company. You can buy that data. There are enrichment APIs that return a company&#x27;s website. But even if they cover Austrian companies, how do you know which company they matched? There is no worldwide unique company identifier. And if you do it yourself: how do you know that this website really belongs to this company? You have to validate every single match (e. g. through the imprint on a company&#x27;s website in Austria). There are quite a few more challenges involved, but we&#x27;re happy with where this first, admittedly small, result has landed. Feedback very welcome – especially on which relationships would make a graph like this useful for you. Feedback welcome!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://firmendaten.researchly.at/netzwerk",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50243831",
+    "createdAt": "2026-10-26T19:43:38.571Z"
+  },
+  {
     "slug": "adobe-acrobat-pro-github",
     "title": "Adobe-Acrobat-Pro",
     "shortDescription": "AI-проект с GitHub без описания.",
