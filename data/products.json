@@ -1,5 +1,58 @@
 [
   {
+    "slug": "brass-github",
+    "title": "brass",
+    "shortDescription": "Brass: a programming language designed for AI to write and humans to trust",
+    "fullDescription": "Brass: a programming language designed for AI to write and humans to trust\n\nАвтор: brass-lang. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://brass-lang.github.io/brass/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "contracts",
+      "language-design",
+      "llm",
+      "programming-language",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1435292478",
+    "createdAt": "2026-10-27T23:54:25.357Z"
+  },
+  {
+    "slug": "spend-extra-ai-usage-transcribing-murrays-new-english-dictionary-hn",
+    "title": "Spend Extra AI Usage Transcribing Murray's New English Dictionary",
+    "shortDescription": "I&#x27;ve been working on transcribing the New English Dictionary ( NED ) into clean text using my extra usage on my AI sub. Thought I&#x27…",
+    "fullDescription": "I&#x27;ve been working on transcribing the New English Dictionary ( NED ) into clean text using my extra usage on my AI sub. Thought I&#x27;d open it up to everyone and see if anyone want&#x27;s to put their leftover usage to good use! Also would welcome any pointers getting something like this transcribed. Thanks!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/timjonez/new-english-dictionary",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50266274",
+    "createdAt": "2026-10-27T23:54:25.222Z"
+  },
+  {
+    "slug": "extending-axioms-primegapslib-to-prove-parts-2-and-3-of-erdos-420-hn",
+    "title": "Extending Axiom's PrimeGapsLib to prove parts 2 and 3 of Erdős #420",
+    "shortDescription": "Проект «Extending Axiom's PrimeGapsLib to prove parts 2 and 3 of Erdős #420», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Extending Axiom's PrimeGapsLib to prove parts 2 and 3 of Erdős #420», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://erdosproblems.ai/problems/420",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50265726",
+    "createdAt": "2026-10-27T23:54:25.222Z"
+  },
+  {
     "slug": "acrobat-pro-pdf-studio-2026-github",
     "title": "Acrobat-Pro-PDF-Studio-2026",
     "shortDescription": "Adobe Acrobat Pro 2026 professional PDF software for Windows. Create, edit, convert, protect and sign PDF documents with advanced OCR, form…",
