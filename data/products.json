@@ -1,5 +1,27 @@
 [
   {
+    "slug": "houyidb-github",
+    "title": "houyidb",
+    "shortDescription": "Single-binary, memory-first vector database in Rust: HNSW, PAX, pgwire/HTTP, WAL.",
+    "fullDescription": "Single-binary, memory-first vector database in Rust: HNSW, PAX, pgwire/HTTP, WAL.\n\nАвтор: houyidb-community. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://houyidb.top",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "database",
+      "embeddings",
+      "hnsw",
+      "pgwire",
+      "postgres",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1434188060",
+    "createdAt": "2026-10-27T09:34:43.923Z"
+  },
+  {
     "slug": "closecode-github",
     "title": "CloseCode",
     "shortDescription": "一款集成codex claudecode opencode  workbuddy 等智能体的agent工具，可免除繁琐的配置，帮助小白更方便的使用gpt,claude,grok，国模等大模型，支持中转站对接",
