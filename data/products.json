@@ -1,5 +1,245 @@
 [
   {
+    "slug": "sectr-serverless-backend-platform-for-easy-deployment-of-ai-agents-hn",
+    "title": "Sectr – Serverless backend platform for easy deployment of AI agents",
+    "shortDescription": "Hey HN, I&#x27;ve been building Sectr, a backend-as-a-service for making it easy(ier) to develop and deploy AI agents. Deploying agents req…",
+    "fullDescription": "Hey HN, I&#x27;ve been building Sectr, a backend-as-a-service for making it easy(ier) to develop and deploy AI agents. Deploying agents requires non-trivial systems design work. Consider a support agent: how do you stream messages to your frontend, how&#x2F;where do you persist messages for frontend fetching later (or for auditing), and when the agent wants to issue a refund, do you spin-down the compute infra while it&#x27;s waiting on human approval? Sectr aims to be the serverless abstraction and platform to provide these systems for you. No sign-up needed to try using the dev server: curl -fsSL https:&#x2F;&#x2F;sectr.dev&#x2F;install.sh | sh # Install CLI sectr init my-agent &amp;&amp; cd my-agent # Starter code sectr dev # Dev server, with UI to test chatting Sectr provides: - Streaming of every token, tool call and event, and persistence so they can be loaded fresh later. - Scaling up, and down to zero when the agent needs to wait, and resumption right to the suspended agent&#x27;s state. - Human approved tools automatically use Sectr&#x27;s suspension and resumption capabilities, no code needed from you. - AG-UI endpoint for any deployed agent so you can trivially hook up your frontend - Local dev server experience, so you can rapidly debug and iterate on your agent&#x27;s behavior At the core, you can deploy any container image to Sectr as long as it implements a certain shaped HTTP endpoint. In practice, currently Sectr provides adapters to let you deploy your existing OpenAI Agents SDK, LangGraph, or Pydantic AI agents, with only 2 new lines of code: app = AgentApp(name=&quot;support&quot;) app.add_route(&quot;&#x2F;chat&quot;, openai_agents(agent)) Certainly the hardest part of building Sectr was getting the resumption logic to be correct and invisible, across the Program State x Model Provider x Agent Framework matrix. For example, an earlier bug was when a model replied with text plus a tool call, Sectr would resume that as two separate messages, instead of one message with a text and tool part. This works, but breaks prompt caching (and might subtly change model behavior). Sectr is free during the beta (and can be tried locally without sign-up); I mainly want feedback, especially on dev &amp; deployment experiences, any bugs, and what features would excite you. Introductory video: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=H-y3wynkKc0 Docs: https:&#x2F;&#x2F;docs.sectr.dev\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://sectr.dev",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50260969",
+    "createdAt": "2026-10-27T15:42:17.314Z"
+  },
+  {
+    "slug": "snippet-an-always-on-ai-agent-hn",
+    "title": "Snippet – An Always-On AI Agent",
+    "shortDescription": "Проект «Snippet – An Always-On AI Agent», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Snippet – An Always-On AI Agent», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/wacht-platform/snippet-service",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50260956",
+    "createdAt": "2026-10-27T15:42:17.314Z"
+  },
+  {
+    "slug": "a-little-tool-to-review-and-understand-prs-more-easily-hn",
+    "title": "A little tool to review and understand PRs more easily",
+    "shortDescription": "I use AI to write software, but I&#x27;m not yet ready to &quot;let go&quot; of understanding the code, so I made this tool which helps me…",
+    "fullDescription": "I use AI to write software, but I&#x27;m not yet ready to &quot;let go&quot; of understanding the code, so I made this tool which helps me focus my attention on the things that matter in a PR.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://step-review.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50260246",
+    "createdAt": "2026-10-27T15:42:17.314Z"
+  },
+  {
+    "slug": "agent-referee-signed-checkable-reviews-and-tie-breaks-for-ai-agents-hn",
+    "title": "Agent Referee – signed, checkable reviews and tie-breaks for AI agents",
+    "shortDescription": "Проект «Agent Referee – signed, checkable reviews and tie-breaks for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Agent Referee – signed, checkable reviews and tie-breaks for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/ccheez34/agent-referee-client",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50260223",
+    "createdAt": "2026-10-27T15:42:17.314Z"
+  },
+  {
+    "slug": "everygen-ai-ai-images-short-videos-and-copy-rewrites-in-one-tab-hn",
+    "title": "EveryGen AI – AI images, short videos and copy rewrites in one tab",
+    "shortDescription": "Проект «EveryGen AI – AI images, short videos and copy rewrites in one tab», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «EveryGen AI – AI images, short videos and copy rewrites in one tab», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://everygenai.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50260209",
+    "createdAt": "2026-10-27T15:42:17.314Z"
+  },
+  {
+    "slug": "carmen-testing-ai-written-gpu-kernels-hn",
+    "title": "carmen – testing AI-written GPU kernels",
+    "shortDescription": "Проект «carmen – testing AI-written GPU kernels», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «carmen – testing AI-written GPU kernels», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/utsav1033/carmen",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50259977",
+    "createdAt": "2026-10-27T15:42:17.314Z"
+  },
+  {
+    "slug": "i-made-localllama-reddit-benchmark-using-ai-ofc-hn",
+    "title": "I made /localllama Reddit benchmark using AI ofc",
+    "shortDescription": "This way i discovered how Qwen 3.8 and flash next are doing great with code",
+    "fullDescription": "This way i discovered how Qwen 3.8 and flash next are doing great with code\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aexol.ai/benchmarks/localllama/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50259887",
+    "createdAt": "2026-10-27T15:42:17.314Z"
+  },
+  {
+    "slug": "adap-an-open-protocol-for-ai-agent-delegated-authority-hn",
+    "title": "ADAP – An open protocol for AI Agent delegated authority",
+    "shortDescription": "Проект «ADAP – An open protocol for AI Agent delegated authority», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ADAP – An open protocol for AI Agent delegated authority», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Hardalion/agent-delegated-authority",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50259731",
+    "createdAt": "2026-10-27T15:42:17.314Z"
+  },
+  {
+    "slug": "spring-ai-privacy-guardrails-pii-tool-permissions-content-checks-hn",
+    "title": "Spring AI Privacy Guardrails – PII, tool permissions, content checks",
+    "shortDescription": "Проект «Spring AI Privacy Guardrails – PII, tool permissions, content checks», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Spring AI Privacy Guardrails – PII, tool permissions, content checks», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/ultramancode/spring-ai-privacy-guardrails",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50259632",
+    "createdAt": "2026-10-27T15:42:17.314Z"
+  },
+  {
+    "slug": "poseforge-local-first-ai-studio-for-images-and-video-codex-comfyui-hn",
+    "title": "PoseForge – Local-first AI studio for images and video (Codex, ComfyUI)",
+    "shortDescription": "Проект «PoseForge – Local-first AI studio for images and video (Codex, ComfyUI)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «PoseForge – Local-first AI studio for images and video (Codex, ComfyUI)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/vishwakulkarni/PoseForge",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50259155",
+    "createdAt": "2026-10-27T15:42:17.314Z"
+  },
+  {
+    "slug": "chat-brawlers-hn",
+    "title": "Chat Brawlers",
+    "shortDescription": "Проект «Chat Brawlers», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Chat Brawlers», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://chat-brawlers.kottos.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50259137",
+    "createdAt": "2026-10-27T15:42:17.314Z"
+  },
+  {
+    "slug": "give-our-ai-coding-runner-a-real-task-and-watch-it-until-merge-hn",
+    "title": "Give our AI coding runner a real task and watch it until merge",
+    "shortDescription": "Проект «Give our AI coding runner a real task and watch it until merge», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Give our AI coding runner a real task and watch it until merge», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://mcptask.online/live?language=en",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50259111",
+    "createdAt": "2026-10-27T15:42:17.314Z"
+  },
+  {
+    "slug": "markdown-is-40-more-token-efficient-with-sqlite-hn",
+    "title": "Markdown is 40× more token-efficient with SQLite",
+    "shortDescription": "Hi HN, I&#x27;m Richard, founder of Native. I&#x27;m working on open-source context ownership, to stop AI centralisation: https:&#x2F;&#x2F…",
+    "fullDescription": "Hi HN, I&#x27;m Richard, founder of Native. I&#x27;m working on open-source context ownership, to stop AI centralisation: https:&#x2F;&#x2F;github.com&#x2F;withnative&#x2F;native My first focus has been making Markdown vaults powerful enough so that teams can self-host all of their context (messaging, docs and projects), without it being externally fragmented or rate-limited. I&#x27;m sharing some early results: Markdown vaults can be 40× more efficient with SQLite! https:&#x2F;&#x2F;www.withnative.ai&#x2F;research-and-posts&#x2F;markdown-contex... Here&#x27;s some of the main ideas: - SQLite or Markdown folders, you pick. You can project the same authoritative event log into either form; more projection formats will follow (e.g. maybe neo4j; we do use a graph structure). - Empirically: SQLite is better for agents! On a 120 trial evaluation for 11,000 records, agents use 40× fewer tokens with SQLite vs Markdown, per correct answer. - Everything is a file or SQLite row. Messages, documents and projects: all can be modelled in your vault. You get local-first collaboration with teammates, synced to a cloud of your choice. - You can render your vault with arbitrary UI. Your WhatsApp-like UI speaks to your teammate&#x27;s Slack-like UI; both are just views over the same database. A few things I&#x27;ve learned building this: - Agents do pretty well even without SQL if you give them strongly typed Markdown frontmatter. This was one arm of the trial I ran. I didn&#x27;t have any clear expectations, but it was cool to watch: agents ended up writing Python scripts to do SQL-like queries. - Cumulatively, cached input tokens can get expensive. I feel silly in hindsight here. I&#x27;d gotten used to letting my sessions run long, &quot;It&#x27;s all cached so it&#x27;s very cheap&quot;. But when I looked at my results here, over 2&#x2F;3 of the token bill on long sessions was cached input... - &quot;Markdown vaults don&#x27;t scale as well as databases&quot; isn&#x27;t as self-evident as I think. This is why I decided to benchmark it... I&#x27;ve had some very blank stares when I try to explain how Markdown files might break at true agent-scale volume. Unfortunately, the dataset is private, because it&#x27;s two months of my own work. I am considering open-sourcing it even so, but there is definitely some embarrassing stuff in there. TBD... I know that independent result verification matters! The core engine that I evaluated is open-source, with more to be released soon: https:&#x2F;&#x2F;github.com&#x2F;withnative&#x2F;native If you&#x27;re interested in trying connected context on an open engine, you can get updates from our website or email me directly: richard@withnative.ai https:&#x2F;&#x2F;www.withnative.ai&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://www.withnative.ai/research-and-posts/markdown-context-benchmark",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50258875",
+    "createdAt": "2026-10-27T15:42:17.314Z"
+  },
+  {
+    "slug": "which-big-sites-block-ai-training-crawlers-but-let-ai-search-in-hn",
+    "title": "Which big sites block AI training crawlers but let AI search in",
+    "shortDescription": "Проект «Which big sites block AI training crawlers but let AI search in», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Which big sites block AI training crawlers but let AI search in», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://getkavel.com/ai-crawlers/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50258781",
+    "createdAt": "2026-10-27T15:42:17.314Z"
+  },
+  {
+    "slug": "citewing-ai-backlink-outreach-agent-hn",
+    "title": "CiteWing – AI backlink outreach agent",
+    "shortDescription": "Проект «CiteWing – AI backlink outreach agent», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «CiteWing – AI backlink outreach agent», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://citewing.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50258568",
+    "createdAt": "2026-10-27T15:42:17.314Z"
+  },
+  {
     "slug": "houyidb-github",
     "title": "houyidb",
     "shortDescription": "Single-binary, memory-first vector database in Rust: HNSW, PAX, pgwire/HTTP, WAL.",
