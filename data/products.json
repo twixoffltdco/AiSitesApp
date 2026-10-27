@@ -1,5 +1,185 @@
 [
   {
+    "slug": "closecode-github",
+    "title": "CloseCode",
+    "shortDescription": "一款集成codex claudecode opencode  workbuddy 等智能体的agent工具，可免除繁琐的配置，帮助小白更方便的使用gpt,claude,grok，国模等大模型，支持中转站对接",
+    "fullDescription": "一款集成codex claudecode opencode  workbuddy 等智能体的agent工具，可免除繁琐的配置，帮助小白更方便的使用gpt,claude,grok，国模等大模型，支持中转站对接\n\nАвтор: kudeerliu48-web. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://github.com/kudeerliu48-web/CloseCode",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "claude",
+      "claude-code",
+      "codex",
+      "deepseek-harness",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1435125178",
+    "createdAt": "2026-10-27T03:38:35.402Z"
+  },
+  {
+    "slug": "hi-shell-github-2",
+    "title": "hi-shell",
+    "shortDescription": "Material 3 Expressive desktop shell for Hyprland, built on Quickshell — Claude AI, live wallpaper theming, widgets, animations everywhere.…",
+    "fullDescription": "Material 3 Expressive desktop shell for Hyprland, built on Quickshell — Claude AI, live wallpaper theming, widgets, animations everywhere. English & Russian.\n\nАвтор: imu-useful. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://t.me/tux_emp",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "arch-linux",
+      "claude",
+      "desktop-shell",
+      "dotfiles",
+      "hyprland",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1432977891",
+    "createdAt": "2026-10-27T03:38:35.402Z"
+  },
+  {
+    "slug": "paper2podium-github",
+    "title": "paper2podium",
+    "shortDescription": "一个 AI 演示技能套装：把一篇论文自动做成两套可登台的 deck——学术答辩（克制学术风）与竞赛路演（国赛深空科技蓝），读论文→精准抠图→排版→讲稿全流程，中英双语。",
+    "fullDescription": "一个 AI 演示技能套装：把一篇论文自动做成两套可登台的 deck——学术答辩（克制学术风）与竞赛路演（国赛深空科技蓝），读论文→精准抠图→排版→讲稿全流程，中英双语。\n\nАвтор: williamtymhuabian. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/williamtymhuabian/paper2podium",
+    "category": "ai-tool",
+    "tags": [
+      "academic",
+      "ai",
+      "bilingual",
+      "llm",
+      "ppt",
+      "presentation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1433413887",
+    "createdAt": "2026-10-27T03:38:35.402Z"
+  },
+  {
+    "slug": "tensor-engine-144-ryan-vo-github",
+    "title": "tensor-engine-144-ryan-vo",
+    "shortDescription": "Ryan Vo | Work in progress: tensor-engine-144-ryan-vo",
+    "fullDescription": "Ryan Vo | Work in progress: tensor-engine-144-ryan-vo\n\nАвтор: A220man. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/A220man/tensor-engine-144-ryan-vo",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "fastapi",
+      "machine-learning",
+      "python",
+      "react",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1433934795",
+    "createdAt": "2026-10-27T03:38:35.402Z"
+  },
+  {
+    "slug": "cobalt-hub-145-2-github",
+    "title": "cobalt-hub-145-2",
+    "shortDescription": "Alan Vo | Work in progress: cobalt-hub-145-2",
+    "fullDescription": "Alan Vo | Work in progress: cobalt-hub-145-2\n\nАвтор: ALANDVO. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/ALANDVO/cobalt-hub-145-2",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "fastapi",
+      "machine-learning",
+      "python",
+      "react",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1435074277",
+    "createdAt": "2026-10-27T03:38:35.402Z"
+  },
+  {
+    "slug": "aether-browser-github",
+    "title": "aether-browser",
+    "shortDescription": "Open-source AI-native browser — full Chromium compatibility, powered 100% by your local Ollama model. Multi-window, Chrome extensions, Brav…",
+    "fullDescription": "Open-source AI-native browser — full Chromium compatibility, powered 100% by your local Ollama model. Multi-window, Chrome extensions, Brave-style shields, AI sidebar. No cloud, no keys, no telemetry.\n\nАвтор: e2sy. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/e2sy/aether-browser",
+    "category": "ai-tool",
+    "tags": [
+      "adblocker",
+      "ai",
+      "ai-browser",
+      "browser",
+      "chrome-extensions",
+      "chromium",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1432820509",
+    "createdAt": "2026-10-27T03:38:35.402Z"
+  },
+  {
+    "slug": "limma-mcp-for-total-recall-and-precision-in-data-retrieval-for-agents-hn",
+    "title": "Limma – MCP for total recall and precision in data retrieval for agents",
+    "shortDescription": "Hello, my name is Berend Graham. My cofounder Shiv Oberai and I have been working on Limma for a year now with the goal of building a proac…",
+    "fullDescription": "Hello, my name is Berend Graham. My cofounder Shiv Oberai and I have been working on Limma for a year now with the goal of building a proactive solution to the reliability issues that plague practical AI and agentic use in companies with RAG. Limma is a single MCP that exists for the sole purpose of ensuring that the right information is retrieved with every query and no information is skipped and or missed. This means total precision and recall. We&#x27;ve found that this approach leads to the lowest rate of hallucination vs. solely targeting agent action verification which has made tremendous strides in capability. We do this by building a map and structuring all data-points within unstructured data as well as federating structured data for addressability so that agents don&#x27;t need to search through chunks directly and instead only get the right information . We wanted this to be extremely easy to use so that anyone can set it up and try it within minutes so that the precision issues (especially with large quantities of data) that LLMs struggle with can finally be remedied. We use self-hosted models (primarily Qwen models as of current) so that the system can be deployed on one&#x27;s own server if needed, and also to optimize for speed. We have a free monthly version on our website if anyone would like to try it out and provide feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://limma.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50254187",
+    "createdAt": "2026-10-27T03:38:35.317Z"
+  },
+  {
+    "slug": "marlow-build-full-stack-apps-with-ai-and-own-your-code-hn",
+    "title": "Marlow – Build full-stack apps with AI and own your code",
+    "shortDescription": "Проект «Marlow – Build full-stack apps with AI and own your code», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Marlow – Build full-stack apps with AI and own your code», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://marlow.app/beta",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50253426",
+    "createdAt": "2026-10-27T03:38:35.317Z"
+  },
+  {
+    "slug": "aroha-signed-shrinking-permissions-for-ai-agents-checked-offline-hn",
+    "title": "Aroha – signed, shrinking permissions for AI agents, checked offline",
+    "shortDescription": "Проект «Aroha – signed, shrinking permissions for AI agents, checked offline», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Aroha – signed, shrinking permissions for AI agents, checked offline», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/ArohaLabs/aroha-protocol",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50253316",
+    "createdAt": "2026-10-27T03:38:35.318Z"
+  },
+  {
     "slug": "a-directory-for-ai-slop-games-hn",
     "title": "A directory for AI-slop games",
     "shortDescription": "Hello HN! As someone who would have otherwise never got into game development if it wasn&#x27;t for AI, I&#x27;m really sorry to see how ma…",
