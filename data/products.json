@@ -1,5 +1,295 @@
 [
   {
+    "slug": "shipwords-github",
+    "title": "shipwords",
+    "shortDescription": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一…",
+    "fullDescription": "Ship a money-making AI site for every new keyword. Cloudflare-native starter with auth, credits, payments and AI generation. | 新词站群框架：一个新词一个站，一个下午上线。起量的继续迭代，没起来的放着不管。不变的共享，变的独立。\n\nАвтор: shipwords-dev. Найдено в GitHub Trending (AI-тематика). ⭐ 48 звёзд.",
+    "url": "https://shipwords.dev",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "cloudflare",
+      "cloudflare-workers",
+      "d1",
+      "react",
+      "saas-boilerplate",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1436698875",
+    "createdAt": "2026-10-28T16:45:17.083Z"
+  },
+  {
+    "slug": "noactually-github",
+    "title": "NoActually",
+    "shortDescription": "Could AI replace you? No, actually. A private, local-first scorecard that counts the times you caught your AI being wrong. Claude Code, Cod…",
+    "fullDescription": "Could AI replace you? No, actually. A private, local-first scorecard that counts the times you caught your AI being wrong. Claude Code, Codex, ChatGPT and more.\n\nАвтор: HTMLGuyLLC. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/HTMLGuyLLC/NoActually",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1436430321",
+    "createdAt": "2026-10-28T16:45:17.083Z"
+  },
+  {
+    "slug": "niannian-github",
+    "title": "niannian",
+    "shortDescription": "念念 · 一个呆在你手机里的AI聊天App。本仓库是念念的更新源：App 内「检查更新」读取 update/public/version.json，安装包见 Releases（仅 arm64-v8a）。源码不在本仓库。",
+    "fullDescription": "念念 · 一个呆在你手机里的AI聊天App。本仓库是念念的更新源：App 内「检查更新」读取 update/public/version.json，安装包见 Releases（仅 arm64-v8a）。源码不在本仓库。\n\nАвтор: xiaofengct. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://xiaofengct.github.io/niannian/",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "android",
+      "apk",
+      "chatbot",
+      "companion",
+      "non-commercial",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1434626172",
+    "createdAt": "2026-10-28T16:45:17.083Z"
+  },
+  {
+    "slug": "vu-a-new-programming-language-designed-for-ai-rust-speeds-py-syntax-hn",
+    "title": "Vu – a new programming language designed for AI. Rust speeds, Py syntax",
+    "shortDescription": "hi everyone! I wanted to share what I&#x27;ve been working on these past 6~ years. TL;DR: Rust is great, but somewhere along the way, I lea…",
+    "fullDescription": "hi everyone! I wanted to share what I&#x27;ve been working on these past 6~ years. TL;DR: Rust is great, but somewhere along the way, I learned that I was too dumb to read and write Rust. As I worked on larger and larger Rust projects, I also became frustrated with the developer experience of working in Rust (slow compile time), so I wanted a better way. Vu&#x27;s language changed a bit over time but the core principles remained the same: 1. It should be easy to read and write 2. It should be memory safe 3. It should be fast to run 4. It should be fast to compile Here&#x27;s how I approached each: 1. Vu is syntactically very close to Python. The ownership rules are the ones Rust has, but I personally find it a lot easier to parse and understand. I&#x27;ve tested this with various LLMs and found it can read and write Vu out the box because of the similarity to Python. 2. Vu uses the same principles of Rust. Every value has one owner, borrows can&#x27;t escape or outlive what they borrow, and nothing changes while it&#x27;s borrowed. 3. Vu compiles down to C at the end of the day, so everything runs approximately at C speeds. 4. vuc check on the compiler’s own source (about 21,500 lines of Vu), takes about 0.4~ s. This check covers parsing, type and borrow checking. cargo check on a Rust project that size usually takes several seconds from scratch. Then there are other opinionated language decisions. Vu has no macros, Vu&#x27;s borrow checker is lighter weight than Rust&#x27;s with simpler interfaces and generics. However, in the past few years, as Vu&#x27;s language evolved and AI began to take over, I expanded Vu&#x27;s principles to include a couple additional principles: 5. It should be secure 6. It should be efficient for LLMs to write 5. I want to pen test Vu in public. In https:&#x2F;&#x2F;github.com&#x2F;vu0tran&#x2F;vu&#x2F;tree&#x2F;main&#x2F;tests , you&#x27;ll see a battery of tests where I&#x27;m trying to basically pwn Vu. There are explicit language decisions in there as well that tries to prevent a host of security flaws that exist in other languages, e.g, integer overflow stops the program instead of quietly wrapping around. 6. The syntax of Vu is designed to be tokenizer efficient. In addition, when Vu checks throws errors, the errors are designed to be token efficient and written in a way that guides LLMs to more easily fix bugs, reducing turns overall. So, in summary, Vu is still experimental. The compiler is 21,500 lines of Vu and compiles itself. The standard library also has TLS, HTTP&#x2F;2, WebSockets and a PostgreSQL client, all tested against Python’s implementations and hostile input. I think most of the pieces are there. It does also compile down also to WebAssembly so you can play around w&#x2F; the checker on the website! Feel free to try to break it! What&#x27;s next: 1. Figure out how to get Vu to perform faster than Rust 2. Rewrite some OSS libraries in Vu to further prove the language\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://vulang.org/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50276431",
+    "createdAt": "2026-10-28T16:45:16.989Z"
+  },
+  {
+    "slug": "potential-conversation-partners-in-bluesky-using-agentic-search-hn",
+    "title": "Potential conversation partners in Bluesky using agentic search",
+    "shortDescription": "What if instead of talking to AI, we could find human counterparts currently sharing the same interest to talk to? Some whales kind of do t…",
+    "fullDescription": "What if instead of talking to AI, we could find human counterparts currently sharing the same interest to talk to? Some whales kind of do that by singing across the ocean. This inspired a thought process for a conceptual social network - whalesong - where an idea, thought or a conversationally valuable statement could be matched on. In contrast with the wide-broadcast social network visibility (restricted on groups or connections), I’d love to explore the idea of context-based networking. This experiment is showcasing the technical feasibility and potential value in whalesong. The goal: uncover conversational counterparts among Bluesky posts using an agentic search algorithm. The setup: a one-week window of bluesky posts with some filtering (e.g. mostly text, no promotions or reposts&#x2F;comments), indexed in a postgres database. A curated seed set - an agentic process defines a conversation-seeking cohort by creating some heuristic queries, iterating and validating it on retrieved data and resulting in a non-exhaustive set of high-quality data points. Counterpart retrieval - for a seed conversation-seeking post, an agentic process generates search queries, runs them against the database and retrieves potential matches. It reviews retrievals and iterates on improving or expanding the search. Out of several configurations, the best performing agentic setup (bespoke mini-harness with Gemini Argon - low) managed to find meaningful matches to 79% of a sample set of 100 seeds. This setup consumed on average 42K input tokens on each match search, of which 56.8% were cached, output token count was negligible. So this experiment made it clearer to me that technology is not the blocker for a “whalesong” experience. This leads me to further investigate the experience itself. Would love to hear from you folks about experiences in getting in touch with a complete stranger on the web because both of you asked the same question or had a similar problem to solve. What made you connect? Where did it happen? Did finding similarity make connecting easy?\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://sketch.wsng.app/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50276379",
+    "createdAt": "2026-10-28T16:45:16.990Z"
+  },
+  {
+    "slug": "files-magic-ai-organize-and-rename-files-via-content-with-undo-on-mac-hn",
+    "title": "Files Magic AI: Organize and rename files via content with undo on Mac",
+    "shortDescription": "Проект «Files Magic AI: Organize and rename files via content with undo on Mac», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Files Magic AI: Organize and rename files via content with undo on Mac», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://1dot.ai/files-magic-ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50275994",
+    "createdAt": "2026-10-28T16:45:16.990Z"
+  },
+  {
+    "slug": "woml-a-markup-language-for-building-workflows-and-ai-agents-hn",
+    "title": "WOML – A markup language for building workflows and AI agents",
+    "shortDescription": "Проект «WOML – A markup language for building workflows and AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «WOML – A markup language for building workflows and AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/dali-benothmen/woml",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50275773",
+    "createdAt": "2026-10-28T16:45:16.990Z"
+  },
+  {
+    "slug": "watch-ai-agents-build-pullboard-live-hn",
+    "title": "Watch AI agents build Pullboard, live",
+    "shortDescription": "Проект «Watch AI agents build Pullboard, live», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Watch AI agents build Pullboard, live», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://pullboard.dev/live/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50275500",
+    "createdAt": "2026-10-28T16:45:16.990Z"
+  },
+  {
+    "slug": "coding-agent-spots-your-ai-practices-and-the-ones-youre-missing-hn",
+    "title": "Coding agent spots your AI practices and the ones you're missing",
+    "shortDescription": "Frontier models improve at a pace faster than the pace at which most humans are able to keep up. Not all of us are obsessed with pushing th…",
+    "fullDescription": "Frontier models improve at a pace faster than the pace at which most humans are able to keep up. Not all of us are obsessed with pushing the boundaries of our agents and trying new ways to work with them. I often spend 12+ hours a day working with an LLM, and still, when I talk to people, I hear of ways of working I hadn’t thought of. What if we could speed up that pace of learning? What if everybody shared their practices of how they are making the most of AI, and if we could learn from each other? What if AI could make that sharing happen? Could everyone catch up with AI then? I know, it sounds dreamy, but my therapist says illusions are necessary—until some of them come true. I built a tool that teaches your local agent to scan your sessions, spot the best practices you already use, and guide you towards the ones you haven’t discovered yet. Only names and counts reach the server. Your sessions never do. The product has a self-consolidating catalogue of practices, MCP servers, plugins and skills. Here’s my stack—scan (locally, all session data remains private). https:&#x2F;&#x2F;app.userrank.ai&#x2F;@milstan To spice things up and give a reason to rescan, I added rankings inspired by Foursquare (who here is old enough to remember Foursquare when it was gamified?). You can rank in the top 10 of a city, or of a field like Product. Claude Code, 10–20 minutes on your own plan: claude plugin marketplace add https:&#x2F;&#x2F;app.userrank.ai&#x2F;plugins&#x2F;marketplace.json claude plugin install userrank@userrank claude &quot;Get my UserRank&quot; Codex, or a quick scan of your Claude or ChatGPT chats: https:&#x2F;&#x2F;app.userrank.ai&#x2F;start\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://app.userrank.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50275266",
+    "createdAt": "2026-10-28T16:45:16.990Z"
+  },
+  {
+    "slug": "an-animated-map-of-the-people-and-money-in-ai-hn",
+    "title": "An animated map of the people and money in AI",
+    "shortDescription": "Проект «An animated map of the people and money in AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An animated map of the people and money in AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://lab.ripplecolab.com/human-system-ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50275207",
+    "createdAt": "2026-10-28T16:45:16.990Z"
+  },
+  {
+    "slug": "bugtape-production-bugs-your-coding-agent-can-read-and-fix-over-mcp-hn",
+    "title": "BugTape – production bugs your coding agent can read and fix over MCP",
+    "shortDescription": "Проект «BugTape – production bugs your coding agent can read and fix over MCP», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «BugTape – production bugs your coding agent can read and fix over MCP», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://bugtape.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50274943",
+    "createdAt": "2026-10-28T16:45:16.990Z"
+  },
+  {
+    "slug": "an-ai-workspace-with-shared-procedural-memory-as-reusable-skills-hn",
+    "title": "An AI workspace with shared procedural memory as reusable skills",
+    "shortDescription": "Проект «An AI workspace with shared procedural memory as reusable skills», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An AI workspace with shared procedural memory as reusable skills», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/TheWariend/CleanSlate",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50274784",
+    "createdAt": "2026-10-28T16:45:16.990Z"
+  },
+  {
+    "slug": "algeon-compose-gpu-graph-vector-and-ml-algorithms-in-sql-hn",
+    "title": "Algeon – Compose GPU graph, vector, and ML algorithms in SQL",
+    "shortDescription": "Algeon is a query engine built on Apache DataFusion that exposes NVIDIA&#x27;s cuGraph, cuVS, and cuML as SQL table functions. It doesn&#x2…",
+    "fullDescription": "Algeon is a query engine built on Apache DataFusion that exposes NVIDIA&#x27;s cuGraph, cuVS, and cuML as SQL table functions. It doesn&#x27;t write its GPU kernels. Instead, it takes what NVIDIA already has and embeds it into DataFusion, so you can call those GPU operations on any arbitrary data, with filter&#x2F;join&#x2F;agg using plain SQL. And why would you want that? Because GPU analytics used to require ad-hoc ETL pipelines, Python glue code, and imperative operation calls. That makes it hard to fit into a backend API service, and it isn&#x27;t flexible enough for frequent exploratory iteration, adapting to different search conditions and data. Think of agents trying to answer complex questions on a datalake, which involves not only relational operations, but also graph&#x2F;vector&#x2F;ML analytics. They can now use declarative SQL to test their hypotheses and build the next query based on the previous response, making GPU OLAP an interactive service. Algeon can also be used as a library living inside your backend service, so your query response can be used directly within a single process, saving the transfer cost between the query engine and backend service. I started building Algeon last year. At first, it was cuDF Rust FFI bindings that aimed to bring GPU ETL pipelines into a single backend process, and it worked very well. Then I realized it might be possible to move GPU data science workloads into an OLAP query engine, since the NVIDIA RAPIDS ecosystem and DataFusion are mature. For use cases, architecture design, benchmarks, and more, feel free to check out, any feedback is welcome https:&#x2F;&#x2F;algeon.dev&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/algeon-dev/algeon",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50274573",
+    "createdAt": "2026-10-28T16:45:16.990Z"
+  },
+  {
+    "slug": "interview-your-analysts-instead-of-auto-generating-a-semantic-layer-hn",
+    "title": "Interview your analysts instead of auto-generating a semantic layer",
+    "shortDescription": "I’ve spent the last year building context for AI analysts in the mid-market. I’ve open sourced a library from my learnings, along the same…",
+    "fullDescription": "I’ve spent the last year building context for AI analysts in the mid-market. I’ve open sourced a library from my learnings, along the same principles of the Matt Pocock skills. Principles: * Claude &#x2F; Codex &#x2F; Cursor etc are great data agents - you just need context to enable them to answer business questions correctly. * Much of the important context lives in analysts heads&#x27; * Context must be maintainable (short, human readable - markdown and yaml) * Added context should be load bearing, not repeat of information that is available in another source of truth - and evaluations prove the value of the context * Companies should own their own context, and must be shareable with any model * Context should be version controlled (and github works as a context store). What the library does: * Performs an interview with your analysts (context-interview skill), one domain at a time, similar to what I have done as a consultant. The interview is informed by your query logs. * The AI develops evaluation questions at the same time as building the context - and at the end of each domain interview asks you to run an evaluation with and without the context. The evaluation will actually check the results against your dashboards if you allow it. We have shown increases in accuracy from 87% to 95% by adding this context in our imaginary open-source company, Shorelane. * Provides a set of skills to use the context that follow best practices for self service analytics: * Write a plain english plan for the business user to approve * Execute the plan * Verify that the execution followed the plan, and provide a simple uncertainty score. * Enable a adversarial review of the answer if their are doubts. What you get: Context repo written in markdown and yaml after you finish the interview. We use a single github repo, divided into domains. The interview can be shared and restarted by checking in&#x2F;out of github. A set of skills to share with your business team Optional: We offer a fast MCP server to serve the Github-based context to your team.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/nodal-data/nodal-context",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50274358",
+    "createdAt": "2026-10-28T16:45:16.990Z"
+  },
+  {
+    "slug": "local-tracked-versioned-legal-research-databases-hn",
+    "title": "Local, Tracked, Versioned, Legal Research Databases",
+    "shortDescription": "This is a project I&#x27;ve been working on for about 8 months now. I worked in legal tech for 3 years and found that one of the biggest hu…",
+    "fullDescription": "This is a project I&#x27;ve been working on for about 8 months now. I worked in legal tech for 3 years and found that one of the biggest hurdles for AI agents and lawyers alike when doing legal research is tracking changes, and correctly cross referencing those changes between different forms of legal documents. W2D builds a SQLite dataset from public sources, and offers agent skills for answering questions about that dataset. The dataset holds multiple revisions of the U.S. Code at each release point that you add. It holds the public laws that amend the Code, and it links each amendment to the change that it made. It holds court opinions from CourtListener, by page and paragraph, and it links each U.S.C. citation to the provision that the court cited. It can also hold House roll calls. This is similar in spirit to &quot;git for Law&quot; but includes a lot more utilities than diffs to make it an effective tool for research.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.wordstodata.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50274235",
+    "createdAt": "2026-10-28T16:45:16.990Z"
+  },
+  {
+    "slug": "babeltro-nine-demoscene-effects-in-13-languages-pixel-identical-hn",
+    "title": "Babeltro – Nine demoscene effects in 13 languages, pixel-identical",
+    "shortDescription": "I was wondering how those classic demoscene effects come out in different languages. It’s interesting to see the required contortions for e…",
+    "fullDescription": "I was wondering how those classic demoscene effects come out in different languages. It’s interesting to see the required contortions for each language to get there. For example, SQLite has no float32, so it&#x27;s emulated in SQL. Wasm has no sin(), so the hand-written port builds its own sine table, to name a few. It was built end-to-end by AI agents. Every port is checked pixel by pixel against the C reference by a script in the repo.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://babeltro.storagebits.workers.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50274193",
+    "createdAt": "2026-10-28T16:45:16.990Z"
+  },
+  {
+    "slug": "ai-resume-reviewer-built-with-nextjs-hn",
+    "title": "AI Resume Reviewer Built with Next.js",
+    "shortDescription": "Проект «AI Resume Reviewer Built with Next.js», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Resume Reviewer Built with Next.js», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ai-resume-reviewer-nine-drab.vercel.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50274082",
+    "createdAt": "2026-10-28T16:45:16.990Z"
+  },
+  {
     "slug": "coregold-global-virtual-card-platform-for-media-buying-ai-saas-cross-border-paym",
     "title": "-CoreGold---Global-Virtual-Card-Platform-for-Media-Buying-AI-SaaS-Cross-Border-Payments",
     "shortDescription": "专为跨境电商独立站、海外广告投放（FB / TikTok / Google）及 AI SaaS 订阅量身打造的企业级 Visa / Mastercard 虚拟信用卡平台。支持 USDT 极速充值开卡、多卡隔离防关联、单商户锁定与自定义限额，解决拒付、风控与海外支付难题。",
