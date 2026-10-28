@@ -1,5 +1,247 @@
 [
   {
+    "slug": "awesome-ai-papers-github",
+    "title": "awesome-ai-papers",
+    "shortDescription": "Must-read AI papers, explained simply",
+    "fullDescription": "Must-read AI papers, explained simply\n\nАвтор: aixisstudio. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/aixisstudio/awesome-ai-papers",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "list",
+      "papers",
+      "research",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1436283731",
+    "createdAt": "2026-10-28T03:54:59.547Z"
+  },
+  {
+    "slug": "prism-lens-144-github",
+    "title": "prism-lens-144",
+    "shortDescription": "Alan Vo | Work in progress: prism-lens-144",
+    "fullDescription": "Alan Vo | Work in progress: prism-lens-144\n\nАвтор: ALANDVO. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/ALANDVO/prism-lens-144",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "fastapi",
+      "machine-learning",
+      "python",
+      "react",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1436231514",
+    "createdAt": "2026-10-28T03:54:59.547Z"
+  },
+  {
+    "slug": "atlas-observatory-144-github",
+    "title": "atlas-observatory-144",
+    "shortDescription": "Ryan Vo | Work in progress: atlas-observatory-144",
+    "fullDescription": "Ryan Vo | Work in progress: atlas-observatory-144\n\nАвтор: A220man. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/A220man/atlas-observatory-144",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "fastapi",
+      "machine-learning",
+      "python",
+      "react",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1434761210",
+    "createdAt": "2026-10-28T03:54:59.547Z"
+  },
+  {
+    "slug": "exhaust-github",
+    "title": "exhaust",
+    "shortDescription": "Exhaust is an agent-first toolkit for security research.",
+    "fullDescription": "Exhaust is an agent-first toolkit for security research.\n\nАвтор: kzndotsh. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/kzndotsh/exhaust",
+    "category": "productivity",
+    "tags": [
+      "agentic-ai",
+      "agentic-workflow",
+      "agents",
+      "ai",
+      "artificial-intelligence",
+      "harness",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1434821370",
+    "createdAt": "2026-10-28T03:54:59.547Z"
+  },
+  {
+    "slug": "agents-on-aws-github",
+    "title": "agents-on-aws",
+    "shortDescription": "Hands-On guides for building, deploying, securing, and operating AI agents on AWS — from local dev to production with AgentCore Runtime, Me…",
+    "fullDescription": "Hands-On guides for building, deploying, securing, and operating AI agents on AWS — from local dev to production with AgentCore Runtime, Memory, Gateway, Identity, Browser, and more.\n\nАвтор: anveshmuppeda. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/anveshmuppeda/agents-on-aws",
+    "category": "developer",
+    "tags": [
+      "agent-framework",
+      "ai",
+      "ai-agents",
+      "aws",
+      "bedrock",
+      "bedrock-agentcore",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1433756152",
+    "createdAt": "2026-10-28T03:54:59.547Z"
+  },
+  {
+    "slug": "prism-hub-146-github",
+    "title": "prism-hub-146",
+    "shortDescription": "Ryan Vo | Work in progress: prism-hub-146",
+    "fullDescription": "Ryan Vo | Work in progress: prism-hub-146\n\nАвтор: A220man. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/A220man/prism-hub-146",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "fastapi",
+      "machine-learning",
+      "python",
+      "react",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1434852419",
+    "createdAt": "2026-10-28T03:54:59.547Z"
+  },
+  {
+    "slug": "binary-hiring-tool-ats-for-startups-that-is-mcp-friendly-hn",
+    "title": "Binary – hiring tool (ATS) for startups that is MCP friendly",
+    "shortDescription": "Hi HN, I am Shikhar, founder of Binary. It&#x27;s an applicant tracking system (ATS) for startups that is MCP friendly and comes with a fre…",
+    "fullDescription": "Hi HN, I am Shikhar, founder of Binary. It&#x27;s an applicant tracking system (ATS) for startups that is MCP friendly and comes with a free forever plan. It can do a lot of things - creating hiring forms, career pages, screening candidates, tracking the hiring funnel, scheduling interviews and more. I decided to build it because old-school ATS tools felt very slow, outdated and expensive. In fact, many of them don&#x27;t even allow using the tool without speaking to sales. We not just have a self-serve, but the AI even sets up some sample data so that you can play around instantly. We&#x27;ve been heads down working with a lot of startups who all wanted a more AI-first ATS, and seeing some early success. This is my first time posting on HN. If there are any founders&#x2F;recruiters, I&#x27;d love to get your honest feedback or thoughts on the tool.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://binary.so",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50269124",
+    "createdAt": "2026-10-28T03:54:59.382Z"
+  },
+  {
+    "slug": "the-new-way-to-make-ai-ugc-ads-in-2026-hn",
+    "title": "The New Way to Make AI UGC Ads in 2026",
+    "shortDescription": "In today’s digital marketplace, video content dictates ad performance and search rankings. However, traditional video production is slow, e…",
+    "fullDescription": "In today’s digital marketplace, video content dictates ad performance and search rankings. However, traditional video production is slow, expensive, and difficult to scale. AivideosUGC solves this bottleneck. As a leading AI-powered UGC creation platform, AivideosUGC Turn product URL, image, or prompt into authentic, high-converting UGC video ads in minutes for TikTok, Reels, and YouTube Shorts.with Ai video agent and Ai actors ,ready-to-use video templates.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://www.aivideosugc.com/ai-video-generation",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50268919",
+    "createdAt": "2026-10-28T03:54:59.382Z"
+  },
+  {
+    "slug": "cirkit-annotate-trace-and-ask-ai-about-schematic-pdfs-hn",
+    "title": "Cirkit – Annotate, Trace, and Ask AI About Schematic PDFs",
+    "shortDescription": "Documentation tool for EEs to document their design better",
+    "fullDescription": "Documentation tool for EEs to document their design better\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.cirkit.us/demo/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50268880",
+    "createdAt": "2026-10-28T03:54:59.382Z"
+  },
+  {
+    "slug": "how-to-make-ai-ugc-ads-in-2026-using-an-ai-video-generator-hn",
+    "title": "How to Make AI UGC Ads in 2026 Using an AI Video Generator",
+    "shortDescription": "AI UGC (Artificial Intelligence User-Generated Content) is the automated creation of casual, creator-style review and unboxing videos using…",
+    "fullDescription": "AI UGC (Artificial Intelligence User-Generated Content) is the automated creation of casual, creator-style review and unboxing videos using AI avatars, AI scriptwriters, and realistic voiceovers. It replaces traditional human influencers, saving brands time and money on production. AivideosUGC solves this bottleneck. As a leading AI-powered UGC creation platform, AivideosUGC Turn product URL, image, or prompt into authentic, high-converting UGC video ads in minutes for TikTok, Reels, and YouTube Shorts.with Ai video agent and Ai actors ,ready-to-use video templates.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.aivideosugc.com/",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50268879",
+    "createdAt": "2026-10-28T03:54:59.382Z"
+  },
+  {
+    "slug": "misery-in-america-hn",
+    "title": "Misery in America",
+    "shortDescription": "A model forecasting the misery index into next year. You can find the model without the article here: https:&#x2F;&#x2F;app.sightspinner.ai…",
+    "fullDescription": "A model forecasting the misery index into next year. You can find the model without the article here: https:&#x2F;&#x2F;app.sightspinner.ai&#x2F;share&#x2F;g7Xirw5fr1e_BUExZv0hvlqjkW...\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://sightspinner.ai/blog/misery-in-america-2026-10-28.html",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50268124",
+    "createdAt": "2026-10-28T03:54:59.382Z"
+  },
+  {
+    "slug": "i-built-trvlrr-home-for-all-your-travels-hn",
+    "title": "I built Trvlrr, home for all your travels",
+    "shortDescription": "Hi HN, I&#x27;m Sanjay. I&#x27;ve been travelling since I moved from Pakistan to Stockholm in 2008; I live in Sydney now. My trips were sca…",
+    "fullDescription": "Hi HN, I&#x27;m Sanjay. I&#x27;ve been travelling since I moved from Pakistan to Stockholm in 2008; I live in Sydney now. My trips were scattered across a spreadsheet, airline apps, old inboxes and a photo library, so I built Trvlrr to hold all of it. It&#x27;s how I plan all my future trips and look back at all my past ones. Forward a booking email (flights, trains, hotels, tours) to a private address and it lands on the right day of the right trip. Every past trip is kept, with stats that count only what actually happened. Photos are filed by trip and searchable by what&#x27;s in them. It&#x27;s in Claude&#x27;s and ChatGPT&#x27;s and Raycast directories, so you can install it and use it via MCP: ask &quot;when was I last in Lisbon?&quot; or &quot;add this hotel to my Japan trip&quot;. In fact, this is how I imported all of my travel history. It&#x27;s been a fun challenge working out the intricate details and adding features I&#x27;d always wanted in an app like this. iPhone app plus a full web app (Android is under development). Free covers everything for few trips, you can add more via mcp to onboard but the app should be functional. No ads, no data selling. Try without signing up: https:&#x2F;&#x2F;trvlrr.app&#x2F;tools&#x2F;countries-visited-map I&#x27;d love for you to try it and send me any feedback you have. Cheers, Sanjay\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://trvlrr.app/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50268115",
+    "createdAt": "2026-10-28T03:54:59.382Z"
+  },
+  {
+    "slug": "guess-what-frontier-llms-do-in-a-repeated-prisoners-dilemma-hn",
+    "title": "Guess what frontier LLMs do in a repeated prisoner's dilemma",
+    "shortDescription": "Проект «Guess what frontier LLMs do in a repeated prisoner's dilemma», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Guess what frontier LLMs do in a repeated prisoner's dilemma», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://thenunchiproject.com/game/ai-decides",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50267680",
+    "createdAt": "2026-10-28T03:54:59.382Z"
+  },
+  {
     "slug": "brass-github",
     "title": "brass",
     "shortDescription": "Brass: a programming language designed for AI to write and humans to trust",
