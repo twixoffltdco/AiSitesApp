@@ -1,5 +1,135 @@
 [
   {
+    "slug": "topopt-github",
+    "title": "topopt",
+    "shortDescription": "Topology optimization for 3D printing, as an MCP server for Claude, Codex, Cursor and other AI agents. Loads and regions in, a lighter prin…",
+    "fullDescription": "Topology optimization for 3D printing, as an MCP server for Claude, Codex, Cursor and other AI agents. Loads and regions in, a lighter printable STL out.\n\nАвтор: chartergroup. Найдено в GitHub Trending (AI-тематика). ⭐ 9 звёзд.",
+    "url": "https://topopt.ai",
+    "category": "ai-tool",
+    "tags": [
+      "3d-printing",
+      "additive-manufacturing",
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "claude-code-plugins",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1437821375",
+    "createdAt": "2026-10-29T07:27:32.912Z"
+  },
+  {
+    "slug": "agencode-github",
+    "title": "AgenCode",
+    "shortDescription": "跑在 Android 手机上的 AI 智能体：接任意 OpenAI 兼容接口，内置 Linux shell、APK 反编译/回编译、技能包与 MCP 工具",
+    "fullDescription": "跑在 Android 手机上的 AI 智能体：接任意 OpenAI 兼容接口，内置 Linux shell、APK 反编译/回编译、技能包与 MCP 工具\n\nАвтор: xz2762862767. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://github.com/xz2762862767/AgenCode",
+    "category": "chatbot",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-assistant",
+      "android",
+      "android-app",
+      "apk",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1436977954",
+    "createdAt": "2026-10-29T07:27:32.912Z"
+  },
+  {
+    "slug": "nozeli-github",
+    "title": "nozeli",
+    "shortDescription": "Agent 协作编辑工作台：阅读、批注、编辑、分屏与可审阅的任务闭环。Linux Alpha。",
+    "fullDescription": "Agent 协作编辑工作台：阅读、批注、编辑、分屏与可审阅的任务闭环。Linux Alpha。\n\nАвтор: SeemSeam. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://github.com/SeemSeam/nozeli",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "agpl-3-0",
+      "ai",
+      "annotations",
+      "document-editor",
+      "electron",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1437750673",
+    "createdAt": "2026-10-29T07:27:32.912Z"
+  },
+  {
+    "slug": "alignment-interview-challenge-hn",
+    "title": "Alignment Interview Challenge",
+    "shortDescription": "If I&#x27;m abusing Show HN feel free to downvote (I know this blurs the line between a job post and a Show), but genuinely just trying to…",
+    "fullDescription": "If I&#x27;m abusing Show HN feel free to downvote (I know this blurs the line between a job post and a Show), but genuinely just trying to get some feedback from other engineers &#x2F; engineering leaders on an approach we&#x27;re trying here @ DocLoop re: engineering interviewing. TLDR: Now that coding is no longer at a premium my thesis is that alignment is more precious than ever.... this is my optimistic attempt at trying to build something that achieves a _little_ bit of it. It&#x27;s a compromise between the challenges everyone hates taking and _something_ that a recruiting team can use to get some meaningful signal amidst the sea of AI submissions that come. Definitely open to critique!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://docloop.com/careers/engineering-alignment-quiz",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50285386",
+    "createdAt": "2026-10-29T07:27:32.858Z"
+  },
+  {
+    "slug": "wishcode-post-an-idea-you-wish-existed-hn",
+    "title": "Wishcode: Post an idea you wish existed",
+    "shortDescription": "Post an idea, get surprised to see how many people want it too and wait until a developer realises an actual demand and builds it!",
+    "fullDescription": "Post an idea, get surprised to see how many people want it too and wait until a developer realises an actual demand and builds it!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://wishcode-ai.vercel.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50285233",
+    "createdAt": "2026-10-29T07:27:32.858Z"
+  },
+  {
+    "slug": "fabivo-furniture-design-from-a-photo-to-a-numbered-cut-list-hn",
+    "title": "Fabivo – Furniture design from a photo to a numbered cut list",
+    "shortDescription": "Hello all, Ive been building Fabivo, a free furniture planner that runs in the browser. You sketch it simply by drawing it, (by far my favo…",
+    "fullDescription": "Hello all, Ive been building Fabivo, a free furniture planner that runs in the browser. You sketch it simply by drawing it, (by far my favorite feature of this app), clicking for boards or just selecting some starting designs. But what i think separates fabivo from others its the image to model ai assistant, which took me a looong time to develop and get some quirks fixed, thanks god latest models are focusing on 3d, thats been helping too! The photo part is an image to JSON CAD harness: the model returns a parametric furniture model in mm that the app can build and edit. That harness is also what i benchmark, and honestly its the reason the app exists. I wanted to see if a photo could turn into a plan i could take to the saw. Also finetuned some image models and found interesting stuff, that was a first. My intention was to basically reuse the drawing feature to convert a 2d line sketch from image models like gpt image &#x2F; nano banana to my parametric model, which &quot;worked&quot;, and was actually thinking of using that for prod, but then cheaper&#x2F;better models at 3d launched, but anyways, i learned a lot! Im getting better performance from my harness than from plain 3js, tho this is anecdotally and havent actually benchmarked it... Happy to answer anything, especially about the harness or the cut order. edit: Adding the numbers, missed them. 17 photos of real furniture, three models, same harness, medium reasoning, same tools. Scored on how close the returned structure and boards are to the gold model, so its my own set. (tho i have a hard time making a good scoring metric... just usually go by look!) Model (medium reasoning) Avg. time &#x2F; photo Avg. input tokens &#x2F; photo Avg. output tokens &#x2F; photo Avg. tool calls &#x2F; photo GPT-6.1 Terra 9.5 s 30,409 632 1.06 Claude Sonnet 5.5 13.6 s 50,167 1,592 1.18 Claude Haiku 5.5 34.9 s 66,786 6,658 2.35 Terra was both cheaper per photo and the most consistent to my likings. Sonnet was close on quality, Haiku needed way more tool calls to get there.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.fabivo.app/en",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50284856",
+    "createdAt": "2026-10-29T07:27:32.858Z"
+  },
+  {
+    "slug": "startica-open-source-app-for-seo-marketing-accessibility-and-security-hn",
+    "title": "Startica Open-source app for SEO, marketing, accessibility and security",
+    "shortDescription": "Hi HN, name is Casper. Really apprehensive about posting here but I figured there might be someone else out there that could use some of th…",
+    "fullDescription": "Hi HN, name is Casper. Really apprehensive about posting here but I figured there might be someone else out there that could use some of the same tools. Been building a lot sites and other apps lately and I needed a lot of extra tools but not a lot of budget to spend on SaaS subscriptions for every project. So I started adding in features of other tools I wanted to use to help manage marketing, SEO, accessibility and security. Its still very rough and yes, it was built with the help of AI. Looking for feedback, good or bad haha.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/chriscasper/startica",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50284303",
+    "createdAt": "2026-10-29T07:27:32.858Z"
+  },
+  {
     "slug": "recommerce-github",
     "title": "recommerce",
     "shortDescription": "Agent skills for better second-hand decisions.",
