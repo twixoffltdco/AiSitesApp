@@ -1,5 +1,279 @@
 [
   {
+    "slug": "rpocket-ai-coding-agent-toolkit-github",
+    "title": "rpocket-AI-Coding-Agent-Toolkit",
+    "shortDescription": "A powerful all-in-one AI Coding Agent toolkit for Claude Code, OpenAI Codex, and more. Get started in just a few clicks with a simple setup…",
+    "fullDescription": "A powerful all-in-one AI Coding Agent toolkit for Claude Code, OpenAI Codex, and more. Get started in just a few clicks with a simple setup designed for effortless installation, flexible workflows, and smarter AI-powered development across any project.\n\nАвтор: Vampiresatyr. Найдено в GitHub Trending (AI-тематика). ⭐ 32 звёзд.",
+    "url": "https://github.com/Vampiresatyr/rpocket-AI-Coding-Agent-Toolkit",
+    "category": "chatbot",
+    "tags": [
+      "agent-skills",
+      "agentic-ai",
+      "ai",
+      "ai-coding-agent",
+      "ai-coding-assistant",
+      "ai-coding-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1437334673",
+    "createdAt": "2026-10-29T20:03:04.900Z"
+  },
+  {
+    "slug": "rpocket-skill4agent-mcp-server-github",
+    "title": "rpocket-skill4agent-mcp-server",
+    "shortDescription": "MCP Server for skill4agent - Search and install AI skills via Model Context Protocol",
+    "fullDescription": "MCP Server for skill4agent - Search and install AI skills via Model Context Protocol\n\nАвтор: Windlich13044. Найдено в GitHub Trending (AI-тематика). ⭐ 32 звёзд.",
+    "url": "https://github.com/Windlich13044/rpocket-skill4agent-mcp-server",
+    "category": "developer",
+    "tags": [
+      "academic-integrity",
+      "academic-integrity-tool",
+      "ai",
+      "ai-skills",
+      "ai-workflows",
+      "apa7",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1437334992",
+    "createdAt": "2026-10-29T20:03:04.900Z"
+  },
+  {
+    "slug": "release-resocket-flow-docs-github",
+    "title": "release-resocket-flow-docs",
+    "shortDescription": "Agent skill for music distributors: keep release-flow docs honest vs code, or scaffold a local Adonis/Nest moderation API.",
+    "fullDescription": "Agent skill for music distributors: keep release-flow docs honest vs code, or scaffold a local Adonis/Nest moderation API.\n\nАвтор: loyaltyzkeeper. Найдено в GitHub Trending (AI-тематика). ⭐ 32 звёзд.",
+    "url": "https://github.com/loyaltyzkeeper/release-resocket-flow-docs",
+    "category": "developer",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-code-skill",
+      "claude-code-skills",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1437333192",
+    "createdAt": "2026-10-29T20:03:04.900Z"
+  },
+  {
+    "slug": "fitness-functions-for-dbt-projects-hn",
+    "title": "Fitness Functions for Dbt Projects",
+    "shortDescription": "Managing data transformation (e.g. dbt) projects at scale can be challenging: DAG violations, that one model that grew to 2K lines, duplica…",
+    "fullDescription": "Managing data transformation (e.g. dbt) projects at scale can be challenging: DAG violations, that one model that grew to 2K lines, duplicated logic. Inspired by the book &#x27;Building Evolutionary Architectures&#x27; I built tff to help data transformation projects evolve in a desired direction. It comes with a github bot that you can plugin to your CI pipeline. It aims to let transformation projects evolve in the desired direction by: * ensuring layer boundary integrity; * detect duplicate CTE logic; * catch violations locally and in CI Core concepts: rules apply to models; checks apply to architecture and DAG checks. Curious to read what you think. What can be improved? What&#x27;s missing?\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/tjirab/tff",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50294526",
+    "createdAt": "2026-10-29T20:03:05.325Z"
+  },
+  {
+    "slug": "academic-ancestry-see-who-taught-the-people-who-taught-you-launch-hn",
+    "title": "Academic Ancestry – See Who taught the people who taught you (Launch)",
+    "shortDescription": "I&#x27;ve built this completely solo over the last month. I posted here once a few weeks ago at a very early stage, but since it has greatl…",
+    "fullDescription": "I&#x27;ve built this completely solo over the last month. I posted here once a few weeks ago at a very early stage, but since it has greatly matured and I feel is legitimate for a repost. We all know &quot;We stand on the shoulders of giants&quot;, but who&#x27;s shoulders exactly? This application is meant to help anyone answer this for themselves, their advisor, or just a scholar they are curious about - anywhere in the world. Current Challenges I&#x27;m facing are largely surrounding PDF extractions which I aim to complete as many templates as possible to reduce the token costs incurred running the worst of them through an LLM for ingestion. I also happen to be LFW, if you or someone you know needs an engineer who doesn&#x27;t need hand holding to drive from concept, to data, through pixels and delivers scalable, distributable production solutions- Reach out, I&#x27;d love to connect! (My Resume is available on the website through the Toast). The Goal with this app is that it becomes a legitimate reference and core hub&#x2F;registry of information alongside sources like Google Scholar, Wikidata, OpenAlex, etc. Would Love Feedback, Advice, Feature requests, even &quot;Hey I tried to look my self&#x2F;friend&#x2F;advisor up and couldnt find them, or noticed a mistake&quot; - ABSOLUTELY ALL FEEDBACK WILL BE RESPONDED TO AND ACTED UPON IMMEDIATELY - Thankyou for Checking it out!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://academicancestry.org/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50294325",
+    "createdAt": "2026-10-29T20:03:05.325Z"
+  },
+  {
+    "slug": "kinoloom-a-local-ai-film-studio-for-an-8-gb-gpu-hn",
+    "title": "Kinoloom – A local AI film studio for an 8 GB GPU",
+    "shortDescription": "Проект «Kinoloom – A local AI film studio for an 8 GB GPU», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Kinoloom – A local AI film studio for an 8 GB GPU», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/harlixay7/Kinoloom",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50293595",
+    "createdAt": "2026-10-29T20:03:05.325Z"
+  },
+  {
+    "slug": "phpclaw-ai-agent-runtime-for-php-with-tools-memory-and-guards-hn",
+    "title": "phpClaw – AI agent runtime for PHP with tools, memory and guards",
+    "shortDescription": "Проект «phpClaw – AI agent runtime for PHP with tools, memory and guards», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «phpClaw – AI agent runtime for PHP with tools, memory and guards», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 9 баллов.",
+    "url": "https://github.com/phpclaw-php/phpclaw-monorepo",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50293361",
+    "createdAt": "2026-10-29T20:03:05.325Z"
+  },
+  {
+    "slug": "we-mapped-data-center-regulations-across-50-states-and-1462-localities-hn",
+    "title": "We mapped data center regulations across 50 states and 1,462 localities",
+    "shortDescription": "Hi HN! My company Regbase tracks regulatory developments around the world for compliance teams at major corporations. Ahead of the midterm…",
+    "fullDescription": "Hi HN! My company Regbase tracks regulatory developments around the world for compliance teams at major corporations. Ahead of the midterm elections we decided to do an in-depth survey of all state and local regulations around data centers. We built an interactive map showing the data center policies across the United States. It covers all 50 states and 1,462 localities across legislation, regulations and executive orders. We collected and analyzed the data using our platform. Every result has a link to the official source so you can read the policy for yourself. Here&#x27;s some interesting things we learned: - Moratoriums (temporary bans) are the most common instrument. We counted 1,010 in total with an average duration of 10 months. - Starting around October 2025, most policies switched from tax incentives to bans and restrictions. This correlates with increased energy prices and worsening public sentiment towards AI. - When construction is allowed, it&#x27;s very common for protections to be put in place particularly around electricity and less for water. Many of the bans are actually refusals to issue these licenses. We would love your feedback! In particular please let us know if there is any other data that would be useful or interesting to see.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://regbase.com/datacenters",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50293153",
+    "createdAt": "2026-10-29T20:03:05.325Z"
+  },
+  {
+    "slug": "sheetgraph-ai-agents-can-understand-complex-spreadsheets-hn",
+    "title": "Sheetgraph, AI agents can understand complex spreadsheets",
+    "shortDescription": "Hi guys, I built a tool www.lovespreadsheets.com earlier this year and a huge problem we kept running into is processing messy, real-world,…",
+    "fullDescription": "Hi guys, I built a tool www.lovespreadsheets.com earlier this year and a huge problem we kept running into is processing messy, real-world, complex spreadsheets for AI agents. Even a &quot;medium&quot; sized spreadsheet converts to about 1m+ tokens if read fully, which immediately blows up the current context windows of most models. So I noticed most agents sample data from spreadsheets in chunks instead. So I (&amp; Claude) built this library Sheetgraph, https:&#x2F;&#x2F;github.com&#x2F;asharma327&#x2F;sheetgraph , to compress spreadsheets (~100x compression) while still maintaining their structure (like a dependency graph for formulas) &amp; other relevant metadata such as macros, cell data types, formatting. There is a zipped full workbook of the spreadsheet as well for the agent to lookup data as needed. Still rough around the edges so would love any feedback on both the idea and any details. This is used in our primary product + services platform Love Spreadsheets so we are actively maintaining and improving it. Thanks!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/asharma327/sheetgraph",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50293148",
+    "createdAt": "2026-10-29T20:03:05.325Z"
+  },
+  {
+    "slug": "makr-find-nearby-co-founders-hn",
+    "title": "Makr – find nearby co-founders",
+    "shortDescription": "Проект «Makr – find nearby co-founders», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Makr – find nearby co-founders», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://makr.breadbowl.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50292772",
+    "createdAt": "2026-10-29T20:03:05.325Z"
+  },
+  {
+    "slug": "apgar-catch-agent-regressions-without-an-llm-judge-hn",
+    "title": "Apgar – Catch agent regressions without an LLM judge",
+    "shortDescription": "Hey HN, We build financial AI agents, and Apgar is the tool we wrote to see whether a harness change made an agent better or worse in produ…",
+    "fullDescription": "Hey HN, We build financial AI agents, and Apgar is the tool we wrote to see whether a harness change made an agent better or worse in production. Our offline evals can&#x27;t cover every kind of question or session real users bring, and the LLM judge we run in Langfuse is too expensive to use on more than a small slice of traffic, so some failures get through. Apgar is a small release health checker that sits on top of our Langfuse data. It picks up the release from the production traces, and for the first hours of each new release it compares the agent&#x27;s behavior with the previous release on things like tool calls per turn, retries of the same failing call, loops, output length and cost per turn (11 metrics right now). The release page shows what moved in both directions. When something gets worse, we get a Slack message (and a webhook) saying which metric moved and where the change is concentrated, for example only on Telegram or only in long sessions. We&#x27;ve been running it for a while and decided to open-source it: https:&#x2F;&#x2F;github.com&#x2F;oimo-ai&#x2F;apgar It&#x27;s not meant to be another monitoring tool. We still use Langfuse for that. Apgar only tries to answer &quot;is this release worse than the last one?&quot; It works with Langfuse or with anything that sends OpenTelemetry. There&#x27;s no LLM judge in it, so it&#x27;s cheap enough to run on all traffic. The downside is that it can&#x27;t tell that an answer is wrong if everything else about the turn looks the same. That&#x27;s still what our evals are for. It runs on Docker Compose (or Helm) with ClickHouse, and it&#x27;s Apache-2.0. The Agents page can load demo data if you want to try it without connecting anything. Curious how others deal with this. When you change your harness or prompts, how do you find out whether the agent actually got better or worse?\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/oimo-ai/apgar",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50292363",
+    "createdAt": "2026-10-29T20:03:05.325Z"
+  },
+  {
+    "slug": "earndraft-generate-ebooks-with-ai-hn",
+    "title": "EarnDraft – Generate Ebooks with AI",
+    "shortDescription": "Проект «EarnDraft – Generate Ebooks with AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «EarnDraft – Generate Ebooks with AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.earndraft.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50291202",
+    "createdAt": "2026-10-29T20:03:05.325Z"
+  },
+  {
+    "slug": "wavefunction-a-minimal-open-source-desktop-coding-agent-for-mac-hn",
+    "title": "Wavefunction – a minimal, open-source desktop coding agent for Mac",
+    "shortDescription": "During the dark ages of AI, when Opus 5 was incomprehensible and Codex Ultra was burning all tokens within a day, I decided to give open-so…",
+    "fullDescription": "During the dark ages of AI, when Opus 5 was incomprehensible and Codex Ultra was burning all tokens within a day, I decided to give open-source agents and models a try. What I saw was that a lot of the tools I tried were terminal-first, and desktop apps were less common. Additionally, I felt that lately a lot of the agents apps are slowly trying to become “superapps”. They keep adding more and more features that imo are not always useful and make the UI quite heavy and complex. This motivated me to build Wavefunction: A minimal, open-source app desktop app that focuses on the coding experience and tries to reduce unnecessary features. It doesn’t have a built in browser and its computer use functionality works in a VM. I built it on top of langgraph and it’s packaged as a tauri desktop app. Currently, It works with Vercel AI Gateway, OpenRouter, Anthropic API key, Google AI Studio API key, and you can log in with your ChatGPT account or use a local model with Ollama. It also has 70+ connectors. Last, but not least, you can also require ZDR-only models from the providers. If you try it out I would love to hear your feedback! Thanks!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.wavefunction.si/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50290892",
+    "createdAt": "2026-10-29T20:03:05.325Z"
+  },
+  {
+    "slug": "strictllm-for-when-you-need-human-in-the-loop-hn",
+    "title": "StrictLLM – For when you need human-in-the-loop",
+    "shortDescription": "Hi, We&#x27;ve been working on this for the last 9 months and are nervcited to share this on HN and gather input. StrictLLM is a desktop ap…",
+    "fullDescription": "Hi, We&#x27;ve been working on this for the last 9 months and are nervcited to share this on HN and gather input. StrictLLM is a desktop application for Mac, Windows, and Linux that will give you the following abilities: - Human-in-the-loop with a strong focus in security and control - Permissions enforced by code rather than a prompt - Being able to talk to multiple AIs in the same conversation thread - You can pull in any personas by @Mentions. - Local and cloud models supported (OpenAI API Compatible and Anthropic Compatible) - - LM Studio, Lemonade Server, Ollama, Claude, Strata, ChatGPT, OpenRouter, Kilo Gateway, etc. List is not exhaustive - No telemetry is collected. The only network requests being made will be to check for updates and license activation. Your chats, prompts, tools, and sessions are yours to keep and manage. Screenshots: https:&#x2F;&#x2F;strictllm.com&#x2F;screenshots To dive right into it: 1) https:&#x2F;&#x2F;strictllm.com&#x2F;download 2) Hacker News Trial License Key for activation: C564BD-1CD395-06A51E-CDF819-C48315-V3 This key will be good for a limited time up until end of November 30th and will be the same as the Pro license. No credit card or account required to use this trial. Why use this over manual mode in other tools? Manual mode does not guarantee that each call to a tool or MCP server will prompt you first before proceeding. Contact: support [at] strictllm.com Forum: https:&#x2F;&#x2F;forum.strictllm.com&#x2F;t&#x2F;discussions\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://strictllm.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50290746",
+    "createdAt": "2026-10-29T20:03:05.326Z"
+  },
+  {
+    "slug": "point-your-camera-at-a-landscape-to-learn-about-its-geology-hn",
+    "title": "Point your camera at a landscape to learn about its geology",
+    "shortDescription": "I&#x27;ve been working on a fun little app that paints geologic maps over landscapes using augmented reality. You can use it to identify wh…",
+    "fullDescription": "I&#x27;ve been working on a fun little app that paints geologic maps over landscapes using augmented reality. You can use it to identify what the mapped rocks are, read descriptions about them, and view the earth as it looked when they formed by turning back the continent positions. It spun out of some augmented reality work I was doing on my other side project app - Flyover Country, which tells you about the view from the airplane window. I&#x27;m in Minnesota, so i haven&#x27;t had a chance to test it on a huge amount of terrain (the best I&#x27;ve found is the Mississippi River gorge in the twin cities... I need a trip up north), so anyone that&#x27;s somewhere with some more bumps: please help!). It&#x27;s stuck in the Apple review queue, but it&#x27;s up on testflight for anyone interested. Google approved it quickly and it&#x27;s fully out on android (links to both on the marketing site). edit: got a report that testflight was asking for an install code. Seems like a testflight app issue, but dismissing it and installing as normal seems to work!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://outcrop.rocks/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50290533",
+    "createdAt": "2026-10-29T20:03:05.326Z"
+  },
+  {
+    "slug": "backend-for-agents-and-builders-who-dont-need-one-yet-statebase-hn",
+    "title": "Backend for Agents and Builders who don't need one yet – Statebase",
+    "shortDescription": "100% Meat Machine Post, handcrafted for you (I personally typed in the emdash)! site: &lt; https:&#x2F;&#x2F;statebase.dev &gt; quickstart:…",
+    "fullDescription": "100% Meat Machine Post, handcrafted for you (I personally typed in the emdash)! site: &lt; https:&#x2F;&#x2F;statebase.dev &gt; quickstart: &lt; https:&#x2F;&#x2F;statebase.dev&#x2F;docs&#x2F;quickstart &gt; examples: &lt; https:&#x2F;&#x2F;statebase.dev&#x2F;apps &gt; &lt; https:&#x2F;&#x2F;statebase.dev&#x2F;games &gt; &lt; https:&#x2F;&#x2F;statebase.dev&#x2F;examples &gt; arch: &lt; https:&#x2F;&#x2F;statebase.dev&#x2F;arch &gt; dsl: &lt; https:&#x2F;&#x2F;statebase.dev&#x2F;dsl &gt; Hi everyone, I&#x27;m Brian. I like frontend a lot. I can do backend, but not every little thing is worth it and I&#x27;ve been making &quot;detached&quot; HTML apps (not even needing a web server) as long as I can remember. I wanted a way to standup some sort of secure way to save data, maybe with a little bit of logic with just a few commands. I didn&#x27;t want code (TypeScript, Java, C#, etc), but I also didn&#x27;t want no code either -- maybe it&#x27;s the devops in me (Terraform?). I was done waiting, and made this. It hosts the logic, permissions and state you need for an agent, application or game with pure curl commands. Thousands of jobless engineers and &quot;learn backend or die&quot; attitude why should backend have all the fun? Besides this might be good for scripting and infrastructure setup too, so it has something for everyone. There&#x27;s also a Tauri+pglite version for desktop dev (thank you pglite) and a Devvit template for Reddit games (I made a couple, ask) all running on the same engine. Please give it a shot, and if you like what you see join my team (I got tired of working on it alone so I added a childhood friend and a few ex-coworkers) and I in our Discord. I&#x27;m full time on it now so any feedback even negative is more fuel. If it sucks, we want to know about it, so we can make it better. Now for the big questions *Is it Open Source?* Not yet. There&#x27;s a lot of reasons but the main one is the code is in a giant monorepo that has to be cleaned up. Another reason is I eventually want to make it Fair Source or Open Core, so that a hyperscaler can&#x27;t just wrap it and charge everyone (including me) a lot of money just to use it. We do have to charge money for serious production use. *What if you disappear tomorrow?* Absolutely valid question. That&#x27;s why I put a lot of effort into the export to SQL (eject) functionality. It&#x27;s not perfect yet, but you can export all the logic and permissions into your own Postgres database. So if you want to run it 100% standalone from Statebase, you can. The SQL export generates is ugly for now; a lot has to do with nulls. We will improve it but I wanted to avoid forcing a schema to start. *AI Support?* MCP is coming very soon (next few days) and x402 payments is in the works. But I wanted to get it in the hands of flesh and bone, to see if it really excites someone as much as it does me. I know it&#x27;s possible the vast majority of users will be agents, but hoping for at least a few flesh and blood champions. *Plans?* It&#x27;s built on Cloudflare Durable Objects for cost savings and other advantages like built-in tenant isolation and native websockets (honestly scary how well DO mapped to our needs). But it could exist anywhere. We have a node version, a desktop version (Tauri+pglite), a devvit version (Reddit games) and so on. My dream is for this to get big, very big, so anyone making a prototype experiment, throwaway or even basic production loads reach for this. We also want to hold a game jam as soon as possible and eventually I want to make one-click installer plugins for Phaser, Unity, Godot and so on. I&#x27;m going to be here all day answering questions and taking feedback, bad or good. Whatever happens, I&#x27;m going to be building with it my entire life. It just &quot;feels&quot; right to me. Hope to see a lot of you on the Discord (there&#x27;s a WidgetBot on the website if you just want to leave a comment for posterity).\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://statebase.dev",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50290463",
+    "createdAt": "2026-10-29T20:03:05.326Z"
+  },
+  {
     "slug": "ai-phdskill-github",
     "title": "AI-PhD.SKILL",
     "shortDescription": "碳基 Agent 的 AI-PhD.SKILL for carbon-based agents",
