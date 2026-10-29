@@ -1,5 +1,239 @@
 [
   {
+    "slug": "ai-phdskill-github",
+    "title": "AI-PhD.SKILL",
+    "shortDescription": "碳基 Agent 的 AI-PhD.SKILL for carbon-based agents",
+    "fullDescription": "碳基 Agent 的 AI-PhD.SKILL for carbon-based agents\n\nАвтор: AlbertTan404. Найдено в GitHub Trending (AI-тематика). ⭐ 26 звёзд.",
+    "url": "https://www.xiaohongshu.com/user/profile/673b4c44000000001d02d37e",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "phd",
+      "skill-md",
+      "skills",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1436671496",
+    "createdAt": "2026-10-29T14:35:10.510Z"
+  },
+  {
+    "slug": "price-comparison-github",
+    "title": "price-comparison",
+    "shortDescription": "自部署的 AI 商品比价平台，支持商铺采集、报价比较、商品归类与价格历史。Self-hosted AI product price comparison platform.",
+    "fullDescription": "自部署的 AI 商品比价平台，支持商铺采集、报价比较、商品归类与价格历史。Self-hosted AI product price comparison platform.\n\nАвтор: hhtower. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://price.yufu.pub",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "chatgpt",
+      "claude",
+      "gemini",
+      "grok",
+      "price-comparison",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1436672945",
+    "createdAt": "2026-10-29T14:35:10.510Z"
+  },
+  {
+    "slug": "layershop-a-love-child-of-comfyui-and-photocraft-hn",
+    "title": "LayerShop – a love child of ComfyUI and PhotoCraft",
+    "shortDescription": "You might have seen PhotoCraft, an open-source Photoshop-style editor. It&#x27;s great, but it was missing one important ingredient: genera…",
+    "fullDescription": "You might have seen PhotoCraft, an open-source Photoshop-style editor. It&#x27;s great, but it was missing one important ingredient: generative AI. LayerShop fills that gap, and unlike Photoshop, it can run the models locally on your own GPU, for free. Here are the AI features you get with LayerShop: - a guided ComfyUI install (the engine) - guided download and setup of local models, including the latest ones like MOSS Image, Ming, Ernie, FLUX.3 Klein, Z-Image, Krea 2 and Ideogram 4 - support for the latest cloud (paid) models like GPT Image 2.5 Sunburst and Flare, FLUX 3, Grok Imagine 2 and Nano Banana Pro It supports text to image, image to image, inpainting and outpainting, named image references, targeted or whole-image edits, style transfer, photo restoration, relighting and more. All of that in a familiar Photoshop-style UI, on layers with transparency, blend modes and masks. Every generated layer remembers which model, prompt and settings made it. You can still tweak the advanced settings if you like: number of steps, seed, CFG scale, LoRA strength and more. It&#x27;s a first preview: Windows only, NVIDIA for local models, and not code-signed yet. 3-minute demo: https:&#x2F;&#x2F;youtu.be&#x2F;dCBiipZ03dA\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/SlavomirDurej/layershop",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50289578",
+    "createdAt": "2026-10-29T14:35:10.250Z"
+  },
+  {
+    "slug": "spaceapp-run-several-ai-coding-clis-side-by-side-self-hosted-hn",
+    "title": "SpaceApp – Run several AI coding CLIs side by side, self-hosted",
+    "shortDescription": "Проект «SpaceApp – Run several AI coding CLIs side by side, self-hosted», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «SpaceApp – Run several AI coding CLIs side by side, self-hosted», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/oll4com/spaceapp",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50289394",
+    "createdAt": "2026-10-29T14:35:10.250Z"
+  },
+  {
+    "slug": "roal-ai-phone-host-for-restaurants-that-builds-itself-from-your-site-hn",
+    "title": "ROAL – AI phone host for restaurants that builds itself from your site",
+    "shortDescription": "Проект «ROAL – AI phone host for restaurants that builds itself from your site», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ROAL – AI phone host for restaurants that builds itself from your site», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://tryroal.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50289318",
+    "createdAt": "2026-10-29T14:35:10.250Z"
+  },
+  {
+    "slug": "no-string-theory-a-store-that-sells-air-guitars-the-box-is-real-hn",
+    "title": "No String Theory – a store that sells air guitars (the box is real)",
+    "shortDescription": "No String Theory sells air guitars! This is one of the last things I built the infa for before being forced into the AI-first age. Actual p…",
+    "fullDescription": "No String Theory sells air guitars! This is one of the last things I built the infa for before being forced into the AI-first age. Actual purchased designs, docs-based implementation, etc. It has since been updated with AI, and uses AI-made images. 4Boys is out to have fun, and let&#x27;s be honest, these days the void beckons!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://nostringtheory.com?utm_source=hn&utm_medium=social&utm_campaign=launch",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50288888",
+    "createdAt": "2026-10-29T14:35:10.250Z"
+  },
+  {
+    "slug": "vibecheck-a-pre-launch-security-audit-for-ai-built-apps-hn",
+    "title": "Vibecheck – a pre-launch security audit for AI-built apps",
+    "shortDescription": "Проект «Vibecheck – a pre-launch security audit for AI-built apps», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Vibecheck – a pre-launch security audit for AI-built apps», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/ribato22/vibecheck",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50288337",
+    "createdAt": "2026-10-29T14:35:10.250Z"
+  },
+  {
+    "slug": "pidgeon-email-inboxes-for-ai-agents-hn",
+    "title": "Pidgeon – Email inboxes for AI agents",
+    "shortDescription": "Проект «Pidgeon – Email inboxes for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Pidgeon – Email inboxes for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 7 баллов.",
+    "url": "https://pidgeon.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50288172",
+    "createdAt": "2026-10-29T14:35:10.250Z"
+  },
+  {
+    "slug": "the-ai-workspace-for-teammates-share-agents-on-company-hn",
+    "title": "The AI workspace for teammates share agents on company",
+    "shortDescription": "Проект «The AI workspace for teammates share agents on company», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «The AI workspace for teammates share agents on company», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/ahmadrosid/nakama",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50287951",
+    "createdAt": "2026-10-29T14:35:10.250Z"
+  },
+  {
+    "slug": "universal-blindspot-detector-ai-meta-analysis-hn",
+    "title": "Universal Blindspot Detector (AI meta-analysis)",
+    "shortDescription": "This is a rough &quot;blindspot detector&quot; for AI conversations. Basically, the tool reframes conversations and tries to find the small…",
+    "fullDescription": "This is a rough &quot;blindspot detector&quot; for AI conversations. Basically, the tool reframes conversations and tries to find the smallest moves the user COULD have made to have surfaced unknown assumptions for whatever problem they were solving. The goal is to show the value of using AI as a reflective surface to search for &quot;unknown unknowns&quot; or &quot;things YOU didn&#x27;t know you needed to know&quot;. ------------------------- The basic premise is this: For any given AI conversation, the quality of the output (for the specified goal) depends on the context from which decisions can be made. You can learn to surface assumptions (the AI&#x27;s AND your own) and get better output from informed decisions. Best of all, when operating in this way, you have to actively engage the problem and strategy to accomplish this, so you don&#x27;t lose understanding or creative agency. When you iterate during problem definition or strategy planning, it&#x27;s cheaper and more efficient, too. For example: [# of Planning Phase Iterations] x 1,000 tokens [# of Strategy Phase Iterations] x 3,000 tokens [# of Execution Output Phase Iterations] x 5,000,000 tokens Usually when we are solving problems with this method, we one-shot the output even with local models like Qwen 3.6&#x2F;3.8, spending FAR less time in the expensive execution phase. --------------------------- Anyway, please have a look! Totally free, no signup, you just need to export conversations in specific formats and upload them. This was made by myself and a few interns in a barn while doing indie game development ... and costs us money, so please don&#x27;t abuse it. &lt;3\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://trooperloops.com/upload",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50287887",
+    "createdAt": "2026-10-29T14:35:10.250Z"
+  },
+  {
+    "slug": "ai-social-media-interview-platform-hn",
+    "title": "AI social media interview platform",
+    "shortDescription": "Looking for feedback on product functionality wise. Already working on design changes.",
+    "fullDescription": "Looking for feedback on product functionality wise. Already working on design changes.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.spotlytt.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50287379",
+    "createdAt": "2026-10-29T14:35:10.250Z"
+  },
+  {
+    "slug": "google-translate-replacement-for-language-learners-hn",
+    "title": "Google translate replacement for language learners",
+    "shortDescription": "Hi HN, I&#x27;m Musab and I&#x27;m building Manalect. Find TL;DR at the end. Most language apps fall short for me in two ways: 1. They’re n…",
+    "fullDescription": "Hi HN, I&#x27;m Musab and I&#x27;m building Manalect. Find TL;DR at the end. Most language apps fall short for me in two ways: 1. They’re not personalized enough. I get taught things I don’t care about, things that are too hard for me, and things I already know. 2. They don’t teach that well. I keep seeing question types where my brain does almost no work to figure out the answer, therefore learn nothing. I think the biggest reason they&#x27;re not personalized enough is that they don&#x27;t have a detailed enough representation of a language. Most apps have efficient review scheduling for the words you learn. But if you make the mistake of using &quot;play&quot; instead of &quot;played&quot; they&#x27;re not able to identify that as a component that should have its own schedule for review. And if you don&#x27;t track that, it essentially depends on luck whether a person reviews that information before forgetting it again. Essentially language isn&#x27;t just made up of words, but also different forms, conjugations, phrases, grammar, and a lot more components. But mapping out the basic units in full detail isn&#x27;t enough. It&#x27;s also very important to know how those basic units relate to each other. Because of course some units share a lot in common, and their relationships form another unit that needs to be tracked. Take Spanish: “el gato negro” (the black cat) but “la casa negra” (the black house). “negro” becomes “negra” because “casa” is a feminine word. That rule isn’t part of any one word. It links the noun, its article and the adjective, and it shows up in almost every sentence. So it needs its own review schedule too. And it relies on a person knowing those things that make it up to be able to build that block. That was briefly about how I&#x27;m working on solving the first failure mode. Second is simpler but also very interesting. We know that for you to learn something, you need to experience difficulty. This is called desirable difficulty. For this reason, some question types, like multiple choice, are known to be inefficient. But that&#x27;s not fully true. The reason multiple-choice questions can be inefficient is that usually the alternative options are so much more different from the correct one that it is very easy to guess which one is the right one. However, if you make a simple change where you make it so the alternatives are a lot closer to the correct answer, the person has to put more effort into recalling the correct option. In research, this is known as competitive distractors. And of course, desirable difficulty is not the same for everyone. This is quite simple to imagine. Even games allow you to change the difficulty, and the difficulty that is most efficient for learning doesn&#x27;t necessarily have to be the difficulty a person can sustain for the long term. So it&#x27;s also very personal. I had written a lot more about how it works in detail, but due to the allowed length for this post, I&#x27;ll get to how specifically the app works on an application level. Please let me know if you have any questions. I&#x27;m very passionate about this, and I would love to talk more. How it works: 1. Translate sentences, define words, chat with AI, or import an article or a song 2. The content gets broken into granular components, not just words but grammar and more complex building blocks) and saved for you 3. You study them as short tests in real sentences 4. Stuff you already know gets skipped, and new stuff builds on what you know You can try it at manalect.com, no sign-up needed. Swedish, German, French, Spanish, Portuguese, Polish or English. It&#x27;s free with a daily limit. It&#x27;s at an early stage, and there might be bugs, but I&#x27;d love to hear from you about them so that I can fix them right away. I&#x27;d also love to hear your thoughts, and how you learn languages in general. I&#x27;ll be around all day to answer questions.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://manalect.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50287258",
+    "createdAt": "2026-10-29T14:35:10.250Z"
+  },
+  {
+    "slug": "endlesstokens-an-llm-api-billed-by-time-not-tokens-hn",
+    "title": "Endlesstokens – an LLM API billed by time, not tokens",
+    "shortDescription": "Проект «Endlesstokens – an LLM API billed by time, not tokens», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Endlesstokens – an LLM API billed by time, not tokens», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://endlesstokens.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50286808",
+    "createdAt": "2026-10-29T14:35:10.250Z"
+  },
+  {
+    "slug": "a-free-16-point-check-for-how-ai-assistants-see-your-website-hn",
+    "title": "A free 16-point check for how AI assistants see your website",
+    "shortDescription": "Проект «A free 16-point check for how AI assistants see your website», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A free 16-point check for how AI assistants see your website», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://checker.visiblebyagents.com/self-check.html",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50285822",
+    "createdAt": "2026-10-29T14:35:10.250Z"
+  },
+  {
     "slug": "topopt-github",
     "title": "topopt",
     "shortDescription": "Topology optimization for 3D printing, as an MCP server for Claude, Codex, Cursor and other AI agents. Loads and regions in, a lighter prin…",
