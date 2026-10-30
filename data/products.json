@@ -1,5 +1,53 @@
 [
   {
+    "slug": "specdeck-bring-coding-agent-decisions-back-into-the-spec-hn",
+    "title": "SpecDeck – Bring coding agent decisions back into the spec",
+    "shortDescription": "Writing good specs is hard. You don’t know everything upfront and it’s impossible to write every little detail in the spec. Much of my job…",
+    "fullDescription": "Writing good specs is hard. You don’t know everything upfront and it’s impossible to write every little detail in the spec. Much of my job as a developer has been to treat specs as intent, and fill out the blanks in the code and use the code reviews as a way to question those decisions. But as coding agents have started to produce much more code, the decisions that actually affect the product are getting harder to find. So I created SpecDeck. It helps everyone on the team write specs and hand them over to developers and their agents through MCP. During implementation, agents write the decisions that matter back as proposed spec changes and leave smaller implementation choices in the code. When the work is done, a person reviews and publish those changes into the spec. The workflow is modeled on git: a published spec is main, drafts are branches, and proposals are pull requests. It should feel familiar to developers, while making it easy for the whole team to work with specs and keep them up to date without touching git. It’s still early and there’s plenty to improve, but I’d love to hear your feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://specdeck.ai/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50303157",
+    "createdAt": "2026-10-30T13:17:54.429Z"
+  },
+  {
+    "slug": "send21-crypto-pay-links-an-ai-agent-can-create-but-cant-spend-hn",
+    "title": "Send21 – Crypto pay links an AI agent can create but can't spend",
+    "shortDescription": "Проект «Send21 – Crypto pay links an AI agent can create but can't spend», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Send21 – Crypto pay links an AI agent can create but can't spend», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://send21.io/demo",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50301153",
+    "createdAt": "2026-10-30T13:17:54.429Z"
+  },
+  {
+    "slug": "ai-agents-trade-privately-on-bitcoinz-with-proof-of-delivery-hn",
+    "title": "AI agents trade privately on BitcoinZ, with proof of delivery",
+    "shortDescription": "Проект «AI agents trade privately on BitcoinZ, with proof of delivery», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI agents trade privately on BitcoinZ, with proof of delivery», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/ZKStamp/AgentWallet",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50301018",
+    "createdAt": "2026-10-30T13:17:54.429Z"
+  },
+  {
     "slug": "breatic-collaborative-canvases-and-documents-with-an-ai-agent-hn",
     "title": "Breatic – Collaborative canvases and documents with an AI agent",
     "shortDescription": "Проект «Breatic – Collaborative canvases and documents with an AI agent», опубликован сообществом Hacker News.",
