@@ -1,5 +1,113 @@
 [
   {
+    "slug": "capri-ai-github",
+    "title": "Capri-AI",
+    "shortDescription": "⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigr…",
+    "fullDescription": "⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigravity. Windows installer, no terminal. Fan-made, not affiliated with CD PROJEKT RED.\n\nАвтор: boardshogunfluctuate. Найдено в GitHub Trending (AI-тематика). ⭐ 195 звёзд.",
+    "url": "https://github.com/boardshogunfluctuate/Capri-AI",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-assistants",
+      "antigravity",
+      "claude-code",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1440272373",
+    "createdAt": "2026-10-30T22:46:18.040Z"
+  },
+  {
+    "slug": "voicestudiov2-github",
+    "title": "VoiceStudioV2",
+    "shortDescription": "Local AI voice studio: real-time voice changer, text-to-speech, voice cloning & dubbing with a drop-in OpenAI-compatible API. 100% offline,…",
+    "fullDescription": "Local AI voice studio: real-time voice changer, text-to-speech, voice cloning & dubbing with a drop-in OpenAI-compatible API. 100% offline, no cloud, no API keys. Unofficial fork of VoiceStudio.\n\nАвтор: EntranceStarfish. Найдено в GitHub Trending (AI-тематика). ⭐ 128 звёзд.",
+    "url": "https://github.com/EntranceStarfish/VoiceStudioV2",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "cuda",
+      "dubbing",
+      "elevenlabs",
+      "local-first",
+      "omnivoice",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1440260019",
+    "createdAt": "2026-10-30T22:46:18.040Z"
+  },
+  {
+    "slug": "fastbrowse-browser-agent-that-picks-clicks-with-a-system-one-model-hn",
+    "title": "Fastbrowse, Browser agent that picks clicks with a System One model",
+    "shortDescription": "Hi HN, I&#x27;m Furqan founder of Nebula. We&#x27;ve spent a lot of time building, using and breaking browser agents. The main issues we ra…",
+    "fullDescription": "Hi HN, I&#x27;m Furqan founder of Nebula. We&#x27;ve spent a lot of time building, using and breaking browser agents. The main issues we ran into were costs and speed. So we built our own and open sourced it. It&#x27;s pretty simple, give it a task and it drives Chrome faster and cheaper than the alternatives. At each step it lists the page&#x27;s elements instead of screenshots. This means it can&#x27;t click on buttons that aren&#x27;t there. We use System One models (currently Jev), which keeps costs extremely low, around 11x lower on average. If Jev does fail, we fall back to a cheap LLM like Gemini Flash Lite or Deepseek v4.1. We ran our 46-task suite against Browser Use&#x27;s hosted agent at its default settings. Each task ran three times, both on their cloud browsers. fastbrowse cost $0.030 a run, theirs cost $0.318. We passed 137 of 138 runs, and they passed 133. To set up all you need is uv, Chrome, and a TypeSafe or OpenRouter key, both work: uvx fastbrowse &quot;What is the title of the top story right now?&quot; --start https:&#x2F;&#x2F;news.ycombinator.com&#x2F; --local Would love to hear feedback on it and how it&#x27;s working for you guys. https:&#x2F;&#x2F;github.com&#x2F;agent-labs-dev&#x2F;fastbrowse\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.fastbrowse.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50311029",
+    "createdAt": "2026-10-30T22:46:17.770Z"
+  },
+  {
+    "slug": "optimized-cuda-forced-alignment-kernels-10x-1000x-faster-hn",
+    "title": "Optimized CUDA forced alignment kernels. 10x – 1000x faster",
+    "shortDescription": "blog post: https:&#x2F;&#x2F;www.bryanthornbury.com&#x2F;posts&#x2F;fast-forced-alignment github: https:&#x2F;&#x2F;github.com&#x2F;brthor&…",
+    "fullDescription": "blog post: https:&#x2F;&#x2F;www.bryanthornbury.com&#x2F;posts&#x2F;fast-forced-alignment github: https:&#x2F;&#x2F;github.com&#x2F;brthor&#x2F;fast-forced-aligner I developed optimized CUDA kernels to speed up my forced alignment pipelines using Astra. To my surprise, I was able to achieve speeds 10x - 1000x faster than popular existing open source options, including the torchaudio implementations I was using before. I&#x27;m sharing them for anyone else who finds them useful. The acceleration from AI is getting wild.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/brthor/fast-forced-aligner",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50310134",
+    "createdAt": "2026-10-30T22:46:17.770Z"
+  },
+  {
+    "slug": "mobile-agent-let-ai-agents-control-android-and-ios-devices-hn",
+    "title": "mobile-agent – Let AI agents control Android and iOS devices",
+    "shortDescription": "Проект «mobile-agent – Let AI agents control Android and iOS devices», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «mobile-agent – Let AI agents control Android and iOS devices», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/gesposito/mobile-agent",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50310027",
+    "createdAt": "2026-10-30T22:46:17.770Z"
+  },
+  {
+    "slug": "sketch-stadium-watch-your-agent-play-pictionary-hn-2",
+    "title": "Sketch Stadium – watch your agent play Pictionary",
+    "shortDescription": "tl;dr: Agents can play Pictionary. You can connect your own agent, or just watch a game in progress here: https:&#x2F;&#x2F;sketch.wakeshif…",
+    "fullDescription": "tl;dr: Agents can play Pictionary. You can connect your own agent, or just watch a game in progress here: https:&#x2F;&#x2F;sketch.wakeshift.ai&#x2F;games&#x2F;q5ucru Hi folks! I initially built this as a proof-of-concept for sending push notifications to AI agents. Watching the agents play Pictionary together has been compelling, so I thought I&#x27;d ship it as a standalone demonstration. In Sketch Stadium, your agent subscribes to game events. Agents take turns either drawing or guessing. Easy clues are 1 point, medium are 2, and hard are 3. It&#x27;s entertaining to watch and some of the drawings are impressive (and others are mind-bogglingly bad). This is the real opportunity for the model labs who have been pelican-maxxing to shine. The first version gave agents the ability to draw lines 10 at a time so that it would be a little bit more like real Pictionary. However, it turns out agents are _really_ bad at drawing that way. So instead I let them use a subset of SVG to draw and that&#x27;s worked much better, even for the lower-cost models. You don&#x27;t need to create an account to connect your agent, just add the MCP and authorize. But if you don&#x27;t want to do that, just watch the game linked above. As a bit more background, agents often start processes that take an indeterminate amount of time to complete (e.g. CI, waiting for approval in a separate system, sending an email and waiting for a reply). If an agent needs that process to complete before it can proceed, it can: * poll, * ask the user to tell it when it&#x27;s done, * use a bespoke built-in integration, or * use a proprietary capability (e.g. Claude Code monitors) Today, there&#x27;s no easy, consistent way to wake up agents through a webhook or push notification. I dealt with this firsthand with Clawvisor (authorization for agents) where I needed agents to recognize when the operator had clicked an out-of-band approve button. The best-supported way to achieve that at the time was long-polling. This project is basically a tech demo for Wakeshift, which is a cross-harness, simple SDK for providing push notifications for agents. It attaches to your MCP to allow consumers of your MCP to subscribe to real-time events, and uses whatever available hacks per harness to wake an agent when dormant. For most harnesses, Wakeshift requires a hook to be installed for the best experience. It will upgrade automatically as harnesses start adopting MCP events. I&#x27;d love any feedback or ideas for other products or games that you&#x27;d want to see built on this capability. Or MCP servers that you use today that you think would benefit from push notifications.\n\nНайдено в разделе Show HN на Hacker News. 👍 16 баллов.",
+    "url": "https://sketch.wakeshift.ai/games/q5ucru",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50305218",
+    "createdAt": "2026-10-30T22:46:17.770Z"
+  },
+  {
     "slug": "pollsight-a-simple-tool-to-aid-ballot-research-hn",
     "title": "Pollsight – a simple tool to aid ballot research",
     "shortDescription": "Hi HN, I built Pollsight, an simple civic web application that aims to solve the problem of the amount of time++research needed to vote bas…",
