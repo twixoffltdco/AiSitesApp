@@ -1,5 +1,53 @@
 [
   {
+    "slug": "breatic-collaborative-canvases-and-documents-with-an-ai-agent-hn",
+    "title": "Breatic – Collaborative canvases and documents with an AI agent",
+    "shortDescription": "Проект «Breatic – Collaborative canvases and documents with an AI agent», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Breatic – Collaborative canvases and documents with an AI agent», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/orime-org/breatic",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50299847",
+    "createdAt": "2026-10-30T06:11:00.894Z"
+  },
+  {
+    "slug": "hipath-ai-cs-learning-roadmaps-where-a-quiz-unlocks-each-lesson-hn",
+    "title": "HiPath AI – CS learning roadmaps where a quiz unlocks each lesson",
+    "shortDescription": "Проект «HiPath AI – CS learning roadmaps where a quiz unlocks each lesson», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «HiPath AI – CS learning roadmaps where a quiz unlocks each lesson», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.hipathai.me",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50299645",
+    "createdAt": "2026-10-30T06:11:00.894Z"
+  },
+  {
+    "slug": "novelhiveai-a-tool-to-turn-novels-into-a-multi-voice-audiobook-hn",
+    "title": "NovelHiveAI – A tool to turn novels into a multi-Voice audiobook",
+    "shortDescription": "It can also generate an entire novel from a single prompt, but I suspect most people will still prefer the audiobook feature :)",
+    "fullDescription": "It can also generate an entire novel from a single prompt, but I suspect most people will still prefer the audiobook feature :)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://novelhive.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50298905",
+    "createdAt": "2026-10-30T06:11:00.895Z"
+  },
+  {
     "slug": "i-created-a-spreadsheet-in-a-plain-text-file-hn",
     "title": "I created a spreadsheet in a plain text file",
     "shortDescription": "I built a plain-text spreadsheet format and an app for working with it. It began with small tasks like tracking my dog&#x27;s health record…",
