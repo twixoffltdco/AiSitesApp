@@ -1,5 +1,167 @@
 [
   {
+    "slug": "graphmemory-github",
+    "title": "graphmemory",
+    "shortDescription": "Bitemporal AI memory system: six-variable decay, time-graded recall, TTL expiry, dedupe, competitive retrieval (Neo4j + PostgreSQL + Redis)",
+    "fullDescription": "Bitemporal AI memory system: six-variable decay, time-graded recall, TTL expiry, dedupe, competitive retrieval (Neo4j + PostgreSQL + Redis)\n\nАвтор: gh9ko8y. Найдено в GitHub Trending (AI-тематика). ⭐ 16 звёзд.",
+    "url": "https://github.com/gh9ko8y/graphmemory",
+    "category": "ai-tool",
+    "tags": [
+      "agent-memory",
+      "ai",
+      "bitemporal",
+      "graphiti",
+      "knowledge-graph",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1439726071",
+    "createdAt": "2026-10-31T01:59:17.866Z"
+  },
+  {
+    "slug": "coregold-e-com-matrix-card-gateway-github",
+    "title": "-CoreGold---E-Com-Matrix-Card-Gateway",
+    "shortDescription": "专为跨境电商 Dropshipping 卖家、海外私域多账号操盘手与指纹环境基建打造的虚拟信用卡管理中枢。支持 USDT 极速充值即开、单卡商户指纹锁定、硬性预算阻断与余额秒级归集，从底层解决住宅代理 IP 采买、接码平台充值及海外店铺工具静默续费吞噬利润的痛点。",
+    "fullDescription": "专为跨境电商 Dropshipping 卖家、海外私域多账号操盘手与指纹环境基建打造的虚拟信用卡管理中枢。支持 USDT 极速充值即开、单卡商户指纹锁定、硬性预算阻断与余额秒级归集，从底层解决住宅代理 IP 采买、接码平台充值及海外店铺工具静默续费吞噬利润的痛点。\n\nАвтор: cherchiobarbie931-rgb. Найдено в GitHub Trending (AI-тематика). ⭐ 16 звёзд.",
+    "url": "CoreGold - VCC Infrastructure for Dropshipping, Proxy IPs & Social Matrix",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "api",
+      "gpt",
+      "tiktok",
+      "vcc",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1438134165",
+    "createdAt": "2026-10-31T01:59:17.866Z"
+  },
+  {
+    "slug": "protoflow-github",
+    "title": "protoflow",
+    "shortDescription": "ProtoFlow, the free AI PCB design app for macOS, Windows and Linux. Installers, docs and agent setup guide.",
+    "fullDescription": "ProtoFlow, the free AI PCB design app for macOS, Windows and Linux. Installers, docs and agent setup guide.\n\nАвтор: rishik4. Найдено в GitHub Trending (AI-тематика). ⭐ 13 звёзд.",
+    "url": "https://www.protoflow.ai",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "circuit-design",
+      "cross-platform",
+      "eda",
+      "electronic-design-automation",
+      "electronics",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1439150358",
+    "createdAt": "2026-10-31T01:59:17.866Z"
+  },
+  {
+    "slug": "humanizer-lint-github",
+    "title": "humanizer-lint",
+    "shortDescription": "A fast linter and style checker to detect AI-generated phrasing, eliminate corporate fluff, and enforce clear, natural, human-like writing…",
+    "fullDescription": "A fast linter and style checker to detect AI-generated phrasing, eliminate corporate fluff, and enforce clear, natural, human-like writing across markdown and documentation.\n\nАвтор: yanstd888. Найдено в GitHub Trending (AI-тематика). ⭐ 11 звёзд.",
+    "url": "https://humanizer.aiclub.ai.id/",
+    "category": "writing",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "ai-humanizer",
+      "ai-text-detection",
+      "anti-slop",
+      "burstiness",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1439924353",
+    "createdAt": "2026-10-31T01:59:17.866Z"
+  },
+  {
+    "slug": "read-together-github",
+    "title": "read-together",
+    "shortDescription": "A shared reading room across Web, ChatGPT apps, and MCP clients. One library, independent readers, and conversations in the margins.",
+    "fullDescription": "A shared reading room across Web, ChatGPT apps, and MCP clients. One library, independent readers, and conversations in the margins.\n\nАвтор: Sia-Archer. Найдено в GitHub Trending (AI-тематика). ⭐ 9 звёзд.",
+    "url": "https://github.com/Sia-Archer/read-together",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "chatgpt",
+      "ebook-reader",
+      "mcp",
+      "reading",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1437939807",
+    "createdAt": "2026-10-31T01:59:17.866Z"
+  },
+  {
+    "slug": "argusai-github",
+    "title": "Argusai",
+    "shortDescription": "一个人，一整支 AI 安全团队。ArgusAI 集成自主 Agent、多智能体协作、渗透测试、实时 MITM、移动端与二进制逆向、浏览器与桌面控制，从一句话下达目标，到规划、执行、验证与交付",
+    "fullDescription": "一个人，一整支 AI 安全团队。ArgusAI 集成自主 Agent、多智能体协作、渗透测试、实时 MITM、移动端与二进制逆向、浏览器与桌面控制，从一句话下达目标，到规划、执行、验证与交付\n\nАвтор: HG-ha. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://argusai.sh",
+    "category": "productivity",
+    "tags": [
+      "agent",
+      "ai",
+      "guard",
+      "guard-bot",
+      "harness",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1438057069",
+    "createdAt": "2026-10-31T01:59:17.866Z"
+  },
+  {
+    "slug": "ghost-in-the-log-a-halloween-log-investigation-with-a-live-ai-hn",
+    "title": "Ghost in the Log – a Halloween log investigation with a live AI",
+    "shortDescription": "Проект «Ghost in the Log – a Halloween log investigation with a live AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Ghost in the Log – a Halloween log investigation with a live AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ghost-in-the-log.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50312389",
+    "createdAt": "2026-10-31T01:59:17.533Z"
+  },
+  {
+    "slug": "governor-a-firewall-for-ai-agent-spend-and-tool-calls-hn",
+    "title": "Governor, a firewall for AI agent spend and tool calls",
+    "shortDescription": "Проект «Governor, a firewall for AI agent spend and tool calls», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Governor, a firewall for AI agent spend and tool calls», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://bsvkey-governor-demo.fly.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50311974",
+    "createdAt": "2026-10-31T01:59:17.533Z"
+  },
+  {
     "slug": "capri-ai-github",
     "title": "Capri-AI",
     "shortDescription": "⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your files, projects and code through Claude Code, Codex or Antigr…",
