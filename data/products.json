@@ -1,5 +1,75 @@
 [
   {
+    "slug": "dafeiyu-phone-github",
+    "title": "dafeiyu-phone",
+    "shortDescription": "A tiny autonomous whale-girl living on an idle Android phone. DeepSeek + AutoX.js + ntfy.",
+    "fullDescription": "A tiny autonomous whale-girl living on an idle Android phone. DeepSeek + AutoX.js + ntfy.\n\nАвтор: Yihua666666. Найдено в GitHub Trending (AI-тематика). ⭐ 11 звёзд.",
+    "url": "https://github.com/Yihua666666/dafeiyu-phone/releases/tag/v1.0.0",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "android",
+      "autox",
+      "companion",
+      "deepseek",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1438523495",
+    "createdAt": "2026-10-31T14:39:15.892Z"
+  },
+  {
+    "slug": "nullprime-do-ai-models-know-when-they-cant-know-hn",
+    "title": "NullPrime – do AI models know when they can't know?",
+    "shortDescription": "Проект «NullPrime – do AI models know when they can't know?», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «NullPrime – do AI models know when they can't know?», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/bmiedlar/nullprime",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50315553",
+    "createdAt": "2026-10-31T14:39:15.680Z"
+  },
+  {
+    "slug": "jj-suna-ai-open-5b-flow-matching-dit-for-48-khz-music-synthesis-hn",
+    "title": "JJ Suna AI – Open 5B Flow-Matching DiT for 48 KHz Music Synthesis",
+    "shortDescription": "Проект «JJ Suna AI – Open 5B Flow-Matching DiT for 48 KHz Music Synthesis», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «JJ Suna AI – Open 5B Flow-Matching DiT for 48 KHz Music Synthesis», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://suna.jjcoders.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50314522",
+    "createdAt": "2026-10-31T14:39:15.680Z"
+  },
+  {
+    "slug": "i-benchmarked-a-voice-ai-against-real-people-it-scored-at-chance-hn",
+    "title": "I benchmarked a voice AI against real people. It scored at chance",
+    "shortDescription": "Проект «I benchmarked a voice AI against real people. It scored at chance», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I benchmarked a voice AI against real people. It scored at chance», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://mundi.chat/try",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50314370",
+    "createdAt": "2026-10-31T14:39:15.680Z"
+  },
+  {
     "slug": "archwhere-work-alongside-ai-coding-agents-on-an-architecture-map-hn",
     "title": "Archwhere – work alongside AI coding agents on an architecture map",
     "shortDescription": "I am a solo founder&#x2F;developer, my agents shipping 30 PRs a week, couldn’t see which part of product they were changing; existing arch…",
