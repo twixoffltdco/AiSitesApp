@@ -1,5 +1,129 @@
 [
   {
+    "slug": "character-ai-sdk-github",
+    "title": "character-ai-sdk",
+    "shortDescription": "Default personas, durable character memory, and provider adapters in a single package",
+    "fullDescription": "Default personas, durable character memory, and provider adapters in a single package\n\nАвтор: tavern-labs-ai. Найдено в GitHub Trending (AI-тематика). ⭐ 184 звёзд.",
+    "url": "https://www.npmjs.com/package/character-ai-sdk",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "bedrock",
+      "characters",
+      "llm",
+      "memory",
+      "persona",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1440937647",
+    "createdAt": "2026-10-31T19:04:37.200Z"
+  },
+  {
+    "slug": "forge-agent-github",
+    "title": "forge-agent",
+    "shortDescription": "Open-source, local-first AI coding agent. Build, share, and install  skills. Runs on your machine. Your keys, your data. No cloud.  No subs…",
+    "fullDescription": "Open-source, local-first AI coding agent. Build, share, and install  skills. Runs on your machine. Your keys, your data. No cloud.  No subscription. Built for developers who ship.\n\nАвтор: Currentliunderpass. Найдено в GitHub Trending (AI-тематика). ⭐ 23 звёзд.",
+    "url": "https://github.com/Currentliunderpass/forge-agent",
+    "category": "chatbot",
+    "tags": [
+      "agent-framework",
+      "ai",
+      "aiagent",
+      "anthropic",
+      "automation",
+      "cli",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1440976751",
+    "createdAt": "2026-10-31T19:04:37.200Z"
+  },
+  {
+    "slug": "publishub-an-ai-copilot-for-video-creators-and-editors-hn",
+    "title": "Publishub. An AI copilot for video creators and editors.",
+    "shortDescription": "Проект «Publishub. An AI copilot for video creators and editors.», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Publishub. An AI copilot for video creators and editors.», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.getpublishub.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50318318",
+    "createdAt": "2026-10-31T19:04:37.030Z"
+  },
+  {
+    "slug": "citellm-verify-ai-answers-in-pdfs-hn",
+    "title": "CiteLLM – Verify AI Answers in PDFs",
+    "shortDescription": "Проект «CiteLLM – Verify AI Answers in PDFs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «CiteLLM – Verify AI Answers in PDFs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://citellm.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50317589",
+    "createdAt": "2026-10-31T19:04:37.030Z"
+  },
+  {
+    "slug": "jointter-a-daily-word-puzzle-using-dots-and-lines-hn",
+    "title": "Jointter – A daily word puzzle using dots and lines",
+    "shortDescription": "Hello everyone. I’m a mathematician by training, and I love mathematical and logical puzzles and brain-teasers. Inspired by popular games l…",
+    "fullDescription": "Hello everyone. I’m a mathematician by training, and I love mathematical and logical puzzles and brain-teasers. Inspired by popular games like Sudoku and Wordle, I decided to come up with an engaging game of my own. As it turns out, that’s not so easy! I had a few ideas, but beyond the core mechanics, a game also needs to be interesting and easy to explain — after all, nobody (including me) wants to spend a long time reading through rules. Let’s start with the concept, which came to me quite spontaneously: what if we represented letters like the digits on a digital clock — using lines, with dots at the points where those lines intersect? For instance, the letter &quot;E&quot; would consist of four lines and six dots — three at the intersections and three at the ends of the lines. It turns out that every letter of the Latin alphabet can be represented this way (with a minor caveat) using three rows of dots connected by some lines. This immediately presented a challenge: how do you represent O-shaped parts, like those found in &quot;B&quot;, &quot;O&quot;, or &quot;R&quot;? I decided not to use O-shapes, an use onl rectangles&#x2F;squares. This &quot;alphabet&quot; is always displayed below the game board, so the player can see the letters. The goal of the game is simple: you are presented with three rows of dots and a set of lines, and you have to figure out the word. A great feature of the game is that it’s possible to deduce the word in a single turn — all the necessary information is right there on the board, allowing you to arrive at the answer with certainty. And what if you can’t figure it out on the first try? You can enter a guess, much like in Wordle: if the lines from the entered word are part of the target word, they turn green; if not, they turn red. The same applies to the dots. As you play, more and more lines gradually appear... Why provide some lines at the start? To uniquely identify a specific word — or a small set of words — from the dictionary. For example, you could select a configuration of lines that corresponds to only one word, like &quot;RADIO&quot;, or perhaps to just two possible words, such as &quot;WEIGH&quot; and &quot;WRONG&quot;. The rules seem clear, but the mechanics — not so much. There are dots on the board; when I enter a word, I realize there aren&#x27;t enough dots. What should I do? Initially, if the target word had 5 letters, I allowed users to enter 4- or 5-letter guesses, but that just confused players. So, I came up with a different solution: adding red dots for dots that aren&#x27;t part of the target word. Another drawback is that the game is somewhat skewed. Since letters are processed from left to right, the first letters are revealed more frequently than the last ones. Then there’s the game design itself: should the target words be 5 letters long, or 6? Should a single board allow for multiple possible answers (like &quot;WEIGH&quot; and &quot;WRONG&quot;), or should it be limited to one — or perhaps more than two? Should the difficulty increase from Monday to Sunday? Currently, it’s set up this way: Monday is the easiest (a few 3-letter words), while Sunday is the hardest (more than two 7-letter words). The tech stack is simple: I use Flask for the backend and Python for the algorithms; I wrote the algorithms myself. While the JS, HTML, and CSS were created with the help of AI. I’d love for you to test the game and share what you like, what you don’t, and what could be improved. Specifically, I’d like to know: 1. Is the game and its goal clear? 2. Is it fun to play, and what could be improved? 3. Would you share it with your friends? I welcome any constructive criticism. You can find the game at https:&#x2F;&#x2F;www.jointter.com&#x2F; It’s free and requires no registration. Thank you very much.\n\nНайдено в разделе Show HN на Hacker News. 👍 9 баллов.",
+    "url": "https://www.jointter.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50317548",
+    "createdAt": "2026-10-31T19:04:37.030Z"
+  },
+  {
+    "slug": "a-usb-c-lte-modem-that-gives-my-computer-a-phone-line-hn",
+    "title": "A USB-C LTE modem that gives my computer a phone line",
+    "shortDescription": "Проект «A USB-C LTE modem that gives my computer a phone line», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A USB-C LTE modem that gives my computer a phone line», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://github.com/Koppar-AI/koppar-lte-modem",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50317331",
+    "createdAt": "2026-10-31T19:04:37.031Z"
+  },
+  {
+    "slug": "uncracked-city-detective-game-where-you-question-llm-suspects-that-lie-hn",
+    "title": "Uncracked City, detective game where you question LLM suspects that lie",
+    "shortDescription": "I&#x27;m the developer. The game sends you to a city, you search the places for clues, then question the suspects with your own words, type…",
+    "fullDescription": "I&#x27;m the developer. The game sends you to a city, you search the places for clues, then question the suspects with your own words, typed or spoken. Each suspect is played by an LLM that only knows its own character, its own timeline and what you&#x27;ve shown it; it never sees the solution. You catch a lie by showing a clue against a statement, and the case engine decides whether that pair is a contradiction, not the model. Then you write the report: who, when, where, why, with proof for each. The hard parts were not the generation. They were keeping every case solvable (a solver checks each case before it ships: every lie must be catchable with the clues on the map), keeping the suspects from leaking the truth, and keeping the AI cost per player under control (typed questions are capped per day, voice replies are cached per line). Stack: Godot 4 client, Node on Lambda, MongoDB, Anthropic models for the suspects, ElevenLabs and Soniox for voices. Solo, built in a short sprint, launched this week on Android, iPhone waiting for Apple&#x27;s review. Free, no account. I&#x27;d like to hear what breaks: a suspect that says something dumb, a case that is unfair, a lie the engine should have caught. There&#x27;s a Flag button under every reply.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://uncracked.city",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50314659",
+    "createdAt": "2026-10-31T19:04:37.031Z"
+  },
+  {
     "slug": "dafeiyu-phone-github",
     "title": "dafeiyu-phone",
     "shortDescription": "A tiny autonomous whale-girl living on an idle Android phone. DeepSeek + AutoX.js + ntfy.",
