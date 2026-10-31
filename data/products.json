@@ -1,5 +1,59 @@
 [
   {
+    "slug": "persona-ai-sdk-github",
+    "title": "persona-ai-sdk",
+    "shortDescription": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
+    "fullDescription": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.\n\nАвтор: tavern-labs-ai. Найдено в GitHub Trending (AI-тематика). ⭐ 191 звёзд.",
+    "url": "https://www.npmjs.com/package/persona-ai-sdk",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "bedrock",
+      "characters",
+      "llm",
+      "memory",
+      "persona",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1440937647",
+    "createdAt": "2026-10-31T22:40:24.497Z"
+  },
+  {
+    "slug": "read-your-characterai-data-export-in-the-browser-nothing-uploaded-hn",
+    "title": "Read your Character.AI data export in the browser, nothing uploaded",
+    "shortDescription": "Проект «Read your Character.AI data export in the browser, nothing uploaded», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Read your Character.AI data export in the browser, nothing uploaded», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/anima-universe/character-ai-export-viewer",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50319478",
+    "createdAt": "2026-10-31T22:40:24.267Z"
+  },
+  {
+    "slug": "castov-open-source-dev-tools-and-ai-secret-shield-with-zero-telemetry-hn",
+    "title": "Castov – Open-source dev tools and AI secret shield with zero telemetry",
+    "shortDescription": "Проект «Castov – Open-source dev tools and AI secret shield with zero telemetry», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Castov – Open-source dev tools and AI secret shield with zero telemetry», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://castov.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50319273",
+    "createdAt": "2026-10-31T22:40:24.267Z"
+  },
+  {
     "slug": "character-ai-sdk-github",
     "title": "character-ai-sdk",
     "shortDescription": "Default personas, durable character memory, and provider adapters in a single package",
