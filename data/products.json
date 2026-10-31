@@ -1,5 +1,37 @@
 [
   {
+    "slug": "archwhere-work-alongside-ai-coding-agents-on-an-architecture-map-hn",
+    "title": "Archwhere – work alongside AI coding agents on an architecture map",
+    "shortDescription": "I am a solo founder&#x2F;developer, my agents shipping 30 PRs a week, couldn’t see which part of product they were changing; existing arch…",
+    "fullDescription": "I am a solo founder&#x2F;developer, my agents shipping 30 PRs a week, couldn’t see which part of product they were changing; existing arch tools die because humans won’t maintain the model — so I made the agents maintain it. MIT license\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/tapaskar/archwhere",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50313522",
+    "createdAt": "2026-10-31T08:18:24.708Z"
+  },
+  {
+    "slug": "ai-gave-me-the-skills-it-didnt-give-me-people-hn",
+    "title": "AI gave me the skills. It didn't give me people",
+    "shortDescription": "Проект «AI gave me the skills. It didn't give me people», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI gave me the skills. It didn't give me people», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://apps.apple.com/us/app/neonetworking/id6818046802",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50313446",
+    "createdAt": "2026-10-31T08:18:24.708Z"
+  },
+  {
     "slug": "graphmemory-github",
     "title": "graphmemory",
     "shortDescription": "Bitemporal AI memory system: six-variable decay, time-graded recall, TTL expiry, dedupe, competitive retrieval (Neo4j + PostgreSQL + Redis)",
