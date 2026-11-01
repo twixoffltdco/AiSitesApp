@@ -1,5 +1,37 @@
 [
   {
+    "slug": "anchorgit-hardware-signed-git-decision-ledger-for-ai-code-hn",
+    "title": "AnchorGit – Hardware-signed Git decision ledger for AI code",
+    "shortDescription": "Проект «AnchorGit – Hardware-signed Git decision ledger for AI code», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AnchorGit – Hardware-signed Git decision ledger for AI code», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.anchorgit.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50323310",
+    "createdAt": "2026-11-01T08:40:17.685Z"
+  },
+  {
+    "slug": "what-67-mcp-servers-do-at-startup-with-the-internet-cut-off-hn",
+    "title": "What [67] MCP servers do at startup, with the internet cut off",
+    "shortDescription": "Проект «What [67] MCP servers do at startup, with the internet cut off», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «What [67] MCP servers do at startup, with the internet cut off», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://mcp.brydge-ai.com",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50322794",
+    "createdAt": "2026-11-01T08:40:17.685Z"
+  },
+  {
     "slug": "swift-language-models-github",
     "title": "swift-language-models",
     "shortDescription": "A unified Swift API for Apple’s Foundation Models-style experience across cloud and local LLM providers. Bring OpenRouter, Ollama, Claude,…",
