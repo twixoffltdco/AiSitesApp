@@ -1,5 +1,107 @@
 [
   {
+    "slug": "codixel-github",
+    "title": "codixel",
+    "shortDescription": "Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc.",
+    "fullDescription": "Pixel art skill for Claude Code: how to make good pixel, animated game sprite out, effects etc.\n\nАвтор: mankidev. Найдено в GitHub Trending (AI-тематика). ⭐ 18 звёзд.",
+    "url": "https://github.com/mankidev/codixel",
+    "category": "ai-tool",
+    "tags": [
+      "8bit",
+      "agent-skills",
+      "ai",
+      "ai-art",
+      "claude-code",
+      "claude-skill",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1441146511",
+    "createdAt": "2026-11-01T15:43:53.793Z"
+  },
+  {
+    "slug": "let-formal-specs-test-ai-implementations-hn",
+    "title": "Let formal specs test AI implementations",
+    "shortDescription": "Проект «Let formal specs test AI implementations», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Let formal specs test AI implementations», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/mrasu/spec-guardian",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50325878",
+    "createdAt": "2026-11-01T15:43:53.534Z"
+  },
+  {
+    "slug": "issitedown-chrome-extension-to-check-current-site-availability-hn",
+    "title": "IsSiteDown – Chrome extension to check current site availability",
+    "shortDescription": "Hi HN, I have recently built a small Chrome extension, showing availability of the currently open site. Like you can&#x27;t open something…",
+    "fullDescription": "Hi HN, I have recently built a small Chrome extension, showing availability of the currently open site. Like you can&#x27;t open something and want to quickly check, if it is down at all. It checks HTTP responses, DNS resolution and TLS certificate from the cloud environment. For a set of well-known sites it also provides information from official status (e.g. Cloudflare, Airbnb etc.), showing short info about latest incidents, if any. I&#x27;m interested in a few things: 1. In which scenarios would you use it? Own sites, general surfing, quick link to official reports? 2. Is it worth to extend this official status part, covering more sites? Which services would you want covered?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://chromewebstore.google.com/detail/issitedown/ifilnamlilffdbhbfmkkkajlgckimjlo",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50325712",
+    "createdAt": "2026-11-01T15:43:53.534Z"
+  },
+  {
+    "slug": "shroom-screen-recording-and-sharing-your-own-cloudflare-10m-setup-hn",
+    "title": "Shroom – screen recording and sharing, your own Cloudflare, 10M setup",
+    "shortDescription": "Some months I needed to record and share a single 30-minute demo, but in other months I only needed a few 2-minute quick videos. Paying $18…",
+    "fullDescription": "Some months I needed to record and share a single 30-minute demo, but in other months I only needed a few 2-minute quick videos. Paying $18&#x2F;month didn&#x27;t justify. So I had to build it myself. Shroom is a free, open source (MIT) screen recording and sharing app for Mac, hosted in your own Cloudflare account. Install with one line (or with your AI agent) and follow a guided setup for about 10 minutes, a few clicks (create a token, add a card to enable storage on Cloudflare). With Cloudflare&#x27;s free tier, up to about 3 hours of recorded videos cost you nothing. After that, it is still cheap - use the slider at https:&#x2F;&#x2F;shroom.am to see the approximate storage costs. Shroom auto-deletes stale videos (old, unwatched) to keep your storage consumption low. Pin important videos to keep them from being deleted. Invite your teammates with a single link, they don&#x27;t need a Cloudflare account. Their videos go into your storage. You only pay for storage, no matter how many people you invite. It comes with an editor, but you can also cut as you record. If you make a mistake, just say &quot;shroom cut&quot; while recording and continue. After you stop the slipped sentence will be cut for you. It will also add chapters and captions to your video using AI, again, all running in your Cloudflare. Github: https:&#x2F;&#x2F;github.com&#x2F;bagrat&#x2F;shroom\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://shroom.am",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50325709",
+    "createdAt": "2026-11-01T15:43:53.534Z"
+  },
+  {
+    "slug": "omnidiff-opensource-super-fast-content-aware-git-difftool-in-rust-hn",
+    "title": "OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+    "shortDescription": "I have been researching what the ultimate diff tool would look like, based on actual diffs in open source repositories. OmniDiff can diff:…",
+    "fullDescription": "I have been researching what the ultimate diff tool would look like, based on actual diffs in open source repositories. OmniDiff can diff: code (25 languages), config, images, PDFs, archives, cursors, fonts... It&#x27;s fast. It can diff C++ files of tens of thousands of lines in under 100ms, on a 2023 ThinkPad T14s. It&#x27;s open source. AGPLv3. It&#x27;s based on real diffs. I looked at the 7400 repositories that are listed in Gentoo packages, sampled 2000 diffs and solved them manually to get a good understanding of what is needed, before putting together the diff pipelines for each content type. Incidentally, this also forms the basis of the CI pipeline, so the robustness of the codebase is quite high. I&#x27;m still developing it. It&#x27;s v0.3.0 at this time. But I have been using it daily as my git difftool for months now, and it works well. AI Disclosure: Yes, I do use AI. No, I do not vibecode.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/ivankovic/omnidiff",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50325253",
+    "createdAt": "2026-11-01T15:43:53.534Z"
+  },
+  {
+    "slug": "openproject-agent-engine-automated-workflow-and-agent-dispatch-hn",
+    "title": "OpenProject Agent Engine – Automated Workflow and Agent Dispatch",
+    "shortDescription": "I started looking into OpenProject as an open-source JIRA alternative for personal project, and wanted a way to have my AI agents pick up t…",
+    "fullDescription": "I started looking into OpenProject as an open-source JIRA alternative for personal project, and wanted a way to have my AI agents pick up tasks and complete them automatically. So I put together this OpenProject Agent Engine. It auto assigns the &#x27;work package&#x27; (ticket), then kicks off the agent to do the work. Once complete, the agent opens a PR then leaves a detailed comment on the ticket. The engine then assigns the ticket to a QA code review agent. If it passes, the PR gets merged and and ticket is closed. If it doesn&#x27;t pass, it gets kicked back to the original agent to fix the issues. Feedback welcome and hope it can help someone. Docker Hub: https:&#x2F;&#x2F;hub.docker.com&#x2F;r&#x2F;kookster310&#x2F;op-agent-engine Github: https:&#x2F;&#x2F;github.com&#x2F;310networks&#x2F;openproject-agent-engine\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/310networks/openproject-agent-engine",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50323807",
+    "createdAt": "2026-11-01T15:43:53.535Z"
+  },
+  {
     "slug": "anchorgit-hardware-signed-git-decision-ledger-for-ai-code-hn",
     "title": "AnchorGit – Hardware-signed Git decision ledger for AI code",
     "shortDescription": "Проект «AnchorGit – Hardware-signed Git decision ledger for AI code», опубликован сообществом Hacker News.",
