@@ -1,5 +1,145 @@
 [
   {
+    "slug": "dsh-finance-github",
+    "title": "dsh-finance",
+    "shortDescription": "DKKD13 个人开发的第三方 DSH 金融研究插件：研究 Skills、证据资料库、个股图表与模拟基金。与 DeepSeek 官方无隶属关系。",
+    "fullDescription": "DKKD13 个人开发的第三方 DSH 金融研究插件：研究 Skills、证据资料库、个股图表与模拟基金。与 DeepSeek 官方无隶属关系。\n\nАвтор: DKKD13. Найдено в GitHub Trending (AI-тематика). ⭐ 10 звёзд.",
+    "url": "https://github.com/DKKD13/dsh-finance",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "deepseek",
+      "dsh",
+      "finance",
+      "local-first",
+      "research",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1441767849",
+    "createdAt": "2026-11-01T23:44:32.220Z"
+  },
+  {
+    "slug": "unslop-skill-github",
+    "title": "unslop-skill",
+    "shortDescription": "Catches and fix AI slop in UI and prose, and measures what the browser actually painted.",
+    "fullDescription": "Catches and fix AI slop in UI and prose, and measures what the browser actually painted.\n\nАвтор: SalvatoreCampagnese. Найдено в GitHub Trending (AI-тематика). ⭐ 9 звёзд.",
+    "url": "https://github.com/SalvatoreCampagnese/unslop-skill",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-skills",
+      "graphic-design",
+      "skill",
+      "slop",
+      "ui",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1441686628",
+    "createdAt": "2026-11-01T23:44:32.220Z"
+  },
+  {
+    "slug": "measure-the-carbon-cost-of-everyday-items-prompts-beef-flights-hn",
+    "title": "Measure the carbon cost of everyday items: prompts, beef, flights",
+    "shortDescription": "Often, we focus on the wrong things when trying to combat climate change such as plastic straws, paper towels and AI prompts. However, the…",
+    "fullDescription": "Often, we focus on the wrong things when trying to combat climate change such as plastic straws, paper towels and AI prompts. However, the impact of these things are negligible compared to meat, cars, clothes and new tech. I wanted an easy way to compare the impact of different activities and purchases to better focus our efforts.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://carboncost.me",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50330504",
+    "createdAt": "2026-11-01T23:44:32.092Z"
+  },
+  {
+    "slug": "corollary-latex-editor-for-mac-with-on-device-apple-foundation-models-hn",
+    "title": "Corollary, LaTeX Editor for Mac with On-Device Apple Foundation Models",
+    "shortDescription": "A few days ago, I got OpenAI&#x27;s email that Prism will be officially shutting down on January 1. Having written my last paper in it, I w…",
+    "fullDescription": "A few days ago, I got OpenAI&#x27;s email that Prism will be officially shutting down on January 1. Having written my last paper in it, I was quite disappointed since I&#x27;ve never really enjoyed typing LaTeX by hand for long periods. Also, when I updated my macOS recently, I started playing around with Apple&#x27;s Foundation Models a bit (which I&#x27;m late on). So on Saturday I decided that, instead of studying for my midterms, my weekend project was going to be building a local version of Prism that used on-device Apple FMs. It&#x27;s an Overleaf-style editor with a PDF preview that compiles with TeX Live, and it installs TeX for you if you don&#x27;t have it. To use the AI features, select text and press Cmd-K, and you can accept or reject the diff. If you have a handwritten formula that you want to insert, you can place your cursor where you want to insert and drop in a photo, which GLM-OCR turns into LaTeX locally since Apple&#x27;s OCR doesn&#x27;t handle math. What was fun was testing out the capability of the models. Corollary uses SystemLanguageModel.default, which is Apple&#x27;s general-purpose on-device model and the one built into macOS for Apple Intelligence. It&#x27;s about 3B params with a 4,096 token context window on my M1 Max. When asked for plain text, it kept every \\cite, \\ref, \\label and formula intact in 78 of 80 edits, but with structured output (@Generable) it went 0 for 20 because the JSON escaping eats the backslashes (\\text comes back as a tab). While this limits capabilities like full document edits, you can already point it at Ollama or your own API key, and I&#x27;m sure the models will catch up soon. Also, it needs an Apple silicon Mac, and the AI needs macOS 26 with Apple Intelligence. At this stage I don&#x27;t have an Apple Developer ID yet, so the first launch needs System Settings &gt; Privacy &amp; Security &gt; Open Anyway. Sorry about that. Please give it a try and let me know what bugs you run into or what the model struggles on! Github: https:&#x2F;&#x2F;github.com&#x2F;calvinyz&#x2F;corollary\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://calvinyz.github.io/corollary/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50330224",
+    "createdAt": "2026-11-01T23:44:32.092Z"
+  },
+  {
+    "slug": "nonce-open-source-least-privilege-gmail-access-for-ai-agents-hn",
+    "title": "Nonce – Open-source, least-privilege Gmail access for AI agents",
+    "shortDescription": "Hi HN! We built nonce, an open-source tool that sits between personal AI agents (Muse, Grok, ChatGPT, Claude) and your personal data in Gma…",
+    "fullDescription": "Hi HN! We built nonce, an open-source tool that sits between personal AI agents (Muse, Grok, ChatGPT, Claude) and your personal data in Gmail, Calendar, Drive and more. Today, if you connect Gmail to an AI agent like Muse, it can read your entire inbox. Whether on purpose or not, they can read far more emails than needed. This poses a huge data-privilege risk, in which personal data is accessed without limits. With nonce, the AI will no longer hold your Google or Slack tokens. To read anything, it has to show its intent first: User&#x27;s question: When does my flight to Tokyo leave? Agent&#x27;s justification: Need the airline confirmation email Agent&#x27;s search query: from:united.com Tokyo Access needed: 10 minutes If the justification and search query are reasonable, nonce issues a scoped token to the AI Agent. AI Agent can only query data using a token. If something looks fishy, i.e the AI is acting on its own, wants too much, or wants sensitive emails like bank statements, medical results, or password resets. nonce sends you a notification to approve or deny. By default, nonce denies massive crawling behaviors How it works 1. nonce scores each search against your original question before running it, to ensure its relevance. 2. Every search is combined with the token&#x27;s search. If the AI searches &quot;bank statement&quot;, nonce runs (from:united.com Tokyo) AND (bank statement). It can narrow its access, but not widen it. 3. The token is scoped to that agent only, with a TTL for X minutes. Limitations: nonce can&#x27;t see your chat with the AI, so it can&#x27;t prove you asked, which leaves a risk that the AI Agent can fake the intent. However, users can audit past accesses in nonce portal and identify these bypasses. Give it a shot at https:&#x2F;&#x2F;github.com&#x2F;roe-ai&#x2F;nonce We&#x27;d love to hear what you think. Website: https:&#x2F;&#x2F;anonce.io\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.anonce.io/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50330213",
+    "createdAt": "2026-11-01T23:44:32.092Z"
+  },
+  {
+    "slug": "building-an-ai-traffic-guardrailkilasec-hn",
+    "title": "Building an AI Traffic Guardrail(kilasec)",
+    "shortDescription": "Show HN: An AI traffic guardrail Building something based on 2 decades of support experience. It&#x27;s a guardrail for AI traffic where yo…",
+    "fullDescription": "Show HN: An AI traffic guardrail Building something based on 2 decades of support experience. It&#x27;s a guardrail for AI traffic where you can apply policies, redact PII and API keys, set model destinations, catch destructive actions before execution, etc. The whole thing is built with Claude and can also be configured and troubleshot via Claude&#x2F;AI tools (it acts as an MCP server). It acts as a proxy for AI traffic. All you need is a Linux box (the Collector, where policy rules are applied) and a client app installed on the machine generating AI traffic to forward selected requests to it. Everything is visible in the UI. Lots of customization, with user experience kept in mind throughout. Happy to answer any questions!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://kilasec.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50330158",
+    "createdAt": "2026-11-01T23:44:32.092Z"
+  },
+  {
+    "slug": "airflick-drop-airdrop-for-windows-with-zero-mobile-app-installs-hn",
+    "title": "AirFlick Drop – AirDrop for Windows with zero mobile app installs",
+    "shortDescription": "Проект «AirFlick Drop – AirDrop for Windows with zero mobile app installs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AirFlick Drop – AirDrop for Windows with zero mobile app installs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/k39139215-gif/airflick-drop",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50329581",
+    "createdAt": "2026-11-01T23:44:32.093Z"
+  },
+  {
+    "slug": "nouli-a-decision-model-tui-to-branch-and-blend-multiple-histories-hn",
+    "title": "Nouli – A decision model TUI to branch and blend multiple histories",
+    "shortDescription": "Проект «Nouli – A decision model TUI to branch and blend multiple histories», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Nouli – A decision model TUI to branch and blend multiple histories», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/nouli-ai/nouli",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50329343",
+    "createdAt": "2026-11-01T23:44:32.093Z"
+  },
+  {
     "slug": "natively-30-a-local-meeting-assistant-that-hides-from-screen-share-hn",
     "title": "Natively 3.0 – a local meeting assistant that hides from screen share",
     "shortDescription": "Проект «Natively 3.0 – a local meeting assistant that hides from screen share», опубликован сообществом Hacker News.",
