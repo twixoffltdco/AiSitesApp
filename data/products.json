@@ -1,5 +1,59 @@
 [
   {
+    "slug": "swift-language-models-github",
+    "title": "swift-language-models",
+    "shortDescription": "A unified Swift API for Apple’s Foundation Models-style experience across cloud and local LLM providers. Bring OpenRouter, Ollama, Claude,…",
+    "fullDescription": "A unified Swift API for Apple’s Foundation Models-style experience across cloud and local LLM providers. Bring OpenRouter, Ollama, Claude, GPT, Gemini and more into a consistent LanguageModelSession interface, with tool calling, guided generation, streaming, reasoning and typed model catalogs. Multi-provider support, with more integrations coming.\n\nАвтор: dioKaratzas. Найдено в GitHub Trending (AI-тематика). ⭐ 10 звёзд.",
+    "url": "https://swiftpackageindex.com/dioKaratzas/swift-language-models",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "apple-intelligence",
+      "foundation-models",
+      "ios",
+      "llm",
+      "macos",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1439540766",
+    "createdAt": "2026-11-01T01:50:00.185Z"
+  },
+  {
+    "slug": "linkedin-ops-zero-dependency-cdp-automation-built-for-ai-agents-hn",
+    "title": "LinkedIn-ops – Zero-dependency CDP automation built for AI agents",
+    "shortDescription": "Проект «LinkedIn-ops – Zero-dependency CDP automation built for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «LinkedIn-ops – Zero-dependency CDP automation built for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/shashtag-ventures/linkedin-ops",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50322021",
+    "createdAt": "2026-11-01T01:49:59.925Z"
+  },
+  {
+    "slug": "bbrouter-ben-eaters-8-bit-computer-simulated-on-3d-breadboards-hn",
+    "title": "BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+    "shortDescription": "Hi HN, I kept wiring Ben Eater&#x27;s 8-bit computer wrong, so I built a realistic virtual breadboard editor. Some of the nice features are…",
+    "fullDescription": "Hi HN, I kept wiring Ben Eater&#x27;s 8-bit computer wrong, so I built a realistic virtual breadboard editor. Some of the nice features are side-by-side diff, scope, schematics auto-sync, auto-router (BBRouter stands for breadboard router), and my favorites: upload from the real Arduino IDE and connect to your AI with MCP, let Claude &amp; co build it or help you troubleshoot. The link is the SAP-1 running. You can orbit it, probe a hole with the scope, slow the clock down, play with the virtual displays for debugging, then you can actually build it following the step-by-step instructions. A side-goal is to create a community, there are quite a lot of simulators out there but mostly offline &#x2F; too abstract to realistically use it for a real build. I also never found one that had a decent UI&#x2F;UX and worked well on mobile or with a trackpad. Happy to answer anything, and tell me what breaks. p.s. Maker plan is $7&#x2F;month; code HACKERNEWS makes the first month free and then $5&#x2F;month for as long as you keep it.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50321522",
+    "createdAt": "2026-11-01T01:49:59.926Z"
+  },
+  {
     "slug": "persona-ai-sdk-github",
     "title": "persona-ai-sdk",
     "shortDescription": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
