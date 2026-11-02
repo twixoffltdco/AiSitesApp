@@ -1,5 +1,235 @@
 [
   {
+    "slug": "persona-ai-sdk-github-2",
+    "title": "persona-ai-sdk",
+    "shortDescription": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.",
+    "fullDescription": "Persona AI SDK: default personas, durable character memory, and Bedrock/OpenAI adapters in one package.\n\nАвтор: tavern-labs-ai. Найдено в GitHub Trending (AI-тематика). ⭐ 197 звёзд.",
+    "url": "https://www.npmjs.com/package/ai-persona-sdk",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "bedrock",
+      "characters",
+      "llm",
+      "memory",
+      "persona",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1440937647",
+    "createdAt": "2026-11-02T22:06:57.356Z"
+  },
+  {
+    "slug": "hiveos-ai-chief-of-staff-with-sub-1ms-pii-masking-and-offline-swarms-hn",
+    "title": "HiveOS – AI Chief of Staff with sub-1ms PII masking and offline swarms",
+    "shortDescription": "Проект «HiveOS – AI Chief of Staff with sub-1ms PII masking and offline swarms», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «HiveOS – AI Chief of Staff with sub-1ms PII masking and offline swarms», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://gethiveos.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50342535",
+    "createdAt": "2026-11-02T22:06:57.174Z"
+  },
+  {
+    "slug": "an-experiment-in-automated-long-horizon-builds-with-amqp-091-hn",
+    "title": "An experiment in automated long-horizon builds with AMQP 0.9.1",
+    "shortDescription": "My cofounders and I are in the process of spinning up an AI integration lab, and over the last year we&#x27;ve consumed billions of tokens…",
+    "fullDescription": "My cofounders and I are in the process of spinning up an AI integration lab, and over the last year we&#x27;ve consumed billions of tokens across multiple American, European, and Chinese models as a force multiplier for building out our products. However, despite our extensive technical expertise, we&#x27;ve still discovered there are long-term ramifications to heavy agentic AI usage. So I decided to run an experiment for us: given a specification, can an LLM fully, concretely, and correctly implement an internally consistent, linearizable distributed system to the same quality as a human? This repository is the outcome and showcase of that experiment, complete with the entire session history, including tool outputs. To make this project, I only gave the LLM the AMQP 0.9.1 specification and a few requirements: it must use clustered Raft, and it must support up to 9 nodes (light ceiling, but not the final limit). I picked an older but less well-known protocol as it provided a simplistic base with a wide range of features built on top; a messaging platform more than just a broker. While the specification itself is fairly old, it is still very viable and valuable today for a wide range of uses. For our uses, I chose Switchboard as the experiment as our products are sealed appliances and we need a stable, scalable message broker that&#x27;s embeddable into our existing apps (embedded distributed systems are easier when it&#x27;s all the same binary), deployable as a standalone service, and understandable enough by everyone that debugging and diagnosing it is easy. This experiment is not designed to compete with RabbitMQ or other solutions (altho it is a love letter to my former vmware&#x2F;Pivotal coworkers who worked on RabbitMQ), and I will be maintaining it for our own use cases. I wrote it in Rust specifically because our code base is written in Rust. While I may talk about the hands-on design, build, and testing of the project as &quot;automated&quot; and &quot;with long horizon capabilities&quot;, it is not vibe-coded slop. There are hundreds of cross-platform and cross-architecture tests, and full Jepsen linearization tests on Linux - I am going to put this software into high-compliance production environments and I need it to be stable. In finality, I hope you find my little experiment in automated, spec-driven, long-horizon builds interesting and insightful. Contributions are welcome, if desired, but with the age of the protocol I don&#x27;t expect any real consumers other than our lab. Happy message passing!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/siennathesane/switchboard",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50342493",
+    "createdAt": "2026-11-02T22:06:57.174Z"
+  },
+  {
+    "slug": "cputopbars-and-devtopbars-macos-menu-bar-system-and-ai-monitors-hn",
+    "title": "CpuTopBars and devTopBars – macOS menu bar system and AI monitors",
+    "shortDescription": "Проект «CpuTopBars and devTopBars – macOS menu bar system and AI monitors», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «CpuTopBars and devTopBars – macOS menu bar system and AI monitors», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://halfmarble.com/devtopbars/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50342438",
+    "createdAt": "2026-11-02T22:06:57.175Z"
+  },
+  {
+    "slug": "mago-an-open-source-ai-video-studio-runs-locally-with-comfy-hn",
+    "title": "Mago, an open source AI video studio, runs locally with Comfy",
+    "shortDescription": "I&#x27;m Alvaro, one of the founders of Mago. With my co-founder Alex (creator of Warpfusion, open source video to video), we built an open…",
+    "fullDescription": "I&#x27;m Alvaro, one of the founders of Mago. With my co-founder Alex (creator of Warpfusion, open source video to video), we built an open source AI video studio specialized in long form content and large volumes of video. It&#x27;s a desktop app that you can run for free on your own GPU, that uses a portable ComfyUI or can be plugged into an existing Comfy setup. It handles both hybrid production (video to video, AI VFX) and full AI (microdramas, AI series for social etc). Back when Alex was working on Warpfusion, we were discussing making an app for &quot;real&quot; production, meaning hours of video, films, series, etc. We started off building a closed source solution, but we&#x27;re now going back to our roots. In short: there&#x27;s a billion AI video tools and it seems like everyone wants to make their own, in fact with the progress of LLMs I&#x27;m more and more convinced by the idea of personal software. AI series for TikTok and VFX on a feature film have completely different needs. AI video is also quite expensive still, unless you can run it on your own GPU. So not only can you run models for free, if the app is open you can also fork it into whatever you want! Finally, we&#x27;ve been hearing for more than a year that Comfy can be a little too complex, so we thought, well why not try and make open source plug and play? That&#x27;s the end goal. Limitations: you&#x27;ll need an Nvidia GPU with 16GB+ of VRAM and 60GB+ of disk space to host the models (Qwen, Minimax H3). License is AGPL. You can also use closed source models with a Mago subscription. Please try it out and let me know what we should add next!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/MagoStudio/MagoStudio",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50341649",
+    "createdAt": "2026-11-02T22:06:57.175Z"
+  },
+  {
+    "slug": "vantage-early-warning-signals-hn",
+    "title": "Vantage – Early-Warning Signals",
+    "shortDescription": "Hey HN, For a while I&#x27;ve building a centralised early warning platforms. Looking everywhere in market watching people build AI chief o…",
+    "fullDescription": "Hey HN, For a while I&#x27;ve building a centralised early warning platforms. Looking everywhere in market watching people build AI chief of staff which does everything for you. But that lacks few key thing - what&#x27;s condition of market or what&#x27;s going on outside. Just based on your data it makes decisions for you which could be painful more often than not. So I&#x27;ve been building this platform which analyses your data up against market and will warn only if something worth looking if something mismatches. So what does that means for you? AI provides information to make decisions and you&#x27;ll be making those decisions. Working on it - just a demo and haven&#x27;t published yet, soon will! Feedbacks are welcome :)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aditya-web-portfolio.vercel.app/blogs/vantage",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50341435",
+    "createdAt": "2026-11-02T22:06:57.175Z"
+  },
+  {
+    "slug": "i-lost-count-of-the-snus-ive-tried-so-i-built-a-site-to-track-them-hn",
+    "title": "I lost count of the snus I've tried, so I built a site to track them",
+    "shortDescription": "Infinite tokens, caffeine and nicotine. Vibeoffice, yeah... don&#x27;t judge haha. Well, the goal here is snus, not the AI. I&#x27;ve tried…",
+    "fullDescription": "Infinite tokens, caffeine and nicotine. Vibeoffice, yeah... don&#x27;t judge haha. Well, the goal here is snus, not the AI. I&#x27;ve tried a lot of snus pouches and lost count, and lost track of what I even thought of them. So I basically built this site for myself, to keep track of what I like and don&#x27;t like and find paths to better options. Still searching for the taste I like, haha. Sorry, a lot of what I tried isn&#x27;t rated, because I already forgot it. Short memory span these days. Almost all the ratings are mine so far, and AI wrote up my reviews from what I told it, so other people&#x27;s taste would help. 18+, sells nothing. Nicotine is addictive, so don&#x27;t start if you don&#x27;t use it.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://snusrate.com/rankings",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50340889",
+    "createdAt": "2026-11-02T22:06:57.175Z"
+  },
+  {
+    "slug": "a-persistent-chrome-cloud-browser-for-ai-agents-hn",
+    "title": "A persistent Chrome cloud browser for AI agents",
+    "shortDescription": "Проект «A persistent Chrome cloud browser for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A persistent Chrome cloud browser for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://cloudbrowser.tv",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50340718",
+    "createdAt": "2026-11-02T22:06:57.175Z"
+  },
+  {
+    "slug": "archdocs-shared-context-and-verification-for-engineers-and-ai-agents-hn",
+    "title": "ArchDocs – Shared context and verification for engineers and AI agents",
+    "shortDescription": "Hi HN, My name is Aylon and I&#x27;m building ArchDocs. I started building ArchDocs in late 2024 as an architecture diagramming tool with r…",
+    "fullDescription": "Hi HN, My name is Aylon and I&#x27;m building ArchDocs. I started building ArchDocs in late 2024 as an architecture diagramming tool with reusable references and objects (still exists today and is usable). As I&#x27;ve been using AI to code more and more, one of the things I&#x27;ve run into is that my agent doesn&#x27;t have enough context around past decisions or findings that could affect an implementation, causing some nasty side-effects like redundant investigations, incorrect assumptions, repeating previously caught mistakes and ultimately wasting precious tokens. Let&#x27;s say for example, you need to do a migration that affects 10 backend services. Your agent starts working on the first one and during the implementation and verification process, it discovers an issue that will undeniably affect the other 9 services. The next agent can start on the second service without knowing what was learned on the first. There&#x27;s another problem I run up against time and time again. I need a dependable way to verify and log what an agent has done, the outcome of that and any deviations or issues that arise from it, so I can tell whether the change actually did what I intended. Enter Design Docs inside ArchDocs. The workflow is simple. You or your agent can craft a spec and ask questions for people to answer. Writing the implementation plan comes next, followed by doing the actual work. While you or your agent works, you track important milestones, deviations, decisions and more in the work log. Need to pause or have someone else do the work? No problem, craft a handoff or let ArchDocs AI do it for you. Finally, you or your agent logs a summarized version of what was done and how it was verified in an evidence of work submission. In that migration example, your agent can mark the issue in the work log as a &quot;finding&quot; and that will then be surfaced when future agents execute on the other 9 services. On the verification side, you may ask, &quot;How does this help if the agent or engineer is just writing down their verification?&quot; This is a good question and that&#x27;s only one part of the verification. We have this concept of Agent attested (paired with human verified) and human attested. The last pillar and the most important is ArchDocs&#x27; own independent, automated verifications. Right now, we just have GitHub tracking for check results but we will soon be expanding this into so much more. Imagine one of the automated verifications is that a specific log with a specific attribute shows up in Datadog. Maybe even a specific event showing up in PostHog. There&#x27;s a lot of ways we&#x27;re going to take this and we&#x27;re excited to share them once done. You can explore an example design doc without signing up. It includes the spec, implementation plan, work log and verification evidence: https:&#x2F;&#x2F;archdocs.io&#x2F;templates&#x2F;design-doc-example\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://archdocs.io",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50340570",
+    "createdAt": "2026-11-02T22:06:57.175Z"
+  },
+  {
+    "slug": "aido-spec-driven-test-driven-engineering-workflow-for-claude-code-hn",
+    "title": "aido – Spec-driven, test-driven engineering workflow for Claude Code",
+    "shortDescription": "Проект «aido – Spec-driven, test-driven engineering workflow for Claude Code», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «aido – Spec-driven, test-driven engineering workflow for Claude Code», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/joebew42/aido",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50340386",
+    "createdAt": "2026-11-02T22:06:57.175Z"
+  },
+  {
+    "slug": "garrul-comments-system-for-your-site-on-a-single-cloudflare-worker-hn",
+    "title": "Garrul – Comments system for your site on a single Cloudflare Worker",
+    "shortDescription": "I needed a comments system for my blog (running on Cloudflare &amp; Astro), the other options I tried didn&#x27;t work out as I wanted. So…",
+    "fullDescription": "I needed a comments system for my blog (running on Cloudflare &amp; Astro), the other options I tried didn&#x27;t work out as I wanted. So Garrul was born, it uses one Cloudflare Worker with D1 + KV, in your own account. No container, no VPS, no DB server to manage or worry about! Most sites fit the free tier, I am using it for 5 lowish traffic sites with zero issues. I wanted privacy of commenters to be primary here, along with ease of use so that was always the basis of many decisions I took along the way. For example, we never store IP addresses directly. Every IP is HMAC hashed, ipv6 is truncated first. I have worked steadily on optimizations every chance, e.g. instead of having few separate calls for the config, session, first set of comments, subscription state etc it&#x27;s all a single call. Posting costs a single call, you can even have a reaction only mode for specific pages&#x2F;articles. The anti-spam call and turnstile call only happen when user actually focuses the comment posting embed. The math works out to roughly 100k pageviews&#x2F;day on the free tier. The widget embed itself is limited to 30KB gzipped, with the CI set to fail above that so we don&#x27;t ship massive embeds. One of the larger issues with trying to stick within Cloudflare free tier is the 1000 writes&#x2F;day for KV. We used to have per request KV Cache, that burned me when I woke up to my first bot swarm browsing thru the site and locking out the comments for the whole day. That made me move the cache to the cache API. Demo (anonymous posting works) : https:&#x2F;&#x2F;garrul.com&#x2F;#comments I would appreciate any feedback on improving the system. Optimization and security are my current focus, so anything anyone can help with there will be immensely appreciated. Some of the feature highlights : Threaded markdown enabled comments OAuth (Google, Facebook, X, Discord, GitHub logins) or Anon posting pinned comments, opt in reply emails, digest of posts to moderators, and a telegram bot to moderate the whole thing from telegram itself (I use this telegram bot daily). Multiple languages, and ability to import from multiple systems like Disqus and Remark42 among others. Licensed as Apache2.0. So it is tied to Cloudflare for now, meaning even tho Cloudflare D1 is simply SQLite, you can&#x27;t just run it anywhere other than CF. In our case your data can be exported as a plain SQLite dump (via npm run db:export) or json or CSV from the admin panel, whenever you need it. I used AI assistance heavily for this, coding, tests, and red-teaming. I review what goes in and CI catches a lot.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/KingPin/Garrul",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50340303",
+    "createdAt": "2026-11-02T22:06:57.175Z"
+  },
+  {
+    "slug": "build-and-explore-a-shared-ai-computer-just-by-talking-hn",
+    "title": "Build and explore a shared AI computer, just by talking",
+    "shortDescription": "Проект «Build and explore a shared AI computer, just by talking», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Build and explore a shared AI computer, just by talking», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://duplex.party/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50340215",
+    "createdAt": "2026-11-02T22:06:57.175Z"
+  },
+  {
+    "slug": "hanging-context-news-by-an-agent-for-other-agents-hn",
+    "title": "Hanging Context – news by an agent, for other agents",
+    "shortDescription": "Back in 2022 I was building a data and news site for family offices, private wealth and investment managers. We used the early OpenAI model…",
+    "fullDescription": "Back in 2022 I was building a data and news site for family offices, private wealth and investment managers. We used the early OpenAI models to write data-driven stories covering the markets for art, collectibles, luxury goods and other cultural assets. Mid-2024, a well-known AI company asked to license our stories. The big labs were signing licensing deals with media companies. This is when it clicked. The biggest reader of news wasn’t going to be people. It was going to be their agents, and agents have unlimited hours of attention. So I built Synorb. It reads thousands of sources and turns fresh content objects into Manifests (structured claims with provenance) that are dispatched via Streams anchored to organizations, people and datasets. Hanging Context is an experiment on top of that. Could an agent read our streams and stand up a news site for other agents to read and find trustworthy? The first version with a home-brewed Hermes agent was cumbersome so I tried Instinct and Muse when they released and settled on Muse as I found it better at narratives, images. An agent runs the site. I wrote this post. How it works: Every 12 hours Muse reads hundreds of new Manifests published in our streams, then writes a new edition for the site. Every article produced cites the Manifests it used. Before it publishes an article, an API checks it for quotes. They must appear word for word in a cited Manifest. Every paragraph needs to be backed by a citation and sources have to be under 24 hours old. Muse doesn’t probabilistically determine what to trust - if 3 or more different sources back it, it’s &quot;Confirmed&quot;. Otherwise it’s &quot;Reported&quot;. At the time of writing, the site had 30 of 45 articles Confirmed. Here’s an article with 3 sources cited; the panel at the bottom shows what was checked: https:&#x2F;&#x2F;hangingcontext.com&#x2F;stories&#x2F;2026-11-02&#x2F;agent-stack-re... It costs almost nothing to run as I&#x27;m using Muse on the free plan, and since it only needs to pull Manifests, reason and write, it can run just fine. To try it, just add https:&#x2F;&#x2F;hangingcontext.com&#x2F;mcp to Claude, Cursor or any MCP client. No sign-up or key required. Setup: https:&#x2F;&#x2F;github.com&#x2F;Synorb&#x2F;hanging-context . What I’m trying to figure out: When I saw the early pull numbers by agents, I thought this could be a lead-gen micro-site for Synorb. I’ve built those before for human focused consumer and enterprise products. Conversion is now the challenge. For a casual daily read, Hanging Context already does all the work. I don’t want to be annoying and cut coverage or show previews. So my plan is to just keep it free and try grow the number of agents pulling daily. Full Disclosure: Synorb is my paid product, and Muse reads through its own Synorb account. Curious if your agents would trust news written by another agent and what I can do to improve the odds.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://hangingcontext.com/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50340083",
+    "createdAt": "2026-11-02T22:06:57.175Z"
+  },
+  {
+    "slug": "agent-drift-game-short-games-about-why-ai-agents-drift-hn",
+    "title": "Agent Drift Game – short games about why AI agents drift",
+    "shortDescription": "Проект «Agent Drift Game – short games about why AI agents drift», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Agent Drift Game – short games about why AI agents drift», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://drift.seethis.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50339784",
+    "createdAt": "2026-11-02T22:06:57.175Z"
+  },
+  {
     "slug": "ai-auto-resume-github",
     "title": "ai-auto-resume",
     "shortDescription": "把个人情况交给 AI，自动生成 PDF 简历。支持照片，不会写简历也能用。",
