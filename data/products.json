@@ -1,5 +1,177 @@
 [
   {
+    "slug": "ai-auto-resume-github",
+    "title": "ai-auto-resume",
+    "shortDescription": "把个人情况交给 AI，自动生成 PDF 简历。支持照片，不会写简历也能用。",
+    "fullDescription": "把个人情况交给 AI，自动生成 PDF 简历。支持照片，不会写简历也能用。\n\nАвтор: Kidding-Ma. Найдено в GitHub Trending (AI-тематика). ⭐ 14 звёзд.",
+    "url": "https://github.com/Kidding-Ma/ai-auto-resume",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "chinese-resume",
+      "codex",
+      "job-search",
+      "latex",
+      "resume",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1442664377",
+    "createdAt": "2026-11-02T12:44:52.600Z"
+  },
+  {
+    "slug": "awesome-free-ai-github",
+    "title": "awesome-free-ai",
+    "shortDescription": "Free, open-source AI tools you can run yourself, with setup effort, whether you can sell what you build, and what it runs on. Always up to…",
+    "fullDescription": "Free, open-source AI tools you can run yourself, with setup effort, whether you can sell what you build, and what it runs on. Always up to date.\n\nАвтор: vinjivani777. Найдено в GitHub Trending (AI-тематика). ⭐ 9 звёзд.",
+    "url": "https://www.freeairepo.com",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "awesome",
+      "awesome-list",
+      "free-ai-tools",
+      "llm",
+      "machine-learning",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1440614853",
+    "createdAt": "2026-11-02T12:44:52.600Z"
+  },
+  {
+    "slug": "mistake-trainer-spaced-repetition-from-your-own-lichess-games-hn",
+    "title": "Mistake Trainer – Spaced repetition from your own Lichess games",
+    "shortDescription": "I’m an 1800 player on Lichess and struggle making the same types of mistakes over and over again. Lichess has a nice feature called “Learn…",
+    "fullDescription": "I’m an 1800 player on Lichess and struggle making the same types of mistakes over and over again. Lichess has a nice feature called “Learn from your mistakes” available after you request a computer analysis. I wanted something a little more so I built Mistake Trainer with Claude Code. It expands “Learn from your mistakes” to all your computer analyzed games and adds spaced repetition with the UI ported from lila so it feels like y̶o̶u̶’̶r̶e̶ b̶a̶t̶m̶a̶n̶ playing on Lichess. If you don’t play on Lichess, or don’t want to use your own account at first, there is a sample deck included so you can check it out. There is also the option to use your own computer analysis to create cards from all of your Lichess games, not just the ones analyzed on Lichess’s servers. If you have lots of games, I recommend using your own computer to download the app so you have access to a better engine. Other features included: suspending cards (positions) you don’t like, choosing if you want to focus on opening mistakes vs mistakes where your position collapsed, toggling your previous move arrow (this was a nitpicky one for me). Crucially, you can adjust how long a delay before you see a card again. I found somewhere between a 5 to 7 day delay was helpful to prevent just superficially recognizing a solution. Similar tools that already exist include Aimchess and github.com&#x2F;antimike&#x2F;chess_trainer. I have the greatest respect for Lichess, and tried to build a tool that feels like a natural extension of their wonderful service. Mistake Trainer is free, open source, and has no server to see your data (it stays on your computer). I hope you find it helpful in improving your chess! https:&#x2F;&#x2F;github.com&#x2F;DannyNagelMath&#x2F;Mistake-Trainer\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://mistake-trainer.pages.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50335339",
+    "createdAt": "2026-11-02T12:44:52.240Z"
+  },
+  {
+    "slug": "agenttm-a-time-travel-debugger-for-ai-coding-agents-built-in-go-hn",
+    "title": "AgentTM – A time-travel debugger for AI coding agents built in Go",
+    "shortDescription": "Проект «AgentTM – A time-travel debugger for AI coding agents built in Go», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AgentTM – A time-travel debugger for AI coding agents built in Go», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Jyotishmoy12/AgentTM",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50334503",
+    "createdAt": "2026-11-02T12:44:52.240Z"
+  },
+  {
+    "slug": "shipvo-open-source-rn-ota-updates-and-an-ai-drivable-simulator-hn",
+    "title": "Shipvo – open-source RN OTA updates and an AI-drivable simulator",
+    "shortDescription": "Проект «Shipvo – open-source RN OTA updates and an AI-drivable simulator», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Shipvo – open-source RN OTA updates and an AI-drivable simulator», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/shipvo/shipvo",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50333957",
+    "createdAt": "2026-11-02T12:44:52.240Z"
+  },
+  {
+    "slug": "hackerhack-hackerbooks-but-for-posts-posted-on-hn-hn",
+    "title": "HackerHack – HackerBooks but for Posts Posted on HN",
+    "shortDescription": "No AI used for this btw.",
+    "fullDescription": "No AI used for this btw.\n\nНайдено в разделе Show HN на Hacker News. 👍 70 баллов.",
+    "url": "https://news.ycombinator.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50333877",
+    "createdAt": "2026-11-02T12:44:52.240Z"
+  },
+  {
+    "slug": "ai-system-design-primer-hn",
+    "title": "AI System Design Primer",
+    "shortDescription": "Проект «AI System Design Primer», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI System Design Primer», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/daneb/ai-system-design-primer/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50333499",
+    "createdAt": "2026-11-02T12:44:52.240Z"
+  },
+  {
+    "slug": "wikihack-hackertube-but-for-wikipedia-articles-mentioned-on-hn-hn",
+    "title": "Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+    "shortDescription": "After seeing Karpathy&#x27;s Hackertube and Hackerbooks, I just had to make Wikihack. I scraped all mentions of wikipedia on hackernews and…",
+    "fullDescription": "After seeing Karpathy&#x27;s Hackertube and Hackerbooks, I just had to make Wikihack. I scraped all mentions of wikipedia on hackernews and ranked them, and turn them into a scrollable feed to make it a bit more easy to digest &#x2F; interact with. You can see where people submitted the articles and where people mentioned it in comments. The top shows the most frequently linked articles. Random is random but slightly weighted towards the more frequently linked articles (a little bit like Wikipedia actually). Rising is ranked towards the past 12 months. The entire site is served only through the frontend -- I&#x27;ll add more features if people enjoy this!\n\nНайдено в разделе Show HN на Hacker News. 👍 262 баллов.",
+    "url": "https://wikihack.netlify.app",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50333339",
+    "createdAt": "2026-11-02T12:44:52.240Z"
+  },
+  {
+    "slug": "arken-cryptographic-identity-for-ai-agents-calling-mcp-serversapis-hn",
+    "title": "Arken – cryptographic identity for AI agents calling MCP servers/APIs",
+    "shortDescription": "Проект «Arken – cryptographic identity for AI agents calling MCP servers/APIs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Arken – cryptographic identity for AI agents calling MCP servers/APIs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/arkenforge/arken-core",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50333115",
+    "createdAt": "2026-11-02T12:44:52.240Z"
+  },
+  {
+    "slug": "awklog-a-minimalist-datalog-interpreter-in-awk-hn",
+    "title": "AWKLog – a minimalist Datalog interpreter in Awk",
+    "shortDescription": "For many of the projects I work on I found myself wanting to use a relational language like Datalog to generate C source from specification…",
+    "fullDescription": "For many of the projects I work on I found myself wanting to use a relational language like Datalog to generate C source from specifications, do verification during build or maintain a task database. However pulling a full blown Souffle or SWI-PL as a build dependency is always a PITA and also an overkill. So I (with the help of Claude) built awklog, a pure POSIX awk based interpreter. Copy it to your project and use during build stage or test stage with no extra dependencies. It&#x27;s a semi-naive interpreter, so decently fast, and certainly fast enough for anything you might need to do as a dev tool. One cool usecase in particular I&#x27;ve been a heavy user of is a task system maintained directly in the project git repo. Just create a text file with tuples describing your tasks, their states, dependencies, hypotheses and so on. AWKLog will be able to query it for you, even recursively, and provide instant answers. Easy for AI agents to query too and no remote infrastructure dependencies at all. Everything stays in GIT, version controlled. I hope other people will find this tool useful too.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/stass/awklog",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50333096",
+    "createdAt": "2026-11-02T12:44:52.240Z"
+  },
+  {
     "slug": "xlyra-github",
     "title": "xLyra",
     "shortDescription": "Multi-site AI gateway and control plane — unified routing across OpenAI, Anthropic, Codex, Grok, Gemini and more, with protocol conversion,…",
