@@ -1,5 +1,149 @@
 [
   {
+    "slug": "modelpeers-a-changelog-for-the-ai-models-and-agents-you-use-hn",
+    "title": "Modelpeers – a changelog for the AI models and agents you use",
+    "shortDescription": "Earlier this year, I had one of my product&#x27;s features down for 48 hours because Anthropic retired Claude 3 Haiku. In another instance,…",
+    "fullDescription": "Earlier this year, I had one of my product&#x27;s features down for 48 hours because Anthropic retired Claude 3 Haiku. In another instance, an API parameter started returning errors. I grew sick of not being able to follow and track the endless changes of AI models every week, so I decided to build Modelpeers. It&#x27;s basically a feed of all these changes. You can follow models and agents that you use to see what is changing and what you need to do about it. Optionally, you can sign up to get a digest for the models&#x2F;agents you follow. Every few hours, it downloads and hashes dozens of pages from the prominent AI companies&#x27; pages, like changelogs, deprecation pages, status pages, and pricing pages. Then when a page changes, it pulls the diff, validates it with two models, and if validated as true, it posts it to the feed. The feed currently has about 400 changes, 21 of them breaking changes. Fun fact (well, not really fun): OpenAI alone has 12 shutdowns&#x2F;cutoff planned for the next six months. Would love to hear what y&#x27;all think.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://modelpeers.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50359805",
+    "createdAt": "2026-11-03T23:56:42.108Z"
+  },
+  {
+    "slug": "export-your-characterai-chats-in-minutes-open-source-runs-locally-hn",
+    "title": "Export your Character.AI chats in minutes – open-source, runs locally",
+    "shortDescription": "Character.AI filed for Chapter 11 in October, and the auction of the company is scheduled for November 23. Its built-in data export can tak…",
+    "fullDescription": "Character.AI filed for Chapter 11 in October, and the auction of the company is scheduled for November 23. Its built-in data export can take three to four weeks, and the download link expires after seven days. People with years of conversations have been asking how to keep a copy before anything changes. This is a small browser extension for Chrome and Firefox (Manifest V3). On a character.ai tab you press its button, and it reads your own chats, characters, personas and memory boxes from the site&#x27;s web API with the session you are already signed in with, one request at a time, and saves one JSON file, plus plain text if you want it. Every line keeps who wrote it and when, which the official export does not. It asks for no permissions in advance (activeTab and scripting), only reads, talks to nothing but character.ai, and has no analytics or servers. The code in src&#x2F; is what runs: nothing is bundled or minified. MIT license. Disclosure: we make Amavie, an AI character app. We also built a free viewer that opens the file, or the official export ZIP, in the browser without uploading it: https:&#x2F;&#x2F;amavie.ai&#x2F;character-ai-export . The extension does not need an account with us. The store listings are in review; until then, unzip the Chrome build from Releases and load it unpacked. Feedback is welcome, especially from very large accounts.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/anima-universe/character-ai-chat-exporter",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50359691",
+    "createdAt": "2026-11-03T23:56:42.108Z"
+  },
+  {
+    "slug": "xecrets-ez-open-source-mobile-file-encryption-hn",
+    "title": "Xecrets Ez – open-source mobile file encryption",
+    "shortDescription": "I&#x27;ve finally written mobile apps to complete platform support for my AxCrypt-compatible file encryption software. It now runs on iOS,…",
+    "fullDescription": "I&#x27;ve finally written mobile apps to complete platform support for my AxCrypt-compatible file encryption software. It now runs on iOS, Android, Linux, macOS and Windows. They&#x27;re not released on Google Play and Apple App Store yet, but they are available for open beta testing. You can also build them from source. Lovingly hand-crafted (with AI-assistance) over several months of hard work - not AI-written or &quot;vibe coded&quot; in an afternoon. I hope somebody likes it! Please try it out. Comments and feedback appreciated.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/xecrets/xecrets-mobile",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50358844",
+    "createdAt": "2026-11-03T23:56:42.108Z"
+  },
+  {
+    "slug": "kairos-open-source-risk-and-fraud-decisioning-platform-hn",
+    "title": "Kairos – Open-source risk and fraud decisioning platform",
+    "shortDescription": "Hey HN, Ayan here from Finic. We’re launching Kairos, an open source alternative to Sift, Sardine, and other real-time fraud decisioning pl…",
+    "fullDescription": "Hey HN, Ayan here from Finic. We’re launching Kairos, an open source alternative to Sift, Sardine, and other real-time fraud decisioning platforms. Kairos addresses two of the biggest problems facing traditional decisioning tools: a lack of labeled data to train on and dealing with fraudsters that are constantly changing their tactics. 1. Traditional fraud solutions use ML models such as XGBoost to detect fraud, but these models are dependent on quality labeled data which many businesses do not have. We address this by using “System One” decision models in additional to traditional models such as XGBoost and logistic regression. This allows you to incorporate plain language questions such as “Is this a throwaway email” into your decisioning, bypassing the need for large amounts of labeled data. This also allows you to capture aspects of fraud that are more unstructured, which is something that XGBoost models struggle with. 2. Fraud teams are facing off with live players that are constantly changing their behavior to bypass the detection logic they have in place. You can train a detection model or define a ruleset once, but it will become obsolete in a matter of weeks as fraudsters figure out what your detection logic is. This means that you need a team regularly training models and updating rules based on new fraud patterns. Typically this takes a large data science&#x2F;ML team. Kairos addresses this by introducing an MCP server, so that your agent (Claude Code, Cursor, Codex, etc.) can define a decision workflow, train models on your data, and pick the variant that performs best. You can self-host Kairos with Docker or use the hosted version at https:&#x2F;&#x2F;kairos.finic.ai\n\nНайдено в разделе Show HN на Hacker News. 👍 36 баллов.",
+    "url": "https://github.com/finic-ai/kairos",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50358314",
+    "createdAt": "2026-11-03T23:56:42.109Z"
+  },
+  {
+    "slug": "mallard-git-for-the-age-of-ai-agents-hn",
+    "title": "Mallard: Git for the age of AI agents",
+    "shortDescription": "We started Mallard to make it easier to share our agent sessions and build things together. We spend much of our working day talking to Cla…",
+    "fullDescription": "We started Mallard to make it easier to share our agent sessions and build things together. We spend much of our working day talking to Claude and Codex. Those conversations include the ideas, designs, and decisions behind our work. However they often stay on one machine, without backups or an easy way to share them. 3 months. 10 accounts on 20× plans. 100 billion tokens later, Mallard finally hatched. Share and back up agent sessions using Cloudflare R2, Dropbox, or Mallard Cloud. Explore the discussions and design decisions behind PRs, including Mallard’s hatching logs. Pull and resume sessions in Codex or Claude Code with the original context. For teams, Anthropic internally uses cloud VMs and Claude Tag so that teammates can work in shared agent conversations and pick up where others left off. Mallard lets teams achieve the same goal at almost zero cost, without any cloud VMs. We want Mallard to be free and easy to use for everyone, rich or poor. We built a lightweight version of GIT and reworked our storage protocol, removing CAS so Mallard can work with any cloud storage that supports LIST and PUT APIs. Bring your own storage or use Mallard Cloud. No Git server or expensive sandbox required. We also added one-click sign-in for Dropbox and Cloudflare R2, so anyone can connect their own cloud storage to Mallard in just a few clicks. We don’t think the internet, recommendation algorithms, or AI should be in the hands of just a few people. We hope Mallard helps more people share their work, find an audience, and have their voices heard. Free and MIT licensed. Available on macOS and Windows. Website: https:&#x2F;&#x2F;mallard-ai.com&#x2F; GitHub: https:&#x2F;&#x2F;github.com&#x2F;Git4Agent&#x2F;mallard-app\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://mallard-ai.com/home",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50357605",
+    "createdAt": "2026-11-03T23:56:42.109Z"
+  },
+  {
+    "slug": "traccia-control-what-ai-agents-can-do-hn",
+    "title": "Traccia – Control what AI agents can do",
+    "shortDescription": "Проект «Traccia – Control what AI agents can do», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Traccia – Control what AI agents can do», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/traccia-ai/traccia-py",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50357443",
+    "createdAt": "2026-11-03T23:56:42.109Z"
+  },
+  {
+    "slug": "hackerbyte-finding-promising-ai-stories-by-analyzing-hn-discussions-hn",
+    "title": "HackerByte – Finding promising AI stories by analyzing HN discussions",
+    "shortDescription": "This was something I wanted to build for a long time. AI news is moving so fast now. Every day there are new projects, tools and updates. I…",
+    "fullDescription": "This was something I wanted to build for a long time. AI news is moving so fast now. Every day there are new projects, tools and updates. It&#x27;s hard to follow everything, and we don&#x27;t always have time to read long articles. So I built HackerByte. It takes Hacker News stories and makes short summaries in 6-7 sentences. You can quickly understand what&#x27;s going on without reading everything. I also added the same thing for GitHub Trending projects. I also added a feature that analyzes HN comments to find AI stories that might be worth checking out. In the future, I want to add some personalization features, so everyone can see content based on their interests. I&#x27;ve been a software developer for 7 years, and of course I didn&#x27;t write a single line of code myself while building this :) After seeing Karpathy share HackerTube, I thought, why not build my own version? So I did. I&#x27;d love to hear your feedback! https:&#x2F;&#x2F;hackerbyte.net&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://hackerbyte.net",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50357221",
+    "createdAt": "2026-11-03T23:56:42.109Z"
+  },
+  {
+    "slug": "recto-a-desktop-app-where-you-can-design-with-ai-edit-with-your-mouse-hn",
+    "title": "Recto: A desktop app where you can design with AI, edit with your mouse",
+    "shortDescription": "Проект «Recto: A desktop app where you can design with AI, edit with your mouse», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Recto: A desktop app where you can design with AI, edit with your mouse», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://recto.design",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50357042",
+    "createdAt": "2026-11-03T23:56:42.109Z"
+  },
+  {
+    "slug": "confetti-start-designing-hardware-with-plain-english-prompts-hn",
+    "title": "Confetti – Start designing hardware with plain English prompts",
+    "shortDescription": "Hey HN! We&#x27;re Tianyi and Lucas from Confetti (YC F26) ( https:&#x2F;&#x2F;confetti.build&#x2F; ). We’re building a platform that helps…",
+    "fullDescription": "Hey HN! We&#x27;re Tianyi and Lucas from Confetti (YC F26) ( https:&#x2F;&#x2F;confetti.build&#x2F; ). We’re building a platform that helps you turn your ideas into physical things using plain English. Take a look at a quick demo video here: https:&#x2F;&#x2F;youtu.be&#x2F;UhtAs4mg5O8 Making hardware has always required layers of expertise: learning modeling software, sourcing compatible components, designing enclosures, wiring, firmware, and finding someone to manufacture it all. We experienced this firsthand while prototyping a home AI device we wanted to build. We didn&#x27;t have too much experience in hardware and every step opened up more questions. We spent so much time figuring out the process before we could make progress on the thing itself, so we built Confetti to make it easier to get started. Confetti puts the whole process on one platform, driven by natural language: - CAD: generate and edit 3D designs from text or image prompts - Electronics: automatic sourcing for compatible off-the-shelf parts, wiring, and firmware - Manufacturing: get quotes and place orders to get parts sent straight to your doorstep - Community: share, remix, and personalize builds from other makers for yourself In the same way that AI has made it much easier for people to build software, we think that we can use AI to enable a lot more people to start building the ideas they have for physical projects too. We would love to hear feedback that you have, what sort of bugs and issues you run into, and features you&#x27;d like to see! https:&#x2F;&#x2F;confetti.build&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://confetti.build",
+    "category": "design",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50356974",
+    "createdAt": "2026-11-03T23:56:42.109Z"
+  },
+  {
     "slug": "saguilinux-github",
     "title": "saguilinux",
     "shortDescription": "A distribuição Linux criada 100% por IA — compilada do zero com Linux From Scratch + BLFS pelo Claude Opus 5.5. Desktop XFCE, Firefox, live…",
