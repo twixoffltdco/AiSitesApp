@@ -1,5 +1,251 @@
 [
   {
+    "slug": "saguilinux-github",
+    "title": "saguilinux",
+    "shortDescription": "A distribuição Linux criada 100% por IA — compilada do zero com Linux From Scratch + BLFS pelo Claude Opus 5.5. Desktop XFCE, Firefox, live…",
+    "fullDescription": "A distribuição Linux criada 100% por IA — compilada do zero com Linux From Scratch + BLFS pelo Claude Opus 5.5. Desktop XFCE, Firefox, live USB.\n\nАвтор: erigobeli. Найдено в GitHub Trending (AI-тематика). ⭐ 8 звёзд.",
+    "url": "https://erigobeli.github.io/saguilinux/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "blfs",
+      "claude",
+      "educational",
+      "lfs",
+      "linux",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1443145516",
+    "createdAt": "2026-11-03T19:00:44.069Z"
+  },
+  {
+    "slug": "animus-ai-blockerblock-ai-slop-imagesvideos-on-your-social-media-feed-hn",
+    "title": "Animus AI Blocker:Block AI slop images/videos on your social media feed",
+    "shortDescription": "available as browser extensions and mobile firefox: https:&#x2F;&#x2F;addons.mozilla.org&#x2F;sk&#x2F;firefox&#x2F;addon&#x2F;animus-ai-blo…",
+    "fullDescription": "available as browser extensions and mobile firefox: https:&#x2F;&#x2F;addons.mozilla.org&#x2F;sk&#x2F;firefox&#x2F;addon&#x2F;animus-ai-blocke... android play store: https:&#x2F;&#x2F;play.google.com&#x2F;store&#x2F;apps&#x2F;details?id=com.noslop\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://chromewebstore.google.com/detail/animus-ai-blocker/ofpjilegndibkndcacajdgmkjicjgbck",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50356156",
+    "createdAt": "2026-11-03T19:00:47.307Z"
+  },
+  {
+    "slug": "ai-model-token-cost-and-context-window-estimator-hn",
+    "title": "AI Model Token Cost and Context Window Estimator",
+    "shortDescription": "Проект «AI Model Token Cost and Context Window Estimator», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Model Token Cost and Context Window Estimator», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ai-token-estimator.pages.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50355739",
+    "createdAt": "2026-11-03T19:00:47.307Z"
+  },
+  {
+    "slug": "finzot-financial-planning-claude-connector-for-us-taxpayers-hn",
+    "title": "FinZot – financial planning Claude connector for US taxpayers",
+    "shortDescription": "I built a financial planning calculator similar in depth to ProjectionLab that has a full MCP that can be used from a Claude Connector. I h…",
+    "fullDescription": "I built a financial planning calculator similar in depth to ProjectionLab that has a full MCP that can be used from a Claude Connector. I have used Claude and the FinZot MCP to set up my plan from scratch including configuring my RSU schedule, creating multiple scenarios around early retirement timing, looking into Roth conversions during early retirement and analyzing Monte Carlo results in a lot of detail. Once connected tell Claude “Use FinZot to walk me through creating a plan from scratch” The MCP has a tool call limit and if you use it a ton you will eventually be prompted to pay for a higher limit. https:&#x2F;&#x2F;claude.ai&#x2F;directory&#x2F;finzot&#x2F; https:&#x2F;&#x2F;finzot.com&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://claude.ai/directory/finzot/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50355632",
+    "createdAt": "2026-11-03T19:00:47.307Z"
+  },
+  {
+    "slug": "bundle-i-kept-forgetting-what-i-read-so-i-built-a-read-later-app-hn",
+    "title": "Bundle – I kept forgetting what I read, so I built a read-later app",
+    "shortDescription": "I’ve always had a problem remembering what I read. I tried Anki and a few other tools, but they were hard to use and didn’t work on all my…",
+    "fullDescription": "I’ve always had a problem remembering what I read. I tried Anki and a few other tools, but they were hard to use and didn’t work on all my devices. So I decided to build my own: bundle.ink You save articles from your iPhone, desktop (Chrome extension) or e-ink reader, and they all end up in one place. At the end of each article you get a few flashcards to check if you understood it. The cards are saved, and it reminds you every day to review what you read. I’ve been adding features as I needed them, like offline reading, listening to articles, and asking AI about the article. In the end it’s a nice reading app with tools so you don’t forget what you read. I’ve been using and testing it for my own use case for a while. Would love to hear what you guys think.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://bundle.ink/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50355591",
+    "createdAt": "2026-11-03T19:00:47.307Z"
+  },
+  {
+    "slug": "replacing-turn-based-llm-agents-with-sqlite-and-system-one-models-hn",
+    "title": "Replacing Turn-Based LLM Agents with SQLite and System One Models",
+    "shortDescription": "Проект «Replacing Turn-Based LLM Agents with SQLite and System One Models», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Replacing Turn-Based LLM Agents with SQLite and System One Models», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/DevLoops-ai/unified-brain",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50355551",
+    "createdAt": "2026-11-03T19:00:47.307Z"
+  },
+  {
+    "slug": "aistorehub-1-click-cli-to-configure-mcp-servers-in-cursor-and-claude-hn",
+    "title": "AIStoreHub – 1-Click CLI to Configure MCP Servers in Cursor and Claude",
+    "shortDescription": "We built this CLI (pip install aistorehub) to eliminate JSON syntax errors and missing $PATH binary crashes when adding Model Context Proto…",
+    "fullDescription": "We built this CLI (pip install aistorehub) to eliminate JSON syntax errors and missing $PATH binary crashes when adding Model Context Protocol servers to Cursor, Claude Desktop, and Windsurf. Website &amp; Registry: https:&#x2F;&#x2F;aistorehub.in Documentation: https:&#x2F;&#x2F;aistorehub.in&#x2F;docs\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://pypi.org/project/aistorehub/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50355152",
+    "createdAt": "2026-11-03T19:00:47.307Z"
+  },
+  {
+    "slug": "sie-serverless-managed-inference-powered-by-self-hostable-stack-hn",
+    "title": "SIE Serverless – managed inference powered by self-hostable stack",
+    "shortDescription": "Today we are launching SIE Serverless - a managed inference product focused on small models. It’s useful for spiky workloads on 20+ task sp…",
+    "fullDescription": "Today we are launching SIE Serverless - a managed inference product focused on small models. It’s useful for spiky workloads on 20+ task specific workloads across Search, OCR and Agentic execution. Sign up for a $500 credits launch grant after making an account :-) It’s powered by our open source inference engine that has received thousands of github stars in the last few months, battle-tested across finance, legal &amp; tech. We believe that self-hosting is going to be critical given all the trust &amp; security issues in AI, but practically there are always workloads where you’d like somebody else to deal with the GPU quota like synthetic data generation, evals, public research and beyond. The team at Superlinked has been burning the midnight oil for months and I’m so proud of every single one of you - what a privilege to call you my team mates y’all!\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://superlinked.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50354777",
+    "createdAt": "2026-11-03T19:00:47.308Z"
+  },
+  {
+    "slug": "oathshaper-a-bioware-inspired-open-rpg-game-engine-hn",
+    "title": "Oathshaper – A BioWare Inspired Open RPG Game Engine",
+    "shortDescription": "Hey HN! I’ve been building an open RPG game engine called Oathshaper. It’s current incarnation was created with Godot and inspired by the B…",
+    "fullDescription": "Hey HN! I’ve been building an open RPG game engine called Oathshaper. It’s current incarnation was created with Godot and inspired by the BioWare classics (Jade Empire, Mass Effect, Knights of the Old Republic, Dragon Age, etc.) The storytelling, voice acting and actions that have consequences in those games have always found a place in my heart. A few weeks back I was showing my son how each BioWare game had different combat mechanics on a Steam Deck and I was inspired to create Oathshaper to model these mechanisms around a cohesive, voice driven story telling foundation. A short time later we heard the news that the BioWare studio was closing. The game engine is written in Rust which hooks into Godot I’ve released it as MIT on GitHub - https:&#x2F;&#x2F;github.com&#x2F;oathshaper&#x2F;oathshaper - free for the world to explore and collaborate on. It includes some tooling aimed at educators looking to teach AI&#x2F;Agentic forward game design. An introductory game design course&#x2F;offering could let students design their own storyboard implementation with assets as the first project and spend the rest of the curriculum going back and learning how each part of the asset&#x2F;content creation pipeline actually works. The GitHub release includes “Lantern Quay” a playable demo for Windows, Mac and Linux which lets you choose one of three combat style demonstrations: * Command - A Knights of the Old Republic inspired system where you give queued orders * Flow - A Jade Empire inspired system where combat flows naturally within a chosen style * Vanguard - A Mass Effect inspired system where you run a squad in a third-person shooter type scenario Here is a demo video highlighting the three styles and the story telling mode: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=it2bQDUMk3k Downloadable demos here: https:&#x2F;&#x2F;github.com&#x2F;oathshaper&#x2F;oathshaper&#x2F;releases Feedback is encouraged and welcome!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/oathshaper/oathshaper",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50354370",
+    "createdAt": "2026-11-03T19:00:47.308Z"
+  },
+  {
+    "slug": "cinnamon-a-household-ai-agent-with-private-and-shared-context-hn",
+    "title": "Cinnamon - a household AI agent with private and shared context",
+    "shortDescription": "Проект «Cinnamon - a household AI agent with private and shared context», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Cinnamon - a household AI agent with private and shared context», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://getcinnamon.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50354367",
+    "createdAt": "2026-11-03T19:00:47.308Z"
+  },
+  {
+    "slug": "ads-boy-track-planes-on-your-game-boy-hn",
+    "title": "Ads-Boy: Track Planes on Your Game Boy",
+    "shortDescription": "Hi, I built a custom Game Boy cartridge that can listen to the radio signals coming off airplanes. I then built a game around it that runs…",
+    "fullDescription": "Hi, I built a custom Game Boy cartridge that can listen to the radio signals coming off airplanes. I then built a game around it that runs on original hardware. I think it&#x27;s incredible that we can modernize older hardware through chips on cartridges!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.bjmalicoat.com/projects/adsboy",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50354314",
+    "createdAt": "2026-11-03T19:00:47.308Z"
+  },
+  {
+    "slug": "negative-space-startup-ideas-from-the-gaps-between-yc-companies-hn",
+    "title": "Negative Space – Startup ideas from the gaps between YC companies",
+    "shortDescription": "There was a tweet[1] a while ago describing a simple way to come up with new game ideas: embed the descriptions of every game on Steam, fin…",
+    "fullDescription": "There was a tweet[1] a while ago describing a simple way to come up with new game ideas: embed the descriptions of every game on Steam, find the areas of the space where there’s nothing, and turn those points back into descriptions. It’s a fun idea, so I vibe coded something quick and dirty to do the same for companies, using the YC directory. It embeds 6,304 company descriptions, blends a few related companies, pushes that point away from everything else, and has Claude write up what could live there. Each draft is then embedded and measured against real companies. The code and embeddings are on GitHub[2], along with a Claude skill so you can run it yourself. Footnotes: [1] https:&#x2F;&#x2F;x.com&#x2F;SyntheticBeef&#x2F;status&#x2F;2112904858718367750 [2] https:&#x2F;&#x2F;github.com&#x2F;nh66labs&#x2F;negative-space\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://nh66.ai/negative-space/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50354044",
+    "createdAt": "2026-11-03T19:00:47.308Z"
+  },
+  {
+    "slug": "8-years-of-whos-hiring-in-charts-hiring-boom-bust-and-ai-trends-hn",
+    "title": "8 years of \"Who's Hiring?\" in charts (hiring boom, bust, and AI trends)",
+    "shortDescription": "After seeing Andrej&#x27;s HackerTube post (and given my sons are both junior-mid developers) I decided to point Codex at 8 years of &quot;…",
+    "fullDescription": "After seeing Andrej&#x27;s HackerTube post (and given my sons are both junior-mid developers) I decided to point Codex at 8 years of &quot;Who&#x27;s hiring?&quot; posts and rip through some tokens on semantic analysis of all that content. I started pre-COVID, thru October 2026, and the data was retrieved via HN API data. 5 things that stand out: 1. AI is now in half the posts. AI or machine learning appeared in 50% of 2026 posts, up from 17% in 2019. 2. Most employers posted in only one month. Across all 94 monthly threads, 53% of the employers we identified appeared in just one month. 3. Frontend roles fell from 16% to 3% of posts. That’s a substantial shift in the kinds of developers companies explicitly say they’re looking for. 4. Staff-level posts grew 3.6×. Posts naming staff-level roles rose from 77 in 2019 to 277 in 2026, even as the hiring board got smaller. 5. Only 41 posts explicitly named junior roles in 2026. Out of 2,932 posts. In 2019, there were 163. ... plus 20 other trends. It feels like there&#x27;s plenty to consider and discuss. Hope it&#x27;s useful.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://hn-hiring-2019-2026.lancecj.chatgpt.site/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50353773",
+    "createdAt": "2026-11-03T19:00:47.308Z"
+  },
+  {
+    "slug": "cleanslop-find-what-breaks-in-ai-generated-typescriptnode-web-apps-hn",
+    "title": "CleanSlop – Find what breaks in AI-generated TypeScript/Node web apps",
+    "shortDescription": "Hello HN! We have recently launched a scanning and remediation system for AI-built web applications. It is fully agentic as well as has a w…",
+    "fullDescription": "Hello HN! We have recently launched a scanning and remediation system for AI-built web applications. It is fully agentic as well as has a web UI that supports GitHub sign-in. Would love some hackers and tinkerers to try it out. An agent can natively interact with the system when you pass the prompt: &quot;Scan with cleanslop.com&quot; to it within the context of a codebase. It uses Stripe&#x27;s new Link identity to verify an agent. It is currently super specific for TypeScript, NodeJS and JavaScript apps, for eg Next.js + Supabase stack, typically built out by LLM powered coding agents and vibecoding platforms like Replit, Lovable etc. I have put together an under-the-hood page that briefly explains the workings of the system: https:&#x2F;&#x2F;cleanslop.com&#x2F;under-the-hood\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://cleanslop.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50353615",
+    "createdAt": "2026-11-03T19:00:47.308Z"
+  },
+  {
+    "slug": "i-built-knemora-an-open-source-ai-second-brain-hn",
+    "title": "I built Knemora – An Open-source AI Second brain",
+    "shortDescription": "Hi HN, my name is Federico. I’m an Italian graphic designer and full stack developer. In recent months, there has been a lot of talk about…",
+    "fullDescription": "Hi HN, my name is Federico. I’m an Italian graphic designer and full stack developer. In recent months, there has been a lot of talk about the &quot;second brain&quot; articles and YouTube videos; everyone is still discussing it, but I see a significant difference between that and what the concept of a second brain means to me. For me, the concept of a &quot;second brain&quot; is about building a 100% private knowledge base which means not uploading my own files (containing sensitive data) to be processed via cloud-based inference. I’ve seen many videos discussing how to &quot;build your own second brain&quot; using Claude Code and Obsidian. I’ve always wondered: why should I upload my personal files such as certificates, my children’s birth certificates, or other sensitive personal data—to a service like Claude, where I have no idea where those files end up or who might be reading them? Furthermore, why should I rely on a graph-based viewer like Obsidian, effectively making myself dependent on third parties, paid services, and software that I have to install directly onto my own device? From that came the idea to develop Knemora, an open-source, local-first project that runs locally by leveraging local inference. The challenge involved: - choosing a modular architecture - ensuring ease of use via a CLI and a web interface - avoiding the need for users to install third-party software on their own devices - enabling setup in just 2 CLI commands - ensuring suitability for both developers (tech-savvy users) and various private organisations (such as notary offices, dental practices, insurance companies, etc.). So far knemora includes the following features: - local inference via llama.cpp (with built-in support for cross-platform operation) - ability to use &quot;knemora-tested&quot; models or custom models from Hugging Face; simply run the command `.&#x2F;knemora load --model hf:&lt;Hugging Face model name&gt;` - a chatbot agent that answers questions and searches through your knowledge base based on your natural-language queries - a knowledge agent built using Google’s ADK 2.0 (my agentic orchestrator) - portable knowledge, markdown files are linked following the &quot;LLM WIKI&quot; pattern (as proposed by Andrej Karpathy) - BM25-based retrieval (no vector database required) - original documents are preserved and marked as (immutable) - dataset analysis powered by Polars Currently, it is available only for macOS with Apple Silicon chips, but it will soon be available for Windows and Linux as well. Version v0.2.0, available today on GitHub, covers these additional features and improvements: - conversation continuity - automatic language matching - gemma 4 joins the tested model registry - more curated models ahead - more control over chat - wiki &#x2F; direct chat modes - fast &#x2F; deep chat modes - stronger knowledge compilation My goal is to make Knemora more stable, responsive, easier to use and keep moving toward a stable v1.0.0. Thank you! Watch the alpha demo: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=kl5qNrWPOnY Explore the project: https:&#x2F;&#x2F;knemora.space Code and documentation: https:&#x2F;&#x2F;github.com&#x2F;federicolaterra&#x2F;knemora\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/federicolaterra/knemora",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50353601",
+    "createdAt": "2026-11-03T19:00:47.308Z"
+  },
+  {
     "slug": "count-anything-using-ai-for-shops-people-objects-crowd-hn",
     "title": "Count Anything using AI, for shops, people objects, crowd",
     "shortDescription": "I home this helps , reduce manual work daily keep track and tally , also visually you can see the attendance",
