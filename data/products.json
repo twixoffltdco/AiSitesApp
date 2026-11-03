@@ -1,5 +1,101 @@
 [
   {
+    "slug": "count-anything-using-ai-for-shops-people-objects-crowd-hn",
+    "title": "Count Anything using AI, for shops, people objects, crowd",
+    "shortDescription": "I home this helps , reduce manual work daily keep track and tally , also visually you can see the attendance",
+    "fullDescription": "I home this helps , reduce manual work daily keep track and tally , also visually you can see the attendance\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://pixoate.com/count-objects",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50350115",
+    "createdAt": "2026-11-03T11:36:05.413Z"
+  },
+  {
+    "slug": "siteapp-blocker-and-usage-tracker-specifically-for-linux-hn",
+    "title": "Site/app blocker and usage tracker specifically for Linux",
+    "shortDescription": "This was my first experiment with AI assisted coding. Backstory: I had a bunch of scripts to block sites on my work machines by redirecting…",
+    "fullDescription": "This was my first experiment with AI assisted coding. Backstory: I had a bunch of scripts to block sites on my work machines by redirecting them 127.0.0.1 etc. and they sort of worked. I needed something more serious and tried to get some commercial applications but there was nothing that really worked the way I wanted to (especially not on Linux). In Oct 2025 or so, I picked up aider and started building this out. Halfway through, I switched to Claude Code and used this as a vehicle to learn how to use assistants. It blocks sites and apps on a schedule, and takes away your sudo during the hours you choose so you can’t just turn it off. I added several features like tracking usage, giving recommendations etc. and It&#x27;s been actually very useful for me hence I decided to open source and productize it. Have a few users so far too. It&#x27;s been a nice learning experience for me. Not just for the implementation but also about the launch and marketing all assisted by AI. Really looking forward to feedback from the folks here.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/glocker-app/glocker",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50349646",
+    "createdAt": "2026-11-03T11:36:05.413Z"
+  },
+  {
+    "slug": "try-an-ai-agent-wallet-in-the-browser-buy-a-stamp-from-a-bot-hn",
+    "title": "Try an AI agent wallet in the browser – buy a stamp from a bot",
+    "shortDescription": "Проект «Try an AI agent wallet in the browser – buy a stamp from a bot», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Try an AI agent wallet in the browser – buy a stamp from a bot», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://proof.zketernity.app/stamps/try.html",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50349568",
+    "createdAt": "2026-11-03T11:36:05.413Z"
+  },
+  {
+    "slug": "clarpex-free-ai-photo-fixer-no-sign-up-needed-hn",
+    "title": "Clarpex – Free AI photo fixer, no sign-up needed",
+    "shortDescription": "Проект «Clarpex – Free AI photo fixer, no sign-up needed», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Clarpex – Free AI photo fixer, no sign-up needed», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://clarpex.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50349339",
+    "createdAt": "2026-11-03T11:36:05.413Z"
+  },
+  {
+    "slug": "trifecta-checker-a-pre-flight-safety-check-for-ai-agents-hn",
+    "title": "Trifecta Checker – a pre-flight safety check for AI agents",
+    "shortDescription": "Проект «Trifecta Checker – a pre-flight safety check for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Trifecta Checker – a pre-flight safety check for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://meta-global-ai-hackathon-trifecta-c.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50348682",
+    "createdAt": "2026-11-03T11:36:05.413Z"
+  },
+  {
+    "slug": "cheapgpt-a-free-local-ai-assistant-powered-by-chromes-gemini-nano-hn",
+    "title": "CheapGPT – a free local AI assistant powered by Chrome's Gemini Nano",
+    "shortDescription": "Проект «CheapGPT – a free local AI assistant powered by Chrome's Gemini Nano», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «CheapGPT – a free local AI assistant powered by Chrome's Gemini Nano», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.predatorray.me/CheapGPT/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50347777",
+    "createdAt": "2026-11-03T11:36:05.413Z"
+  },
+  {
     "slug": "axion10-github",
     "title": "axion1_0",
     "shortDescription": "Frontier-level agent capabilities with nothing more than high-quality data and a simple training recipe: 2 SFT + RL, no mid-training/DPO/OP…",
