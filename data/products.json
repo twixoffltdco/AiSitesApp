@@ -1,5 +1,186 @@
 [
   {
+    "slug": "lsf-website-design-github",
+    "title": "lsf-website-design",
+    "shortDescription": "LSF-网站设计基础版：参考创作、原创探索与独立评审，含 GPT 6 PRO、Claude Opus 5.5 和 DeepSeek V4.1 Flash 作品截图",
+    "fullDescription": "LSF-网站设计基础版：参考创作、原创探索与独立评审，含 GPT 6 PRO、Claude Opus 5.5 和 DeepSeek V4.1 Flash 作品截图\n\nАвтор: leishifu666. Найдено в GitHub Trending (AI-тематика). ⭐ 13 звёзд.",
+    "url": "https://github.com/leishifu666/lsf-website-design",
+    "category": "ai-tool",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "codex",
+      "deepseek",
+      "web-design",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1444607578",
+    "createdAt": "2026-11-04T13:10:26.988Z"
+  },
+  {
+    "slug": "gradevibes-is-your-ai-written-app-finished-hn",
+    "title": "Gradevibes-Is your AI-written app finished?",
+    "shortDescription": "Проект «Gradevibes-Is your AI-written app finished?», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Gradevibes-Is your AI-written app finished?», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://gradevibes.com/?tab=upload",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50365056",
+    "createdAt": "2026-11-04T13:10:29.898Z"
+  },
+  {
+    "slug": "backup-your-chatgpt-and-claude-conversation-free-hn",
+    "title": "Backup your ChatGPT and Claude conversation free",
+    "shortDescription": "Hi We newly launched samewindow for chatgpt https:&#x2F;&#x2F;chromewebstore.google.com&#x2F;detail&#x2F;gdgekhkipbcejpdpcgc... and Samewin…",
+    "fullDescription": "Hi We newly launched samewindow for chatgpt https:&#x2F;&#x2F;chromewebstore.google.com&#x2F;detail&#x2F;gdgekhkipbcejpdpcgc... and Samewindow for Claude https:&#x2F;&#x2F;chromewebstore.google.com&#x2F;detail&#x2F;samewindow-for-clau... ware u can backup your ai conversation chats and create folder on chatgpt and claude\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.samewindow.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50364996",
+    "createdAt": "2026-11-04T13:10:29.898Z"
+  },
+  {
+    "slug": "shield-kya-open-source-audit-trail-and-gate-for-ai-agent-tool-calls-hn",
+    "title": "Shield KYA – Open-source audit trail and gate for AI agent tool calls",
+    "shortDescription": "Проект «Shield KYA – Open-source audit trail and gate for AI agent tool calls», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Shield KYA – Open-source audit trail and gate for AI agent tool calls», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/The-Pixel-Boys/shield-kya",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50364706",
+    "createdAt": "2026-11-04T13:10:29.898Z"
+  },
+  {
+    "slug": "rivermark-a-superfast-ai-graphic-design-canvas-hn",
+    "title": "Rivermark, a superfast AI graphic design canvas",
+    "shortDescription": "Hi HN, Agents can nowadays design UI very competently, but the wider question of graphic design is largely unsolved. On one side, you have…",
+    "fullDescription": "Hi HN, Agents can nowadays design UI very competently, but the wider question of graphic design is largely unsolved. On one side, you have image models like ChatGPT images, which are high-quality but recognizable and barely editable. On the other hand, you can use LLMs and accept results that, well, look like UI. I&#x27;ve been working on Rivermark for a few months now to tackle this issue. It&#x27;s an infinite canvas with an agent that excels at creating on-brand visual content for socials, marketing, and to some extent print. The agent is extremely context-aware and fast (we call it a &quot;short horizon&quot; agent). It will ingest anything and run with it - from Google Sheets copy&#x2F;paste to .zip files with brandkits or photo sets. Everything is editable manually like in Figma too. We found it works best for people who are not designers but who know what looks good. MCP features to connect it to your agents are coming soon. We&#x27;re powered by superfast inference at almost 1000 tokens per second and a custom realtime harness, meaning the agent is non-blocking and always responsive, and even has a non-turn-based voice mode that you can just talk into. We have some teams and early power users shipping work with it and are learning a lot. There have been numerous engineering and product challenges to even get here - I&#x27;d be happy to talk about them!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://rivermark.ai/",
+    "category": "design",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50364525",
+    "createdAt": "2026-11-04T13:10:29.898Z"
+  },
+  {
+    "slug": "olo-an-ai-companion-that-labels-each-claim-against-hn",
+    "title": "Olo, an AI companion that labels each claim against",
+    "shortDescription": "Проект «Olo, an AI companion that labels each claim against», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Olo, an AI companion that labels each claim against», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://helius-olo.io/chat",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50364206",
+    "createdAt": "2026-11-04T13:10:29.898Z"
+  },
+  {
+    "slug": "hardcount-self-hosted-usage-billing-for-ai-products-hn",
+    "title": "Hardcount – Self-hosted usage billing for AI products",
+    "shortDescription": "Проект «Hardcount – Self-hosted usage billing for AI products», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Hardcount – Self-hosted usage billing for AI products», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/gethardcount/hardcount",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50364033",
+    "createdAt": "2026-11-04T13:10:29.898Z"
+  },
+  {
+    "slug": "umbra-an-ai-agent-that-uses-android-apps-while-you-use-your-phone-hn",
+    "title": "Umbra – An AI agent that uses Android apps while you use your phone",
+    "shortDescription": "Проект «Umbra – An AI agent that uses Android apps while you use your phone», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Umbra – An AI agent that uses Android apps while you use your phone», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/chengmatt416/umbra",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50363170",
+    "createdAt": "2026-11-04T13:10:29.898Z"
+  },
+  {
+    "slug": "plugin-to-create-product-videos-hn",
+    "title": "Plugin to Create Product Videos",
+    "shortDescription": "Проект «Plugin to Create Product Videos», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Plugin to Create Product Videos», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/Flux-AI-Agent/fluxcut-plugin",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50362730",
+    "createdAt": "2026-11-04T13:10:29.898Z"
+  },
+  {
+    "slug": "meteosource-mcp-server-weather-data-for-ai-assistants-hn",
+    "title": "Meteosource MCP server, weather data for AI assistants",
+    "shortDescription": "Проект «Meteosource MCP server, weather data for AI assistants», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Meteosource MCP server, weather data for AI assistants», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://mcp.meteosource.com/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50362615",
+    "createdAt": "2026-11-04T13:10:29.898Z"
+  },
+  {
+    "slug": "lets1up-birthdayparty-game-kits-that-run-on-your-tv-hn",
+    "title": "Lets1UP, birthday/party game kits that run on your TV",
+    "shortDescription": "Hey HN parents out there, I started making party kits for my kids birthday parties and get togethers and wanted to share it with other devi…",
+    "fullDescription": "Hey HN parents out there, I started making party kits for my kids birthday parties and get togethers and wanted to share it with other device-less families out there. Ironically, its a web-app to use your TV to facilitate device-less team building and face-to-face time. I&#x27;ve ran the games at our home a couple of times and its been a success, hence the more games. Would love your feedback, you can use the code PKFREE to try it out. totally no charge. I got a few game packs setup Nerf, Minute-it to win-it, and werewolf. Disclaimer, I did use heavy AI assist to develop it all but why not use the tech to make our lives more connected? I hope it brings your family and friends more fun and time with each other.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://lets1up.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50362025",
+    "createdAt": "2026-11-04T13:10:29.898Z"
+  },
+  {
     "slug": "archstudio-github",
     "title": "ArchStudio",
     "shortDescription": "The architecture editor that understands what you're designing.",
