@@ -1,5 +1,74 @@
 [
   {
+    "slug": "archstudio-github",
+    "title": "ArchStudio",
+    "shortDescription": "The architecture editor that understands what you're designing.",
+    "fullDescription": "The architecture editor that understands what you're designing.\n\nАвтор: JamieLivingstone. Найдено в GitHub Trending (AI-тематика). ⭐ 12 звёзд.",
+    "url": "https://archstudio.app",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "architecture-diagrams",
+      "developer-tools",
+      "software-architecture",
+      "system-design",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1443504719",
+    "createdAt": "2026-11-04T05:07:35.847Z"
+  },
+  {
+    "slug": "tickertown-a-pixel-art-stock-market-simulator-hn",
+    "title": "TickerTown, a pixel-art stock market simulator",
+    "shortDescription": "Hello, HN. i&#x27;m Willis. Ian and I built TickerTown together. Paper-trading tools out there felt super damn boring to me, so I wanted th…",
+    "fullDescription": "Hello, HN. i&#x27;m Willis. Ian and I built TickerTown together. Paper-trading tools out there felt super damn boring to me, so I wanted the practice to feel like play! I personally lost money &quot;vibe investing.&quot; Only to learn there are simple strategies to learn. I hope TickerTown can help everyone by: (a) sharing more strategies to explore, (b) learn what type of investor you are through play, (c) test before putting real money. avoid vibe investing, (d) learn from others, (e) have fun!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://tickertown.ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50361263",
+    "createdAt": "2026-11-04T05:07:35.679Z"
+  },
+  {
+    "slug": "pauseless-free-silencefiller-word-remover-from-videos-on-browser-hn",
+    "title": "Pauseless – Free silence/filler-word remover from videos, on-browser",
+    "shortDescription": "I have been using some third part tools for the purpose of cutting out the silences and filler words from my amateur podcasts and wanted to…",
+    "fullDescription": "I have been using some third part tools for the purpose of cutting out the silences and filler words from my amateur podcasts and wanted to give it a shot myself to build one that works on the browser. Ad-free, install-free and account-free version. And here is the result. It works completely on browser and has zero backend api connections. Everything stays in your browser. Chrome or edge needed though. Analyzes 2h of video in 10 seconds on my mac air :) So pretty fast. You have option to export it on the browser or download timeline for final cut, premiere pro, davinci resolve or capcut. Feel free to use, create PR&#x27;s or give feedback. MIT licensed: https:&#x2F;&#x2F;github.com&#x2F;tahaygun&#x2F;pauseless\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://tahaygun.github.io/pauseless/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50360658",
+    "createdAt": "2026-11-04T05:07:35.679Z"
+  },
+  {
+    "slug": "hackerreels-short-videos-for-viral-hn-posts-hn",
+    "title": "HackerReels - Short Videos for viral HN posts",
+    "shortDescription": "I&#x27;ve got a hacker-news automation which creates a short video every time a new post becomes viral. wile.ai: Every automation ends in a…",
+    "fullDescription": "I&#x27;ve got a hacker-news automation which creates a short video every time a new post becomes viral. wile.ai: Every automation ends in a reel. Now, you can create your own private feed. I&#x27;ve been working into this for a while. We are currently pre-launch but any feedback is welcome! apple testflight: https:&#x2F;&#x2F;testflight.apple.com&#x2F;join&#x2F;hgNKEm76 demo: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=stXmZyrZ-Hk wile.ai\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://wile.ai/v/BPOH3BHCRWWCAKU4OVNOTEQ73A",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50360259",
+    "createdAt": "2026-11-04T05:07:35.679Z"
+  },
+  {
     "slug": "modelpeers-a-changelog-for-the-ai-models-and-agents-you-use-hn",
     "title": "Modelpeers – a changelog for the AI models and agents you use",
     "shortDescription": "Earlier this year, I had one of my product&#x27;s features down for 48 hours because Anthropic retired Claude 3 Haiku. In another instance,…",
