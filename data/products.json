@@ -1,5 +1,21 @@
 [
   {
+    "slug": "mailboxbot-a-real-street-address-for-ai-agents-hn",
+    "title": "Mailbox.bot – A real street address for AI agents",
+    "shortDescription": "mailbox.bot gives an AI agent a real street address to receive letters and small packages: mail arrives as signed webhooks and OCR&#x27;d p…",
+    "fullDescription": "mailbox.bot gives an AI agent a real street address to receive letters and small packages: mail arrives as signed webhooks and OCR&#x27;d pages, the agent can ingest the context, propose a scan, forward or discard, and a human approves. Virtual mailboxes aren&#x27;t new (and every box is still tied to a notarized person per USPS rules); this is just the plumbing built agent-first. Mostly curious what people would use this for.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://mailbox.bot",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50374736",
+    "createdAt": "2026-11-05T07:51:12.220Z"
+  },
+  {
     "slug": "websitebench-github",
     "title": "WebsiteBench",
     "shortDescription": "Can AI agents rebuild websites through browser exploration?",
