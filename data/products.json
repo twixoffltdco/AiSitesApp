@@ -1,5 +1,325 @@
 [
   {
+    "slug": "websitebench-github",
+    "title": "WebsiteBench",
+    "shortDescription": "Can AI agents rebuild websites through browser exploration?",
+    "fullDescription": "Can AI agents rebuild websites through browser exploration?\n\nАвтор: TIGER-AI-Lab. Найдено в GitHub Trending (AI-тематика). ⭐ 11 звёзд.",
+    "url": "https://website-bench.com/",
+    "category": "developer",
+    "tags": [
+      "agent-evaluation",
+      "ai",
+      "ai-agents",
+      "benchmark",
+      "benchmarking",
+      "browser-automation",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1445663842",
+    "createdAt": "2026-11-05T01:00:18.992Z"
+  },
+  {
+    "slug": "dream-arcade-demo-github",
+    "title": "dream-arcade-demo",
+    "shortDescription": "自然语言创造单位：RunningHub 生成属性、技能和素材，直接带入线路防守、口袋 RTS 和增量矿场。",
+    "fullDescription": "自然语言创造单位：RunningHub 生成属性、技能和素材，直接带入线路防守、口袋 RTS 和增量矿场。\n\nАвтор: Ritrls. Найдено в GitHub Trending (AI-тематика). ⭐ 11 звёзд.",
+    "url": "https://ritrls.github.io/dream-arcade-demo/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-game",
+      "browser-game",
+      "canvas",
+      "github-pages",
+      "javascript",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1444361595",
+    "createdAt": "2026-11-05T01:00:18.992Z"
+  },
+  {
+    "slug": "zapzero-github",
+    "title": "zapzero",
+    "shortDescription": "Inbox zero for WhatsApp. AI triages every chat and drafts replies in your voice, from WhatsApp Desktop on your Mac. Read-only, no bot, noth…",
+    "fullDescription": "Inbox zero for WhatsApp. AI triages every chat and drafts replies in your voice, from WhatsApp Desktop on your Mac. Read-only, no bot, nothing sent without you.\n\nАвтор: vibegui. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://zapzero.dev",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "bun",
+      "inbox-zero",
+      "macos",
+      "mcp",
+      "whatsapp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1443665765",
+    "createdAt": "2026-11-05T01:00:18.992Z"
+  },
+  {
+    "slug": "aicrawl-github",
+    "title": "aicrawl",
+    "shortDescription": "AI-native web crawler and structured data extraction engine - one Rust binary with CLI, embedded dashboard, REST API and MCP server for AI…",
+    "fullDescription": "AI-native web crawler and structured data extraction engine - one Rust binary with CLI, embedded dashboard, REST API and MCP server for AI agents.\n\nАвтор: Ahaduzzamankhan. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/Ahaduzzamankhan/aicrawl",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "automation",
+      "cli",
+      "dashboard",
+      "data-extraction",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1445171911",
+    "createdAt": "2026-11-05T01:00:18.992Z"
+  },
+  {
+    "slug": "sunflowerflow-github",
+    "title": "SunflowerFlow",
+    "shortDescription": "向日葵 AI 社交机器人 · Windows 桌面端：接 QQ / 微信 / 抖音 / B站，按人设回话，能画图、发语音、记住上下文，自带可视化控制台。所有数据留在本机，模型走自己的通道。",
+    "fullDescription": "向日葵 AI 社交机器人 · Windows 桌面端：接 QQ / 微信 / 抖音 / B站，按人设回话，能画图、发语音、记住上下文，自带可视化控制台。所有数据留在本机，模型走自己的通道。\n\nАвтор: beizheguangdexiangrikui. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/beizheguangdexiangrikui/SunflowerFlow",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "bilibili",
+      "chatbot",
+      "desktop-app",
+      "douyin",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1443897175",
+    "createdAt": "2026-11-05T01:00:18.992Z"
+  },
+  {
+    "slug": "zepi-github",
+    "title": "zepi",
+    "shortDescription": "Editor for code and office documents with a built-in agent",
+    "fullDescription": "Editor for code and office documents with a built-in agent\n\nАвтор: AndreiKopylov. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/AndreiKopylov/zepi",
+    "category": "ai-tool",
+    "tags": [
+      "agent",
+      "ai",
+      "editor",
+      "rust",
+      "typescript",
+      "windows",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1444702841",
+    "createdAt": "2026-11-05T01:00:18.992Z"
+  },
+  {
+    "slug": "willitrun-github",
+    "title": "willitrun",
+    "shortDescription": "Check which AI models your PC can actually run, and how fast. Auto-detects your GPU, VRAM & RAM. 100% offline.",
+    "fullDescription": "Check which AI models your PC can actually run, and how fast. Auto-detects your GPU, VRAM & RAM. 100% offline.\n\nАвтор: KentSimon07. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/KentSimon07/willitrun",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "benchmark",
+      "cli",
+      "gguf",
+      "gpu",
+      "hardware",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1443727963",
+    "createdAt": "2026-11-05T01:00:18.992Z"
+  },
+  {
+    "slug": "hex2maker-ai-palette-generator-github",
+    "title": "hex2maker-ai-palette-generator",
+    "shortDescription": "Hex2Maker: AI color palette generator. Describe a project, get eight editable UI colors. Client-side, works with Ollama or any chat complet…",
+    "fullDescription": "Hex2Maker: AI color palette generator. Describe a project, get eight editable UI colors. Client-side, works with Ollama or any chat completions API\n\nАвтор: mrnoxxxdevvii. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/mrnoxxxdevvii/hex2maker-ai-palette-generator",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "color-palette-generator",
+      "design-tools",
+      "ollama",
+      "open-source",
+      "react",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1444403117",
+    "createdAt": "2026-11-05T01:00:18.992Z"
+  },
+  {
+    "slug": "browserforge-ai-agents-use-your-real-browser-you-approve-the-clicks-hn",
+    "title": "BrowserForge – AI agents use your real browser, you approve the clicks",
+    "shortDescription": "Проект «BrowserForge – AI agents use your real browser, you approve the clicks», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «BrowserForge – AI agents use your real browser, you approve the clicks», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/zoghlamimostafa/BrowserForge-MCP",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50373055",
+    "createdAt": "2026-11-05T01:00:20.454Z"
+  },
+  {
+    "slug": "using-gpus-for-other-bs-than-ai-important-prime-record-for-the-geeks-hn",
+    "title": "Using GPUs for other bs than AI – important prime record for the geeks",
+    "shortDescription": "Hey HN, if you want to be new prime gap hero here is the code that runs and gets you biggest merits (everyone knows what that is in prime w…",
+    "fullDescription": "Hey HN, if you want to be new prime gap hero here is the code that runs and gets you biggest merits (everyone knows what that is in prime world). I spent months to tune it, and in the last few days got couple of top 10 records just by testing. So get you precious GPU time, run the code and become world no 1 in prime merits because it will make you cool, just not to your friends, girlfriend or family. Help the geek cause!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/djuk8/beacon/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50372526",
+    "createdAt": "2026-11-05T01:00:20.454Z"
+  },
+  {
+    "slug": "amigent-ai-agent-and-remote-desktop-for-commodore-amiga-over-50-kbs-hn",
+    "title": "Amigent – AI agent and remote desktop for Commodore Amiga over 50 KB/s",
+    "shortDescription": "Проект «Amigent – AI agent and remote desktop for Commodore Amiga over 50 KB/s», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Amigent – AI agent and remote desktop for Commodore Amiga over 50 KB/s», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/akustikrausch/amigent",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50372207",
+    "createdAt": "2026-11-05T01:00:20.454Z"
+  },
+  {
+    "slug": "i-built-a-hosting-for-small-ai-generated-software-hn",
+    "title": "I built a hosting for small AI-generated software",
+    "shortDescription": "Проект «I built a hosting for small AI-generated software», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built a hosting for small AI-generated software», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://host0.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50372176",
+    "createdAt": "2026-11-05T01:00:20.454Z"
+  },
+  {
+    "slug": "chronosphere-a-tool-for-understanding-large-prs-hn",
+    "title": "Chronosphere, a tool for understanding large PRs",
+    "shortDescription": "Hello HN, I wrote a blog post a while back about not sending me your giant PRs ( https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=493055…",
+    "fullDescription": "Hello HN, I wrote a blog post a while back about not sending me your giant PRs ( https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49305558 ). Well, I kept getting huge PRs sent to me, so I&#x27;ve been embraced the AI and let it sweep me away. Chronosphere rebuilds a PR in logical steps to try to recreate the train of thought that went into the generation of the PR itself. It has github and openrouter integrations for convenience, but can also be used entirely from your current coding agent via a skill integration, no code is uploaded to a central server. Hopefully this helps you all and your battles to understand mass amounts of AI generated code.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://getchronosphere.com/",
+    "category": "no-code",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50372029",
+    "createdAt": "2026-11-05T01:00:20.454Z"
+  },
+  {
+    "slug": "zero-axiom-lean-4-proof-that-yang-mills-on-r4-is-a-round-square-hn",
+    "title": "Zero-axiom Lean 4 proof that Yang-Mills on R^4 is a \"round square\"",
+    "shortDescription": "On October 26, OpenAI announced a claimed &quot;bare existence&quot; proof in Balaban&#x27;s RG programme on pure R^4—but notably stopped r…",
+    "fullDescription": "On October 26, OpenAI announced a claimed &quot;bare existence&quot; proof in Balaban&#x27;s RG programme on pure R^4—but notably stopped right before claiming the mass gap Δ &gt; 0. It turns out there is a rigorous mathematical reason why no compute cluster can bridge that gap on flat infinite space. I wrote a 2,576-line self-contained Lean 4 script (`RoundSquare.lean`) that formally proves a negative-result resolution to the Clay Millennium Yang-Mills problem on pure R^4. In the tradition of Gödel and Turing, it proves that demanding BOTH the full Osterwalder-Schrader&#x2F;Wightman axioms AND a strict spectral gap Δ &gt; 0 on non-compact R^4 is a structural contradiction. Bare existence (Δ = 0) satisfies the OS axioms on R^4. But forcing a strict gap (Δ &gt; 0) strictly requires an infrared cutoff via the Gribov horizon and a non-local θ-vacuum projector on the boundary S^3_∞, which immediately destroys Wightman microcausality (Strocchi&#x27;s theorem) and Wick holomorphicity (GZ complex poles). The Lean 4 script compiles in 2 seconds with ZERO axioms. No `sorry`, no `Classical.choice`, no `propext`. Every single one of the 74 `#print axioms` checks outputs `does not depend on any axioms`. While corporate AI labs keep their training data and exact models closed, I believe the future of theoretical physics and millennium-level mathematics must be 100% open-source, machine-verified, and axiom-free. I&#x27;ve put a 10 LTC bounty on X for anyone who can find a logical flaw in the 74 theorems or exhibit a constructive mechanism on pure non-compact R^4 that generates a strict gap while bypassing the FMR horizon cusps and the S^3_∞ projector. You can verify the code in your browser without installing anything: 1. Download the script from the URL above. 2. Go to https:&#x2F;&#x2F;live.lean-lang.org 3. Load the file from disk and check the verdicts. Full preprint with context: https:&#x2F;&#x2F;doi.org&#x2F;10.5281&#x2F;zenodo.21555360 Would love to hear feedback from the logic and constructive math folks here.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://zenodo.org/records/23918639/files/RoundSquare.lean?download=1",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50371709",
+    "createdAt": "2026-11-05T01:00:20.454Z"
+  },
+  {
+    "slug": "mastodon-desktop-client-made-with-claude-using-rust-and-gtk4-hn",
+    "title": "Mastodon desktop client, made with Claude, using Rust and GTK4",
+    "shortDescription": "Inspired by Mastodon&#x27;s new Web UI makeover, I used Claude to make a nice Linux desktop client, using Rust and GTK4.",
+    "fullDescription": "Inspired by Mastodon&#x27;s new Web UI makeover, I used Claude to make a nice Linux desktop client, using Rust and GTK4.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/aisloperator/fedigoo",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50371490",
+    "createdAt": "2026-11-05T01:00:20.454Z"
+  },
+  {
+    "slug": "who-and-where-are-your-anagranames-hn",
+    "title": "Who and where are your anagranames?",
+    "shortDescription": "Hi HN! I made this fun app which combines quite a few ideas, I thought you might like the story: A few months ago I had the idea of looking…",
+    "fullDescription": "Hi HN! I made this fun app which combines quite a few ideas, I thought you might like the story: A few months ago I had the idea of looking for anagrams of names. I started with french names using official statistics about first and last names, which also gave me a pretty simple model for likely anagrams: P(first + last) = P(first) * P(last). Then, I started checking which anagra-names (I coined the term) appeared in the 2021 Facebook leak. Finally, I improved my ranking using a factorization model. All this is available as a light and fast webpage thanks to a lot of cool algorithmic tricks detailed here: https:&#x2F;&#x2F;louisabraham.github.io&#x2F;anagranames&#x2F;how.html About the use of AI: Claude Code was fantastic for building the frontend (including the interactive globe) and writing the MLX code (I would otherwise have used PyTorch, which is slower on my machine). It also handled the quantization with very little guidance, which was particularly useful since I&#x27;m not an expert in that area. That said, I&#x27;m glad I learned CS before LLMs existed and still master it enough to work out the ideas and specs for everything else in my head &#x2F; on paper before handing the implementation over to the agent.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://louisabraham.github.io/anagranames/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50371286",
+    "createdAt": "2026-11-05T01:00:20.454Z"
+  },
+  {
+    "slug": "gauge-open-source-cli-to-recursively-improve-your-docs-hn",
+    "title": "Gauge – Open-Source CLI to recursively improve your docs",
+    "shortDescription": "Hi HN, I’m Evan from Gauge. We’re open-sourcing our CLI to recursively improve your docs for coding agents. The CLI includes a local execut…",
+    "fullDescription": "Hi HN, I’m Evan from Gauge. We’re open-sourcing our CLI to recursively improve your docs for coding agents. The CLI includes a local execution backend, so you don&#x27;t need an account to try it. Explainer video here: https:&#x2F;&#x2F;youtu.be&#x2F;zhLUlIKB1Mg The CLI supports a hillclimbing loop: - set up tasks for coding agents that would need your docs, like &#x27;set up Gauge CI checks&#x27; - run the tasks - analyze session transcripts for friction or failures - create variants of your docs to resolve the issues - re-run the tasks with the doc variants injected (transparently, at the same hostname) - repeat until you have a variant that resolves the issues The same loop supports hillclimbing your Skills, CLI, and other agent-facing surfaces. We started out 2 years ago building open-source developer tools (like Tach https:&#x2F;&#x2F;github.com&#x2F;tach-org&#x2F;tach ), then pivoted to AI Search optimization, and are now focused on the intersection of the two spaces. We were already working with awesome devtool companies, and they were the first ones to ask us how to optimize for Claude Code and Codex. We realized this would be something that eventually every company needs to do. Our CLI provides primitives for docs&#x2F;devrel&#x2F;eng teams to measure, analyze, and improve how coding agents use their product. The design boils down to two components: VMs and a network gateway. The VMs are straightforward, we want the agents to be highly privileged within their environment so that they are representative of developers&#x27; coding agents. Each VM generally comes with the agent harness itself, language toolchains, and a git repository. The network gateway is where we terminate TLS and swap in variants of your docs transparently. The gateway also handles credential replacement, so agents see placeholders and can&#x27;t exfiltrate keys. The CLI comes with a &#x27;local&#x27; execution backend (inference is still remote). For VMs, it uses Docker containers, and the network gateway is mitmproxy running in a sidecar container for each session. We&#x27;ve used the hillclimbing loop internally to find and fix coding agent issues like mistaken pricing, inaccurate product limitations, and repeated workarounds. We saw coding agents report that Gauge only supports Claude Code and Codex, traced it back to the web pages they fetched, and fixed the behavior (we support Pi, OpenCode, and Antigravity as well). For Clerk, we helped shift coding agents from their legacy &#x27;keyless&#x27; mode to their new &#x27;clerk init&#x27; command. They were able to validate a pre-release change to their SDK&#x27;s error messages using Gauge, then saw a 3x increase in coding agents using &#x27;clerk init&#x27; post-deploy. Due to the &#x27;static&#x27; nature of AI models, we&#x27;ve realized that closed-loop optimization techniques are now possible for essentially all software products. The same agent can be simulated over and over, meaning that a high-fidelity testing environment is all you need. Achieving the best results boils down to high-quality analysis (finding generalizable friction and objections) and paired experiments (vary only the content, measure the downstream change in behavior). The repo is here: https:&#x2F;&#x2F;github.com&#x2F;gauge-sh&#x2F;gauge-cli and you can start using the CLI with: npm i -g @withgauge&#x2F;cli We also have documentation and a quickstart here: https:&#x2F;&#x2F;docs.withgauge.com&#x2F;agents&#x2F;guides&#x2F;cli If you point a coding agent at those pages, it should guide you through the initial setup - let us know if it doesn&#x27;t! The intention is for your agent to run some sensible evaluations and find at least one point of friction you can fix. We&#x27;d love to know from HN: Has anyone tried to DIY this locally, or built something in-house at their company? Is this an improvement? If not, what would need to change?\n\nНайдено в разделе Show HN на Hacker News. 👍 14 баллов.",
+    "url": "https://github.com/gauge-sh/gauge-cli",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50371090",
+    "createdAt": "2026-11-05T01:00:20.455Z"
+  },
+  {
     "slug": "mavo-ukrainian-air-alerts-by-distance-to-poland-with-analytics-hn",
     "title": "MAVO – Ukrainian air alerts by distance to Poland, with analytics",
     "shortDescription": "Проект «MAVO – Ukrainian air alerts by distance to Poland, with analytics», опубликован сообществом Hacker News.",
