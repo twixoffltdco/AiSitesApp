@@ -1,5 +1,383 @@
 [
   {
+    "slug": "chatgpt-shell-cli-github",
+    "title": "chatGPT-shell-cli",
+    "shortDescription": "A lightweight shell script to use OpenAI chat models and image generation from the terminal.",
+    "fullDescription": "A lightweight shell script to use OpenAI chat models and image generation from the terminal.\n\nАвтор: kennydamobd. Найдено в GitHub Trending (AI-тематика). ⭐ 50 звёзд.",
+    "url": "https://github.com/kennydamobd/chatGPT-shell-cli",
+    "category": "image-video",
+    "tags": [
+      "ai",
+      "bash",
+      "chatgpt",
+      "cli",
+      "openai",
+      "shell",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1447089199",
+    "createdAt": "2026-11-05T22:10:05.271Z"
+  },
+  {
+    "slug": "prompt-poet-github",
+    "title": "prompt-poet",
+    "shortDescription": "Low-code templating for LLM prompts: Jinja2 templates, token accounting, and cache-aware truncation.",
+    "fullDescription": "Low-code templating for LLM prompts: Jinja2 templates, token accounting, and cache-aware truncation.\n\nАвтор: fieldpincocknxxc. Найдено в GitHub Trending (AI-тематика). ⭐ 50 звёзд.",
+    "url": "https://github.com/fieldpincocknxxc/prompt-poet",
+    "category": "no-code",
+    "tags": [
+      "ai",
+      "jinja2",
+      "llm",
+      "prompt-engineering",
+      "python",
+      "templating",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1447087080",
+    "createdAt": "2026-11-05T22:10:05.271Z"
+  },
+  {
+    "slug": "tiktokenizer-github",
+    "title": "tiktokenizer",
+    "shortDescription": "An interactive playground for comparing how different language models tokenize the same text.",
+    "fullDescription": "An interactive playground for comparing how different language models tokenize the same text.\n\nАвтор: mandeal303. Найдено в GitHub Trending (AI-тематика). ⭐ 50 звёзд.",
+    "url": "https://github.com/mandeal303/tiktokenizer",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "llm",
+      "nextjs",
+      "react",
+      "tiktoken",
+      "tokenizer",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1447089970",
+    "createdAt": "2026-11-05T22:10:05.271Z"
+  },
+  {
+    "slug": "interviewcopilot-rpocket-team-github-3",
+    "title": "InterviewCopilot-rpocket-team",
+    "shortDescription": "EdTech application designed to bridge the gap between learning and landing your dream job",
+    "fullDescription": "EdTech application designed to bridge the gap between learning and landing your dream job\n\nАвтор: DespiteVoltcloud. Найдено в GitHub Trending (AI-тематика). ⭐ 38 звёзд.",
+    "url": "https://github.com/DespiteVoltcloud/InterviewCopilot-rpocket-team",
+    "category": "chatbot",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "api",
+      "assistant",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1446940302",
+    "createdAt": "2026-11-05T22:10:05.271Z"
+  },
+  {
+    "slug": "kojoomail-github",
+    "title": "kojoomail",
+    "shortDescription": "所有邮箱，一个收件箱。多邮箱 + AI 的桌面邮件客户端（Windows / macOS）· All your mailboxes in one inbox, with AI. Tauri 2 + Rust + React.",
+    "fullDescription": "所有邮箱，一个收件箱。多邮箱 + AI 的桌面邮件客户端（Windows / macOS）· All your mailboxes in one inbox, with AI. Tauri 2 + Rust + React.\n\nАвтор: ekoouu. Найдено в GitHub Trending (AI-тематика). ⭐ 16 звёзд.",
+    "url": "https://mail.songxxai.com/kojoomail/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "deepseek",
+      "desktop-app",
+      "email",
+      "email-client",
+      "gmail",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1445651886",
+    "createdAt": "2026-11-05T22:10:05.271Z"
+  },
+  {
+    "slug": "blendclone-github",
+    "title": "BlendClone",
+    "shortDescription": "Turn a reference video into an editable Blender project: AI scene analysis, declarative compiler, side-by-side fidelity scoring, .blend exp…",
+    "fullDescription": "Turn a reference video into an editable Blender project: AI scene analysis, declarative compiler, side-by-side fidelity scoring, .blend export.\n\nАвтор: blixvip. Найдено в GitHub Trending (AI-тематика). ⭐ 16 звёзд.",
+    "url": "https://github.com/blixvip/BlendClone",
+    "category": "developer",
+    "tags": [
+      "3d",
+      "ai",
+      "blender",
+      "computer-vision",
+      "fastapi",
+      "pydantic",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1446527123",
+    "createdAt": "2026-11-05T22:10:05.271Z"
+  },
+  {
+    "slug": "letronna-github",
+    "title": "letronna",
+    "shortDescription": "An agent with its own cloud and wallet. Prompt in, live link out. Written in Rust.",
+    "fullDescription": "An agent with its own cloud and wallet. Prompt in, live link out. Written in Rust.\n\nАвтор: gadlus. Найдено в GitHub Trending (AI-тематика). ⭐ 13 звёзд.",
+    "url": "https://letronna.ai",
+    "category": "ai-tool",
+    "tags": [
+      "agent-orchestration",
+      "agentic",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "harness",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1447186722",
+    "createdAt": "2026-11-05T22:10:05.272Z"
+  },
+  {
+    "slug": "inference-business-simulator-dont-go-broke-rent-gpus-serve-tokens-hn",
+    "title": "Inference business simulator – don't go broke, rent GPUs, serve tokens",
+    "shortDescription": "Проект «Inference business simulator – don't go broke, rent GPUs, serve tokens», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Inference business simulator – don't go broke, rent GPUs, serve tokens», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://makermaker.ai/breakthroughs/inference/simulation/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50385087",
+    "createdAt": "2026-11-05T22:10:05.398Z"
+  },
+  {
+    "slug": "agentshield-zero-leak-kernel-sandbox-and-secret-defense-for-ai-coding-hn",
+    "title": "Agentshield Zero-leak kernel sandbox and secret defense for AI coding",
+    "shortDescription": "Проект «Agentshield Zero-leak kernel sandbox and secret defense for AI coding», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Agentshield Zero-leak kernel sandbox and secret defense for AI coding», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ritualdev.in/agentshield/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50384401",
+    "createdAt": "2026-11-05T22:10:05.398Z"
+  },
+  {
+    "slug": "hand-your-markdown-tasks-to-claude-code-from-a-kanban-board-hn",
+    "title": "Hand Your Markdown Tasks to Claude Code from a Kanban Board",
+    "shortDescription": "EtherPK (a markdown &#x2F; wikilink based notes app) tasks are plain markdown, but the EtherPK client has built powerful functionality on t…",
+    "fullDescription": "EtherPK (a markdown &#x2F; wikilink based notes app) tasks are plain markdown, but the EtherPK client has built powerful functionality on top of markdown tasks, integrating a Kanban board and MCP server to allow you to manage your work in your notes and easily hand off with instruction and full task context to your AI Agent (e.g. Claude Code). A task in is a markdown checkbox line in your notes, written in any document, wherever and whenever the task or idea comes up. If you nest it under another task and it becomes that task&#x27;s subtask. A Kanban board shows those lines as cards and keeps no copy of them, so moving a card edits the line. The task editor is a form over the same text, so a picture, a comment or a subtask you add there ends up as text in the note. Full post at: https:&#x2F;&#x2F;blog.etherpk.com&#x2F;hand-your-markdown-tasks-to-claude-...\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://blog.etherpk.com/hand-your-markdown-tasks-to-claude-code-from-a-kanban-board",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50384357",
+    "createdAt": "2026-11-05T22:10:05.398Z"
+  },
+  {
+    "slug": "aireeltv-paste-your-landing-page-get-a-produced-promo-film-hn",
+    "title": "Aireel.tv Paste your landing page. Get a produced promo film",
+    "shortDescription": "Проект «Aireel.tv Paste your landing page. Get a produced promo film», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Aireel.tv Paste your landing page. Get a produced promo film», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://aireel.tv/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50383912",
+    "createdAt": "2026-11-05T22:10:05.398Z"
+  },
+  {
+    "slug": "lo-fi-layered-over-air-traffic-control-recorded-myself-hn",
+    "title": "Lo-fi layered over air traffic control (recorded myself)",
+    "shortDescription": "Some of you will remember lofiatc.com and I was a huge fan and heavy user until it got shut down. It was streaming LiveATC feeds, and when…",
+    "fullDescription": "Some of you will remember lofiatc.com and I was a huge fan and heavy user until it got shut down. It was streaming LiveATC feeds, and when those got cut off the site went dark and has been ever since. So I decided to bring it back in a way that wouldn&#x27;t fall to the same fate. I&#x27;ve been an ATC nerd for years (ever since you could still listen to the radio on the arm rest of commercial flights) so this summer I rented a Fiat 500, stuck an airband antenna on the roof, and spent a day driving to three Chicago airports with my laptop in the passenger seat to record the audio I needed in person. This took me to the viewing area at Chicago Executive (KPWK), the cell phone lot at O&#x27;Hare (KORD), and the top of a parking garage at Midway (KMDW). The whole chain was a Bingfu mag-mount antenna connected to an airband filter and then to an RTL-SDR, all captured via SDR++. If you&#x27;re interested, you can read a full post on how the recording day came together here: https:&#x2F;&#x2F;finalapproach.fm&#x2F;field-notes&#x2F;chicago-recording-day&#x2F; Once I had all the audio, I layered it on top of lo-fi tracks and created one &quot;album&quot; per airport, each with its own vibe. Each track is named after something unique to that airport or something we heard on the radio, and I&#x27;ve had it on as background music for work for about two months now, which is why I built it in the first place! Also important to me was putting this out there in the world with no signup required and no ads. Just like on the original site, finalapproach.fm gives you two sliders that let you push the radio up or the music up depending on which you want to hear more of. And there are pre-built mixes on YouTube and all your favorite music streaming services (search for Final Approach Radio). Happy to answer questions about the radio side, the legal side (as much as I can, obviously), or the editing (largely done with Claude Code).\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://finalapproach.fm/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50383438",
+    "createdAt": "2026-11-05T22:10:05.398Z"
+  },
+  {
+    "slug": "tokenome-code-provenance-for-ai-assisted-work-on-your-machine-hn",
+    "title": "Tokenome – code provenance for AI-assisted work, on your machine",
+    "shortDescription": "Проект «Tokenome – code provenance for AI-assisted work, on your machine», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Tokenome – code provenance for AI-assisted work, on your machine», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://tokenome.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50382892",
+    "createdAt": "2026-11-05T22:10:05.398Z"
+  },
+  {
+    "slug": "is-android-ready-for-ai-agents-what-broke-in-3324-actions-on-45-phones-hn",
+    "title": "Is Android ready for AI agents? What broke in 3324 actions on 45 phones",
+    "shortDescription": "Проект «Is Android ready for AI agents? What broke in 3324 actions on 45 phones», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Is Android ready for AI agents? What broke in 3324 actions on 45 phones», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://getopposable.com/blog/how-ready-is-android-for-ai-agents",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50382696",
+    "createdAt": "2026-11-05T22:10:05.398Z"
+  },
+  {
+    "slug": "gpt-live-and-gpt-realtime-arch-trade-offs-behind-continuous-voice-ai-hn",
+    "title": "GPT-Live and GPT-Realtime: Arch Trade-Offs Behind Continuous Voice AI",
+    "shortDescription": "Проект «GPT-Live and GPT-Realtime: Arch Trade-Offs Behind Continuous Voice AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «GPT-Live and GPT-Realtime: Arch Trade-Offs Behind Continuous Voice AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://agentunicorn.ai/research/gpt-live-voice-ai-tradeoffs",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50382567",
+    "createdAt": "2026-11-05T22:10:05.398Z"
+  },
+  {
+    "slug": "replay-three-ai-agent-approval-failures-in-five-seconds-in-python-hn",
+    "title": "Replay three AI agent approval failures in five seconds, in Python",
+    "shortDescription": "Проект «Replay three AI agent approval failures in five seconds, in Python», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Replay three AI agent approval failures in five seconds, in Python», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/salahmakboul/call4agents",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50382393",
+    "createdAt": "2026-11-05T22:10:05.398Z"
+  },
+  {
+    "slug": "resilient-ai-worker-queue-with-redis-bullmq-and-budget-kill-switches-hn",
+    "title": "Resilient AI Worker Queue with Redis, BullMQ, and Budget Kill Switches",
+    "shortDescription": "Проект «Resilient AI Worker Queue with Redis, BullMQ, and Budget Kill Switches», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Resilient AI Worker Queue with Redis, BullMQ, and Budget Kill Switches», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/sidsri14/resilient-ai-worker-kit",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50382372",
+    "createdAt": "2026-11-05T22:10:05.398Z"
+  },
+  {
+    "slug": "magertron-ai-orchestrator-for-agents-tools-apis-llms-and-streams-hn",
+    "title": "Magertron – AI Orchestrator for agents' tools, APIs, LLMs and streams",
+    "shortDescription": "Проект «Magertron – AI Orchestrator for agents' tools, APIs, LLMs and streams», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Magertron – AI Orchestrator for agents' tools, APIs, LLMs and streams», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://magertron.com/#install",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50382344",
+    "createdAt": "2026-11-05T22:10:05.398Z"
+  },
+  {
+    "slug": "the-web-needs-more-creativity-and-whimsy-hn",
+    "title": "The web needs more creativity and whimsy",
+    "shortDescription": "Someone commented that all UIs are starting to look very much the same and very AI lately. I think we play and experiment more.",
+    "fullDescription": "Someone commented that all UIs are starting to look very much the same and very AI lately. I think we play and experiment more.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://ignition.github.io/press/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50382289",
+    "createdAt": "2026-11-05T22:10:05.398Z"
+  },
+  {
+    "slug": "a-terminal-viewer-for-plain-text-data-files-jsonyamlcsvxml-hn",
+    "title": "A terminal viewer for plain text data files (JSON,YAML,CSV,XML,)",
+    "shortDescription": "When I started working hands-on with OpenAPI specifications, it became clear very quickly that using an editor to read large volumes of dee…",
+    "fullDescription": "When I started working hands-on with OpenAPI specifications, it became clear very quickly that using an editor to read large volumes of deeply nested JSON sucks, a very great deal. So I went looking for something to help, and came across https:&#x2F;&#x2F;jless.io This is an awesome terminal app for navigating nasty JSON documents. I am forever indebted to Paul Martinez for writing this tool. But it did have some gaps. It couldn&#x27;t reload files that had changed, keeping your place in the JSON structure, which I really needed. And it only loaded one file at a time. But unfortunately it was written in Rust, and I didn&#x27;t know Rust, and back in the pre-AI days that was kind of a huge blocker. But of course once we got models that could actually write decent code, the obvious idea came to me - I&#x27;ll just add my features and submit a PR! Happy days. Except by that stage my requirements had grown - I also needed to handle many other file formats, like CSV, TOML, INI, and even XML. So I got side-tracked extending another side-project - an easy going JSON parser that supported comments, and trailing commas, the usual sort of thing. During COVID, with a SaaS startup in the events space now on the rocks, I was looking for some distraction and decided to refactor this little easy-going JSON parser of mine. It used a generated parser and was slow. I read some blog posts about how all production-grade language parsers are pretty much hand-crafted recursive descent, and thought, how hard could it be! Five years later, after many many fun experiments, and production use, I ended up with a runtime parser system: https:&#x2F;&#x2F;tabnas.dev This is a quirky approach to parsing that is partly recursive descent, partly a state machine, and mostly empirical hacking. It works, and it&#x27;s pretty fast, and I use it for real projects. It has the nice property that grammars are dynamic - you don&#x27;t generate code, the grammar is executed. A fancy regular expression engine, but revved up to parse anything into a proper abstract syntax tree. Now with that in hand, I could return to the original project and create my own version of jless that solved the itches I needed to scratch: a watch mode; multiple tabs; load any data format into a tree structure Now I still don&#x27;t know Rust. I mean I like the idea, but there are only so many hours in the day. But now we have AI, so now I do get to go to the candy store. Combining jless.io, and tabnas.dev, and my requirements, I built (caused to be built?), aless - the less for any format! Now this is also a nice stress test for the tabnas parsing engine, and I was very pleased about that too. So if you need to review lots of data structure files on the command line, and need a terminal app to do so, this is for you. I can&#x27;t help but be struck by the irony however that the need for such a thing is much less now - I mostly get agents to look at large JSON documents now. Still, our puny human brains need help sometimes, and this lets me review documents when I need to. It is also really nice and satisfying to see how easy it is to now bring together open source components to create what is essentially personal software. But I think the key thing out of this little project is that the basic physics of software development remain the same. Software should be built from components glued together. Components should have well-defined interfaces. Aim to reduce cognitive load - this is useful to both humans and machines. Yes, the entire thing could be built from scratch, using a textual specification, and be a mire of over-engineered AI slop, and still be perfectly usable. But the way I actually built it, with AI as a coding companion, using components was deeply satisfying because I still understand the essence of the code, while being able to ignore the accidental complexity. Components give you another layer of abstraction with fewer things to think about, and that allows your human mind to stay in the game.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aless.tabnas.dev/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50382213",
+    "createdAt": "2026-11-05T22:10:05.398Z"
+  },
+  {
+    "slug": "paste-your-mcp-config-see-what-each-server-does-at-startup-hn",
+    "title": "Paste your MCP config, see what each server does at startup",
+    "shortDescription": "Проект «Paste your MCP config, see what each server does at startup», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Paste your MCP config, see what each server does at startup», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://mcp.brydge-ai.com/paste.html",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50382091",
+    "createdAt": "2026-11-05T22:10:05.398Z"
+  },
+  {
     "slug": "mailboxbot-a-real-street-address-for-ai-agents-hn",
     "title": "Mailbox.bot – A real street address for AI agents",
     "shortDescription": "mailbox.bot gives an AI agent a real street address to receive letters and small packages: mail arrives as signed webhooks and OCR&#x27;d p…",
