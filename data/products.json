@@ -1,5 +1,69 @@
 [
   {
+    "slug": "mall-bats-a-nostalgic-tycoon-game-with-a-twitst-hn",
+    "title": "Mall Bats, a nostalgic tycoon game with a twitst",
+    "shortDescription": "This is a game I was inspired to make after watching the documentary &quot;Secret Mall Apartment&quot;, last year. After my first attempt,…",
+    "fullDescription": "This is a game I was inspired to make after watching the documentary &quot;Secret Mall Apartment&quot;, last year. After my first attempt, I quickly realized AI was not there yet -- I definitely don&#x27;t have the talent or perseverance for game design otherwise. I recently gave it another shot, and I&#x27;m very happy with the result. It&#x27;s open source at https:&#x2F;&#x2F;github.com&#x2F;jacobgoldfarb&#x2F;mall-bat -- please enjoy, give feedback, and feel free to contribute to make it even better.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://mall-bats.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50389331",
+    "createdAt": "2026-11-06T10:21:45.151Z"
+  },
+  {
+    "slug": "mantis-ai-agents-browse-36-faster-than-with-playwright-mcp-hn",
+    "title": "Mantis – AI agents browse 36% faster than with Playwright MCP",
+    "shortDescription": "Проект «Mantis – AI agents browse 36% faster than with Playwright MCP», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Mantis – AI agents browse 36% faster than with Playwright MCP», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/perzianhq/mantis",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50388956",
+    "createdAt": "2026-11-06T10:21:45.151Z"
+  },
+  {
+    "slug": "stitchai-new-all-in-one-workspace-with-stitchy-the-ai-assistant-hn",
+    "title": "Stitch.ai – New all-in-one workspace with Stitchy the AI assistant",
+    "shortDescription": "Our team is excited to launch Stitch.ai this week. We&#x27;ve been working hard to bring knowledge workers, freelancers and founders a work…",
+    "fullDescription": "Our team is excited to launch Stitch.ai this week. We&#x27;ve been working hard to bring knowledge workers, freelancers and founders a workspace that doesn&#x27;t require hopping between apps and tabs; everything is in one app. The Stitch.ai app includes mail, calendar, contacts, tasks, notes, sheets, slides, files, boards and forms. We sort of still can&#x27;t believe we managed to build so many tools! We use auto-generated Knots and Tags to label your work, helping you surface related items with one click. Stitching is also a great feature that allows you to &#x27;Stitch&#x27;. your items together. You can Stitch tasks to events, emails to notes, and slides to contacts. What gets Stitched together stays together! We&#x27;ve also launched Stitchy, our AI assistant who works with you across everything. She writes your emails, schedules events and manages your tasks. Oh, and she&#x27;s a dog in a robot costume so that&#x27;s a bonus! She also runs jobs for you, so you can ask her to watch out for email replies, send daily project updates, or give you daily news snippets to read with your morning protein matcha espresso latte. Everything is built-in, so there&#x27;s no need to set up email clients or integrations. You get your own @stitch.ai email address when you sign up. Try it out for free for 7 days at the link! We&#x27;d love for the HN community to play around with it, send emails, schedule events, try out Knots and Tags, Stitching items, and give us your honest feedback! We are working hard to make a product people are actually excited to use when they land at their desk (or couch).\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://app.stitch.ai/auth/signup",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50388519",
+    "createdAt": "2026-11-06T10:21:45.151Z"
+  },
+  {
+    "slug": "repairer-close-the-breach-when-a-linux-flaw-goes-public-hn",
+    "title": "Repairer – close the breach when a Linux flaw goes public",
+    "shortDescription": "As we&#x27;ve seen with the Ubuntu critical CVE-2026-98432 (CVSS 9.8), AI-dicovered zero day exploit are being reported at an exponential r…",
+    "fullDescription": "As we&#x27;ve seen with the Ubuntu critical CVE-2026-98432 (CVSS 9.8), AI-dicovered zero day exploit are being reported at an exponential rate and we don&#x27;t have the process for dealing with the flood of exploits in real time. What we need is an AI-based system for autopatching systems based on real time information. The vendor&#x27;s fix can take days or weeks to be out (is the Ubuntu thing patched yet?) and meanwhile the grid is vulnerable to exploitation, especially AI worms. Repairer is a small program that runs on each of your servers. The day an exploit goes public it puts up a stopgap that blocks it, and once the real fix is up it takes the stopgap back off by itself. A stopgap only takes something away — drop certain packets, turn off a kernel module or service, remove a setuid bit. It never opens a port, installs or downloads anything, nor runs code. It arms an undo playbook before applying the stopgap, so the change reverts if affects any services. It only ever acts on rules you sign with a (hardware) crypto wallet. Let&#x27;s go further: stopgaps are written and checked by a swarm of AI agents (gnosh.ai sessions) running on gno.land, each with bonded stake. Each stopgap is run on fresh machines, and whoever is caught lying loses their stake to whoever caught them. The agent is built and tested on Ubuntu and Debian, all open source, standard-library Go. More distros coming. Let&#x27;s build repairer together. https:&#x2F;&#x2F;gno.security&#x2F;repairer&#x2F; https:&#x2F;&#x2F;github.com&#x2F;gnosecurity&#x2F;repairer\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://gno.security/repairer/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50388417",
+    "createdAt": "2026-11-06T10:21:45.151Z"
+  },
+  {
     "slug": "taxonero-github",
     "title": "taxonero",
     "shortDescription": "Self-hosted AI species identification for your photos: Immich, local folders or photo apps. Never modifies your pictures.",
