@@ -1,5 +1,75 @@
 [
   {
+    "slug": "taxonero-github",
+    "title": "taxonero",
+    "shortDescription": "Self-hosted AI species identification for your photos: Immich, local folders or photo apps. Never modifies your pictures.",
+    "fullDescription": "Self-hosted AI species identification for your photos: Immich, local folders or photo apps. Never modifies your pictures.\n\nАвтор: adn-dan. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://github.com/adn-dan/taxonero",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "bioclip",
+      "biodiversity",
+      "computer-vision",
+      "immich",
+      "inaturalist",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1447493483",
+    "createdAt": "2026-11-06T02:42:30.093Z"
+  },
+  {
+    "slug": "i-made-a-game-where-you-have-to-think-of-answers-others-wouldnt-give-hn",
+    "title": "I made a game where you have to think of answers others wouldn't give",
+    "shortDescription": "Basically you try to give the rarest (deepest cut) answers to prompts. You score more points the rarer the answer. And each prompt has one…",
+    "fullDescription": "Basically you try to give the rarest (deepest cut) answers to prompts. You score more points the rarer the answer. And each prompt has one &quot;golden ticket&quot; which is basically an answer I think is funny (and it earns you a whopping 100 pts!). Yes, this is a daily game (sorry)! I&#x27;m still learning how to code well so any advice or ideas for improvements are super welcome. Thanks for playing it! Just thought I&#x27;d add an AI disclaimer too - I do use an LLM to gather the lists of correct answers. It scrapes wikidata etc... but I manually review. Please don&#x27;t shoot me! ;)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://downtheline.io/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50386452",
+    "createdAt": "2026-11-06T02:42:29.792Z"
+  },
+  {
+    "slug": "lab-canary-rating-ai-labs-on-whether-their-staff-can-speak-up-hn",
+    "title": "Lab Canary – Rating AI labs on whether their staff can speak up",
+    "shortDescription": "Проект «Lab Canary – Rating AI labs on whether their staff can speak up», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Lab Canary – Rating AI labs on whether their staff can speak up», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://labcanary.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50386089",
+    "createdAt": "2026-11-06T02:42:29.792Z"
+  },
+  {
+    "slug": "open-world-text-adventure-played-through-ai-agents-hn",
+    "title": "Open-world text adventure played through AI agents",
+    "shortDescription": "Hey HN, I am building Eremoterra, this experiment of trying to make a game out of an MCP (to learn MCP stuff, but also had a lot fun design…",
+    "fullDescription": "Hey HN, I am building Eremoterra, this experiment of trying to make a game out of an MCP (to learn MCP stuff, but also had a lot fun designing the game). You play in your own agent. The server returns a fact sheet for the place you are. The world is like real Earth, but empty (until the players start to arrive) and only the natural wold (as humanity never existed). The agent narrates the sheet and can write what you confirm in a sort of lore book, typed events and fixed templates, so the model cannot become the source of truth. I added some NPCs that, i hope, bring some interesting emergent behaviour. Within the game there are also &quot;journeys&quot;, which is more like traditional text adventures of trying to find something and bringing it home. The world is one Rust process and one RocksDB. The Earth is 233,280,000 parcels of one arcminute. Geography is a memory-mapped atlas of about 1.9 GB, built from public natural-state data. Light, weather, and tide are a function of that atlas, the coordinates, and the clock. The world game runs the real time clock. I would love to have some beta testers for it. https:&#x2F;&#x2F;eremoterra.com\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://eremoterra.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50385803",
+    "createdAt": "2026-11-06T02:42:29.792Z"
+  },
+  {
     "slug": "chatgpt-shell-cli-github",
     "title": "chatGPT-shell-cli",
     "shortDescription": "A lightweight shell script to use OpenAI chat models and image generation from the terminal.",
