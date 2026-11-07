@@ -1,5 +1,173 @@
 [
   {
+    "slug": "aimanus-github",
+    "title": "ai_manus",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.\n\nАвтор: Adil-Ijaz7. Найдено в GitHub Trending (AI-тематика). ⭐ 92 звёзд.",
+    "url": "https://github.com/Adil-Ijaz7/ai_manus",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1449097203",
+    "createdAt": "2026-11-07T23:47:16.211Z"
+  },
+  {
+    "slug": "ai-manus-github-24",
+    "title": "ai--manus",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.\n\nАвтор: NuclearOrlaix26356. Найдено в GitHub Trending (AI-тематика). ⭐ 92 звёзд.",
+    "url": "https://github.com/NuclearOrlaix26356/ai--manus",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1449140004",
+    "createdAt": "2026-11-07T23:47:16.211Z"
+  },
+  {
+    "slug": "ai-manus-github-25",
+    "title": "ai--manus",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.\n\nАвтор: SorenMonstersatyr54032. Найдено в GitHub Trending (AI-тематика). ⭐ 92 звёзд.",
+    "url": "https://github.com/SorenMonstersatyr54032/ai--manus",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1449140384",
+    "createdAt": "2026-11-07T23:47:16.211Z"
+  },
+  {
+    "slug": "ai-manus-github-26",
+    "title": "ai--manus",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.\n\nАвтор: CloudAssassin30642. Найдено в GitHub Trending (AI-тематика). ⭐ 92 звёзд.",
+    "url": "https://github.com/CloudAssassin30642/ai--manus",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1449126284",
+    "createdAt": "2026-11-07T23:47:16.211Z"
+  },
+  {
+    "slug": "sentient-your-coding-agent-shouldnt-be-a-black-box-hn",
+    "title": "Sentient, Your Coding Agent Shouldn't Be a Black Box",
+    "shortDescription": "after working quite rigorously for a few months with claude code, I found out that I was blindly approving permission requests for the sake…",
+    "fullDescription": "after working quite rigorously for a few months with claude code, I found out that I was blindly approving permission requests for the sake of progressing my projects, this led me to realize that coding agents generate hundreds of commands underneath the covers which is necessary, but quite scary if you ask me. you&#x27;ve probably seen news recently about agents deleting databases or environments in production by accident. so i wanted to create something to gain visibility into what&#x27;s actually happening and potentially block things before they occur. coding agents often log everything that they&#x27;re doing, but even still, i want the ground level truth of what&#x27;s happening. that&#x27;s why i created sentient, written using claude code. it&#x27;s open source (mit license), runs completely locally, no cloud syncing, read only, and watches actions straight from the kernel. all of this is summarized with a hopefully simple web ui. i run claude code on linux, so kernel tracking relies on tetragon, but, at the same time, i am trying to get approval to use security endpoint on mac, and will eventually roll out on windows. if you want to run sentient today against just the agent logs without kernel logs, that&#x27;s also available now, you just need golang and sqlite3 to build. and today, i&#x27;m only supporting claude code, but will eventually get to codex and the like. please have a try, ping me if you have any questions or comments: hello@nosaka.ai https:&#x2F;&#x2F;github.com&#x2F;nosaka4i&#x2F;sentient https:&#x2F;&#x2F;nosaka.ai&#x2F;blog&#x2F;sentient\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://nosaka.ai/sentient/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50409020",
+    "createdAt": "2026-11-07T23:47:13.065Z"
+  },
+  {
+    "slug": "modelsdev-index-on-a-globe-hn",
+    "title": "Models[.]Dev Index on a Globe",
+    "shortDescription": "Three markers: Labs, where each AI company is based Models, fanned out around their lab Providers, where a model is served. Labs with a rel…",
+    "fullDescription": "Three markers: Labs, where each AI company is based Models, fanned out around their lab Providers, where a model is served. Labs with a release in the last 15 days pulse. Open source--&gt; github --&gt; aunai-org --&gt; modex Disclaimer: Modex is an open-source app built on the models.dev index, provided by opencode. The app itself is not affiliated with opencode, and is not an opencode product.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://modex.aunai.org/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50408474",
+    "createdAt": "2026-11-07T23:47:13.065Z"
+  },
+  {
+    "slug": "nlp-capabilities-of-opus-astra-argon-measured-by-codenames-skills-hn",
+    "title": "NLP capabilities of Opus, Astra, Argon measured by Codenames skills",
+    "shortDescription": "Hello Show HN, I&#x27;m a college student, and I enjoy playing word games like Codenames, but it can be hard sometimes to find enough peopl…",
+    "fullDescription": "Hello Show HN, I&#x27;m a college student, and I enjoy playing word games like Codenames, but it can be hard sometimes to find enough people to play when everyone is available, so I made an app that allows you to fill any seat with an AI teammate and also play against AI. This way it allows for people to get the full strategic experience of codenames just on their own. Through this experiment, I was also able to measure and benchmark a few different LLMs through AWS Bedrock API calls and give them ELO ratings based on stuff like win rate and clue&#x2F;guess accuracy. If anyone is interested, they can see more about my benchmarking methodology here: https:&#x2F;&#x2F;wordspies.com&#x2F;hn#method . I think it&#x27;s pretty interesting because it gives you a lot of insight into these various LLMs&#x27; NLP capabilities. A few interesting stats were that I rated Gemini 4 Argon at 1775, GPT-6.1 Sol at 1744, GPT-6 Astra at 1723, Claude Fable 5.1 at 1623, and Claude Opus 5.5 at 1592. There are quite a few interesting things you&#x27;ll find from there, like how, although newer and more expensive models tend to perform better, there are some rare exceptions, like Kimi K2.5 slightly edging out Kimi K3. Check the site out if you&#x27;re interested in NLP and data science and would like to see what level of frontier LLMs you can successfully beat!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://wordspies.com/hn",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50408419",
+    "createdAt": "2026-11-07T23:47:13.066Z"
+  },
+  {
+    "slug": "an-offline-desktop-companion-to-help-maintain-a-healthy-blink-rhythm-hn",
+    "title": "An offline desktop companion to help maintain a healthy blink rhythm",
+    "shortDescription": "Profession like software engineer, mechanical &#x2F; graphics designer takes a lot of strain on your eyes, observing minute details for hou…",
+    "fullDescription": "Profession like software engineer, mechanical &#x2F; graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate which you might not even notice until it gets irreversibly painful, leaving you with dry eyes. I am already a victim of it, working 20 years as a research engineer in computer vision, zooming into pixel level details to hand craft algorithms. Now the doctors says its only regular use of lubricating drops can keep your eyes safe. Now with AI and available fantastic libraries it&#x27;s possible to play safe so that your body does not pay the price of your profession. EyesRhythm is build to help you keep the blink rhythm healthy by giving small audio &#x2F; visual indication to maintain healthy blink rhythm not just by monitoring healthy blink rate but also keeping a watch on how rhythmic they are. EyeRhythm also has a visual log for the neck movement. It is also capable to automatically track the face using multiple webcams that you might have on your working desk to get the best view of your eyes for accurate blink detection. Most importantly it works completely local no internet required.\n\nНайдено в разделе Show HN на Hacker News. 👍 14 баллов.",
+    "url": "https://eyesrhythm.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50408350",
+    "createdAt": "2026-11-07T23:47:13.066Z"
+  },
+  {
+    "slug": "conductor-sold-to-meta-rebuilding-the-app-3-days-170-mit-hn",
+    "title": "Conductor sold to Meta. Rebuilding the app (3 days, $170) (MIT)",
+    "shortDescription": "Re: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50369503#50370152 --- Still more to do, and lots of kinks to be worked out, but Con…",
+    "fullDescription": "Re: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50369503#50370152 --- Still more to do, and lots of kinks to be worked out, but Conductor 0.92.1’s own frontend can run on this project’s Rust shell and sidecar. Every one of its on-screen strings, native commands and sidecar methods is matched or listed as a deliberate difference. On scripted scenarios, this project’s sidecar produces the same events as Conductor’s. Deliberate differences are documented in docs&#x2F;decisions.md. Built with Opus 5.5 orchestrating Deepseek-flash agents with Umbel and Pleach (see plotplot.ai) with Sonnet reviewing each batch and Opus fixing what the reviews found. Size: about 197,000 lines of TypeScript and Rust, not counting tests. Cost: About ~50 USD of DeepSeek plus ~70% of a weekly Claude 20x subscription. PS: Oh, and it duplicates some of their cloud functionality by running agents on cloudflare workers&#x2F;containers\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/jahala/conducted/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50407925",
+    "createdAt": "2026-11-07T23:47:13.066Z"
+  },
+  {
     "slug": "ai-manus-github-23",
     "title": "ai--manus",
     "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
