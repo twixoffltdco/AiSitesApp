@@ -1,5 +1,75 @@
 [
   {
+    "slug": "ai-manus-github-22",
+    "title": "ai--manus",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.\n\nАвтор: LumiVikinggard89137. Найдено в GitHub Trending (AI-тематика). ⭐ 82 звёзд.",
+    "url": "https://github.com/LumiVikinggard89137/ai--manus",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1449122426",
+    "createdAt": "2026-11-07T16:04:50.652Z"
+  },
+  {
+    "slug": "specstream-a-web-search-api-for-questions-with-many-answers-hn",
+    "title": "SpecStream, a web search API for questions with many answers",
+    "shortDescription": "Проект «SpecStream, a web search API for questions with many answers», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «SpecStream, a web search API for questions with many answers», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://specstream.ai/search-api",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50405189",
+    "createdAt": "2026-11-07T16:04:50.553Z"
+  },
+  {
+    "slug": "solous-a-journaling-app-like-a-social-media-for-emotions-inside-of-you-hn",
+    "title": "Solous, a journaling app like a social media for emotions inside of you",
+    "shortDescription": "Solous is a private journaling app. This app is inspired by movies like inside out or Yumi&#x27;s Cells where we all have emotions inside u…",
+    "fullDescription": "Solous is a private journaling app. This app is inspired by movies like inside out or Yumi&#x27;s Cells where we all have emotions inside us. When we write it is one of our emotions writing it. We want to talk to ourselves between these debating ideas and emotions. We are solo but also there are persons inside us. That&#x27;s where the name is from solo-us. In Solous, you can reply to your own message anytime. It supports normal stuff like tag and search. I try to make it as secure as possible with e2ee as an option. I am the sole builder of the app. I built this app mostly for myself in my free time with Claude. Yes I vibed 100% but I am familiar with aws and python, I am a decent programmer. It is true that these days, everyone can do that. But it still takes time and effort to make it run smoothly and polish features and make it easy to use. I don&#x27;t believe the future of software is everyone vibe their own stuff. The most efficient way is still to use several good apps. I think there may be more diversity instead of everyone use app store or play store. Because it is made for myself, it has no reminder emails, sometimes, I even don&#x27;t journal for days, but I feel good when I write one. I think it is good to record what happened in life. Especially when I feel bad. And it is private, it has two factor login, security keys such as face id or whatever you use to unlock your phone, and it has optional end to end encryption. At first I want to make it default, but then I realized it takes some time to setup and maybe it will reduce conversion. so I leave it for whoever care about privacy. The app is free for now. For free tier, there is 1GB limit on uploads and how many journaling you can do (if you write on your own not using ai, you will be ok with free tier). Later I will charge money if you need more space and maybe if you want to give me more money, you can become member and maybe I will open some private features for members or provide more customization options. That&#x27;s the idea. I will be around today, please try and let me know. Thank you!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://solous.net/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50404884",
+    "createdAt": "2026-11-07T16:04:50.553Z"
+  },
+  {
+    "slug": "i-made-a-guardrail-against-ai-outreach-slop-apimcp-hn",
+    "title": "I made a guardrail against AI outreach slop (API/MCP)",
+    "shortDescription": "Проект «I made a guardrail against AI outreach slop (API/MCP)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I made a guardrail against AI outreach slop (API/MCP)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://maildignity.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50404494",
+    "createdAt": "2026-11-07T16:04:50.553Z"
+  },
+  {
     "slug": "ai-manus-github-13",
     "title": "ai--manus",
     "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
