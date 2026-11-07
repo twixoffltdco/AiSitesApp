@@ -1,5 +1,43 @@
 [
   {
+    "slug": "ai-manus-github-23",
+    "title": "ai--manus",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.\n\nАвтор: Omegacoral. Найдено в GitHub Trending (AI-тематика). ⭐ 92 звёзд.",
+    "url": "https://github.com/Omegacoral/ai--manus",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1449127176",
+    "createdAt": "2026-11-07T20:23:58.952Z"
+  },
+  {
+    "slug": "trendalyse-explore-ideas-with-google-trends-and-ai-hn",
+    "title": "Trendalyse – Explore Ideas with Google Trends and AI",
+    "shortDescription": "Проект «Trendalyse – Explore Ideas with Google Trends and AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Trendalyse – Explore Ideas with Google Trends and AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://trendalyse.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50406012",
+    "createdAt": "2026-11-07T20:23:58.805Z"
+  },
+  {
     "slug": "ai-manus-github-22",
     "title": "ai--manus",
     "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
