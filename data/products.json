@@ -1,5 +1,113 @@
 [
   {
+    "slug": "ai-manus-github-11",
+    "title": "ai-manus",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.\n\nАвтор: Abdoandqsnk. Найдено в GitHub Trending (AI-тематика). ⭐ 44 звёзд.",
+    "url": "https://github.com/Abdoandqsnk/ai-manus",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1448598421",
+    "createdAt": "2026-11-07T02:31:39.614Z"
+  },
+  {
+    "slug": "ai-manus-github-12",
+    "title": "ai-manus",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.\n\nАвтор: Kolg123. Найдено в GitHub Trending (AI-тематика). ⭐ 44 звёзд.",
+    "url": "https://github.com/Kolg123/ai-manus",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1448597746",
+    "createdAt": "2026-11-07T02:31:39.614Z"
+  },
+  {
+    "slug": "i-built-an-ai-photo-editor-powered-by-gpt-image-26-hn",
+    "title": "I built an AI photo editor powered by GPT-Image-2.6",
+    "shortDescription": "Проект «I built an AI photo editor powered by GPT-Image-2.6», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built an AI photo editor powered by GPT-Image-2.6», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://getaiphotoeditor.com/",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50400968",
+    "createdAt": "2026-11-07T02:31:39.530Z"
+  },
+  {
+    "slug": "select-ai-agents-that-earn-autonomy-through-verified-work-hn",
+    "title": "Select – AI agents that earn autonomy through verified work",
+    "shortDescription": "Проект «Select – AI agents that earn autonomy through verified work», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Select – AI agents that earn autonomy through verified work», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Kirby54/Select",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50400882",
+    "createdAt": "2026-11-07T02:31:39.530Z"
+  },
+  {
+    "slug": "we-filmed-a-bird-themed-iliad-using-mallard-hn",
+    "title": "We filmed a bird-themed Iliad using mallard",
+    "shortDescription": "Explore how we made it: https:&#x2F;&#x2F;mallard-ai.com&#x2F;Rika321&#x2F;Homer Download mallard for free and help us make a bird-themed O…",
+    "fullDescription": "Explore how we made it: https:&#x2F;&#x2F;mallard-ai.com&#x2F;Rika321&#x2F;Homer Download mallard for free and help us make a bird-themed Odyssey next!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://mallard-ai.com/Rika321/Homer?tab=files&file=The_Iliad_Complete.mp4",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50400854",
+    "createdAt": "2026-11-07T02:31:39.531Z"
+  },
+  {
+    "slug": "goethe-the-infrastructure-for-self-hosted-ai-hn",
+    "title": "Goethe – The infrastructure for self-hosted AI",
+    "shortDescription": "Hey, we launched Goethe, because deploying models on hardware you control end-to-end is pain in the ass. Goethe is like Vercel, but for AI…",
+    "fullDescription": "Hey, we launched Goethe, because deploying models on hardware you control end-to-end is pain in the ass. Goethe is like Vercel, but for AI models and hardware. It manages your models and hardware you point it and runs corresponding optimal inference. -- install it -- deploy any model you want -- get an API you can use with any client securely\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://github.com/meshapplied/Goethe",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50400374",
+    "createdAt": "2026-11-07T02:31:39.531Z"
+  },
+  {
     "slug": "ai-manus-github",
     "title": "ai-manus",
     "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
