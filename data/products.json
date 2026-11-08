@@ -1,5 +1,101 @@
 [
   {
+    "slug": "an-open-source-ide-for-software-architecture-hn",
+    "title": "An open-source IDE for software architecture",
+    "shortDescription": "Now, with this open-source tool everyone can learn,build,share,and validate the system design. This is next step, drawing design on blank p…",
+    "fullDescription": "Now, with this open-source tool everyone can learn,build,share,and validate the system design. This is next step, drawing design on blank page to making it a workflow . Do explore and let me know how it is...\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/swiftbuild-ai/swiftbuild",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50412135",
+    "createdAt": "2026-11-08T11:26:16.332Z"
+  },
+  {
+    "slug": "stardeltio-a-self-hosted-lakehouse-on-k8s-pre-alpha-hn",
+    "title": "stardelt.io – a self-hosted lakehouse on k8s (pre-alpha)",
+    "shortDescription": "I am pretty honest: there are a ton of vibecoded projects around, and I made another one... great huh? I&#x27;m working as a data platform…",
+    "fullDescription": "I am pretty honest: there are a ton of vibecoded projects around, and I made another one... great huh? I&#x27;m working as a data platform engineer in Germany. My day job is basically spinning up &amp; running lakehouse platforms on US hyperscalers for SMB and some DAX companies. I mean, data engineers like to work on these platforms but since some time I really have ethical concerns about it - like: - vendor lock-in - high costs (because of cloud costs - and in most cases you are not able to connect your own metal if you have one) - non-EU vendors... - other open-source solutions have high license costs for LDAP etc. pp. That&#x27;s why is started to build my own opinionated data lakehouse platform in my spare time (tbh I also started learning agentic engineering and what harnesses are..), only curated from open source projects already available. The building blocks are pretty straightforward imo: - Iceberg tables on whatever S3 storage you already have - Trino for SQL and Spark Connect for jobs - Airflow for schedules, plus notebooks, Kafka streams and dashboards - One web UI and one API over all of it - stuff around like OIDC, secrets management etc. It&#x27;s fully pre-alpha. But I want to use it as an internal pitch project at my current employer to push agentic engineering &amp; the idea of creating our own data platform for our non-hyperscaler customers. Site: https:&#x2F;&#x2F;stardelt.io Code: https:&#x2F;&#x2F;github.com&#x2F;stardelt I&#x27;m happy to hear what you think about it :) Cheers, Martin\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://stardelt.io/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50411800",
+    "createdAt": "2026-11-08T11:26:16.333Z"
+  },
+  {
+    "slug": "ramen-an-ai-agent-that-has-to-earn-its-own-rent-hn",
+    "title": "Ramen – an AI agent that has to earn its own rent",
+    "shortDescription": "Проект «Ramen – an AI agent that has to earn its own rent», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Ramen – an AI agent that has to earn its own rent», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://usdt-kit-production.up.railway.app/ramen",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50411182",
+    "createdAt": "2026-11-08T11:26:16.333Z"
+  },
+  {
+    "slug": "i-built-an-ai-code-editor-that-for-teams-hn",
+    "title": "I built an AI code editor that for teams",
+    "shortDescription": "I built an open-source AI code editor for team collaboration, featuring a built-in sprint board and the ability to assign tasks to differen…",
+    "fullDescription": "I built an open-source AI code editor for team collaboration, featuring a built-in sprint board and the ability to assign tasks to different agents. I’d love to get your feedback and suggestions! PR and issues are very welcome\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.rxcode.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50410855",
+    "createdAt": "2026-11-08T11:26:16.333Z"
+  },
+  {
+    "slug": "codend-build-and-publish-web-apps-with-ai-agents-hn",
+    "title": "Codend – Build and publish web apps with AI agents",
+    "shortDescription": "Проект «Codend – Build and publish web apps with AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Codend – Build and publish web apps with AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://codend.dev",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50410758",
+    "createdAt": "2026-11-08T11:26:16.333Z"
+  },
+  {
+    "slug": "reges-code-a-free-ai-code-editor-that-runs-on-local-models-hn",
+    "title": "Reges Code – a free AI code editor that runs on local models",
+    "shortDescription": "Проект «Reges Code – a free AI code editor that runs on local models», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Reges Code – a free AI code editor that runs on local models», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://regescode.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50410429",
+    "createdAt": "2026-11-08T11:26:16.333Z"
+  },
+  {
     "slug": "manus-ai-github",
     "title": "manus-ai",
     "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
