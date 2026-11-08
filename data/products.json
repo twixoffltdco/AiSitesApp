@@ -1,5 +1,91 @@
 [
   {
+    "slug": "livewall-live-wallpaper-for-desktop-github",
+    "title": "LiveWall---Live-Wallpaper-For-Desktop",
+    "shortDescription": "AI-проект с GitHub без описания.",
+    "fullDescription": "AI-проект с GitHub без описания.\n\nАвтор: elunboundfiremail. Найдено в GitHub Trending (AI-тематика). ⭐ 311 звёзд.",
+    "url": "livewall.lol",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "api",
+      "audio-responsive-wallpapers",
+      "automation",
+      "awesome",
+      "customization",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1450239674",
+    "createdAt": "2026-11-08T21:17:38.040Z"
+  },
+  {
+    "slug": "apc-playground-stop-ai-agents-from-modifying-your-api-tool-calls-hn",
+    "title": "APC Playground – Stop AI agents from modifying your API tool calls",
+    "shortDescription": "Проект «APC Playground – Stop AI agents from modifying your API tool calls», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «APC Playground – Stop AI agents from modifying your API tool calls», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://playground.alephapc.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50416757",
+    "createdAt": "2026-11-08T21:17:37.808Z"
+  },
+  {
+    "slug": "vynyo-ai-creative-studio-for-hairstyle-image-and-video-hn",
+    "title": "Vynyo – AI creative studio for hairstyle, image and video",
+    "shortDescription": "Проект «Vynyo – AI creative studio for hairstyle, image and video», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Vynyo – AI creative studio for hairstyle, image and video», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://vynyo.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50416470",
+    "createdAt": "2026-11-08T21:17:37.808Z"
+  },
+  {
+    "slug": "is-your-product-ai-slop-hn",
+    "title": "Is your product AI slop?",
+    "shortDescription": "Проект «Is your product AI slop?», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Is your product AI slop?», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://slopcalculator.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50415740",
+    "createdAt": "2026-11-08T21:17:37.808Z"
+  },
+  {
+    "slug": "psi-a-64-mb-cross-platform-portable-coding-agent-in-ansi-c-lua-hn",
+    "title": "psi, a 6.4 MB cross-platform portable coding agent in ANSI C & Lua",
+    "shortDescription": "Проект «psi, a 6.4 MB cross-platform portable coding agent in ANSI C & Lua», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «psi, a 6.4 MB cross-platform portable coding agent in ANSI C & Lua», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://psicode.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50415406",
+    "createdAt": "2026-11-08T21:17:37.808Z"
+  },
+  {
     "slug": "ai-manus-github-30",
     "title": "ai-manus",
     "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
