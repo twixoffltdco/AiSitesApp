@@ -1,5 +1,233 @@
 [
   {
+    "slug": "0rwxcom-github",
+    "title": "0rwx.com",
+    "shortDescription": "AI-проект с GitHub без описания.",
+    "fullDescription": "AI-проект с GitHub без описания.\n\nАвтор: NamtaoProductions. Найдено в GitHub Trending (AI-тематика). ⭐ 68 звёзд.",
+    "url": "https://namtaoproductions.github.io/0rwx.com/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "brainmade",
+      "framework",
+      "thinking",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1449197810",
+    "createdAt": "2026-11-09T18:59:52.099Z"
+  },
+  {
+    "slug": "search-17-years-of-what-are-you-working-on-hn",
+    "title": "Search 17 years of \"What are you working on?\"",
+    "shortDescription": "Inspired by Karpathy&#x27;s HackerTube, I wondered what was buried in &quot;What are you working on?&quot; thread comments. I wanted to see…",
+    "fullDescription": "Inspired by Karpathy&#x27;s HackerTube, I wondered what was buried in &quot;What are you working on?&quot; thread comments. I wanted to see what changed, and who was still at it years later. So, I built this site to answer some of those questions. A couple of things you can do: type in your idea and see who already tried it, look up your username and see what you were working on in 2020, see who’s been working on the same thing for a decade, or what founders posted before they had a company. I built it using Claude Code. Claude Sonnet read all 20,982 top-level replies and pulled out a name, description, topic and how AI was involved. One finding is that AI went from 1% of answers in 2009–11 to 33% this year. A few limits of the result: labels are model output, and I only spot-checked them. The HN thread only went monthly in 2024, so early years are thin. If I’ve mislabeled your project, or you’d rather not be included, please tell me. If you’ve been posting here for years, I’d love to hear what happened to those projects.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://stillworkingonit.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50429960",
+    "createdAt": "2026-11-09T18:59:51.937Z"
+  },
+  {
+    "slug": "mergeatlas-a-better-way-to-review-prs-hn",
+    "title": "MergeAtlas – A better way to review PRs",
+    "shortDescription": "Hey HN community, I built MergeAtlas - a better way to review PRs when bulk of the code is written by AI agents. It is a skill for your cod…",
+    "fullDescription": "Hey HN community, I built MergeAtlas - a better way to review PRs when bulk of the code is written by AI agents. It is a skill for your coding agent plus a small python script. MergeAtlas was built from a simple premise - When AI agents are writing the code, there&#x27;s no need to review every single line of code. Instead it is better to understand the intent, important lines, and the blast radius. MergeAtlas helps you see the intents behind file changes, understand why each file was changed, and PR&#x27;s scope all before you read a single line of code. When you are ready to read the code, MergeAtlas singles out the key lines from each file, so you are only focused on the most important lines. It goes further than GitHub&#x27;s Files Changed tab as it also determines what files outside of the PR are affected by the changes. I tuned the skill till I was satisfied with the result in terms of structure, explanations, and verbosity. There&#x27;s a live demo on the website based on an actual PR from excalidraw. Play around with it, and any feedback is welcome. Github: https:&#x2F;&#x2F;github.com&#x2F;ismayilkarimli&#x2F;MergeAtlas\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://mergeatlas.dev/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50429817",
+    "createdAt": "2026-11-09T18:59:51.937Z"
+  },
+  {
+    "slug": "ste80-humanizer-de-ai-text-by-writing-80-of-the-way-to-asd-ste100-hn",
+    "title": "STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+    "shortDescription": "Проект «STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Dodaios/ste80-humanizer",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50429144",
+    "createdAt": "2026-11-09T18:59:51.937Z"
+  },
+  {
+    "slug": "we-gave-ai-coding-agents-production-memory-hn",
+    "title": "We Gave AI Coding Agents Production Memory",
+    "shortDescription": "Hi HN, I’m building Codela to help coding agents learn from what happens after their code ships. I realized that my AI agent writes a chang…",
+    "fullDescription": "Hi HN, I’m building Codela to help coding agents learn from what happens after their code ships. I realized that my AI agent writes a change, the tests pass, and it gets deployed. Then in production a problem happens, I fix it, but what it did wrong and why never reaches the agent, so futures session usually make the same mistake. Codela checks every deploy against how your app actually behaves in production, learns from the ones that broke it, and teaches your agents so they don’t repeat the mistake. Would love any feedback on this, thanks!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://usecodela.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50428670",
+    "createdAt": "2026-11-09T18:59:51.937Z"
+  },
+  {
+    "slug": "venzx-pause-ai-agent-tool-calls-until-a-human-approves-hn",
+    "title": "Venzx – Pause AI agent tool calls until a human approves",
+    "shortDescription": "Проект «Venzx – Pause AI agent tool calls until a human approves», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Venzx – Pause AI agent tool calls until a human approves», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://venzx.com/try",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50428496",
+    "createdAt": "2026-11-09T18:59:51.938Z"
+  },
+  {
+    "slug": "a-visualization-map-of-the-funding-of-public-companies-hn",
+    "title": "A visualization map of the funding of public companies",
+    "shortDescription": "I made this webapp (vibecoded) with Meta&#x27;s AI models during the Meta AI hackathon that just ended (Oct 26-Nov 4). So far it contains p…",
+    "fullDescription": "I made this webapp (vibecoded) with Meta&#x27;s AI models during the Meta AI hackathon that just ended (Oct 26-Nov 4). So far it contains public 33,000 companies, and 100k+ &#x27;flows&#x27;. A company X has a flow to another company Y if X funds Y or owns its shares, or vice versa. It collects business data from SEC&#x27;s EDGAR (Electronic Data Gathering, Analysis, and Retrieval), Wikidata company lists, and other regional company indices of Europe and Asia to build a database of companies to display on the map. SEC provides financial information liberally, while for the European counterpart I didn&#x27;t find an equivalent yet. I geocoded the business addresses using OpenStreetMap&#x27;s Nominatim (hopefully that doesn&#x27;t break their terms somehow; I love OSM). But it was slow... (1 API call = 1 address translation per second; I did not have the time&#x2F;space to download the whole Nominatim database.) There&#x27;s also this amazing database from OpenAlex, where you can see billions of connections between funders and research institutions, authors, and OpenAccess papers. It&#x27;s a continuation of Microsoft Academic Graph, which was discontinued in 2021. It&#x27;s a goldmine for studying study financing &#x2F; grants, and their API allowances are great, and very clear. I made that a part of the app too (just on a small scale). You can increase the sliders on the top right to increase the scope of data shown. It needs to be raised to show the university grant data (will fix it soon, AI kept failing on this). It was pretty fun building it. There are amazing APIs for this type of work online (free), like from the SEC, Wikidata, some European company indices, though seemingly the hardest part was getting AI to read the API terms and rate limit the API calls interestingly. I think the most fun I had was because I used a non-Claude(?) model, I had to continuously reprompt things that it did not get right intuitively on its own, but I had the sense to know what was broken, so it felt like the fun of programming. I&#x27;d say this is my first vibecoded project so maybe that fun dies away soon after. I want to incorporate private company information, donations , or big individual share holders&#x27; data into the charts too. I think it&#x27;d be cool to see who are some of the individual owners of large portions of the public companies. I&#x27;m not sure how to source the info for the private companies yet though, I&#x27;ll look into it later. Again, you can search for companies by their name, address, Stock Exchange ticker, etc. Right now the data is quite static, but I want to make it dynamic eventually with daily or bi-weekly data ingestion for the latest data. As it stands, it&#x27;s just a pretty visualization, with lots of company data still missing, but nonetheless it&#x27;s kind of fun to explore. There&#x27;s a demo in the GitHub; if anyone has thoughts or any advice, I&#x27;d love to read them. Thanks!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/feeRnt/whofundsit/tree/post_demo_cloudflare_cdn",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50428274",
+    "createdAt": "2026-11-09T18:59:51.938Z"
+  },
+  {
+    "slug": "native-tcltk-wayland-and-android-port-hn",
+    "title": "Native Tcl/Tk Wayland and Android Port",
+    "shortDescription": "Native Wayland for Tk was proposed years ago as a hard GSoC project ( https:&#x2F;&#x2F;wiki.tcl-lang.org&#x2F;page&#x2F;GSoC+Idea%3A+Tk+Ba…",
+    "fullDescription": "Native Wayland for Tk was proposed years ago as a hard GSoC project ( https:&#x2F;&#x2F;wiki.tcl-lang.org&#x2F;page&#x2F;GSoC+Idea%3A+Tk+Backend+for+t... ) - and let&#x27;s be honest, it&#x27;s very hard for humans. Turns out AI cracks it in a few hours. Claude was given the freedom to make its choices from top to bottom, including stack and architecture. It came up with a thin X11 emulation layer, the same approach Tk&#x27;s macOS and Windows ports already take - except this one is shared by Wayland and Android thanks to their similarity. The human in the loop merely tested and sanity-checked the outcome to her unexpected satisfaction. Tkabber (a large, long-lived XMPP client) runs on the Wayland port unaltered, and on Android with one small fix. Unlike AndroWish (an SDL-based Tcl&#x2F;Tk distribution for Android), this is a backend inside Tk itself, shared with the Wayland port: Cairo&#x2F;HarfBuzz drawing, with touch and the on-screen keyboard handled in generic Tk through new commands and events. If you want to experience an anachronism, you can try the APK of the Tk demo with an added multitouch example ( https:&#x2F;&#x2F;github.com&#x2F;pounceandmiss&#x2F;tk-wayland&#x2F;releases&#x2F; ), and full-on Tkabber on Android ( https:&#x2F;&#x2F;github.com&#x2F;pounceandmiss&#x2F;tkabber-demo&#x2F;releases&#x2F; ).\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/pounceandmiss/tkabber-demo",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50426474",
+    "createdAt": "2026-11-09T18:59:51.938Z"
+  },
+  {
+    "slug": "kiosk-a-first-class-ai-assistants-intefrace-to-online-services-hn",
+    "title": "Kiosk, a first-class AI assistants' intefrace to online services",
+    "shortDescription": "Hey, hackers! After failing to effectively order groceries at a local store with my Hermes assistant, I got an idea of making an all-inclus…",
+    "fullDescription": "Hey, hackers! After failing to effectively order groceries at a local store with my Hermes assistant, I got an idea of making an all-inclusive interface to access online services. It&#x27;s a sidecar to an online service backend, a bit more compared to &quot;just exposing the API&quot;. Out of the box: discovery, registration, memory-hard proof-of-work to repell scrapers, payments, server-sent events, prototype KYC integration. I&#x27;ve built a few demos that you can try. Links and prompts to use are on the landing page. The reference implementation is in Ruby on Rails, something I know well. But there&#x27;s nothing preventing from implementing the same for another platform. Honest disclosure: it is initially vibe-coded, but I&#x27;ve manually reviewed almost every part of it. Eager to know what you think about.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://kiosk.tech/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50426314",
+    "createdAt": "2026-11-09T18:59:51.938Z"
+  },
+  {
+    "slug": "traderwai-mcp-server-for-ai-agents-to-backtesttrade-on-your-broker-hn",
+    "title": "TraderWAI – MCP server for AI agents to backtest/trade on your broker",
+    "shortDescription": "Проект «TraderWAI – MCP server for AI agents to backtest/trade on your broker», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «TraderWAI – MCP server for AI agents to backtest/trade on your broker», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/leonardo-mazzitelli/traderwai-agent-recipes",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50426141",
+    "createdAt": "2026-11-09T18:59:51.938Z"
+  },
+  {
+    "slug": "isbn-books-in-claude-hn",
+    "title": "ISBN Books in Claude",
+    "shortDescription": "Проект «ISBN Books in Claude», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ISBN Books in Claude», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://claude.ai/artifact/Q97dQ1R6C2qRt4mvqKmiDD",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50425901",
+    "createdAt": "2026-11-09T18:59:51.938Z"
+  },
+  {
+    "slug": "askaboard-a-canvas-your-ai-agent-can-draw-on-hn",
+    "title": "Askaboard – A canvas your AI agent can draw on",
+    "shortDescription": "Проект «Askaboard – A canvas your AI agent can draw on», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Askaboard – A canvas your AI agent can draw on», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://askaboard.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50425494",
+    "createdAt": "2026-11-09T18:59:51.938Z"
+  },
+  {
+    "slug": "sortaballs-v2-logical-game-with-10-modes-and-over-1000-puzzles-hn",
+    "title": "Sortaballs v2 – logical game with 10 modes and over 1000 puzzles",
+    "shortDescription": "I built a browser ball-sort puzzler where levels are ordered by difficulty, starting from the easiest. I experimented with several alternat…",
+    "fullDescription": "I built a browser ball-sort puzzler where levels are ordered by difficulty, starting from the easiest. I experimented with several alternative modes with the aim to have similar complexity in other environments. Each mode has its own restrictions, which gives additional challenge for each user to find its favorite mode. Features: - 10 different game modes; over 1000 levels combined - near-win finish — preemptively calculates win conditions to skip redundant endgame moves - dynamic hints about hardest and easiest color - very helpful on hard modes - hints — ask for the next correct move when a puzzle is too hard - undo, restart, per-puzzle progress saved in your browser - customize shape and styling of balls - dark&#x2F;light theme - Offline friendly; no registration, no ads\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://sortaballs.vercel.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50424695",
+    "createdAt": "2026-11-09T18:59:51.938Z"
+  },
+  {
+    "slug": "timescroll-an-open-source-local-replacement-for-rewind-on-mac-hn",
+    "title": "TimeScroll – an open-source, local replacement for Rewind on Mac",
+    "shortDescription": "Hi HN, I&#x27;ve been building TimeScroll since September 2025. It&#x27;s a Mac app that records your screen in the background, so you can…",
+    "fullDescription": "Hi HN, I&#x27;ve been building TimeScroll since September 2025. It&#x27;s a Mac app that records your screen in the background, so you can scroll back through your day or search for anything you&#x27;ve seen. It is local and open-source. The key features are introduced on the site, so I&#x27;ll try to reduce the repetition in this post. My motivation for building was (1) Rewind shutting down and the lack of alternatives that are as polished and direct; (2) Most apps like this (including Rewind really) are super CPU and storage intensive, to the point of having a noticeable impact on your battery life. I identified a few issues with the &#x27;standard&#x27; way of capturing and made it a point to fix them in this app. 1. The part I spent the most time on is how the text gets captured. Basically all the apps run OCR on every screenshot, which means the heavy OCR step will always take a certain amount of CPU. I noticed that the text is already inside the apps, so I took the completely different approach of reading it through the macOS Accessibility API instead (which I call Direct mode). It has big advantages - gets the exact text with no misread characters, along with the position of each line, and it&#x27;s much cheaper than OCR. The problem was that Chrome and Electron apps don&#x27;t work very well with it, as they wouldn&#x27;t create an accessibility tree unless requested, so I needed to set AXManualAccessibility attribute. Also, the text can be buried under many layers of the tree, so I have to write logic to traverse the tree within a time limit and capture as much useful text as possible. I haven&#x27;t seen any screen capture app do these, so I had to figure most of it out on my own. There are also a lot of implementation details - like first computing which windows are on each display and which parts of them are visible on screen. Ultimately, my measurements were around 9ms of CPU time to read a frame initially, but on subsequent reads, it can go as low as 0.4 ms. The newest feature is summaries. You can select any range on the timeline and get your time in each app plus a written summary from a local model through Ollama. The main implementation trick used in the summary is (1) dividing the usage into &#x27;sessions&#x27; using heuristics and (2) using the existing embeddings (from AI search) to choose a few representative screens to pass to the model. 2. Storage optimizations. I chose HEVC video to store the snapshots with one &quot;segment&quot; file per minute. The encoding process was something I needed to tune over time. Currently, I am using a constant quality setting with one keyframe per segment. On text-heavy frames, the approach I used managed to reduce it from 84 KB per frame to 20 KB, at slightly better quality. There is also a lot of duplicate text that would multiply the storage use if stored for each snapshot, so deduplication and compression were huge things to figure out. Needless to say, all of this took many tries to get right, especially working with extracting&#x2F;storing frames to the video files efficiently. The end result is that TimeScroll uses ~2GB&#x2F;month with normal daily usage and averages 1.1% CPU and 150-250MB memory on an M4 over a few days of normal use, whereas an older post about Rewind I found measured it to be &quot;200MB&#x2F;hour&quot; and 20% CPU, which is ... a lot in comparison. There are a lot of other things and approaches I tried that I can&#x27;t fit here, but anyways, I&#x27;d really like feedback, especially on Direct mode and on the newer features - hope you enjoy the app!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/XInTheDark/TimeScrollApp",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50424070",
+    "createdAt": "2026-11-09T18:59:51.938Z"
+  },
+  {
     "slug": "ai-manus-github-39",
     "title": "ai--manus",
     "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
