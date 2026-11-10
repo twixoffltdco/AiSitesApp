@@ -1,5 +1,245 @@
 [
   {
+    "slug": "sketchup-compatible-modeler-with-ai-capabilities-hn",
+    "title": "SketchUp compatible modeler with AI capabilities",
+    "shortDescription": "Try framing out a house, generating kitchen cabinets, or even populating an entire kitchen.",
+    "fullDescription": "Try framing out a house, generating kitchen cabinets, or even populating an entire kitchen.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://pushform.io/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50446986",
+    "createdAt": "2026-11-10T22:27:58.402Z"
+  },
+  {
+    "slug": "codelens-ai-augmented-code-review-tool-hn",
+    "title": "CodeLens AI-Augmented Code Review Tool",
+    "shortDescription": "As AI writes more code, the bottleneck has become human-driven code reviews. Code Lens serves to aid that task by augmenting the review out…",
+    "fullDescription": "As AI writes more code, the bottleneck has become human-driven code reviews. Code Lens serves to aid that task by augmenting the review outside of line-level AI feedback. Check it out and let me know what you think. Thanks. Try it on a public PR: npx @blong8334&#x2F;codelens pr https:&#x2F;&#x2F;github.com&#x2F;expressjs&#x2F;express&#x2F;pull&#x2F;7574\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/blong8334/codeLens",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50446651",
+    "createdAt": "2026-11-10T22:27:58.402Z"
+  },
+  {
+    "slug": "ai-agents-that-barter-your-stuff-for-things-you-want-hn",
+    "title": "AI agents that barter your stuff for things you want",
+    "shortDescription": "Проект «AI agents that barter your stuff for things you want», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI agents that barter your stuff for things you want», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://barterpilot.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50446649",
+    "createdAt": "2026-11-10T22:27:58.402Z"
+  },
+  {
+    "slug": "notebook-ai-local-first-meeting-notes-for-mac-hn",
+    "title": "Notebook AI – local-first meeting notes for Mac",
+    "shortDescription": "Проект «Notebook AI – local-first meeting notes for Mac», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Notebook AI – local-first meeting notes for Mac», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/sridharchaildn/notebook-ai",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50446588",
+    "createdAt": "2026-11-10T22:27:58.402Z"
+  },
+  {
+    "slug": "aisync-advisory-file-claims-so-two-ai-agents-dont-edit-one-repo-hn",
+    "title": "Aisync, advisory file claims so two AI agents don't edit one repo",
+    "shortDescription": "Проект «Aisync, advisory file claims so two AI agents don't edit one repo», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Aisync, advisory file claims so two AI agents don't edit one repo», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/MaxonT/aisync",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50446378",
+    "createdAt": "2026-11-10T22:27:58.402Z"
+  },
+  {
+    "slug": "cloakroom-keeps-secrets-away-from-agents-hn",
+    "title": "Cloakroom – Keeps secrets away from agents",
+    "shortDescription": "Cloakroom is an open-source privacy tool that masks secrets and sensitive data from AI agents. It swaps real values for placeholders, then…",
+    "fullDescription": "Cloakroom is an open-source privacy tool that masks secrets and sensitive data from AI agents. It swaps real values for placeholders, then swaps them back to the originals locally. I was trying to build a full on local LLM setup on my machine, but the local models were not up to the mark (at least, not yet). I ended up building a hybrid setup, with the cloud for planning and local models for execution. I realized I needed a privacy layer so cloud models could not access sensitive data, and I built Cloakroom. It runs on your machine, it’s cross-platform, and it works with Claude Code, Cursor, Gemini CLI, and Codex CLI.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/shanjeevrajendran/cloakroom",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50446007",
+    "createdAt": "2026-11-10T22:27:58.402Z"
+  },
+  {
+    "slug": "graphon-labs-now-leads-7-benchmarks-on-memory-and-raised-35m-series-a-hn",
+    "title": "Graphon Labs now leads 7 benchmarks on Memory and raised $35M Series-A",
+    "shortDescription": "Проект «Graphon Labs now leads 7 benchmarks on Memory and raised $35M Series-A», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Graphon Labs now leads 7 benchmarks on Memory and raised $35M Series-A», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.graphonlabs.ai/#benchmarks",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50445779",
+    "createdAt": "2026-11-10T22:27:58.402Z"
+  },
+  {
+    "slug": "zeus-claude-code-for-ai-voice-agents-hn",
+    "title": "Zeus – Claude Code for AI voice agents",
+    "shortDescription": "Проект «Zeus – Claude Code for AI voice agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Zeus – Claude Code for AI voice agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://thunderphone.com/blog/introducing-zeus",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50445758",
+    "createdAt": "2026-11-10T22:27:58.402Z"
+  },
+  {
+    "slug": "lovable-for-photoshop-hn",
+    "title": "Lovable for Photoshop",
+    "shortDescription": "Lovable for Photo Editing. Think of it like having an AI agent use photoshop in front of you. Just like with Lovable and vibe-coding, AI im…",
+    "fullDescription": "Lovable for Photo Editing. Think of it like having an AI agent use photoshop in front of you. Just like with Lovable and vibe-coding, AI image editing is getting popular because it allows people to create beautiful edits of their photos without that specific domain expertise. However, the problem with AI image editing approaches right now is that they regenerate the photo. This approach is prone to mistakes such as the image generation model adding or removing certain details, or introducing diffusion noise. And since it “edits” by regenerating the whole photo, it leaves little control for the user to tweak certain image editing parameters themselves. It is not a true edit. PixlPal believes that AI should instead use deterministic tools (like in photoshop) to truly edit the images directly. So I created a custom Rust engine that exposes tools&#x2F;APIs for an AI agent orchestrator to edit photos. The coolest part: I added a segmentation model that agents can call so it can select specific objects to apply specific transformations to as well.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://pixlpal.com/",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50444931",
+    "createdAt": "2026-11-10T22:27:58.402Z"
+  },
+  {
+    "slug": "ai-agents-found-an-unmapped-maya-site-in-mexico-hn",
+    "title": "AI agents found an unmapped Maya site in Mexico",
+    "shortDescription": "Проект «AI agents found an unmapped Maya site in Mexico», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI agents found an unmapped Maya site in Mexico», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://twitter.com/PietroMiotti/status/2120219901814043087",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50444623",
+    "createdAt": "2026-11-10T22:27:58.402Z"
+  },
+  {
+    "slug": "uplumo-see-which-pages-ai-answers-cite-hn",
+    "title": "Uplumo – See which pages AI answers cite",
+    "shortDescription": "I built Uplumo after working on hotel SEO. It shows which hotels AI recommends and whether it links to their own websites or booking platfo…",
+    "fullDescription": "I built Uplumo after working on hotel SEO. It shows which hotels AI recommends and whether it links to their own websites or booking platforms.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://uplumo.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50444480",
+    "createdAt": "2026-11-10T22:27:58.402Z"
+  },
+  {
+    "slug": "theoremsmith-mass-producing-hard-proof-problems-to-train-llms-hn",
+    "title": "TheoremSmith: Mass-Producing Hard Proof Problems to Train LLMs",
+    "shortDescription": "Making models better at formal verification will help push the boundaries of math research and significantly reduce the number of bugs in o…",
+    "fullDescription": "Making models better at formal verification will help push the boundaries of math research and significantly reduce the number of bugs in our code. Recently, training models on RL environments (tasks paired with verifiers that reward correct solutions) has driven big gains in model performance, and proofs are unusually easy to verify. Here we introduce TheoremSmith, a pipeline for generating synthetic formal verification environments. It reliably creates multi-hour, frontier-difficulty tasks and can scale throughput effectively. I&#x27;d appreciate any feedback, especially on ways models could still cheat the verifier, and on whether synthetic tasks like these are likely to help on real proofs. Code: https:&#x2F;&#x2F;github.com&#x2F;abundant-ai&#x2F;theoremsmith\n\nНайдено в разделе Show HN на Hacker News. 👍 7 баллов.",
+    "url": "https://charleshuang.me/2026/09/27/theoremsmith/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50444276",
+    "createdAt": "2026-11-10T22:27:58.403Z"
+  },
+  {
+    "slug": "fix-gate-verifies-security-fix-prs-incl-ai-written-ones-hn",
+    "title": "Fix Gate – verifies security-fix PRs, incl. AI-written ones",
+    "shortDescription": "Проект «Fix Gate – verifies security-fix PRs, incl. AI-written ones», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Fix Gate – verifies security-fix PRs, incl. AI-written ones», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/IWEBai/fix-gate-action",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50444188",
+    "createdAt": "2026-11-10T22:27:58.403Z"
+  },
+  {
+    "slug": "relay-a-multi-agent-pipeline-for-ai-assisted-front-end-engineering-hn",
+    "title": "Relay – A multi-agent pipeline for AI-assisted front end engineering",
+    "shortDescription": "Проект «Relay – A multi-agent pipeline for AI-assisted front end engineering», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Relay – A multi-agent pipeline for AI-assisted front end engineering», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/rgadda/frontend-eng-team",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50444140",
+    "createdAt": "2026-11-10T22:27:58.403Z"
+  },
+  {
+    "slug": "mitra-mcp-lets-ai-agents-make-calls-from-your-phone-number-hn",
+    "title": "Mitra MCP lets AI agents make calls from your phone number",
+    "shortDescription": "Проект «Mitra MCP lets AI agents make calls from your phone number», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Mitra MCP lets AI agents make calls from your phone number», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.getmitra.com/mcp",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50444078",
+    "createdAt": "2026-11-10T22:27:58.403Z"
+  },
+  {
     "slug": "magpie-android-github-2",
     "title": "magpie-android",
     "shortDescription": "magpie手机端 非官方 magpie Android 客户端：无需 Root 在手机上运行本地 AI 网关，支持 App 内更新内核、局域网共享与 Material 3 界面",
