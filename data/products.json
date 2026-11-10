@@ -1,5 +1,400 @@
 [
   {
+    "slug": "project-lighthouse-github",
+    "title": "project-lighthouse",
+    "shortDescription": "Project Lighthouse — shining AI on the pages history never read: transcriptions, deep reads and findings from the notebooks of Gauss, Riema…",
+    "fullDescription": "Project Lighthouse — shining AI on the pages history never read: transcriptions, deep reads and findings from the notebooks of Gauss, Riemann, Euler and more\n\nАвтор: professorsolderin. Найдено в GitHub Trending (AI-тематика). ⭐ 51 звёзд.",
+    "url": "https://github.com/professorsolderin/project-lighthouse",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "history-of-science",
+      "manuscripts",
+      "mathematics",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1451236431",
+    "createdAt": "2026-11-10T01:58:02.943Z"
+  },
+  {
+    "slug": "spider-github",
+    "title": "Spider",
+    "shortDescription": "Multi-agent AI system that turns Claude Code into an autonomous pentest red-team lead. Recon, exploitation, OSINT and submission-ready repo…",
+    "fullDescription": "Multi-agent AI system that turns Claude Code into an autonomous pentest red-team lead. Recon, exploitation, OSINT and submission-ready reporting with deterministic oracles and zero false positives\n\nАвтор: xdisform. Найдено в GitHub Trending (AI-тематика). ⭐ 20 звёзд.",
+    "url": "https://disform.ru",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-security",
+      "bug-bounty",
+      "bug-bounty-tools",
+      "cybersecurity",
+      "cybersecurity-projects",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1450296338",
+    "createdAt": "2026-11-10T01:58:02.943Z"
+  },
+  {
+    "slug": "reviewbharat-github",
+    "title": "reviewbharat",
+    "shortDescription": "AI code review for GitHub PRs in English, Hinglish or Hindi, built on the BharatCode API",
+    "fullDescription": "AI code review for GitHub PRs in English, Hinglish or Hindi, built on the BharatCode API\n\nАвтор: SoAkeD1. Найдено в GitHub Trending (AI-тематика). ⭐ 9 звёзд.",
+    "url": "https://github.com/SoAkeD1/reviewbharat",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "bharatcode",
+      "code-review",
+      "github-action",
+      "hinglish",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1451133639",
+    "createdAt": "2026-11-10T01:58:02.943Z"
+  },
+  {
+    "slug": "shangzou-github",
+    "title": "shangzou",
+    "shortDescription": "上奏：给嘉靖、康熙、雍正写一道折子，等皇帝亲笔朱批。按明清真实体例竖排、抬头、票拟批红，纯静态页面 + OneTag AI。",
+    "fullDescription": "上奏：给嘉靖、康熙、雍正写一道折子，等皇帝亲笔朱批。按明清真实体例竖排、抬头、票拟批红，纯静态页面 + OneTag AI。\n\nАвтор: fengyiqicoder. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://shangzou.000ooo.ooo/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "chinese-history",
+      "classical-chinese",
+      "github-pages",
+      "ming-dynasty",
+      "onetag-ai",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1450069877",
+    "createdAt": "2026-11-10T01:58:02.943Z"
+  },
+  {
+    "slug": "deskweek-github",
+    "title": "Deskweek",
+    "shortDescription": "A portable Windows desktop weekly calendar and todo widget with optional AI summarization.",
+    "fullDescription": "A portable Windows desktop weekly calendar and todo widget with optional AI summarization.\n\nАвтор: EasonGuuu. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/EasonGuuu/Deskweek",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "calendar",
+      "desktop-app",
+      "electron",
+      "productivity",
+      "todo",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1450059219",
+    "createdAt": "2026-11-10T01:58:02.943Z"
+  },
+  {
+    "slug": "words2widget-github",
+    "title": "words2widget",
+    "shortDescription": "Words in, iPhone widget out. Describe a home screen widget, let any AI build it for Scriptable.",
+    "fullDescription": "Words in, iPhone widget out. Describe a home screen widget, let any AI build it for Scriptable.\n\nАвтор: veritatron. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/veritatron/words2widget",
+    "category": "no-code",
+    "tags": [
+      "ai",
+      "chatgpt",
+      "claude",
+      "claude-skills",
+      "gemini",
+      "home-screen",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1450200371",
+    "createdAt": "2026-11-10T01:58:02.943Z"
+  },
+  {
+    "slug": "ai-learn-assessment-github",
+    "title": "AI-Learn-Assessment",
+    "shortDescription": "AI Engineering training with Assessment of your knowledge. Feel free to use, modify, PR, review, comment and use.",
+    "fullDescription": "AI Engineering training with Assessment of your knowledge. Feel free to use, modify, PR, review, comment and use.\n\nАвтор: coresolutiondoteu. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://www.coresolution.eu/blog",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "assessment",
+      "hardware",
+      "learning",
+      "software",
+      "stack",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1450818143",
+    "createdAt": "2026-11-10T01:58:02.943Z"
+  },
+  {
+    "slug": "a-max-github",
+    "title": "a-max",
+    "shortDescription": "A.max - local-first AI chat exporter for Chrome: PDF/Word/Markdown/PNG, prompt-draft recovery and Persian RTL tools. Manifest V3, React, MI…",
+    "fullDescription": "A.max - local-first AI chat exporter for Chrome: PDF/Word/Markdown/PNG, prompt-draft recovery and Persian RTL tools. Manifest V3, React, MIT.\n\nАвтор: arashmakkyy. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/arashmakkyy/a-max",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "chatgpt",
+      "chrome-extension",
+      "claude",
+      "deepseek",
+      "docx",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1451068393",
+    "createdAt": "2026-11-10T01:58:02.943Z"
+  },
+  {
+    "slug": "dre-github",
+    "title": "dre",
+    "shortDescription": "The business/domain-analysis counterpart to REA — business model, pricing, financials, and marketing evidence for AI agents. BYOK, free, MC…",
+    "fullDescription": "The business/domain-analysis counterpart to REA — business model, pricing, financials, and marketing evidence for AI agents. BYOK, free, MCP server.\n\nАвтор: studioKjm. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://www.npmjs.com/package/dre-agents",
+    "category": "ai-tool",
+    "tags": [
+      "agent-skills",
+      "ai",
+      "business-analysis",
+      "claude-code",
+      "competitive-intelligence",
+      "mcp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1450447700",
+    "createdAt": "2026-11-10T01:58:02.943Z"
+  },
+  {
+    "slug": "magpie-android-github",
+    "title": "magpie-android",
+    "shortDescription": "magpie手机端 非官方 magpie Android 客户端：无需 Root 在手机上运行本地 AI 网关，支持 App 内更新内核、局域网共享与 Material 3 界面",
+    "fullDescription": "magpie手机端 非官方 magpie Android 客户端：无需 Root 在手机上运行本地 AI 网关，支持 App 内更新内核、局域网共享与 Material 3 界面\n\nАвтор: yqing004-boop. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://www.coolapk.com/feed/74938122",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-gateway",
+      "amr64",
+      "android-app",
+      "apk",
+      "magpie",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1450955622",
+    "createdAt": "2026-11-10T01:58:02.943Z"
+  },
+  {
+    "slug": "one-keyboard-three-systems-github",
+    "title": "one-keyboard-three-systems",
+    "shortDescription": "Cross-OS keyboard/mouse sharing with Deskflow: Windows, Linux, macOS, AI-assisted troubleshooting.",
+    "fullDescription": "Cross-OS keyboard/mouse sharing with Deskflow: Windows, Linux, macOS, AI-assisted troubleshooting.\n\nАвтор: ztguoresearch. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://ztguoresearch.github.io/one-keyboard-three-systems/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "deskflow",
+      "kvm",
+      "linux",
+      "macos",
+      "samba",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1450932364",
+    "createdAt": "2026-11-10T01:58:02.943Z"
+  },
+  {
+    "slug": "xmarkdown-github",
+    "title": "XMarkdown",
+    "shortDescription": "Markdown for rich AI documents: charts, diagrams, math, interactive controls, drawing, and validated SVG. Shared Node/browser renderer, Rea…",
+    "fullDescription": "Markdown for rich AI documents: charts, diagrams, math, interactive controls, drawing, and validated SVG. Shared Node/browser renderer, React integration, and bounded streaming previews.\n\nАвтор: muhammadhaseebiqbal-dev. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://xmarkdown-zeta.vercel.app",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "charts",
+      "declarative",
+      "diagrams",
+      "document-renderer",
+      "javascript",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1450299958",
+    "createdAt": "2026-11-10T01:58:02.943Z"
+  },
+  {
+    "slug": "split-sync-ai-github",
+    "title": "split-sync-ai",
+    "shortDescription": "💸 Split group expenses by just talking. AI turns chat & receipt photos into exact splits, a Settle-Up Agent plans the payments, and PayPal…",
+    "fullDescription": "💸 Split group expenses by just talking. AI turns chat & receipt photos into exact splits, a Settle-Up Agent plans the payments, and PayPal settles them in one tap — live on every phone. PayPal AI Hackathon.\n\nАвтор: QURSAM-70179225. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://split-sync-ai.onrender.com",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "hackathon",
+      "hackathon-project",
+      "hackathons",
+      "paypal",
+      "paypal-api",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1450493381",
+    "createdAt": "2026-11-10T01:58:02.943Z"
+  },
+  {
+    "slug": "live-counts-of-ai-assistants-reading-a-diaspora-business-directory-hn",
+    "title": "Live counts of AI assistants reading a diaspora business directory",
+    "shortDescription": "Проект «Live counts of AI assistants reading a diaspora business directory», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Live counts of AI assistants reading a diaspora business directory», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://nibiashara.com/agent-index",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50433678",
+    "createdAt": "2026-11-10T01:58:02.712Z"
+  },
+  {
+    "slug": "emma-a-real-time-ai-video-persona-from-nuance-labs-hn",
+    "title": "Emma, a real-time AI video persona from Nuance Labs",
+    "shortDescription": "Hi HN! I&#x27;m Claudia, first employee and founding researcher at Nuance Labs. We&#x27;re a research startup based in Seattle and have jus…",
+    "fullDescription": "Hi HN! I&#x27;m Claudia, first employee and founding researcher at Nuance Labs. We&#x27;re a research startup based in Seattle and have just released what we&#x27;ve been working on for the past 18 months. Emma, a conversational audio-visual AI that you can have a video call with in real time. It might be a little rough around the edges but we think it&#x27;s better than anything else out there (we&#x27;re biased, of course). You don&#x27;t need to make an account and it works from the browser with mic and optionally camera. Emma is built on our full-duplex audio-visual system, Nuplex. We focused on naturalness over existing benchmarks as we found they didn&#x27;t correlate well with what people actually like or how we speak face to face. We think being uniquely expressive is more important than an averaged-out face, for example. Our blog goes into more detail: https:&#x2F;&#x2F;research.nuancelabs.ai&#x2F; A beta developer API is available at https:&#x2F;&#x2F;platform.nuancelabs.ai&#x2F; . We&#x27;re taking safety very seriously so she may prematurely end the call, in particular for the API, but we&#x27;re working on tuning that. Personality, across all modalities, was the most important part for me. I&#x27;ve spent the longest speaking to her and I think she can be a lot of fun! I&#x27;d love for people to try it out and I look forward to hearing what you all think. Thank you! (Apologies for the double post, someone external posted our demo before we were ready, oops: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50429477 )\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://app.nuancelabs.ai/try",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50432589",
+    "createdAt": "2026-11-10T01:58:02.712Z"
+  },
+  {
+    "slug": "apiclay-turn-a-website-google-sheet-or-database-into-a-paid-api-hn",
+    "title": "ApiClay – Turn a Website, Google Sheet or Database into a Paid API",
+    "shortDescription": "Hi HN, I’m a reverse engineer, and I’ve seen the same problem repeatedly: people need data, but the path from “I need this” to “my app, age…",
+    "fullDescription": "Hi HN, I’m a reverse engineer, and I’ve seen the same problem repeatedly: people need data, but the path from “I need this” to “my app, agent, or workflow can use it” is messy. Vibe coders want a working endpoint in minutes. Developers want clean docs, predictable JSON, and no surprise integration work. Businesses want to enrich lists, monitor changes, and safely expose internal data. AI agents need APIs they can discover and call reliably. Sometimes, the API simply doesn&#x27;t exist. ApiClay makes that whole loop easier. You can search a catalogue of APIs and datasets, inspect them in a playground, and copy ready-to-run JavaScript, Python, or cURL snippets into your app. Each API has its own reference, pricing, trials, and usage terms, so you can see what you’re calling before you go live. But ApiClay is not just an API marketplace. If the API you need does not exist, you can create one with Website to API: give it a page, map the fields you care about, and publish a stable JSON endpoint. It works with static and JavaScript-heavy pages, and can return clean Markdown, JSON, text, or links. You can also turn what you already have into an API: * MySQL, PostgreSQL, MongoDB, Google Sheets, Airtable, Excel&#x2F;CSV, and HTTP services can become API endpoints. * Import an OpenAPI&#x2F;Swagger file to get docs, a playground, and billing for an existing API. * Publish only the fields you choose, control access, set trials, plans, usage limits, and pricing. * Aggregate multiple providers into one tidy response for comparison-style products. For AI, ApiClay exposes an MCP endpoint so Claude, ChatGPT, or custom agents can search for an API, inspect it, and call it. The idea is simple: instead of an agent hallucinating a data source, it finds a real API and returns an answer backed by live data. There are also practical data tools beyond discovery: * Websets &#x2F; enrichment: upload a list, enrich each row, set a spend cap, and export the result. * Monitors: watch an API or webpage and receive a signed webhook when something changes. * Cloud browser: automate a browser session for pages behind clicks or JavaScript rendering, then return the values your app needs. * Extraction: turn a page into clean Markdown, JSON, text, or links without maintaining your own scraper. For people publishing APIs, credentials stay encrypted on ApiClay and are not exposed to buyers; publishers control pricing, limits, trials, and access. For consumers, browsing and reading docs are free, while paid calls are charged per request and shown before use. *ApiClay is where you find the data API you need, build the one that is missing, let AI agents use it, and optionally sell it.* We’d love feedback from HN—especially from developers building data-heavy products, teams dealing with messy internal sources, and anyone experimenting with agent-driven workflows.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://apiclay.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50432130",
+    "createdAt": "2026-11-10T01:58:02.712Z"
+  },
+  {
+    "slug": "airgap-check-find-what-your-ai-app-silently-downloads-offline-hn",
+    "title": "Airgap-check – find what your AI app silently downloads offline",
+    "shortDescription": "Проект «Airgap-check – find what your AI app silently downloads offline», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Airgap-check – find what your AI app silently downloads offline», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/humanethq/airgap-check",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50431705",
+    "createdAt": "2026-11-10T01:58:02.713Z"
+  },
+  {
+    "slug": "markolis-market-microstructure-and-mcp-server-for-ai-agents-hn",
+    "title": "Markolis – Market microstructure and MCP server for AI agents",
+    "shortDescription": "Проект «Markolis – Market microstructure and MCP server for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Markolis – Market microstructure and MCP server for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.markolis.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50430916",
+    "createdAt": "2026-11-10T01:58:02.713Z"
+  },
+  {
+    "slug": "i-made-every-icon-in-34-styles-including-christmas-kawaii-and-soft-3d-hn",
+    "title": "I made every icon in 34 styles, including Christmas, Kawaii and Soft 3D",
+    "shortDescription": "Try this first: search for “Home” or “Heart” on withicons.com and flip through the styles. The same icon goes from clean line to Christmas,…",
+    "fullDescription": "Try this first: search for “Home” or “Heart” on withicons.com and flip through the styles. The same icon goes from clean line to Christmas, Lunar New Year red and gold, liquid chrome, Y2K sticker and gothic stained glass. Then hover over it. It moves. Hi HN, I’m Soumya. withicons is a free, MIT-licensed set of 1,000 icons, each in 34 styles. No sign-up, no attribution, no paywalled “pro” styles. Why I built it: every December, teams want their site, app or emails to feel festive, and the usual result is clip art bolted onto a clean UI. Here, the icon you already use has a matching Christmas version, so you can switch for the holidays and switch back in January. What’s in it: 1. Holiday styles: Christmas, Lunar New Year, Valentine’s Day, Halloween, plus Rangoli and Utsav for Diwali and Holi. Also, a small set of holiday specific icons too. 2. Styles I haven’t seen in other free sets: Chrome, Liquid glass, Clay, Sticker, Brutal, Gothic, Kawaii 3. Animation on every icon: loops (a bell rings, a heart beats), play on hover, and morphs like play to pause. @withicons&#x2F;motion for the web, respects reduce motion 4. 36 download formats, including SVG, PNG, Lottie, GIF, MP4 and PowerPoint, so it works in code, Figma, slides and email 5. Loader Studio with over 100 pre-built loader designs. Source: https:&#x2F;&#x2F;github.com&#x2F;withevergrow&#x2F;withicons How it was made: I hand-designed seed icons for each style, then used AI to generate the rest and cleaned them up. Roast the weakest style. I’d rather fix it now. Which holiday or style should I add next? I’ll build whatever gets the most votes in this thread.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://withicons.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50429564",
+    "createdAt": "2026-11-10T01:58:02.713Z"
+  },
+  {
+    "slug": "black-ops-ii-statically-recompiled-to-native-arm64-macos-hn",
+    "title": "Black Ops II statically recompiled to native ARM64 macOS",
+    "shortDescription": "I recompiled the three Black Ops II executables (campaign, Zombies, multiplayer) from 32-bit x86 Windows to native ARM64 macOS, ahead of ti…",
+    "fullDescription": "I recompiled the three Black Ops II executables (campaign, Zombies, multiplayer) from 32-bit x86 Windows to native ARM64 macOS, ahead of time. Remill lifts each function to LLVM IR, a set of custom passes rewrites it, and the result links against a hand-written Win32 runtime whose Direct3D 11 is drawn by Metal. No Wine, no Rosetta, no JIT, one process. About 150,000 functions are translated; anything the translation misses falls back to a small x86 interpreter, so a gap costs speed instead of crashing. On an M1: campaign 51-60 fps, Zombies 57-60 on six maps, multiplayer against bots 53-60. The repo contains no game files and no translated code. It converts your own Steam copy on your Mac, which takes about 1h45 on an M1. Much of the work was done with AI coding agents, and I spent most of my time on verification: frame pacing against the game&#x27;s own clock, byte checks on the input files, and run logs for every claim in the README. It&#x27;s a beta. Split-screen Zombies is the current work in progress. Happy to answer questions about the lifting, the Win32 runtime or the D3D11-to-Metal layer.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/adrbn/bo2-mac",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50427552",
+    "createdAt": "2026-11-10T01:58:02.713Z"
+  },
+  {
     "slug": "0rwxcom-github",
     "title": "0rwx.com",
     "shortDescription": "AI-проект с GitHub без описания.",
