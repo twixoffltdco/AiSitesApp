@@ -1,5 +1,286 @@
 [
   {
+    "slug": "magpie-android-github-2",
+    "title": "magpie-android",
+    "shortDescription": "magpie手机端 非官方 magpie Android 客户端：无需 Root 在手机上运行本地 AI 网关，支持 App 内更新内核、局域网共享与 Material 3 界面",
+    "fullDescription": "magpie手机端 非官方 magpie Android 客户端：无需 Root 在手机上运行本地 AI 网关，支持 App 内更新内核、局域网共享与 Material 3 界面\n\nАвтор: yqing004-boop. Найдено в GitHub Trending (AI-тематика). ⭐ 10 звёзд.",
+    "url": "https://www.coolapk.com/feed/74971201?s=NTU4MTYyYTQxOTEwNDdnNmFmMzNlZWF6a1665",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-gateway",
+      "amr64",
+      "android-app",
+      "apk",
+      "magpie",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1450955622",
+    "createdAt": "2026-11-10T17:14:04.307Z"
+  },
+  {
+    "slug": "desu-x-github",
+    "title": "DESU-X",
+    "shortDescription": "manga tool",
+    "fullDescription": "manga tool\n\nАвтор: UNfukashigi. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://fukachan.jp/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "comic",
+      "manga",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1452302934",
+    "createdAt": "2026-11-10T17:14:04.307Z"
+  },
+  {
+    "slug": "ai-solved-software-now-its-time-to-raise-the-bar-introducing-brigade-hn",
+    "title": "AI solved software. Now it's time to raise the bar. Introducing Brigade",
+    "shortDescription": "Проект «AI solved software. Now it's time to raise the bar. Introducing Brigade», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI solved software. Now it's time to raise the bar. Introducing Brigade», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/gmpetrov/brigade",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50442991",
+    "createdAt": "2026-11-10T17:14:04.078Z"
+  },
+  {
+    "slug": "i-checked-66-ai-tools-privacy-policies-for-ai-training-hn",
+    "title": "I checked 66 AI tools' privacy policies for AI training",
+    "shortDescription": "Проект «I checked 66 AI tools' privacy policies for AI training», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I checked 66 AI tools' privacy policies for AI training», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://getpolicypeek.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50442804",
+    "createdAt": "2026-11-10T17:14:04.078Z"
+  },
+  {
+    "slug": "ramble-message-your-agent-directly-from-your-apple-watch-hn",
+    "title": "Ramble – Message your agent directly from your Apple Watch",
+    "shortDescription": "I made Ramble because I wanted to get off my phone but still be able to capture thoughts, reminders, action items - whatever. Some of my be…",
+    "fullDescription": "I made Ramble because I wanted to get off my phone but still be able to capture thoughts, reminders, action items - whatever. Some of my best thoughts happen when I&#x27;m playing with my kids or on a run - and this lets me stay in the moment, fire off a quick message on my watch and not get pulled into the screen waiting for AI to respond - never get sucked into &#x27;lets solve this now&#x27; mindset. Ramble is designed for Apple Watch &amp; offline first - to capture voice quickly and queue up messages to send when it can. The slim relay backend uses cloud transcription (Grok Whisper currently), then holds the message in an inbox for your agent to pickup and process, then gets purged from the backend after acknowledgement. No accounts, no signups. It uses Apple&#x27;s App Attest for endpoint security. It works great with current gen personal agents like Muse, GrokBot, etc. (GrokBot supports incoming webhooks so its instant. Muse doesn&#x27;t, so it polls every couple minutes (without waking the agent)) The linking process is surprisingly easy. Would love to hear what you think!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://ramble.watch",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50442523",
+    "createdAt": "2026-11-10T17:14:04.078Z"
+  },
+  {
+    "slug": "a-swift-package-that-makes-any-macos-app-translatable-hn",
+    "title": "A Swift package that makes any macOS app translatable",
+    "shortDescription": "As you can see on my &quot;The low-tech guys&quot; [0] website, I create and maintain a bit too many apps as a single person. I never had a…",
+    "fullDescription": "As you can see on my &quot;The low-tech guys&quot; [0] website, I create and maintain a bit too many apps as a single person. I never had and never will have the time to localize all the apps and maintain every 30+ languages people ask for and every text that changes between versions for 10+ apps. AI translations exist nowadays, but they are very often low quality if the translator doesn&#x27;t know the language and can&#x27;t understand the nuances of specialized terms. LimbaKit is my response to this problem. I want to give the users the ability to translate the apps themselves and not have to wait for me to do it. I&#x27;ve published the package and the protocol so other devs can also use it to make their apps translatable. [0] https:&#x2F;&#x2F;lowtechguys.com&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/FuzzyIdeas/LimbaKit",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50442289",
+    "createdAt": "2026-11-10T17:14:04.078Z"
+  },
+  {
+    "slug": "estimate-the-carbon-footprint-of-your-companys-ai-use-open-data-hn",
+    "title": "Estimate the carbon footprint of your company's AI use (open data)",
+    "shortDescription": "Проект «Estimate the carbon footprint of your company's AI use (open data)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Estimate the carbon footprint of your company's AI use (open data)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://somaai.earth/ai-footprint/calculator",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50442186",
+    "createdAt": "2026-11-10T17:14:04.078Z"
+  },
+  {
+    "slug": "dryplate-mcp-local-image-tools-for-ai-agents-heic-strip-metadata-hn",
+    "title": "Dryplate MCP – local image tools for AI agents (HEIC, strip metadata)",
+    "shortDescription": "Проект «Dryplate MCP – local image tools for AI agents (HEIC, strip metadata)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Dryplate MCP – local image tools for AI agents (HEIC, strip metadata)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/dryplate/dryplate",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50442087",
+    "createdAt": "2026-11-10T17:14:04.078Z"
+  },
+  {
+    "slug": "deedglass-verify-ai-agent-sql-changes-using-postgres-wal-hn",
+    "title": "Deedglass – Verify AI Agent SQL Changes Using Postgres WAL",
+    "shortDescription": "Проект «Deedglass – Verify AI Agent SQL Changes Using Postgres WAL», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Deedglass – Verify AI Agent SQL Changes Using Postgres WAL», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/deedglass/deedglass",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50441923",
+    "createdAt": "2026-11-10T17:14:04.078Z"
+  },
+  {
+    "slug": "we-wanted-to-build-an-ai-application-not-maintain-rag-pipelines-hn",
+    "title": "We wanted to build an AI application, not maintain RAG pipelines",
+    "shortDescription": "Проект «We wanted to build an AI application, not maintain RAG pipelines», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «We wanted to build an AI application, not maintain RAG pipelines», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://akropolys.cloud/docs/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50441876",
+    "createdAt": "2026-11-10T17:14:04.079Z"
+  },
+  {
+    "slug": "mantis-faster-browser-interaction-than-playwright-mcp-hn",
+    "title": "Mantis – Faster browser interaction than Playwright MCP",
+    "shortDescription": "Mantis lets AI agents browse by reading pages as text, clicking controls by number, and seeing what changed after each action.",
+    "fullDescription": "Mantis lets AI agents browse by reading pages as text, clicking controls by number, and seeing what changed after each action.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/perzianhq/mantis/blob/main/README.md",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50441765",
+    "createdAt": "2026-11-10T17:14:04.079Z"
+  },
+  {
+    "slug": "valin-your-private-memory-for-everything-you-save-hn",
+    "title": "Valin – your private memory for everything you save",
+    "shortDescription": "Hi HN, I build Valin because my wife needed a way to search across all the saves and all the information she came across online - from reci…",
+    "fullDescription": "Hi HN, I build Valin because my wife needed a way to search across all the saves and all the information she came across online - from recipes, books, children activities, vacation recommendations. She didn&#x27;t want another AI subscription or another account to manage. Valin was born - an application that allows users to share to it (almost) any kind of contents from applications (videos, audio, links, papers, reels. etc) and it goes in and using on-device AI transcribes audio, extract key frames of the video, extracts text from the frames and shows Key Takeaways and Summary. This allow users to get an at-a-glance overview of what the save was about and it allows the application to cluster and to find similar saves on the device - to generate new collections or to automatically (if enabled) assign saves to existing collections. And in the end it allows the system to support a chat-like interface where users can quickly get the information they need, not just the save. I vibe coded it in the last 5 months and I&#x27;m pretty happy how it turned out so I wanted to share the TestFlight beta to see if its interesting or useful to other folks. Features - fully on-device: no cloud services, no AI subscription, no account needed. - supports videos, audio, pdf, images - supports applications: FB, Instagram, Substack, X, Reddit, TikTok, Threads, Voice Memos - supports iPhone (including Duo) and iPad - iCloud sync (optional) to allow cross device sync and processing Limitations: - it can only work with saves that are available or can be read without a subscription (no logins) - it only processes in the foreground or background if you approve it when suggested. Requirements: - iOS only - iPhone 15 pro or newer - iPad with M1 or newer, or the iPad mini with A17 Pro. Models used: - Gemma 4 E2B - for summarization, chat and general information extraction - Embeddings Gemma 300m - for clustering, collection generation and semantic search - Whisper - for transcribing What I&#x27;m proud of - there are over 10 TLA+ models which I used to model everything from the DAG that processes the saves, to iCloud sync, to GPU&#x2F;CPU processing of AI requests (since iOS doesn&#x27;t allow background GPU processing on the iPhones). It&#x27;s a beta right now on TestFlight - https:&#x2F;&#x2F;testflight.apple.com&#x2F;join&#x2F;gjJQQrqk Would love to hear feedback and suggestions. Daniel\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.valin.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50441490",
+    "createdAt": "2026-11-10T17:14:04.079Z"
+  },
+  {
+    "slug": "aircad-professional-drafting-and-3d-modeling-in-the-browser-hn",
+    "title": "Aircad – Professional drafting and 3D modeling in the browser",
+    "shortDescription": "Aircad is a professional CAD system running in the browser with deep AI integration. It includes professional grade drafting and documentat…",
+    "fullDescription": "Aircad is a professional CAD system running in the browser with deep AI integration. It includes professional grade drafting and documentation tools, NURBS-based solid modeling, and a lot more. You can make professional quality design documents with it. It is all integrated behind a scripting API that can do anything you can do in the interface and also perform complex modeling operations efficiently. It reads and writes file formats like DXF, DWG, STEP, and 3DM. I built Aircad because I was frustrated with what was out there. Current CAD tools are expensive and slow to improve. New features barely move the needle. With Aircad, you have fast, powerful geometry tools for just about anything, from conceptual models to your final design. The newer generation of web-based CAD isn’t comprehensive enough to complete a project or is slower than existing desktop products because it sends performance-sensitive work to a server (OnShape), or isn’t designed to scale to real work in a collaborative setting (many &quot;toy&quot; CAD tools). Current CAD collaboration workflows are fragile, costly, and complex. They’re file-based and separate the design artifacts (eg PDFs) from the source. Collaboration is often an expensive add-on that raises your subscription, is hard to learn, and feels unnatural. Aircad builds it in: version history, drawing comparison, forking, and realtime collaboration. AI in most CAD tools is tacked on as a plug-in instead of being deeply integrated, and those plug-ins are often inefficient, hard to adopt, and costly. Aircad has a built-in AI agent and a comprehensive scripting API with a stage-and-commit workflow, so you know exactly what is happening during a complex change. You can use AI to write new scripts and commands that extend Aircad with repeatable, shareable workflows.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aircad.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50441350",
+    "createdAt": "2026-11-10T17:14:04.079Z"
+  },
+  {
+    "slug": "sugo-turn-pdfs-and-screenshots-into-compact-markdown-for-llms-hn",
+    "title": "Sugo – Turn PDFs and Screenshots into Compact Markdown for LLMs",
+    "shortDescription": "hi everyone, i&#x27;d like to show my project &quot;Sugo&quot;. this project answers a real problem i had:&quot; how can i save tokens if i…",
+    "fullDescription": "hi everyone, i&#x27;d like to show my project &quot;Sugo&quot;. this project answers a real problem i had:&quot; how can i save tokens if i put a lot of screenshot or PDF&#x27;s to give to any AI?&quot; Until recently i was learning to manage RAG system and to run an Ai locally, i got decent result, also with dedicated frameworks. then i realised that the main reason for my bad results was how i managed the files for the RAG. actualy i work in helpdesk, I&#x27;m young and i don&#x27;t have much experience ;), i immagine you also give Ai&#x27;s projects, docs and screenshots so a lot of tokens get used. i wondered how the AI converts PDF&#x27;s and images and wow, it uses a lot, the worst part: the more powerful is the model, the more tokens it use. i&#x27;had enough, so i designed Sugo, it use OCR and other tools to convert images, PDFs, documents and presentation into Markdown files, so the Ai understands the content faster. Right now, in github, there is the 0.1.4 version and includes the lite level (i&#x27;m planning a normal level and, for the most demanding, a quality level). if you take a look at the README, it would make me very happy, i had fun designing it. along the way i came up with the most brilliant name ever. Since i&#x27;m italian, the word fit perfectly. &quot;feed your LLM with the sauce, not the water&quot;, genius. For anyone who doesn&#x27;t know fine italian food the sugo (sauce) is the essential part of a dish, that&#x27;s where the flavour is, it&#x27;s what tells you if the plate of pasta is great or a junk, a watery sauce is not great, i want the essence. Apply this cooking philosophy to IT and you get Sugo. the best part is that it runs mostly locally, even on a computer with 16 years old hardware (please don&#x27;t ask, i don&#x27;t know why i have a computer like that either even though i have one a thousand times better). One rule i set myself is transparency about my test data, i won&#x27;t say silly thing like &quot;my product is the best&quot; or &quot;i built it without Ai&quot; i have no reason to hide it. i also won&#x27;t hide that my account is new (before, i didn&#x27;t even know hacker news, now i know it&#x27;s a great place to learn and stay informed). To keep it short, if you look at or try Sugo, feel free to tell me here or on github (i&#x27;ll try to reply as soon as i can),all the docs, future plans, workflows and info are there. If something is missing, just ask and thank you for reading all this stuff. P.S my english is very bad, sorry for any mistakes.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Muralnick/sugo",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50441321",
+    "createdAt": "2026-11-10T17:14:04.079Z"
+  },
+  {
+    "slug": "apptraction-a-native-mac-app-for-apples-app-store-connect-hn",
+    "title": "AppTraction – A Native Mac App for Apple's App Store Connect",
+    "shortDescription": "Hey HN, I’m John. I’m excited to share something I’ve been working on for a long time and releasing today: AppTraction, a native Mac app fo…",
+    "fullDescription": "Hey HN, I’m John. I’m excited to share something I’ve been working on for a long time and releasing today: AppTraction, a native Mac app for Apple’s App Store Connect. I spent 10 years as an engineer at Apple working on macOS and iOS, and the last 8 as an indie developer with 20+ apps on the App Store for myself and clients. AppTraction is the tool I wish I’d had when I started building my own apps. Most iOS and Mac devs that I talk to agree that Apple’s App Store Connect website is slow, confusing, and buggy. There’s a lot of useful data there, but the clunky site makes it really hard to make sense of. AppTraction brings your sales, analytics, ratings, and reviews to your Mac, and then tells you what matters. I won’t get into all the app features here, you can find those on the website, but it has some interesting capabilities so please check them out. Some background on the development process: AppTraction started as a straight port of the App Store Connect website to a native Mac app, and for about two months that’s all it was. Having the analytics data cached and instant was fantastic, but it still required a lot of time and expertise to interpret. At that point I tried connecting Claude directly to the structured data via MCP, and the results were pretty astonishing. Right away it caught that Apple had featured my apps in Australia and the UK, which I’d been totally oblivious to. It also explained that my bread baking app’s sales decline (which I knew about) wasn’t a problem with the app at all, but a recurring seasonal slump, which is evidently typical for baking apps in the summer. That’s when the Insights tab, which now looks for things like these automatically, became the main view of the app. The AI runs on your existing Claude Code or Codex subscription (or OpenRouter). AppTraction uses the CLI you already have, so there are no API fees and no API keys to expose. A bundled, read-only MCP server lets the AI query your data with real tools rather than a pasted dump, and you can point your own AI at it. Privacy: AppTraction was designed with privacy in mind from day 0 so there’s no account, no ads, and your App Store data is stored only on your Mac. AI requests go straight from your Mac to your AI provider, under your account, and my servers never see them. Pricing: It’s free for 14 days, then $6.99&#x2F;month, $39&#x2F;year, or $99 lifetime. Requires macOS 26 Tahoe or later. (No ASC key handy? There’s a demo app with sample data to play with.) I’d love to hear any feedback, and happy to answer questions of course.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://apptraction.dev",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50440624",
+    "createdAt": "2026-11-10T17:14:04.079Z"
+  },
+  {
+    "slug": "chatcairn-a-local-searchable-library-of-your-ai-chats-hn",
+    "title": "ChatCairn, a local, searchable library of your AI chats",
+    "shortDescription": "Проект «ChatCairn, a local, searchable library of your AI chats», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ChatCairn, a local, searchable library of your AI chats», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://lgdventures.github.io/chatcairn/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50440581",
+    "createdAt": "2026-11-10T17:14:04.079Z"
+  },
+  {
+    "slug": "padwan-ai-an-llm-client-for-python-with-http2-and-http3-hn",
+    "title": "Padwan AI, an LLM Client for Python with HTTP/2 and HTTP/3",
+    "shortDescription": "Проект «Padwan AI, an LLM Client for Python with HTTP/2 and HTTP/3», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Padwan AI, an LLM Client for Python with HTTP/2 and HTTP/3», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://polarsen-io.github.io/padwan-ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50440576",
+    "createdAt": "2026-11-10T17:14:04.079Z"
+  },
+  {
     "slug": "private-doc-scanner-github",
     "title": "private-doc-scanner",
     "shortDescription": "Open-source private document scanner for AI: reads documents on your device and seals private data to your own Terminal 3 (https://terminal…",
