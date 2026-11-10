@@ -1,5 +1,123 @@
 [
   {
+    "slug": "private-doc-scanner-github",
+    "title": "private-doc-scanner",
+    "shortDescription": "Open-source private document scanner for AI: reads documents on your device and seals private data to your own Terminal 3 (https://terminal…",
+    "fullDescription": "Open-source private document scanner for AI: reads documents on your device and seals private data to your own Terminal 3 (https://terminal3.io/products/agent-developer-kit) vault\n\nАвтор: Terminal-3. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://experiments-eta-ten.vercel.app/",
+    "category": "productivity",
+    "tags": [
+      "agent",
+      "agent-skill",
+      "agent-skills",
+      "agentic",
+      "agentic-ai",
+      "agentic-workflow",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1452109203",
+    "createdAt": "2026-11-10T09:29:01.522Z"
+  },
+  {
+    "slug": "android-and-ios-games-running-offline-in-the-browser-hn",
+    "title": "Android and iOS games running offline in the browser",
+    "shortDescription": "Hi everyone. I’m a 19yo solo developer and I’m making a project called Phoam. In middle school, I made a little games website for the peopl…",
+    "fullDescription": "Hi everyone. I’m a 19yo solo developer and I’m making a project called Phoam. In middle school, I made a little games website for the people in my school, but it became surprisingly popular. Students would ask me to add mobile apps, and I remember searching how to run APKs online and not finding what I wanted. I’ve always liked the idea that if software ran on one machine at some point, it should also run on another. Apple dropped support for 32-bit apps many years ago, leaving tons of nostalgic games unplayable on modern iPhones. Some newer Android phones also no longer support 32-bit apps, meaning having an APK for an app is not enough to play it again. I knew about projects like Wine and Ruffle that had made software run in a way it was never designed to, and one day I just decided to start my own engine! Phoam runs supported Android APKs and early iOS IPAs in the browser. The apps’ original code runs locally on your device, so it isn’t streaming from another phone or computer. On an iPhone, you can add them to your home screen. It’s still very early, and compatibility varies. The public demos are Replica Island and Explora-Ball, which I can legally share. You can try them at https:&#x2F;&#x2F;phoam.app&#x2F;demos without an account. Uploading your own apps isn’t public yet, and using your own files would require the necessary rights. Also worth saying, AI has helped a lot with the coding, but I’ve been directing the project and testing the results. Which old Android or iOS game would you most want to play again?\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://phoam.app/demos",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50436566",
+    "createdAt": "2026-11-10T09:29:01.244Z"
+  },
+  {
+    "slug": "calculators-for-token-costs-and-claude-code-api-budgets-hn",
+    "title": "Calculators for token costs and Claude Code API budgets",
+    "shortDescription": "Проект «Calculators for token costs and Claude Code API budgets», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Calculators for token costs and Claude Code API budgets», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://modelfold.ai/tools/claude-code-cost",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50436457",
+    "createdAt": "2026-11-10T09:29:01.244Z"
+  },
+  {
+    "slug": "3d-conformal-transformations-via-geometric-algebra-hn",
+    "title": "3D Conformal Transformations via Geometric Algebra",
+    "shortDescription": "Inspired by this great talk by Hamish Todd about Conformal Geometric Algebra [1] I felt the urge to play with those conformal transformatio…",
+    "fullDescription": "Inspired by this great talk by Hamish Todd about Conformal Geometric Algebra [1] I felt the urge to play with those conformal transformations myself and to learn more about geometric algebra. In the original talk Hamish shows many interactive visualizations to make a point about properties of conformal transformations and their representation via Geometric Algebra. My goal was to reverse engineer these visualizations just from the snippets shown in the talk. I find the result very satisfying to play around with. [2] As educational tool it provides some good intuition for conformal transformations and their composition. I hope some of you might enjoy it as well, especially after watching the original talk by Hamish Todd. On the technical side it is built on Threlte (Svelte+ThreeJS) and mostly handwritten with AI only being used for trying and debugging some shader code performance optimizations. 1: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=q3as9SGmDdw 2: https:&#x2F;&#x2F;static.laszlokorte.de&#x2F;conformal-3d&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://static.laszlokorte.de/conformal-3d/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50436157",
+    "createdAt": "2026-11-10T09:29:01.244Z"
+  },
+  {
+    "slug": "zthr-what-replaces-code-review-when-ai-agents-write-all-the-code-hn",
+    "title": "ZTHR – what replaces code review when AI agents write all the code",
+    "shortDescription": "Проект «ZTHR – what replaces code review when AI agents write all the code», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ZTHR – what replaces code review when AI agents write all the code», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://zthr.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50435672",
+    "createdAt": "2026-11-10T09:29:01.244Z"
+  },
+  {
+    "slug": "ai-frothiness-index-daily-reading-of-how-stretched-the-ai-boom-is-hn",
+    "title": "AI Frothiness Index. Daily reading of how stretched the AI boom is",
+    "shortDescription": "Проект «AI Frothiness Index. Daily reading of how stretched the AI boom is», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Frothiness Index. Daily reading of how stretched the AI boom is», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://frothiness.jagular.io",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50435624",
+    "createdAt": "2026-11-10T09:29:01.244Z"
+  },
+  {
+    "slug": "blabla-meter-jev-scores-how-useful-page-content-is-before-you-read-it-hn",
+    "title": "Blabla Meter – Jev scores how useful page content is before you read it",
+    "shortDescription": "Hello there I built a little Chrome extension that analyzes the content elements on a page, scores their &quot;usefulness&quot; and labels…",
+    "fullDescription": "Hello there I built a little Chrome extension that analyzes the content elements on a page, scores their &quot;usefulness&quot; and labels them based on that score. What counts as useful can be customized to your preferences and interests, and it learns from your feedback on the scores. Each element gets a badge with its score; hover it for more details. I&#x27;m using Jev, so the basic analysis is very fast and very cheap. You need to add your Jev key and run the small local bridge (it&#x27;s in the repo). For deeper analysis (e.g. a pareto summary) you bring your preferred AI key. Chrome Web Store: https:&#x2F;&#x2F;chromewebstore.google.com&#x2F;detail&#x2F;emjbfdcigbfojhdipap...\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/maths-oliveira/blabla-meter",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50435166",
+    "createdAt": "2026-11-10T09:29:01.244Z"
+  },
+  {
     "slug": "project-lighthouse-github",
     "title": "project-lighthouse",
     "shortDescription": "Project Lighthouse — shining AI on the pages history never read: transcriptions, deep reads and findings from the notebooks of Gauss, Riema…",
