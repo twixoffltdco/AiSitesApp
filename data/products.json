@@ -1,5 +1,197 @@
 [
   {
+    "slug": "papertrails-your-personalized-feed-of-new-research-papers-hn",
+    "title": "Papertrails – Your personalized feed of new research papers",
+    "shortDescription": "Hey HN, I’m an AI researcher who craves staying up to date on all of the state of the art techniques in my field. Yet I’ve become very frus…",
+    "fullDescription": "Hey HN, I’m an AI researcher who craves staying up to date on all of the state of the art techniques in my field. Yet I’ve become very frustrated with my workflow for discovering new papers. Google scholar alerts are too noisy, twitter is too skewed, and relying on word of mouth alone is too fragile. I created Papertrails to solve this problem for myself. Papertrails builds a feed of new research papers, personalized to your interests, based on your own library of papers. It’s free to use, so try it out and let me know what you think! — Note: The app only serves papers from arXiv, hoping to add other journals soon\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.papertrails.app/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50455972",
+    "createdAt": "2026-11-11T17:41:03.524Z"
+  },
+  {
+    "slug": "sonamu-tree-based-wayland-compositor-hn",
+    "title": "Sonamu – Tree-Based Wayland Compositor",
+    "shortDescription": "I use computers for everything and constantly have hundreds of tabs open. Existing paradigms limited me to grouping tabs by applications, b…",
+    "fullDescription": "I use computers for everything and constantly have hundreds of tabs open. Existing paradigms limited me to grouping tabs by applications, but I needed to organize by task. With Sonamu, I can put my GitHub page on the browser right next to my terminal instead of my emails. Sonamu is a Wayland compositor that organizes every tab in a tree hierarchy. I can create a branch for each of my coding projects and my courses. Within each branch, I can create sub-branches to further organize sub-tasks like notes, assignments, and code. I started this 2 years ago hand-coding everything, and now use AI as well. If you use Linux and feel like the current app-level organization paradigm is inefficient, check Sonamu out!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/mathkimchi/sonamu/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50455780",
+    "createdAt": "2026-11-11T17:41:03.524Z"
+  },
+  {
+    "slug": "an-audit-for-ai-agents-headed-into-air-gapped-networks-hn",
+    "title": "An audit for AI agents headed into air-gapped networks",
+    "shortDescription": "Проект «An audit for AI agents headed into air-gapped networks», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An audit for AI agents headed into air-gapped networks», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/PrashnaLabs/agent-blast-radius",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50455662",
+    "createdAt": "2026-11-11T17:41:03.524Z"
+  },
+  {
+    "slug": "trace-ai-written-code-back-to-the-agent-and-prompt-hn",
+    "title": "Trace AI written code back to the agent and prompt",
+    "shortDescription": "Проект «Trace AI written code back to the agent and prompt», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Trace AI written code back to the agent and prompt», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/vrannang1/sploom",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50455166",
+    "createdAt": "2026-11-11T17:41:03.525Z"
+  },
+  {
+    "slug": "klad-a-paint-app-your-coding-agent-can-drive-source-available-hn",
+    "title": "Klad, a paint app your coding agent can drive (source-available)",
+    "shortDescription": "I&#x27;ve been developing applications for a long time and have turned to game development as well lately. One of the things that frustrate…",
+    "fullDescription": "I&#x27;ve been developing applications for a long time and have turned to game development as well lately. One of the things that frustrated me the most was that using AI agents for game development is very annoying in the art department. Your only options right now are to either use an image genAI model and roll the dice every time you want to make an edit, or have your agent draw with something like vectors. I was looking for an application that would allow me to ask an agent to make a first draft of whatever art I needed with actual brushes, and then be able to go in myself and edit every last stroke or layer that it created. Klad is that application. Written in Rust, it can be fully controlled by an agent through the CLI, and every function is available in a nice UI as well: a brush engine, frame-by-frame animation (and bones&#x2F;IK), vectors, text layers, colours, layer effects, infinite undo (even after re-opening the file!),… Why I think it&#x27;s useful for a wider audience: Adobe showed agents editing Photoshop files at MAX this week, with a private beta planned for early 2027. Klad is built on the same core idea, with editable paint strokes as core architecture, and it works today. Clone the repo to try it out: https:&#x2F;&#x2F;github.com&#x2F;klad-app&#x2F;klad You can basically point Claude to the repo, ask it to build it, and pick up the drawing skills. Then ask it to make any drawing you want! (After that, you or the agent can change absolutely every brush stroke in the app again, which makes edits a breeze.) The quality of the drawings really depends on the agent you use. I have tried it with Claude Fable 5.2 since it came out on Monday, and the drawings are already quite impressive. I&#x27;m confident that this will only improve. I use it every day on Mac, so that definitely works well. It builds on Linux too (tablet pen pressure still needs some work there). Windows builds in CI, I haven&#x27;t used it there myself yet but I have some reports that it works perfectly fine. Coming up next is support for pixel art. I&#x27;m in the testing phase with this right now, and I expect it to go live in the repo sometime this weekend. Klad is source-available rather than open source: free to build and use for individuals and small companies, and I plan to sell pre-built binaries later, the way Aseprite does. The file format, CLI reference and agent skill are MIT. What I want to hear from people who try it: Can your agent work out the CLI without help, and where does it get confused? Can you go in and change one of its strokes easily? The command reference and guides are available at https:&#x2F;&#x2F;klad.studio I&#x27;ll be here answering any questions about the technical side as well, as it&#x27;s a pretty interesting challenge to build a performant engine with editable brush strokes that render as paint.\n\nНайдено в разделе Show HN на Hacker News. 👍 23 баллов.",
+    "url": "https://github.com/klad-app/klad",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50454951",
+    "createdAt": "2026-11-11T17:41:03.525Z"
+  },
+  {
+    "slug": "i-built-layfare-find-stopovers-to-save-money-and-explore-new-cities-hn",
+    "title": "I built Layfare – find stopovers to save money and explore new cities",
+    "shortDescription": "I kept spending two hours at the gate in an airport in cities that I&#x27;ve never seen - London, Zurich, Madrid. So I built Layfare ( http…",
+    "fullDescription": "I kept spending two hours at the gate in an airport in cities that I&#x27;ve never seen - London, Zurich, Madrid. So I built Layfare ( https:&#x2F;&#x2F;layfare.com ). Give it the trip you&#x27;re planning, and it shows you every city you could stop in for one or more nights, and what it costs compared to flying straight through. Often there&#x27;s a minimal cost increase, or even a cost savings. If I&#x27;m flying to Dubrovnik from Philadelphia in late February, I can actually save over $200 if I stop for a couple of nights in Zurich.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://layfare.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50454692",
+    "createdAt": "2026-11-11T17:41:03.525Z"
+  },
+  {
+    "slug": "a-silicon-valley-startup-simulation-game-hn",
+    "title": "A Silicon Valley Startup Simulation Game",
+    "shortDescription": "Hi All. I have been working on this idea for more than a year. My goal was to educate new entrepreneurs so they get a feel for what startin…",
+    "fullDescription": "Hi All. I have been working on this idea for more than a year. My goal was to educate new entrepreneurs so they get a feel for what starting a startup really is. And also teach them some hard-learned lessons, from my own experience as well as the many founders I have met over the years in Silicon Valley. I couldn’t have built this without AI, but the creative ideas and decisions are all mine. The project has 500+ commits over a year, all me changing my mind, trying things, keeping what worked. I hope you enjoy it.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://foundrs.com/game.html",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50454626",
+    "createdAt": "2026-11-11T17:41:03.525Z"
+  },
+  {
+    "slug": "yogurt-free-private-open-source-alternative-to-granola-hn",
+    "title": "Yogurt – Free, private, open-source alternative to Granola",
+    "shortDescription": "Hey HN, I’m Eric and I want to share an OSS project that I’ve been building in my free time. Yogurt is a free, MIT licensed desktop app tha…",
+    "fullDescription": "Hey HN, I’m Eric and I want to share an OSS project that I’ve been building in my free time. Yogurt is a free, MIT licensed desktop app that uses on-device AI models to transcribe, summarize, and chat with your meetings. Similar to Granola, Yogurt runs in the background and does not join your calls. But unlike Granola, Yogurt is open-source, free to use, and private. Your meeting transcripts, call recordings, and summaries never leave your computer. As small OSS models have gotten faster and more powerful, Yogurt seemed like a pretty obvious win for privacy and cost conscious folks. You do not need a frontier model to summarize meeting notes or answer questions about them. And if you want to make your notes available to a frontier model, you can just share it with Anthropic, OpenAI, etc. directly via Yogurt’s local MCP server. There’s no need to use a paid cloud service as a middleman. I tried some of the most popular OSS note taking tools, and most were missing features like calendar integration, MCP server, etc. or required you to connect or create an account. And more than that, they didn’t feel polished enough for it to be something I actually wanted to use daily, and so I built Yogurt to scratch that itch. I spent a lot of time fine-tuning every UI interaction&#x2F;animation and optimizing the model calls to get the most out of your hardware + make it snappy. To support Windows&#x2F;Mac&#x2F;Linux, I decided to go with Electron. I use whisper.cpp for transcription and Apple’s on-device SpeechAnalyzer if your system supports it. For call summaries and questions, I use a local open weight LLM that automatically gets downloaded and set up based on what your hardware can handle without your cooling fans firing off like crazy (this part uses llama.cpp). I’ve spent a lot of time working on details like echo detection&#x2F;reduction, global&#x2F;folder&#x2F;local level search respectively, and auto-end recordings. Hope this is useful for any of you who have held out on using AI note tools for privacy or cost reasons, or for folks using cloud tools who want to switch to something free and open source that still feels great to use. Would love to hear what you think about the onboarding and note taking experience :)\n\nНайдено в разделе Show HN на Hacker News. 👍 17 баллов.",
+    "url": "https://github.com/FrigadeHQ/yogurt",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50454625",
+    "createdAt": "2026-11-11T17:41:03.525Z"
+  },
+  {
+    "slug": "ai-code-rating-a-3-character-disclosure-of-how-ai-was-used-in-a-repo-hn",
+    "title": "AI Code Rating – a 3 character disclosure of how AI was used in a repo",
+    "shortDescription": "Hello HN! Have you ever wanted to quickly determine an open source project&#x27;s AI use? Me too, so I&#x27;ve come up with a spec that I t…",
+    "fullDescription": "Hello HN! Have you ever wanted to quickly determine an open source project&#x27;s AI use? Me too, so I&#x27;ve come up with a spec that I think may help solve the issue. Maybe it&#x27;ll be useful, or maybe it&#x27;ll be crap, you decide! AI Code Rating - Three simple characters that tell a reader who maintains a project, how much of its code is written by AI, and how closely a human checks the AI&#x27;s work. That&#x27;s it, that&#x27;s the whole idea. Repo maintainers assign a rating and save it, along with a quick blurb about how AI was used in the project, in an ACR.md file in the root of their repo. The rating doesn&#x27;t judge, it simply answers some questions at a glance. If this sounds at all interesting to you, I&#x27;d love to hear your feedback! https:&#x2F;&#x2F;aicoderating.com Example: DomainMOD, rated &quot;B1b&quot; (a project I wrote and have maintained since 2010) B = &quot;Experienced&quot; - Works professionally in this stack. Could write the whole project unaided. 1 = &quot;A little&quot; - 1–25% of the code. AI wrote pieces such as tests, boilerplate, or single functions. b = &quot;Reviewed&quot; - Every AI change read by a person before merge. Tests where practical. Full Disclosure: The ACR website itself is rated B4b. AI wrote nearly all the code and text, directed by me, and I reviewed its work.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://aicoderating.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50454286",
+    "createdAt": "2026-11-11T17:41:03.525Z"
+  },
+  {
+    "slug": "what-ai-labs-actually-pay-for-data-hn",
+    "title": "What AI labs actually pay for data",
+    "shortDescription": "The data market is exploding And only brokers know the fair price... until now Introducing BlobCap See what companies actually got paid for…",
+    "fullDescription": "The data market is exploding And only brokers know the fair price... until now Introducing BlobCap See what companies actually got paid for their data Never negotiate blind again\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://blobcap.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50454170",
+    "createdAt": "2026-11-11T17:41:03.525Z"
+  },
+  {
+    "slug": "find-relevant-signals-on-x-for-your-company-hn",
+    "title": "Find relevant signals on X for your company",
+    "shortDescription": "Hey HN! I recently built Tweex, a tool that tracks every business, tech and AI signals across X impacting your company and your market righ…",
+    "fullDescription": "Hey HN! I recently built Tweex, a tool that tracks every business, tech and AI signals across X impacting your company and your market right now. Here&#x27;s how early customers (tech&#x2F;AI companies) use it: 1&#x2F; Enter your company URL, choose what you want to track (product, customer needs, growth...) and share your current challenges 2&#x2F; Tweex AI filters out the noise and pings your team and agents (Slack and email for now) with relevant under-the-radar signals and actionable opportunities from X for your business: who is winning and how, hot product features you can implement, customer needs, market shifts... You can request a free report for your company on the home page. It asks for your email because that&#x27;s where the report is delivered. It&#x27;s not an instant demo. X is a fantastic tool and I hope Tweex helps you find useful signals on it to grow your business :) Let me know what you think! Arthur\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.tweexai.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50454132",
+    "createdAt": "2026-11-11T17:41:03.525Z"
+  },
+  {
+    "slug": "tensward-local-ai-inference-optimisation-hn",
+    "title": "Tensward – Local AI inference optimisation",
+    "shortDescription": "Проект «Tensward – Local AI inference optimisation», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Tensward – Local AI inference optimisation», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/Tensward/tensward",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50453646",
+    "createdAt": "2026-11-11T17:41:03.525Z"
+  },
+  {
     "slug": "ai-portfolio-github",
     "title": "ai-portfolio",
     "shortDescription": "三个可运行的 AI 工程项目：可追溯 RAG、提示词评测与受守护的 NL2SQL 分析",
