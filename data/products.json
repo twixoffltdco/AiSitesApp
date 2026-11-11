@@ -1,5 +1,135 @@
 [
   {
+    "slug": "llx-markdown-github",
+    "title": "llx-markdown",
+    "shortDescription": "Ultrafast, lightweight streaming Markdown for React and AI replies. Own parser, 0 dependencies, 30 KB gzip, 9× faster than the next rendere…",
+    "fullDescription": "Ultrafast, lightweight streaming Markdown for React and AI replies. Own parser, 0 dependencies, 30 KB gzip, 9× faster than the next renderer on long streams. GFM plus callouts, steps, tabs, diagrams and math.\n\nАвтор: rsaryev. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://www.npmjs.com/package/llx-markdown",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-chat",
+      "chat",
+      "commonmark",
+      "gfm",
+      "katex",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1452017008",
+    "createdAt": "2026-11-11T02:06:58.069Z"
+  },
+  {
+    "slug": "woolly-github",
+    "title": "Woolly",
+    "shortDescription": "One memory for all your AI tools. Local, private, and always up to date. Works with Claude, Cursor, Ollama and any MCP app.",
+    "fullDescription": "One memory for all your AI tools. Local, private, and always up to date. Works with Claude, Cursor, Ollama and any MCP app.\n\nАвтор: rjcuff. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://usewoolly.com",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-memory",
+      "claude",
+      "cursor",
+      "golang",
+      "llm",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1452851777",
+    "createdAt": "2026-11-11T02:06:58.069Z"
+  },
+  {
+    "slug": "apprua-github",
+    "title": "apprua",
+    "shortDescription": "Publish what your AI builds. Self-hosted app publishing for anything built with an AI chat, through MCP.",
+    "fullDescription": "Publish what your AI builds. Self-hosted app publishing for anything built with an AI chat, through MCP.\n\nАвтор: apprua. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/apprua/apprua",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude",
+      "coolify",
+      "deployment",
+      "mcp",
+      "open-source",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1451452391",
+    "createdAt": "2026-11-11T02:06:58.069Z"
+  },
+  {
+    "slug": "rystic-stateful-local-simulators-of-slack-github-and-linear-hn",
+    "title": "Rystic – Stateful Local Simulators of Slack, GitHub and Linear",
+    "shortDescription": "Hi HN, we&#x27;re Zach and Evan, founders of Rystic ( https:&#x2F;&#x2F;www.rystic.ai ). As LLMs have progressed, producing code has become…",
+    "fullDescription": "Hi HN, we&#x27;re Zach and Evan, founders of Rystic ( https:&#x2F;&#x2F;www.rystic.ai ). As LLMs have progressed, producing code has become fast and cheap but verification has not. At my previous company I noticed that whenever I could test a service locally or in CI this bottleneck went away. If a service needed to use a shared sandbox or staging environment to run integration tests, verification was a huge pain. At Rystic we are taking that idea and applying it to every third-party service. We are trying to give developers a way to verify that their code works without calling real systems. To do this, we build deterministic simulators of APIs like Slack, Stripe and S3. You can control these locally; set their state and inspect it. Our aim is to make these a controllable stand-in for the real service, much more so than any sandbox. For this we offer fault injection, latency injection and multiple actor support. So for example you can cancel a subscription mid-cycle as the customer in the billing portal, then check that your app handles the proration and removes access. In the Stripe sandbox someone has to click through the portal by hand. We recreate these applications as Go binaries to make them performant. A single simulator can handle thousands of requests per second. You can even control whether they get rate limited or not depending on how realistic you want your test to be. To make the simulators we construct a set of tests based on their docs, probe their API, gather traces then use that to reverse engineer the state transitions of the application. Then we iterate on this by running deterministic tests and actively trying to break it. Proving this state machine is the same as the original would be NP hard but we can still show that they are equivalent over several hundred multi-step workflows. To make sure that our version stays accurate we test every night to catch drift and repair it. Each simulator&#x27;s fidelity card lists its score, which is how closely it matches the real API across those workflows, and we share the failing tests with customers: https:&#x2F;&#x2F;www.rystic.ai&#x2F;simulators It is frustrating to have these incredibly powerful tools for producing code but then be left with the annoying work of verifying that what is produced actually works. No one wants to spend their day finding API keys, setting up sandbox accounts and manually clicking through applications. We are trying to make a future where that does not happen, where you can move fast and not break things. We would love for you to give it a try. Any feedback is very welcome. Here&#x27;s a quick video on using the Slack twin to run evals: https:&#x2F;&#x2F;youtu.be&#x2F;qwin0LAeaeU Install: curl -fsSL https:&#x2F;&#x2F;www.rystic.ai&#x2F;install.sh | sh brew install rystic-inc&#x2F;tap&#x2F;rystic or download a binary with checksums from https:&#x2F;&#x2F;github.com&#x2F;Rystic-Inc&#x2F;rystic&#x2F;releases . Free: the Slack, GitHub and Linear simulators. No card needed. Everything else is $90 a month, and code HACKERNEWS will get you a month free. Current simulators: Stripe, Slack, GitHub, Kalshi, PayPal, Lob, Okta, Linear, Resend, Anthropic, Clerk, Dropbox, Gmail, Google Drive, Notion, S3, Shopify Storefront, Word. Coming: OpenAI, ElevenLabs, NetSuite, QuickBooks, Square, Sentry, PostHog. We are rapidly adding more to our catalog and if there are any that you would like to see added, please let us know in the comments.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.rystic.ai",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50448400",
+    "createdAt": "2026-11-11T02:06:58.501Z"
+  },
+  {
+    "slug": "mimzie-an-agent-neutral-alternative-to-the-claude-suiteclaude-cowork-hn",
+    "title": "Mimzie, an agent-neutral alternative to the Claude Suite/Claude Cowork",
+    "shortDescription": "hi HN! I built Mimzie, an agent neutral AI workspace inspired by the Claude Suite (Docs, Sheets, Slides) and Cowork. It&#x27;s a free deskt…",
+    "fullDescription": "hi HN! I built Mimzie, an agent neutral AI workspace inspired by the Claude Suite (Docs, Sheets, Slides) and Cowork. It&#x27;s a free desktop app that runs ChatGPT, Claude, Gemini, and Grok in their native CLI harnesses. Think T3 Code or Conductor but for knowledge work. It&#x27;s basically a GUI for managing knowledge work agents in various form factors. One of those form factors is Bots, akin to Grok Bot or Dots. The original idea for mimzie was simple: I pay for Claude and ChatGPT, and a lot of my day-to-day work lives in .xlsx, .pptx and .docx files. Moreover, I was sick and tired of losing context between AI platforms. I didn&#x27;t want to bet the house on one AI lab&#x27;s product, be it the ChatGPT or the Claude Desktop app. So I built an AI desktop app that was agent neutral. The goal of mimzie is to bring the kind of agent workflows that devs have had with codex and claude code into the hands of everyone. And to have a friendly GUI to do it. I&#x27;ve found that the personal agents, hermes and openclaw, are intimidating to set up and confusing to the average non-technical person. some of the core principles of mimzie: - your file stays your file: edits are done locally and .docx, .pptx, .xlsx, and .md and synced to the cloud after - every change is reviewable: edits show up as tracked diffs that you accept or reject, at the smallest unit that makes sense (e.g. a sentence in .docx) - free, and no new subscription needed: bring whichever AI plan or plans you already have. You shouldn&#x27;t have to pay twice for the same inference, and you SHOULD take advantage of the insane subsidization in the current ChatGPT and Claude plans. - Bots with any AI: I love the concept of grok bot, not so much its limited choice of models. I strongly believe that long-standing &quot;ai teammates&quot; should be agent neutral and in your control Try mimzie out: it&#x27;s a free beta at mimzie.com it&#x27;s early, lots of rough edges, but I&#x27;ve had the time of my life developing it. I&#x27;d love to answer questions and hear any and all feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://mimzie.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50448283",
+    "createdAt": "2026-11-11T02:06:58.501Z"
+  },
+  {
+    "slug": "pdfmeasure-measure-pdf-files-in-the-browser-hn",
+    "title": "PDFMeasure – Measure PDF files in the browser",
+    "shortDescription": "Hi HN, sharing a little app I built to measure architectural drawings in the browser. My architects on a remodel had this fancy software to…",
+    "fullDescription": "Hi HN, sharing a little app I built to measure architectural drawings in the browser. My architects on a remodel had this fancy software to do it, but I was frustrated to not be able to do the same easily. It does much of what the more complex software does: measure distance, surface areas, perimeters, angles; markup; takeoff (count &amp; run lengths), ...etc. I even built an overlay feature to compare two pages. In this age of AI, I think simple software such as this can only ever be free. How do you offer a web app for free? Make it local only. I think there is a lot of space to explore in local-first web apps.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://pdfmeasure.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50448062",
+    "createdAt": "2026-11-11T02:06:58.501Z"
+  },
+  {
+    "slug": "socializepresence-multiplayer-interaction-on-blog-posts-hn",
+    "title": "Socialize/Presence multiplayer interaction on blog posts",
+    "shortDescription": "&quot;It&#x27;s not who I am underneath, but what I do that defines me.&quot; - Batman Begins Or, more appropriately: It&#x27;s not what AI…",
+    "fullDescription": "&quot;It&#x27;s not who I am underneath, but what I do that defines me.&quot; - Batman Begins Or, more appropriately: It&#x27;s not what AI &#x2F; LLM &#x2F; harness I use underneath, but what I do with it that defines me. I&#x27;m kinda tired of hearing about AI. After all, it&#x27;s just a tool (okay, a BIG, BIG tool!). Point still stands. Let&#x27;s hear less about the tools and more about what we&#x27;re doing with them to push boundaries, challenge assumptions, and rethink what&#x27;s possible. Unfortunately, I&#x27;m still a few weeks away from making some of my bigger projects public (yes, polish matters, and you only ship once!). But in the meantime, I figured I&#x27;d have a little fun rethinking what it means to socialize and interact with a personal website. Enter Presence &#x2F; Socialize &#x2F; Layers - (Not AI-em-dash i promise!) sorry, haven&#x27;t had the time (or cared enough) to name it properly. ™®℠ Live cursors. Shared highlights. Reactions. A living constellation of visitors and ideas. Because why should reading a blog feel like you&#x27;re exploring it alone? It&#x27;s live on my blog now. Here&#x27;s one article you can try it on: https:&#x2F;&#x2F;namar0x0309.com&#x2F;blog&#x2F;2026&#x2F;05&#x2F;the-kind-of-ai-adoption... Sometimes the side quests are just as fun as the main story. --- source: saw a shared cursor online game and decided to take it to the next level on top of integrating into my blog with a rethink on interactions etc.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://namar0x0309.com/blog/2026/05/the-kind-of-ai-adoption-i-actually-believe-in/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50447724",
+    "createdAt": "2026-11-11T02:06:58.501Z"
+  },
+  {
     "slug": "sketchup-compatible-modeler-with-ai-capabilities-hn",
     "title": "SketchUp compatible modeler with AI capabilities",
     "shortDescription": "Try framing out a house, generating kitchen cabinets, or even populating an entire kitchen.",
