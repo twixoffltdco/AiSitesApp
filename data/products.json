@@ -1,5 +1,213 @@
 [
   {
+    "slug": "senku-an-ai-agent-that-can-control-your-phone-in-background-hn",
+    "title": "Senku, an AI agent that can control your phone in background",
+    "shortDescription": "I built an ai agent that can control your phone in background I have been trying out personal agents that work on cloud and it has been a p…",
+    "fullDescription": "I built an ai agent that can control your phone in background I have been trying out personal agents that work on cloud and it has been a pain to give my session details (like otp) every single time. with amazon blocking personal agents, i thought it would be pretty cool if an agent can use my phone and do tasks for me in background so, i decided to build one for android devices. it currently uses wireless debugging to make a virtual display and open apps in background. would love to know what you guys think! you can try it out downloading apk from heysenku.com\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.heysenku.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50468886",
+    "createdAt": "2026-11-12T16:09:34.264Z"
+  },
+  {
+    "slug": "scarscript-a-statically-typed-language-built-in-go-hn",
+    "title": "ScarScript – A statically typed language built in Go",
+    "shortDescription": "Проект «ScarScript – A statically typed language built in Go», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ScarScript – A statically typed language built in Go», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/ScarfazeCompany/scar-script",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50468456",
+    "createdAt": "2026-11-12T16:09:34.264Z"
+  },
+  {
+    "slug": "ai-red-lines-write-down-what-would-make-you-act-on-ai-hn",
+    "title": "AI Red Lines – write down what would make you act on AI",
+    "shortDescription": "Проект «AI Red Lines – write down what would make you act on AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Red Lines – write down what would make you act on AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://yourairedlines.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50467880",
+    "createdAt": "2026-11-12T16:09:34.264Z"
+  },
+  {
+    "slug": "datatomcp-ai-agents-propose-business-definitions-a-person-approves-hn",
+    "title": "Datatomcp – AI agents propose business definitions, a person approves",
+    "shortDescription": "Проект «Datatomcp – AI agents propose business definitions, a person approves», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Datatomcp – AI agents propose business definitions, a person approves», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://datatomcp.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50467571",
+    "createdAt": "2026-11-12T16:09:34.264Z"
+  },
+  {
+    "slug": "upstar-github-projects-ranked-by-velocity-in-each-topics-hn",
+    "title": "Upstar, GitHub projects ranked by velocity in each topics",
+    "shortDescription": "Hey hn, i&#x27;m Armel solo dev from Abidjan. I built upstar a github trending like website where projects are ranked by how fast they grow…",
+    "fullDescription": "Hey hn, i&#x27;m Armel solo dev from Abidjan. I built upstar a github trending like website where projects are ranked by how fast they grow in each topic I love discovering new projects, so I spend a lot of my time scrolling Reddit and X. I thought, why not get the trending projects I care about in my inbox, like I already get good articles from Medium? I looked at GitHub Trending, but it mostly shows big projects. It&#x27;s hard to find small projects that also deserve attention. So I built this tool. There are 69 topics, from programming languages to subjects like agent skills, reverse engineering, emulation, etc. The score is the stars gained in the current period (day, week or month) divided by the square root of the stars the project had before that period. So small projects can rank above big projects, even if the big ones gain more stars. I try my best to keep malicious projects out without penalizing good small legit projects. Each project is analyzed by judges (Claude Haiku, Sonnet and Opus) that follow rules I set. Two weeks ago I reported a malware campaign of 479 repos to GitHub, and most of the accounts behind it are gone now. This week I found 333 more that sent people to installers outside GitHub. You can browse the site freely, with no ads and no tracking. To get the Monday digest for the topics you choose, you sign in with GitHub, or just leave your email. There&#x27;s also an MCP server, for people who prefer to ask their AI agent directly. I built the project with the help of Claude Code, and the short repo summaries are written by AI. The hardest part was putting projects in the right topics. That&#x27;s why I&#x27;d love your feedback on the rankings and the topics, if any of this speaks to you.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://upstar.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50467222",
+    "createdAt": "2026-11-12T16:09:34.264Z"
+  },
+  {
+    "slug": "indie-signals-24h7d-momentum-of-new-ai-repos-and-models-hn",
+    "title": "Indie Signals – 24h/7d momentum of new AI repos and models",
+    "shortDescription": "Проект «Indie Signals – 24h/7d momentum of new AI repos and models», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Indie Signals – 24h/7d momentum of new AI repos and models», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://indiesignals.net/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50466926",
+    "createdAt": "2026-11-12T16:09:34.264Z"
+  },
+  {
+    "slug": "mudgyms-webassembly-browser-playground-for-ai-agents-in-mud2-hn",
+    "title": "MudGym's WebAssembly browser playground for AI agents in MUD2",
+    "shortDescription": "Проект «MudGym's WebAssembly browser playground for AI agents in MUD2», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «MudGym's WebAssembly browser playground for AI agents in MUD2», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://mudgym.kingrolo.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50466804",
+    "createdAt": "2026-11-12T16:09:34.265Z"
+  },
+  {
+    "slug": "closedmechanical-mould-design-ai-agent-hn",
+    "title": "Closed,Mechanical Mould Design AI Agent",
+    "shortDescription": "Проект «Closed,Mechanical Mould Design AI Agent», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Closed,Mechanical Mould Design AI Agent», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://closed.sh",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50466670",
+    "createdAt": "2026-11-12T16:09:34.265Z"
+  },
+  {
+    "slug": "a-free-course-from-engineer-to-ai-engineer-one-git-tag-per-episode-hn",
+    "title": "A free course from engineer to AI engineer, one Git tag per episode",
+    "shortDescription": "Проект «A free course from engineer to AI engineer, one Git tag per episode», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A free course from engineer to AI engineer, one Git tag per episode», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/AiFirstDevelopment/engineer-to-ai-engineer",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50466649",
+    "createdAt": "2026-11-12T16:09:34.265Z"
+  },
+  {
+    "slug": "vibetime-see-what-you-ship-when-coding-with-ai-agents-hn",
+    "title": "Vibetime – see what you ship when coding with AI agents",
+    "shortDescription": "Проект «Vibetime – see what you ship when coding with AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Vibetime – see what you ship when coding with AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/iamnotstatic/vibetime",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50466570",
+    "createdAt": "2026-11-12T16:09:34.265Z"
+  },
+  {
+    "slug": "i-analyzed-all-191-prompts-i-used-to-vibe-code-an-app-hn",
+    "title": "I analyzed all 191 prompts I used to \"vibe-code\" an app",
+    "shortDescription": "One-shot performance of LLMs is a good measure of many of its capacities, but it is only sufficient for tasks that can be objectively and a…",
+    "fullDescription": "One-shot performance of LLMs is a good measure of many of its capacities, but it is only sufficient for tasks that can be objectively and automatically verified. I believe that in most real-world cases this is not the case: people have vague, unquantifiable, taste-based, complex goals, and it&#x27;s the way one works closely with AI over many prompts that makes the difference between slop and actual work. But few people seem to talk about that today. This blog post (and the browsable prompt trascripts it links to) is an attempt at changing that. I&#x27;m sharing all my prompts for a little toy web-app project. It&#x27;s the opposite of one-shot! I also (over?)analyzed and charted my data. I&#x27;d love to hear everyone&#x27;s thoughts, not so much on the exact execution (debatable) but on my proposal to talk more about HITL AI workflows.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://aethermug.com/posts/poft",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50466477",
+    "createdAt": "2026-11-12T16:09:34.265Z"
+  },
+  {
+    "slug": "website-tells-you-when-youll-lose-your-job-to-ai-hn",
+    "title": "Website tells you when you'll lose your job to AI",
+    "shortDescription": "(╯&#x27;□&#x27;)╯︵ ┻━┻",
+    "fullDescription": "(╯&#x27;□&#x27;)╯︵ ┻━┻\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://deprecation.org",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50466446",
+    "createdAt": "2026-11-12T16:09:34.265Z"
+  },
+  {
+    "slug": "etherpk-fast-markdown-notes-with-agent-integrated-task-kanban-board-hn",
+    "title": "EtherPK – Fast Markdown Notes with Agent Integrated Task Kanban Board",
+    "shortDescription": "EtherPK is first a personal notes app, with fast information capture and task management. A headless client and MCP server facilitates hand…",
+    "fullDescription": "EtherPK is first a personal notes app, with fast information capture and task management. A headless client and MCP server facilitates handing tasks and rich context (include images, assets) etc to AI agents. With versioning, PDF and Ebook reading, EtherPK aims to be the single place where software engineers and knowledge workers can manage their thoughts and ideas (second brain).\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.etherpk.com/home",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50466094",
+    "createdAt": "2026-11-12T16:09:34.265Z"
+  },
+  {
     "slug": "flowdown-github",
     "title": "flowdown",
     "shortDescription": "Ultrafast, lightweight streaming Markdown for React and AI replies. Its own parser, zero dependencies, 31.7 KB gzipped. GitHub Markdown plu…",
