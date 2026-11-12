@@ -1,5 +1,183 @@
 [
   {
+    "slug": "flowdown-github",
+    "title": "flowdown",
+    "shortDescription": "Ultrafast, lightweight streaming Markdown for React and AI replies. Its own parser, zero dependencies, 31.7 KB gzipped. GitHub Markdown plu…",
+    "fullDescription": "Ultrafast, lightweight streaming Markdown for React and AI replies. Its own parser, zero dependencies, 31.7 KB gzipped. GitHub Markdown plus steps, tabs, callouts, diagrams and math.\n\nАвтор: rsaryev. Найдено в GitHub Trending (AI-тематика). ⭐ 18 звёзд.",
+    "url": "https://flowdown.dev",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-chat",
+      "chat",
+      "commonmark",
+      "gfm",
+      "katex",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1452017008",
+    "createdAt": "2026-11-12T07:30:22.924Z"
+  },
+  {
+    "slug": "echoknowledge-github",
+    "title": "Echo_Knowledge",
+    "shortDescription": "ECHO Knowledge is a local-first AI-powered knowledge management system for organizing documents, semantic search, grounded AI answers, and…",
+    "fullDescription": "ECHO Knowledge is a local-first AI-powered knowledge management system for organizing documents, semantic search, grounded AI answers, and interactive knowledge graphs. Built with Tauri, Rust, React, TypeScript, and SQLite, with Gemini and Groq BYOK support.\n\nАвтор: dharunram-lgtm. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/dharunram-lgtm/Echo_Knowledge",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "document-management",
+      "knowledge-base",
+      "knowledge-management",
+      "local-first",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1452955140",
+    "createdAt": "2026-11-12T07:30:22.925Z"
+  },
+  {
+    "slug": "tongpin-companion-github",
+    "title": "tongpin-companion",
+    "shortDescription": "同频 Tongpin — 本地优先的 AI 伴侣 App（Android · Kotlin · Compose）。有作息、有心情、会主动找你、还会随手拍一张当下照片的 AI 伴侣：会记着你们说过的话，会按自己的生活节奏主动联系你，聊天里就能发来一张此刻的照片。所有模型与提示词规…",
+    "fullDescription": "同频 Tongpin — 本地优先的 AI 伴侣 App（Android · Kotlin · Compose）。有作息、有心情、会主动找你、还会随手拍一张当下照片的 AI 伴侣：会记着你们说过的话，会按自己的生活节奏主动联系你，聊天里就能发来一张此刻的照片。所有模型与提示词规则都在运行时配置，数据留在你自己的机器上。\n\nАвтор: Xccx11. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Xccx11/tongpin-companion",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-companion",
+      "android",
+      "comfyui",
+      "hilt",
+      "jetpack-compose",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1453770388",
+    "createdAt": "2026-11-12T07:30:22.925Z"
+  },
+  {
+    "slug": "antfabric-one-subscription-for-all-your-operational-needs-hn",
+    "title": "AntFabric (One Subscription for all your operational needs)",
+    "shortDescription": "The work your team spreads across Slack, Notion, Jira and email, in one app your company controls. An assistant that knows how your company…",
+    "fullDescription": "The work your team spreads across Slack, Notion, Jira and email, in one app your company controls. An assistant that knows how your company works.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.antfabric.ai/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50463909",
+    "createdAt": "2026-11-12T07:30:24.301Z"
+  },
+  {
+    "slug": "nova-buddy-ai-a-friendly-ai-assistant-for-everyday-people-hn",
+    "title": "Nova Buddy AI – a friendly AI assistant for everyday people",
+    "shortDescription": "Проект «Nova Buddy AI – a friendly AI assistant for everyday people», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Nova Buddy AI – a friendly AI assistant for everyday people», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://novabuddyai.com",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50463049",
+    "createdAt": "2026-11-12T07:30:24.301Z"
+  },
+  {
+    "slug": "app-to-help-parents-find-plan-and-review-outings-with-their-kids-hn",
+    "title": "App to help parents find, plan, and review outings with their kids",
+    "shortDescription": "Background: My wife and I have 4 boys 4 and under, so we have to get them out of the house consistently to stay sane. Finding good places t…",
+    "fullDescription": "Background: My wife and I have 4 boys 4 and under, so we have to get them out of the house consistently to stay sane. Finding good places to take them can be a frustrating process that involves digging through Facebook groups and Google&#x2F;Yelp reviews that aren&#x27;t always relevant for parents. The idea: An app that has reviews of places to take your kids by parents. No AI generated magic, just real people documenting their experience. Sproutings has a map of places parents have been with some ideas for new places to try. You can also coordinate outings with other parents using an outing planning tool. The challenge: I sat on this idea for a long time because of the challenge that is mapping data. The best POI source you can think of is Google, but their terms are unfriendly and prices don&#x27;t work for an indie dev. Other better priced options still do not let you store the POI data from their API in your own database. I was determined to have my own map view of all of the places people have reviewed, so I needed coordinates. The tech: My solution to this was a postgres database full of data I imported and filtered from OSM. This gives me full control over the data to with what I want. So now I have a really cool map view with pins that can scale to millions with no problem using pmtiles. The client side is built with React Native. This was just so I could easily launch on web and mobile. On web, RN has a hard time with SEO, so I had to display some raw HTML &#x2F; CSS here and there. There are also plenty of challenges with bugs that would only appear on certain platforms, so keeping everything aligned was a constant game of whack-a-mole. Conclusion: I have a picture in my mind of a Sproutings map overflowing with places reviewed by parents, but the reality is that we have a chicken and egg problem. A platform that relies on user engagement to provide value isn&#x27;t valuable until people have engaged. However, I&#x27;m hoping that I can reach more and more parents that would find it valuable and continue to expand its reach. I&#x27;d love to hear of any and all feedback! Thanks for reading.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://sproutings.app/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50462714",
+    "createdAt": "2026-11-12T07:30:24.301Z"
+  },
+  {
+    "slug": "ramasite-a-self-contained-laravelfilamentsqlite-cms-hn",
+    "title": "Ramasite, a Self-Contained Laravel/Filament/SQLite CMS",
+    "shortDescription": "I&#x27;m new here, and little nervous about posting, but here goes. I&#x27;m not a newbie. I started programming in BASIC when my dad bough…",
+    "fullDescription": "I&#x27;m new here, and little nervous about posting, but here goes. I&#x27;m not a newbie. I started programming in BASIC when my dad bought home a TRS-80 Model I in 1980, when I was 16. Other than a 9-year stint as active duty military, I&#x27;ve spent 46 years either personally or professionally working in tech. I&#x27;ve programmed in RPG using punch cards for an IBM &#x2F;System360, and COBOL on a DEC pdp 11&#x2F;34. I&#x27;ve worked professionally with VB, C#, SQL Server, ColdFusion, PHP, and more. I&#x27;ve seen a lot of technologies come and go. So this ain&#x27;t the first time I&#x27;ve jogged around this track. Here&#x27;s the problem I wanted to solve: I hate WordPress. I mean, as a concept, it&#x27;s fine, but I used to have a fairly popular motorcycle blog on WP that got trashed by hackers. I&#x27;ve also run into that problem with customers. When hackers find a wordpress site, they just bang on it like a drum. It&#x27;s a pain. It&#x27;s also a pain just to manage it, with a wild-west plugin system where plugins constantly fall in and out of compatibility. I&#x27;m also not a huge fan of PHP, but since it comes stock with pretty much every shared hosting service, where a lot of my web work is done, it&#x27;s kind of the default for doing web stuff. Back in about 2006 or so, I built my own blogging software, which I called .Blog, as an ASP.NET deal in C#. It took me about 6 months to build, start to finish. I didn&#x27;t have time to keep up with it, which is why I defaulted back to WP sometime around 2014. I migrated to Grav when I ran across it (I guess around 2020 or so), and I liked that. But Grav ran into some issues, and development on it really slowed. In the past year or so, the company I work for has been delving into using Claude Code, and I got an idea. What if I could just use Claude Code to build a CMS that has everything I want, and nothing I don&#x27;t? This project is the result of that idea. I designed the specifications for what I wanted it to do, and let Claude Code handle the actual code writing. I started with a flat-file, markdown-based flat-file CMS, and iterated on that. Fiddling around with markdown files and folders started to get tedious, so I moved towards SQLite as the back-end, to create a system as self-contained and easy to use as possible. This project is, I think, the final result of that idea. This project, from start to finish, took about 2 weeks to build using Laravel&#x2F;Filament&#x2F;PHP with Claude Code, compared to the 6 months it took to build .Blog by hand, 20 years ago. Cripes, I&#x27;m old. Personally, I&#x27;m pretty pleased with how this project turned out. I&#x27;m running two public websites on it. I&#x27;d be interested to hear what others think.\n\nНайдено в разделе Show HN на Hacker News. 👍 6 баллов.",
+    "url": "https://github.com/DaleFranks/ramasite",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50462469",
+    "createdAt": "2026-11-12T07:30:24.301Z"
+  },
+  {
+    "slug": "gethome-a-local-first-smart-home-hub-with-ai-hn",
+    "title": "gethome – a local-first smart home hub with AI",
+    "shortDescription": "Проект «gethome – a local-first smart home hub with AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «gethome – a local-first smart home hub with AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/gethome-inc/gethome-hub",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50462079",
+    "createdAt": "2026-11-12T07:30:24.301Z"
+  },
+  {
+    "slug": "motion-debugger-a-browser-critic-for-ai-slop-hn",
+    "title": "Motion Debugger – A browser critic for AI slop",
+    "shortDescription": "Built a tool to unslop UI and add cool motion. It&#x27;s an open-source workflow for coding agents, using Chromium to inspect the rendered…",
+    "fullDescription": "Built a tool to unslop UI and add cool motion. It&#x27;s an open-source workflow for coding agents, using Chromium to inspect the rendered site, catch broken animations, overlapping elements, layout issues, and other visual problems, then gives the agent feedback to fix them. a&#x2F;b tests are in the repo.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/ShadowKingYT444/motion-debugger",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50462023",
+    "createdAt": "2026-11-12T07:30:24.301Z"
+  },
+  {
+    "slug": "lynx-open-source-fully-customizable-ai-workspace-hn",
+    "title": "Lynx – open-source fully-customizable AI workspace",
+    "shortDescription": "I was finding that managing multiple agent threads with walls of text was getting tiring and inefficient for me and that I wanted a more vi…",
+    "fullDescription": "I was finding that managing multiple agent threads with walls of text was getting tiring and inefficient for me and that I wanted a more visual way to interact with my agents, so I built Lynx. Lynx lets you quickly build fully custom interfaces connected to your data sources (e.g. via MCP or API) and trigger agents running on your machine from them (e.g. with Claude Code or Codex). I built it as an experiment but have found myself doing 80-90% of my work from inside Lynx. I have my own Conductor-like workspace for coding, a Mail client, a workspace for my writing, and various others for dashboards and explorations. A few things are really cool about it: - Adding buttons to a UI that trigger a Claude Code agent running on my machine (e.g. to review a PR, get started on a task from Linear, or look for typos in my text) - Iterating on the interfaces is really easy, particularly because of a point tool that let&#x27;s you select what you want changed and an agent will update it live - Switching between workspaces takes a fraction of a second (much faster than e.g. switching between websites) - It&#x27;s all local :) Harnesses have been moving towards native support for artifacts and MCP-UI which kind of go in this direction but I think the current models add to context fragmentation rather than actually help it, so I flipped the model on its head and built an AI workspace &#x2F; harness where interactive interfaces are at the core. Calling this an AI workspace for now but honestly unsure what the proper term should be. Is this a visual harness? A hub for personal software? Keen to hear feedback about the conceptual model and what others have done that might be similar!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/yakkomajuri/lynx",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50461775",
+    "createdAt": "2026-11-12T07:30:24.301Z"
+  },
+  {
     "slug": "llx-markdown-github-2",
     "title": "llx-markdown",
     "shortDescription": "Ultrafast, lightweight streaming Markdown for React and AI replies. Its own parser, zero dependencies, 30.5 KB gzipped. GitHub Markdown plu…",
