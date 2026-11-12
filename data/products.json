@@ -1,5 +1,377 @@
 [
   {
+    "slug": "llx-markdown-github-2",
+    "title": "llx-markdown",
+    "shortDescription": "Ultrafast, lightweight streaming Markdown for React and AI replies. Its own parser, zero dependencies, 30.5 KB gzipped. GitHub Markdown plu…",
+    "fullDescription": "Ultrafast, lightweight streaming Markdown for React and AI replies. Its own parser, zero dependencies, 30.5 KB gzipped. GitHub Markdown plus steps, tabs, callouts, diagrams and math.\n\nАвтор: rsaryev. Найдено в GitHub Trending (AI-тематика). ⭐ 18 звёзд.",
+    "url": "https://localix.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "ai-chat",
+      "chat",
+      "commonmark",
+      "gfm",
+      "katex",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1452017008",
+    "createdAt": "2026-11-12T00:00:39.205Z"
+  },
+  {
+    "slug": "github-models-copilot-workspace-vcc-github",
+    "title": "github-models-copilot-workspace-vcc",
+    "shortDescription": "⚡ 2026 实战指南：手把手教你用 CoreGold 商业 VCC 搞定 GitHub Copilot & Models 结算",
+    "fullDescription": "⚡ 2026 实战指南：手把手教你用 CoreGold 商业 VCC 搞定 GitHub Copilot & Models 结算\n\nАвтор: ObiGeorgette0043. Найдено в GitHub Trending (AI-тематика). ⭐ 10 звёзд.",
+    "url": "https://github.com/ObiGeorgette0043/github-models-copilot-workspace-vcc",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "api",
+      "chatbot",
+      "chatgpt",
+      "coregold",
+      "github",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1453692451",
+    "createdAt": "2026-11-12T00:00:39.205Z"
+  },
+  {
+    "slug": "walph-github",
+    "title": "walph",
+    "shortDescription": "A cross-platform desktop IDE with Claude Code built in.",
+    "fullDescription": "A cross-platform desktop IDE with Claude Code built in.\n\nАвтор: filipe-campos. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://filipe-campos.github.io/walph",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude",
+      "claude-code",
+      "code-editor",
+      "codemirror",
+      "cross-platform",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1454284370",
+    "createdAt": "2026-11-12T00:00:39.205Z"
+  },
+  {
+    "slug": "mira-github",
+    "title": "mira",
+    "shortDescription": "A local-first, ChatGPT-style desktop client with projects, memory, web search, and agent tools.",
+    "fullDescription": "A local-first, ChatGPT-style desktop client with projects, memory, web search, and agent tools.\n\nАвтор: mrsibe. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/mrsibe/mira",
+    "category": "chatbot",
+    "tags": [
+      "agent",
+      "ai",
+      "ai-assistant",
+      "chatgpt-client",
+      "desktop-app",
+      "goat",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1452499229",
+    "createdAt": "2026-11-12T00:00:39.205Z"
+  },
+  {
+    "slug": "unogpt-github",
+    "title": "UnoGPT",
+    "shortDescription": "A GPT built from scratch, in pure Python. Meet UnoGPT , a small , self-built language model designed to understand conversations and solve…",
+    "fullDescription": "A GPT built from scratch, in pure Python. Meet UnoGPT , a small , self-built language model designed to understand conversations and solve everyday arithmetic.\n\nАвтор: aryanshrai03. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/aryanshrai03/UnoGPT",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "arithmetic",
+      "arithmetic-operations",
+      "autograd",
+      "deep-learning",
+      "from-scratch",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1453152720",
+    "createdAt": "2026-11-12T00:00:39.205Z"
+  },
+  {
+    "slug": "studio-github-2",
+    "title": "studio",
+    "shortDescription": "Gatita Studio open-source repository for modifications. Forks of this repository will have limited functionality when using the Gatita API.",
+    "fullDescription": "Gatita Studio open-source repository for modifications. Forks of this repository will have limited functionality when using the Gatita API.\n\nАвтор: gatitotech. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/gatitotech/studio",
+    "category": "developer",
+    "tags": [
+      "agent-framework",
+      "agentic-ai",
+      "ai",
+      "cli",
+      "coding",
+      "harness",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1452045824",
+    "createdAt": "2026-11-12T00:00:39.205Z"
+  },
+  {
+    "slug": "i-built-a-ai-acne-coach-that-helps-find-root-cause-of-your-acne-hn",
+    "title": "I built a AI acne coach that helps find root cause of your acne",
+    "shortDescription": "I’ve had acne for 10 years and I&#x27;m so exhausted of dont know what happened. So, I&#x27;m building AcneAlly to learn you overtime to fi…",
+    "fullDescription": "I’ve had acne for 10 years and I&#x27;m so exhausted of dont know what happened. So, I&#x27;m building AcneAlly to learn you overtime to figure out what&#x27;s causing your acne, and to give personalized support. Instead of tracking your skin or logging daily habits, you can just talk or interact with it like a companion. You can share about your acne, share your concerns, or ask anything you want. Based on what you share, it uses Al to reasoning to make guesses about what could be causing your acne. As you share more, it update it understanding abt you, its guesses abt the cause and it suggestions. This is an early version, and there&#x27;s still a lot to improve. I&#x27;d love to hear your feedback! Thanks for checking it out!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://acneally.vercel.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50460717",
+    "createdAt": "2026-11-12T00:00:49.868Z"
+  },
+  {
+    "slug": "dogfood-bench-hn",
+    "title": "Dogfood Bench",
+    "shortDescription": "*This is just for fun.* Anthropic builds Claude Code with Claude Code. If AI makes software engineers more productive, the effect should sh…",
+    "fullDescription": "*This is just for fun.* Anthropic builds Claude Code with Claude Code. If AI makes software engineers more productive, the effect should show up in the claude-code issue tracker. This page measures it.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://solomon-b.github.io/dogfood-bench/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50460339",
+    "createdAt": "2026-11-12T00:00:49.868Z"
+  },
+  {
+    "slug": "agent-skill-and-claudecodex-plugins-for-google-ads-campaigns-hn",
+    "title": "Agent skill and Claude/Codex plugins for Google Ads campaigns",
+    "shortDescription": "Проект «Agent skill and Claude/Codex plugins for Google Ads campaigns», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Agent skill and Claude/Codex plugins for Google Ads campaigns», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/adeptads/agent-skills",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50460287",
+    "createdAt": "2026-11-12T00:00:49.868Z"
+  },
+  {
+    "slug": "lettercamp-open-source-static-blog-framework-hn",
+    "title": "Lettercamp – open-source static blog framework",
+    "shortDescription": "Hi HN, I’m Eric and I’m building Lettercamp, an open-source static blog framework. The repo is at https:&#x2F;&#x2F;github.com&#x2F;letterc…",
+    "fullDescription": "Hi HN, I’m Eric and I’m building Lettercamp, an open-source static blog framework. The repo is at https:&#x2F;&#x2F;github.com&#x2F;lettercamp&#x2F;lettercamp and the homepage is online at https:&#x2F;&#x2F;www.lettercamp.com . Writing good content has always been the #1 way that I’ve grown the reach of products I’ve worked on in the past. However, it’s always bothered me how many little things get in the way of writing and publishing high quality, first party content onto the web. Building a performant, SEO-optimized blog from scratch was always distracting from development on the actual product, and setting up a 3rd party CMS meant that my content always lived in someone else’s database. Storing content in a non-markdown format also made it difficult to draft and edit with the help of an AI agent. Lettercamp is a modern approach to creating a content site. It ships with all the little features you’d expect in a blog: pagination, authors, metadata, search, cross linking, related posts and more. It’s also statically built, which means that all your content lives in markdown in your codebase, so a deployed version is performant with no database to maintain. This means that you can focus on writing good content instead of vibe-coding a whole blog. I want to add more features to the framework over time, including better support for AI agents, built in localization, email sign ups, and more. The repo is released under the MIT license so that anyone can use the framework to create a content site. The goal isn’t to charge individual developers. The monetization path is to provide a cloud hosted version, that has an online editor that content teams can use. The main advantage of this is to decouple the blog from product deploys, so that teams can publish content without needing to push code. I would love to get your feedback on if this is a problem that might resonate with you or your team. I know that a lot of products create a &#x2F;blog section at some point, and I wonder what solutions people are using today. My hope is that over time, Lettercamp can be the go-to solution for teams looking to set this up. Try it out: https:&#x2F;&#x2F;github.com&#x2F;lettercamp&#x2F;lettercamp and let me know what you think!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/lettercamp/lettercamp",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50459988",
+    "createdAt": "2026-11-12T00:00:49.868Z"
+  },
+  {
+    "slug": "zumungo-ai-driven-home-automation-hn",
+    "title": "Zumungo – AI-driven home automation",
+    "shortDescription": "Just released Zumungo AI driven Home Automation zumungo.com. Zumungo uses the power and flexibility of well established open source project…",
+    "fullDescription": "Just released Zumungo AI driven Home Automation zumungo.com. Zumungo uses the power and flexibility of well established open source projects such as HomeAssitant, Frigate, Whisper, go2rtc, Piper, Open AI, Ollama, etc. It wraps everything in easy to use user interface for non professional users. In addition Zumungo allows users to add their own devices that are not part of the catalog. Of course Zumungo is full blown Home Automation platform and has build-in servers for managing all IoT protocols such as Matter, Thread, Zigbee, Zwave, MQTT, BT, TCP, mDNS etc. Special attention is paid to security and camera management all the way to implementing Vision AI. In my tests Zumungo announces &quot;UPS truck approaching the drive way. A person carrying a package walks towards the door&quot;. This announcement is processed by an event and results in &quot;UPS delivery&quot; on the GH speakers around the house. Zumungo has it&#x27;s own event engine that is easy to use by both the user as well as AI Agent. User can tell AI agent &quot; Create an event to open the garage door and turn on the porch light, upon my arrival home on foot or by car tracked by zumungo geo fencing&quot;. Option exist for users to design their own panels to display on tablets on the wall or desktop computers for even easier management of the house by family members, guests, kids etc. For example if you rent your ADU on Airbnb than you can create dedicated panel on a tablet for guests to use that controls their rooms only and has no access to the main house. Zumungo has it&#x27;s own mobile app available at iOS store. For Android devices it is downloadable from Zumungo server itself. As far as AI goes, Zumungo offers simple interface in settings for user to pick and choose online AI agent from the major 3 ( Claude, Gemini or Open AI ) or pick a local agent from a list of various agents. Available local agents include Llama, Mistral, Qwen, DeepSeek, Phi and others. Zumungo always updates the agents to the best and latest and always vets them for licensing and legal compliance. Zumungo also advises user what kind of hardware is needed for particular agent to run typically 16GB or more of GPU memory. Trying Zumngo is easy. One line on any Linux machine or ready made RPi image - download-flash and go. See &quot;get started&quot; at Zumungo web site. Support issues come after trying and this is taken care of as well at Zumungo Forums or just email support@zumungo.com\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://zumungo.com/get-started.html",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50459255",
+    "createdAt": "2026-11-12T00:00:49.869Z"
+  },
+  {
+    "slug": "gromamd-live-c4-architecture-diagram-for-your-codebase-hn",
+    "title": "Groma.md – live c4 architecture diagram for your codebase",
+    "shortDescription": "Uses offline, deterministic scanners to produce a live architecture diagram that listens to file changes, staying up to date as you or your…",
+    "fullDescription": "Uses offline, deterministic scanners to produce a live architecture diagram that listens to file changes, staying up to date as you or your AI agents write code. It also includes architecture diffs between commits.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/MrLesk/Groma.md",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50459194",
+    "createdAt": "2026-11-12T00:00:49.869Z"
+  },
+  {
+    "slug": "move-more-with-short-random-exercise-challenges-hn",
+    "title": "Move more with short random exercise challenges",
+    "shortDescription": "Background: I&#x27;ve been working on Sporadic for years, while software engineering has been my full-time job. That means this code is min…",
+    "fullDescription": "Background: I&#x27;ve been working on Sporadic for years, while software engineering has been my full-time job. That means this code is mine, and I know it well since it was built in the pre-AI era. However, AI has allowed me to expand the features to a place where I am more confident in sharing it. Why: As an engineer, I sit and look at a screen all day. My brother is a graphic designer and does the same. Our goal was to build an app to get us on our feet, and one where we could do it together. What makes Sporadic fun is a mix of short exercises at random times during your day that you can do with your friends. We&#x27;ve got stats, streaks, and community-wide daily challenges. The mix of social accountability, random timing of challenges, and a streak to hold onto make it an effective tool for convincing me to do some push-ups between meetings. How it works: Get a push notification to do a specific short exercise within a given time limit. These can also be done with friends, and you&#x27;ll get a push when they complete one. A buddy doing the challenge is an incredible motivator. Tech: I started this project long ago to learn Swift and SwiftUI. The project is decidedly Apple, with a CloudKit database on the back end. One really cool thing this gives me is the ability to have an authenticated user based on their iCloud account only, so you don&#x27;t have to create an account to use Sporadic and join up with friends. Otherwise, CloudKit is pretty frustrating to use, and it will make it more difficult to add support for Android. If there is any Android demand, please let me know! Conclusion: I&#x27;ve enjoyed using Sporadic myself and hope that someone else out there could benefit from it. I would love some feedback on what is good and what needs improved. Thanks for reading.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.sporadic.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50458986",
+    "createdAt": "2026-11-12T00:00:49.869Z"
+  },
+  {
+    "slug": "version-history-for-your-synced-notes-ai-agent-safety-hn",
+    "title": "Version History for Your Synced Notes (AI Agent Safety)",
+    "shortDescription": "In addition to real-time multiplayer collaboration, your markdown notes in a synced graph in EtherPK - https:&#x2F;&#x2F;app.etherpk.com no…",
+    "fullDescription": "In addition to real-time multiplayer collaboration, your markdown notes in a synced graph in EtherPK - https:&#x2F;&#x2F;app.etherpk.com now keep a version history for every page and journal entry. It also keeps the pages, journal entries and files you delete, so you can restore them if needed. Versioning is an especially important piece of functionality along side AI agent editing or your notes. While versioning is a useful feature for human editing, it becomes more important when AI Agents have the capability to make broad changes at speed. EtherPK has recently added additional AI integration features, such as MCP Server and Headless Client with improved access to Tasks and Kanban boards in your graph, and also Agent Chat for talking to agents using context from your notes. Full post at: https:&#x2F;&#x2F;blog.etherpk.com&#x2F;version-history-for-your-synced-not...\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://blog.etherpk.com/version-history-for-your-synced-notes-additional-safety-for-working-alongside-ai-agents",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50458841",
+    "createdAt": "2026-11-12T00:00:49.869Z"
+  },
+  {
+    "slug": "a-free-crm-with-ai-tools-for-independent-insurance-agencies-hn",
+    "title": "A free CRM with AI tools for independent insurance agencies",
+    "shortDescription": "Проект «A free CRM with AI tools for independent insurance agencies», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A free CRM with AI tools for independent insurance agencies», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://harboriq.co",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50457867",
+    "createdAt": "2026-11-12T00:00:49.869Z"
+  },
+  {
+    "slug": "i-created-a-world-model-that-can-run-locally-and-hallucinates-gta5-hn",
+    "title": "I created a World Model that can run locally and hallucinates GTA5",
+    "shortDescription": "Проект «I created a World Model that can run locally and hallucinates GTA5», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I created a World Model that can run locally and hallucinates GTA5», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://lucidml.ai/dashboard/minidemo?world=gta5",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50457847",
+    "createdAt": "2026-11-12T00:00:49.869Z"
+  },
+  {
+    "slug": "websites-for-local-businesses-built-fom-reviews-keeping-upto-date-hn",
+    "title": "Websites for local businesses built fom reviews, keeping upto date",
+    "shortDescription": "I built the tool for local businesses, I know they have the problem: getting one built is easy, but nobody touches it afterwards. Content g…",
+    "fullDescription": "I built the tool for local businesses, I know they have the problem: getting one built is easy, but nobody touches it afterwards. Content goes outdated - working hours wrong, photos on the website from 2019 and reviews customers leaving on different platforms are everywhere but not on the website. My tool helps to build website in one click: you type a business name it reads the reviews and photos from Google, Yelp, Tripadvisor and builds a website from them in a few minutes, then it keeps reading and updating contnet constantly - A worker re-reads Google and other platforms on a schedule, stores only what is new, and rewrites the copy - Owners change things by chatting (&quot;make it dark green&quot;, &quot;add a page about emergency repairs&quot;) A while ago I&#x27;ve also built a bunch of free tools that are on the website and are open source: https:&#x2F;&#x2F;github.com&#x2F;vaitko&#x2F;locan-tools I&#x27;d like to hear where the generated sites look wrong or generic. Thank you for your feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://locan.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50457314",
+    "createdAt": "2026-11-12T00:00:49.869Z"
+  },
+  {
+    "slug": "daily-atlas-my-geography-quiz-game-where-rarer-answers-score-more-hn",
+    "title": "Daily Atlas, my geography quiz game where rarer answers score more",
+    "shortDescription": "Hi everyone. I&#x27;m an AI Masters student (UvA Amsterdam), and quite the geography nerd, having spent countless hours on GeoGuessr. I wan…",
+    "fullDescription": "Hi everyone. I&#x27;m an AI Masters student (UvA Amsterdam), and quite the geography nerd, having spent countless hours on GeoGuessr. I wanted to make my own simple geography game, but with some (even small) AI component to it. The game consists of 6 geography-related questions (countries, capitals, flags, languages, borders, etc) every day, where the rarer your answer, the rarer your score (tiers are [common, uncommon, rare, ultra rare, legendary]). No account needed or anything. Something I didn&#x27;t expect to cause so many issues were definitions. What counts as a country? A territory? When does a country &#x27;speak&#x27; a language? I would set a definition, and players would always (justifiably so!) break it -&gt; &quot;Well OK then if this is the definition, how come you don&#x27;t accept [very obscure super borderline answer]&quot;. Eventually I converged on a happy-medium with enough inclusion (I think), without the definition being a whole paragraph long: (i) Country: a sovereign state. Niue and the Cook Islands still cause problems: the UN lists them as &quot;non-member states&quot;, but they exhibit quite a bit of sovereignty, so I count them as countries. (ii) Territory: a place with an ISO 3166-1 alpha-2 code, given or reserved, that isn&#x27;t a sovereign state (e.g., Heard Island and McDonald Islands, Sint Maarten, Sark,...) (iii) Language spoken in {country}: working or official language, as said so by the government (or the entity&#x27;s governing body) Two components I think would be interesting for Show HN, and would like feedback on, are how I determine an answer&#x27;s rarity and the day&#x27;s difficulty. Difficulty: I trained a linear regression model on past play data (30 days, currently) to predict a number between 0 and 1. For each of the first 5 questions (the 6th is different in nature), I gather 3 features for the regression model: ln(num. possible answers), ln(1 + num. &#x27;common&#x27; answers), and whether answers contain a &#x27;legandary&#x27; (0 or 1), then take the weighted average. Fixed cut-offs snap that into a 1-5 difficulty level (e.g., 4&#x2F;5). Rarity (e.g, &quot;Name a country in the EU&quot; -&gt; Belgium): (i) Fame. Using Google Books Ngram (how often the name appears in English), QRank (pageviews of the name&#x27;s wikidata item, summed over every wikipedia language), and Wikipedia page views (median yearly views), I calculate a &quot;Fame Score&quot; for every country, territory, and capital (e.g., USA: 7.18, France: 6.85, Tuvalu: 5.76) (ii) Weight. Sometimes rarities still don&#x27;t feel quite right, so every question template (e.g., &quot;Name a country in Europe&quot;) gets a weight based on how much information it gives the player. Luxembourg is valid for both &quot;Name a country&quot; and &quot;Name a country in Europe&quot;, but knowing it&#x27;s in Europe narrows your possibilities, making Luxembourg an &quot;easier&quot; answer for the latter. (iii) Multiply Fame times the Weight to get a rarity score from 0-100, snapped to one of the rarity tiers. It&#x27;s a side project, and I&#x27;m continuously improving things based on feedback from players emailing me. Perhaps some of you could also provide some feedback? 1. How did the game &#x27;feel&#x27; to you? 2. Were any of your answers rejected? 3. What is something you like about the game? 4. What is something you dislike about the game? 5. Any other miscellaneous observations&#x2F;suggestions&#x2F;bugs Anything is appreciated. Thank you for your read, and have a good day&#x2F;night!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://dailyatlas.io/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50457027",
+    "createdAt": "2026-11-12T00:00:49.869Z"
+  },
+  {
+    "slug": "collection-of-beautya-walkable-3d-museum-of-public-domain-art-hn",
+    "title": "Collection of Beauty–a walkable 3D museum of public-domain art",
+    "shortDescription": "Hi HN, this is Collection of Beauty, a walkable, multi-floor 3D museum, based on a collection of art that I handpicked with 4000+ works. Hi…",
+    "fullDescription": "Hi HN, this is Collection of Beauty, a walkable, multi-floor 3D museum, based on a collection of art that I handpicked with 4000+ works. History: I&#x27;ve spent some time earlier this year just browsing Wikipedia public domain art for literally hours on end, downloading everything that I liked or appreciated, just asking myself do I find this beautiful on some level? The result is this... Well, not quite ^^ In the end I had a large folder with a bunch of images in it that begged the question: can I make this more useful somehow? Like, it&#x27;s nice to have all these images sitting on my hard disk somehow but I want to share this with other people as a Collection of Beauty. But they were just images, nothing else. A bit of wrangling with AI later and now this website exists. It has a 3D museum you can walk through, with multiple floors. The images are displayed at their real sizes relative to one another and the room layouts etc. And yes, the Mona Lisa is that small ^^ Luckily Wikimedia file names can be reverse searched and therefore I had access to the entire Wikimedia metadata against each of the images to sort them and create a metadata catalogue that allows for different ways of slicing through the images, like showing things like: &quot;similar artists&quot;, &quot;other artists the artist knew personally&quot;, or just &quot;epoch&#x2F;style&quot; related ideas. I also sorted paintings by color on one of the sub pages, because I thought that would be nifty. If you find something that is clearly in the wrong epoch or by the wrong artist or the wrong size, has a wrong title or whatever, please file an issue on GitHub ( https:&#x2F;&#x2F;github.com&#x2F;trebeljahr&#x2F;collection-of-beauty ). Also I know of this other project that did something similar (though they mapped literally all art that ever existed), but I swear I had this idea on my own, sometimes different people come up with the same stuff. https:&#x2F;&#x2F;artmuseum.artfrompixels.com&#x2F; When a friend sent this to me, I took some inspiration though and made the frames and lighting and general 3D experience much more beautiful as well. I also had to facepalm myself and whisper: &quot;why didn&#x27;t I think of this myself,&quot; and then added some (public domain or freely licensed) music playing in the background as you look at the paintings. The whole thing is deployed with Cloudflare workers because it&#x27;s 90% static and Cloudflare has very very generous free tiers. Also credit where credit is due, the set of flowers from Redoute is from https:&#x2F;&#x2F;www.c82.net&#x2F;redoute&#x2F; one of my favorite websites of all time ^^ Under the hood the image rendering in the 3D walkthrough does something cool with LOD texture variants where rooms determine when to load each painting&#x27;s resolution based on a bunch of heuristics, keeping the experience relatively lightweight and fast (hopefully). It should load the really big scans only if you jam up your nose right into a painting. If some beautiful but more modern art is missing (MC Escher?!) then this is because of copyright issues. There are quite a few artists whose work I would love to include in here but where there is still copyright on the images and therefore I can&#x27;t afaik. Also, if you have more Public Domain art, that you personally really like, please share that with me too, would love to include more stuff in here (if I like it ofc ^^). Link to Wikipedia, name of the artist to check out, name of the painting, etc.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://collectionofbeauty.com/gallery-3d",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50457026",
+    "createdAt": "2026-11-12T00:00:49.869Z"
+  },
+  {
+    "slug": "a-visual-algorithm-playground-hn",
+    "title": "A Visual Algorithm Playground",
+    "shortDescription": "I wanted to create a set of visually appealing algorithm visualizations that also allow you to trace the implementation in-depth against cu…",
+    "fullDescription": "I wanted to create a set of visually appealing algorithm visualizations that also allow you to trace the implementation in-depth against custom test cases. I usually learn best by staring at the code until it clicks; this project aims to follow that spirit. Let me know what you think :)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://0xb00.com/algorithms",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50456911",
+    "createdAt": "2026-11-12T00:00:49.869Z"
+  },
+  {
+    "slug": "mib-a-300kib-vim-style-markdown-scratchpad-for-linux-wayland-hn",
+    "title": "mib – A 300KiB Vim-Style Markdown Scratchpad for Linux / Wayland",
+    "shortDescription": "I tend to make a lot of scratch notes as a way to help me think. These usually don&#x27;t last very long and what does survive usually ends…",
+    "fullDescription": "I tend to make a lot of scratch notes as a way to help me think. These usually don&#x27;t last very long and what does survive usually ends up in a git repo, a wiki or (most often) just gets thrown away. I was using Obsidian for this, but gosh, 4 or 5 Electron processes just for throwaway notes seemed like overkill. Neovim is a better fit but I like it just the way it is for coding and didn&#x27;t want to install any image plug-ins for that. mib is a bit like a basic Vim editor, with a few Obsidian features cherry-picked and a workflow optimized around scratch notes (with just 9 glorious pages - no files or folders to organize). It&#x27;s called &quot;mib&quot; because it is, and always will be under 1MiB (currently &lt; 300KiB). Its a fully local, native app that is smaller than some JavaScript frameworks. Disclosure: I still write a lot of code by hand but this project is 100% AI generated (Claude and Codex). I was a tough taskmaster though - we worked through a lot of approaches to arrive at something this small.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/osigurdson/mib",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50456803",
+    "createdAt": "2026-11-12T00:00:49.869Z"
+  },
+  {
     "slug": "papertrails-your-personalized-feed-of-new-research-papers-hn",
     "title": "Papertrails – Your personalized feed of new research papers",
     "shortDescription": "Hey HN, I’m an AI researcher who craves staying up to date on all of the state of the art techniques in my field. Yet I’ve become very frus…",
