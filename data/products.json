@@ -1,5 +1,139 @@
 [
   {
+    "slug": "windows-tweak-checker-rpocket-team-github",
+    "title": "windows-tweak-checker-rpocket-team",
+    "shortDescription": "AI-проект с GitHub без описания.",
+    "fullDescription": "AI-проект с GitHub без описания.\n\nАвтор: FlameProudspark. Найдено в GitHub Trending (AI-тематика). ⭐ 50 звёзд.",
+    "url": "https://github.com/FlameProudspark/windows-tweak-checker-rpocket-team",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "claude-skills",
+      "cpu-affinity-gaming",
+      "cpu-sets",
+      "game-opti",
+      "gaming-tool",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1455590157",
+    "createdAt": "2026-11-12T22:22:12.900Z"
+  },
+  {
+    "slug": "neon-and-mubit-an-agent-that-cuts-its-own-frontier-model-tokens-by-73-hn",
+    "title": "Neon and Mubit: an agent that cuts its own frontier-model tokens by 73%",
+    "shortDescription": "Проект «Neon and Mubit: an agent that cuts its own frontier-model tokens by 73%», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Neon and Mubit: an agent that cuts its own frontier-model tokens by 73%», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://neon.com/blog/mubit-neon-ai-gateway",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50474934",
+    "createdAt": "2026-11-12T22:22:13.029Z"
+  },
+  {
+    "slug": "buildout-harmonies-based-game-to-build-ai-lab-hn",
+    "title": "Buildout, Harmonies-based game to build AI Lab",
+    "shortDescription": "Проект «Buildout, Harmonies-based game to build AI Lab», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Buildout, Harmonies-based game to build AI Lab», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://buildout.eamag.me/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50474623",
+    "createdAt": "2026-11-12T22:22:13.029Z"
+  },
+  {
+    "slug": "pond-snap-like-flappy-bird-but-for-people-who-want-to-relax-hn",
+    "title": "Pond Snap – Like Flappy Bird, but for people who want to relax",
+    "shortDescription": "I built this game; it&#x27;s called pond snap the aim of the game is to catch as many flies as possible to increase your score before the t…",
+    "fullDescription": "I built this game; it&#x27;s called pond snap the aim of the game is to catch as many flies as possible to increase your score before the time runs out. The game has 7 levels. Let me know what you think.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://pondsnap.fun/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50472585",
+    "createdAt": "2026-11-12T22:22:13.029Z"
+  },
+  {
+    "slug": "headwig-run-and-test-parallel-ai-agents-without-git-worktrees-hn",
+    "title": "Headwig - Run and test parallel AI agents without Git worktrees",
+    "shortDescription": "Hey HN! I am Harsh, been developing software for quite sometime now. Since agents came into my local SD workflow I had been facing a bottle…",
+    "fullDescription": "Hey HN! I am Harsh, been developing software for quite sometime now. Since agents came into my local SD workflow I had been facing a bottleneck. Event though agents are great in working parallelly, testing their changes and iterating is a pain. (Brain, storage &amp; memory overhead) We all use Git worktrees to code in parallel. But how do we test those changes? Still linearly. Or patched up multi-environment setup. And what if you have multiple microservices in an application? How do you test different combinations? I am building Headwig to help me with this. It lets me run multiple agents on my app, isolate their changes across services, and test and iterate on each one independently, even while other agents are working, without the storage overhead of duplicating workspaces for every task. I&#x27;ve been using it for my own webapp, and I want you guys to look at the workflow and see if it makes sense and give me any suggestions or feedback. https:&#x2F;&#x2F;harsh-kr-jha.github.io&#x2F;headwig&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://harsh-kr-jha.github.io/headwig/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50472340",
+    "createdAt": "2026-11-12T22:22:13.029Z"
+  },
+  {
+    "slug": "agentrun-open-source-self-improving-managed-agents-hn",
+    "title": "AgentRun – open-source, Self-improving Managed Agents",
+    "shortDescription": "We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: https:…",
+    "fullDescription": "We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: https:&#x2F;&#x2F;agentrun.ai&#x2F;blog&#x2F;introducing-agentrun-run-smarter-ag... . It includes what we originally built for our own agent harness: - Self-improving agents - Web-grounded workflows - A range of sandboxes and computer environments - Thousands of tools and integrations - Detailed analytics on how your agents behave You can bring your own agent. AgentRun works with Pi, Claude Agents, Codex, OpenCode, and any other harness that supports ACP. You can self-host it (see 1-click install on Render) with an OpenRouter key, or try the hosted version at console.agentrun.ai. We’d love feedback, especially on the architecture (see README), or anything we may be missing to make it useful to you.\n\nНайдено в разделе Show HN на Hacker News. 👍 60 баллов.",
+    "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50471650",
+    "createdAt": "2026-11-12T22:22:13.029Z"
+  },
+  {
+    "slug": "i-built-an-enhanced-ai-chat-using-the-new-generative-ui-from-copilotkit-hn",
+    "title": "I built an enhanced AI chat using the new Generative UI from CopilotKit",
+    "shortDescription": "Проект «I built an enhanced AI chat using the new Generative UI from CopilotKit», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built an enhanced AI chat using the new Generative UI from CopilotKit», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/aanthonymax/copilotkit-generative-ui-example",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50471284",
+    "createdAt": "2026-11-12T22:22:13.029Z"
+  },
+  {
+    "slug": "lessonfolk-learn-ai-from-an-ai-tutor-through-mcp-open-source-hn",
+    "title": "LessonFolk – Learn AI from an AI tutor, through MCP (open source)",
+    "shortDescription": "Проект «LessonFolk – Learn AI from an AI tutor, through MCP (open source)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «LessonFolk – Learn AI from an AI tutor, through MCP (open source)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://lessonfolk.com/?utm_source=hackernews&utm_medium=community&utm_campaign=show-hn",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50470315",
+    "createdAt": "2026-11-12T22:22:13.029Z"
+  },
+  {
     "slug": "senku-an-ai-agent-that-can-control-your-phone-in-background-hn",
     "title": "Senku, an AI agent that can control your phone in background",
     "shortDescription": "I built an ai agent that can control your phone in background I have been trying out personal agents that work on cloud and it has been a p…",
