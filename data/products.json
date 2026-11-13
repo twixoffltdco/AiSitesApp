@@ -1,5 +1,177 @@
 [
   {
+    "slug": "ai-portfolio-github-2",
+    "title": "ai-portfolio",
+    "shortDescription": "三个可运行的 AI 工程项目：可追溯 RAG、提示词评测与受守护的 NL2SQL 分析",
+    "fullDescription": "三个可运行的 AI 工程项目：可追溯 RAG、提示词评测与受守护的 NL2SQL 分析\n\nАвтор: 8hjkkwikl8. Найдено в GitHub Trending (AI-тематика). ⭐ 100 звёзд.",
+    "url": "https://8hjkkwikl8.github.io/ai-portfolio/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "fastapi",
+      "llm",
+      "nl2sql",
+      "portfolio",
+      "prompt-engineering",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1453561114",
+    "createdAt": "2026-11-13T10:29:50.815Z"
+  },
+  {
+    "slug": "get-me-hired-github",
+    "title": "get-me-hired",
+    "shortDescription": "A job-search assistant built with Claude Code: creates a master profile of your experience, finds and scores roles, tailors your resume and…",
+    "fullDescription": "A job-search assistant built with Claude Code: creates a master profile of your experience, finds and scores roles, tailors your resume and cover letters from approved bullets, fills applications up to Submit (human-in-the-loop), and preps you for interviews. Open source for you to make your own.\n\nАвтор: yusanglee. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/yusanglee/get-me-hired",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "career",
+      "claude-code",
+      "claude-code-plugin",
+      "cover-letter",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1454566976",
+    "createdAt": "2026-11-13T10:29:50.815Z"
+  },
+  {
+    "slug": "muzegen-ai-generate-ai-music-with-stem-separation-and-midi-export-hn",
+    "title": "MuzeGen AI – Generate AI music with stem separation and MIDI export",
+    "shortDescription": "Проект «MuzeGen AI – Generate AI music with stem separation and MIDI export», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «MuzeGen AI – Generate AI music with stem separation and MIDI export», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://muzegen.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50481083",
+    "createdAt": "2026-11-13T10:29:50.648Z"
+  },
+  {
+    "slug": "ctrl-realistic-work-simulations-for-engineering-interviews-hn",
+    "title": "CTRL – realistic work simulations for engineering interviews",
+    "shortDescription": "Hello everyone, I&#x27;m building a platform for startups and teams to spend less time screening candidates without using excessing AI. You…",
+    "fullDescription": "Hello everyone, I&#x27;m building a platform for startups and teams to spend less time screening candidates without using excessing AI. You can create an interview link and reply an application mail, message or for typical technical interviews Check it out and let me know what you think!!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ctr-l.studio/app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50480337",
+    "createdAt": "2026-11-13T10:29:50.649Z"
+  },
+  {
+    "slug": "ai-drop-project-drop-traffic-fast-from-misbehaving-crawlers-agpl-hn",
+    "title": "AI-drop project – drop traffic fast from misbehaving crawlers (AGPL)",
+    "shortDescription": "Hello! All started with 4 million requests &#x2F; day on rocketgit.com (AGPL git hosting). Instead of thousands. Enough is enough! Presenta…",
+    "fullDescription": "Hello! All started with 4 million requests &#x2F; day on rocketgit.com (AGPL git hosting). Instead of thousands. Enough is enough! Presentation (8 pages): https:&#x2F;&#x2F;rocketgit.com&#x2F;user&#x2F;catalinux&#x2F;ai-drop&#x2F;artefacts&#x2F;downl... So, I built AI-drop free-software project (AGPL) to block this kind of crawlers. rocketgit.com has a very restrictive robots.txt (only around 10 pages are allowed). But the crawlers are not respecting it. So, who is not respecting it will be blocked. Limiting by IP or user-agent is not working anymore. The crawlers are using millions of IPs and it takes days to reuse an IP. And they use fake user-agents. I am using honeypots to build a list of misbehaving IPs which are streamed to downstream instances. Right now I have around 1.573.000 IPv4 and 6.000 IPv6 misbehaving addresses. I keep them in the list only for 7 days to not block somebody legit. I am watching the traffic on rocketgit.com and the solution is working nicely. It uses an eBPF program to fast drop the packets. You can try it easily on your Linux servers: # Check https:&#x2F;&#x2F;rocketgit.com&#x2F;user&#x2F;catalinux&#x2F;ai-drop&#x2F;pkg # If your distribution is already there, follow the instructions. # It is the best way to keep you up-to-date. # Look inside &#x27;ai-drop.spec&#x27; or &#x27;debian&#x2F;control&#x27; and install the dependencies. git clone https:&#x2F;&#x2F;rocketgit.com&#x2F;user&#x2F;catalinux&#x2F;ai-drop cd ai-drop .&#x2F;configure make install # edit &#x2F;etc&#x2F;ai-drop.conf # Very important: # set &#x27;interface&#x27; (non &#x27;eth&#x27; are not supported now) # set &#x27;safe_mode = 0&#x27; if you only want to evaluate the product. Then: systemctl enable --now ai-drop journalctl -f -u ai-drop # The list of misbehaving IPs will be streamed from the main server. # Look at the statistics, especially &#x27;drops&#x27;: ai-drop dump-stats # Output example: # now=1794482762 ipv4_total=0 ipv6_total=0 total=0 \\ # ipv4_adds=0 ipv6_adds=0 adds=0 \\ # ipv4_updates=0 ipv6_updates=0 updates=0 \\ # ipv4_drops=0 ipv6_drops=0 drops=0 \\ # ipv4_real_drops=0 ipv6_real_drops=0 real_drops=0 \\ # ipv4_expires=0 ipv6_expires=0 expires=0 \\ # ipv4_deletes=0 ipv6_deletes=0 deletes=0 \\ # last_load=0 daemon_start=0 Please note that no AI was used to build this software. Thank you for your time! Catalin(ux) C.M.T. BOIE\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://rocketgit.com/user/catalinux/ai-drop",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50479949",
+    "createdAt": "2026-11-13T10:29:50.649Z"
+  },
+  {
+    "slug": "wonderchat-a-zendesk-alternative-that-doesnt-charge-per-seat-hn",
+    "title": "Wonderchat – A Zendesk alternative that doesn't charge per seat",
+    "shortDescription": "Hi HN, I’m Vera, co-founder of Wonderchat. We started as an AI website agent that answers customer questions from a company’s website and d…",
+    "fullDescription": "Hi HN, I’m Vera, co-founder of Wonderchat. We started as an AI website agent that answers customer questions from a company’s website and docs. Over time, customers kept asking for the rest of the support stack around it, so we built a helpdesk: live chat, a unified inbox for email and SMS, and a help center (coming soon in a couple of weeks). The pricing and AI native helpdesk experience is the part I most wanted to change. Most helpdesks charge per seat, so every new teammate adds to the bill, and support teams end up rationing logins. We charge one flat price with unlimited seats. You pay only for AI work: the replies and resolutions the agent handles. Human agents replying to tickets don’t cost anything extra. We&#x27;ve also rebuilt the entire customer service helpdesk around the ideas of AI agent deflecting frontline support tickets first, and having an AI helpdesk agent that helps to draft auto replies to incoming tickets. As the human agent approves its responses and sends them out, the AI helpdesk agent learns about the internal support SOPs to then continually draft better AI responses. The product is built for users to self-serve their customer service operations set up. You don’t have to open our dashboard to set it up. Open your site’s code in Claude Code, Cursor or any coding agent and paste: “Follow https:&#x2F;&#x2F;app.wonderchat.io&#x2F;llms.txt to add a Wonderchat AI support agent to this site. Train it on [your website], test it with a few real customer questions, and add the chat widget to the shared layout.” A few technical details: AI answers come from our own retrieval engine, built for large and messy knowledge bases (we have customers with 10,000+ documents) You can pick which AI model the agent runs on, so you aren’t locked into one provider It’s still early. Helpcenter is still a build in progress. You can try it free at https:&#x2F;&#x2F;wonderchat.io&#x2F; , no credit card needed. I’d especially like feedback on the product, pricing model, and from anyone who is considering a customer service agent and ticketing software, what made you decide on Zendesk&#x2F;Intercom? What would make you do the switch?\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://wonderchat.io/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50479411",
+    "createdAt": "2026-11-13T10:29:50.649Z"
+  },
+  {
+    "slug": "i-built-a-tool-to-check-website-access-for-14-ai-crawlers-hn",
+    "title": "I built a tool to check website access for 14 AI crawlers",
+    "shortDescription": "Проект «I built a tool to check website access for 14 AI crawlers», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built a tool to check website access for 14 AI crawlers», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://floxolab.com/ai-crawler-checker",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50478741",
+    "createdAt": "2026-11-13T10:29:50.649Z"
+  },
+  {
+    "slug": "vending-machine-uses-words-not-money-hn",
+    "title": "Vending machine uses words, not money",
+    "shortDescription": "I created a type to pay vending machine that has people pay for food with writing, and then I created a company that sells that same langua…",
+    "fullDescription": "I created a type to pay vending machine that has people pay for food with writing, and then I created a company that sells that same language at a 1000x markup to AI companies with an ethical cultivation guarantee. The vending machine is currently up until Tuesday in the Lexington and 51st 6 Station, in the Data Vandals newsstand.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://cultivatedcorpora.com/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50478484",
+    "createdAt": "2026-11-13T10:29:50.649Z"
+  },
+  {
+    "slug": "i-built-a-rick-and-morty-explainer-video-generator-hn",
+    "title": "I built a Rick and Morty explainer video generator",
+    "shortDescription": "&gt; paste any site or article or a script &gt; we turn it into a Rick and Morty sketch with dialogues, scenes, action and Rick and Morty o…",
+    "fullDescription": "&gt; paste any site or article or a script &gt; we turn it into a Rick and Morty sketch with dialogues, scenes, action and Rick and Morty of course &gt; click generate to turn the script into a storyboard you can review &gt; click generate to get a final video (this part is paid as it uses AI video under the hood)\n\nНайдено в разделе Show HN на Hacker News. 👍 12 баллов.",
+    "url": "https://usediorama.com/rick-and-morty",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50477993",
+    "createdAt": "2026-11-13T10:29:50.649Z"
+  },
+  {
+    "slug": "zipzi-open-source-live2d-editor-alternative-with-ai-assisted-editing-hn",
+    "title": "Zipzi – Open-source Live2D Editor alternative with AI-assisted editing",
+    "shortDescription": "Проект «Zipzi – Open-source Live2D Editor alternative with AI-assisted editing», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Zipzi – Open-source Live2D Editor alternative with AI-assisted editing», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/getzipzi/zipzi-2d",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50477525",
+    "createdAt": "2026-11-13T10:29:50.649Z"
+  },
+  {
     "slug": "1helm-github",
     "title": "1Helm",
     "shortDescription": "A personal AI workspace on your own Cloudflare account, with persistent memory, channel computers, and your choice of AI provider.",
