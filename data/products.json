@@ -1,5 +1,575 @@
 [
   {
+    "slug": "ai-manus-github-42",
+    "title": "ai--manus",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.\n\nАвтор: python001-dev. Найдено в GitHub Trending (AI-тематика). ⭐ 146 звёзд.",
+    "url": "https://github.com/python001-dev/ai--manus",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1456720350",
+    "createdAt": "2026-11-13T17:59:35.765Z"
+  },
+  {
+    "slug": "manus-ai-github-4",
+    "title": "manus--ai",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. \n\nАвтор: buttheadtrenton16-byte. Найдено в GitHub Trending (AI-тематика). ⭐ 146 звёзд.",
+    "url": "https://github.com/buttheadtrenton16-byte/manus--ai",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1456719103",
+    "createdAt": "2026-11-13T17:59:35.765Z"
+  },
+  {
+    "slug": "ai-manus-github-43",
+    "title": "ai--manus",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.\n\nАвтор: xombiensar. Найдено в GitHub Trending (AI-тематика). ⭐ 146 звёзд.",
+    "url": "https://github.com/xombiensar/ai--manus",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1456716938",
+    "createdAt": "2026-11-13T17:59:35.765Z"
+  },
+  {
+    "slug": "ai-manus-github-44",
+    "title": "ai--manus",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.\n\nАвтор: nachalnikokk. Найдено в GitHub Trending (AI-тематика). ⭐ 146 звёзд.",
+    "url": "https://github.com/nachalnikokk/ai--manus",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1456720126",
+    "createdAt": "2026-11-13T17:59:35.765Z"
+  },
+  {
+    "slug": "manus-ai-github-5",
+    "title": "manus--ai",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. \n\nАвтор: Ronni35. Найдено в GitHub Trending (AI-тематика). ⭐ 146 звёзд.",
+    "url": "https://github.com/Ronni35/manus--ai",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1456717318",
+    "createdAt": "2026-11-13T17:59:35.765Z"
+  },
+  {
+    "slug": "manus-ai-github-6",
+    "title": "manus--ai",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. \n\nАвтор: Floxaep1. Найдено в GitHub Trending (AI-тематика). ⭐ 146 звёзд.",
+    "url": "https://github.com/Floxaep1/manus--ai",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1456719748",
+    "createdAt": "2026-11-13T17:59:35.765Z"
+  },
+  {
+    "slug": "ai-manus-github-45",
+    "title": "ai--manus",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.\n\nАвтор: Floxaep1. Найдено в GitHub Trending (AI-тематика). ⭐ 146 звёзд.",
+    "url": "https://github.com/Floxaep1/ai--manus",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1456719430",
+    "createdAt": "2026-11-13T17:59:35.765Z"
+  },
+  {
+    "slug": "ai-manus-github-46",
+    "title": "ai--manus",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.\n\nАвтор: Axillios1. Найдено в GitHub Trending (AI-тематика). ⭐ 146 звёзд.",
+    "url": "https://github.com/Axillios1/ai--manus",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1456716945",
+    "createdAt": "2026-11-13T17:59:35.765Z"
+  },
+  {
+    "slug": "ai-manus-github-47",
+    "title": "ai--manus",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.\n\nАвтор: SandyPandyMandy. Найдено в GitHub Trending (AI-тематика). ⭐ 146 звёзд.",
+    "url": "https://github.com/SandyPandyMandy/ai--manus",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1456717885",
+    "createdAt": "2026-11-13T17:59:35.765Z"
+  },
+  {
+    "slug": "ai-manus-github-48",
+    "title": "ai--manus",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.\n\nАвтор: sofixleon-arch. Найдено в GitHub Trending (AI-тематика). ⭐ 146 звёзд.",
+    "url": "https://github.com/sofixleon-arch/ai--manus",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1456718702",
+    "createdAt": "2026-11-13T17:59:35.765Z"
+  },
+  {
+    "slug": "manus-ai-github-7",
+    "title": "manus--ai",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. \n\nАвтор: qweqeqeqweqeqwe. Найдено в GitHub Trending (AI-тематика). ⭐ 146 звёзд.",
+    "url": "https://github.com/qweqeqeqweqeqwe/manus--ai",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1456722073",
+    "createdAt": "2026-11-13T17:59:35.765Z"
+  },
+  {
+    "slug": "ai-manus-github-49",
+    "title": "ai--manus",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.\n\nАвтор: arberpilafi8-blip. Найдено в GitHub Trending (AI-тематика). ⭐ 146 звёзд.",
+    "url": "https://github.com/arberpilafi8-blip/ai--manus",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1456720970",
+    "createdAt": "2026-11-13T17:59:35.765Z"
+  },
+  {
+    "slug": "manus-ai-github-8",
+    "title": "manus--ai",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. \n\nАвтор: kazim768. Найдено в GitHub Trending (AI-тематика). ⭐ 146 звёзд.",
+    "url": "https://github.com/kazim768/manus--ai",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1456718148",
+    "createdAt": "2026-11-13T17:59:35.765Z"
+  },
+  {
+    "slug": "ai-manus-github-50",
+    "title": "ai--manus",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.\n\nАвтор: WLfear. Найдено в GitHub Trending (AI-тематика). ⭐ 146 звёзд.",
+    "url": "https://github.com/WLfear/ai--manus",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1456718623",
+    "createdAt": "2026-11-13T17:59:35.765Z"
+  },
+  {
+    "slug": "manus-ai-github-9",
+    "title": "manus--ai",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. \n\nАвтор: nachalnikokk. Найдено в GitHub Trending (AI-тематика). ⭐ 146 звёзд.",
+    "url": "https://github.com/nachalnikokk/manus--ai",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1456720495",
+    "createdAt": "2026-11-13T17:59:35.765Z"
+  },
+  {
+    "slug": "newly-startup-discover-emerging-startups-saas-and-ai-tools-hn",
+    "title": "Newly Startup – Discover emerging startups, SaaS and AI tools",
+    "shortDescription": "Проект «Newly Startup – Discover emerging startups, SaaS and AI tools», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Newly Startup – Discover emerging startups, SaaS and AI tools», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://newlystartup.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50487027",
+    "createdAt": "2026-11-13T17:59:35.576Z"
+  },
+  {
+    "slug": "giving-frontier-ai-models-capital-and-access-to-onchain-markets-hn",
+    "title": "Giving frontier AI models capital and access to onchain markets",
+    "shortDescription": "https:&#x2F;&#x2F;x.com&#x2F;BlinkCashX&#x2F;status&#x2F;2121289594805350464 We gave agents access to capital and on-chain markets (tokeniz…",
+    "fullDescription": "https:&#x2F;&#x2F;x.com&#x2F;BlinkCashX&#x2F;status&#x2F;2121289594805350464 We gave agents access to capital and on-chain markets (tokenized stocks, t-bills, lending, crypto, etc) with the goal to maximize profit. Truthfully, we are doing it as a POC to promote our new gateway product but the results are quite interesting. So far we have seen the American frontier agents prefer to invest in stocks while the Chinese models have relied on gold and bonds. All agents have steered clear of crypto thus far. A lot of the attention is focused around the NVIDIA scandal right now. The models are required to report on their thesis and reason for each trade. They are incentivized to produced outsized returns the same way a traditional hedge or prop fund is.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://blink.cash/arena",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50486789",
+    "createdAt": "2026-11-13T17:59:35.576Z"
+  },
+  {
+    "slug": "bonwa-a-free-visibility-check-for-your-website-hn",
+    "title": "Bonwa – A free visibility check for your website",
+    "shortDescription": "Hi, I am Bo :) A solo founder who knows how to build but doesn&#x27;t really know much about how to become visible. So to learn more, and w…",
+    "fullDescription": "Hi, I am Bo :) A solo founder who knows how to build but doesn&#x27;t really know much about how to become visible. So to learn more, and who knows maybe it becomes bigger, I am building Bonwa. Right now, I would appreciate you trying out the free check and letting me know if it told you anything valuable. I do have some work to do on improving how long it takes. But I hope the initial wait is worth it :)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://bonwa.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50485648",
+    "createdAt": "2026-11-13T17:59:35.576Z"
+  },
+  {
+    "slug": "dodaiso-open-source-personal-ai-agent-like-jarvis-dotsduet-hn",
+    "title": "Dodaiso – Open-source personal AI agent (like Jarvis, dots,duet)",
+    "shortDescription": "Проект «Dodaiso – Open-source personal AI agent (like Jarvis, dots,duet)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Dodaiso – Open-source personal AI agent (like Jarvis, dots,duet)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Dodaios/Dodaios",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50485592",
+    "createdAt": "2026-11-13T17:59:35.577Z"
+  },
+  {
+    "slug": "viral-video-ai-short-videos-from-text-photos-and-video-references-hn",
+    "title": "Viral Video AI – Short videos from text, photos and video references",
+    "shortDescription": "Проект «Viral Video AI – Short videos from text, photos and video references», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Viral Video AI – Short videos from text, photos and video references», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://viralvideoai.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50485331",
+    "createdAt": "2026-11-13T17:59:35.577Z"
+  },
+  {
+    "slug": "open-source-firmware-for-2011-bowers-and-wilkins-zeppelin-air-hn",
+    "title": "Open-source firmware for 2011 Bowers and Wilkins Zeppelin Air",
+    "shortDescription": "Just wanted to share something I&#x27;ve built. It&#x27;s fully reverse engineered, running on an old 2.4 Linux kernel I found on Nokia HD-…",
+    "fullDescription": "Just wanted to share something I&#x27;ve built. It&#x27;s fully reverse engineered, running on an old 2.4 Linux kernel I found on Nokia HD-1, but with a modern all-Rust userspace. Support Airplay 2 and Snapcast. The Airplay 2 implementation synchronizes with real Apple devices down to 1ms in the multi-room configuration. Spotify support is present, but it doesn&#x27;t work for me because of librespot key issues. It utilizes the MIPS co-processor cores I have found on it for audio decoding and crypto. There&#x27;s no FPU on the ARM nor the MIPS, so all the codecs are reimplemented in fixed-point math and made to fit the very small shared SRAM buffers. The DSP board firmware is also completely replaced. It fixes all the complaints I had about the original device: no source auto-switching, USB audio would de-enumerate when the speaker went to sleep, volume keys were sending HID events instead of using the proper UAC status interrupt endpoint, etc. I tried getting 24b USB audio to work, but unfortunately the endpoint buffers on this old AVR32 are too small. The the network audio supports full 44.1&#x2F;48&#x2F;24b though. The Wi-Fi chip is very old, there&#x27;s no upgrading that, so realtime ALAC on Airplay or PCM&#x2F;FLAC on Snapcast can be spotty if the connection isn&#x27;t perfect, but Ethernet works too. The iPod dock doesn&#x27;t work, mainly because I can&#x27;t find my old iPod anywhere to develop against. Send PRs if you have one! Also partly for vanity and partly for UX I updated the LED colors and FX.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/pawlowskialex/zd1",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50485222",
+    "createdAt": "2026-11-13T17:59:35.577Z"
+  },
+  {
+    "slug": "decide-decision-model-cli-for-analyzing-large-codebases-with-jev-hn",
+    "title": "Decide – decision model CLI for analyzing large codebases with Jev",
+    "shortDescription": "Проект «Decide – decision model CLI for analyzing large codebases with Jev», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Decide – decision model CLI for analyzing large codebases with Jev», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://decide.deepnoodle.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50485000",
+    "createdAt": "2026-11-13T17:59:35.577Z"
+  },
+  {
+    "slug": "leetsys-practice-system-design-interviews-with-an-ai-interviewer-hn",
+    "title": "Leetsys – Practice system design interviews with an AI interviewer",
+    "shortDescription": "Проект «Leetsys – Practice system design interviews with an AI interviewer», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Leetsys – Practice system design interviews with an AI interviewer», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://www.leetsys.dev",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50484902",
+    "createdAt": "2026-11-13T17:59:35.577Z"
+  },
+  {
+    "slug": "langfuse-ai-gateway-open-source-rust-gateway-to-trace-every-llm-call-hn",
+    "title": "Langfuse AI Gateway, open source rust gateway to trace every LLM call",
+    "shortDescription": "Hi HN, this is Max, Marc and Clemens, co-founders of Langfuse, the open source tool for agent &amp; observability &amp; evals ( https:&#x2F…",
+    "fullDescription": "Hi HN, this is Max, Marc and Clemens, co-founders of Langfuse, the open source tool for agent &amp; observability &amp; evals ( https:&#x2F;&#x2F;github.com&#x2F;langfuse&#x2F;langfuse ). It’s been a minute since our last Show HN in August 2023 ( https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=37310070 ) - we’ve been busy building out and serving our tracing &amp; eval pieces over the past years and have been very lucky to build a successful company and open source project around it. Today, we are happy to show the beta of Langfuse AI Gateway: https:&#x2F;&#x2F;github.com&#x2F;langfuse&#x2F;langfuse&#x2F;tree&#x2F;main&#x2F;ai-gateway . You may ask, why an AI Gateway as our second product: it’s been one our community’s strongest asks + integration pattern that we’ve seen. We want to offer a scalable, reliable and secure way to solve for the gateway use case in the same way that we’ve done with tracing&#x2F;evals over the past years. And we’ve recently grown our team with some excellent folks - expect to see more bigger bets from us. Our observability SDKs currently see the code you instrument. Much of a company&#x27;s model traffic runs through code that is not or cannot be easily instrumented: coding agents like Pi, Claude Code and Codex, internal tools, scripts etc. Third party gateways are already popular ways to emit traces to Langfuse and we’re happy to now ship one natively. You change your base URL and your API key. Langfuse AI Gateway forwards the native request with a provider key that does not need to be distributed across the team. Right now, it doesn&#x27;t translate between APIs, responses are relayed unchanged. This was a conscious decision to ensure stability for gateway users, as translation between e.g. OpenAI responses and Anthropic messages are imperfect and might lead to subtle failures in your agents. If you pass a traceparent header, the call lands inside your existing Langfuse traces. You can try by docker composing langfuse up and then on to http:&#x2F;&#x2F;localhost:3000 -- git clone https:&#x2F;&#x2F;github.com&#x2F;langfuse&#x2F;langfuse.git cd langfuse docker compose up -- On Cloud, each call becomes a Langfuse generation with tokens, cost, latency and time to first token. Prompts and outputs are recorded if you opt in. If you self-hosted you can also track nothing, not even metadata. Some details: - Written in Rust. Stateless, with no database; it talks only to the Langfuse platform and the providers. - 22MB Docker image. Under 3ms median overhead with tracing on, 1,000+ concurrent streams on 2 vCPUs. - MIT licensed. Self-host it with Docker Compose or Helm or use our Cloud version. - Your provider keys and contracts. We don&#x27;t resell tokens. What’s next? - Budget caps per key, user, team - Custom model aliases and fallbacks - Guardrails - PII redaction - SCIM user provisioning We’ll be around &amp; looking forward to all questions &amp; comments\n\nНайдено в разделе Show HN на Hacker News. 👍 8 баллов.",
+    "url": "https://github.com/langfuse/langfuse/tree/main/ai-gateway",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50484682",
+    "createdAt": "2026-11-13T17:59:35.577Z"
+  },
+  {
+    "slug": "skylands-run-coding-agents-on-any-machine-approve-from-your-phone-hn",
+    "title": "Skylands – Run coding agents on any machine, approve from your phone",
+    "shortDescription": "Проект «Skylands – Run coding agents on any machine, approve from your phone», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Skylands – Run coding agents on any machine, approve from your phone», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/skylands-ai/skylands",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50484659",
+    "createdAt": "2026-11-13T17:59:35.577Z"
+  },
+  {
+    "slug": "harness-tuner-eval-driven-tuning-loop-for-agent-tools-prompts-model-hn",
+    "title": "Harness Tuner – eval-driven tuning loop for agent tools, prompts, model",
+    "shortDescription": "Проект «Harness Tuner – eval-driven tuning loop for agent tools, prompts, model», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Harness Tuner – eval-driven tuning loop for agent tools, prompts, model», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/Kiln-AI/harness-tuner",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50484443",
+    "createdAt": "2026-11-13T17:59:35.577Z"
+  },
+  {
+    "slug": "build-django-admin-internal-tools-with-your-coding-agent-hn",
+    "title": "Build Django Admin internal tools with your coding agent",
+    "shortDescription": "I&#x27;m the creator of Django Control Room, an open-source framework for building operational tools inside Django Admin. I&#x27;ve release…",
+    "fullDescription": "I&#x27;m the creator of Django Control Room, an open-source framework for building operational tools inside Django Admin. I&#x27;ve released agent skills to help coding agents build project-specific tools: customer support consoles, billing operations, approval queues, and similar workflows. My aim to make it easier to build software products using Django by reducing the number of external services one has to manage. DCR lets you build tools in an already protected surface you likely already host - the Django admin. You can build your own tools or download many existing published tools available in the DCR registry at: https:&#x2F;&#x2F;djangocontrolroom.com&#x2F;panels&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://djangocontrolroom.com/build",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50484330",
+    "createdAt": "2026-11-13T17:59:35.577Z"
+  },
+  {
+    "slug": "jackai-experimenting-local-models-on-iphone-hn",
+    "title": "JackAI Experimenting Local Models on iPhone",
+    "shortDescription": "Hello HN! I&#x27;ve spent the last few months building solutions for friends and small businesses and creating mobile applications using Cl…",
+    "fullDescription": "Hello HN! I&#x27;ve spent the last few months building solutions for friends and small businesses and creating mobile applications using Claude Code and Codex. Didn&#x27;t get as much traction as I would have hoped for. Last week I spent a bit more time on running models locally on my iPhone. I wanted to see what you can get done on a model with &lt; 4B parameters and also keep my conversation private. My initial stab at it is JackAI. It is an AI assistant leveraging local models. It supports Apple Foundation models as well as open-weight models like Qwen 3.5 2B, Gemma 4 E2B, Whisper, etc. You can use it to chat with files, live transcription, live translation, OCR, text summarization and even deterministic actions like generating a QR code. It is available for free in the Apple App store: https:&#x2F;&#x2F;apps.apple.com&#x2F;us&#x2F;app&#x2F;jackai-offline-ai-assistant&#x2F;id... If you have a few minutes to download it and try it out, it would be appreciated. I&#x27;m looking for feedback and impressions. Let me know what you think!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://apps.apple.com/us/app/jackai-your-offline-assistant/id6833283331",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50484293",
+    "createdAt": "2026-11-13T17:59:35.577Z"
+  },
+  {
+    "slug": "branchbaybranchshell-frankenstein-interconnected-git-and-ssh-clients-hn",
+    "title": "BranchBay/BranchShell – frankenstein interconnected Git and SSH clients",
+    "shortDescription": "I&#x27;ve been a developer for half my life now. I have a metric ton of projects which I&#x27;ve always had a hard time naming and juggling…",
+    "fullDescription": "I&#x27;ve been a developer for half my life now. I have a metric ton of projects which I&#x27;ve always had a hard time naming and juggling around, my stack has been the same for maybe 5 years now: - Gitkraken for git, along with its profiles to juggle between work, personal and open source - Termius for SSH connections that work on the mobile as well - Jetbrains Toolbox for quickly opening my projects in IDEs I lost my job in December 2025, and when the subscriptions bill came through, I saw it and I decided to build my own. So introducing: BranchBay and BranchShell pretty much. BranchBay is like Gitkraken on steroids - rust drawn, has tabs and groups for grouping repositories, pretty much like Chrome. You can pull tabs out and split into a new session. BranchShell is on mobile + desktop as well, it holds all your SSH, Databases, S3, Port forwarding connections in an encrypted vault locally. Best thing is the tray app which you can quickly press global shortcuts like Cmd+Ctrl+O, and see all the repositories you have, with their profiles, with the groups, and quickly either open it in your favorite IDE or terminal and work with them. Because I built them for myself, to get rid of my own subscriptions, I&#x27;ve decided to put them online for $20 one time payment for 2 machines. The goal is to basically help devs get out of this subscription hell and save some money in the age of AI. The programs have been out for a couple of months now, and I&#x27;m using them daily. I&#x27;m happy to add new features and take input on them. I wanna build something that actually helps devs both financially and workflow wise.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://branchbay.dev",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50483891",
+    "createdAt": "2026-11-13T17:59:35.577Z"
+  },
+  {
+    "slug": "i-built-sqlite-databases-for-your-agents-with-an-airtable-view-for-you-hn",
+    "title": "I built SQLite databases for your agents with an Airtable view for you",
+    "shortDescription": "I&#x27;ve been setting up more and more scheduled tasks with Claude (I think I have about 30 now), and I was also an early Airtable fan and…",
+    "fullDescription": "I&#x27;ve been setting up more and more scheduled tasks with Claude (I think I have about 30 now), and I was also an early Airtable fan and user. And in a bunch of ways when I am building with Claude, I&#x27;m always trying to visualize a mental model of how it&#x27;s put together. And finally, Cloudflare has been putting out some incredible primitives this year. So I put it all together and built this tool for myself: connect the MCP, your agent can now create SQLite databases as much as it wants, and I get an Airtable view for each to see what it&#x27;s been doing. I have agents running for seo stuff on my projects, for job searches, for outreach, all the things, and I just tell them &quot;track this in airdash&quot;. The agents have taken very naturally to all this, they just really like databases. In the backend, every database lives on CloudFlare, you can rewind them to a previous state, you can download the database (your agent can do all this), it&#x27;s fast, its cheap, I am much of fan. It&#x27;s not a commercial project, I have just really been having fun building it and my agents have found it really useful. You can try it for free https:&#x2F;&#x2F;getairdash.com&#x2F; Thoughts&#x2F;comments&#x2F;ideas welcome, this has been too much fun so far\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://getairdash.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50483632",
+    "createdAt": "2026-11-13T17:59:35.577Z"
+  },
+  {
     "slug": "ai-portfolio-github-2",
     "title": "ai-portfolio",
     "shortDescription": "三个可运行的 AI 工程项目：可追溯 RAG、提示词评测与受守护的 NL2SQL 分析",
