@@ -1,5 +1,205 @@
 [
   {
+    "slug": "ai-manus-github-51",
+    "title": "ai--manus",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.\n\nАвтор: ITprogamatikDedSec. Найдено в GitHub Trending (AI-тематика). ⭐ 146 звёзд.",
+    "url": "https://github.com/ITprogamatikDedSec/ai--manus",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1456724466",
+    "createdAt": "2026-11-13T23:27:31.258Z"
+  },
+  {
+    "slug": "manus-ai-github-10",
+    "title": "manus--ai",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. \n\nАвтор: python001-dev. Найдено в GitHub Trending (AI-тематика). ⭐ 146 звёзд.",
+    "url": "https://github.com/python001-dev/manus--ai",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1456720744",
+    "createdAt": "2026-11-13T23:27:31.258Z"
+  },
+  {
+    "slug": "manus-ai-github-11",
+    "title": "manus--ai",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. \n\nАвтор: mtn-imran-khan. Найдено в GitHub Trending (AI-тематика). ⭐ 146 звёзд.",
+    "url": "https://github.com/mtn-imran-khan/manus--ai",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1456721356",
+    "createdAt": "2026-11-13T23:27:31.258Z"
+  },
+  {
+    "slug": "manus-ai-github-12",
+    "title": "manus--ai",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. ",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment. \n\nАвтор: rambotronado112-sudo. Найдено в GitHub Trending (AI-тематика). ⭐ 146 звёзд.",
+    "url": "https://github.com/rambotronado112-sudo/manus--ai",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1456720552",
+    "createdAt": "2026-11-13T23:27:31.258Z"
+  },
+  {
+    "slug": "i-have-trained-a-model-to-predict-my-blood-sugar-hn",
+    "title": "I have trained a model to predict my blood sugar",
+    "shortDescription": "I have trained a custom 31,253 parameter encoder-only transformer on a pregenerated synthetic CGM dataset and fitted it to my own personal…",
+    "fullDescription": "I have trained a custom 31,253 parameter encoder-only transformer on a pregenerated synthetic CGM dataset and fitted it to my own personal data using LoRA. It is competitive among other published models. I used 115 days of CGM data, of which 80 was used for training the adapter and 35 for testing. The model began with a pretraining stage where it consumed ~19,200 CGM-years worth of synthetic data, consisting of 1 million simulated type 1 diabetics at 7 days each. The simulator is designed to aid in counterfactual reasoning, but I don&#x27;t yet have a benchmark to test these capabilities downstream. Simply using these models on my phone gives me the impression that they do indeed react appropriately when forced to consider future insulin &amp; carbs. In addition to time series input, two additional inputs are provided: insulin (U) and carbs (G, GI) as action curves where U = units of insulin, G = carbs in grams, GI = glycemic index. U is exact, while (G, GI) is my best estimate. The model is trained to output BG in Kovatchev risk-space using {DILATE,MSE} and pinball loss combined with learned Kendall-Gal weights. The figures above show models trained using DILATE. It can predict 2 hours into the future, infill missing traces, and do backcasts (predictions into the past). The model is also trained to predict time-of-day given past blood sugar, in contrast to other models that consume time-of-day as input feature. This capability emerges in &gt;=48h context windows (i.e. 48 hours of past CGM trace). Natively the model has a variable context window size of 3.5 - 7.0 days. The model is still worse than me when it comes to predicting hypoglycemia in the next ~30 minutes.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/0xdeadf1sh/T1DMAI",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50489490",
+    "createdAt": "2026-11-13T23:27:31.053Z"
+  },
+  {
+    "slug": "free-ai-image-gallery-hn",
+    "title": "Free AI Image Gallery",
+    "shortDescription": "Проект «Free AI Image Gallery», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Free AI Image Gallery», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://images.skynettstudio.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50489463",
+    "createdAt": "2026-11-13T23:27:31.053Z"
+  },
+  {
+    "slug": "host-a-site-content-or-stream-from-a-browser-tab-served-over-webrtc-hn",
+    "title": "Host a site, content, or stream from a browser tab, served over WebRTC",
+    "shortDescription": "Site URL: https:&#x2F;&#x2F;fmrl.live Repository URL: https:&#x2F;&#x2F;gitlab.com&#x2F;croatoa&#x2F;fmrl This project allows you to host a…",
+    "fullDescription": "Site URL: https:&#x2F;&#x2F;fmrl.live Repository URL: https:&#x2F;&#x2F;gitlab.com&#x2F;croatoa&#x2F;fmrl This project allows you to host a website, content, and streaming from an open browser window. It gets served over WebRTC connections (or a Cloudfare turn server if that&#x27;s not available). This is just a start. Any suggestions or feedback to improve usability, feature requests, etc is super welcome. This is a project I&#x27;ve had in mind for a while. I wanted to participate in building for a decentralized web, so I thought it would be cool if people could run a social network kind of page from their own machine, and allow them to diffuse content over a peer to peer net, independent of the typical social media giants. While this iteration is not quite that, it&#x27;s a start. While the UI probably makes this super obvious, this is the first time I&#x27;ve used AI in coding (LLM, Claude Code). It really is some impressive machinery. The goal isn&#x27;t privacy, but rather autonomy, more or less. I know there are real limitations (like a host user closing their browser) but I feel like the idea is at least slightly novel (probably because its a mediocre idea lol).. but it&#x27;ll be interesting to see how it evolves. If you made it this far, thanks for the read. Hope you have a pleasant day.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://fmrl.live",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50489193",
+    "createdAt": "2026-11-13T23:27:31.054Z"
+  },
+  {
+    "slug": "calculator-for-comparing-data-extraction-quotes-cost-per-usable-record-hn",
+    "title": "Calculator for comparing data extraction quotes, cost per usable record",
+    "shortDescription": "Проект «Calculator for comparing data extraction quotes, cost per usable record», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Calculator for comparing data extraction quotes, cost per usable record», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://forage.ai/tools/tco-calculator/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50488153",
+    "createdAt": "2026-11-13T23:27:31.054Z"
+  },
+  {
+    "slug": "port-of-context-token-efficient-mcp-context-layer-hn",
+    "title": "Port of Context – Token efficient MCP context layer",
+    "shortDescription": "Hi HN, I&#x27;m working on a context layer built on OSS and open standards that lets agents search your company knowledge and use MCP tools…",
+    "fullDescription": "Hi HN, I&#x27;m working on a context layer built on OSS and open standards that lets agents search your company knowledge and use MCP tools all through a single gateway with code mode. Building this because we believe context can and should be portable across harnesses. The metric we are solving for here is &quot;cost to resolution&quot;. Given any question or a task, how quickly and cheaply can we put an agent on the correct path. Tech behind that: 1. Context map: software to create and maintain a context map of people, teams, systems, relationships, etc. It&#x27;s built on OKF, import&#x2F;export from this open standard. 2. Code mode: agents explore the map with a token efficient context eng. method (open source runtime, find portofcontext&#x2F;pctx on GitHub) 3. Indexing: Hybrid keyword and semantic search on any unstructured text, with code mode on top (we will open source this part soon, although it&#x27;s nothing special, the interesting part is placing content in the map and putting code mode on it) Some proof that it works: 1. Goose + code mode: https:&#x2F;&#x2F;aaif.io&#x2F;blog&#x2F;how-port-of-context-eliminated-producti... 2. tau-bench: https:&#x2F;&#x2F;portofcontext.com&#x2F;blog&#x2F;context-layer-platform-benchm... With Port of Context To try it, paste this into your coding agent: Set up pctx.ai&#x2F;onboard.md It will help you create an account, scan your active MCP connections, and help configure the gateway. Hope you find this useful and feel free to reach out: patrick@portofcontext.com\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://portofcontext.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50487905",
+    "createdAt": "2026-11-13T23:27:31.054Z"
+  },
+  {
+    "slug": "arcstone-airlock-blueprint-offline-charonaeneascoq-for-rust-hn",
+    "title": "Arcstone-Airlock-Blueprint – Offline Charon/Aeneas/Coq for Rust",
+    "shortDescription": "Проект «Arcstone-Airlock-Blueprint – Offline Charon/Aeneas/Coq for Rust», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Arcstone-Airlock-Blueprint – Offline Charon/Aeneas/Coq for Rust», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/trencinodin-stack/arcstone-airlock-blueprint",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50487797",
+    "createdAt": "2026-11-13T23:27:31.054Z"
+  },
+  {
+    "slug": "ai-juggler-orchestrate-your-desktop-claude-and-codex-apps-hn",
+    "title": "AI Juggler – Orchestrate your desktop Claude and Codex apps",
+    "shortDescription": "Проект «AI Juggler – Orchestrate your desktop Claude and Codex apps», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Juggler – Orchestrate your desktop Claude and Codex apps», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/figurehead-ai/AI-juggler",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50487349",
+    "createdAt": "2026-11-13T23:27:31.054Z"
+  },
+  {
     "slug": "ai-manus-github-42",
     "title": "ai--manus",
     "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
