@@ -1,5 +1,101 @@
 [
   {
+    "slug": "browserr-an-mcp-first-browser-for-ai-agents-one-rust-binary-hn",
+    "title": "Browserr – An MCP-first browser for AI agents (one Rust binary)",
+    "shortDescription": "Проект «Browserr – An MCP-first browser for AI agents (one Rust binary)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Browserr – An MCP-first browser for AI agents (one Rust binary)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://browserr.dev",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50493464",
+    "createdAt": "2026-11-14T03:28:11.283Z"
+  },
+  {
+    "slug": "open-source-version-of-cyclon-phone-where-ai-is-the-interface-hn",
+    "title": "Open-Source Version of Cyclon: Phone where AI is the interface?",
+    "shortDescription": "Проект «Open-Source Version of Cyclon: Phone where AI is the interface?», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Open-Source Version of Cyclon: Phone where AI is the interface?», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://opencyclone.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50493213",
+    "createdAt": "2026-11-14T03:28:11.283Z"
+  },
+  {
+    "slug": "portal2bench-can-ai-agents-solve-portal-2-hn",
+    "title": "Portal2Bench – Can AI agents solve Portal 2?",
+    "shortDescription": "Проект «Portal2Bench – Can AI agents solve Portal 2?», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Portal2Bench – Can AI agents solve Portal 2?», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://kingstonyip.com/portal2bench",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50492238",
+    "createdAt": "2026-11-14T03:28:11.283Z"
+  },
+  {
+    "slug": "memro-persistent-memory-for-claude-code-cursor-and-codex-hn",
+    "title": "Memro – Persistent Memory for Claude Code, Cursor and Codex",
+    "shortDescription": "Memro is go bases persistent memory system that lets ai agents share context acssion session using mcp, built on top of postgreSQL",
+    "fullDescription": "Memro is go bases persistent memory system that lets ai agents share context acssion session using mcp, built on top of postgreSQL\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/memrohq/memro",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50492093",
+    "createdAt": "2026-11-14T03:28:11.283Z"
+  },
+  {
+    "slug": "building-a-list-of-places-to-launch-your-app-hn",
+    "title": "Building a list of places to launch your app",
+    "shortDescription": "It&#x27;s manually reviewed (with AI help ofc) and I&#x27;ll keep it up to date. Feel free to add your suggestions.",
+    "fullDescription": "It&#x27;s manually reviewed (with AI help ofc) and I&#x27;ll keep it up to date. Feel free to add your suggestions.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://another.directory/where-to-launch",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50492076",
+    "createdAt": "2026-11-14T03:28:11.283Z"
+  },
+  {
+    "slug": "anvil-builds-premium-websites-at-lower-cost-hn",
+    "title": "Anvil builds premium websites at lower cost",
+    "shortDescription": "Anvil is an AI app builder focused on premium UI&#x2F;UX without the premium price tags. Build polished websites by using natural language…",
+    "fullDescription": "Anvil is an AI app builder focused on premium UI&#x2F;UX without the premium price tags. Build polished websites by using natural language with with real project execution, live previews and automated error correction. Plans starts at $1 for 7 days with 1M tokens. Built independently from Africa in Zambia.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.tryanvil.dev/",
+    "category": "no-code",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50491776",
+    "createdAt": "2026-11-14T03:28:11.283Z"
+  },
+  {
     "slug": "ai-manus-github-51",
     "title": "ai--manus",
     "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
