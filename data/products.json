@@ -1,5 +1,53 @@
 [
   {
+    "slug": "daily-puzzles-to-keep-ai-users-sharp-hn",
+    "title": "Daily puzzles to keep AI users sharp",
+    "shortDescription": "Проект «Daily puzzles to keep AI users sharp», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Daily puzzles to keep AI users sharp», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://brainsaver.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50502073",
+    "createdAt": "2026-11-15T01:10:46.859Z"
+  },
+  {
+    "slug": "enzo-dictation-meeting-diarization-and-recall-for-mac-on-device-hn",
+    "title": "Enzo – Dictation, meeting diarization, and recall for Mac, on-device",
+    "shortDescription": "Проект «Enzo – Dictation, meeting diarization, and recall for Mac, on-device», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Enzo – Dictation, meeting diarization, and recall for Mac, on-device», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://tryenzo.ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50501316",
+    "createdAt": "2026-11-15T01:10:46.860Z"
+  },
+  {
+    "slug": "deterministic-prompt-injection-detector-using-formal-logic-hn",
+    "title": "Deterministic prompt injection detector using formal logic",
+    "shortDescription": "This is a prompt-injection detector I built using NLP and SMT2.",
+    "fullDescription": "This is a prompt-injection detector I built using NLP and SMT2.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://nischoy.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50501132",
+    "createdAt": "2026-11-15T01:10:46.860Z"
+  },
+  {
     "slug": "ai-manus20-github",
     "title": "ai--manus2.0",
     "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
