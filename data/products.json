@@ -1,5 +1,101 @@
 [
   {
+    "slug": "a-local-first-ai-agent-for-the-desktop-no-electron-any-llm-endpoint-hn",
+    "title": "A local-first AI agent for the desktop, no Electron, any LLM endpoint",
+    "shortDescription": "Hey folks. Most all the apps I see for agent harnesses are typescript based, and involve either electron or some form of IPC to function as…",
+    "fullDescription": "Hey folks. Most all the apps I see for agent harnesses are typescript based, and involve either electron or some form of IPC to function as a desktop app. In the age of LLM&#x27;s, I thought it would be cool to build out a prototype of what a modern desktop application would like for this, without using any web code, since I can have agents pretty aggressively work on the cross-platform compatibility on my behalf. After about a week, I ended up with a harness that feels pretty good! Feel free to try it from the releases or you can install directly via: ``` cargo install byob ````\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Scronkfinkle/byob",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50507341",
+    "createdAt": "2026-11-15T15:46:28.328Z"
+  },
+  {
+    "slug": "securevibe-find-and-trace-vulnerabilities-before-shipping-hn",
+    "title": "SecureVibe – Find and trace vulnerabilities before shipping",
+    "shortDescription": "Hello HN, just wanted to share my project that I&#x27;ve been working on the past months, where I noticed the issue that now we ship faster…",
+    "fullDescription": "Hello HN, just wanted to share my project that I&#x27;ve been working on the past months, where I noticed the issue that now we ship faster than setting up the requirements for the project. So I thought of building secureVibe to find vulnerabilities in your codebase. Now I have a MVP where it doesn&#x27;t just scan the code and show random analysis I used Tree-sitter and AST to understand code context to validate vulnerabilities found as it builds a graph of application routes, handlers and database calls so it helps to determine whether findings are confirmed or likely. Briefly the features: 1- shows all vulnerabilities in your code with code snippets 2-fixing with ai option (optional with your own api key for now) 3- ask the graph feature as you can ask where the attacker can exploit my website or authentication issues (I used graphify as foundation for it ) 4- You can filter vulnerabilities categories (like Cwe, database injection and more) from dashboard and you can download it as html report simple interactive one so you can fix it on your own later. I would love to know your thoughts and feedback to continue on the development on it like some of the problems I faced is benchmarks to validate security rules. With some research I found openssf benchmark On the OpenSSF CVE benchmark, the raw F1 score was 77.5, but still I face some issues with false positive so would really appreciate feedback to continue on developing with next phases. Even though with these issues Its still working well, it is efficient and fast and preferably start with TypeScript repos first for it.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://securevibe-dev.vercel.app/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50507205",
+    "createdAt": "2026-11-15T15:46:28.328Z"
+  },
+  {
+    "slug": "db-branch-database-branches-in-seconds-for-ai-agents-and-ci-via-zfs-hn",
+    "title": "db-branch – database branches in seconds for AI agents and CI, via ZFS",
+    "shortDescription": "Проект «db-branch – database branches in seconds for AI agents and CI, via ZFS», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «db-branch – database branches in seconds for AI agents and CI, via ZFS», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/db-branch/db-branch",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50506940",
+    "createdAt": "2026-11-15T15:46:28.328Z"
+  },
+  {
+    "slug": "k8-cruft-a-windows-dev-junk-cleaner-with-a-30-day-undo-hn",
+    "title": "K8 Cruft – a Windows dev-junk cleaner with a 30-day undo",
+    "shortDescription": "Проект «K8 Cruft – a Windows dev-junk cleaner with a 30-day undo», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «K8 Cruft – a Windows dev-junk cleaner with a 30-day undo», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://lilbuba.ai/k8-cruft.html",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50506746",
+    "createdAt": "2026-11-15T15:46:28.328Z"
+  },
+  {
+    "slug": "aurora-geoxai-sovereign-geospatial-ai-built-out-of-frustration-hn",
+    "title": "Aurora GeoXAI – Sovereign geospatial AI built out of frustration",
+    "shortDescription": "Проект «Aurora GeoXAI – Sovereign geospatial AI built out of frustration», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Aurora GeoXAI – Sovereign geospatial AI built out of frustration», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/felipetjmg1-bit/aurora-geointelligence-xai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50506332",
+    "createdAt": "2026-11-15T15:46:28.328Z"
+  },
+  {
+    "slug": "vantage-v-ai-2-bit-ternary-kv-cache-with-attention-sinks-hn",
+    "title": "Vantage-V-AI – 2-bit ternary KV-cache with attention sinks",
+    "shortDescription": "Проект «Vantage-V-AI – 2-bit ternary KV-cache with attention sinks», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Vantage-V-AI – 2-bit ternary KV-cache with attention sinks», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/khoadev-vn/VANTAGE-V-AI",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50505516",
+    "createdAt": "2026-11-15T15:46:28.328Z"
+  },
+  {
     "slug": "shadowdiff-shadow-testing-and-sql-diffing-for-ai-migrated-back-ends-hn",
     "title": "ShadowDiff – Shadow testing and SQL diffing for AI-migrated back ends",
     "shortDescription": "Проект «ShadowDiff – Shadow testing and SQL diffing for AI-migrated back ends», опубликован сообществом Hacker News.",
