@@ -1,5 +1,21 @@
 [
   {
+    "slug": "semanticstructural-diffs-powered-by-jev-hn",
+    "title": "Semantic/Structural diffs powered by Jev",
+    "shortDescription": "Bit of a promo&#x2F;explainer video: https:&#x2F;&#x2F;x.com&#x2F;plannotator&#x2F;status&#x2F;2122076678155604016?a=6kshg... https:&#x2F;&…",
+    "fullDescription": "Bit of a promo&#x2F;explainer video: https:&#x2F;&#x2F;x.com&#x2F;plannotator&#x2F;status&#x2F;2122076678155604016?a=6kshg... https:&#x2F;&#x2F;plannotator.ai&#x2F;sem-jiff&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/plannotator/sem-jiff",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50510982",
+    "createdAt": "2026-11-16T00:43:42.884Z"
+  },
+  {
     "slug": "gemini-config-checker-github",
     "title": "Gemini-Config-Checker-",
     "shortDescription": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Li…",
