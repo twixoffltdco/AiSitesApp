@@ -1,5 +1,133 @@
 [
   {
+    "slug": "blue-harness-audit-and-harden-binaries-against-ai-assisted-reversing-hn",
+    "title": "Blue-harness – audit and harden binaries against AI-assisted reversing",
+    "shortDescription": "Проект «Blue-harness – audit and harden binaries against AI-assisted reversing», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Blue-harness – audit and harden binaries against AI-assisted reversing», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/seifheakal/blue-harness",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50514943",
+    "createdAt": "2026-11-16T07:37:58.519Z"
+  },
+  {
+    "slug": "figma-like-ai-landing-page-builder-hn",
+    "title": "Figma Like AI Landing Page Builder",
+    "shortDescription": "Проект «Figma Like AI Landing Page Builder», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Figma Like AI Landing Page Builder», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://codecainehq.com/",
+    "category": "design",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50514822",
+    "createdAt": "2026-11-16T07:37:58.519Z"
+  },
+  {
+    "slug": "talentradar-3d-geospatial-tech-compensation-and-role-radar-hn",
+    "title": "TalentRadar – 3D geospatial tech compensation and role radar",
+    "shortDescription": "Проект «TalentRadar – 3D geospatial tech compensation and role radar», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «TalentRadar – 3D geospatial tech compensation and role radar», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://ais-pre-keikksd2dcsi4qe6bzstuj-50566079524.europe-west2.run.app/__cookie_check.html?return_url=https%3A%2F%2Fais-pre-keikksd2dcsi4qe6bzstuj-50566079524.europe-west2.run.app%2F",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50514724",
+    "createdAt": "2026-11-16T07:37:58.519Z"
+  },
+  {
+    "slug": "openbutterfly-tracking-the-environmental-impact-of-the-ai-ecosystem-hn",
+    "title": "OpenButterfly – Tracking the environmental impact of the AI ecosystem",
+    "shortDescription": "I built OpenButterfly to help people understand the environmental impact of the AI ecosystem. Openbutterfly tracks major AI companies (AI l…",
+    "fullDescription": "I built OpenButterfly to help people understand the environmental impact of the AI ecosystem. Openbutterfly tracks major AI companies (AI labs, cloud providers, chip makers and data center operators) and maps data center sites with their local grid carbon and water stress. Every disclosed figure links to the report page it came from. Missing figures show as &quot;not disclosed&quot;, and estimates are clearly labeled. A few things surprised me. Eight of the 35 companies publish no energy, emissions or water figures at all, and seven of those eight are AI developers, including OpenAI, Anthropic, xAI and DeepSeek. No company publishes how much electricity its AI workloads use. And because of renewable energy certificates, companies typically report only about a fifth of the emissions from the grid power they actually used. Openbutterfly website itself is maintained by local LLMs (Gemma 4 31B, Qwen 3.8 27B), so its own AI environment footprint stays small. Automated pipelines running local LLMs fetch, extract company figures, and regularly they pick relevant stories from publisher news feeds and write a summary of each.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://openbutterfly.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50514264",
+    "createdAt": "2026-11-16T07:37:58.519Z"
+  },
+  {
+    "slug": "a-benchmark-that-diffs-the-whole-database-after-an-ai-agents-task-hn",
+    "title": "A benchmark that diffs the whole database after an AI agent's task",
+    "shortDescription": "Проект «A benchmark that diffs the whole database after an AI agent's task», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A benchmark that diffs the whole database after an AI agent's task», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/shubhamjoshipromail-svg/software-world-model",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50514157",
+    "createdAt": "2026-11-16T07:37:58.519Z"
+  },
+  {
+    "slug": "free-ai-background-remover-with-local-browser-privacy-mode-no-sign-up-hn",
+    "title": "Free AI Background Remover with Local Browser Privacy Mode (No Sign-Up)",
+    "shortDescription": "Проект «Free AI Background Remover with Local Browser Privacy Mode (No Sign-Up)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Free AI Background Remover with Local Browser Privacy Mode (No Sign-Up)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://toolifyhub.tools/tools/background-remover",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50513860",
+    "createdAt": "2026-11-16T07:37:58.519Z"
+  },
+  {
+    "slug": "memeo-turn-static-photos-into-lip-synced-ai-meme-videos-in-seconds-hn",
+    "title": "Memeo – Turn static photos into lip-synced AI meme videos in seconds",
+    "shortDescription": "Проект «Memeo – Turn static photos into lip-synced AI meme videos in seconds», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Memeo – Turn static photos into lip-synced AI meme videos in seconds», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://memeo.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50513619",
+    "createdAt": "2026-11-16T07:37:58.519Z"
+  },
+  {
+    "slug": "aquarium-pick-your-favorite-ai-generated-fish-tank-hn",
+    "title": "AquarIum – pick your favorite (AI-generated) fish tank",
+    "shortDescription": "I asked 12 different AI models to build the HTML to fill its own tank at an aquarium — then displayed them for you to see and vote on your…",
+    "fullDescription": "I asked 12 different AI models to build the HTML to fill its own tank at an aquarium — then displayed them for you to see and vote on your favorite one! I did this for several other &quot;gallery&quot; themes, such as fungi, fairy cards, bonsai trees, and constellations. Maybe not surprising, but it was interesting to see how often the models converged. Certain archetypes, such as moths or cranes in the &quot;planetarium&quot; gallery, appear frequently, not just in the same model family but also across model families. In the aquarium, I counted two cuttlefish, two octopuses, and two puffers (out of all of the fish in the sea!!). You might also notice particular themes or tendencies appear for certain models - for example, is it just me, or does Muse Wonder feel extremely ADHD or what? (look at the apothecary and fungarium in particular)\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://galleries.artfish.ai/aquarium/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50513104",
+    "createdAt": "2026-11-16T07:37:58.519Z"
+  },
+  {
     "slug": "semanticstructural-diffs-powered-by-jev-hn",
     "title": "Semantic/Structural diffs powered by Jev",
     "shortDescription": "Bit of a promo&#x2F;explainer video: https:&#x2F;&#x2F;x.com&#x2F;plannotator&#x2F;status&#x2F;2122076678155604016?a=6kshg... https:&#x2F;&…",
