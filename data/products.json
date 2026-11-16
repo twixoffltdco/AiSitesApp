@@ -1,5 +1,257 @@
 [
   {
+    "slug": "gemini-config-checker-github-16",
+    "title": "Gemini-Config-Checker-",
+    "shortDescription": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Li…",
+    "fullDescription": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) \n\nАвтор: WindowStaffGate11. Найдено в GitHub Trending (AI-тематика). ⭐ 473 звёзд.",
+    "url": "https://github.com/WindowStaffGate11/Gemini-Config-Checker-",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-search",
+      "aichecker",
+      "chatgpt",
+      "cli",
+      "config-checker",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1459019371",
+    "createdAt": "2026-11-16T17:54:41.354Z"
+  },
+  {
+    "slug": "gemini-config-checker-github-17",
+    "title": "Gemini-Config-Checker-",
+    "shortDescription": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Li…",
+    "fullDescription": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) \n\nАвтор: WerewolfEmuHub. Найдено в GitHub Trending (AI-тематика). ⭐ 473 звёзд.",
+    "url": "https://github.com/WerewolfEmuHub/Gemini-Config-Checker-",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-search",
+      "aichecker",
+      "chatgpt",
+      "cli",
+      "config-checker",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1459019231",
+    "createdAt": "2026-11-16T17:54:41.354Z"
+  },
+  {
+    "slug": "open-academy-math-academy-style-courses-for-any-subject-hn",
+    "title": "Open Academy – Math Academy-style courses for any subject",
+    "shortDescription": "Open Academy is an open-source app inspired by Math Academy ( https:&#x2F;&#x2F;mathacademy.com&#x2F; ). You use it to create courses on an…",
+    "fullDescription": "Open Academy is an open-source app inspired by Math Academy ( https:&#x2F;&#x2F;mathacademy.com&#x2F; ). You use it to create courses on any subject, taught in a similar way. If you&#x27;re unfamiliar with Math Academy, it&#x27;s a maths learning site with short lessons, lots of practice questions, and reviews that bring old topics back before you forget them. I really enjoyed using it to study maths, but I couldn&#x27;t find anything similar for other subjects. At the same time, I was using AI a lot to learn new topics but my lessons had no structure. So I built Open Academy to bridge that gap. You create courses with your AI of choice through the CLI, ideally grounded in your own notes or content from the web. The app handles the rest, which includes prerequisite locks, quizzes and spaced review (FSRS). I don&#x27;t intend to make a managed version of this. The repo and the demo include example courses: Maths for ML, ML Foundations, Deep Learning, Transformers and LLMs, LLM Inference and Reinforcement Learning so you can get a feel fo rit. MIT licensed. Runs with Docker, on Vercel with Neon, or fork it do with it as you please as far as hosting is concerned. Demo: https:&#x2F;&#x2F;open-academy-demo.vercel.app\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Jonathanvwersch/open-academy",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50519860",
+    "createdAt": "2026-11-16T17:54:41.387Z"
+  },
+  {
+    "slug": "emelyn-your-ai-social-media-manager-hn",
+    "title": "Emelyn, Your AI Social Media Manager",
+    "shortDescription": "Hi HN, I’m Taher. I’ve been building Emelyn, an AI agent that does the day to day work of a social media manager for founders and very smal…",
+    "fullDescription": "Hi HN, I’m Taher. I’ve been building Emelyn, an AI agent that does the day to day work of a social media manager for founders and very small teams. The problem I kept seeing was most founders know they should post regularly, but they don’t. Scheduling tools aren’t the hard part. The hard part is deciding what to say, following daily trends in your niche and actually creating and posting consistently as Social media algorithms rewards not just quality but volume as well It has helped few businesses grow their social accounts from zero to few thousand followers without any paid promotions. looking for suggestions and feedback\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.emelyn.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50519789",
+    "createdAt": "2026-11-16T17:54:41.387Z"
+  },
+  {
+    "slug": "coderbaba-an-open-source-ai-coding-agent-with-security-scanning-hn",
+    "title": "CoderBaba – An open-source AI Coding Agent with security scanning",
+    "shortDescription": "Проект «CoderBaba – An open-source AI Coding Agent with security scanning», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «CoderBaba – An open-source AI Coding Agent with security scanning», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://coderbaba.si",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50518918",
+    "createdAt": "2026-11-16T17:54:41.387Z"
+  },
+  {
+    "slug": "grapim-open-source-ai-code-review-that-runs-on-your-own-model-key-hn",
+    "title": "Grapim, open-source AI code review that runs on your own model key",
+    "shortDescription": "Проект «Grapim, open-source AI code review that runs on your own model key», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Grapim, open-source AI code review that runs on your own model key», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/grapim/grapim",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50518837",
+    "createdAt": "2026-11-16T17:54:41.387Z"
+  },
+  {
+    "slug": "make-a-custom-deck-of-playing-cards-with-your-family-and-friends-faces-hn",
+    "title": "Make a custom deck of playing cards with your family and friend's faces",
+    "shortDescription": "I decided to build a custom deck of cards for my own family. That actually took a while. Standalone image generation isn&#x27;t very good a…",
+    "fullDescription": "I decided to build a custom deck of cards for my own family. That actually took a while. Standalone image generation isn&#x27;t very good at a) consistency and b) symmetry. I eventually gave up relying on pure image prompts. The redning engine that makes the card is a hybrid of AI and code. The code does things like reflection and also does a bunch of appearance checks and fits. But I was so happy once I had it working. I built out a website in case this was someting other people wanted to try. The engine is Gemini API + Next.js. The website is standard stack: Next.js &#x2F; Supabase &#x2F;Postgres &#x2F; Inngest. Check it out! Go make a card. You don&#x27;t have to sign-up or hand over any money (for a printed deck, though, it&#x27;s $39.95). Go see what you&#x27;d look like on a playing card. Tell me what you think.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://facevaluepress.com/",
+    "category": "image-video",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50518770",
+    "createdAt": "2026-11-16T17:54:41.387Z"
+  },
+  {
+    "slug": "comemo-composite-memory-provider-for-hermes-agent-hn",
+    "title": "Comemo – composite memory provider for Hermes Agent",
+    "shortDescription": "There are many memory providers that can be used externally with Hermes Agent. However, like many other AI agents, Hermes only provides one…",
+    "fullDescription": "There are many memory providers that can be used externally with Hermes Agent. However, like many other AI agents, Hermes only provides one slot for an external memory provider. Comemo takes that slot and acts as a composite provider. How? It fans out memory writes to multiple backends such as Mem0, Honcho, and Supermemory. On retrieval, it queries the enabled providers, merges their results, and removes duplicates before returning them to Hermes. I intend to add support for more memory providers and eventually extend Comemo to other open-source AI agents with similar limitations.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/andausman/comemo",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50518538",
+    "createdAt": "2026-11-16T17:54:41.387Z"
+  },
+  {
+    "slug": "link-firewall-log-entries-to-the-ai-agent-step-behind-them-hn",
+    "title": "Link firewall log entries to the AI agent step behind them",
+    "shortDescription": "Проект «Link firewall log entries to the AI agent step behind them», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Link firewall log entries to the AI agent step behind them», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://mnestiq.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50518426",
+    "createdAt": "2026-11-16T17:54:41.387Z"
+  },
+  {
+    "slug": "jevmem-auto-tracked-project-rules-for-claude-code-codex-and-cursor-hn",
+    "title": "Jevmem – Auto Tracked Project Rules for Claude Code, Codex and Cursor",
+    "shortDescription": "hi HN, I&#x27;m AJ. Have been using Claude Code every day, and I was done re-typing the same project rules in every new chat. So I built th…",
+    "fullDescription": "hi HN, I&#x27;m AJ. Have been using Claude Code every day, and I was done re-typing the same project rules in every new chat. So I built this. We try to follow some rules in our coding projects. For eg: &quot;we use pnpm, not npm&quot;. The problem is, i tell claude about this rule in one chat, when i start another chat, i have to retype it. Also, when my team opens the same repo using another ai tool lets say cursor, they dont see the rule in their chat. Not cool. So I built jevmem. It saves your project&#x27;s rules in a file in your repo. and before Claude Code runs a command, it checks the command against those rules. How it works: 1) You chat with Claude Code like normal. 2) jevmem saves your rules, decisions and everything that failed, one line each, in a file called JEVMEM.md in your repo. 3) You commit JEVMEM.md like any other file. 4) Claude Code, Cursor and Codex can all read it. now, your team also gets it when they pull. for example: on Mon you tell Claude &quot;we use pnpm, not npm&quot;. On Tuesday your teammate pulls and opens the repo in Cursor. They can see the pnpm rule. oh and guard is my favourite part. So before Claude Code runs a command or edits a file, jevmem checks it against your rules. If it may break one of your rules, Claude Code stops and asks you first. Eg: your rule is &quot;don&#x27;t hand-edit db&#x2F;migrations&#x2F;, those files are generated&quot;. 3weeks later, in a new session if claude tries to edit a migration, Claude Code stops and shows: jevmem: this may break a saved rule: &quot;Don&#x27;t hand-edit db&#x2F;migrations&#x2F;: those files are generated.&quot; (JEVMEM.md) You can also retrieve failed attempt. Like if you tried caching API responses in memory, and it broke the build, claude will remember that and some time later when you do the same thing, Claude tells you &quot;Already tried: ...&quot; with the reason. Numbers from our tests: -&gt; Claude broke a project rule and left it in the code: 0 of 15 sessions with jevmem, 9 of 15 without it. We checked each one by hand. -&gt; Claude followed decisions made earlier in the project: 66 of 72 sessions with jevmem, 28 of 72 without. Tbh, a CLAUDE.md file that you keep updating yourself did about as well here (67 of 72). The difference is that jevmem updates the file for you, likewise for cursor and codex. jevmem also works alongside Claude Code&#x27;s own auto memory. It doesn&#x27;t replace it. The catches: - The guard works in Claude Code only. - You need a paid TypeSafe API key. jevmem&#x27;s requests are billed to that key. - Your message text is sent to TypeSafe to be scored. Common secrets are removed first. - Nothing stored remotely. You turn it on per project. - We ran the tests on our own test projects. (MIT license) Full results: https:&#x2F;&#x2F;avinash-jetwani.github.io&#x2F;jevmem&#x2F;results&#x2F; Install: 1. In claude: Plugins &gt; Discover &gt; jevmem &gt; Add 2. npm install -g jevmem 3. In your project folder: jevmem setup Repo: https:&#x2F;&#x2F;github.com&#x2F;Avinash-jetwani&#x2F;jevmem I&#x27;d like to hear about your genuine feedback and how we could make it better!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Avinash-jetwani/jevmem",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50518308",
+    "createdAt": "2026-11-16T17:54:41.387Z"
+  },
+  {
+    "slug": "nobody-blocks-a-keyboard-rooted-android-as-a-physical-usb-deck-hn",
+    "title": "Nobody blocks a keyboard – Rooted Android as a physical USB Deck",
+    "shortDescription": "Hey HN, I built Emittr because, i frequently deal with air-gapped or locked-down systems where USB storage is disabled and third party soft…",
+    "fullDescription": "Hey HN, I built Emittr because, i frequently deal with air-gapped or locked-down systems where USB storage is disabled and third party software cannot be installed. Nobody blocks a physical keyboard, so i used the Linux Kernel&#x27;s USB gadget subsystem (ConfigFS at &#x2F;dev&#x2F;hidg0) to turn a rooted android phone to a real USB HID Keyboard and mouse. 1. No installation on target device. It talks to motherboard USB controller, so it works in every locked down OS as well, BIOS, GRUB, etc. 2. Out of band bridge : we don&#x27;t store passwords or authenticators on rooted phone. Emittr exposes a web UI on LAN, so we can send keystrokes from our main phones. 3. Types long scripts (chatgpt debuggings), SSH keys or passwords at ~1000 WPM without touching the host&#x27;s clipboard. 4. OS can see this only as a genuine HID keyboard&#x2F;mouse. Zero host footprint as no drivers, software or background scripts on target machine. 5. Uses USB-IF 0x0238 via on-screen joysticks instead of synthetic Shift + Scroll hacks. Feel free to check the work and try if you have a rooted android handy. GitHub: https:&#x2F;&#x2F;github.com&#x2F;mr-anjaneyam&#x2F;Emittr Webpage: https:&#x2F;&#x2F;emittr.srianjaneyam.me&#x2F; I&#x27;m planning to record and add few demos in various scenarios (Windows, macOS, android, linux, bios) and devices (Phone, PC, TV, STB, Kiosk). Happy to answer any questions and would love to hear your suggestions, feature ideas or edge cases.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/mr-anjaneyam/Emittr",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50517840",
+    "createdAt": "2026-11-16T17:54:41.387Z"
+  },
+  {
+    "slug": "coral-open-source-gateway-where-agents-write-their-own-tools-hn",
+    "title": "Coral – Open-source gateway where agents write their own tools",
+    "shortDescription": "Hi HN, I&#x27;m James, one of the co-founders of Coral. Coral is an open-source, self-hosted gateway that sits between your agents and the…",
+    "fullDescription": "Hi HN, I&#x27;m James, one of the co-founders of Coral. Coral is an open-source, self-hosted gateway that sits between your agents and the systems they work on. Agents call tools by writing short TypeScript programs that they can save as custom tools to reuse. You can publish custom tools for groups of agents, so your team’s library of tools adapts to your unique systems, data and use cases. Custom tools help agent performance and give more precise units of permission control. Here’s a short demo: https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=p0PKOlHLyVI We started on this while building an AI SRE. To investigate an incident, the agent had to connect the dots across an ocean of telemetry data and undocumented relationships across internal and external systems. It took broad permissions, a lot of tokens and it would start from scratch the next time. We built Coral so that the agent remembers the route. Once a task succeeds, the agent writes the steps that worked into a program and saves it as a custom tool. Next time, the agent finds that custom tool in the same search as standard provider tools (e.g. Datadog, Slack), and reuses it. It started with SRE, but we (and our early users) now use Coral for agent work across the org. For our tasks across GitHub, Linear and Slack with Opus 5.5, custom tools help agents work 29% faster, at 31% lower cost (tasks here: https:&#x2F;&#x2F;withcoral.com&#x2F;docs&#x2F;examples&#x2F;custom-tools ). Coral builds on code mode, adding custom tools, policy controls and managed identities. Each program runs in a V8 isolate with no network access or credentials. Coral checks every tool call against workspace policy before attaching credentials and forwarding it to the provider. You can configure each provider to use the caller’s own account, so teammates can share tools without sharing API tokens. (e.g. https:&#x2F;&#x2F;withcoral.com&#x2F;blog&#x2F;slackbot-works-better-with-coral ) Coral is written in Rust, and you can run it as a desktop app or as a shared server. The core is Apache 2.0 and has no limits on users, agents or volume. Everything I&#x27;ve described here is in the OSS edition. SAML, SCIM, and org-wide governance features will be available soon under an enterprise licence. We&#x27;d love for you to try it and share your feedback. You can download it here https:&#x2F;&#x2F;withcoral.com&#x2F;download . I&#x27;ll be in the comments here and on Slack: https:&#x2F;&#x2F;withcoral.com&#x2F;slack\n\nНайдено в разделе Show HN на Hacker News. 👍 48 баллов.",
+    "url": "https://github.com/withcoral/coral",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50517803",
+    "createdAt": "2026-11-16T17:54:41.387Z"
+  },
+  {
+    "slug": "claktor-a-refactoring-cli-for-coding-agents-hn",
+    "title": "Claktor – a refactoring CLI for coding agents",
+    "shortDescription": "I&#x27;ve been working on Claktor ever since I got frustrated with some &#x27;code smells&#x27; AI Agents have been producing while writing…",
+    "fullDescription": "I&#x27;ve been working on Claktor ever since I got frustrated with some &#x27;code smells&#x27; AI Agents have been producing while writing Rust. Claktor is a refactoring tool that leverages custom AST parsing and processing to produce ranked &#x27;leads&#x27; on what in the codebase should be looked into to reduce logic duplication. When I started out, it was mostly an opinionated &#x27;how code should be written&#x27; detector, after attempting to formalize something objectively useful out of it I&#x27;ve arrived to this. How is it scored? When exploring how to try to roughly judge how much logic there is in a program, the first approach is LOC. However that is just a proxy as lines can have lots of meat and can be gamed. What we arrived to are &#x27;normalized tokens&#x27; which is a parsing of a normalized program by an LLM tokenizer. This neatly fits into then cost of reading the modified file by AI Agents. The more normalized tokens we reduce while preserving behaviour, the more deduplicated to codebase is and cheaper it is to read, extend, test and maintain by AI Agents. (the normalization is subject to some guards like: removing types does not reduce tokens) Is this developed to the extent that it can be? By all means no! It already is very effective however as it greedily ranks everything through the codebase so AI Agents can remove around 3 to 10 times more for the same cost depending on the repo. Please try it out and let me know how it goes! Currently works with TS,JS,Rust and Python\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://claktor.com/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50517415",
+    "createdAt": "2026-11-16T17:54:41.388Z"
+  },
+  {
+    "slug": "lgtm-a-reigns-style-swipe-game-about-surviving-your-ai-coworker-hn",
+    "title": "LGTM – A Reigns-style swipe game about surviving your AI coworker",
+    "shortDescription": "Проект «LGTM – A Reigns-style swipe game about surviving your AI coworker», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «LGTM – A Reigns-style swipe game about surviving your AI coworker», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://lgtm-flame.vercel.app/en/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50517409",
+    "createdAt": "2026-11-16T17:54:41.388Z"
+  },
+  {
+    "slug": "daventryio-browser-game-engine-inspired-by-sierra-zzt-and-dd-hn",
+    "title": "Daventry.io – browser game engine inspired by Sierra, ZZT, and D&D",
+    "shortDescription": "This started out as a casual side project, tinkering with AI to play some of my favorite old adventure games like King&#x27;s Quest and Spa…",
+    "fullDescription": "This started out as a casual side project, tinkering with AI to play some of my favorite old adventure games like King&#x27;s Quest and Space Quest in the browser. Now it&#x27;s a self-running, self-maintaining, self-iterating side project capable of importing, playing (single player or multiplayer), or modding those games (manually or with AI), or creating completely new games from scratch. It sort of invented a couple of its own &quot;languages&quot; along the way? It calls one of them the &quot;machine form&quot; which is in the ballpark of LLVM IR and ghidra p-code, and the other one is a TypeScript subset, meant to be a more human-readable layer on top of the machine form. Honestly I&#x27;m still trying to catch up a bit on what it&#x27;s done and continuing to do. I linked to the &quot;Making Of&quot; page of the app because I think my process and &quot;collaboration&quot; with Claude might actually be even more interesting than the project itself. As a software engineer, I&#x27;ve been grappling with how to use or not use AI in this new world we&#x27;re living in. Here&#x27;s my most optimistic attitude after working on this project: - Coding before AI was more like building with legos, one piece at a time. - Coding with AI is more like sculpting, where you already start with material, and you shape and shave and chip off what you don&#x27;t like until you get something closer to what you want. For this project, I provided (and sometimes continue to tweak) the main goal and vision. At the beginning I still kicked off each Claude session myself and was actively prompting each step. At some point though, enough documentation had been made that my sessions started becoming one prompt of &quot;what&#x27;s next&quot; and then a second prompt of &quot;ok, go&quot;. So now I have an &quot;ops coordinator&quot; Claude session that runs routinely and spins up additional Claude sessions to keep working on the project...without me. They do things like work through the queue of already-planned work, brainstorm new items to work on, test existing work, do research into related projects or applications, have meetings with each other, and propose new directions or breaking changes to me. If there&#x27;s something that requires me, I get notified. There are also several Claude html artifacts that function as a a sort of dashboard that I can pull up to see what&#x27;s been done recently, what&#x27;s coming up next, and what questions or action items there are for me. Even though that sounds very hands-off, I find that I&#x27;m actually still pretty involved, because I like to redirect and nudge what the agents are working on pretty frequently. And that process does still feel pretty creative and engaging. Hence my &quot;sculpting&quot; attitude. But, there are other possible metaphors for coding with AI that also come to mind... - IKEA - Frankenstein So at this point, I guess it&#x27;s still an open question: is what I&#x27;m making more of a sculpted work of art, or more like Frankenstein&#x27;s monster?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://daventry.io/making-of",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50517319",
+    "createdAt": "2026-11-16T17:54:41.388Z"
+  },
+  {
     "slug": "blue-harness-audit-and-harden-binaries-against-ai-assisted-reversing-hn",
     "title": "Blue-harness – audit and harden binaries against AI-assisted reversing",
     "shortDescription": "Проект «Blue-harness – audit and harden binaries against AI-assisted reversing», опубликован сообществом Hacker News.",
