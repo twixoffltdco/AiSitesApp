@@ -1,5 +1,187 @@
 [
   {
+    "slug": "gemini-config-checker-github-18",
+    "title": "Gemini-Config-Checker-",
+    "shortDescription": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Li…",
+    "fullDescription": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) \n\nАвтор: WharfBoulderColander. Найдено в GitHub Trending (AI-тематика). ⭐ 473 звёзд.",
+    "url": "https://github.com/WharfBoulderColander/Gemini-Config-Checker-",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-search",
+      "aichecker",
+      "chatgpt",
+      "cli",
+      "config-checker",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1459019270",
+    "createdAt": "2026-11-17T10:09:01.917Z"
+  },
+  {
+    "slug": "i-told-ai-to-write-flacmp3dst-decoders-got-2x-faster-than-ffmpeg-hn",
+    "title": "I told AI to write FLAC/MP3/DST decoders, got ~2x faster than FFmpeg",
+    "shortDescription": "Open source MIT licence. Detailed metrics at https:&#x2F;&#x2F;orpheic.com&#x2F;decoders&#x2F;",
+    "fullDescription": "Open source MIT licence. Detailed metrics at https:&#x2F;&#x2F;orpheic.com&#x2F;decoders&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/orpheic/orpheic-decoders",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50529485",
+    "createdAt": "2026-11-17T10:09:01.740Z"
+  },
+  {
+    "slug": "call-nara-an-ai-voice-companion-built-with-older-people-in-mind-hn",
+    "title": "Call Nara. An AI voice companion built with older people in mind",
+    "shortDescription": "Call Nara: someone to talk to, any time Call Nara is a simple voice companion for older people, and for anyone who spends long days alone.…",
+    "fullDescription": "Call Nara: someone to talk to, any time Call Nara is a simple voice companion for older people, and for anyone who spends long days alone. You tap once and talk. There&#x27;s no typing. Nara greets you by name, asks how you are, chats and listens. Just ask by voice, and she can play music, hymns and movies, read from the Bible, and look through photos that you or your family have added, reading out the captions and chatting about them. If you nominate a family member, friend or carer, she can let them know if you seem upset or distressed. Call Nara was designed with older people in mind, and with the families and friends who love them. It&#x27;s built for everyone, so no one is left behind. Whatever your age, Nara is here for you. Available now on iPhone and iPad (iOS only for now). Feel free to check it out\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://apps.apple.com/au/app/call-nara/id6794990805",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50529032",
+    "createdAt": "2026-11-17T10:09:01.740Z"
+  },
+  {
+    "slug": "ai-agent-infrastructure-and-memory-compaction-specifications-hn",
+    "title": "AI Agent Infrastructure and Memory Compaction Specifications",
+    "shortDescription": "Проект «AI Agent Infrastructure and Memory Compaction Specifications», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Agent Infrastructure and Memory Compaction Specifications», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/grfdsasdvef/awesome-ai-agent-infrastructure",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50528803",
+    "createdAt": "2026-11-17T10:09:01.740Z"
+  },
+  {
+    "slug": "lantern-desktop-app-that-maps-your-repo-and-reviews-ai-written-prs-hn",
+    "title": "Lantern – desktop app that maps your repo and reviews AI-written PRs",
+    "shortDescription": "Проект «Lantern – desktop app that maps your repo and reviews AI-written PRs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Lantern – desktop app that maps your repo and reviews AI-written PRs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/MobileReality/lantern",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50528778",
+    "createdAt": "2026-11-17T10:09:01.740Z"
+  },
+  {
+    "slug": "harness-for-buildingcloning-saas-using-open-weight-models-hn",
+    "title": "Harness for building/cloning SaaS using open-weight models",
+    "shortDescription": "Built a codex like harness for non-tech builders to easily clone B2B SaaS using open-weight models. We figured companies are still charging…",
+    "fullDescription": "Built a codex like harness for non-tech builders to easily clone B2B SaaS using open-weight models. We figured companies are still charging for building software. Software, we think is commoditized. Tokens are cheap, and intelligence is open. What&#x27;s the point of billing tokens. We want to take the power back from big labs and democratize the power of SoTA LLMs for every builder out there. 1M output tokens shouldn&#x27;t cost 10s of dollars. Lots of work to be done but we built a harness that can use open weight models from open router to build SaaS clones. Give it a shot and lmk what you guys think. We are giving away a generous free tier of open weight model credits along with a lot of SaaS templates that you can start with.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://neander.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50528475",
+    "createdAt": "2026-11-17T10:09:01.740Z"
+  },
+  {
+    "slug": "backplane-an-ai-development-environment-for-hardware-hn",
+    "title": "Backplane – An AI Development Environment for Hardware",
+    "shortDescription": "We made Backplane to actually use Fable, Astra, etc. as real electrical engineers! It incorporates KiCad + your favorite harness (Claude Co…",
+    "fullDescription": "We made Backplane to actually use Fable, Astra, etc. as real electrical engineers! It incorporates KiCad + your favorite harness (Claude Code, Codex, OpenCode, Grok) to accelerate hardware development. You can use it &quot;autonomously&quot; or work alongside the agent, making changes or comments to redirect the agent as it works. Also has some slick skills for schematic editing, BOM management. Hardware is in its &quot;tab to accept changes&quot;&#x2F;copilot era rather than its agentic era imo.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://backplaneworks.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50528196",
+    "createdAt": "2026-11-17T10:09:01.740Z"
+  },
+  {
+    "slug": "fluxtail-centralized-log-search-and-live-tail-hn",
+    "title": "Fluxtail – Centralized log search and Live Tail",
+    "shortDescription": "Fluxtail - Centralized log search and Live Tail, with hosted MCP for investigating logs through AI tools.",
+    "fullDescription": "Fluxtail - Centralized log search and Live Tail, with hosted MCP for investigating logs through AI tools.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://indielaunches.com/projects/prj_diyrnmfunvob-fluxtail",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50527330",
+    "createdAt": "2026-11-17T10:09:01.741Z"
+  },
+  {
+    "slug": "a-free-interactive-course-on-ai-agent-governance-hn",
+    "title": "A free interactive course on AI agent governance",
+    "shortDescription": "Проект «A free interactive course on AI agent governance», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A free interactive course on AI agent governance», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 12 баллов.",
+    "url": "https://studio.sinapsdata.com.br",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50526527",
+    "createdAt": "2026-11-17T10:09:01.741Z"
+  },
+  {
+    "slug": "coding-agents-with-native-environments-identity-and-access-hn",
+    "title": "Coding agents with native environments, identity and access",
+    "shortDescription": "Проект «Coding agents with native environments, identity and access», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Coding agents with native environments, identity and access», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://kosem.ai/blog/coding-agents-workstation-moment",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50526516",
+    "createdAt": "2026-11-17T10:09:01.741Z"
+  },
+  {
+    "slug": "astrum-a-terminal-multiplexer-with-integrated-ai-assistant-hn",
+    "title": "Astrum – a terminal multiplexer with integrated AI assistant",
+    "shortDescription": "Проект «Astrum – a terminal multiplexer with integrated AI assistant», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Astrum – a terminal multiplexer with integrated AI assistant», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://robert-mcdermott.github.io/astrum/",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50526510",
+    "createdAt": "2026-11-17T10:09:01.741Z"
+  },
+  {
     "slug": "listodo-a-to-do-list-with-an-ai-agent-for-every-task-hn",
     "title": "Listodo – A to-do list with an AI agent for every task",
     "shortDescription": "Проект «Listodo – A to-do list with an AI agent for every task», опубликован сообществом Hacker News.",
