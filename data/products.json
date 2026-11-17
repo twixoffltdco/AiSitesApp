@@ -1,5 +1,213 @@
 [
   {
+    "slug": "daryl-1985-a-film-i-loved-as-a-kid-as-an-ai-system-card-hn",
+    "title": "D.a.r.y.l. (1985), a film I loved as a kid, as an AI system card",
+    "shortDescription": "I was thinking of the film and so I knocked up this blog post about AI safety with a vibe taken from the film. Possible spoiler alert sorry…",
+    "fullDescription": "I was thinking of the film and so I knocked up this blog post about AI safety with a vibe taken from the film. Possible spoiler alert sorry ! I had to, for the point of the blog post.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://moai.studio/blog/posts/daryl.html",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50536209",
+    "createdAt": "2026-11-17T19:16:13.034Z"
+  },
+  {
+    "slug": "taster-plain-english-rules-your-ai-agent-cant-forget-or-ignore-hn",
+    "title": "Taster – Plain-English rules your AI agent can't forget or ignore",
+    "shortDescription": "I built it after rules in my own autonomous agent’s prompt kept getting lost or talked away. You can use it with Claude Code, or with agent…",
+    "fullDescription": "I built it after rules in my own autonomous agent’s prompt kept getting lost or talked away. You can use it with Claude Code, or with agents built on LangGraph.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/rinkesh2010rpp/taster-ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50535730",
+    "createdAt": "2026-11-17T19:16:13.034Z"
+  },
+  {
+    "slug": "lumberjack-a-browser-game-about-an-engineer-who-lost-his-job-to-ai-hn",
+    "title": "Lumberjack – a browser game about an engineer who lost his job to AI",
+    "shortDescription": "Jack lost his job as a software engineer to AI. To provide for his young family he takes a job as a lumberjack in Finland. The pay is good,…",
+    "fullDescription": "Jack lost his job as a software engineer to AI. To provide for his young family he takes a job as a lumberjack in Finland. The pay is good, the work engaging. It&#x27;s good to be out in nature and work with his hands. He didn&#x27;t ask what the land is for. With two kids, you don&#x27;t ask. A fun automation game in plain JavaScript, inspired by my memories of Warcraft (1994), Stardew Valley, the wonderful book Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin and a little bit of Monty Python. Source: https:&#x2F;&#x2F;github.com&#x2F;vnglst&#x2F;lumber-jack-2026\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://lumber-jack.koenvangilst.nl/",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50535647",
+    "createdAt": "2026-11-17T19:16:13.034Z"
+  },
+  {
+    "slug": "synapse-a-local-code-graph-for-ai-ides-benchmarked-against-grep-hn",
+    "title": "Synapse, a local code graph for AI IDEs, benchmarked against grep",
+    "shortDescription": "Проект «Synapse, a local code graph for AI IDEs, benchmarked against grep», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Synapse, a local code graph for AI IDEs, benchmarked against grep», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/keelwright-hq/synapse",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50535576",
+    "createdAt": "2026-11-17T19:16:13.034Z"
+  },
+  {
+    "slug": "solarian-open-source-python-framework-for-ai-robots-hn",
+    "title": "Solarian – Open-source Python framework for AI robots",
+    "shortDescription": "Проект «Solarian – Open-source Python framework for AI robots», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Solarian – Open-source Python framework for AI robots», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://solarian.dev",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50534542",
+    "createdAt": "2026-11-17T19:16:13.034Z"
+  },
+  {
+    "slug": "a-dashboard-my-wife-is-finally-interested-in-hn",
+    "title": "A dashboard my wife is finally interested in",
+    "shortDescription": "I used Homepage for a while and it worked well enough for me but my wife kept saying it didn&#x27;t work well on mobile or that she wanted…",
+    "fullDescription": "I used Homepage for a while and it worked well enough for me but my wife kept saying it didn&#x27;t work well on mobile or that she wanted to see our security cameras (Frigate), email, or media. I always joke that my wife is my most difficult end user to please, so her actually using it is already a win in my book. I started thinking about how I could just combine the Home Assistant setup we&#x27;ve had for a few years with some practical home server pieces. Then just started thinking it&#x27;d be nice to create a place where I could have actionable server items (update containers, read RSS feeds, view cameras, see Dozzle&#x27;s logs, etc.) all in one place with minimal configuration, so that I could check if backups completed successfully, see problems before they fail silently, and just learn some more. I&#x27;m not a &quot;traditional&quot; software engineer, or would even consider myself one at all I suppose. In my current role I&#x27;ve been kind of expected to transition from data analytics&#x2F;engineering and managing ETL pipelines into more full-stack development work, so I&#x27;ve done a lot of research about agentic coding and guardrails. I spend a while drawing out models, permissions, maps and flows on a whiteboard before ever prompting anything. It&#x27;s been fun and exciting but even I feel, as a non-developer, that there has to be a lot of work to frame everything correctly to get a tool that&#x27;s useful, and I&#x27;d struggle to ever think anything I whip up should be sold to anyone. Self-hosting and home automations have always been a hobby but AI has helped me create some internal tools at work or home that take existing services or platforms and consolidate them into one view, and that&#x27;s the framework I applied to this. Demo with fake data: docker run --rm -p 3200:3200 -e DEMO=1 ghcr.io&#x2F;sourpatchdad&#x2F;patchboard:latest\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/sourpatchdad/patchboard",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50534419",
+    "createdAt": "2026-11-17T19:16:13.034Z"
+  },
+  {
+    "slug": "your-spreadsheet-is-your-database-hn",
+    "title": "Your Spreadsheet Is Your Database",
+    "shortDescription": "Проект «Your Spreadsheet Is Your Database», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Your Spreadsheet Is Your Database», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://spreadsheettoapp.ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50534235",
+    "createdAt": "2026-11-17T19:16:13.034Z"
+  },
+  {
+    "slug": "atlas-give-your-ai-agent-better-web-context-hn",
+    "title": "Atlas – Give Your AI Agent Better Web Context",
+    "shortDescription": "Проект «Atlas – Give Your AI Agent Better Web Context», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Atlas – Give Your AI Agent Better Web Context», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://atlas-compiler.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50534210",
+    "createdAt": "2026-11-17T19:16:13.034Z"
+  },
+  {
+    "slug": "ask-your-ai-before-you-renew-any-saas-free-mcp-server-hn",
+    "title": "Ask your AI before you renew any SaaS (free MCP server)",
+    "shortDescription": "Проект «Ask your AI before you renew any SaaS (free MCP server)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Ask your AI before you renew any SaaS (free MCP server)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://hissingkitty.com/developers",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50534194",
+    "createdAt": "2026-11-17T19:16:13.034Z"
+  },
+  {
+    "slug": "an-ai-app-controlled-from-your-phones-picture-in-picture-hn",
+    "title": "An AI app controlled from your phone's Picture in Picture",
+    "shortDescription": "Проект «An AI app controlled from your phone's Picture in Picture», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An AI app controlled from your phone's Picture in Picture», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://barnacle.qa",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50533512",
+    "createdAt": "2026-11-17T19:16:13.034Z"
+  },
+  {
+    "slug": "confidential-cloud-cpu-and-gpu-confidential-vms-hn",
+    "title": "Confidential Cloud – CPU and GPU Confidential VMs",
+    "shortDescription": "Проект «Confidential Cloud – CPU and GPU Confidential VMs», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Confidential Cloud – CPU and GPU Confidential VMs», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://console.confidential.ai/sign-in?returnTo=%2Finstances",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50533420",
+    "createdAt": "2026-11-17T19:16:13.034Z"
+  },
+  {
+    "slug": "puzzle-for-ai-shopping-agents-inside-our-skincare-store-hn",
+    "title": "Puzzle for AI shopping agents inside our skincare store",
+    "shortDescription": "My wife runs a small Ayurvedic skincare businesses. Since everybody will be shopping with their agents, I made a game for them. Kind of lik…",
+    "fullDescription": "My wife runs a small Ayurvedic skincare businesses. Since everybody will be shopping with their agents, I made a game for them. Kind of like Black Friday, but for your agent. There are 4 levels, and the grand prize is a year of free Vitamin C Face Oil (total value of $400+). How to play? Point your agent to keralabotanics.com and tell them to look for a hidden game. Let your agents have fun, and let me know if they get stuck.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://keralabotanics.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50533392",
+    "createdAt": "2026-11-17T19:16:13.034Z"
+  },
+  {
+    "slug": "trnrt-an-open-source-llm-inference-engine-for-aws-trainium-hn",
+    "title": "TrnRT – An open-source LLM inference engine for AWS Trainium",
+    "shortDescription": "Hi HN, Sanchit here from RunAnywhere (YC W26). We just open-sourced TrnRT: Trainium RunTime, our inference engine for AWS Trainium. We star…",
+    "fullDescription": "Hi HN, Sanchit here from RunAnywhere (YC W26). We just open-sourced TrnRT: Trainium RunTime, our inference engine for AWS Trainium. We started 3 weeks back, and currently we’re able to serve and run GLM 5.3 flash (FP8) on AWS trn2.48xlarge, and will bring more models support soon. It’s open to contributions :) What it does today: - Serves 2 instances of GLM-5.3 flash on a single box, 8 trn2 with a cache aware router. - Can process 3.57M TPM (tokens per minute) on SemiAnalysis&#x27;s AgentX benchmarks. - Runs decode as one NKI kernel per layer half, or for the 11 sparse-attention layers fuses both blocks into a single kernel, for faster performance. We started working on Trn2 because we wanted to explore it and see if we can come close to beating it’s performance in terms of cost efficiency compared to H100&#x2F;H200. A big MoE with 1M context window such as GLM-5.3 flash requires a lot of memory, and memory&#x2F;tb on a trn2.48xlarge costs less than half compared to 8x h200 on AWS, and hence we wanted to experiment with it and now we’re sharing some early results. But AWS&#x27;s own stack didn&#x27;t support the model: vLLM Neuron&#x27;s latest release did not register any GLM model, and NxDI, AWS&#x27;s own distributed inference framework, is no longer under active development. We also saw the drop of SGLang Neuron implementation yesterday, but there is no good support for Trn2, which is the only chip available for public use right now. We ran semiAnalysis&#x27;s AgentX benchmarks, which replays real coding agent sessions: - 1 box served 28.9 RPM(requests per minute) with 32 agents at batch 12 (also known as concurrency) -The P50 TTFT with a cached prompt at 16 agents is ~1.24 seconds with a decode of 35.9 tps. Initially, the recurrence in one kda (linear attention) layer was ~2% of the layer&#x27;s attention time at batch 1, and the rest was projections, transposes and XLA glue between small kernels. So we wrote the megakernel so that it covers the whole layer in 2 kernel dispatch, which made decode 25% faster at batch 8. The sparse attention kernel keep a layer’s working weights in SBUF, distributing weighted streaming across the cores and handling the interchip communication within There’s an approximation in the sparse-attention prefill, affecting about 1.2% of block selections. You can refer to the write-up for the profiling results: https:&#x2F;&#x2F;runanywhere.ai&#x2F;blog&#x2F;glm-5-3-flash-trainium2-nki-mega... Please give it a try yourself on a trn2.48xlarge and reproduce the AgentX results by following the steps in docs&#x2F;RESULTS.md. Happy to collaborate and hear any feedback. Deploying high performant dedicated inference at lab like performance and half the price for open models such as the GLM-5.3 family, Kimi K3, Deepseek flash etc. is how we make money. You can talk to us regarding the same at founders@runanywhere.ai. We hope you find this useful. If you are working with Trainium or have experience with NKI kernels, we&#x27;d love to get your honest feedback. Feel free to share the models you want support for next, and we welcome any contributions to the repository.\n\nНайдено в разделе Show HN на Hacker News. 👍 23 баллов.",
+    "url": "https://github.com/RunanywhereAI/trnrt",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50533270",
+    "createdAt": "2026-11-17T19:16:13.035Z"
+  },
+  {
     "slug": "gemini-config-checker-github-18",
     "title": "Gemini-Config-Checker-",
     "shortDescription": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Li…",
