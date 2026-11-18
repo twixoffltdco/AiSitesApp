@@ -1,5 +1,479 @@
 [
   {
+    "slug": "ai-manus20-github-5",
+    "title": "ai--manus2.0",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.\n\nАвтор: eluyonga. Найдено в GitHub Trending (AI-тематика). ⭐ 62 звёзд.",
+    "url": "https://github.com/eluyonga/ai--manus2.0",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1461748813",
+    "createdAt": "2026-11-18T01:46:05.465Z"
+  },
+  {
+    "slug": "gemini-config-checker-github-19",
+    "title": "Gemini-Config-Checker-",
+    "shortDescription": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Li…",
+    "fullDescription": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) \n\nАвтор: 4liyev. Найдено в GitHub Trending (AI-тематика). ⭐ 62 звёзд.",
+    "url": "https://github.com/4liyev/Gemini-Config-Checker-",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-search",
+      "aichecker",
+      "chatgpt",
+      "cli",
+      "config-checker",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1461748802",
+    "createdAt": "2026-11-18T01:46:05.465Z"
+  },
+  {
+    "slug": "gemini-config-checker-github-20",
+    "title": "Gemini-Config-Checker-",
+    "shortDescription": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Li…",
+    "fullDescription": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) \n\nАвтор: Physico-Academic. Найдено в GitHub Trending (AI-тематика). ⭐ 62 звёзд.",
+    "url": "https://github.com/Physico-Academic/Gemini-Config-Checker-",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-search",
+      "aichecker",
+      "chatgpt",
+      "cli",
+      "config-checker",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1461748801",
+    "createdAt": "2026-11-18T01:46:05.465Z"
+  },
+  {
+    "slug": "gemini-config-checker-github-21",
+    "title": "Gemini-Config-Checker-",
+    "shortDescription": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Li…",
+    "fullDescription": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) \n\nАвтор: lloweryfn-rgb. Найдено в GitHub Trending (AI-тематика). ⭐ 62 звёзд.",
+    "url": "https://github.com/lloweryfn-rgb/Gemini-Config-Checker-",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-search",
+      "aichecker",
+      "chatgpt",
+      "cli",
+      "config-checker",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1461748797",
+    "createdAt": "2026-11-18T01:46:05.465Z"
+  },
+  {
+    "slug": "gemini-config-checker-github-22",
+    "title": "Gemini-Config-Checker-",
+    "shortDescription": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Li…",
+    "fullDescription": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) \n\nАвтор: Mariete333. Найдено в GitHub Trending (AI-тематика). ⭐ 62 звёзд.",
+    "url": "https://github.com/Mariete333/Gemini-Config-Checker-",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-search",
+      "aichecker",
+      "chatgpt",
+      "cli",
+      "config-checker",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1461748811",
+    "createdAt": "2026-11-18T01:46:05.465Z"
+  },
+  {
+    "slug": "github-copilot-app-github-12",
+    "title": "GitHub-Copilot-app",
+    "shortDescription": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub r…",
+    "fullDescription": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. \n\nАвтор: simadan11. Найдено в GitHub Trending (AI-тематика). ⭐ 62 звёзд.",
+    "url": "https://github.com/simadan11/GitHub-Copilot-app",
+    "category": "ai-tool",
+    "tags": [
+      "adminlte",
+      "agent-skills",
+      "ai",
+      "awesome",
+      "chatgpt",
+      "copilot",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1461748888",
+    "createdAt": "2026-11-18T01:46:05.465Z"
+  },
+  {
+    "slug": "ai-manus20-github-6",
+    "title": "ai--manus2.0",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.\n\nАвтор: mancommits. Найдено в GitHub Trending (AI-тематика). ⭐ 62 звёзд.",
+    "url": "https://github.com/mancommits/ai--manus2.0",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1461748857",
+    "createdAt": "2026-11-18T01:46:05.465Z"
+  },
+  {
+    "slug": "gemini-config-checker-github-23",
+    "title": "Gemini-Config-Checker-",
+    "shortDescription": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Li…",
+    "fullDescription": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) \n\nАвтор: mkselvamm. Найдено в GitHub Trending (AI-тематика). ⭐ 62 звёзд.",
+    "url": "https://github.com/mkselvamm/Gemini-Config-Checker-",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-search",
+      "aichecker",
+      "chatgpt",
+      "cli",
+      "config-checker",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1461748790",
+    "createdAt": "2026-11-18T01:46:05.465Z"
+  },
+  {
+    "slug": "gemini-config-checker-github-24",
+    "title": "Gemini-Config-Checker-",
+    "shortDescription": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Li…",
+    "fullDescription": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) \n\nАвтор: rasterotboga-source. Найдено в GitHub Trending (AI-тематика). ⭐ 62 звёзд.",
+    "url": "https://github.com/rasterotboga-source/Gemini-Config-Checker-",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-search",
+      "aichecker",
+      "chatgpt",
+      "cli",
+      "config-checker",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1461748793",
+    "createdAt": "2026-11-18T01:46:05.465Z"
+  },
+  {
+    "slug": "gemini-config-checker-github-25",
+    "title": "Gemini-Config-Checker-",
+    "shortDescription": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Li…",
+    "fullDescription": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) \n\nАвтор: Mariajsjsj. Найдено в GitHub Trending (AI-тематика). ⭐ 62 звёзд.",
+    "url": "https://github.com/Mariajsjsj/Gemini-Config-Checker-",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "ai-search",
+      "aichecker",
+      "chatgpt",
+      "cli",
+      "config-checker",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1461748785",
+    "createdAt": "2026-11-18T01:46:05.465Z"
+  },
+  {
+    "slug": "github-copilot-app-github-13",
+    "title": "GitHub-Copilot-app",
+    "shortDescription": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub r…",
+    "fullDescription": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. \n\nАвтор: zalman-ua. Найдено в GitHub Trending (AI-тематика). ⭐ 62 звёзд.",
+    "url": "https://github.com/zalman-ua/GitHub-Copilot-app",
+    "category": "ai-tool",
+    "tags": [
+      "adminlte",
+      "agent-skills",
+      "ai",
+      "awesome",
+      "chatgpt",
+      "copilot",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1461749068",
+    "createdAt": "2026-11-18T01:46:05.465Z"
+  },
+  {
+    "slug": "ai-manus20-github-7",
+    "title": "ai--manus2.0",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.\n\nАвтор: alphafalcongamer-creator. Найдено в GitHub Trending (AI-тематика). ⭐ 62 звёзд.",
+    "url": "https://github.com/alphafalcongamer-creator/ai--manus2.0",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1461748821",
+    "createdAt": "2026-11-18T01:46:05.465Z"
+  },
+  {
+    "slug": "ai-manus20-github-8",
+    "title": "ai--manus2.0",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.\n\nАвтор: Andriy-samp. Найдено в GitHub Trending (AI-тематика). ⭐ 62 звёзд.",
+    "url": "https://github.com/Andriy-samp/ai--manus2.0",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1461748837",
+    "createdAt": "2026-11-18T01:46:05.465Z"
+  },
+  {
+    "slug": "ai-manus20-github-9",
+    "title": "ai--manus2.0",
+    "shortDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+    "fullDescription": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.\n\nАвтор: AntikvarX. Найдено в GitHub Trending (AI-тематика). ⭐ 62 звёзд.",
+    "url": "https://github.com/AntikvarX/ai--manus2.0",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-sdk",
+      "anthropic",
+      "chatbot",
+      "function-calling",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1461748830",
+    "createdAt": "2026-11-18T01:46:05.465Z"
+  },
+  {
+    "slug": "github-copilot-app-github-14",
+    "title": "GitHub-Copilot-app",
+    "shortDescription": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub r…",
+    "fullDescription": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. \n\nАвтор: Fisheriks. Найдено в GitHub Trending (AI-тематика). ⭐ 62 звёзд.",
+    "url": "https://github.com/Fisheriks/GitHub-Copilot-app",
+    "category": "ai-tool",
+    "tags": [
+      "adminlte",
+      "agent-skills",
+      "ai",
+      "awesome",
+      "chatgpt",
+      "copilot",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1461748927",
+    "createdAt": "2026-11-18T01:46:05.465Z"
+  },
+  {
+    "slug": "dropbox-for-ai-skill-files-hn",
+    "title": "Dropbox for AI Skill Files",
+    "shortDescription": "I built mdkit, a menu bar app for storing and sharing skill markdown files. Just drop your .md files into mdkit to store them in the cloud,…",
+    "fullDescription": "I built mdkit, a menu bar app for storing and sharing skill markdown files. Just drop your .md files into mdkit to store them in the cloud, then drag them out whenever you need them. Share files by email with viewer or editor permissions. Every save is versioned. Why I built it: I wanted a simple, AI-platform-independent way to share and manage AI skills across teams, with features like editing permissions and version history. mdkit is in beta and free to try on Windows and Mac. Genuinely just trying to find out if this is useful for anyone. Would love feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.mdkit.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50539993",
+    "createdAt": "2026-11-18T01:46:05.366Z"
+  },
+  {
+    "slug": "shard-distributed-ai-inference-across-multiple-computers-hn",
+    "title": "Shard – Distributed AI Inference Across Multiple Computers",
+    "shortDescription": "Проект «Shard – Distributed AI Inference Across Multiple Computers», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Shard – Distributed AI Inference Across Multiple Computers», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/avelone123123/shard",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50539983",
+    "createdAt": "2026-11-18T01:46:05.366Z"
+  },
+  {
+    "slug": "infoboxing-guess-the-wikipedia-article-from-its-infobox-hn",
+    "title": "Infoboxing – Guess the Wikipedia article from its infobox",
+    "shortDescription": "I made a daily game where you try to identify five Wikipedia articles by looking at their infoboxes with the name and picture hidden. You g…",
+    "fullDescription": "I made a daily game where you try to identify five Wikipedia articles by looking at their infoboxes with the name and picture hidden. You get one guess per article, and afterwards you get a summary and a link to Wikipedia so at least you might learn something even if you get it wrong! Infoboxing was inspired by the Wikipedia guessing game Catfishing, which my friends and I love. We play as a group, which is probably cheating, but still sometimes only get like 3&#x2F;10 correct. Part of the fun is discovering each person&#x27;s niche and comparing our answers to the rest of the Catfishing audience on the stats page. I&#x27;ve always wanted to make a daily game and I felt there was still room to explore in the Wikipedia guessing space. In my first prototype I picked out four or five rows from each infobox and revealed them one at a time, but making someone guess repeatedly at something they may never have heard of felt slow, especially across five articles. I ended up following Catfishing&#x27;s approach: show all the clues with one guess or a skip. My fiancée and I choose the articles. We started out listing everything we could think of, then explored Wikipedia lists like the &quot;Unusual articles&quot; page and also used AI to suggest candidates in areas we&#x27;d missed. In my opinion the best articles have an &quot;a-ha!&quot; moment where it suddenly clicks. The hardest parts to get right are article curation, balancing the difficulty and deciding what counts as a correct answer. Should &quot;Big Jesus&quot; be an accepted answer for Christ the Redeemer? My fiancée thinks so! I&#x27;ve also put in some rules to try and keep a given day from being too difficult but ultimately it&#x27;s based on vibes because my idea of what &quot;everyone knows&quot; is biased by my age, gender, region, etc. The infoboxes are captured ahead of time so I set up a daily check to warn me if an article changes, mainly to catch things like ages changing or people dying. My favourite facepalm moment was when it warned me that Spock had died. His date of death on Wikidata? 2263. Anyway, give it a go and see what you think. If you have an answer you think should count, tell me through the contact page so that we can keep spoilers out of the comments.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.infoboxing.net/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50539260",
+    "createdAt": "2026-11-18T01:46:05.366Z"
+  },
+  {
+    "slug": "sikemux-a-whole-team-of-ai-coders-in-one-window-rust-mit-hn",
+    "title": "Sikemux – a whole team of AI coders in one window (Rust, MIT)",
+    "shortDescription": "Here&#x27;s why I started building Sikemux: At first I was using Cursor. The problem with it was, I had to open a new window for each proje…",
+    "fullDescription": "Here&#x27;s why I started building Sikemux: At first I was using Cursor. The problem with it was, I had to open a new window for each project. That&#x27;s when Zed came along. It was good and fast. But I didn&#x27;t like its project switching much, it took me like 2 clicks instead of 1. I had tried Cursor&#x27;s agent-first feature as well, but didn&#x27;t like it much, as I had to see files as well and do git ops with a good layout. I had even tried tmux + sesh setups then. That&#x27;s when I started building Sikemux in Tauri. And project multiplexing got fast and solved, and I was able to see files and do git ops with a good layout of all. Then came along the Codex App, its browser use and computer use was just tooo damn good, it got hard to go out of that app and try something else. And believe me when I say, I have tried all the ADEs out there. I had then forgot about Sikemux. But after using it for a while, I felt Codex App to be slow at times. It just screamed Electron to me, don&#x27;t know though whether it&#x27;s in Tauri or Electron. I had to revive Sikemux. I then built all of it, great browser use! Fast project multiplexing, seeing files, doing git ops, connectors, agent orchestrator(chief), GUI, GPUI migration, macOS notch, remote hosts, working mobile app with iroh relay to stream everywhere, all in one beautiful window.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://sikemux.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50539180",
+    "createdAt": "2026-11-18T01:46:05.366Z"
+  },
+  {
+    "slug": "r3-review-ai-agent-artifacts-locally-hn",
+    "title": "R3 – Review AI agent artifacts locally",
+    "shortDescription": "Проект «R3 – Review AI agent artifacts locally», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «R3 – Review AI agent artifacts locally», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://r3.hyperlogue.tech/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50539007",
+    "createdAt": "2026-11-18T01:46:05.366Z"
+  },
+  {
+    "slug": "a-variety-of-chess-games-hn",
+    "title": "A Variety of Chess Games",
+    "shortDescription": "This is a web app that I built to introduce chess to my children, along with scratching a personal game analysis itch. I link to the games…",
+    "fullDescription": "This is a web app that I built to introduce chess to my children, along with scratching a personal game analysis itch. I link to the games (free, ad free, tracker free, affiliate free, etc), though there is a full learning section as well that was my primary focus. I imagine many here already know the basics of chess. Of course I leveraged AI in all parts of this project -- and indeed the analysis section uses three separate neural networks to analyze play -- but never without full engagement and co-working between myself and the machine (I&#x27;ve been doing web apps for 30+ years), and all designs are my own. I contrived several of the games wholesale, though others are well trodden in the chess world. I use chess as a meditative beat from other engagements in my day to day, and have made it a personal mission to break out of the mediocre mid-tier play I&#x27;ve been stuck at for a few years. This has legitimately helped. I hope this provides some enrichment for others.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://chessreport.ca/games",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50538663",
+    "createdAt": "2026-11-18T01:46:05.367Z"
+  },
+  {
+    "slug": "ive-asked-ai-to-generate-portraits-per-country-hn",
+    "title": "I've asked AI to generate portraits per country",
+    "shortDescription": "I&#x27;ve asked AI to generate faces for every country in the world. I re-used the same prompt; &quot;Can you generate a black and white po…",
+    "fullDescription": "I&#x27;ve asked AI to generate faces for every country in the world. I re-used the same prompt; &quot;Can you generate a black and white portrait of a [MALE&#x2F;FEMALE] from [COUNTRY] staring directly in the camera&quot;\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://arnov.github.io/faces/index.html",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50537794",
+    "createdAt": "2026-11-18T01:46:05.367Z"
+  },
+  {
+    "slug": "whizpub-an-ai-native-blogging-platform-free-and-donation-supported-hn",
+    "title": "Whiz.pub – An AI-native blogging platform, free and donation-supported",
+    "shortDescription": "Hey HN! For the past 6+ months, I&#x27;ve been working on whiz.pub, an AI-native blogging platform :) The goal is pretty simple: build a bl…",
+    "fullDescription": "Hey HN! For the past 6+ months, I&#x27;ve been working on whiz.pub, an AI-native blogging platform :) The goal is pretty simple: build a blogging platform that&#x27;s lightweight and inexpensive to host, while still offering everything you&#x27;d expect from a basic to intermediate blogging platform. I also wanted to keep it accessible, so it&#x27;s completely free and runs entirely on donations. I have no plans to monetize it unless it becomes absolutely necessary to keep things running. It&#x27;s been a fun journey building this, and I&#x27;d love to hear what folks here think. Would really appreciate any feedback, suggestions, or criticism!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://whiz.pub",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50537585",
+    "createdAt": "2026-11-18T01:46:05.367Z"
+  },
+  {
+    "slug": "open-source-multi-player-artifacts-that-update-themselves-hn",
+    "title": "Open-source multi-player artifacts that update themselves",
+    "shortDescription": "Rally is a multi-player platform to build reactive micro-applications together that connects event streams to agents that then update the a…",
+    "fullDescription": "Rally is a multi-player platform to build reactive micro-applications together that connects event streams to agents that then update the artifact. We&#x27;ve had pilots build a PR dashboard that sorts by risk assessment (an agent actually reads the code) per PR, a micro-CRM that pulls in live deals from multiple Gmail inboxes, and a shared grocery list that groups items by store aisle. We&#x27;re similar to Muse&#x27;s Spaces, Google&#x27;s TableTop, and the standard artifacts most harnesses now support. Our differentiator is being multi-player so groups can iterate together, artifacts calling agents on incoming events so updates can be more sophisticated than an API call, and giving artifacts a full application stack. Under the hood, each artifact is a Cloudflare Durable Object with its own SQLite database, compute, and storage. As an example this is our podcast artifact that helps us keep up-to-date on what happened on the repo each day https:&#x2F;&#x2F;connected-tidy-crystalline-haldane-g.rallyuserconten... GitHub: https:&#x2F;&#x2F;github.com&#x2F;juno-ai-labs&#x2F;avalon\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://rallywith.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50537152",
+    "createdAt": "2026-11-18T01:46:05.367Z"
+  },
+  {
     "slug": "daryl-1985-a-film-i-loved-as-a-kid-as-an-ai-system-card-hn",
     "title": "D.a.r.y.l. (1985), a film I loved as a kid, as an AI system card",
     "shortDescription": "I was thinking of the film and so I knocked up this blog post about AI safety with a vibe taken from the film. Possible spoiler alert sorry…",
