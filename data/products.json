@@ -1,5 +1,197 @@
 [
   {
+    "slug": "an-open-source-harness-for-android-devs-in-the-terminal-hn",
+    "title": "An open-source harness for Android devs in the terminal",
+    "shortDescription": "This open-source TUI and CLI allows running the workflows that android devs run every day without leaving the terminal and each one in thei…",
+    "fullDescription": "This open-source TUI and CLI allows running the workflows that android devs run every day without leaving the terminal and each one in their own worktree. You can see the agents working in a control pane with different status. The TUI will inform you when it needs your help. You can: 1. Create a Pull Request from a ticket, the harness does a plan -&gt; code -&gt; review workflow. You can decide the model per state. 2. Auto fix the ticket comments, the harness fetches the PR comments and show it in the dashboard. You can previsualize and approve or request a new fix. 3. Review the diff, the TUI has a beauty diff viewer so you can review the code without leaving the terminal. 4. Open the worktree in Android Studio or claude code directly from the TUI. 5. Permission and budget management: you can auto approve comments or approve once. You can also set a spend limit per stage. It is optimized for android: 1. Only one agent at a time can take control of the emulator. 2. The worktree creation, all git operations and PR information is deterministic and handled by the harness taking into consideration how Android projects are built. 3. Open the worktree in Android Studio. 4. Open the emulator from the TUI. Caveats: For now it only works for Claude Code.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Apple-Pie-AI/pie-tui",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50562696",
+    "createdAt": "2026-11-19T17:35:01.756Z"
+  },
+  {
+    "slug": "agentmall-let-your-ai-agent-buy-groceries-hn",
+    "title": "AgentMall – Let your AI agent buy groceries",
+    "shortDescription": "Hey HN, we’re Nel and Kosi. We noticed personal agents like Instinct, Muse were terrible at buying stuff. Most of the time the checkout wou…",
+    "fullDescription": "Hey HN, we’re Nel and Kosi. We noticed personal agents like Instinct, Muse were terrible at buying stuff. Most of the time the checkout would fail. So we built reliable automations for agents to checkout at 9 leading grocery merchants. We grapple with anti bot, logins, OTP codes, and changing checkout structures. Loved revisiting this stuff given our backgrounds sneaker-botting and building computer use models. Honestly full circle haha. It currently works on these sites with ~70% checkout success rate: - Walmart - Albertsons - Ocado - Wegmans - FreshDirect - Best Buy - Instacart Our goal is to hill climb to 90%+ across each. Test keys are free and run the real flow without placing an order. New accounts get 10 free completed orders. https:&#x2F;&#x2F;docs.getagentmall.com&#x2F;quickstart\n\nНайдено в разделе Show HN на Hacker News. 👍 12 баллов.",
+    "url": "https://getagentmall.com",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50562508",
+    "createdAt": "2026-11-19T17:35:01.756Z"
+  },
+  {
+    "slug": "project-m-stop-re-explaining-project-context-between-ai-coding-tools-hn",
+    "title": "Project-M – Stop re-explaining project context between AI coding tools",
+    "shortDescription": "Проект «Project-M – Stop re-explaining project context between AI coding tools», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Project-M – Stop re-explaining project context between AI coding tools», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/adityadebnath009/Project-M",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50562304",
+    "createdAt": "2026-11-19T17:35:01.756Z"
+  },
+  {
+    "slug": "dayfileapp-append-only-log-for-your-scripts-and-agents-hn",
+    "title": "Dayfile.app – Append-only log for your scripts and agents",
+    "shortDescription": "Hi HN, I&#x27;m Gilad. dayfile.app is a &quot;git log for scripts and agents&quot;, with ordered history, append-only logging as foundation…",
+    "fullDescription": "Hi HN, I&#x27;m Gilad. dayfile.app is a &quot;git log for scripts and agents&quot;, with ordered history, append-only logging as foundational characteristics. The service is currently in beta, AGPL-licensed. As I was looking at various ways to record and retrieve a day&#x27;s to-dos, automation and operational outputs (update successes and failures), the idea of a running event log. dayfile.app&#x27;s primary use case is DevOps tracking and event logging. Building this, I&#x27;ve emphasized simplifying posting - one HTTP request with a title and optional tags (used for filtering when reading the log), AI access via MCP server (an assistant can read, post or close to-dos) and self-hosting as a first-class citizen (`pip install dayfile`, SQLite database is local in this mode). A demo is available at https:&#x2F;&#x2F;dayfile.app&#x2F;demo . If using the cloud service and after generating a write token on the site, an example of posting an entry would be: curl -X POST https:&#x2F;&#x2F;USERNAME.dayfile.cloud&#x2F;events \\ -H &quot;Authorization: Bearer WRITE_TOKEN&quot; \\ -H &quot;content-type: application&#x2F;json&quot; \\ -d &#x27;{&quot;title&quot;:&quot;Nightly backup finished&quot;,&quot;tags&quot;:[&quot;backup&quot;]}&#x27; To read back (filtering using tag): curl -H &quot;Authorization: Bearer READ_TOKEN&quot; \\ &quot;https:&#x2F;&#x2F;USERNAME.dayfile.cloud&#x2F;events?tag=backup&amp;within=7d&quot; or paste https:&#x2F;&#x2F;USERNAME.dayfile.cloud&#x2F;t&#x2F;READ_TOKEN&#x2F;f&#x2F;backup.atom into a feed reader (you need to create a feed called `backup`). What a local file can&#x27;t do is notice something didn&#x27;t happen - this is the heartbeat. dayfile.app can be configured to create an event if no associated event arrives. Imagine a backup which didn&#x27;t run. A to-do event is created if no evidence of a successful backup shows up within a certain period. When the backup reports again, dayfile closes the associated to-do. Current limits: logs are not end-to-end encrypted, sign-in is via GitHub only, the free beta allows 50,000 events and log size of 25MB. Pricing will be sorted out after this launch and as user feedback rolls in. I&#x27;d love to hear in the comments on how you&#x27;d use it, what would prevent you from doing so, feature requests and suggestions. Bug reports can be submitted as issues on GitHub.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/dayfile/dayfile",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50561824",
+    "createdAt": "2026-11-19T17:35:01.756Z"
+  },
+  {
+    "slug": "ai-kitchen-designer-hn",
+    "title": "AI Kitchen Designer",
+    "shortDescription": "Проект «AI Kitchen Designer», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI Kitchen Designer», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.aikitchendesign.co",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50561466",
+    "createdAt": "2026-11-19T17:35:01.756Z"
+  },
+  {
+    "slug": "openspot-macos-launcher-for-disposable-tools-hn",
+    "title": "Openspot – macOS launcher for disposable tools",
+    "shortDescription": "Hi HN! We&#x27;re Tony, Kolom and Anastasiia, a small team from Ukraine. Today we are open-sourcing Openspot, our research project on using…",
+    "fullDescription": "Hi HN! We&#x27;re Tony, Kolom and Anastasiia, a small team from Ukraine. Today we are open-sourcing Openspot, our research project on using generative UI in day-to-day work. The idea is simple: generate a tool (spot) for your current task using coding agent, and keep it if you like it or remove it after use if you don&#x27;t. We are using Openspot daily and really enjoying the possibilities it unlocks. Some examples of spots: - caffeinate, which allows the Mac to work with the lid closed - local file and screenshot search in natural language using EmbeddingGemma 2 - draw on screen during calls or before screenshots - AI agents monitoring - AirDrop, but over the network (using iroh) We built it because of two things: 1. Over the past year, we (and almost every designer and engineer we know) have started making small tools using coding agents. But the DX for macOS applications is very frustrating even for coders, and you have to pay for a developer account to share them. 2. And we kind of miss the days of custom Winamp skins and Twitter clients. That&#x27;s why every part of Openspot is customizable, so anyone can give it their own look and feel. This is a very early stage. The code is MIT-licensed, and the core will remain free forever. We&#x27;re sticking to macOS 26+ for now (because of Liquid Glass). Ask us anything, or roast it. Any feedback is very appreciated.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/celishq/openspot",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50560882",
+    "createdAt": "2026-11-19T17:35:01.756Z"
+  },
+  {
+    "slug": "agentest-offline-tests-for-ai-agents-from-opentelemetry-traces-hn",
+    "title": "Agentest – offline tests for AI agents from OpenTelemetry traces",
+    "shortDescription": "Проект «Agentest – offline tests for AI agents from OpenTelemetry traces», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Agentest – offline tests for AI agents from OpenTelemetry traces», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/srpadmanabhuni/agentest",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50560493",
+    "createdAt": "2026-11-19T17:35:01.756Z"
+  },
+  {
+    "slug": "purple-flow-ai-first-n8n-alternative-10k-workflows-on-512mb-hn",
+    "title": "Purple Flow – AI-first n8n alternative, 10k+ workflows on 512MB",
+    "shortDescription": "Hey all! I ran into a wall with n8n - hard and expensive to scale, limited streaming, heavy MCP is confusing for agents. That scaling was b…",
+    "fullDescription": "Hey all! I ran into a wall with n8n - hard and expensive to scale, limited streaming, heavy MCP is confusing for agents. That scaling was becoming more and more critical as I was beginning to build agentic swarms. So I built my own alternative with Elixir and Beam. Been using it in production for almost 2 months. It connects my agent to multiple databases, sandboxes, and APIs. I&#x27;ve even migrated over my most used n8n workflows without a hiccup. I ran some benchmarks and 10,000 concurrent workflows executed in 3 seconds and cost about 330MB of ram (listed as 512 in the case study). Equivalent workflows in n8n took 2GB of ram to run 100. It&#x27;s roughly 200x the memory efficiency of the usual Node&#x2F;Python stacks. And while you don&#x27;t edit the workflows yourself visually, you can see and manage them through a UI, along with credentials that the agent never sees. The workflows themselves are pure TOML. Not as easy as dragging node connectors. But the idea is that AI creates the flows and you can easily understand them. This isn&#x27;t a shaky demo. I&#x27;m using it as my daily driver to create complex multi-agent personas, run research and info gathering swarms, and whatever else my agent needs to get its job done. (it&#x27;s built more than 70 so far) I have a live working demo on my website that was built by an agent using Purple Flow to connect to my server. The demo itself lets an agent using Purple Flow access live (Adventure Works) data and generate reports, documents, and slides on demand. My agent and I built it in an afternoon. It runs on a lightweight model (to save money for a public demo) with very few hiccups. - Repo: https:&#x2F;&#x2F;github.com&#x2F;leetheguy&#x2F;purple_flow - Discord, benchmarks, and demo links in the repo.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/leetheguy/purple_flow",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50560170",
+    "createdAt": "2026-11-19T17:35:01.756Z"
+  },
+  {
+    "slug": "run-calculix-openfoam-and-paraview-jobs-on-your-offices-idle-pcs-hn",
+    "title": "Run CalculiX, OpenFOAM and ParaView jobs on your office's idle PCs",
+    "shortDescription": "OmnibusCloud aims to join different user devices into a single computing engine, which I call the Ultracomputer. Today it works with Window…",
+    "fullDescription": "OmnibusCloud aims to join different user devices into a single computing engine, which I call the Ultracomputer. Today it works with Windows, Linux, or Mac OS (ARM) computers. Next, it will be able to connect smartphones, tablets, game consoles, and any other computing device. It is no secret that most of our computers spend most of their lives idle, and there have been attempts to use this idle power before. The most famous of them is BOINC. But OmnibusCloud, following the first part of its name, is trying to provide a system that will be easy to use for any actors. OmnibusCloud is splitting tasks into chunks and distributing them to machines available to you. Each machine processes its own chunk individually and then sends back the result. Today, OmnibusCloud is introducing simulation tools: - ParaView plugin allows users to render engineering animations, similar to render farms like SheepIt does for Blender, on machines in your group - PrePoMax solver replacement can distribute thermal analysis tasks to machines in your group - WitSweep can plan and run hundreds of FEA (with CalculiX solver) or CFD (with OpenFOAM solver) cases in one click; you can schedule your research that will start on your office machines when everyone is at home, and then in the morning you will get the results. OmnibusCloud works on a crowdcomputing model, similar to crowdfunding, but with computer power instead of money. The one who needs computation can open a project, and users can join it. Today we are just launching the public beta, so there are very few users and machines, so to try our system, it will be better to start with a Private Group. Create your own group and invite your friends or team (or connect your office workstation) - you will get your own subnetwork to run your tasks. Check our repositories: https:&#x2F;&#x2F;github.com&#x2F;OmnibusCloud You will find there public controllers and integrations with some applications (they are published with an MIT license) that you can use as an example to build your own controller or integration to solve your own tasks.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://omnibuscloud.io/blog/simulation/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50560139",
+    "createdAt": "2026-11-19T17:35:01.756Z"
+  },
+  {
+    "slug": "foolscap-a-writing-app-that-reads-your-book-and-never-writes-for-you-hn",
+    "title": "Foolscap – a writing app that reads your book and never writes for you",
+    "shortDescription": "People are scared of their ability to write and think atrophying, so I wondered: what if I built something that enhanced human creativity i…",
+    "fullDescription": "People are scared of their ability to write and think atrophying, so I wondered: what if I built something that enhanced human creativity instead of destroying it by doing the thinking and writing for people? Foolscap is the result, or at least the first version of that idea that&#x27;s fleshed out enough to share here. It reads as you write and picks out the structure: characters, ideas, threads, what&#x27;s left hanging. You can respond to what it picks out, so there&#x27;s a dialectic between the system and you as the writer. There&#x27;s also an agent on the side, plugged into the same system, so you can ask about your book and fire off actions through conversation. It never writes into your work. The system can also follow theorems and proofs and string together their dependencies, but I haven&#x27;t made that a focus yet. There&#x27;s no Lean support, for example. If anyone&#x27;s interested in that, I&#x27;d love to hear it. I want to build this by iterating with the people who use it: a tool that uses AI not to bypass the creative process, but to bring new tools to it. There&#x27;s a free tier, and if you email hello@foolscap.works I&#x27;ll send you a code for 50% off. This is my first product, so feedback of any kind is welcome. Thanks, David\n\nНайдено в разделе Show HN на Hacker News. 👍 92 баллов.",
+    "url": "https://foolscap.works/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50559749",
+    "createdAt": "2026-11-19T17:35:01.756Z"
+  },
+  {
+    "slug": "iceshore-mcp-server-to-help-ai-answer-who-a-system-change-affects-hn",
+    "title": "IceShore – MCP server to help AI answer who a system change affects",
+    "shortDescription": "Проект «IceShore – MCP server to help AI answer who a system change affects», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «IceShore – MCP server to help AI answer who a system change affects», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://iceshore.ai/en/index.html",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50559736",
+    "createdAt": "2026-11-19T17:35:01.756Z"
+  },
+  {
+    "slug": "kibi-requirements-framework-for-ai-coding-agents-hn",
+    "title": "Kibi – requirements framework for AI coding agents",
+    "shortDescription": "Проект «Kibi – requirements framework for AI coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Kibi – requirements framework for AI coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://looted.github.io/kibi/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50557481",
+    "createdAt": "2026-11-19T17:35:01.756Z"
+  },
+  {
     "slug": "lumo-desktop-github",
     "title": "lumo-desktop",
     "shortDescription": "The Lumo Desktop codebase",
