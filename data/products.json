@@ -1,5 +1,225 @@
 [
   {
+    "slug": "github-copilot-app-github-18",
+    "title": "GitHub-Copilot-app",
+    "shortDescription": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub r…",
+    "fullDescription": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. \n\nАвтор: dcsnak. Найдено в GitHub Trending (AI-тематика). ⭐ 62 звёзд.",
+    "url": "https://github.com/dcsnak/GitHub-Copilot-app",
+    "category": "ai-tool",
+    "tags": [
+      "adminlte",
+      "agent-skills",
+      "ai",
+      "awesome",
+      "chatgpt",
+      "copilot",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1461748874",
+    "createdAt": "2026-11-19T00:57:17.566Z"
+  },
+  {
+    "slug": "github-copilot-app-github-19",
+    "title": "GitHub-Copilot-app",
+    "shortDescription": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub r…",
+    "fullDescription": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. \n\nАвтор: mohamedhamdytaha. Найдено в GitHub Trending (AI-тематика). ⭐ 62 звёзд.",
+    "url": "https://github.com/mohamedhamdytaha/GitHub-Copilot-app",
+    "category": "ai-tool",
+    "tags": [
+      "adminlte",
+      "agent-skills",
+      "ai",
+      "awesome",
+      "chatgpt",
+      "copilot",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1461748871",
+    "createdAt": "2026-11-19T00:57:17.567Z"
+  },
+  {
+    "slug": "i-built-a-harness-that-turns-floor-plans-into-360-tours-using-ai-hn",
+    "title": "I built a harness that turns floor plans into 360° tours using AI",
+    "shortDescription": "Проект «I built a harness that turns floor plans into 360° tours using AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «I built a harness that turns floor plans into 360° tours using AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://walkthisplan.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50554399",
+    "createdAt": "2026-11-19T00:57:17.495Z"
+  },
+  {
+    "slug": "frontier-observatory-a-visual-timeline-of-what-the-ai-labs-ship-hn",
+    "title": "Frontier Observatory – A visual timeline of what the AI labs ship",
+    "shortDescription": "Frontier labs ship a lot. This gives me a handle on things. Also nice view of what the labs are prioritising (if release&#x2F;research outp…",
+    "fullDescription": "Frontier labs ship a lot. This gives me a handle on things. Also nice view of what the labs are prioritising (if release&#x2F;research output is any indication).. Made with GPT-6.2 Astra High. Initial prompt was a bit rambly, some refinement over time. It suggested &#x27;scry&#x27; which I thought was a bad name so now its called Frontier Observatory, which is a tad less terrible. Prompt: You know what I&#x27;d like to build.. a visuliastion studio where I can monitor the pace of output across various groups&#x2F;sub-groups etc from the two predominant frontier labs racing to AGI.. I think it would make for a fascinating experience. I want the aesthetics to be out-wordly artistic, we want this to be like a portal.. a crystal bowl of making sense of the past and predicting the future.. Also need a clever name. Single word. Minimal.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://frontier-lab-observatory.lucentcarrot1.chatgpt.site",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50553966",
+    "createdAt": "2026-11-19T00:57:17.495Z"
+  },
+  {
+    "slug": "archiver-free-extractcompaction-tool-built-with-webassembly-hn",
+    "title": "Archiver – free extract/compaction tool built with WebAssembly",
+    "shortDescription": "I maintain a handful of archive libraries written in Rust and I had the crazy idea to throw them all together in a browser app, doing inten…",
+    "fullDescription": "I maintain a handful of archive libraries written in Rust and I had the crazy idea to throw them all together in a browser app, doing intense computational work, fully local in the browser. I&#x27;ve wanted to learn more about WebAssembly and this was a great opportunity to really see what it can do. Nothing is uploaded, there&#x27;s no server behind it. Everything processes local and it even works offline and on mobile. I made a 7z on my phone in airplane mode today. There&#x27;s a couple other tools like this out there, but they have sign-ups, ads, limitations. Archiver is a free tool for anyone and the only limits are what your disk can hold. For 7z specifically, it also picks the best compression filters for every file in the archive based on the file type, which is really powerful when you&#x27;re archiving large, mixed data (text+pictures+binary) folders. Hope you enjoy.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://archiver.scryer.media/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50553654",
+    "createdAt": "2026-11-19T00:57:17.495Z"
+  },
+  {
+    "slug": "100ms-copy-on-write-workspaces-for-ai-agents-on-macos-hn",
+    "title": "100ms copy-on-write workspaces for AI agents on macOS",
+    "shortDescription": "Проект «100ms copy-on-write workspaces for AI agents on macOS», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «100ms copy-on-write workspaces for AI agents on macOS», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/gabrielvfonseca/replica",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50553493",
+    "createdAt": "2026-11-19T00:57:17.495Z"
+  },
+  {
+    "slug": "robotics-needs-better-cad-so-i-wrote-a-b-rep-kernel-and-3487-tests-hn",
+    "title": "Robotics needs better CAD, so I wrote a B-rep kernel and 3,487 tests",
+    "shortDescription": "Hey HN, I’m Tony. I’m a co-founder of Springcraft, where we have been doing a lot of CAD modeling for robot parts. Our team kept running in…",
+    "fullDescription": "Hey HN, I’m Tony. I’m a co-founder of Springcraft, where we have been doing a lot of CAD modeling for robot parts. Our team kept running into limitations with existing kernels, and so I decided to write a new B-rep kernel and a new comprehensive, kernel-agnostic B-rep conformance test suite. Both are available today under MIT licenses. The kernel, springrep, is written in safe Rust with no dependencies. It covers a broad range of our mechanical CAD needs, including advanced fillets, sweeps, lofts, shells, offsets, STEP and exact measurements and queries. Claude Code made it feasible to write this, but it took a lot of time and care to get it right. The test suite, brep-conformance, has 3,487 cases covering the modeling operations common across kernels: booleans, fillets, chamfers, shells, offsets, sweeps, lofts, STEP, and queries with expected answers coming from closed forms and exact geometry. It caught hundreds of bugs, edge cases, and hot spots in springrep that our own tests had missed, and now springrep passes all of it. We’ve also run it on a few popular open-source kernels and anyone can run it on theirs. This is the first version, so there are surely mistakes in the test and adapters. Corrections, pull requests, and new kernels are welcome. kernel: https:&#x2F;&#x2F;github.com&#x2F;springcraft-ai&#x2F;springrep conformance suite: https:&#x2F;&#x2F;springcraft-ai.github.io&#x2F;brep-conformance&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 19 баллов.",
+    "url": "https://springcraft-ai.github.io/springrep/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50552140",
+    "createdAt": "2026-11-19T00:57:17.495Z"
+  },
+  {
+    "slug": "why-the-wind-swirls-a-weather-simulation-you-can-tilt-into-3d-hn",
+    "title": "Why the wind swirls – a weather simulation you can tilt into 3D",
+    "shortDescription": "Проект «Why the wind swirls – a weather simulation you can tilt into 3D», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Why the wind swirls – a weather simulation you can tilt into 3D», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://claude.ai/artifact/87ngXjaxNhtZn587yTV6By",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50551646",
+    "createdAt": "2026-11-19T00:57:17.495Z"
+  },
+  {
+    "slug": "beat-a-to-do-list-that-completes-its-own-tasks-hn",
+    "title": "Beat – a to-do list that completes its own tasks",
+    "shortDescription": "Проект «Beat – a to-do list that completes its own tasks», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Beat – a to-do list that completes its own tasks», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 10 баллов.",
+    "url": "https://gobeat.ai/auth/login",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50551356",
+    "createdAt": "2026-11-19T00:57:17.495Z"
+  },
+  {
+    "slug": "railcall-local-first-agent-runtime-with-approvals-and-signed-receipts-hn",
+    "title": "RailCall – Local-first agent runtime with approvals and signed receipts",
+    "shortDescription": "Проект «RailCall – Local-first agent runtime with approvals and signed receipts», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «RailCall – Local-first agent runtime with approvals and signed receipts», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://railcall.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50551184",
+    "createdAt": "2026-11-19T00:57:17.495Z"
+  },
+  {
+    "slug": "intrusiveai-open-source-ai-attack-simulation-hn",
+    "title": "Intrusive.ai – open-source AI attack simulation",
+    "shortDescription": "I created the INTRUSIVE.AI platform to give agent builders the ability to evaluate their agents against OWASP&#x27;s Top 10 for Agentic App…",
+    "fullDescription": "I created the INTRUSIVE.AI platform to give agent builders the ability to evaluate their agents against OWASP&#x27;s Top 10 for Agentic Applications (and more generally, just to allow for comprehensive testing in a non-production environment). Through my own experience with evaluating agents, I found indirect prompt injection testing to be especially difficult due to the architectural nature of it. To overcome that challenge, I created Interceptor Sandbox - a sandbox that runs agents in a simulated environment where all of the services an agent might rely on (HTTP, MCP, Postgres&#x2F;pgvector to name a few) can be &quot;intercepted&quot; via an injection API to inject malicious payloads. Interceptor Sandbox: https:&#x2F;&#x2F;github.com&#x2F;intrusiveai&#x2F;interceptor_sandbox Additionally, I found that existing open source AI testing and attack simulation solutions didn&#x27;t provide the breadth of capabilities I needed so I created Attack Harness for that purpose. But it also had to be sandboxed because any sufficiently capable attack harness can&#x27;t be trusted to play nice once it&#x27;s been given nefarious goals and so that led to Operator Sandbox. I haven&#x27;t seen other people talking about the sandboxing method that I&#x27;ve employed in Operator so it seems to be a somewhat novel approach that might shake up the way people are thinking about sandboxing AI agents. Operator Sandbox: https:&#x2F;&#x2F;github.com&#x2F;intrusiveai&#x2F;operator_sandbox The full suite is documented here: https:&#x2F;&#x2F;docs.intrusive.ai The platform is still very much in its alpha stage so your mileage may vary but I would sure appreciate any feedback that comes my way. Feel free to use GitHub Issues on the respective repos to provide feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://intrusive.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50550896",
+    "createdAt": "2026-11-19T00:57:17.496Z"
+  },
+  {
+    "slug": "kradlebench-multi-agent-ai-evals-in-minecraft-hn",
+    "title": "KradleBench – Multi-agent AI evals in Minecraft",
+    "shortDescription": "Hi HN - This is James and Kemal. In past lives we led Firebase and Tensorflow&#x2F;JAX respectively. HN has been a particularly big part of…",
+    "fullDescription": "Hi HN - This is James and Kemal. In past lives we led Firebase and Tensorflow&#x2F;JAX respectively. HN has been a particularly big part of my (James’) career and the trajectory I’ve taken would be meaningfully different without it. Thank you! Our team shipped a benchmark: KradleBench. We test AI in Minecraft Worlds. 1. The worlds are multi-agent. Humans and other AIs are in there too, often pursuing their own goals. Collaboration and conflict skills fall out of this property. 2. The world are dynamic. They constantly change, which means that agents need to react. “Capture the Flag” has a single winning condition, and many different ways to achieve it. This leads to many emergent and creative strategies. 3. The worlds are real-time. They are not turn-based, they do not wait for AIs to finish thinking. Nature balanced speed and intelligence in humans, we can understand this in AIs too. Underneath all this is Kradle, a platform to test and understand intelligence. It’s a petri dish where any intelligence type (LLM, World Model, Human) can be compared and generate useful information to improve current systems, whether it’s on capabilities or safety. Some findings so far: - A skilled human was #1, until yesterday when Astra 6.2 surpassed them. We lose badly on solo tasks and out-compete on multi-agent ones - Astra 6.2 iterates on its strategy 4x faster than Fable 5.2. The Claude family tends to think hard and stick with strategies. The OpenAI models tend to be more reactive and iterative, which serves them well in multi-agent, dynamic, real-time evals. We’ve got videos on all the top model’s page, and we’ll be producing them when a new model launches. Sign up on the site to get them and for when the platform opens. Thanks for reading, James &amp; Kemal\n\nНайдено в разделе Show HN на Hacker News. 👍 8 баллов.",
+    "url": "https://www.kradle.ai?1",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50550700",
+    "createdAt": "2026-11-19T00:57:17.496Z"
+  },
+  {
+    "slug": "sourcepost-a-hand-reviewed-directory-for-ai-agents-api-and-mcp-hn",
+    "title": "SourcePost – a hand-reviewed directory for AI agents (API and MCP)",
+    "shortDescription": "Проект «SourcePost – a hand-reviewed directory for AI agents (API and MCP)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «SourcePost – a hand-reviewed directory for AI agents (API and MCP)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://sourcepost.dev",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50550481",
+    "createdAt": "2026-11-19T00:57:17.496Z"
+  },
+  {
     "slug": "robotics-antigravity-plugin-github",
     "title": "robotics-antigravity-plugin",
     "shortDescription": "GDM Robotics Skills for agentic robotics workflows across simulation and real robots.",
