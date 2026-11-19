@@ -1,5 +1,104 @@
 [
   {
+    "slug": "lumo-desktop-github",
+    "title": "lumo-desktop",
+    "shortDescription": "The Lumo Desktop codebase",
+    "fullDescription": "The Lumo Desktop codebase\n\nАвтор: ProtonLumo. Найдено в GitHub Trending (AI-тематика). ⭐ 63 звёзд.",
+    "url": "https://proton.me/blog/lumo-desktop-features",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "privacy",
+      "productivity",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1461055482",
+    "createdAt": "2026-11-19T08:29:15.051Z"
+  },
+  {
+    "slug": "what-is-localhost-an-interactive-guide-hn",
+    "title": "What is localhost? An interactive guide",
+    "shortDescription": "I&#x27;ve build whatislocalhost.com to showcase an app deployed to cloudish.ai -- Why? Well, I can either buy ads and brain wash people or,…",
+    "fullDescription": "I&#x27;ve build whatislocalhost.com to showcase an app deployed to cloudish.ai -- Why? Well, I can either buy ads and brain wash people or, I can burn time, tokens and effort creating value for the community, we chose the latter :) The last year our team at Hal9 has been helping a bunch of founders that vibe-coded apps turn them into real MVPs (Minimum Viable Products) and then real products that scale in usage and revenue. One of the top questions we get was: why can&#x27;t I just use my Claude Coded app as my website? Well, technically you can, but as many of you in HN already know, not the best idea. Computers go to sleep, are more likely to get hacked with exposed ports, have slow and unreliable internet, you only have one, and if you are doing heavy work it will slowdown your website. Therefore, I created https:&#x2F;&#x2F;whatislocalhost.com , which i an interactive explanation into what is localhost &#x2F; 127.0.0.1 &#x2F; ::1 Hope this is useful to some, or at least insightful.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://whatislocalhost.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50556819",
+    "createdAt": "2026-11-19T08:29:14.902Z"
+  },
+  {
+    "slug": "cyravo-securebuild-ai-hn",
+    "title": "Cyravo SecureBuild AI",
+    "shortDescription": "Проект «Cyravo SecureBuild AI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Cyravo SecureBuild AI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://cyravo-securebuild-a-9jtc.bolt.host/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50556811",
+    "createdAt": "2026-11-19T08:29:14.902Z"
+  },
+  {
+    "slug": "git-hook-for-model-identifation-hn",
+    "title": "Git Hook for Model Identifation",
+    "shortDescription": "I have started using multiple models (Claude, Codex, Grok via cursor-agent, Z.ai, Deepseek, Hy4 via OpenCode, agy) etc, and I realized that…",
+    "fullDescription": "I have started using multiple models (Claude, Codex, Grok via cursor-agent, Z.ai, Deepseek, Hy4 via OpenCode, agy) etc, and I realized that I not able to identify which commit was made by which model. After looking around and not finding anything, I create a format specification that will let Model self-identify itself. The goal is a higher ranked model can verify the output of other models and suggest changes. It is similar how to a Senior Engineer will review the output of Junior Engineers. As Humans, we know which model is behaving well, and which we can trust more. My AI based commits have a identification like this. Add retry backoff to fetch Model: claude-sonnet-5-5 harness=claude-code effort=high conf=medium Model: opencode&#x2F;hy4-flash-free harness=opencode effort=high conf=medium In using this, I get an intuition what I can expect when I fire off model on a particular task.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/orsenthil/git-hook-model-identification",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50556343",
+    "createdAt": "2026-11-19T08:29:14.902Z"
+  },
+  {
+    "slug": "a-air-traffic-control-sim-that-forces-you-to-remember-how-to-write-code-hn",
+    "title": "A Air traffic control SIM that forces you to remember how to write code",
+    "shortDescription": "Проект «A Air traffic control SIM that forces you to remember how to write code», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A Air traffic control SIM that forces you to remember how to write code», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/shawnzam/holding-pattern",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50555534",
+    "createdAt": "2026-11-19T08:29:14.902Z"
+  },
+  {
+    "slug": "disposable-share-small-ai-made-tools-so-others-can-rebuild-them-hn",
+    "title": "Disposable – Share small AI-made tools so others can rebuild them",
+    "shortDescription": "I made a site for sharing small tools made with AI. With agents, it is now quick to build a tool that fits your own task. But those tools u…",
+    "fullDescription": "I made a site for sharing small tools made with AI. With agents, it is now quick to build a tool that fits your own task. But those tools usually get thrown away after use, and the next person who may needs something similar start again from zero. So I thought maybe if result or process could shared by text or code and this can lead to kind of token sharing economy. Its name is Disposable and compared to &quot;Open source&quot;, I named its philosophy to &quot;Open Disposable&quot;. So the principle is &quot;Like open source, without the upkeep. Keep the know-how, rebuild the tool your way&quot;. You can share anything you actually used and found useful, with no promise to maintain it. Others can use it as is, or give the spec that comes with it to theur own agent and have it rebuilt. If you have your own skill, prompt, or program you would like to show others, please share it. If you get stuck while sharing, let me know. Repo: https:&#x2F;&#x2F;github.com&#x2F;x-ify&#x2F;disposable\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://disposable.xify.kr/en/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50555527",
+    "createdAt": "2026-11-19T08:29:14.902Z"
+  },
+  {
     "slug": "github-copilot-app-github-18",
     "title": "GitHub-Copilot-app",
     "shortDescription": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub r…",
