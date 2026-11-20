@@ -1,5 +1,155 @@
 [
   {
+    "slug": "gta-6-switch-version-pc-emulator-2026-github-26",
+    "title": "GTA-6-Switch-Version--PC-Emulator-2026",
+    "shortDescription": "GTA VI PC Installer hub for Grand Theft Auto 6 on Windows 10/11. Explore PC release updates, installation preparation, Rockstar Games Launc…",
+    "fullDescription": "GTA VI PC Installer hub for Grand Theft Auto 6 on Windows 10/11. Explore PC release updates, installation preparation, Rockstar Games Launcher setup, graphics optimization, system compatibility, and a step-by-step installation guide for the upcoming PC version.\n\nАвтор: kamesha12. Найдено в GitHub Trending (AI-тематика). ⭐ 35 звёзд.",
+    "url": "https://github.com/kamesha12/GTA-6-Switch-Version--PC-Emulator-2026",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "desktop-app",
+      "emulator",
+      "game-emulator",
+      "generative-ai",
+      "gta",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1464569385",
+    "createdAt": "2026-11-20T22:57:25.102Z"
+  },
+  {
+    "slug": "xsquads-set-a-mission-agents-work-on-it-autonomously-in-your-harness-hn",
+    "title": "XSquads– Set a mission, agents work on it autonomously in your harness",
+    "shortDescription": "Works as a meta harness, with your existing subscriptions on the following harnesses - Claude Code - Codex - Pi Coding Agent - Open Code -…",
+    "fullDescription": "Works as a meta harness, with your existing subscriptions on the following harnesses - Claude Code - Codex - Pi Coding Agent - Open Code - Antigravity - Hermes -Grok\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://xsquads.ai",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50582844",
+    "createdAt": "2026-11-20T22:57:24.945Z"
+  },
+  {
+    "slug": "trichroma-a-platformer-of-light-hn",
+    "title": "Trichroma, a Platformer of Light",
+    "shortDescription": "Hi Hackernews! I just wanted to share a game I&#x27;ve made over a few weeks just as a little side project. Of course it was developed usin…",
+    "fullDescription": "Hi Hackernews! I just wanted to share a game I&#x27;ve made over a few weeks just as a little side project. Of course it was developed using Agents Engineering. The idea of the game though comes from around 10 years ago, from conversations with my brother: he is an artist and back them he was experimenting with chromatic paintings that looked differently depending on which color of light they were exposed to. A few weeks ago I decided to show my brother what&#x27;s possible now a days with AI and how we can turn ideas into reality with a fraction of the effort we would have need in the past. The game is a little platformer, meant to be challenging but cute and entertaining, taking inspiration of games like Celeste or Meatboy. Death is part of the game, and light mechanics are introduced over the course of the 63 levels that are available to play. The development was made fully from my phone with Claude Code, but I invested lots of time on play testing it and I&#x27;ve involved several friends to play it to gather feedback and improve it. I&#x27;d love to hear your feedback and k hope some or you have fun playing it!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://trichroma.namirsab.dev/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50582578",
+    "createdAt": "2026-11-20T22:57:24.945Z"
+  },
+  {
+    "slug": "build-a-trading-bot-in-10-seconds-hn",
+    "title": "Build a trading bot in 10 seconds",
+    "shortDescription": "Hi everyone, Board is a way to create, deploy, and fund a trading bot in 10 seconds. My co-founders and I built Board out of our own necess…",
+    "fullDescription": "Hi everyone, Board is a way to create, deploy, and fund a trading bot in 10 seconds. My co-founders and I built Board out of our own necessity. Every time we had a new trading strategy, we would need to manually input it into our broker accounts and monitor the situation ourselves. We looked at all of our trading strategies over the past 3 years and added everything to the board that would be required to rebuild them from scratch. Now, when we have a new strategy, we chat with AI to create the strategy. We review the board to confirm that it matches what we expect, and we deploy it. We don&#x27;t have to worry about setting up webhooks for signals or keeping it running on our computer locally. The whole system is built on top of tokenized stocks and commodities. You always have access to withdraw your funds.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://board.blink.cash/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50582420",
+    "createdAt": "2026-11-20T22:57:24.945Z"
+  },
+  {
+    "slug": "luminol-see-what-ai-evidence-a-windows-pc-holds-and-when-it-expires-hn",
+    "title": "Luminol: see what AI evidence a Windows PC holds and when it expires",
+    "shortDescription": "Проект «Luminol: see what AI evidence a Windows PC holds and when it expires», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Luminol: see what AI evidence a Windows PC holds and when it expires», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/adilshadowaiforensics/luminol/releases/tag/v0.1.1",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50582358",
+    "createdAt": "2026-11-20T22:57:24.945Z"
+  },
+  {
+    "slug": "arkviz-ai-generated-software-architecture-diagrams-hn",
+    "title": "ArkViz – AI generated software architecture diagrams",
+    "shortDescription": "Hi HN, I’m Bryant, founder of ArkViz ( https:&#x2F;&#x2F;arkviz.io ). ArkViz is a product to automatically generate architecture diagrams f…",
+    "fullDescription": "Hi HN, I’m Bryant, founder of ArkViz ( https:&#x2F;&#x2F;arkviz.io ). ArkViz is a product to automatically generate architecture diagrams from your codebase using AI. The vision behind ArkViz is to supercharge both AI agents and humans by providing AI agents deeper relational context using structured model diagram formats, and by providing humans with a rich visual representation you can interact with, with features like zooming, panning, search, and show composing files. In this new age of AI, you can generate a structured model diagram from your codebase in seconds, quicker and better than a human. Not only can the generated diagram be a visual documentation tool for humans, AI agents can also benefit from the context of a pre-generated architecture diagram that lives alongside a project’s codebase. This concept has already been proven by context files like CLAUDE.md, AGENTS.md, ARCHITECTURE.md living in the root of your repository. The differentiator between ARCHITECTURE.md and ArkViz is that ArkViz generates a structured model diagram of the system, while ARCHITECTURE.md is broader in scope and purely text. ArkViz aims to be a supplement to ARCHITECTURE.md to provide deeper understanding like how components are connected, which components live inside other components, which files compose a component. — Why ArkViz? Software engineering teams often create diagrams to aid in the documentation of their software systems. They are incredibly useful for onboarding new engineers and understanding projects. However, they take time to create and maintain, so are often non-existent or out of date. ArkViz automates the creation and maintenance of software architecture diagrams, seamlessly and securely. AI agents thrive when they have high quality context, including for architecture diagrams. However not all diagram formats out there are optimized for AI. A diagram showing connected systems and components can be represented in essentially 3 ways: 1. Unstructured drawing &#x2F; canvas format (e.g. draw.io, Excalidraw, Figma, LucidChart) - Quick to get started but hard to maintain. - Good for brainstorming and whiteboarding - The format carries no semantic meaning and is basically represented by pixels, shapes, and vectors. Positioning is stored - Passing this to an AI agent as context has questionable value. 2. Structured diagramming formats (e.g. Mermaid, d2lang) - A level of abstraction higher than a 2D drawing canvas - Good for quick isolated diagram, like on GitHub - Represented by nodes and edges, nested hierarchies. Layout is generated - Better for AI agents, although they have to piece together the context, and might get confused by an inconsistency like duplicate naming 3. Structured modeling formats (e.g. Structurizr, LikeC4, IcePanel). - These have an underlying data model and single source of truth - High quality documentation, but hard to create and maintain - Represented by entities and relationships. Layout can be richer, like zooming into a component and seeing what&#x27;s inside - Best for AI agents, since they have a single source of truth context ArkViz currently uses LikeC4 for its diagram format, a modern, popular, and open-source architecture-as-code format that supports interactive diagrams. AI agents will be more trained with this than a proprietary format. Why not roll my own solution with something like Claude Code? While Claude Code is a powerful AI coding harness, ArkViz provides seamless features you&#x27;d rather not spend time building like hosting diagrams, access control, scheduling automation, handling errors and retries, logs, connectors to GitHub. Additionally, ArkViz has battle-tested, optimized multi-pass prompts, validators, and guardrails for the specific purpose of AI generated architecture diagrams. Take a look here: https:&#x2F;&#x2F;arkviz.io ! Feedback greatly appreciated on which features you care about, and whether you think the value proposition is there.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://arkviz.io",
+    "category": "design",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50580994",
+    "createdAt": "2026-11-20T22:57:24.945Z"
+  },
+  {
+    "slug": "out-of-policy-break-an-ai-agents-spending-guard-for-75-usdc-hn",
+    "title": "Out of Policy – Break an AI agent's spending guard for $75 USDC",
+    "shortDescription": "Проект «Out of Policy – Break an AI agent's spending guard for $75 USDC», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Out of Policy – Break an AI agent's spending guard for $75 USDC», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://play.outbid.sh",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50578763",
+    "createdAt": "2026-11-20T22:57:24.945Z"
+  },
+  {
+    "slug": "aivory-code-one-screen-for-all-your-coding-agents-hn",
+    "title": "AIVory Code – One screen for all your coding agents",
+    "shortDescription": "Проект «AIVory Code – One screen for all your coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AIVory Code – One screen for all your coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/aivorynet/aivory-code",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50578507",
+    "createdAt": "2026-11-20T22:57:24.945Z"
+  },
+  {
+    "slug": "full-production-studio-77-open-source-ai-skills-for-video-creators-hn",
+    "title": "Full Production Studio, 77 open-source AI skills for video creators",
+    "shortDescription": "Проект «Full Production Studio, 77 open-source AI skills for video creators», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Full Production Studio, 77 open-source AI skills for video creators», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/alfaris/full-production-studio",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50577746",
+    "createdAt": "2026-11-20T22:57:24.945Z"
+  },
+  {
     "slug": "gta-6-switch-version-pc-emulator-2026-github-19",
     "title": "GTA-6-Switch-Version--PC-Emulator-2026",
     "shortDescription": "GTA VI PC Installer hub for Grand Theft Auto 6 on Windows 10/11. Explore PC release updates, installation preparation, Rockstar Games Launc…",
