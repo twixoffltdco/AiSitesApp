@@ -1,5 +1,37 @@
 [
   {
+    "slug": "scots-codes-hn",
+    "title": "Scots-Codes",
+    "shortDescription": "Packaged https:&#x2F;&#x2F;underwood.network&#x2F;http&#x2F;scots.html for kicks and giggles.",
+    "fullDescription": "Packaged https:&#x2F;&#x2F;underwood.network&#x2F;http&#x2F;scots.html for kicks and giggles.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/vanyakosmos/scots-codes",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50584683",
+    "createdAt": "2026-11-21T03:49:52.351Z"
+  },
+  {
+    "slug": "saturnsql-context-telling-ai-tools-what-the-database-means-hn",
+    "title": "SaturnSQL Context, telling AI tools what the database means",
+    "shortDescription": "I&#x27;ve seen a rising demand for context when AI queries data from different places, so I built a way to provide it. You basically descri…",
+    "fullDescription": "I&#x27;ve seen a rising demand for context when AI queries data from different places, so I built a way to provide it. You basically describe the tables, write free-form markdown notes and set definitions (e.g. the SQL for how to calculate an active user, so everyone in the company calculates it the same way). It support Apache Ossie and the context can live in your codebase or my service or both.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://saturnsql.com/context-layer",
+    "category": "productivity",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50583881",
+    "createdAt": "2026-11-21T03:49:52.351Z"
+  },
+  {
     "slug": "gta-6-switch-version-pc-emulator-2026-github-26",
     "title": "GTA-6-Switch-Version--PC-Emulator-2026",
     "shortDescription": "GTA VI PC Installer hub for Grand Theft Auto 6 on Windows 10/11. Explore PC release updates, installation preparation, Rockstar Games Launc…",
