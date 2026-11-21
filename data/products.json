@@ -1,5 +1,171 @@
 [
   {
+    "slug": "pebblecompanionchat-github",
+    "title": "Pebble_companionchat",
+    "shortDescription": "A lightweight, locally-focused, and customizable chat impersonation application",
+    "fullDescription": "A lightweight, locally-focused, and customizable chat impersonation application\n\nАвтор: 5235aa-web. Найдено в GitHub Trending (AI-тематика). ⭐ 50 звёзд.",
+    "url": "https://github.com/5235aa-web/Pebble_companionchat",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "aichat",
+      "aichatbot",
+      "aicompanion",
+      "airoleplay",
+      "asr",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1464881250",
+    "createdAt": "2026-11-21T12:04:46.324Z"
+  },
+  {
+    "slug": "tetramusic-multi-track-music-as-midi-in-seconds-on-web-and-desktop-hn",
+    "title": "Tetramusic – Multi-track music as MIDI in seconds, on web and desktop",
+    "shortDescription": "Проект «Tetramusic – Multi-track music as MIDI in seconds, on web and desktop», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Tetramusic – Multi-track music as MIDI in seconds, on web and desktop», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://tetramusic.ai/?v=hn",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50588318",
+    "createdAt": "2026-11-21T12:04:46.062Z"
+  },
+  {
+    "slug": "stop-applying-to-jobs-using-ai-generated-resume-hn",
+    "title": "Stop applying to jobs using AI-generated resume",
+    "shortDescription": "When LLMs hands you a resume or pdf it carry markers of how it was made, including the source. You can&#x27;t see them on the page but appl…",
+    "fullDescription": "When LLMs hands you a resume or pdf it carry markers of how it was made, including the source. You can&#x27;t see them on the page but applicant tracking systems can read it. So recruiters are flagging such profiles and rejecting them entirely. I had tested this across 40+ AI models (OpenAI, Anthropic, Google, Meta, etc) to produce a resume and every single file carried a marker. To solve this problem. I had built a free tool to show what your file says and gives you a cleaned version: - Drop your resume and get a cleaned copy - Free, no account. What it doesn&#x27;t do: it won&#x27;t rewrite your resume or make AI-sounding wording more human. It only deals with what&#x27;s hidden in the file. It&#x27;s a simple tool, but it feels absolutely necessary now as more people are using AI for generating their entire resume or even editing them. I am the developer, happy to answer any questions.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://unmark.grandimam.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50587783",
+    "createdAt": "2026-11-21T12:04:46.063Z"
+  },
+  {
+    "slug": "clawvet-offline-ast-scanner-and-rug-pull-diff-for-ai-agent-skills-hn",
+    "title": "ClawVet – Offline AST scanner and rug-pull diff for AI agent skills",
+    "shortDescription": "Проект «ClawVet – Offline AST scanner and rug-pull diff for AI agent skills», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ClawVet – Offline AST scanner and rug-pull diff for AI agent skills», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://clawvet.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50587571",
+    "createdAt": "2026-11-21T12:04:46.063Z"
+  },
+  {
+    "slug": "factory-worker-maps-ai-safety-arguments-and-open-questions-hn",
+    "title": "Factory worker maps AI safety arguments and open questions",
+    "shortDescription": "Проект «Factory worker maps AI safety arguments and open questions», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Factory worker maps AI safety arguments and open questions», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://huggingface.co/datasets/AegisSolis/aegis-solis-crosswalk-rc9-public-research",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50587511",
+    "createdAt": "2026-11-21T12:04:46.063Z"
+  },
+  {
+    "slug": "rmrfbench-how-often-ai-agents-wreck-a-server-when-asked-to-rm-a-file-hn",
+    "title": "RMRFBench – How often AI agents wreck a server when asked to rm a file",
+    "shortDescription": "Проект «RMRFBench – How often AI agents wreck a server when asked to rm a file», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «RMRFBench – How often AI agents wreck a server when asked to rm a file», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.rmrfbench.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50587178",
+    "createdAt": "2026-11-21T12:04:46.063Z"
+  },
+  {
+    "slug": "pantry-an-open-source-scanner-that-checks-what-your-coding-agents-run-hn",
+    "title": "Pantry an open source scanner that checks what your coding agents run",
+    "shortDescription": "Проект «Pantry an open source scanner that checks what your coding agents run», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Pantry an open source scanner that checks what your coding agents run», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://waffuru.ai/products/pantry",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50586748",
+    "createdAt": "2026-11-21T12:04:46.063Z"
+  },
+  {
+    "slug": "sniffy-a-free-ai-detector-and-chrome-extension-hn",
+    "title": "Sniffy – a free AI detector and Chrome extension",
+    "shortDescription": "Hi, I wanted to see if I can replicate a completely free pangram.com alternative. I directed Fable 5.2 to fine tune RoBert model. At this p…",
+    "fullDescription": "Hi, I wanted to see if I can replicate a completely free pangram.com alternative. I directed Fable 5.2 to fine tune RoBert model. At this point it does make mistakes, and not as accurate as pangram.com but I intend to improve it as more people help me with data.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://getsniffy.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50586349",
+    "createdAt": "2026-11-21T12:04:46.063Z"
+  },
+  {
+    "slug": "musset-open-source-scrivener-alternative-with-an-ai-that-never-writes-hn",
+    "title": "Musset, open-source Scrivener alternative with an AI that never writes",
+    "shortDescription": "I’m writing my first novel and could not find an app that fit my workflow: quiet like iA Writer, organized like Scrivener, and with AI so I…",
+    "fullDescription": "I’m writing my first novel and could not find an app that fit my workflow: quiet like iA Writer, organized like Scrivener, and with AI so I can discuss my book while I write it. It allows me to feel less “alone” and have a sounding board while I write. - A book is a folder of plain Markdown files. Musset commits to a git repo, tracks versions and drafts without you having to know git. - Revisions are CriticMarkup inside the text. It manages docx revisions too, so your editor can edit a Word doc and you import their comments. - PDFs are typeset using Typst, embedded in the app, following each language’s typographic rules. - Spelling and grammar are checked using LanguageTool, also embedded. - Mac&#x2F;Word, WordStar, vi and Emacs keyboard modes. The AI is optional and uses your Codex or Claude Code CLI. It comments, leaves margin notes, and checks continuity and your chapters against your style rules. It’s GPL-3.0 and free during the beta. When or if it reaches 1.0, if there is sufficient interest, the idea is to make it a small one-time payment ($9.90). There is a paid sync service (git hosting) that lets you share a book with beta readers and editors. Download: https:&#x2F;&#x2F;musset.app I’d love to have some feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://github.com/Musset-App/musset",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50586323",
+    "createdAt": "2026-11-21T12:04:46.063Z"
+  },
+  {
+    "slug": "bootstrapping-a-compiler-with-ai-run-on-to-arm64-wasm-spir-v-hn",
+    "title": "Bootstrapping a compiler with AI run on to ARM64, WASM, SPIR-V",
+    "shortDescription": "Проект «Bootstrapping a compiler with AI run on to ARM64, WASM, SPIR-V», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Bootstrapping a compiler with AI run on to ARM64, WASM, SPIR-V», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/drakestapleton/omega-mv/blob/main/seed/README.md",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50585893",
+    "createdAt": "2026-11-21T12:04:46.063Z"
+  },
+  {
     "slug": "scots-codes-hn",
     "title": "Scots-Codes",
     "shortDescription": "Packaged https:&#x2F;&#x2F;underwood.network&#x2F;http&#x2F;scots.html for kicks and giggles.",
