@@ -1,5 +1,53 @@
 [
   {
+    "slug": "hubbub-read-big-hn-threads-by-topic-hn",
+    "title": "Hubbub – Read big HN threads by topic",
+    "shortDescription": "Hi everyone! Thank you all for the discussions here. They&#x27;re the reason I visit and read HN every day. Big threads are hard to follow.…",
+    "fullDescription": "Hi everyone! Thank you all for the discussions here. They&#x27;re the reason I visit and read HN every day. Big threads are hard to follow. I wanted to see what people are actually talking about before diving in, so I had Opus 5.5 build me a Chrome extension. On a thread page, Hubbub groups the top-level comments into a handful of topics, with a bar showing how much of the discussion each one takes up. Open a topic and you read the real comments btw, no AI summary. Haiku only groups comments, generates labels, and describes a topic in a sentence or two. There&#x27;s a live demo on the landing page: https:&#x2F;&#x2F;hubbub.page How it works: a small server makes trees ahead of time for front-page threads with 30+ comments, and refreshes them as the threads grow. Every user downloads the same file, so the server can&#x27;t tell which threads you read. There&#x27;s no account and no analytics, and your read history stays in your browser. Do give it a try, let me know if you spot any bugs, or have any feature requests :)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://hubbub.page",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50591023",
+    "createdAt": "2026-11-21T19:37:58.162Z"
+  },
+  {
+    "slug": "accounting-built-like-git-with-files-in-your-own-storage-hn",
+    "title": "Accounting built like Git, with files in your own storage",
+    "shortDescription": "Lots of ways to do your accounting today with LLMs, but for some reason there is this expectation you are suppose to keep the old accountin…",
+    "fullDescription": "Lots of ways to do your accounting today with LLMs, but for some reason there is this expectation you are suppose to keep the old accounting software around? And it sort of makes sense, they vouch for the ledger integrity and keep the audit trail. It reminded me of how things where like before git. You trusted the host not just to keep the data but to vouch for the versioning, and what git really did was move that last part into the data itself. Accounting ledgers need integrity, in fact it is mandated by law in most places. Git buys integrity by publishing, because if you do not share your repo with anyone, you can always force push and rewrite the commit history and no-one would know. But your books are sensitive and cannot be published. So I made git-style versioning for double-entry accounting. Entries gets hashed and timestamped, service checks for debit equals credit, and it ends up as json files you keep in your own S3 bucket. Not in a vendor database. For the hosted version the access keys to the buckets are encrypted with the user passkey &#x2F; assistant OAuth, so the service cannot read anything at-rest. For user convenience there is a hosted version where you do the books through MCP on whatever LLM you already use. The whole thing is so cheap to run, because the service does not store any sensitive data, so it is free, although you need an AI client with MCP support and an S3 bucket. Hosted version: https:&#x2F;&#x2F;bobalice.com Code walkthrough: https:&#x2F;&#x2F;bobalice.com&#x2F;docs&#x2F;alice\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/spooky6G/bobalice_books",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50589229",
+    "createdAt": "2026-11-21T19:37:58.162Z"
+  },
+  {
+    "slug": "an-interactive-architecture-diagram-of-your-codebase-and-infra-hn",
+    "title": "An interactive architecture diagram of your codebase and infra",
+    "shortDescription": "ig (Intent-Graph) is an a CLI tools to visualise your code architecture interactively. As I&#x27;m working heavily with AI coding and multi…",
+    "fullDescription": "ig (Intent-Graph) is an a CLI tools to visualise your code architecture interactively. As I&#x27;m working heavily with AI coding and multiple project. ig helps to reduce cognitive load to have a visual way to view the code and diff. Just `ig init` on anycodebase then `ig analyse` then ìg view` you can have an interactive maps of you software architecture. Try it out `brew install mrzdevcore&#x2F;tap&#x2F;ig` and tell me your feedback. Thanks.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/mrzdevcore/intent-graph",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50588411",
+    "createdAt": "2026-11-21T19:37:58.162Z"
+  },
+  {
     "slug": "pebblecompanionchat-github",
     "title": "Pebble_companionchat",
     "shortDescription": "A lightweight, locally-focused, and customizable chat impersonation application",
