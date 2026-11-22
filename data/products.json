@@ -1,5 +1,159 @@
 [
   {
+    "slug": "sun-yuchen-interview-github",
+    "title": "sun-yuchen-interview",
+    "shortDescription": "孙宇晨 × 邵艾伦｜262分钟深度访谈精华：孙学、黄毛思维、薄肌理论、财富自由与AI时代的机会。",
+    "fullDescription": "孙宇晨 × 邵艾伦｜262分钟深度访谈精华：孙学、黄毛思维、薄肌理论、财富自由与AI时代的机会。\n\nАвтор: Edward-Ren. Найдено в GitHub Trending (AI-тематика). ⭐ 20 звёзд.",
+    "url": "https://github.com/Edward-Ren/sun-yuchen-interview",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "alan-shao",
+      "boji",
+      "crypto",
+      "decision-making",
+      "huangmao",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1466602534",
+    "createdAt": "2026-11-22T15:31:33.127Z"
+  },
+  {
+    "slug": "upasarathi-github",
+    "title": "upasarathi",
+    "shortDescription": "UpaSārathi (उपसारथि): the 13 Principal Upanishads as a knowledge graph you can read, hear and ask, and a harness that tests whether AI tell…",
+    "fullDescription": "UpaSārathi (उपसारथि): the 13 Principal Upanishads as a knowledge graph you can read, hear and ask, and a harness that tests whether AI tells you what you want to hear.\n\nАвтор: HimanshuMohanty-Git24. Найдено в GitHub Trending (AI-тематика). ⭐ 6 звёзд.",
+    "url": "https://upasarathi.vercel.app/",
+    "category": "ai-tool",
+    "tags": [
+      "agents",
+      "ai",
+      "knowledge-graph",
+      "upanishads",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1466780389",
+    "createdAt": "2026-11-22T15:31:33.127Z"
+  },
+  {
+    "slug": "rayclay-an-open-source-c-app-framework-for-desktop-mobile-and-web-hn",
+    "title": "RayClay – an open source C app framework for desktop, mobile, and web",
+    "shortDescription": "RayClay aims to be the most developer-friendly framework for creating native desktop and mobile applications. It handles all the DIY aspect…",
+    "fullDescription": "RayClay aims to be the most developer-friendly framework for creating native desktop and mobile applications. It handles all the DIY aspects of C for you while retaining all the performance benefits of using a low-level programming language. MY MOTIVATION At the start of the year I decided I wanted to develop my own app with the goal of releasing it on mobile, desktop, and web. Probably like most developers, I wanted to build a closed-source app and distribute it to whomever I wanted. And I didn&#x27;t want to have to pay any sort of fee or owe any conditions to the development tools I used. It turns out, this set of criteria really limited what framework I could choose. Distributing it to whomever I wanted meant that the app had to be properly cross-platform. This cut out options like React Native (no official Linux) and Electron (no iOS or Android). And, while Tauri has yeses for all platforms, I decided that its dependence on platform-native webviews would probably mean excessive ongoing maintenance which I would prefer not to have to deal with. These frameworks were all very bloated anyways so it didn&#x27;t feel like a big loss tbh. So I was left with choosing between Qt and Flutter, but Qt has this finicky dual licensing model and Flutter still felt a bit too bloated. Ultimately, I realised that I was looking for a framework that didn&#x27;t exist: lightweight like Qt but also convenient and fully open-source like Flutter. I wanted the performance of a lower-level framework with the convenience of less-performant frameworks. Is that really so much to ask for :&#x2F; This led me to develop RayClay. It&#x27;s already 6 months old but now I feel it is really ready for the world to check it out since I&#x27;ve released v1.0 (which I deliberately held back releasing until I though it was ready). This description is adapted from my blog post here https:&#x2F;&#x2F;www.impizulu.com&#x2F;blog&#x2F;why-i-built-rayclay where I give a little more detail.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/impizulu/rayclay",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50600516",
+    "createdAt": "2026-11-22T15:31:32.973Z"
+  },
+  {
+    "slug": "relaticle-an-open-source-crm-that-claude-and-chatgpt-can-work-in-hn",
+    "title": "Relaticle, an open-source CRM that Claude and ChatGPT can work in",
+    "shortDescription": "I asked rela (the assistant inside my open source crm relaticle) once for a task and a note (in a test workspace). It shows me a plan, one…",
+    "fullDescription": "I asked rela (the assistant inside my open source crm relaticle) once for a task and a note (in a test workspace). It shows me a plan, one line per change, one approve button. There was no task or note until I clicked approve. Relaticle (my open source CRM) has an MCP server for AI agents right in the core app. Claude and ChatGPT connect to it, and over the MCP protocol, they don&#x27;t need a plan, they don&#x27;t need an approve button, the writes just land right away. Not sure yet if those writes should wait for approval too. I started writing this in August 2024. It&#x27;s written in Laravel + PostgreSQL. I&#x27;m releasing it under the AGPL-3.0 license. If you want to try it out you can run it using the compose file in the README. I&#x27;m very interested in hearing from people who let an agent write to a real system and what they have to say about it.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/relaticle/relaticle",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50600315",
+    "createdAt": "2026-11-22T15:31:32.973Z"
+  },
+  {
+    "slug": "reallysimpledocs-modern-ai-ready-documentation-site-with-astro-hn",
+    "title": "ReallySimpleDocs – Modern, AI-ready documentation site with Astro",
+    "shortDescription": "Проект «ReallySimpleDocs – Modern, AI-ready documentation site with Astro», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «ReallySimpleDocs – Modern, AI-ready documentation site with Astro», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://github.com/hunvreus/reallysimpledocs",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50599773",
+    "createdAt": "2026-11-22T15:31:32.973Z"
+  },
+  {
+    "slug": "cordium-foss-sandbox-platform-on-kubernetes-to-eliminate-credentials-hn",
+    "title": "Cordium – FOSS sandbox platform on Kubernetes to eliminate credentials",
+    "shortDescription": "Hello HN. Cordium is a FOSS, self-hosted, identity-based, general-purpose sandbox platform built on Kubernetes. The main differentiator her…",
+    "fullDescription": "Hello HN. Cordium is a FOSS, self-hosted, identity-based, general-purpose sandbox platform built on Kubernetes. The main differentiator here is that Cordium automatically assigns an identity to each sandbox to provide &quot;secretless&quot; secure remote&#x2F;zero-trust access to resources&#x2F;infrastructure (e.g. APIs, SSH, databases, k8s, etc.) without having to hold credentials and secrets (e.g. API keys and access tokens, SSH private keys&#x2F;passwords, database passwords, mTLS private keys, etc.) inside the sandbox. The way it works is that every Cordium sandbox includes an Octelium ZTNA client (see https:&#x2F;&#x2F;github.com&#x2F;octelium&#x2F;octelium ) which routes requests from the sandbox to the upstream resources through the Octelium Cluster running on the same underlying Kubernetes cluster over WireGuard tunnels. In the Octelium Cluster, each upstream resource is protected by a corresponding identity-aware proxy that actually holds the upstream credential that injects the credential on-the-fly to the upstream if the downstream (i.e. the Cordium sandbox) is authorized by an Octelium policy. In short, Cordium is basically a sandbox platform with a dual nature: it doesn&#x27;t just provide isolated execution runtimes but it also provides and identity and access infrastructure to provide secure secretless remote access, identity management, L7-aware access control and visibility for every request originating from within the sandbox. You can use it for various use cases from a personal self-hosted GitHub Codespaces alternative for remote development as well as a scalable sandbox platform for AI agents to access infrastructure without handling them your credentials at scale. You can also use it as an infrastructure layer to build more complex applications such as agent meshes. The main features include declarative management, Templates and prebuilds, persistent, ephemeral and forkable storage via Kubernetes volume snapshots, lifecycle tasks, controls such as linux caps, read-only filesystem and egress control, access and management over web portal&#x2F;SSH&#x2F;CLI as well as SDKs in Go&#x2F;Rust&#x2F;Python&#x2F;Typescript. You can learn more about Cordium, its features in detail and how it works, please visit the docs at https:&#x2F;&#x2F;octelium.com&#x2F;docs&#x2F;cordium&#x2F;latest&#x2F;overview&#x2F;intro You can also try a live demo for the Cordium web portal at https:&#x2F;&#x2F;demo.octelium.com&#x2F;cordium and a CLI playground at https:&#x2F;&#x2F;demo.octelium.com&#x2F;cli\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/octelium/cordium",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50599359",
+    "createdAt": "2026-11-22T15:31:32.973Z"
+  },
+  {
+    "slug": "a-free-website-check-that-starts-from-what-your-buyers-search-hn",
+    "title": "A free website check that starts from what your buyers search",
+    "shortDescription": "I made Admiral. It is a tool to check that Google and Meta ads are working properly. This is its free website check: you don&#x27;t need an…",
+    "fullDescription": "I made Admiral. It is a tool to check that Google and Meta ads are working properly. This is its free website check: you don&#x27;t need an account and no changes will happen on your site. It will ask for a website URL and it will tell you 6 things about it. Each of the 6 is one sentence. If it is &quot;Good&quot; then no change is needed. If it is &quot;Worth fixing&quot; then it says what is wrong. 1. Where you are in search. Admiral will read your pages and tell you, for the searches someone might type in Google to find you, whether you are in the first page on Google. If Admiral cannot work out which words someone might type, it will say that instead of guessing. 2. Whether AI assistants can read your home page. All websites can write a &quot;robots.txt&quot; file that controls what automated search engines and AI assistants are allowed to read. Admiral will read your file to show you which AI assistants are not allowed to read your home page. It cannot ask them any questions so it does not know what they will say about you. 3. Whether your home page will say what your business is. A website can have a hidden message, called &quot;structured data&quot;, that tells a web search engine &quot;This page is about a dental clinic in Leeds&quot;. Admiral will check whether your home page has this hidden tag for what kind of business you are and what the location is. 4. How fast is your home page on a phone? Google publishes how long each web page took to show during a real visit on Chrome, for websites with enough visitors (the Chrome UX Report). If your site is in there Admiral will use these numbers, if it isn&#x27;t then it will time its own visit. Also checks if the phone number can be tapped to call. 5. On the main page (homepage), where is the main button? Is the &quot;book now&quot; or &quot;buy&quot; button on the first screen (a screenshot of the homepage)? 6. Is anything checking how much you earn from the advert? It searches for a Google tag or a Meta pixel (these are small pieces of code that ad platforms use to know whether a visit to your website was an enquiry or a sale) Things you should know about this: Uses a Google search in your home country. If it&#x27;s in the US, India, UK, Canada, Australia, Singapore or the UAE that&#x27;s fine. If it&#x27;s in any other country, or where this is not possible, a different search engine will be used and it will let you know that this is what another country may see. Only reads your homepage and up to 7 other pages (links off your homepage) and not the whole website. Only reports with sentences instead of a score out of 100. Admiral is paid software, this is free and Admiral is not required. Very interested to hear about the first &quot;what a customer would type&quot; search that gets it wrong on your site.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://meetadmiral.com/website-seo-checker",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50598848",
+    "createdAt": "2026-11-22T15:31:32.973Z"
+  },
+  {
+    "slug": "codeint-measure-duplication-and-complexity-drift-in-ai-written-code-hn",
+    "title": "Codeint – Measure duplication and complexity drift in AI-written code",
+    "shortDescription": "Проект «Codeint – Measure duplication and complexity drift in AI-written code», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Codeint – Measure duplication and complexity drift in AI-written code», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/avidianity/codeint",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50598813",
+    "createdAt": "2026-11-22T15:31:32.973Z"
+  },
+  {
+    "slug": "agent-doctor-let-domain-experts-tune-your-agent-without-code-changes-hn",
+    "title": "Agent Doctor – let domain experts tune your agent without code changes",
+    "shortDescription": "Hi HN , I&#x27;m Abhinav Prakash and I built Agent Doctor. It lets a domain expert (lawyer, doctor, banker) change steps in an AI agent and…",
+    "fullDescription": "Hi HN , I&#x27;m Abhinav Prakash and I built Agent Doctor. It lets a domain expert (lawyer, doctor, banker) change steps in an AI agent and re-run it on your own servers, without code changes or redeploys. I would like to learn: how does your domain expert&#x27;s feedback reach your agent today? I&#x27;d also really value a review of what I built, what&#x27;s missing and what&#x27;s wrong. Thanks !\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://theagentdoctor.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50598128",
+    "createdAt": "2026-11-22T15:31:32.973Z"
+  },
+  {
     "slug": "anvil-github",
     "title": "Anvil",
     "shortDescription": "A native macOS coding agent that works with almost any model: diffs, checkpoints, sub-sessions, browser and iOS Simulator tools.",
