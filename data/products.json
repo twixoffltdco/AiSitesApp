@@ -1,5 +1,80 @@
 [
   {
+    "slug": "anvil-github",
+    "title": "Anvil",
+    "shortDescription": "A native macOS coding agent that works with almost any model: diffs, checkpoints, sub-sessions, browser and iOS Simulator tools.",
+    "fullDescription": "A native macOS coding agent that works with almost any model: diffs, checkpoints, sub-sessions, browser and iOS Simulator tools.\n\nАвтор: deeeeone. Найдено в GitHub Trending (AI-тематика). ⭐ 22 звёзд.",
+    "url": "https://github.com/deeeeone/Anvil",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "coding-agent",
+      "developer-tools",
+      "llm",
+      "macos",
+      "swift",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1466871441",
+    "createdAt": "2026-11-22T07:14:38.709Z"
+  },
+  {
+    "slug": "dsh-oh-my-token-github",
+    "title": "dsh-oh-my-token",
+    "shortDescription": "Native token admission for DeepSeek Harness: command-output filters, retrieval-style reads, a conservative prose trimmer, and a settings pa…",
+    "fullDescription": "Native token admission for DeepSeek Harness: command-output filters, retrieval-style reads, a conservative prose trimmer, and a settings page that reports what was saved. No RTK binary, no codegraph server.\n\nАвтор: dtyg123. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/dtyg123/dsh-oh-my-token",
+    "category": "no-code",
+    "tags": [
+      "ai",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "token-saving",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1466341974",
+    "createdAt": "2026-11-22T07:14:38.709Z"
+  },
+  {
+    "slug": "prompt-upgrader-a-no-signup-tool-that-scores-and-rewrites-ai-prompts-hn",
+    "title": "Prompt Upgrader – a no-signup tool that scores and rewrites AI prompts",
+    "shortDescription": "Проект «Prompt Upgrader – a no-signup tool that scores and rewrites AI prompts», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Prompt Upgrader – a no-signup tool that scores and rewrites AI prompts», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://madgpt1.github.io/prompt-upgrader/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50596909",
+    "createdAt": "2026-11-22T07:14:38.610Z"
+  },
+  {
+    "slug": "vouch-see-what-ai-assistants-say-about-your-brand-mid-conversation-hn",
+    "title": "Vouch – See what AI assistants say about your brand mid-conversation",
+    "shortDescription": "Проект «Vouch – See what AI assistants say about your brand mid-conversation», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Vouch – See what AI assistants say about your brand mid-conversation», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://vouchgeo.com",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50596218",
+    "createdAt": "2026-11-22T07:14:38.610Z"
+  },
+  {
     "slug": "runway-ml-pro-win-github",
     "title": "runway-ml-pro-win",
     "shortDescription": "Runway - AI video generation platform for text-to-video synthesis, image animation and motion brush editing on Windows 10/11",
