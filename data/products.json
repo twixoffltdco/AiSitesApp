@@ -1,5 +1,127 @@
 [
   {
+    "slug": "aistock4a-github",
+    "title": "AIStock4A",
+    "shortDescription": "为A股中普通股民散户提供的一个基于AI分析的量化分析工具，降低散户的理论学习门槛，内置温斯坦阶段理论，一目了然看懂当前大盘以及板块处于筑底、上升、滞涨还是下跌阶段，散户可以根据所处阶段进行合理的仓位管理，减少满仓杀跌的情况发生。 相对于其他AI股市分析软件，AIStock4A，…",
+    "fullDescription": "为A股中普通股民散户提供的一个基于AI分析的量化分析工具，降低散户的理论学习门槛，内置温斯坦阶段理论，一目了然看懂当前大盘以及板块处于筑底、上升、滞涨还是下跌阶段，散户可以根据所处阶段进行合理的仓位管理，减少满仓杀跌的情况发生。 相对于其他AI股市分析软件，AIStock4A，最大的优点就是把筛选合适阶段的股票这件事做到了极致，你不需要懂各种战法，只需要知道行情是靠量推动的，股市有周期这些基础理论就行。AIStock4A，会为你提供当前可关注的板块以及可关注的个股清单，同时提供个股跟踪机制，你可以结合这些信息较快完成对股票的理解。 最后，AIStock4A是个人学习产品，不能作为投资依据。\n\nАвтор: imdodd. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://www.aistock4a.online",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "stock-analysis",
+      "stock-management",
+      "stocks",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1466401883",
+    "createdAt": "2026-11-23T02:12:29.290Z"
+  },
+  {
+    "slug": "gachaswipe-github",
+    "title": "GachaSwipe",
+    "shortDescription": "🌠 AI-powered gacha character discovery, dating & RP — with a full Cyberdeck DAW — as a single-file WebView mini-app for the Layla Network…",
+    "fullDescription": "🌠 AI-powered gacha character discovery, dating & RP — with a full Cyberdeck DAW — as a single-file WebView mini-app for the Layla Network host. AGPL-3.0-or-later.\n\nАвтор: ProjectMIKA. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://www.gachaswipe.com",
+    "category": "ai-tool",
+    "tags": [
+      "agpl",
+      "ai",
+      "daw",
+      "gacha",
+      "react",
+      "visual-novel",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1466168062",
+    "createdAt": "2026-11-23T02:12:29.290Z"
+  },
+  {
+    "slug": "biohacking-in-chess-can-coffee-make-you-a-better-player-hn",
+    "title": "Biohacking in Chess – can coffee make you a better player?",
+    "shortDescription": "In short: For the past few years, I&#x27;ve been building a biohacking platform called Plants Research Pro (PRP), designed to help people d…",
+    "fullDescription": "In short: For the past few years, I&#x27;ve been building a biohacking platform called Plants Research Pro (PRP), designed to help people discover research on bioactive materials and put that research to practical use. Recently, I added a new feature to PRP which is turning out to be my favorite so far: The Chess Lab. This is essentially a set of tools and protocols for biohacking in chess, some of which you can try right now via the link -- I recommend a Single-Session Experiment, which is a 6-test protocol that lets you explore how some intervention, like coffee, might improve your cognitive function in the context of chess. - In detail: The idea for Chess Lab started about four years ago when I came across research by Prof. David O. Kennedy&#x27;s group showing that sage, cocoa, and other materials can enhance some cognitive functions. If I remember correctly, the subjects were healthy young adults (possibly uni students). I really wanted to test this on myself, and since I like chess, I chose chess as my &#x27;test platform&#x27;. I&#x27;m not gonna go into the formulation, but I tried sage alone, sage with cocoa, and sage with cocoa and milk. The third mix seemed to give me the best focus and attention (for about 4-6 h), and my rating started to climb after a few weeks. But there was an issue - I had no idea if I was simply improving naturally, or if the mixture was enhancing it. This annoyed me a little bit, and made me realize that PRP needed an N-of-1 experimentation system. After finally getting around to it, PRP&#x27;s Experiments system was implemented earlier this year, while Chess Lab was added about a month ago. Both are now live, although testing and refinement are ongoing. The system also supports N&gt;1 experiments, so can be used with a group of people as well. There are six cognitive tests and a Single-Session Experiment (SSE) to play with for free. The tests are based on those used in cognitive research, while SSE is a simple before-and-after experiment. i.e., you choose an intervention (coffee, tea, exercise, etc.), complete 6 baseline cognitive tests, apply the intervention (drink your coffee or whatever), then repeat the tests to see what changed -- all within a day (or about 1 h for simple SSEs). The results are exploratory, of course, but I think it&#x27;s pretty cool that I can now do this myself, at home, without going to a university lab. But I want to make it much better. The signal-to-noise ratio is difficult to estimate, and there are several sources of error. For instance, a chessboard recall test uses positions from real games, but some pawn structures are much easier to memorize than others. I&#x27;m examining two approaches: (1) filtering games by board complexity, and (2) introducing random configurations. The thing with (2), though, is that it&#x27;s less fun and measures a somewhat different aspect of cognition, but that&#x27;s a story for another day. For longer experiments, I&#x27;ve added Chess.com statistics, including move accuracy, rating, opponent-adjusted score, etc. And if you&#x27;re not sure how to set it up, you can describe what you want in plain language (e.g., &#x27;I want to test if lemon peel can improve my chess&#x27;) and an AI-powered builder will create a research-backed recipe, design the experiment, assign metrics, and select suitable cognitive tests. AI can also help interpret the statistical results. These full experiments are part of the Premium subscription. In the coming months, I&#x27;ll add more cognitive tests, analytics, and some ML capability. Most importantly, I hope to improve the signal-to-noise ratio. A new Multi-Session Crossover design (repeated SSEs alternating intervention&#x2F;no-intervention days, with longitudinal analysis) should help, but there&#x27;ll definitely be more work needed from different angles. Anyway, if you like chess and the idea of (safely) optimizing cognitive performance with biohacking, give Chess Lab a try! I&#x27;d be very keen for feedback, bug reports, or feature suggestions. Thanks!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://plantsresearch.pro/chess-lab",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50606386",
+    "createdAt": "2026-11-23T02:12:29.120Z"
+  },
+  {
+    "slug": "run-mult-ai-agents-claude-gemini-etc-as-a-team-of-bees-maids-hn",
+    "title": "Run Mult AI Agents (Claude, Gemini, etc.) as a team of bees, maids",
+    "shortDescription": "Проект «Run Mult AI Agents (Claude, Gemini, etc.) as a team of bees, maids», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Run Mult AI Agents (Claude, Gemini, etc.) as a team of bees, maids», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/ericwang915/agent-hive",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50605688",
+    "createdAt": "2026-11-23T02:12:29.120Z"
+  },
+  {
+    "slug": "inbox-envoy-an-open-source-email-triage-skill-for-your-own-ai-agent-hn",
+    "title": "Inbox Envoy, an open-source email triage skill for your own AI agent",
+    "shortDescription": "Проект «Inbox Envoy, an open-source email triage skill for your own AI agent», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Inbox Envoy, an open-source email triage skill for your own AI agent», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/salespeak-ai/inbox-envoy",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50605502",
+    "createdAt": "2026-11-23T02:12:29.120Z"
+  },
+  {
+    "slug": "trix-a-terminal-workspace-that-shows-which-coding-agent-needs-you-hn",
+    "title": "Trix - A terminal workspace that shows which coding agent needs you",
+    "shortDescription": "Проект «Trix - A terminal workspace that shows which coding agent needs you», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Trix - A terminal workspace that shows which coding agent needs you», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://trixapp.ai/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50605218",
+    "createdAt": "2026-11-23T02:12:29.121Z"
+  },
+  {
+    "slug": "gall-inkling-2-mini-on-24gb-m2-frees-ram-between-messages-hn",
+    "title": "Gall – Inkling 2 Mini on 24GB M2, frees RAM between messages",
+    "shortDescription": "Thinking Machines Lab gives 32GB as the minimum RAM requirement for Inkling 2 Mini on Mac, but with the Q3 quant I felt it must be possible…",
+    "fullDescription": "Thinking Machines Lab gives 32GB as the minimum RAM requirement for Inkling 2 Mini on Mac, but with the Q3 quant I felt it must be possible to get somewhere reasonable on my 24GB M2 MacBook Air. Llama.cpp wasn&#x27;t cutting it even with patches, so I spent this week&#x27;s Fable allowance (with a sprinkling of Astra) on this custom inference engine, and took the opportunity to add some optimisations and ergonomics for running on a memory-constrained laptop: - strictly one model loaded at a time, requests queued; - KV cache gets saved and model unloaded after every response (or configurable delay), so RAM stays at 50MB between calls, but reload is fast; - menu bar app shows status and icon changes when prefilling&#x2F;generating. So far I&#x27;ve been using it with hax [1] with my normal system prompt + tool list, which runs to about 2,800 tokens, and getting near-instant responses in new sessions due to the cache-and-reload. Works great as a local agent setup for infrequent messages too, e.g. via a Telegram bridge. I&#x27;m sure this vibecoded engine and the model itself will be superseded in time, but for now it&#x27;s by far the best local model setup I&#x27;ve ever managed on this machine, so wanted to share for others in the same boat. Please do hack away at it. 1. https:&#x2F;&#x2F;github.com&#x2F;OleksandrChekhovskyi&#x2F;hax\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://github.com/ltrgoddard/gall",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50604195",
+    "createdAt": "2026-11-23T02:12:29.121Z"
+  },
+  {
     "slug": "thegitaicli-agent-with-computer-control-through-on-linux-waylandx11-hn",
     "title": "TheGitAI/CLI Agent with Computer Control Through on Linux (Wayland+X11)",
     "shortDescription": "Проект «TheGitAI/CLI Agent with Computer Control Through on Linux (Wayland+X11)», опубликован сообществом Hacker News.",
