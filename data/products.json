@@ -1,5 +1,101 @@
 [
   {
+    "slug": "stop-using-ai-clones-raise-an-ai-with-a-real-id-and-age-hn",
+    "title": "Stop using AI clones. Raise an AI with a Real ID and age",
+    "shortDescription": "Проект «Stop using AI clones. Raise an AI with a Real ID and age», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Stop using AI clones. Raise an AI with a Real ID and age», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.symbiocit.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50609967",
+    "createdAt": "2026-11-23T11:00:01.669Z"
+  },
+  {
+    "slug": "hermit-crm-a-free-open-source-crm-for-solopreneurs-hn",
+    "title": "Hermit CRM a free open-source CRM for solopreneurs",
+    "shortDescription": "I was about to keep track of my clients and prospecting in Google Sheets for my solopreneur business, when I remembered that&#x27;s exactly…",
+    "fullDescription": "I was about to keep track of my clients and prospecting in Google Sheets for my solopreneur business, when I remembered that&#x27;s exactly what I advise my clients not to do. Created Hermit CRM, an open source CRM for 1 person. Hermit helps to keep track of deals and prospecting. The platform is built for AI by storing the data in Markdown files in git, stored locally and can be accessed with a web app, CLI or MCP. No telemetry on the app. Building in public, even the website stats are public as well. It’s macOS first. Linux is less tested, and Windows isn’t supported. Features I&#x27;m proud of: - import somebody from LinkedIn into to the CRM with 1 click - adding a LinkedIn convo to the CRM with 1 click. Both work without LinkedIn or CRM subs. Don&#x27;t like what you see? Fork the Hermit with your AI. Would love to learn how you&#x27;re using Hermit and where it doesn&#x27;t fit your workflows.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://hermitcrm.io/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50609708",
+    "createdAt": "2026-11-23T11:00:01.669Z"
+  },
+  {
+    "slug": "slipmark-make-ai-agents-prove-what-they-checked-hn",
+    "title": "Slipmark – make AI agents prove what they checked",
+    "shortDescription": "Проект «Slipmark – make AI agents prove what they checked», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Slipmark – make AI agents prove what they checked», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/founder-ship-it/Slipmark",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50609511",
+    "createdAt": "2026-11-23T11:00:01.669Z"
+  },
+  {
+    "slug": "smartesto-run-custom-prompts-on-webpages-and-text-with-apple-devices-hn",
+    "title": "Smartesto – Run custom prompts on webpages and text with Apple devices",
+    "shortDescription": "I built Smartesto (for iOS, iPadOS, macOS) because I wanted a quick way to run predefined prompts (I call them actions) on a webpage or sel…",
+    "fullDescription": "I built Smartesto (for iOS, iPadOS, macOS) because I wanted a quick way to run predefined prompts (I call them actions) on a webpage or selected text, using the Share Sheet or Shortcuts. For example &quot;Summarize a webpage&quot;, &quot;Proofread&quot; selected text, &quot;Improve text&quot;, etc. Depending on the action, I wanted to send the text to different AI providers via their APIs or process it locally on my device. And it does just that. It works with APIs from OpenAI, Anthropic, Mistral, Gemini, as well as Apple’s on-device models (using local text processing). I also ran into pages that AI providers couldn’t access because they blocked AI bots. To address that, I built a custom Readability package that quickly extracts the page text on the device. Smartesto then passes the extracted text to the selected action for processing. You can find the download, screenshots and videos here: https:&#x2F;&#x2F;www.giuliomagnifico.dev&#x2F;apps&#x2F;smartesto&#x2F; If you have similar needs, give it a try and see if it works for you (and I’d appreciate your feedback)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.giuliomagnifico.dev/apps/smartesto/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50608234",
+    "createdAt": "2026-11-23T11:00:01.669Z"
+  },
+  {
+    "slug": "open-source-mcp-server-to-check-ai-search-crawler-readiness-hn",
+    "title": "Open-source MCP server to check AI search crawler readiness",
+    "shortDescription": "Проект «Open-source MCP server to check AI search crawler readiness», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Open-source MCP server to check AI search crawler readiness», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/alicexixi85/geo-seo-mcp-pro",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50608126",
+    "createdAt": "2026-11-23T11:00:01.669Z"
+  },
+  {
+    "slug": "kavach-ai-sub-16ms-ast-security-gate-with-0-false-positives-hn",
+    "title": "Kavach AI – Sub-16ms AST security gate with 0% false positives",
+    "shortDescription": "Проект «Kavach AI – Sub-16ms AST security gate with 0% false positives», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Kavach AI – Sub-16ms AST security gate with 0% false positives», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/rajrajak99/kavach-ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50607787",
+    "createdAt": "2026-11-23T11:00:01.669Z"
+  },
+  {
     "slug": "aistock4a-github",
     "title": "AIStock4A",
     "shortDescription": "为A股中普通股民散户提供的一个基于AI分析的量化分析工具，降低散户的理论学习门槛，内置温斯坦阶段理论，一目了然看懂当前大盘以及板块处于筑底、上升、滞涨还是下跌阶段，散户可以根据所处阶段进行合理的仓位管理，减少满仓杀跌的情况发生。 相对于其他AI股市分析软件，AIStock4A，…",
