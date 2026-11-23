@@ -1,5 +1,345 @@
 [
   {
+    "slug": "emulator-github",
+    "title": "emulator",
+    "shortDescription": "AI-проект с GitHub без описания.",
+    "fullDescription": "AI-проект с GitHub без описания.\n\nАвтор: Meetsaini. Найдено в GitHub Trending (AI-тематика). ⭐ 338 звёзд.",
+    "url": "https://github.com/Meetsaini/emulator",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "desktop-app",
+      "emulator",
+      "game-emulator",
+      "generative-ai",
+      "gta",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1469275607",
+    "createdAt": "2026-11-23T22:31:55.509Z"
+  },
+  {
+    "slug": "7paws-github",
+    "title": "7paws",
+    "shortDescription": "Windows 与 macOS 的 3D 桌面小猫桌宠：响应全局键鼠、敲键追光标、摸猫呼噜；支持照片取色或 AI（内置 MCP）定制专属猫咪，闲置后睡觉。",
+    "fullDescription": "Windows 与 macOS 的 3D 桌面小猫桌宠：响应全局键鼠、敲键追光标、摸猫呼噜；支持照片取色或 AI（内置 MCP）定制专属猫咪，闲置后睡觉。\n\nАвтор: 7wdn. Найдено в GitHub Trending (AI-тематика). ⭐ 25 звёзд.",
+    "url": "https://github.com/7wdn/7paws",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "cat",
+      "customization",
+      "desktop-pet",
+      "macos",
+      "mcp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1467710114",
+    "createdAt": "2026-11-23T22:31:55.509Z"
+  },
+  {
+    "slug": "graphite-github",
+    "title": "graphite",
+    "shortDescription": "One fast desktop app for 24 databases — PostgreSQL, MySQL, SQL Server, Oracle, MongoDB, Redis, DynamoDB, ClickHouse and more — with an AI a…",
+    "fullDescription": "One fast desktop app for 24 databases — PostgreSQL, MySQL, SQL Server, Oracle, MongoDB, Redis, DynamoDB, ClickHouse and more — with an AI assistant and an MCP server that ask before they write.\n\nАвтор: julioczn. Найдено в GitHub Trending (AI-тематика). ⭐ 7 звёзд.",
+    "url": "https://julioczn.github.io/graphite/",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "database",
+      "desktop-app",
+      "electron",
+      "mariadb",
+      "mcp",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1467029410",
+    "createdAt": "2026-11-23T22:31:55.509Z"
+  },
+  {
+    "slug": "dissentry-github",
+    "title": "dissentry",
+    "shortDescription": "Community Notes for AI answers. Ask one model, let the others dissent. Local-first, bring your own keys (cloud or Ollama).",
+    "fullDescription": "Community Notes for AI answers. Ask one model, let the others dissent. Local-first, bring your own keys (cloud or Ollama).\n\nАвтор: Lihaila. Найдено в GitHub Trending (AI-тематика). ⭐ 5 звёзд.",
+    "url": "https://dissentry.lihaila.com",
+    "category": "productivity",
+    "tags": [
+      "ai",
+      "anthropic",
+      "byok",
+      "community-notes",
+      "deepseek",
+      "fact-checking",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1466201183",
+    "createdAt": "2026-11-23T22:31:55.509Z"
+  },
+  {
+    "slug": "aixenix-telegram-scraper-ai-github",
+    "title": "AiXenix-Telegram-Scraper-AI",
+    "shortDescription": "AI news desk for Telegram: watches channels, drops repeats, drafts posts in your channel's voice and publishes after your approval. bb plug…",
+    "fullDescription": "AI news desk for Telegram: watches channels, drops repeats, drafts posts in your channel's voice and publishes after your approval. bb plugin + standalone script. / ИИ-редакция для Telegram-канала.\n\nАвтор: AiXenix. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://aixenix.com",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "bb-plugin",
+      "content-curation",
+      "llm",
+      "news",
+      "news-aggregator",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1466977863",
+    "createdAt": "2026-11-23T22:31:55.509Z"
+  },
+  {
+    "slug": "skilldoctor-github",
+    "title": "skilldoctor",
+    "shortDescription": "Your AI is running skills you never audited. A zero dependency CLI that audits installed AI skill files for validity, security risks, confl…",
+    "fullDescription": "Your AI is running skills you never audited. A zero dependency CLI that audits installed AI skill files for validity, security risks, conflicts, and token cost.\n\nАвтор: Dongdarealest. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://github.com/Dongdarealest/skilldoctor/blob/main/AUDIT.md",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "claude",
+      "cli",
+      "codex",
+      "cursor",
+      "developer-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1467343860",
+    "createdAt": "2026-11-23T22:31:55.509Z"
+  },
+  {
+    "slug": "judge-audit-open-source-calibration-audits-for-ai-judges-hn",
+    "title": "Judge-audit – open-source calibration audits for AI judges",
+    "shortDescription": "Проект «Judge-audit – open-source calibration audits for AI judges», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Judge-audit – open-source calibration audits for AI judges», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/kunko-ai-labs/judge-audit",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50620311",
+    "createdAt": "2026-11-23T22:31:55.292Z"
+  },
+  {
+    "slug": "splunkr-tv-appletv-app-hn",
+    "title": "Splunkr-TV AppleTV App",
+    "shortDescription": "I had AI shit out an app for this, source code at https:&#x2F;&#x2F;github.com&#x2F;fragmede&#x2F;spelunkr-tv . I made a discord at https:&…",
+    "fullDescription": "I had AI shit out an app for this, source code at https:&#x2F;&#x2F;github.com&#x2F;fragmede&#x2F;spelunkr-tv . I made a discord at https:&#x2F;&#x2F;discord.gg&#x2F;6JRz6ZNw6 if people wanna chat.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/fragmede/spelunkr-tv",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50619937",
+    "createdAt": "2026-11-23T22:31:55.293Z"
+  },
+  {
+    "slug": "lode-runner-2099-hn",
+    "title": "Lode Runner 2099",
+    "shortDescription": "Hi all, Recently, Opus 5.5 and I as lowly Director in Chief (but I still feel like I matter, and that I&#x27;m good enough and smart enough…",
+    "fullDescription": "Hi all, Recently, Opus 5.5 and I as lowly Director in Chief (but I still feel like I matter, and that I&#x27;m good enough and smart enough to be involved, doggone it!), revamped this LR clone with procedural levels&#x2F;music (it already had that, this was just a broad improvement&#x2F;enhancement pass). It was ok&#x27;ish before but after the overhaul I was kind of taken back with how playable and good it is now. Added multiplayer and playing on a TV (Android&#x2F;Google TV app and should work with a paired BT controller). It&#x27;s pretty fun I have to say. I get bored with most LR&#x27;s after a bit but this one I actually want to keep playing. It&#x27;s unique (I think) with the seeded procedural unlimited levels and procedural synth music, and also you can choose Soma Space Station streaming radio for the music which usually fits in perfectly. And it has some added touches like a piece of red outlined gold that you cannot reach and can only get from an AI whose captured it etc, and you can change the difficulty to pretty insane levels. Normal mode is already challenging. A little tech&#x2F;stack info: All game rules are now implemented using a TypeScript simulation environment that is separate from Phaser. This allows use of the exact same logic to render the game, run tests against the game, and verify that the levels created by the level generation system are valid and complete enough. The level creation process uses a solver to analyze possible movements and digging actions that a player could take, and verifies that a level can actually be completed. Built w TypeScript, Phaser 4, and Vite (client), Go server that handles the web app and the TV&#x2F;phone-controller connection. I think it&#x27;s performant enough, but not sure if the stack&#x2F;architecture could be rethought to make it faster and lighter and less potential lag on lower end devices etc. This is basically vibe-coded, I&#x27;m more a Linux&#x2F;ops guy than a developer or programmer. Feedback welcomed. https:&#x2F;&#x2F;loderunner2099.exe.xyz https:&#x2F;&#x2F;loderunner2099.exe.xyz&#x2F;tv https:&#x2F;&#x2F;loderunner2099.exe.xyz&#x2F;app https:&#x2F;&#x2F;loderunner2099.exe.xyz&#x2F;pad\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://loderunner2099.exe.xyz",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50619833",
+    "createdAt": "2026-11-23T22:31:55.293Z"
+  },
+  {
+    "slug": "offthread-ai-chat-that-redacts-personal-details-in-the-browser-hn",
+    "title": "Offthread – AI chat that redacts personal details in the browser",
+    "shortDescription": "Проект «Offthread – AI chat that redacts personal details in the browser», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Offthread – AI chat that redacts personal details in the browser», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://offthread.chat",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50619720",
+    "createdAt": "2026-11-23T22:31:55.293Z"
+  },
+  {
+    "slug": "truce-a-neutral-mediator-that-ai-agents-can-call-to-settle-disputes-hn",
+    "title": "Truce – a neutral mediator that AI agents can call to settle disputes",
+    "shortDescription": "Hi HN, I&#x27;m Frank, founder of Truce. Truce is a neutral AI mediator. Each side tells it their side in private, Truce proposes one speci…",
+    "fullDescription": "Hi HN, I&#x27;m Frank, founder of Truce. Truce is a neutral AI mediator. Each side tells it their side in private, Truce proposes one specific outcome, and nothing happens unless both people sign. The part that may interest you is the agent side. Truce is a remote MCP server ( https:&#x2F;&#x2F;trucehq.com&#x2F;mcp ) with 12 tools, so an assistant can start a Truce for its user, or answer one for the other person with their consent. There is also &quot;Agent Truce&quot;: two agents acting for different people or companies settle a dispute between themselves, such as a refund, a late delivery or an invoice. Each agent gives its side, its evidence and a private mandate from its human, for example &quot;may pay up to $300&quot;. The mediator never sees either mandate, so it proposes on the merits. A proposal that fits inside both mandates is accepted automatically; anything else goes back to the humans. Truce never moves money. It&#x27;s free for AI agents. One-minute demo on the page. I&#x27;d especially like criticism of the mandate design. How would you game it, and what would make you trust it for your own agents?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://trucehq.com/agents",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50619315",
+    "createdAt": "2026-11-23T22:31:55.293Z"
+  },
+  {
+    "slug": "klink-i-built-a-sudoku-game-where-every-puzzle-helps-rebuild-a-robot-hn",
+    "title": "Klink – I built a sudoku game where every puzzle helps rebuild a robot",
+    "shortDescription": "Two years ago, I tried making a sudoku game in React, but I let it go because getting everything properly implemented turned out to be quit…",
+    "fullDescription": "Two years ago, I tried making a sudoku game in React, but I let it go because getting everything properly implemented turned out to be quite a bit of work. Then AI came along. I’ve spent the past few weeks working hard on Klink in the evenings and on weekends. It started out with experimenting a Tamagotchi-style game where you had to take care of a little robot and gradually add more parts to it. But it turned out that a Tamagotchi on an iPhone didn’t really work, I was just mashing buttons and it didn&#x27;t give me that same feeling I got as a kid clicking the little buttons to feed my pixelated friend. I then thought of a talk given by Theo (the T3 Youtuber) about how we should all think bigger when working with AI and I’ve always wanted to make a sudoku game. So that got me thinking about the sudoku games&#x2F;apps I played in the past. I’ve always found sudoku games a bit dry. Other than a &quot;Daily Challenge&quot; there isn&#x27;t really an incentive to have me coming back and then after a few days I forget all about it. So I started with prompting and kept prompting and prompting until I’d built a sudoku app that was actually usable, with one extra mechanic: building and upgrading a little robot. The flow of the game is that you solve a puzzle, this gives you scrap, that scrap is then used to &quot;buy&quot; new components, or upgrade existing components. (each component has Mk I, Mk II, Mk III versions) I&#x27;m Dutch and it&#x27;s Sinterklaas season here, so I added an in-game event where you can earn robot parts themed around the holiday. They&#x27;re only available during this time of the year. Up next will probably be Christmas. Alongside classic sudoku, I added quite a few variants (Killer, Thermo, Sandwich, Arrows, Diagonal, Chaos (Jigsaw), Kropki, Even&#x2F;Odd, Hyper, Binaro, and Trees and Tents). I also added “Tricks,” which are basically short lessons on how to use standard sudoku techniques and recognize patterns. Then I polished the app a bit more and finally released it to the App Store last Friday. You can play it on iOS, iPadOS, and macOS. Since Friday, I’ve had a whopping 15 downloads, mostly from friends and family (to be honest, probably all of them). I also made a website: https:&#x2F;&#x2F;klinksudoku.com . Normally I just work as a developer at a company and this is my first time I actually have to think about things like marketing, getting more users, promoting the product which is very fun to experience. Currently I’m also looking for Android testers. Since I have a personal developer account, Google requires me to have 12 people in a closed test before I can release the app publicly. You can join the test group here: https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;klink-sudoku-testers I’m curious what you think.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://apps.apple.com/us/app/klink-sudoku-no-ads/id6830862513",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50619225",
+    "createdAt": "2026-11-23T22:31:55.293Z"
+  },
+  {
+    "slug": "dayora-an-ai-journal-that-writes-back-hn",
+    "title": "Dayora, an AI journal that writes back",
+    "shortDescription": "Проект «Dayora, an AI journal that writes back», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Dayora, an AI journal that writes back», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.dayora.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50617754",
+    "createdAt": "2026-11-23T22:31:55.293Z"
+  },
+  {
+    "slug": "an-in-browser-checker-for-ai-agent-transcripts-nothing-is-uploaded-hn",
+    "title": "An in-browser checker for AI agent transcripts (nothing is uploaded)",
+    "shortDescription": "Проект «An in-browser checker for AI agent transcripts (nothing is uploaded)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «An in-browser checker for AI agent transcripts (nothing is uploaded)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://rokan.computer/check",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50616257",
+    "createdAt": "2026-11-23T22:31:55.293Z"
+  },
+  {
+    "slug": "mcpfolio-see-which-ai-prompts-recommend-your-mcp-server-hn",
+    "title": "MCPfolio – see which AI prompts recommend your MCP server",
+    "shortDescription": "Built MCPfolio to make discovering MCP servers easier. Apart from browsing servers, you can also check which AI prompts recommend your MCP…",
+    "fullDescription": "Built MCPfolio to make discovering MCP servers easier. Apart from browsing servers, you can also check which AI prompts recommend your MCP server, giving you a better idea of its visibility in AI search (AEO). Would love feedback on what else would make this useful for MCP developers.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.mcpfolio.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50616069",
+    "createdAt": "2026-11-23T22:31:55.293Z"
+  },
+  {
+    "slug": "augmentworks-hn",
+    "title": "AugmentWorks",
+    "shortDescription": "Проект «AugmentWorks», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AugmentWorks», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://augmentworks.ai/docs/local-quickstart",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50615703",
+    "createdAt": "2026-11-23T22:31:55.293Z"
+  },
+  {
+    "slug": "i-built-an-mcp-server-that-gives-ai-agents-a-reliable-clock-hn",
+    "title": "I built an MCP server that gives AI agents a reliable clock",
+    "shortDescription": "My agents constantly lose track of time, especially when assigned tasks that require accounting for durations and knowing when to act or me…",
+    "fullDescription": "My agents constantly lose track of time, especially when assigned tasks that require accounting for durations and knowing when to act or meet deadlines. I made a public MCP server that my agents can use to contextualise and use time properly. You can share it with your agents too.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://agentclock.andalabx.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50615107",
+    "createdAt": "2026-11-23T22:31:55.293Z"
+  },
+  {
+    "slug": "verfy-checks-an-ai-coding-agents-tool-calls-before-they-run-hn",
+    "title": "Verfy – checks an AI coding agent's tool calls before they run",
+    "shortDescription": "Проект «Verfy – checks an AI coding agent's tool calls before they run», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Verfy – checks an AI coding agent's tool calls before they run», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/verfy-dev/verfy",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50614956",
+    "createdAt": "2026-11-23T22:31:55.293Z"
+  },
+  {
+    "slug": "find-your-location-from-the-background-noise-of-aircraft-flying-over-hn",
+    "title": "Find your location from the background noise of aircraft flying over",
+    "shortDescription": "I saw a youtube video on this theoretical solver, but the creator didn&#x27;t release any code. I modified an open source implementation to…",
+    "fullDescription": "I saw a youtube video on this theoretical solver, but the creator didn&#x27;t release any code. I modified an open source implementation to make it browser based. Then made it pretty :D Keep in mind, it only really works if it can hear the plane sounds (i.e you can hear the plane sounds) It also takes a shortcut by geolocating your IP, to cut down the search radius from the entire globe to only planes&#x2F;helis that are nearby. github: https:&#x2F;&#x2F;github.com&#x2F;vandorena&#x2F;findme\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://findme.alexvd.dev",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50614754",
+    "createdAt": "2026-11-23T22:31:55.293Z"
+  },
+  {
     "slug": "stop-using-ai-clones-raise-an-ai-with-a-real-id-and-age-hn",
     "title": "Stop using AI clones. Raise an AI with a Real ID and age",
     "shortDescription": "Проект «Stop using AI clones. Raise an AI with a Real ID and age», опубликован сообществом Hacker News.",
