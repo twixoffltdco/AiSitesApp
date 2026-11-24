@@ -1,5 +1,293 @@
 [
   {
+    "slug": "claude-code-unlimited-github",
+    "title": "claude-code-unlimited",
+    "shortDescription": "Rotate Claude Code sessions automatically. Never hit the limit again.",
+    "fullDescription": "Rotate Claude Code sessions automatically. Never hit the limit again.\n\nАвтор: SodovaFo7. Найдено в GitHub Trending (AI-тематика). ⭐ 68 звёзд.",
+    "url": "https://github.com/SodovaFo7/claude-code-unlimited",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "anthropic",
+      "automation",
+      "claude",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1469142209",
+    "createdAt": "2026-11-24T06:42:56.272Z"
+  },
+  {
+    "slug": "deepfake-video-maker-github",
+    "title": "deepfake-video-maker",
+    "shortDescription": "Face swap videos from one photo — local, batch, instant.",
+    "fullDescription": "Face swap videos from one photo — local, batch, instant.\n\nАвтор: egirard03. Найдено в GitHub Trending (AI-тематика). ⭐ 65 звёзд.",
+    "url": "https://github.com/egirard03/deepfake-video-maker",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "automation",
+      "batch",
+      "cli",
+      "cpp",
+      "deepfake",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1469668344",
+    "createdAt": "2026-11-24T06:42:56.272Z"
+  },
+  {
+    "slug": "zhiyou-github",
+    "title": "zhiyou",
+    "shortDescription": "让 AI 帮你管理好友记忆、标签、总结群聊。微信增强模块（LSPosed）",
+    "fullDescription": "让 AI 帮你管理好友记忆、标签、总结群聊。微信增强模块（LSPosed）\n\nАвтор: AARCNoa. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/AARCNoa/zhiyou",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "android",
+      "lsposed",
+      "module",
+      "wechat",
+      "xposed",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1468316816",
+    "createdAt": "2026-11-24T06:42:56.272Z"
+  },
+  {
+    "slug": "sightline-github",
+    "title": "sightline",
+    "shortDescription": "Lightweight CLI tool for AI agents on Windows to capture windows, map DPI-aware coordinates, and monitor process resources.",
+    "fullDescription": "Lightweight CLI tool for AI agents on Windows to capture windows, map DPI-aware coordinates, and monitor process resources.\n\nАвтор: sao-coding. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://github.com/sao-coding/sightline",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "cli",
+      "mcp",
+      "mcp-client",
+      "mcp-tools",
+      "performance",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1469130132",
+    "createdAt": "2026-11-24T06:42:56.272Z"
+  },
+  {
+    "slug": "skillclinic-github",
+    "title": "SkillClinic",
+    "shortDescription": "Your AI is running skills you never audited. A zero dependency CLI that audits installed AI skill files for validity, security risks, confl…",
+    "fullDescription": "Your AI is running skills you never audited. A zero dependency CLI that audits installed AI skill files for validity, security risks, conflicts, and token cost.\n\nАвтор: Dongdarealest. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://dongdarealest.github.io/SkillClinic/",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "claude",
+      "cli",
+      "codex",
+      "cursor",
+      "developer-tools",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1467343860",
+    "createdAt": "2026-11-24T06:42:56.272Z"
+  },
+  {
+    "slug": "awesome-opc-chuhai-github",
+    "title": "awesome-opc-chuhai",
+    "shortDescription": "一人公司 AI 出海清单：从大模型与 MCP，到建站、收款与获客。",
+    "fullDescription": "一人公司 AI 出海清单：从大模型与 MCP，到建站、收款与获客。\n\nАвтор: OPCchuhai. Найдено в GitHub Trending (AI-тематика). ⭐ 3 звёзд.",
+    "url": "https://opcchuhai.com",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "awesome",
+      "awesome-list",
+      "chatgpt",
+      "cloudflare",
+      "indie-hacker",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1468818726",
+    "createdAt": "2026-11-24T06:42:56.272Z"
+  },
+  {
+    "slug": "prism-console-145-github",
+    "title": "prism-console-145",
+    "shortDescription": "Alan Vo | Work in progress: prism-console-145",
+    "fullDescription": "Alan Vo | Work in progress: prism-console-145\n\nАвтор: ALANDVO. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://github.com/ALANDVO/prism-console-145",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "artificial-intelligence",
+      "fastapi",
+      "machine-learning",
+      "python",
+      "react",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1467401613",
+    "createdAt": "2026-11-24T06:42:56.272Z"
+  },
+  {
+    "slug": "galley-github",
+    "title": "galley",
+    "shortDescription": "The open-source AI CMS for static sites, Astro first. Prompt it. Proof it. Publish it.",
+    "fullDescription": "The open-source AI CMS for static sites, Astro first. Prompt it. Proof it. Publish it.\n\nАвтор: fictiontribe. Найдено в GitHub Trending (AI-тематика). ⭐ 2 звёзд.",
+    "url": "https://galley.fictiontribe.com",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "astro",
+      "cms",
+      "git-based-cms",
+      "mcp",
+      "open-source",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1468975746",
+    "createdAt": "2026-11-24T06:42:56.272Z"
+  },
+  {
+    "slug": "a-narrated-map-tour-of-the-events-leading-up-to-the-texas-revolution-hn",
+    "title": "A narrated map tour of the events leading up to the Texas Revolution",
+    "shortDescription": "I put together a narrated map of the Texas Revolution. You can listen to a 20-minute audio guided version or just scroll through the events…",
+    "fullDescription": "I put together a narrated map of the Texas Revolution. You can listen to a 20-minute audio guided version or just scroll through the events: I thought the chronological and location based timeline made it easier to follow and learn as well. I was inspired by Mapbox’s “storytelling” template on GitHub and built my own version with MapLibre fork of Mapbox GL (with free satellite imagery and terrain tiles from USGS) and lots of help from Claude. There are lots of parameters that were built in, like the rotation and transition speed. Essentially themed it and added source links to the cards. The information was sourced from Handbook of Texas by THC. The voice is AI generated using Elevenlabs v4. That github project https:&#x2F;&#x2F;github.com&#x2F;mapbox&#x2F;storytelling has some cool use-case examples that have been published as web features by a few publications. There is so much more you can do with this, like hooking it to live data. The template is a great place to start! Narrations by Elevenlabs TTS. Working on this new one around Houston Oil industry as well. https:&#x2F;&#x2F;whistlestop.guide&#x2F;features&#x2F;houston-oil\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://whistlestop.guide/features/texas-revolution",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50623005",
+    "createdAt": "2026-11-24T06:42:56.087Z"
+  },
+  {
+    "slug": "upnext-game-backlog-decider-play-what-you-own-hn",
+    "title": "UpNext – Game backlog decider. Play what you own",
+    "shortDescription": "I love gaming but now in my 30&#x27;s, there&#x27;s never enough time and when I have an hour, I have no idea what to play or what I&#x27;l…",
+    "fullDescription": "I love gaming but now in my 30&#x27;s, there&#x27;s never enough time and when I have an hour, I have no idea what to play or what I&#x27;ll actually finish so I watch Youtube or buy more games I&#x27;ll never play. I built UpNext so I can focus on the games I own and enjoy them. It takes in all your game libraries, play history and favorites. Simply tell it your mood and how much time you have and it suggests games. Every game gets details like length, review scores, what it feels like to play, what players say, and tags pulled from Steam, PCGamingWiki, ProtonDB, etc. Local and remote AI supported but not required. Available on Windows, Linux, Docker, Steam Deck (flatpak), Android APK. Runs locally with no accounts. Built in Rust and TypeScript with Opus 5.5, MIT&#x2F;Apache 2.0 License Do you think the picks are still good with no AI?\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/zytocc/upnext",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50622527",
+    "createdAt": "2026-11-24T06:42:56.087Z"
+  },
+  {
+    "slug": "merget-merge-queue-using-deep-static-analysis-to-resolve-github-prs-hn",
+    "title": "Merget – Merge queue using deep static analysis to resolve GitHub PRs",
+    "shortDescription": "Hey HN! It&#x27;s Ved, the founder of Merget. Merget is a GitHub App that connects to your code repositories and autonomously manages your…",
+    "fullDescription": "Hey HN! It&#x27;s Ved, the founder of Merget. Merget is a GitHub App that connects to your code repositories and autonomously manages your PR queue using deep static analysis. We can detect overlapping semantic relationships, order your queue in the most optimal order, and resolve merge conflicts in parallel across all of your PRs, ensuring your tests and CI continue to pass. In short, you can advance main by dozens of PRs with a single click, safely :) We hope to ease the burden of code produced by agentic workloads and save dev teams time and tokens! It&#x27;s free to try.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://merget.ai/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50622321",
+    "createdAt": "2026-11-24T06:42:56.087Z"
+  },
+  {
+    "slug": "phosphor95-gnome-theme-hn",
+    "title": "Phosphor95 Gnome Theme",
+    "shortDescription": "Had an old MacBook Air and wanted to do something interesting. Mostly Claude built, but fascinating how far it can go, even in a 11 year ol…",
+    "fullDescription": "Had an old MacBook Air and wanted to do something interesting. Mostly Claude built, but fascinating how far it can go, even in a 11 year old computer. Windows 95 meets the Matrix meets the movie Hackers\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/Websites-On-Computers/phosphor95",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50622247",
+    "createdAt": "2026-11-24T06:42:56.087Z"
+  },
+  {
+    "slug": "outloud-reader-photograph-a-page-and-listen-to-it-phrase-by-phrase-hn",
+    "title": "Outloud Reader – photograph a page and listen to it phrase by phrase",
+    "shortDescription": "Hi HN, I built Outloud Reader, an iOS and Android app that reads any page aloud. You take a photo of a page, open a PDF, or paste text, and…",
+    "fullDescription": "Hi HN, I built Outloud Reader, an iOS and Android app that reads any page aloud. You take a photo of a page, open a PDF, or paste text, and it reads it aloud in a natural voice, highlighting each phrase as it is spoken. How the idea was born: My wife has been learning English for many years but she never gets real practice. One day she told me it would be great to have an app that could turn any photo of text into audio, so she could practice her listening while walking or driving. That&#x27;s what inspired me to build Outloud Reader. Yes, I know there are many text-to-speech apps, but most of them just read the text or cost too much. What it does: - Every phrase lights up as it&#x27;s spoken, so you can read along - 14 languages, with a woman&#x27;s or a man&#x27;s voice in most of them - If you&#x27;re learning a language, it can translate the page into the language you&#x27;re learning - If you have nothing to listen to, ask AI to write a short text at your level (A1–C2) and turn it into audio - The finished audio is stored on your phone, so it works offline - On iPhone and iPad your library syncs through iCloud, so you can start on your phone and keep listening on your tablet - No sign-up, no email, no ads How it works: The page goes to my server, an LLM recognizes the text and translates it if you ask, then it is voiced with a mix of open-source and cloud voices depending on the language. The phrase highlighting comes from aligning the audio with the text. The apps are native on both platforms. The app is free to download and gives you a few free pages to try it. After that you need a subscription or pre-paid pages that never expire. All the audio you&#x27;ve created stays yours to listen to as much as you like, no subscription needed. Plans: I&#x27;m working on a web + API version and already have a small waiting list. What would you listen to first: textbooks, articles, or books in another language? I&#x27;ll be here all day. Any feedback, bugs or ideas are very welcome!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://outloudreader.app/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50622161",
+    "createdAt": "2026-11-24T06:42:56.087Z"
+  },
+  {
+    "slug": "gal-local-first-agent-runtime-with-per-call-permissions-and-rollback-hn",
+    "title": "Gal – local-first agent runtime with per-call permissions and rollback",
+    "shortDescription": "Проект «Gal – local-first agent runtime with per-call permissions and rollback», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Gal – local-first agent runtime with per-call permissions and rollback», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://agent-home.ai/index.html",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50621748",
+    "createdAt": "2026-11-24T06:42:56.087Z"
+  },
+  {
+    "slug": "a-sota-open-weight-looped-decision-model-hn",
+    "title": "A SoTA open-weight looped decision model",
+    "shortDescription": "Проект «A SoTA open-weight looped decision model», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A SoTA open-weight looped decision model», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.novyn.ai/blog/announcing-novyn-looped-decision-0.9/",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50621660",
+    "createdAt": "2026-11-24T06:42:56.087Z"
+  },
+  {
     "slug": "emulator-github",
     "title": "emulator",
     "shortDescription": "AI-проект с GitHub без описания.",
