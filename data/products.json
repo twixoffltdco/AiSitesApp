@@ -1,5 +1,245 @@
 [
   {
+    "slug": "worldleague-github",
+    "title": "WorldLeague",
+    "shortDescription": "What range of physical goals can today’s Embodied AI systems achieve autonomously? WorldLeague compares them on 60 simulated robot tasks by…",
+    "fullDescription": "What range of physical goals can today’s Embodied AI systems achieve autonomously? WorldLeague compares them on 60 simulated robot tasks by measuring progress toward each task’s physical goal from the robot’s trajectory.\n\nАвтор: xyangzhou. Найдено в GitHub Trending (AI-тематика). ⭐ 18 звёзд.",
+    "url": "https://xyangzhou.github.io/WorldLeague/",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "embodied-agent",
+      "embodied-ai",
+      "embodied-intelligence",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1469070702",
+    "createdAt": "2026-11-25T02:55:11.853Z"
+  },
+  {
+    "slug": "frappecoreskills-github",
+    "title": "frappe_core_skills",
+    "shortDescription": "Branched Frappe/ERPNext v14–v16 skills for Claude Code: core rules plus focused branches for server scripts, reports, performance, upgrade,…",
+    "fullDescription": "Branched Frappe/ERPNext v14–v16 skills for Claude Code: core rules plus focused branches for server scripts, reports, performance, upgrade, debug, testing and ops.\n\nАвтор: irfanzahoor. Найдено в GitHub Trending (AI-тематика). ⭐ 9 звёзд.",
+    "url": "https://github.com/irfanzahoor/frappe_core_skills",
+    "category": "developer",
+    "tags": [
+      "ai",
+      "aiskills",
+      "autoencoder",
+      "automation",
+      "claude-ai",
+      "claude-code",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1469770029",
+    "createdAt": "2026-11-25T02:55:11.854Z"
+  },
+  {
+    "slug": "marketing-engineering-github",
+    "title": "marketing-engineering",
+    "shortDescription": "the awesome list that ranks itself. marketing tools ordered by what people's agents actually use: ads, SEO and AEO, social data, analytics,…",
+    "fullDescription": "the awesome list that ranks itself. marketing tools ordered by what people's agents actually use: ads, SEO and AEO, social data, analytics, email, billing.\n\nАвтор: proxy-intell. Найдено в GitHub Trending (AI-тематика). ⭐ 4 звёзд.",
+    "url": "https://marketingengineering.dev/",
+    "category": "productivity",
+    "tags": [
+      "advertising",
+      "ai",
+      "ai-agents",
+      "analytics",
+      "awesome",
+      "awesome-list",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1469914396",
+    "createdAt": "2026-11-25T02:55:11.854Z"
+  },
+  {
+    "slug": "agentkey-open-source-agents-log-in-without-seeing-passwords-hn",
+    "title": "AgentKey, open source, agents log in without seeing passwords",
+    "shortDescription": "Проект «AgentKey, open source, agents log in without seeing passwords», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AgentKey, open source, agents log in without seeing passwords», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/edan-ais/agentkey",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50637749",
+    "createdAt": "2026-11-25T02:55:11.599Z"
+  },
+  {
+    "slug": "reddit-alt-with-open-moderation-funded-by-1-cent-votes-ai-filter-hn",
+    "title": "Reddit Alt with open moderation funded by 1-cent votes. AI filter",
+    "shortDescription": "Проект «Reddit Alt with open moderation funded by 1-cent votes. AI filter», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Reddit Alt with open moderation funded by 1-cent votes. AI filter», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://chakra.social",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50637291",
+    "createdAt": "2026-11-25T02:55:11.599Z"
+  },
+  {
+    "slug": "end-user-a-game-about-smuggling-ai-chips-past-export-controls-hn",
+    "title": "End User, a game about smuggling AI chips past export controls",
+    "shortDescription": "Проект «End User, a game about smuggling AI chips past export controls», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «End User, a game about smuggling AI chips past export controls», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://enduser.fun/?src=hn",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50636585",
+    "createdAt": "2026-11-25T02:55:11.599Z"
+  },
+  {
+    "slug": "ufo-optix-scanning-satellite-imagery-for-flying-craft-artifacts-hn",
+    "title": "UFO OPTIX Scanning satellite imagery for flying craft artifacts",
+    "shortDescription": "I (well my agent swarm) created this in the last 48 hours based on method in a research paper I found ( https:&#x2F;&#x2F;www.mdpi.com&#x2F…",
+    "fullDescription": "I (well my agent swarm) created this in the last 48 hours based on method in a research paper I found ( https:&#x2F;&#x2F;www.mdpi.com&#x2F;2072-4292&#x2F;13&#x2F;15&#x2F;3016 ) for detecting flying craft from OSINT Sentinel 2 satellite imagery from the European space agency. There&#x27;s something about the pixelated detections from images coming off the satellite.. I discussed the build in another post: https:&#x2F;&#x2F;fmsg.ai&#x2F;blog&#x2F;agent-swarm-ufo-optix\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://ufoptix.org",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50636574",
+    "createdAt": "2026-11-25T02:55:11.599Z"
+  },
+  {
+    "slug": "siv-civilization-vi-clone-playable-in-the-browser-hn",
+    "title": "Siv – Civilization VI clone playable in the browser",
+    "shortDescription": "I love Civilization VI, and I&#x27;ve been playing since it came out a little over a decade ago. I decided to vibe code up a clone that can…",
+    "fullDescription": "I love Civilization VI, and I&#x27;ve been playing since it came out a little over a decade ago. I decided to vibe code up a clone that can be played in the browser (currently playable up to the industrialization era) I initially reproduced the game mechanics through a combination of memory and online sources, but that misses a huge amount of detail. I took inspiration from another project, civvis.ai. They used actual recordings of the game to get all the mechanics right. I have been dong the same, running through AI games to gather more recordings and make the mechanics more accurate, but there is still a long way to go! (Please let me know if you find inaccuracies) My ultimate goal is to have an accurate recreation of the engine for myself and other hackers to mess around with. Particularly, I&#x27;ve been running AI agents through the game to see how they do, and whether they could make formidable opponents. Please excuse the AI art - I am not an artist. I tried iterating on it a lot, but I could not fully dispose of that tell tale AI texture. Enjoy~\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://siv.nezin.net/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50635420",
+    "createdAt": "2026-11-25T02:55:11.599Z"
+  },
+  {
+    "slug": "modelxare-decentralized-ai-models-hn",
+    "title": "ModelXare – Decentralized AI Models",
+    "shortDescription": "I have been exploring a different future for AI where we can finally take control of our models and keep our data 100% private. I built mod…",
+    "fullDescription": "I have been exploring a different future for AI where we can finally take control of our models and keep our data 100% private. I built modelXare with the goal of creating the DNS-equivalent for AI capabilities. It uses a combination of system one and system two models to dynamically route the user intent(s) to the ideal micro-model(s) that gets downloaded (and cached) locally to processes your request. This is just the first iteration of this vision. There is a lot of work that needs to be done and a lot of micro-models that can be added but imagine a world where we all can build this network of micro-models together and break the chains from the big AI labs.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://www.modelxare.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50634489",
+    "createdAt": "2026-11-25T02:55:11.599Z"
+  },
+  {
+    "slug": "wakeshift-open-source-mcp-events-for-claude-code-codex-and-more-hn",
+    "title": "Wakeshift – Open-Source MCP Events for Claude Code, Codex and More",
+    "shortDescription": "tl;dr: We just open-sourced Wakeshift, which lets any MCP server serve interoperable events via MCP Events or harness-specific bridges. Thi…",
+    "fullDescription": "tl;dr: We just open-sourced Wakeshift, which lets any MCP server serve interoperable events via MCP Events or harness-specific bridges. This allows MCP servers to push events to harnesses that don&#x27;t support MCP Events today, including Claude Code, Codex and Cursor. Hi folks! The MCP Events spec was approved and merged five days ago, allowing MCP servers to emit events directly to agent subscribers. ( https:&#x2F;&#x2F;github.com&#x2F;modelcontextprotocol&#x2F;modelcontextprotocol... ) This allows MCP developers to push events directly to agents for long-running tasks (e.g. CI, crawls, starting agents) or external actions (e.g. emails, human approvals, alerts). However, the catch is that support for MCP Events is very light. Claude Code and Codex don&#x27;t support it at all, and most of the implementations support the draft version rather than the merged spec. Many harnesses can work around this with plugins or hooks, but every MCP server has to build it for each harness. Wakeshift provides interoperable events to your MCP server. You call emit() and Wakeshift pushes the event to each subscribed agent in whatever format they accept: per the MCP Events final spec, an earlier draft, or through a hook &#x2F; plugin where needed. If the harness requires a hook &#x2F; plugin and it&#x27;s not already installed, the agent will be notified and receive instructions on how to install it for the user. Additionally, the MCP Events spec defines three delivery mechanisms: webhook, push (via held HTTP request) and pull (via HTTP polling). The Wakeshift SDK serves push and poll from your MCP server, so agents that can&#x27;t accept inbound HTTP webhooks (e.g. most agents running on laptops) can still get events within seconds. Subscriptions only start when an agent calls a tool that subscribes it, and users can list or stop them anytime. Some harnesses can only be woken by putting a message into the conversation, so Wakeshift wraps the content as an external event to reduce the risk of prompt injection. The repo linked has a quickstart guide to get this working locally in a few minutes. Or you can try our hosted webhook service to test it yourself without an installation. ( https:&#x2F;&#x2F;try.wakeshift.ai ) We&#x27;d love feedback, PRs for harnesses we don&#x27;t cover, reports when it doesn&#x27;t work. As you can imagine, there&#x27;s a combinatorial explosion of servers, harnesses, models, OSs, etc. so we expect there to be some rough edges. Are there any MCP servers you&#x27;re using that you think could benefit from having events today?\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/wakeshift/server",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50634239",
+    "createdAt": "2026-11-25T02:55:11.600Z"
+  },
+  {
+    "slug": "call-meeting-recorder-for-mac-open-source-local-models-or-free-cloud-hn",
+    "title": "Call / meeting recorder for Mac. open source local models or free cloud",
+    "shortDescription": "Hi! check out my opensource call &#x2F; meeting recorder for Mac. It is opensource and you can use your local models, big labs API or my fr…",
+    "fullDescription": "Hi! check out my opensource call &#x2F; meeting recorder for Mac. It is opensource and you can use your local models, big labs API or my free tier. What it does? It taps into your Macs audio stream and records tlephone calls, online meetings zoom, viber etc. You dont need bot sitting in the meeting. It will transcribe, separate speakers and name them if their name was in conversation, write summary, suggest meeting appointments, extract agreements and action points and many more! This is not AI - human writing to you guys:) Dontload at Github https:&#x2F;&#x2F;github.com&#x2F;Digisensus&#x2F;digisensus-recorder\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Digisensus/digisensus-recorder",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50634230",
+    "createdAt": "2026-11-25T02:55:11.600Z"
+  },
+  {
+    "slug": "growpython-an-ai-agent-that-runs-outreach-up-to-the-booked-call-hn",
+    "title": "GrowPython, an AI agent that runs outreach up to the booked call",
+    "shortDescription": "Проект «GrowPython, an AI agent that runs outreach up to the booked call», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «GrowPython, an AI agent that runs outreach up to the booked call», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://growpython.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50633638",
+    "createdAt": "2026-11-25T02:55:11.600Z"
+  },
+  {
+    "slug": "two-divinations-beautiful-i-ching-tarot-greco-egyptian-horoscope-hn",
+    "title": "Two Divinations – Beautiful I Ching, Tarot & Greco-Egyptian Horoscope",
+    "shortDescription": "My first web app. Vibecoded over a few days using Deepseek Flash with Cline in Visual Code Studio. The 3D characters were created in an ima…",
+    "fullDescription": "My first web app. Vibecoded over a few days using Deepseek Flash with Cline in Visual Code Studio. The 3D characters were created in an image generator based on Max Ernst Paintings, and turned into 3D models using Tripo AI. They were rigged using another custom App I vibecoded. I&#x27;m a writer and filmmaker, and this is the first app I&#x27;ve &#x27;created&#x27;, with essentially no technical knowledge beyond a couple of decades reading hackernews, and a semester of Pearl in the late 90s. I was inspired by a date with a &#x27;tarot girlie&#x27;.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.twodivinations.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50632499",
+    "createdAt": "2026-11-25T02:55:11.600Z"
+  },
+  {
+    "slug": "keeping-faces-and-features-consistent-across-24-ai-driven-comic-pages-hn",
+    "title": "Keeping faces and features consistent across 24 AI-driven comic pages",
+    "shortDescription": "joonoo.art turns one photo into a comic book (or picture book) starring the people in it. Upload a photo of up to four people, say who&#x27…",
+    "fullDescription": "joonoo.art turns one photo into a comic book (or picture book) starring the people in it. Upload a photo of up to four people, say who&#x27;s who, pick a story or write your own, choose a style, and in under a minute you see the cover and the story. The preview is free with no account. You pay only if you want the full book: starts at $4.99 for a PDF, or about $25 printed before shipping. Hi HN, I&#x27;m Saro, a granddad and CTO (formerly chief architect of Fidelity NetBenefits, and head of engineering at IDEMIA for TSA PreCheck). Reading picture books with my granddaughter last summer, I had the inspiration. I wanted her to be the hero of one. I launched it in August 2025 and got some orders and happy customers, but I held back on promoting it. The hard part was keeping the same face on every page. The models would hallucinate extra fingers or a different child halfway through, and vision models couldn&#x27;t reliably catch it. Testing was almost entirely manual, so every small change took days. What changed in 2026 is that Claude Code got good at writing and running test plans, and its built-in browser can now do much of the visual QA on the artwork. It continues to be challenging to make sure that people&#x27;s body types, facial features, and costumes remain consistent to the story and the book, but with the ability to do testing on a large scale, I have been able to improve the quality sufficiently to please most of the audience. I am beyond excited to see what parents and grandparents are creating for their kids - from superboys to dragon-riding to dollhouses that come alive, these kids have wonderful surprises waiting for them under the tree. Even grown-ups seem to be having fun with it. AI art raises fair questions. We label every book as AI-made and never imitate living artists, and I&#x27;ve written about what we owe artists and authors: joonoo.art&#x2F;blog&#x2F;what-we-owe-artists-and-authors The question I&#x27;d most like this crowd&#x27;s view on: how would you test image consistency at scale - when there are demands in so many different directions that could not have been anticipated or tested? Particularly when you&#x27;re supporting many languages and selling in many countries?\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://joonoo.art/create-comic",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50631791",
+    "createdAt": "2026-11-25T02:55:11.600Z"
+  },
+  {
     "slug": "ai-game-coach-github",
     "title": "ai-game-coach",
     "shortDescription": "AI game coach: replay analysis, tips, mistake patterns.",
