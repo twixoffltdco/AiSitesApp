@@ -1,5 +1,85 @@
 [
   {
+    "slug": "agent-debugger-local-first-failure-debugger-for-ai-agents-hn",
+    "title": "Agent Debugger – local-first failure debugger for AI agents",
+    "shortDescription": "Проект «Agent Debugger – local-first failure debugger for AI agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Agent Debugger – local-first failure debugger for AI agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/woxlo1/agent-debugger",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50640536",
+    "createdAt": "2026-11-25T12:05:31.144Z"
+  },
+  {
+    "slug": "lightscale-ai-a-language-for-llms-to-write-business-software-hn",
+    "title": "Lightscale AI – A language for LLMs to write business software",
+    "shortDescription": "I am Luc, one of the co-founders of Lightscale AI. I have background in programming languages (ETH Zurich) and we are small team in Zug, Sw…",
+    "fullDescription": "I am Luc, one of the co-founders of Lightscale AI. I have background in programming languages (ETH Zurich) and we are small team in Zug, Switzerland. As more and more code is now written by LLMs and few people have time to review the generated code, we came up with the idea to revise the actual stack below the LLMs: The programming language with its compiler and runtime system, all designed from scratch for AI authorship, not for humans. We have three goals: 1. Security and stability by language design: Some classes of errors are removed by abstraction as the AI never writes that code, but the compiler and runtime implement it fully. Others are reduced by rigid compiler checks and very strict language rules (no fun for humans to code). 2. Speed. We designed the language to reduce tokens, by throwing out a lot of complexity and legacy of classical languages. Our target is about a minute from prompt to deployment on average. 3. AI cost. The language is designed for mid-tier LLMs, with little or no reasoning effort. This is why we can offer prompting for free (no credit, but account sign-up is needed). We charge for longer hosting or source export. For now, we focus on business application, but plan to extend the approach to general-purpose software. Longer write-up: https:&#x2F;&#x2F;lightscale.ai&#x2F;articles&#x2F;why-llms-need-their-own-progr... Happy to hear your feedback.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://lightscale.ai/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50639615",
+    "createdAt": "2026-11-25T12:05:31.144Z"
+  },
+  {
+    "slug": "open-source-native-ai-harness-thats-trying-to-do-less-by-default-hn",
+    "title": "Open-source native AI harness that's trying to do less by default",
+    "shortDescription": "Проект «Open-source native AI harness that's trying to do less by default», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Open-source native AI harness that's trying to do less by default», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/usehm/hm",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50639553",
+    "createdAt": "2026-11-25T12:05:31.144Z"
+  },
+  {
+    "slug": "archiver-that-opens-every-format-hn",
+    "title": "Archiver that opens every format",
+    "shortDescription": "137 file types; a single file with nothing to install. Introducing Provost, the free compression and archival tool that can create 119 form…",
+    "fullDescription": "137 file types; a single file with nothing to install. Introducing Provost, the free compression and archival tool that can create 119 formats, and open 137 total. It&#x27;s new custom format packs smaller than ZPAQ, xz, and Zstandard in tests. JPEG, PNG, PDF, DOCX&#x2F;XLSX, and gzip are unpacked and repacked for ~25% smaller files; ability to encrypt to people&#x27;s keys or a password; can open archives straight from HTTPS, S3, WebDAV, and SFTP; can search inside archives, including the text of Office files and PDFs; and much more. Q&amp;A --- Is it open source? It is not. Will my .provost files open in five years? I&#x27;ve committed to future releases reading every 0.1.0 archive, and to old compression methods staying readable. Are builds signed? No. The Mac app isn&#x27;t notarized and the Windows exes are unsigned, so you will see Gatekeeper and SmartScreen warnings. Is the .exe an installer? Nope; it&#x27;s a stand-alone executable. This is true for all GUI and CLI builds across all three OSes. Is the custom .provost compression fast? Levels 7 to 9 are very slow. There is a built-in benchmark test. How was it built? AI.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://provost.unlimitedweb.space/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50638216",
+    "createdAt": "2026-11-25T12:05:31.144Z"
+  },
+  {
+    "slug": "carry-save-every-ai-conversations-as-markdown-in-a-folder-you-own-hn",
+    "title": "Carry – Save every AI conversations as Markdown, in a folder you Own",
+    "shortDescription": "Carry let&#x27;s you automatically save your chats from Gemini, ChatGPT, Claude and Grok as Markdown in a local folder on you computer. You…",
+    "fullDescription": "Carry let&#x27;s you automatically save your chats from Gemini, ChatGPT, Claude and Grok as Markdown in a local folder on you computer. You can easily search across all apps and handoff to other if needed with one click.\n\nНайдено в разделе Show HN на Hacker News. 👍 20 баллов.",
+    "url": "https://carry.md/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50637995",
+    "createdAt": "2026-11-25T12:05:31.144Z"
+  },
+  {
     "slug": "worldleague-github",
     "title": "WorldLeague",
     "shortDescription": "What range of physical goals can today’s Embodied AI systems achieve autonomously? WorldLeague compares them on 60 simulated robot tasks by…",
