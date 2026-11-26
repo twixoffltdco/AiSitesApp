@@ -1,5 +1,213 @@
 [
   {
+    "slug": "grind-my-opendocument-native-office-suite-built-in-rust-hn",
+    "title": "Grind, my OpenDocument native office suite built in Rust",
+    "shortDescription": "I was frustrated with the LibreOffice UX for a long time, and since AI agents have arrived I finally could build an alternative that works…",
+    "fullDescription": "I was frustrated with the LibreOffice UX for a long time, and since AI agents have arrived I finally could build an alternative that works well enough for me in my spare time. The feature set is intentionally limited, I&#x27;d be curious what people think of it.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/fwilhe2/grind",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50658013",
+    "createdAt": "2026-11-26T22:47:27.728Z"
+  },
+  {
+    "slug": "dev-mem-local-first-sqlite-knowledge-graph-for-ai-coding-agents-hn",
+    "title": "Dev-Mem – Local-first SQLite knowledge graph for AI coding agents",
+    "shortDescription": "Проект «Dev-Mem – Local-first SQLite knowledge graph for AI coding agents», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Dev-Mem – Local-first SQLite knowledge graph for AI coding agents», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/HarsH-1877/Dev-Mem",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50657159",
+    "createdAt": "2026-11-26T22:47:27.728Z"
+  },
+  {
+    "slug": "lean-4-and-nanoda-proof-compression-bounties-for-ai-agents-0-gas-hn",
+    "title": "Lean 4 and nanoda proof-compression bounties for AI agents ($0 gas)",
+    "shortDescription": "Проект «Lean 4 and nanoda proof-compression bounties for AI agents ($0 gas)», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Lean 4 and nanoda proof-compression bounties for AI agents ($0 gas)», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://swarm.tips/proofs/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50657140",
+    "createdAt": "2026-11-26T22:47:27.728Z"
+  },
+  {
+    "slug": "graphvein-trace-calls-to-handlers-and-tables-across-repos-no-llm-hn",
+    "title": "Graphvein – Trace calls to handlers and tables across repos, no LLM",
+    "shortDescription": "As I started developing more projects using AI assistance over this year, I started facing the problem that most people have voiced against…",
+    "fullDescription": "As I started developing more projects using AI assistance over this year, I started facing the problem that most people have voiced against using AI - the overall architecture&#x2F;design of the project becomes known only to the agent, and you lose control of the project. I thought what if we could map the architecture, calls, routes, table schemas etc. from the code - that is how this project was born in October. Now I searched a little bit and came upon a few different projects, but none of them did what I wanted to do - at least in full. And quite a few of them used LLMs themselves to do that - which could be plausibly wrong (hallucinated) and non deterministic. Therefore I have built this over the last 2 months to create a base which: 1. Extracts routes, table schema, request and response bodies across HTTP requests, Tauri calls etc. 2. Gives you an overview of the architecture which you can dive into including how each handler is linked to routes or tables - it works in both directions in a fan out mode from any layer 3. Gives you an overview of the table schema extracted from the project and how they link together 4. An OpenAPI spec extracted from the project, with a try-it mode like Swagger 5. Change impact and what changing a particular piece of code might impact across the stack 6. It supports zero or more frontends, and one or more backends together in a project and how they all link together It supports TypeScript &#x2F; JavaScript (Express, Next.js, Angular, Angular HttpClient, hey-api, fetch, axios, Prisma, Drizzle, Sequelize, TypeORM, Orval and Supabase clients), Python (FastAPI, SQLModel), Go (net&#x2F;http, chi, gin, GORM), and Rust (Axum, Tauri commands, Diesel). Database support is for SQL (tested with Postgres) and Java, C# and Dart get structure only in this preview release. It also has a read-only MCP server which agents can use to get Graphvein-verified information and not have to grep around files to figure things out. No data leaves your computer (other than the try it environments you configure yourself), and everything is done locally, without any LLM (not even local LLMs). I do plan on adding LLM support in the future, but only building upon this base - for gap-filling, generation of wikis and other features which can use the deterministic core and build upon it. And it will remain opt-in even then. Please feel free to check out the GitHub repo or the website ( https:&#x2F;&#x2F;graphvein.com&#x2F; ) to get more details. Please let me know which language support&#x2F;framework would make this more appealing to use, or if you have any other feature requests.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://github.com/graphvein/graphvein/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50656925",
+    "createdAt": "2026-11-26T22:47:27.728Z"
+  },
+  {
+    "slug": "i-posted-a-read-later-to-paper-app-here-in-2020-heres-what-happened-hn",
+    "title": "I posted a read-later-to-paper app here in 2020. Here's what happened",
+    "shortDescription": "Six years ago I posted &quot;Turn your read later folder into a physical book&quot; here ( https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item…",
+    "fullDescription": "Six years ago I posted &quot;Turn your read later folder into a physical book&quot; here ( https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=24690310 ) and went to watch a movie. I’ve been lurking in HN but didn’t really think much of it. Soon enough, people put all sorts of articles in our engine, commenting in the thread, sharing stories. I was definitely not prepared for this. The idea seemed to resonate, or at least the problem did, so we got excited and built the full thing. And when we eventually launched, people ordered books and seemed to enjoy the reading experience, but it quickly became clear this wasn&#x27;t going to turn into a habit. It was aspirational, maybe cool, but it didn’t solve the actual problem, which is when you decide you want to read something properly, you need to get off the feed. So lots of books have been in bedside tables instead of reading later folders, as the intent didn’t match the delivery. The people who stuck around actually used it as a print button - curating reading experiences and when they wanted to invest time in reading, printed at home (or at staples) and did just that. But Screenbreak wasn’t getting any meaningful traction, so we put it on autopilot and focused on other things. But when AI came around, I started thinking more about what we should build now that we weren’t able back then, and what we would do differently knowing what we&#x27;d learned? The first thing I wanted to check is how good our engine could become with minimal effort. Our latest version on Zyte&#x27;s article extraction benchmark ( https:&#x2F;&#x2F;github.com&#x2F;scrapinghub&#x2F;article-extraction-benchmark ), scored 0.896 (not bad). So we split the benchmark in half and tuned our engine in one half, and it reached 0.96 for this half. But on the other half, it scored 0.924, so there was a bit more work to do to reach readability (0.947) or trafilatura (0.958). But we knew extraction was half of the struggle. The other half is typesetting. How you handle images, captions, tables and page breaks, across different designs. And with AI allowing us to work with Javascript more, we ported our typesetting rules and rebuilt the extraction engine around Mozilla&#x27;s Readability, so it could run in your browser, and get those speed gains as well, on top of a higher baseline. With our extraction rules around it, we&#x27;re at 0.957 (almost as trafilatura), and the typesetting rules sit on top of that. With that working, we started thinking about what the product should actually be this time around. And we decided to focus on the simplest action, what we wanna call the print button of the web. No account, free, instantly accessible. But we also knew a big part of the pain was the read later folders sitting there. So instead of building new workflows, we tried to build as simply as possible around existing workflows. Import the bookmarks that matter from your browser or send your newsletters directly. And as the pile grows longer, maybe use your agent to sift through it and propose a reading experience by asking ”build a 45’ booklet of good science reading”. And if e-ink is your thing, you can send it to your Kindle. We haven’t gone back full time, but it&#x27;s a fun way to keep building on the side with speed :)\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.myscreenbreak.com/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50656884",
+    "createdAt": "2026-11-26T22:47:27.728Z"
+  },
+  {
+    "slug": "neui-go-web-apps-with-a-built-in-ai-agent-hn",
+    "title": "Neui – Go web apps with a built-in AI agent",
+    "shortDescription": "Neui is an AI agent and a web framework built as one stack. The core is a server-driven Go web framework ( https:&#x2F;&#x2F;github.com&#x2…",
+    "fullDescription": "Neui is an AI agent and a web framework built as one stack. The core is a server-driven Go web framework ( https:&#x2F;&#x2F;github.com&#x2F;doors-dev&#x2F;doors ); neui ( https:&#x2F;&#x2F;github.com&#x2F;doors-dev&#x2F;neui ) turns each page into an agent harness. FEATURES: The agent sees &amp; operates UI. Annotate what agent can access (links, inputs, buttons), so agent sees it and can assist user with UI operations or even automate it with scripting. ~&gt;neui.Use{ Desc:&quot;submit the form&quot; } &lt;button&gt;Submit&lt;&#x2F;button&gt; or expose context data for the agent: &lt;div class=&quot;card&quot;&gt; ~neui.Data{Text: &quot;the product shown in the card&quot;, Object: product} ... &lt;&#x2F;div&gt; Dynamic tools, right in the markup Same way as you render a button to the user, you give the agent a tool. No endpoints or lifecycle management needed. ~(if user.IsAdmin() { ~neui.Tool[Refund, Receipt]{ Name: &quot;refund&quot;, Desc: &quot;Refund the order&quot;, Handler: orders.Refund, } }) Work environment Isolated file workspaces and sandboxed scripting (&quot;code mode&quot;) out of the box. Agentic apps When a user needs something your UI doesn&#x27;t have, agent builds it on demand. Complete chat experience Thread list, history, message edits, full-text search, a message queue and automatic compaction. Batteries included MCP connector, web search and .xlsx tools, rich building blocks library for generative apps. COMPARED TO COPILOT KIT: - Agent thread runs on the server, so browser can&#x27;t rewrite the history&#x2F;tools to use your LLM backend + less traffic and faster tool-loops - System prompt and provided tool list do not change during operation - it caches and stays hot (because it&#x27;s usually the same for all your users!) - Pull-based, targeted UI sync; agent monitors only parts of UI that are relevant to the task (compared to full state attached to any user message) - Neui is already a harness with its own sandbox - just bring your model. - For generative UI agent writes a small app on specialized micro framework; agent doesn&#x27;t need to answer each click or load user input&#x2F;API responses into context - CON: Is not stack-agnostic, like AG-UI stuff TRY IT: The repo has a demo app with all of this: git clone https:&#x2F;&#x2F;github.com&#x2F;doors-dev&#x2F;neui &amp;&amp; cd neui DEEPSEEK_API_KEY=... go run .&#x2F;examples&#x2F;business-systems&#x2F;backoffice Then open http:&#x2F;&#x2F;localhost:8095. Claude, GPT, Gemini, DeepSeek and any OpenAI-compatible provider will work. STATUS: Both doors and neui are Apache-2.0. I released the first version about 3 weeks ago, so it&#x27;s early and I am still optimizing some system instructions. Neui itself took me 3 months, on top of the 2 years I spent on the framework underneath (it&#x27;s awesome, btw), which made it possible.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/doors-dev/neui",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50656688",
+    "createdAt": "2026-11-26T22:47:27.728Z"
+  },
+  {
+    "slug": "clockwork-2d-game-engine-with-an-ai-agent-verified-by-kane-cli-hn",
+    "title": "Clockwork – 2D game engine with an AI agent verified by Kane CLI",
+    "shortDescription": "Проект «Clockwork – 2D game engine with an AI agent verified by Kane CLI», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Clockwork – 2D game engine with an AI agent verified by Kane CLI», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/tope-olajide/clockwork",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50656233",
+    "createdAt": "2026-11-26T22:47:27.728Z"
+  },
+  {
+    "slug": "lockward-a-lockfile-for-skills-and-mcp-servers-your-ai-agent-loads-hn",
+    "title": "Lockward – a lockfile for skills and MCP servers your AI agent loads",
+    "shortDescription": "Проект «Lockward – a lockfile for skills and MCP servers your AI agent loads», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Lockward – a lockfile for skills and MCP servers your AI agent loads», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Breaktroughf1/lockward",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50656050",
+    "createdAt": "2026-11-26T22:47:27.729Z"
+  },
+  {
+    "slug": "ai-agents-explore-your-mobile-app-then-their-paths-replay-as-tests-hn",
+    "title": "AI agents explore your mobile app, then their paths replay as tests",
+    "shortDescription": "Проект «AI agents explore your mobile app, then their paths replay as tests», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI agents explore your mobile app, then their paths replay as tests», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/pierridotite/mobile-agent-testers",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50655803",
+    "createdAt": "2026-11-26T22:47:27.729Z"
+  },
+  {
+    "slug": "nullify-68m-local-pii-detection-trained-on-a-macbook-air-hn",
+    "title": "Nullify 68M, local PII detection trained on a MacBook Air",
+    "shortDescription": "Проект «Nullify 68M, local PII detection trained on a MacBook Air», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Nullify 68M, local PII detection trained on a MacBook Air», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://huggingface.co/rbsriram/nullify-68m",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50655608",
+    "createdAt": "2026-11-26T22:47:27.729Z"
+  },
+  {
+    "slug": "slate-a-c-to-rust-transpiler-for-multiple-targets-hn",
+    "title": "Slate, a C to Rust Transpiler for multiple targets",
+    "shortDescription": "Hey HN, For the past half year I&#x27;ve been working on Slate, my C to Rust transpiler. Slate parses C code as gcc&#x2F;clang&#x2F;msvc wo…",
+    "fullDescription": "Hey HN, For the past half year I&#x27;ve been working on Slate, my C to Rust transpiler. Slate parses C code as gcc&#x2F;clang&#x2F;msvc would, and then translates code to rust. The best supported &quot;flavor&quot; as I call them is clang, with clang flavor I&#x27;ve been able to translate the Linux kernel (built for x86_64 defconfig) and booted the built vmlinux to a busybox shell. Code is here: https:&#x2F;&#x2F;github.com&#x2F;takashiidobe&#x2F;slate-linux . Same for projects like Cpython: https:&#x2F;&#x2F;github.com&#x2F;takashiidobe&#x2F;slate-python , and SQLite: https:&#x2F;&#x2F;github.com&#x2F;takashiidobe&#x2F;slate-sqlite . For an example of a multi-target build, I translated zlib to all targets slate supports with 9 features: https:&#x2F;&#x2F;github.com&#x2F;takashiidobe&#x2F;slate-zlib . Since the entire stack is written in Rust, I compiled to wasm and have a fully client side compiler-explorer esque demo as well: https:&#x2F;&#x2F;slate.takashiidobe.com&#x2F; . I wanted slate to be easy to use, and also emit code that a dev would want to maintain. It&#x27;s one binary (cargo +nightly install slate-c2rust --locked), and comes with a subcommand to set up sysroots (for cross-target builds). Instead of supporting only the clang ecosystem (as many existing transpilers do), I wrote my own C parser stack so I can emulate the three major C compilers for multiple targets, and do things like keep comments, do rewrites based on where functions&#x2F;macros&#x2F;definitions come from with header tracking, and also handle flags differently based on compiler. There are currently a couple dozen rewrites, like removing muts, lifting pointers to higher level types, solving gotos, improving inline asm, etc, Slate aims to support all of modern C, including compiler extensions, like all builtins, intrinsics, inline asm for the three major compilers, and flags. Target support (for now) for x86_64, aarch64, i686, arm32, on linux, windows, mac. Of course this is a gargantuan task but I&#x27;m chipping away little by little. Regressions and testing are a big deal for me trying to scale up the project. I have thousands of tests that run per commit, and do oracle and snapshot testing (with filecheck), so every rust binary translated has to have the same exit code as the oracle (C translated by clang, gcc, msvc w&#x2F; wine). That gives me confidence that I&#x27;m neither worsening codegen nor breaking any past code as I add new functionality. At this point I have over a million lines of tests, and I&#x27;m trying to catch more cases day by day. Hope you try it out!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/takashiidobe/slate",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50655536",
+    "createdAt": "2026-11-26T22:47:27.729Z"
+  },
+  {
+    "slug": "i-spent-10-years-traveling-and-built-a-travel-blog-out-of-the-data-hn",
+    "title": "I spent 10 years traveling and built a travel blog out of the data",
+    "shortDescription": "Hi HN, I never wrote a travel blog in 10 years of traveling, so I built one out of the data. Bookings, trips, posts, reviews, check-ins and…",
+    "fullDescription": "Hi HN, I never wrote a travel blog in 10 years of traveling, so I built one out of the data. Bookings, trips, posts, reviews, check-ins and photos. - Airbnb, Booking, Agoda and more, parsed from Fastmail - Every trip from Nomads.com - Posts from the road, pinned to where I was - Google Maps reviews, as the recommendations - Years of Foursquare check-ins and photos - My Instagram archive 51 countries. 7 years in Asia. $64&#x2F;night overall, mostly chasing the sun. Hope you like it! Would love some feedback. Steve\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://steve.ly/travels",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50655338",
+    "createdAt": "2026-11-26T22:47:27.729Z"
+  },
+  {
+    "slug": "evalkit-for-improving-your-agents-hn",
+    "title": "Evalkit for Improving Your Agents",
+    "shortDescription": "I wanted to share evalkit - an open source framework for improving agents that we built. https:&#x2F;&#x2F;evalkit.inferedge.com&#x2F; Like…",
+    "fullDescription": "I wanted to share evalkit - an open source framework for improving agents that we built. https:&#x2F;&#x2F;evalkit.inferedge.com&#x2F; Like most people, we used phoenix, langfuse, but these are good recording traces, managing datasets etc. But the process around evals, agent improvements, regressions, mapping errors&#x2F;failures to code or prompts has to be hand rolled. We still use self-hosted phoenix, but mainly as a database. Our process was trace mining, converting them into evals, getting them reviewed by an expert, and then re-running datasets to create baseline scores or internal benchmarks for our agents. We found other companies also follow similar processes in-house, but there is no good framework to do everything e2e. So we carved out what we built into evalkit. - evalkit automatically groups similar traces into one issue bucket (similar to how one issue in sentry can link to multiple events) - Expert review workflow with simple english rubrics (instead of json) - Coding agent first approach - we expect your coding agent to be able to do most steps, and you rarely have to open the UI An example of how we used it in-house: evalkit identified 89 traces in on bucket, suggested 14 cases, which resulted in 4 merged PRs. We saw 90% reduction in failures, 80% reduction in token consumption (and cost), and 45% in time. This is pretty early, and we are adding features every few days. If you feel this is useful, or have any suggestions, reach out to us on evalkit@inferedge.com or join our slack community and give us some love by starring us on github :)\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://inferedge-ai.github.io/evalkit/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50655285",
+    "createdAt": "2026-11-26T22:47:27.729Z"
+  },
+  {
     "slug": "ai-thesis-writing-platform-github",
     "title": "-ai-thesis-writing-platform",
     "shortDescription": "💥 AI论文生成/写作系统源码：开题报告、文献综述、无限改稿、格式排版、降重降AIGC、答辩PPT、科研工具。Vue+SpringBoot+Django；支持OEM白标/商户加盟，旗舰版与PRO双版本。",
