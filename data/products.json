@@ -1,5 +1,53 @@
 [
   {
+    "slug": "comparison-of-podcasting-20-players-with-digilore-hn",
+    "title": "Comparison of Podcasting 2.0 players with Digilore",
+    "shortDescription": "I built a Podcasting 2.0 player that&#x27;s been in the App Store for a few years. It&#x27;s called Digilore™. I recently did a full compar…",
+    "fullDescription": "I built a Podcasting 2.0 player that&#x27;s been in the App Store for a few years. It&#x27;s called Digilore™. I recently did a full comparison with the help of AI of it to all other Podcasting 2.0 apps listed at https:&#x2F;&#x2F;podcastapps.com&#x2F; (Run by Podcasting 2.0&#x2F;Podcastindex.org) It&#x27;s a totally free app with no servers and collects no personal data. It does accept gifts via in app purchases. Made for you, with love. It&#x27;s written in Flutter and Dart which was a delight to use. It&#x27;s recently been vibe coded with care. Beta release active now with many new exciting features such as on-device transcription and clipping for social media. Happy podcast listening!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://digilore.org/comparing-digilore/",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50650694",
+    "createdAt": "2026-11-26T03:56:04.103Z"
+  },
+  {
+    "slug": "a-daily-word-puzzle-where-an-ai-gives-the-clue-and-you-guess-hn",
+    "title": "A daily word puzzle where an AI gives the clue and you guess",
+    "shortDescription": "Each day, an AI writes one clue for several words on a 5x5 board, and you pick which ones it meant. Afterwards, you see how Claude Haiku an…",
+    "fullDescription": "Each day, an AI writes one clue for several words on a 5x5 board, and you pick which ones it meant. Afterwards, you see how Claude Haiku and GPT Luna would&#x27;ve done on the same board. Free, no sign-up to play.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://wordspies.com/daily",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50650316",
+    "createdAt": "2026-11-26T03:56:04.103Z"
+  },
+  {
+    "slug": "sidelong-read-it-later-and-highlighting-for-every-type-of-content-hn",
+    "title": "Sidelong – read-it-later and highlighting for every type of content",
+    "shortDescription": "I built Sidelong because I wanted one single place to store, search, and summarize all the stuff I was reading, watching, and listening to.…",
+    "fullDescription": "I built Sidelong because I wanted one single place to store, search, and summarize all the stuff I was reading, watching, and listening to. Save any link, article, podcast, youtube video, local file, or a bunch of other content types. Sidelong presents and embed the content, summarizes the top insights. You can subscribe to newsletters and get them sent and ingested directly, and follow your favorite podcasts and youtube channels to have the new episodes ready for you automatically. Highlight or take notes on what was interesting in anything above right in the app. Sidelong takes what you learn, and gives you a daily summary that connects dots across the sources you saved. It also learns about your interests and recommends what you might want to check out next. If you ever wanted to write about the stuff you&#x27;re learning, you can use the built in editor which connects what you are writing with all the things you saved and presents it to you while you right. Alot of other features like MCP, AI chat, etc as well.\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://sidelong.app",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50649180",
+    "createdAt": "2026-11-26T03:56:04.103Z"
+  },
+  {
     "slug": "old-photo-life-github",
     "title": "old-photo-life",
     "shortDescription": "AI Old Photo Animate — animate and animation in one tool.",
