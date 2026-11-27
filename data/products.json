@@ -1,5 +1,161 @@
 [
   {
+    "slug": "crewvela-github",
+    "title": "CrewVela",
+    "shortDescription": "让 Claude Code、Codex 等编程 Agent 在同一桌面工作台里沟通、协作和交接。基于 Tauri 的多 Agent 工作台。",
+    "fullDescription": "让 Claude Code、Codex 等编程 Agent 在同一桌面工作台里沟通、协作和交接。基于 Tauri 的多 Agent 工作台。\n\nАвтор: token-hunter. Найдено в GitHub Trending (AI-тематика). ⭐ 16 звёзд.",
+    "url": "https://github.com/token-hunter/CrewVela",
+    "category": "ai-tool",
+    "tags": [
+      "agent-collaboration",
+      "ai",
+      "ai-agents",
+      "antigravity",
+      "claude-code",
+      "codex",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1472359651",
+    "createdAt": "2026-11-27T04:45:33.969Z"
+  },
+  {
+    "slug": "zheqimingsi-github",
+    "title": "zheqimingsi",
+    "shortDescription": "哲启明思 (PHILO FM) · 离线哲学典藏阅读器、微软神经网络电台、AI 哲思伴读与 7 引擎双语翻译｜内置 94 部近 3000 万字哲学原典｜Windows 便携版 & Android 原生双端开源",
+    "fullDescription": "哲启明思 (PHILO FM) · 离线哲学典藏阅读器、微软神经网络电台、AI 哲思伴读与 7 引擎双语翻译｜内置 94 部近 3000 万字哲学原典｜Windows 便携版 & Android 原生双端开源\n\nАвтор: dadafeiGeorge. Найдено в GitHub Trending (AI-тематика). ⭐ 12 звёзд.",
+    "url": "https://github.com/dadafeiGeorge/zheqimingsi",
+    "category": "ai-tool",
+    "tags": [
+      "ai",
+      "android",
+      "ebook-reader",
+      "electron",
+      "kotlin",
+      "offline-first",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1471805526",
+    "createdAt": "2026-11-27T04:45:33.969Z"
+  },
+  {
+    "slug": "ashuteacher-free-ai-tutor-voice-blackboard-and-thesis-studio-hn",
+    "title": "AshuTeacher – Free AI tutor, voice blackboard and thesis studio",
+    "shortDescription": "Проект «AshuTeacher – Free AI tutor, voice blackboard and thesis studio», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AshuTeacher – Free AI tutor, voice blackboard and thesis studio», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://ashuteacher.vercel.app",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50662700",
+    "createdAt": "2026-11-27T04:45:33.810Z"
+  },
+  {
+    "slug": "gmbrank-google-business-profile-rank-tracking-with-geo-grid-maps-hn",
+    "title": "Gmbrank – Google Business Profile rank tracking with geo-grid maps",
+    "shortDescription": "Gmbrank tracks Google Business Profile rankings with geo-grid maps, showing how a business ranks for a keyword across locations in a city.…",
+    "fullDescription": "Gmbrank tracks Google Business Profile rankings with geo-grid maps, showing how a business ranks for a keyword across locations in a city. It also tracks reviews and visibility over time for local businesses and agencies. Public site: https:&#x2F;&#x2F;www.gmbrank.ai&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://gmbrank.ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50662462",
+    "createdAt": "2026-11-27T04:45:33.810Z"
+  },
+  {
+    "slug": "earthciv-civ-style-maps-of-real-countries-on-one-world-map-hn",
+    "title": "EarthCiv – Civ-style maps of real countries, on one world map",
+    "shortDescription": "Initially I added Canada to Andrej Karpathy&#x27;s usaciv ( https:&#x2F;&#x2F;karpathy.ai&#x2F;usaciv&#x2F; ), then found out about 40 othe…",
+    "fullDescription": "Initially I added Canada to Andrej Karpathy&#x27;s usaciv ( https:&#x2F;&#x2F;karpathy.ai&#x2F;usaciv&#x2F; ), then found out about 40 other people had done the same for their own countries. So EarthCiv is one world map that links them all. Click a country to open its map. It was built with Claude Code, same as the original.If you built one of the maps and want it added, changed or removed, there&#x27;s a form in the repo. MIT licensed: https:&#x2F;&#x2F;github.com&#x2F;earthciv&#x2F;earthciv\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://earthciv.org",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50661971",
+    "createdAt": "2026-11-27T04:45:33.810Z"
+  },
+  {
+    "slug": "scolast-ai-tutor-for-autodidacts-inspired-by-blooms-2-sigma-problem-hn",
+    "title": "Scolast – AI tutor for autodidacts inspired by Bloom's 2 sigma problem",
+    "shortDescription": "I was using Claude to learn physics and I was getting a bit frustrated with the interface (I kept interrupting the conversation to get a qu…",
+    "fullDescription": "I was using Claude to learn physics and I was getting a bit frustrated with the interface (I kept interrupting the conversation to get a quick explainer on something, and there was no good interface for Claude to ask me questions) so I built Scolast! It&#x27;s an AI tutor that follows Bloom&#x27;s findings ( https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Bloom%27s_2_sigma_problem ) that 1 to 1 tutoring, using mastery learning (basically only moving ahead when the student has demonstrated they learned something, but also moving ahead as quickly as possible) can have pretty incredible results, around two standard deviations higher than regular classroom learning. Bloom called it a problem because this was obviously untenable - but it&#x27;s actually possible now! I also added little side explainers for anything that&#x27;s confusing, plus worksheets, and I&#x27;ve been iterating on the voice of the tutor, to try to get a sort of Feynman-y focus on the whys and the experiments and experiences that motivated each piece of knowledge. I find that it&#x27;s quite remarkable, I&#x27;m actually retaining some of the physics I&#x27;ve never been able to retain in the past, and it seems useful in a lot of other domains - my wife used it for language learning and to pass a yoga exam; I&#x27;ve used it to learn some machine learning subjects, etc. One interesting side effect is that I find using it quite tiring, and I actually use tokens very slowly compared to agentic coding - when you actually have to read every token carefully you really get your money&#x27;s worth. Would love to get people&#x27;s thoughts so I&#x27;m throwing in $3 in free tokens while my budget lasts. After that you can buy tokens and I&#x27;m charging an extra 10% to cover everything else. Eventually I&#x27;d like to hook it up to people&#x27;s existing subscriptions, I&#x27;ve applied to OAI&#x27;s program for this, waiting to see if Ant will offer it. Cheers\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://scolast.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50661473",
+    "createdAt": "2026-11-27T04:45:33.811Z"
+  },
+  {
+    "slug": "linux-of-ai-score-and-prove-how-locked-in-your-ai-stack-is-hn",
+    "title": "Linux of AI, score and prove how locked-in your AI stack is",
+    "shortDescription": "Проект «Linux of AI, score and prove how locked-in your AI stack is», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Linux of AI, score and prove how locked-in your AI stack is», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/sekacorn/Linux-of-Ai",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50661086",
+    "createdAt": "2026-11-27T04:45:33.811Z"
+  },
+  {
+    "slug": "dailydev-do-you-still-know-the-code-you-ship-now-that-ai-writes-it-hn",
+    "title": "Dailydev – do you still know the code you ship now that AI writes it?",
+    "shortDescription": "AI writes all the things now. So I thought it would be fun to have a quiz to see how much we actually remember. Check it out and let me kno…",
+    "fullDescription": "AI writes all the things now. So I thought it would be fun to have a quiz to see how much we actually remember. Check it out and let me know your thoughts!\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://dailydev.gg",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50661061",
+    "createdAt": "2026-11-27T04:45:33.811Z"
+  },
+  {
+    "slug": "kaju-annotate-comment-and-collaborate-with-claude-code-hn",
+    "title": "Kaju – Annotate, comment and collaborate with Claude Code",
+    "shortDescription": "Проект «Kaju – Annotate, comment and collaborate with Claude Code», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Kaju – Annotate, comment and collaborate with Claude Code», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/aigeano/kaju",
+    "category": "other",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50660837",
+    "createdAt": "2026-11-27T04:45:33.811Z"
+  },
+  {
     "slug": "grind-my-opendocument-native-office-suite-built-in-rust-hn",
     "title": "Grind, my OpenDocument native office suite built in Rust",
     "shortDescription": "I was frustrated with the LibreOffice UX for a long time, and since AI agents have arrived I finally could build an alternative that works…",
