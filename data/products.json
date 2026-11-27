@@ -1,5 +1,209 @@
 [
   {
+    "slug": "interview-copilot-github",
+    "title": "interview-copilot",
+    "shortDescription": "Interview Copilot: EdTech Platform Connecting Learning to Your Dream Career",
+    "fullDescription": "Interview Copilot: EdTech Platform Connecting Learning to Your Dream Career\n\nАвтор: Birubhai1964. Найдено в GitHub Trending (AI-тематика). ⭐ 22 звёзд.",
+    "url": "https://github.com/Birubhai1964/interview-copilot",
+    "category": "chatbot",
+    "tags": [
+      "agentic-ai",
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "api",
+      "assistant",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1473710831",
+    "createdAt": "2026-11-27T23:12:17.766Z"
+  },
+  {
+    "slug": "final-round-ai-desktop-github",
+    "title": "final-round-ai-desktop",
+    "shortDescription": "Final Round AI Desktop: Real-Time Interview Coaching, Speech Transcription, and Response Suggestions",
+    "fullDescription": "Final Round AI Desktop: Real-Time Interview Coaching, Speech Transcription, and Response Suggestions\n\nАвтор: thebodytheory01-commits. Найдено в GitHub Trending (AI-тематика). ⭐ 21 звёзд.",
+    "url": "https://github.com/thebodytheory01-commits/final-round-ai-desktop",
+    "category": "chatbot",
+    "tags": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "ai-tools",
+      "claude-code",
+      "claude-skills",
+      "github",
+      "open-source"
+    ],
+    "image": "/images/placeholder-github.svg",
+    "source": "github",
+    "sourceId": "1473696118",
+    "createdAt": "2026-11-27T23:12:17.766Z"
+  },
+  {
+    "slug": "a-cli-that-measures-whether-ai-answers-cite-your-site-hn",
+    "title": "A CLI that measures whether AI answers cite your site",
+    "shortDescription": "Проект «A CLI that measures whether AI answers cite your site», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «A CLI that measures whether AI answers cite your site», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/routeflags/ai-citation-monitor",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50672315",
+    "createdAt": "2026-11-27T23:12:18.001Z"
+  },
+  {
+    "slug": "a-free-browser-backgammon-club-gnubgs-net-under-the-hood-hn",
+    "title": "A free browser backgammon club, gnubg's net under the hood",
+    "shortDescription": "Using Spawn, I&#x27;ve been building The Velvet Point, a rainy-night backgammon club you play in the browser (desktop or phone). You can pl…",
+    "fullDescription": "Using Spawn, I&#x27;ve been building The Velvet Point, a rainy-night backgammon club you play in the browser (desktop or phone). You can play the house opponents or real people, and chat at the tables. You will also get analytical (as well as snarky) comments from the AI opponents. Social features, leaderboards (ratings, PR, chips) also baked in. Has a review feature to show the best moves after your move. So no &quot;hint&quot; or tutoring before the move. I think you will learn better when you make a mistake - making a mistake will give your brain the feedback you need to learn better. Uses gnubg&#x27;s neural nets &amp; bear-off tables in the background, ported to run in the browser. It&#x27;s open source ( https:&#x2F;&#x2F;github.com&#x2F;ile&#x2F;the-velvet-point ). Play here: https:&#x2F;&#x2F;www.spawn.co&#x2F;@ilkkah&#x2F;the-velvet-point I&#x27;d love feedback. There may be bugs (hopefully just minor ones).\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://www.spawn.co/@ilkkah/the-velvet-point",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50670977",
+    "createdAt": "2026-11-27T23:12:18.001Z"
+  },
+  {
+    "slug": "machine-load-see-which-ai-coding-session-is-slowing-your-mac-hn",
+    "title": "Machine-load – see which AI coding session is slowing your Mac",
+    "shortDescription": "Проект «Machine-load – see which AI coding session is slowing your Mac», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Machine-load – see which AI coding session is slowing your Mac», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Stak-Technologies/machine-load",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50670688",
+    "createdAt": "2026-11-27T23:12:18.001Z"
+  },
+  {
+    "slug": "flowmaps-the-logic-layer-for-agents-and-developers-hn",
+    "title": "Flowmaps – the logic layer for agents and developers",
+    "shortDescription": "Hi everyone, I&#x27;ve spent the last few months building a tool called Flowmaps. It&#x27;s the logic layer for agents and developers. It s…",
+    "fullDescription": "Hi everyone, I&#x27;ve spent the last few months building a tool called Flowmaps. It&#x27;s the logic layer for agents and developers. It sits between your team and your codebase and constantly builds and maintains a logical map of what the code does. Agents are already writing a large volume of code. The bottleneck has become the process of understanding what it does. Agents don&#x27;t make the same mistakes that programmers do; instead the errors are usually related to logic that the agent doesn&#x27;t have full context on. Flowmaps helps you understand the what the code does without having to read it line-by-line. For developers, this means reviewing and understanding agent PRs without losing touch with the code. Agents also share an understanding of the code in a way that ensures consistency and less token spend across the organization. I&#x27;m looking for some early users to try it out for free and provide some feedback. If you&#x27;re interested, add yourself to the waitlist or send an email to demo@flowmaps.ai. Thanks!\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://flowmaps.ai/",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50669993",
+    "createdAt": "2026-11-27T23:12:18.001Z"
+  },
+  {
+    "slug": "aisbom-ml-model-scanner-now-with-a-public-list-of-what-it-misses-hn",
+    "title": "AIsbom – ML model scanner, now with a public list of what it misses",
+    "shortDescription": "Проект «AIsbom – ML model scanner, now with a public list of what it misses», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AIsbom – ML model scanner, now with a public list of what it misses», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/Lab700xOrg/aisbom/blob/main/docs/bypass-scorecard.md",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50669043",
+    "createdAt": "2026-11-27T23:12:18.001Z"
+  },
+  {
+    "slug": "soundetch-an-open-source-podcastmedia-editor-for-the-desktop-browser-hn",
+    "title": "SoundEtch, an open source podcast/media editor for the desktop browser",
+    "shortDescription": "I&#x27;ve been working on this project for a few years, and thinking about it for a few more years. Ever since the pandemic when I did my e…",
+    "fullDescription": "I&#x27;ve been working on this project for a few years, and thinking about it for a few more years. Ever since the pandemic when I did my entire job on a little Chromebook with browser-based tools; why not make an Audacity for the browser? Well, it turned out there were already a few &quot;Audacities for the Browser&quot; like https:&#x2F;&#x2F;audiomass.co&#x2F; (posted here a couple times already), https:&#x2F;&#x2F;naomiaro.com&#x2F;waveform-playlist&#x2F; , and a literal Audacity compiled to WebAssembly https:&#x2F;&#x2F;wavacity.com&#x2F; . SoundEtch is kind of a beefed up version of those. I made it with podcasters and other spoken-word creators in mind, rather than musicians, since there are a number of browser DAWs already e.g. OpenDAW. Everything is streamed to and from disk (OPFS), with an optional cloud backup. You can close or crash the browser tab, even in the middle of recording, and your data is still there when you open it back up. This also means you can load huge files; my parents&#x27; desktop with 8gb RAM handled this 5 hour stereo mp3 I found on archive https:&#x2F;&#x2F;archive.org&#x2F;details&#x2F;2023-09-08&#x2F;2023-09-10.mp3 . There&#x27;s a transcription-based editing tool like you get with Riverside and Descript. Mine uses IBM&#x27;s Granite Turbo model, plus some Codex&#x2F;Claude tweaking to get word-level timestamps. The result is, to my knowledge, much faster and more accurate than any other browser&#x2F;local ASR out there. It has a few quirks, though, like only emitting lower-case letters and spaces. I also added a WebRTC meeting room with up to 4 guests. It doesn&#x27;t have a TURN service, so some networks will block you from connecting. Since AI coding assistants are so good these days, I was able to add video support pretty easily. You can import, export, and record video, add that transcript with the current word highlighted, etc. The editing is pretty basic for now: you can trim the clips, move them around, add some effects including noise removal from DeepFilterNet ( https:&#x2F;&#x2F;github.com&#x2F;Rikorose&#x2F;DeepFilterNet ). I appreciate your taking a look and any feedback you have! The code is at https:&#x2F;&#x2F;github.com&#x2F;bfbsoundetch&#x2F;SoundEtch\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://soundetch.org",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50668765",
+    "createdAt": "2026-11-27T23:12:18.001Z"
+  },
+  {
+    "slug": "gpt-plays-civilization-hn",
+    "title": "GPT Plays Civilization",
+    "shortDescription": "Hey HN, I&#x27;ve always been a big fan of the Civ games, and was always frustrated at how terrible the AI was. So I got curious about whet…",
+    "fullDescription": "Hey HN, I&#x27;ve always been a big fan of the Civ games, and was always frustrated at how terrible the AI was. So I got curious about whether LLMs could play Civ well, or not! I thought about having the agents interact with the GUI directly, but something about that seemed like the wrong approach. For one thing, it seemed to me like images would cost way more in tokens. For another, LLMs seem like a different kind of intelligence from humans, so why would an interface meant for humans be optimal for them? Anyway, I spend a few weeks modifying Unciv [0], an open-source reimplementation of Civ V to have the right endpoints and views for an agent to be able to play civ in the same way a person could. You can see the first game running at the link. So far, it looks like the GPT models are able to play a reasonable game - definitely better than the built-in AI, which was my barometer for success! You can find the harness here: https:&#x2F;&#x2F;github.com&#x2F;varchasgopalaswamy&#x2F;unciv-ai . Let me know what you folks think! [0]: https:&#x2F;&#x2F;github.com&#x2F;yairm210&#x2F;Unciv\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://civ-bot.varchas.fyi/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50668715",
+    "createdAt": "2026-11-27T23:12:18.001Z"
+  },
+  {
+    "slug": "open-source-esp32-desk-body-for-a-local-ai-assistant-hn",
+    "title": "Open-source ESP32 desk body for a local AI assistant",
+    "shortDescription": "Here is a fun project if you want to make an open-source Meta Muse Charm. It is a cheap ESP32-S3 talking toy from Shanghai talking to my Ma…",
+    "fullDescription": "Here is a fun project if you want to make an open-source Meta Muse Charm. It is a cheap ESP32-S3 talking toy from Shanghai talking to my Mac&#x2F;Linux desktop app (BoBe), with zero API keys on the chip. I mapped the screen, audio and power-latch pins with no schematic, and wired a Raspberry Pi Pico 2 to press its physical buttons automatically behind a packet-loss router to test bad Wi-Fi. Not selling anything, just a hobby project, all is free and open source on GitHub, if you find it interesting feel free to use it: https:&#x2F;&#x2F;johnkozaris.com&#x2F;blog&#x2F;bobe-toy-robot-body\n\nНайдено в разделе Show HN на Hacker News. 👍 3 баллов.",
+    "url": "https://www.bobebot.com/body",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50668024",
+    "createdAt": "2026-11-27T23:12:18.001Z"
+  },
+  {
+    "slug": "targeted-mutation-testing-observation-guided-mutation-testing-tool-hn",
+    "title": "Targeted Mutation Testing – Observation-guided mutation testing tool",
+    "shortDescription": "Hi HN, I built a mutation testing tool that takes a different approach from the conventional one. I&#x27;m calling it Targeted Mutation Tes…",
+    "fullDescription": "Hi HN, I built a mutation testing tool that takes a different approach from the conventional one. I&#x27;m calling it Targeted Mutation Testing. As AI coding has become more common, mutation testing has become more important. It has helped me a lot personally. But ever since I first learned about it, I&#x27;ve kept wondering if there was a smarter way to do it. Targeted Mutation Testing observes a single test run and generates targeted mutants from what it sees. Of course, observation-guided rules have their own limits, so you can also combine them with classic mutation rules when you want more coverage. This post links to the Rust implementation, which I built first. I also built a JS&#x2F;TS implementation: https:&#x2F;&#x2F;github.com&#x2F;t-k&#x2F;targeted-mutation-ts What&#x27;s interesting about the JS&#x2F;TS version is that, by focusing on targeted mutants, mutation testing can become practical for E2E tests. I took inspiration from SEMu, DSpot, the W-method, and Meta&#x27;s ACH. I listed the links at the end. Would love any feedback. Thanks for taking a look. - Killing Stubborn Mutants with Symbolic Execution (SEMu): https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2001.02941 - Automatic Test Improvement with DSpot: https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;1811.08330 - Testing Software Design Modeled by Finite-State Machines (W-method): https:&#x2F;&#x2F;doi.org&#x2F;10.1109&#x2F;TSE.1978.231496 - Mutation-Guided LLM-based Test Generation at Meta (ACH): https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2501.12862\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/t-k/targeted-mutation",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50667811",
+    "createdAt": "2026-11-27T23:12:18.001Z"
+  },
+  {
+    "slug": "ai-agents-can-now-call-you-hn",
+    "title": "AI agents can now call you",
+    "shortDescription": "Проект «AI agents can now call you», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «AI agents can now call you», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://onair.io/blog/agents-can-call",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50667755",
+    "createdAt": "2026-11-27T23:12:18.001Z"
+  },
+  {
     "slug": "place-ai-and-math-breakthroughs-on-a-timeline-vs-scott-aaronson-hn",
     "title": "Place AI and math breakthroughs on a timeline vs. Scott Aaronson",
     "shortDescription": "Saw the Polylog × Scott Aaronson video https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=0xa_JFSUEDg and thought it would be cool to see other…",
