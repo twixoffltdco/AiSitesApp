@@ -1,5 +1,213 @@
 [
   {
+    "slug": "place-ai-and-math-breakthroughs-on-a-timeline-vs-scott-aaronson-hn",
+    "title": "Place AI and math breakthroughs on a timeline vs. Scott Aaronson",
+    "shortDescription": "Saw the Polylog × Scott Aaronson video https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=0xa_JFSUEDg and thought it would be cool to see other…",
+    "fullDescription": "Saw the Polylog × Scott Aaronson video https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=0xa_JFSUEDg and thought it would be cool to see other people&#x27;s ideas and timelines. Would be good to get thoughts and comments.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://youraitimelines.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50667356",
+    "createdAt": "2026-11-27T14:40:36.611Z"
+  },
+  {
+    "slug": "woodada-cats-that-run-across-your-taskbar-as-your-cpu-gets-busy-hn",
+    "title": "Woodada – Cats that run across your taskbar as your CPU gets busy",
+    "shortDescription": "Woodada is a free desktop app for windows and mac. Two cats, one for CPU and one for memory, run along your taskbar or Dock. The busier you…",
+    "fullDescription": "Woodada is a free desktop app for windows and mac. Two cats, one for CPU and one for memory, run along your taskbar or Dock. The busier your computer gets, the faster they run. I loved RunCat but wanted the cat actually running across my screen, where I&#x27;d notice it. The cat sprites come from RunCat365 (Apache 2.0). I built it with C#, .NET 9 and Avalonia, with help from AI. Just run the .exe or open the .dmg. As the cats run they collect fish, which you can spend on new colors and skins. The app isn&#x27;t code-signed yet, so you&#x27;ll see a warning the first time you open it. VirusTotal results are on the homepage: https:&#x2F;&#x2F;hyuntae-jeong.github.io&#x2F;Woodada&#x2F; I&#x27;d love your feedback!\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/Hyuntae-Jeong/Woodada",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50667197",
+    "createdAt": "2026-11-27T14:40:36.611Z"
+  },
+  {
+    "slug": "recon-air-gapped-preflight-data-gate-and-python-ast-adapter-compiler-hn",
+    "title": "Recon – Air-gapped preflight data gate and Python AST adapter compiler",
+    "shortDescription": "Проект «Recon – Air-gapped preflight data gate and Python AST adapter compiler», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Recon – Air-gapped preflight data gate and Python AST adapter compiler», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/swamigawai/recon",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50666947",
+    "createdAt": "2026-11-27T14:40:36.611Z"
+  },
+  {
+    "slug": "no-equipment-workout-generator-with-3d-to-2d-svg-figures-hn",
+    "title": "No-equipment workout generator with 3D-to-2D SVG figures",
+    "shortDescription": "Hey HN, I built* HIIT Builder ( https:&#x2F;&#x2F;hiitbuilder.app ) because I don&#x27;t want to get fat. Truly I could just stop there. Bu…",
+    "fullDescription": "Hey HN, I built* HIIT Builder ( https:&#x2F;&#x2F;hiitbuilder.app ) because I don&#x27;t want to get fat. Truly I could just stop there. But for more context, I got tired of hunting for YouTube workout videos that have both good routines and decent music. Turns out most YT workout creators, even the massive ones who could afford a license, have terrible music. So, fk it, I&#x27;ll build my own workout generator and play my own Spotify playlists instead. So far workouts have been completed across 13 countries (US, Iraq, Bangladesh, Austria, France, Germany, Brazil, Ukraine, Turkey, Netherlands, Spain, Chile, Australia), and someone in the Faroe Islands, either physically or maybe just their VPN, started one too. A few technical details that might be interesting to my fellow nerds here: After a few ugly first prototypes for the stick figures, I ended up using the strategy of modeling every animation as a compact 34-number pose vector (joint angles, abduction, etc.) like a 3D skeleton, then projecting it to a 2D SVG. That way any move can be rendered at any angle without having to re-do any major work. For workout order, instead of pure random shuffles the routine builder runs simulated annealing over a fixed standing&#x2F;floor block shape. This makes it so that trips to the floor are limited and muscle groups are rotated logically. Rest time is actually rest instead of using that time to get up or get down off the floor constantly. Since one of my main concerns was bringing your own music, there are no audio files at all. I did add countdown beeps though with synthesized chonky square waves so they cut through Spotify. *Full disclosure: Using &#x27;built&#x27; nowadays is a dividing term lol. I used AI to write all the code for it. And while I&#x27;ve spent many hours reviewing and tweaking poses over and over until the form cues actually looked right, a few of the moves still have noticeable quirks that AI is bad at noticing. If you spot any weird ones let me know.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://hiitbuilder.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50666506",
+    "createdAt": "2026-11-27T14:40:36.611Z"
+  },
+  {
+    "slug": "open-source-hotjar-for-ai-prototypes-hn",
+    "title": "Open-source Hotjar for AI prototypes",
+    "shortDescription": "Проект «Open-source Hotjar for AI prototypes», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Open-source Hotjar for AI prototypes», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://www.recap-ux.com/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50666422",
+    "createdAt": "2026-11-27T14:40:36.611Z"
+  },
+  {
+    "slug": "bloque-hosted-mcp-gateway-for-teams-without-an-it-department-hn",
+    "title": "Bloque – Hosted MCP gateway for teams without an IT department",
+    "shortDescription": "Bloque is a hosted MCP gateway for teams without an IT department. There are many MCP gateway products out there, but they are either overk…",
+    "fullDescription": "Bloque is a hosted MCP gateway for teams without an IT department. There are many MCP gateway products out there, but they are either overkill or too difficult to use. The pricing of a popular product starts at $500&#x2F;mo, another one requires you to have your own infrastructure, and so on. As the owner of a small company, I encourage my team members to use AI and MCP servers in their daily work, but don&#x27;t want to waste time helping them set them up. I also need to manage and monitor how they use them. With Bloque, I set up MCP servers once, issue API keys for my team members, and let them connect Claude, ChatGPT, or any tool of their choice to Bloque&#x27;s single endpoint. That part is easy. Then, I can manage and monitor who calls which tool, when. Bloque started as a fork of the MIT-licensed Plugged.in. We kept the MCP-related core, removed everything else, and rebuilt it as a multi-tenant hosted gateway. Other features include: - Teams - Isolated runtime environments (where stdio-based servers run) - Per-user 3LO: each team member can call MCP servers with their own credentials - Enable&#x2F;disable tools It&#x27;s a freemium service: - Free (shared runner, no MCP Playground) - Starter: $5&#x2F;mo (shared runner) - Pro: $25&#x2F;mo (dedicated runner) - Team: $29&#x2F;mo includes 2 seats, $7&#x2F;mo per additional seat (dedicated runner, team management) I would love feedback, especially from our target audience: one-person IT admins at SMEs.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://bloque.run",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50666037",
+    "createdAt": "2026-11-27T14:40:36.611Z"
+  },
+  {
+    "slug": "askama-analyzer-lsp-support-for-askama-templates-hn",
+    "title": "Askama-analyzer – LSP support for Askama templates",
+    "shortDescription": "I&#x27;ve spent quite a while now playing with non-react stacks out of boredom and curiosity, the one that&#x27;s stuck for me has been axu…",
+    "fullDescription": "I&#x27;ve spent quite a while now playing with non-react stacks out of boredom and curiosity, the one that&#x27;s stuck for me has been axum&#x2F;askama&#x2F;datastar, and I&#x27;m working on building up the ecosystem around these things. With a lot of templating alternatives to react, you miss out on the incredible type-safety TSX gives you, and those ergonomics are important to both manual and AI-assisted coding. The stack is pleasant to use, blindingly fast and low-resource-using, solid, and SSR by default. However, being able to drop into templates and edit them kinda sucked as you&#x27;re effectively blind. No more! With this and the zed extension, you now have full LSP support for symbols, clicking through to stuff, renaming, formatting, and type&#x2F;error checking using rust-analyzer.\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/radiosilence/askama-analyzer",
+    "category": "developer",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50665814",
+    "createdAt": "2026-11-27T14:40:36.611Z"
+  },
+  {
+    "slug": "open-sourced-code-mode-to-cut-60-of-my-rust-agents-token-burn-hn",
+    "title": "Open-Sourced Code Mode to Cut ~60% of My Rust Agent's Token Burn",
+    "shortDescription": "For those who are tracking, Anthropic released an announcement last week about their experimental code mode for Claude Code, claiming some…",
+    "fullDescription": "For those who are tracking, Anthropic released an announcement last week about their experimental code mode for Claude Code, claiming some bonkers token savings when it comes to tool calls (95% on some workloads(1)). I haven&#x27;t benchmarked it myself, but independent studies come in somewhere closer to 60~70% savings (2), but I digress. TLDR; I built an open-source version for the community. Context: I&#x27;m writing an AI RPG engine called Spookery, and I immediately wanted to try this technique for myself when I heard of it. Agent deployment is currently dominated by token costs, especially during tool calling (single prompt generating tens or hundreds of tool calls). Unfortunately, it looks like the only ones who are doing this seriously are big agentic products like Claude Code and Codex. So, I thought it&#x27;d be fun to try it myself and bring it to you all! The idea of Code Mode is simple but powerful. Instead of passing back tool call results back to the LLM one at a time, let the LLM batch calls by letting it write a short script using your tools. Basically taking 30 trips to the grocery store for 30 items and turning it into one trip to the store with a list in-hand. There&#x27;s a few near-ish open-source options, but they used TypeScript backends, we&#x27;re a little boilerplate heavy, and I wanted to have something a little faster and Rust friendly for my game engine. Pydantic&#x27;s Monty seemed a good candidate--their self-reports are around 5x faster on execution and 100x faster on startup (3). I wouldn&#x27;t take the numbers to the bank, but it&#x27;s written on a Rust framework and the python backend is entirely built from Rust too. Anyway, I had a couple of days off unexpectedly. So, I went temporarily insane and built a Rust tool to bring code mode to the greater community for free. In enough days to fit on one hand (and just as many hours of sleep), I came up with the implementation linked. I call it Ghost Mode. It&#x27;s MIT licensed. It&#x27;s a drop-in for your agent that already makes traditional tool calls. With ~20 lines of setup, you can convert your existing agent to a Code Mode agent. I hope you get something out of this, and maybe I can save you some money. Considering how limiting token economics are right now, I think this could be a game changer for the industry. If there&#x27;s interest, I can imagine we can build also add some great new features, language compatibility, and other great things. Thanks for reading :) Sources: (1) https:&#x2F;&#x2F;www.marktechpost.com&#x2F;2026&#x2F;11&#x2F;17&#x2F;anthropic-claude-cod... (2) https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2611.19123 (3) https:&#x2F;&#x2F;pydantic.dev&#x2F;docs&#x2F;monty&#x2F;get-started&#x2F;\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/legend-of-alan/ghostmode",
+    "category": "writing",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50665796",
+    "createdAt": "2026-11-27T14:40:36.611Z"
+  },
+  {
+    "slug": "slash-commands-and-ai-snippets-that-work-everywhere-you-type-hn",
+    "title": "Slash commands and AI snippets that work everywhere you type",
+    "shortDescription": "Проект «Slash commands and AI snippets that work everywhere you type», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Slash commands and AI snippets that work everywhere you type», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://slashanywhere.com",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50664856",
+    "createdAt": "2026-11-27T14:40:36.611Z"
+  },
+  {
+    "slug": "europe-instead-find-the-european-version-of-the-tools-you-use-hn",
+    "title": "Europe Instead – find the European version of the tools you use",
+    "shortDescription": "Hi HN, I&#x27;m Rafael. Europe Instead is a directory of European-made software: https:&#x2F;&#x2F;europeinstead.com I built it because eve…",
+    "fullDescription": "Hi HN, I&#x27;m Rafael. Europe Instead is a directory of European-made software: https:&#x2F;&#x2F;europeinstead.com I built it because every time we needed a new tool at my startup, Upgrid, I ended up doing the same research again: who actually owns this company, where is the data hosted, who are the subprocessors. After doing that enough times I got tired of it and started writing it down properly. The existing &quot;EU alternatives&quot; lists didn&#x27;t help much, because most check one thing, the legal seat. A company registered in Berlin can be owned by a US parent, run on AWS us-east-1, and send your data to a dozen US subprocessors. That is a different risk from a Berlin company on Hetzner. So every tool gets two separate answers: - Origin score (0-100): how European the company is, from five parts: legal entity, ownership and control, operations, data residency, and openness. Weights are published on the method page. - Exposure level (1-5): which jurisdictions can legally reach the core customer data, based on where it is hosted and who the subprocessors are. Every fact links to the page it came from, with the check date and usually a quoted line. If we couldn&#x27;t find evidence, the fact is shown as &quot;not verified&quot; and scores zero, rather than being guessed. Right now that is about a quarter of all facts, which tells you something about how little vendors disclose. Some details: - 1,818 tools from 33 countries, across 212 categories, mapped as alternatives to 453 US products (Calendly, Typeform, Intercom, Google Analytics, and so on). - Vendors can correct their record by form or email. Corrections are reviewed by a person and logged in a public change history. - Listing is free and unconditional. No backlink required, and rankings can&#x27;t be bought. If I ever sell sponsored slots, they sit above the ranked list with their own numbering and a &quot;Sponsored&quot; label; the ranking below always starts at 1 and doesn&#x27;t move. A few things you might find useful: - &quot;Alternative to X&quot; pages: name the tool you use today and see the European ones that do the same job. - Stacks: a full European set of tools for a small company, one per job. - A read-only API and an MCP server, so you can ask an AI assistant for a European alternative and get the sourced record back ( https:&#x2F;&#x2F;europeinstead.com&#x2F;developers ). - A free badge vendors can embed. It links to their live record and has no tracking. What I&#x27;d like from you: tell me where the data is wrong, and tell me where the method is wrong. In particular I&#x27;m unsure how to treat the UK and Switzerland (included, country always shown so you can apply a stricter definition), and whether &quot;uses AWS Frankfurt&quot; should count against a tool as much as it does now.\n\nНайдено в разделе Show HN на Hacker News. 👍 5 баллов.",
+    "url": "https://europeinstead.com",
+    "category": "chatbot",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50664795",
+    "createdAt": "2026-11-27T14:40:36.611Z"
+  },
+  {
+    "slug": "mobile-friendly-image-editor-inspired-by-gimp-layers-selection-etc-hn",
+    "title": "Mobile-friendly image editor inspired by GIMP (layers, selection, etc)",
+    "shortDescription": "I don&#x27;t know if anyone else is still out here crafting memes by hand... but I do! And I find the capabilities of frontier models jarri…",
+    "fullDescription": "I don&#x27;t know if anyone else is still out here crafting memes by hand... but I do! And I find the capabilities of frontier models jarringly bad with this regard. Also... memes are supposed to be made with love! Since I don&#x27;t always have access to my laptop, I want to be able to do real image editing on my phone. You know.. selection, layering, filters, etc. No OS image editor comes close to this and commercial ones are expensive or cluttered with ads. So I designed a mobile-friendly layout and tasked Claude to port over all of the GIMP tools to this mobile application. It also has some convenience features (AI object selection, tool lookup via BM25), but the core edit loop is similar to GIMP. The filters are the original GIMP filters but almost entirely ported to GPU! So I found it actually very responsive and usable on my potato phone even working on 12MP pictures. I found it fun to play with it and its finally on Google Play now! Let me know what you think :)\n\nНайдено в разделе Show HN на Hacker News. 👍 1 баллов.",
+    "url": "https://github.com/nielstron/brushkin",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50664650",
+    "createdAt": "2026-11-27T14:40:36.611Z"
+  },
+  {
+    "slug": "benchmark-of-ai-decision-models-on-systematic-review-screening-hn",
+    "title": "Benchmark of AI decision models on systematic-review screening",
+    "shortDescription": "Проект «Benchmark of AI decision models on systematic-review screening», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Benchmark of AI decision models on systematic-review screening», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 2 баллов.",
+    "url": "https://github.com/SmartMobileHouse/clinical-trial-decision-lab",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50664036",
+    "createdAt": "2026-11-27T14:40:36.611Z"
+  },
+  {
+    "slug": "telegram-image-bot-3-free-ai-images-a-day-1-usdt-10-hn",
+    "title": "Telegram image bot – 3 free AI images a day, 1 USDT = 10",
+    "shortDescription": "Проект «Telegram image bot – 3 free AI images a day, 1 USDT = 10», опубликован сообществом Hacker News.",
+    "fullDescription": "Проект «Telegram image bot – 3 free AI images a day, 1 USDT = 10», опубликован сообществом Hacker News.\n\nНайдено в разделе Show HN на Hacker News. 👍 4 баллов.",
+    "url": "https://alexchen-imgbot-sales.containers.snapdeploy.app/",
+    "category": "ai-tool",
+    "tags": [
+      "hacker-news",
+      "show-hn"
+    ],
+    "image": "/images/placeholder-hn.svg",
+    "source": "hackernews",
+    "sourceId": "50663124",
+    "createdAt": "2026-11-27T14:40:36.611Z"
+  },
+  {
     "slug": "crewvela-github",
     "title": "CrewVela",
     "shortDescription": "让 Claude Code、Codex 等编程 Agent 在同一桌面工作台里沟通、协作和交接。基于 Tauri 的多 Agent 工作台。",
